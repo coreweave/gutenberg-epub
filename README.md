@@ -5,24 +5,34 @@ Speeds of 2.5-5 million characters/second in testing (the novel 1984 in ~100-150
 
 ![Icon](./iconEpub.png)
 
+
+## Usage
+
+``` shell
+./convert <inputDir> <outputDir> <writeHeader>
+
+Example
+./convert -inputDir ./input -outputDir ./output -writeHeader=false
+```
+
+
 ---
+## Arguments
 
-How to run? The binary is included for the faster golang implementation
+Binary included with example folders.
 
-Simply call ./convert <inputDir> <outputDir> <writeHeader>
+Call ./convert <inputDir> <outputDir> <writeHeader>
 
 inputDir - string - the path to the input folder, defaults to ./input
 outputDir - string - the path to the output folder, defaults to ./output
 writeHeader - bool - If you want to write a header with some of the epub's metadata, defaults to true
 
 
->./convert -inputDir ./input -outputDir ./output -writeHeader=false
-
 ---
-
-Build with golang:
-
->go build convert.go
+## Build with golang
+```shell
+go build convert.go
+```
 
 Significant References:
 https://github.com/soskek/bookcorpus/blob/master/epub2txt.py
