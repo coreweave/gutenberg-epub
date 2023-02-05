@@ -36,6 +36,7 @@ go build convert.go
 
 Significant References:
 https://github.com/soskek/bookcorpus/blob/master/epub2txt.py
+
 https://github.com/taylorskalyo/goreader/tree/master/epub
 
 Taken from a section of code I wrote while working @ Coreweave in Feb 2023
