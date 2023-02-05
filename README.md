@@ -1,6 +1,7 @@
 # fast-epubtotxt
 A fast implementation of Golang epub to txt conversion.
 
+Speeds of 2.5-5 million characters/second in testing (the novel 1984 in ~100-150ms)
 
 ![Icon](./iconEpub.png)
 
