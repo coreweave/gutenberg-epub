@@ -8,7 +8,9 @@ import (
 	"io/fs"
 	"log"
 	"os"
+	"os/exec"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"time"
 	"unicode"
@@ -50,7 +52,7 @@ type metadata struct {
 	charCount   int
 	filename    string
 	identifier  string
-	subject     string
+	categories  []string
 	bookType    string
 	format      string
 	source      string
@@ -69,6 +71,7 @@ type programConfig struct {
 	silent            bool
 	skipCopyRight     bool
 	gutenbergCleaning bool
+	createSubsets     string
 }
 
 // Mini struct for files
@@ -81,13 +84,15 @@ type fileTrack struct {
 
 // Mini struct for counters
 type programCounter struct {
-	bookCount             int
-	fileCount             int
-	charCount             int
-	timeStart             time.Time
-	timeEnd               time.Time
-	finishedBooksCount    int
-	skippedDueToCopyRight int
+	bookCount                     int
+	fileCount                     int
+	charCount                     int
+	timeStart                     time.Time
+	timeEnd                       time.Time
+	finishedBooksCount            int
+	skippedDueToCopyRight         int
+	skippedDueToInsuffcientLength int
+	charCleanedCount              int
 }
 
 func main() {
@@ -124,7 +129,19 @@ func main() {
 		"Additions to the cleaning process for gutenberg books."+
 			"Must be used with -cleanOutput. Defaults to false")
 
+	createSubsetsPtr := flag.String("createSubsets", "book",
+		"Creates subsets of the books based on the metadata."+
+			"Options: author, category, book, categoryauthor. Defaults to 'book'")
+
 	flag.Parse()
+
+	//check createSubsets is valid
+	if *createSubsetsPtr != "author" && *createSubsetsPtr != "category" &&
+		*createSubsetsPtr != "book" && *createSubsetsPtr != "categoryauthor" {
+		fmt.Println("Error: createSubsets must be one of the following: author, category, book, categoryauthor")
+		*createSubsetsPtr = "book"
+		return
+	}
 
 	config := programConfig{
 		writeHeader:       *writeHeaderPtr,
@@ -135,15 +152,33 @@ func main() {
 		silent:            *silentPtr,
 		skipCopyRight:     *skipCopyRightPtr,
 		gutenbergCleaning: *gutenbergCleaningPtr,
+		createSubsets:     *createSubsetsPtr,
 	}
 	counters := programCounter{
-		bookCount:             0,
-		fileCount:             0,
-		charCount:             0,
-		timeStart:             time.Now(),
-		timeEnd:               time.Now(),
-		finishedBooksCount:    0,
-		skippedDueToCopyRight: 0,
+		bookCount:                     0,
+		fileCount:                     0,
+		charCount:                     0,
+		timeStart:                     time.Now(),
+		timeEnd:                       time.Now(),
+		finishedBooksCount:            0,
+		skippedDueToCopyRight:         0,
+		charCleanedCount:              0,
+		skippedDueToInsuffcientLength: 0,
+	}
+	//Write params
+	if !config.silent {
+		fmt.Println("Input Directory: ", *inputPTR)
+		fmt.Println("Output Directory: ", *outputPTR)
+		fmt.Println("Write Header: ", config.writeHeader)
+		fmt.Println("Write Metadata: ", config.writeMetadata)
+		fmt.Println("Clean Output: ", config.cleanOutput)
+		fmt.Println("Seperate Folders: ", config.seperateFolders)
+		fmt.Println("Stop Early: ", config.stopEarly)
+		fmt.Println("Silent: ", config.silent)
+		fmt.Println("Skip Copy Right: ", config.skipCopyRight)
+		fmt.Println("Gutenberg Cleaning: ", config.gutenbergCleaning)
+		fmt.Println("Create Subsets: ", config.createSubsets)
+		fmt.Println("------------\nStarting...\n")
 	}
 
 	//create output directory if it doesn't exist
@@ -201,6 +236,7 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 	//for each file, if it is an epub, convert it to txt
 	for _, file := range files {
 		if strings.HasSuffix(file.name, ".epub") {
+			//fmt.Printf("Open files %d\n", countOpenFiles()) //debugging
 			//We use the goreader library to parse the epub
 			rc, err := epub.OpenReader(file.path)
 			if err != nil {
@@ -210,20 +246,6 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 			// The rootfile (content.opf) lists all of the contents of an epub file.
 			// There may be multiple rootfiles, although typically there is only one.
 			book := rc.Rootfiles[0]
-
-			//generate output file name and file
-			outputFileName := strings.TrimSuffix(file.name, ".epub") + ".txt"
-			outputFilePath := outputdir + "/" + outputFileName
-			if config.seperateFolders {
-				os.Mkdir(outputdir+"/"+strings.TrimSuffix(file.name, ".epub"), 0755)
-				outputFilePath = outputdir + "/" + strings.TrimSuffix(file.name, ".epub") + "/" + outputFileName
-			}
-
-			outputFile, err := os.Create(outputFilePath)
-			if err != nil {
-				log.Fatal(err)
-			}
-			defer outputFile.Close()
 
 			// Print book title.
 			if !config.silent {
@@ -238,7 +260,7 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 			for _, itemref := range book.Spine.Itemrefs {
 				f, err := itemref.Open()
 				if err != nil {
-					panic(err)
+					log.Fatal(fmt.Printf("Error opening %s: %s\n", itemref.ID, err))
 				}
 
 				//parse the chapter into the stringbuilder
@@ -246,7 +268,7 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 				if err != nil {
 					log.Fatal(err)
 				}
-				bookstr += "CHAPTER_SEPERATOR\n"
+				bookstr += "CHAPTER_SEPERATOR"
 				bookstr += sbret.String()
 
 				// Close the itemref.
@@ -257,12 +279,20 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 			}
 
 			//clean the text if cleanOutput is true
-			if config.cleanOutput {
-				bookstr = cleanEpubString(bookstr, config)
-			}
-
+			lenBefore := (len(bookstr))
 			// count the number of characters
 			counters.charCount += len(bookstr)
+			bookstr = cleanEpubString(bookstr, config)
+			//count the number of characters removed
+			counters.charCleanedCount += lenBefore - len(bookstr)
+			fmt.Printf("Removed %d characters from %d characters\n", lenBefore-len(bookstr), lenBefore)
+
+			//if length is less than 2000 characters, skip the file
+			if len(bookstr) < 2000 {
+				fmt.Printf("Skipping file %s, too short (%d characters)\n", file.name, len(bookstr))
+				counters.skippedDueToInsuffcientLength++
+				continue
+			}
 
 			// Write metadata to a separate file if writeMetadata is true
 			bookMeta := new(metadata)
@@ -271,40 +301,79 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 			bookMeta.publisher = book.Metadata.Publisher
 			bookMeta.language = book.Metadata.Language
 			bookMeta.description = book.Metadata.Description
-			bookMeta.filename = outputFileName
+			bookMeta.filename = ""
 			bookMeta.charCount = counters.charCount
 			bookMeta.format = book.Metadata.Format
-			if bookMeta.subject == "" {
-				bookMeta.subject = book.Metadata.Subject
-			} else {
-				bookMeta.subject += ", " + book.Metadata.Subject
+			bookMeta.categories = []string{}
+			fmt.Printf("Categories: %s\n", book.Metadata.Subject)
+			bookMeta.categories = append(bookMeta.categories, book.Metadata.Subject)
+			//parse seperated categories
+			if len(book.Metadata.Subject) > 0 && strings.Contains(book.Metadata.Subject, " -- ") {
+				bookMeta.categories = strings.Split(book.Metadata.Subject, " -- ")
 			}
+
 			bookMeta.identifier = book.Metadata.Identifier
 			bookMeta.relation = book.Metadata.Relation
 			bookMeta.coverage = book.Metadata.Coverage
 			bookMeta.rights = book.Metadata.Rights
 
+			//if createSubsets is set to book, we don't change the output directory
+			//if it is set to author, we create a folder for each author
+			//if it is set to category, we create a folder for each category
+			//if it is set to categoryauthor, we create a folder for each category and then a folder for each author in that category
+
+			//generate output file name and file
+			outputFileName := strings.TrimSuffix(file.name, ".epub") + ".txt"
+			outputFilePath := ""
+			seperateFoldersExtension := ""
+			if config.seperateFolders {
+				seperateFoldersExtension = strings.TrimSuffix(file.name, ".epub")
+			}
+
+			if config.createSubsets == "book" {
+				outputFilePath = outputdir + "/" + seperateFoldersExtension + "/" + outputFileName
+			} else if config.createSubsets == "author" {
+				outputFilePath = outputdir + "/" + bookMeta.author + "/" + seperateFoldersExtension + "/" + outputFileName
+			} else if config.createSubsets == "category" {
+				outputFilePath = outputdir + "/" + bookMeta.categories[0] + "/" + seperateFoldersExtension + "/" + outputFileName
+			} else if config.createSubsets == "categoryauthor" {
+				outputFilePath = outputdir + "/" + bookMeta.categories[0] + "/" + bookMeta.author + "/" + seperateFoldersExtension + "/" + outputFileName
+			} else {
+				outputFilePath = outputdir + "/" + seperateFoldersExtension + "/" + outputFileName
+			}
+
+			fmt.Printf("Output file path: %s\n", outputFilePath)
+
 			if config.skipCopyRight {
 				isRestricted := checkMetaForCopyright(*bookMeta)
 				if isRestricted {
+					//close the file
+					if rc != nil {
+						rc.Close()
+					}
+
 					if !config.silent {
 						fmt.Println("Skipping restricted book: ", book.Title, "(file: ", file.name+")")
 					}
-					// clean up generated folder
-					if config.seperateFolders {
-						os.RemoveAll(outputdir + "/" + strings.TrimSuffix(file.name, ".epub"))
-					}
-
-					//clean up files
-					os.Remove(outputFilePath)
-
 					counters.skippedDueToCopyRight++
 					continue
+
 				}
 			}
 
+			//creates the path including the folders if they don't exist
+			err = os.MkdirAll(filepath.Dir(outputFilePath), os.ModePerm)
+			if err != nil {
+				log.Fatal(err)
+			}
+
+			outputFile, err := os.Create(outputFilePath)
+			if err != nil {
+				log.Fatal(err)
+			}
+
 			if config.writeMetadata {
-				writeMetadataToFile(bookMeta, outputdir, config)
+				writeMetadataToFile(bookMeta, outputFilePath, config)
 			}
 
 			//write the book title and author to the top of the file if writeHeader is true
@@ -317,70 +386,74 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 			outputFile.Write([]byte(bookstr))
 			counters.finishedBooksCount++
 
+			//close the file if not already closed
+			if outputFile != nil {
+				outputFile.Close()
+			}
+			if rc != nil {
+				rc.Close()
+			}
+
 		}
 
 	}
+
 	if counters.charCount > 0 {
 		counters.timeEnd = time.Now()
 		elapsed := counters.timeEnd.Sub(counters.timeStart)
 		fmt.Printf("--------------------\n")
 		fmt.Printf("Parsing took %s, parsed %d characters at a rate of %d characters per second.\n", elapsed, counters.charCount, int(float64(counters.charCount)/elapsed.Seconds()))
-		fmt.Printf("Parsed %d books, %d finished and %d skipped due to copy right.\n", len(files), counters.finishedBooksCount, counters.skippedDueToCopyRight)
+		fmt.Printf("Cleaned %d characters, %% of characters removed: %f%%\n", counters.charCleanedCount, float64(counters.charCleanedCount)/float64(counters.charCount)*100)
+		fmt.Printf("Parsed %d books, %d finished and %d skipped due to copy right, %d skipped due to insufficient length after cleaning (2000 char).\n", counters.bookCount, counters.finishedBooksCount, counters.skippedDueToCopyRight, counters.skippedDueToInsuffcientLength)
 	}
 }
 
 // writeMetadataToFile writes the metadata of a book to a file.
 func writeMetadataToFile(bookMeta *metadata, outputdir string, config programConfig) {
-	//generate output file name and file
-
-	outputFileName := strings.TrimSuffix(bookMeta.filename, ".txt") + ".metadata"
-	outputFilePath := outputdir + "/" + outputFileName
-	if config.seperateFolders {
-		os.Mkdir(outputdir+"/"+strings.TrimSuffix(bookMeta.filename, ".txt"), 0755)
-		outputFilePath = outputdir + "/" + strings.TrimSuffix(bookMeta.filename, ".txt") + "/" + outputFileName
+	if !config.writeMetadata {
+		return
 	}
+	//generate output file name and file
+	outputFilePath := strings.TrimSuffix(outputdir, ".txt") + ".metadata"
 
 	outputFile, err := os.Create(outputFilePath)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal(fmt.Sprintf("Error creating metadata file: %s", err))
 	}
 	defer outputFile.Close()
 
 	//write the book title and author to the top of the file if writeHeader is true
 	header := buildMetadataHeader(bookMeta)
 	outputFile.Write([]byte(header))
+	if outputFile != nil {
+		outputFile.Close()
+	}
+}
+
+func countOpenFiles() int {
+	out, err := exec.Command("/bin/sh", "-c", fmt.Sprintf("lsof -p %v", os.Getpid())).Output()
+	if err != nil {
+		log.Fatal(err)
+	}
+	lines := strings.Split(string(out), "\n")
+	return len(lines) - 1
 }
 
 func buildMetadataHeader(bookMeta *metadata) string {
 	var sb strings.Builder
-	//sb.WriteString("Title: " + bookMeta.title + " \n")
-	//sb.WriteString("Author: " + bookMeta.author + " \n")
-	////sb.WriteString("Publisher: " + bookMeta.publisher + " \n")
-	//sb.WriteString("Language: " + bookMeta.language + " \n")
-	//sb.WriteString("Description: " + bookMeta.description + " \n")
-	////sb.WriteString("Filename: " + bookMeta.filename + " \n")
-	//sb.WriteString("Character Count: " + strconv.Itoa(bookMeta.charCount) + " \n")
-	////sb.WriteString("Format: " + bookMeta.format + " \n")
-	//sb.WriteString("Subject: " + bookMeta.subject + " \n")
-	////sb.WriteString("Identifier: " + bookMeta.identifier + " \n")
-	////sb.WriteString("Relation: " + bookMeta.relation + " \n")
-	////sb.WriteString("Coverage: " + bookMeta.coverage + " \n")
-	//sb.WriteString("Rights: " + bookMeta.rights + " \n")
-	//sb.WriteString("---------------------\n\n")
-
 	//Header in format [ Author: ; Title: ; Genre: ; ]
 	sb.WriteString("[ ")
-	sb.WriteString("Author: " + bookMeta.author + " ; ")
-	sb.WriteString("Title: " + bookMeta.title + " ; ")
-	sb.WriteString("Genre: " + bookMeta.subject + " ; ")
+	sb.WriteString("Author: " + bookMeta.author + "; ")
+	sb.WriteString("Title: " + bookMeta.title + "; ")
+	sb.WriteString("Categories: " + strings.Join(bookMeta.categories, ", ") + "; ")
 	//Language
-	sb.WriteString("Language: " + bookMeta.language + " ; ")
+	sb.WriteString("Language: " + bookMeta.language + "; ")
 
-	sb.WriteString("]\n\n")
+	sb.WriteString("]\n")
 	return sb.String()
 }
 
-func cleanEpubString(input string, config programConfig) string {
+func basicCleanString(input string) string {
 	input = strings.ReplaceAll(input, "	", "")
 	input = strings.ReplaceAll(input, "  ", " ")
 	input = strings.ReplaceAll(input, "\r", "\n")
@@ -398,21 +471,25 @@ func cleanEpubString(input string, config programConfig) string {
 	input = strings.ReplaceAll(input, "”", "\"")
 	input = strings.ReplaceAll(input, "‘", "'")
 	input = strings.ReplaceAll(input, "’", "'")
+	return input
+}
 
-	//Unwrap text by adding a new line after every 1000 characters
-	//This is to prevent the text from being one long line
-
+func gutenBergLineSubstitution(input string, config programConfig) []string {
 	//TRIM for gutenburg
+	if !config.gutenbergCleaning {
+		return []string{input}
+	}
+
 	lines := strings.Split(input, "\n")
 	lineCount := len(lines)
-	CleanedLines := []string{}
-	if len(lines) == 0 {
-		return ""
+	if lineCount == 0 {
+		fmt.Printf("No lines to clean\n")
+		return lines
 	}
 
 	if config.gutenbergCleaning {
 		//remove before Introduction and after Footnotes
-		if len(lines) > 0 {
+		if lineCount > 0 {
 			// Attempt to catch more chapters since epub is rarely 100% accurate
 			for _, line := range lines {
 				if strings.Contains(line, "Chapter") || strings.Contains(line, "CHAPTER") && line != "CHAPTER_SEPERATOR" {
@@ -485,7 +562,7 @@ func cleanEpubString(input string, config programConfig) string {
 
 			for i, line := range lines {
 				linePercent := float64(i) / float64(lineCount)
-				if strings.Contains(line, "END OF THE PROJECT GUTENBERG EBOOK") && linePercent > 0.8 {
+				if strings.Contains(line, "END OF THE PROJECT GUTENBERG EBOOK") && linePercent > 0.3 {
 					lines = markLinesAfterForDeletion(lines, i)
 					break
 				}
@@ -513,41 +590,160 @@ func cleanEpubString(input string, config programConfig) string {
 			}
 		}
 	} else {
-		CleanedLines = lines
+		return lines
 	}
+	return lines
+}
 
-	// Resolve marks
+func resolveAllMarks(lines []string) []string {
+	for i, line := range lines {
+		if line == "MARKED_FOR_DELETION" {
+			lines[i] = ""
+		}
+	}
+	return lines[:len(lines)-2]
+}
+
+func cleanLineList(lines []string) []string {
+	//truncate leading spaces in each line
+	for line := range lines {
+		lines[line] = strings.TrimLeft(lines[line], " ")
+	}
+	//remove empty lines (lines that are just spaces or newlines)
+	CleanedLines := []string{}
 	for _, line := range lines {
-		if line != "MARKED_FOR_DELETION" {
+		trimmed := strings.Trim(strings.Trim(line, " "), "\n\n")
+		if trimmed != "" {
+			//fmt.Printf("trimmed: %s\n", trimmed)
 			CleanedLines = append(CleanedLines, line)
 		}
 	}
+	return CleanedLines
+}
 
-	//if book does not have chapter seperator in first 20 lines, add it
-	for i, line := range CleanedLines {
-		if strings.Contains(line, "CHAPTER_SEPERATOR") && i < 20 {
+func RemoveToCAndResolveChapterSeperators(lines []string, thresholdRemove int, rangeRemove int) string {
+	offset := 0
+	//if book does not have chapter seperator in first 10 lines, add it
+	for i, line := range lines {
+		if strings.Contains(line, "CHAPTER_SEPERATOR") && i < 10 {
 			break
 		}
-		if i > 20 {
-			CleanedLines = append([]string{"CHAPTER_SEPERATOR\n"}, CleanedLines...)
+		if i > 10 {
+			lines = append([]string{"CHAPTER_SEPERATOR\n"}, lines...)
+			offset = 1
 			break
 		}
 	}
 
-	//add chapter seperator
-	chapters := 1
-	for i, line := range CleanedLines {
-		if strings.Contains(line, "CHAPTER_SEPERATOR") {
-			CleanedLines[i] = fmt.Sprintf("***\nChapter %d\n", chapters)
-			chapters++
+	// Split story by CHAPTER_SEPERATOR and count number of numbers in each chapter
+	// If there are more than 10 numbers in a chapter, assume it is a chapter list and remove it
+	storyBuffer := strings.Join(lines, "\n")
+	chapterCount := 1
+	bookByChapters := strings.Split(storyBuffer, "CHAPTER_SEPERATOR")
+	totalChapterCount := len(bookByChapters)
+	story := ""
+
+	for _, chapter := range bookByChapters {
+		//only check first thresholdRemove and last thresholdRemove chapters
+		chapterTitle := ""
+		if chapterCount > thresholdRemove && chapterCount < totalChapterCount-thresholdRemove {
+			chapterCount++
+			if len(chapter) > thresholdRemove {
+				if strings.Count(chapter, "HEADER!") > 2 {
+					headerSplit := strings.Split(chapter, "HEADER!")
+
+					//try to get chapter title from header
+					if len(headerSplit) > 1 {
+						chapterTitle = strings.Split(headerSplit[1], "\n")[0]
+						if chapterTitle == "" {
+							chapterTitle = strings.Split(headerSplit[2], "\n")[0]
+						}
+						chapterTitle = strings.Trim(chapterTitle, " ")
+					}
+
+					//remove header tags and newlines
+					chapter = strings.ReplaceAll(chapter, "HEADER!", "\n")
+					chapter = strings.ReplaceAll(chapter, "\n ", "\n")
+					chapter = strings.ReplaceAll(chapter, "\n\n", "\n")
+				}
+
+				//write chapter to story including chapter seperator
+				story += fmt.Sprintf("\n***\n[ Chapter %d: %s ; ]\n", chapterCount-offset, chapterTitle)
+				story += chapter
+			}
+			continue
 		}
 
+		//attempt to count numbers in chapter to see if it is a chapter list
+		numbers := 0
+		chapter_nopunct := strings.ReplaceAll(chapter, ".", "")
+		chapter_nopunct = strings.ReplaceAll(chapter_nopunct, ",", "")
+		chapter_nopunct = strings.ReplaceAll(chapter_nopunct, "-", "")
+		words := strings.Split(chapter_nopunct, " ")
+
+		for _, word := range words {
+			if _, err := strconv.Atoi(word); err == nil {
+				numbers++
+			}
+		}
+		//add chapter to story if it is not a chapter list
+		if numbers > rangeRemove && len(chapter) < 10000 {
+			offset++
+		} else if len(chapter) > 10 {
+			//grab title if it exists
+			if strings.Count(chapter, "HEADER!") > 2 {
+				//check if there is more than 2 HEADER! in chapter
+				headerSplit := strings.Split(chapter, "HEADER!")
+				if len(headerSplit) > 1 {
+					chapterTitle = strings.Split(headerSplit[1], "\n")[0]
+					if chapterTitle == "" {
+						chapterTitle = strings.Split(headerSplit[2], "\n")[0]
+					}
+					chapterTitle = strings.Trim(chapterTitle, " ")
+				}
+				chapter = strings.ReplaceAll(chapter, "HEADER!", "\n")
+				chapter = strings.ReplaceAll(chapter, "\n ", "\n")
+				chapter = strings.ReplaceAll(chapter, "\n\n", "\n")
+			}
+			story += fmt.Sprintf("\n***\n[ Chapter %d: %s ; ]\n", chapterCount-offset, chapterTitle)
+			story += chapter
+
+		}
+
+		chapterCount++
 	}
-	//truncate the last two lines (last seperators)
-	if len(CleanedLines) > 2 {
-		CleanedLines = CleanedLines[:len(CleanedLines)-2]
+	return story
+}
+
+func cleanEpubString(input string, config programConfig) string {
+	//first pass to make it a bit more readable
+	input = basicCleanString(input)
+	if !config.cleanOutput {
+		input = strings.Replace(input, "PARAGRAPH", "\n", -1)
+		input = strings.Replace(input, "HEADER!", "\n", -1)
+		input = strings.Replace(input, "CHAPTER_SEPERATOR", "\n", -1)
+		return input
 	}
-	return strings.Join(CleanedLines, "\n")
+
+	//special gutenburg cleaning if enabled (trimming based on common gutenburg headers and footers)
+	CleanedLines := []string{}
+	if config.gutenbergCleaning {
+		CleanedLines = gutenBergLineSubstitution(input, config)
+		CleanedLines = resolveAllMarks(CleanedLines)
+	} else {
+		CleanedLines = cleanLineList(strings.Split(input, "\n"))
+	}
+
+	//resolve the paragraph and header marks from <p> tags
+
+	storyBuffer := strings.Join(CleanedLines, " ")
+	storyBuffer = strings.Replace(storyBuffer, "PARAGRAPH", "\n", -1)
+
+	CleanedLines = cleanLineList(strings.Split(storyBuffer, "\n"))
+	//CleanedLines = strings.Split(storyBuffer, "\n")
+	story := RemoveToCAndResolveChapterSeperators(CleanedLines, 20, 15)
+	story = strings.Replace(story, "HEADER!", "", -1)
+	return story
 }
 
 func markLineForDeletion(s []string, index int) []string {
@@ -576,12 +772,6 @@ func RemoveIndex(s []string, index int) []string {
 	ret := make([]string, 0)
 	ret = append(ret, s[:index]...)
 	return append(ret, s[index+1:]...)
-}
-
-func injectSeperatorLine(s []string, index int) []string {
-	//add line MARKED_
-	s[index] = "----------------------------------------"
-	return s
 }
 
 // parseText takes in html content via an io.Reader and returns a buffer
@@ -641,24 +831,25 @@ func (p *parser) handleText(token html.Token) {
 // tags) to the parser buffer.
 func (p *parser) handleStartTag(token html.Token) {
 	switch token.DataAtom {
-	case atom.Img:
-		// Display alt text in place of images.
-		for _, a := range token.Attr {
-			switch atom.Lookup([]byte(a.Key)) {
-			case atom.Alt:
-				text := fmt.Sprintf("Alt text: %s", a.Val)
-				p.doc.appendText(text)
-				p.doc.row++
-				p.doc.col = p.doc.lmargin
-			case atom.Src:
-				for _, item := range p.items {
-					if item.HREF == a.Val {
-
-						break
-					}
-				}
-			}
-		}
+	//case atom.Img:
+	//	// Display alt text in place of images.
+	//	for _, a := range token.Attr {
+	//		switch atom.Lookup([]byte(a.Key)) {
+	//		//case atom.Alt:
+	//		//text := fmt.Sprintf("Alt text: %s", a.Val)
+	//		//p.doc.appendText(text)
+	//		//p.doc.row++
+	//		//p.doc.col = p.doc.lmargin
+	//		//we dont care about alt text, and we dont want to display it
+	//		case atom.Src:
+	//			for _, item := range p.items {
+	//				if item.HREF == a.Val {
+	//
+	//					break
+	//				}
+	//			}
+	//		}
+	//	}
 	case atom.Br:
 		p.doc.row++
 		p.doc.col = p.doc.lmargin
@@ -666,10 +857,13 @@ func (p *parser) handleStartTag(token html.Token) {
 		atom.Div, atom.Tr:
 		p.doc.row += 2
 		p.doc.col = p.doc.lmargin
+		p.sb.WriteString("HEADER!")
+
 	case atom.P:
 		p.doc.row += 2
 		p.doc.col = p.doc.lmargin
 		p.doc.col += 2
+		p.sb.WriteString("PARAGRAPH")
 	case atom.Hr:
 		p.doc.row++
 		p.doc.col = 0

@@ -1,7 +1,8 @@
 # fast-epubtotxt
 A fast implementation of Golang epub to txt conversion.
 
-Speeds of 2.5-5.5 million characters/second in testing (the novel 1984 in ~100-150ms)
+Speeds of 4-6 million characters/second in testing (the novel 1984 in ~100-150ms)
+
 
 ![Icon](./iconEpub.png)
 
@@ -19,6 +20,8 @@ Example
 ---
 ## Arguments
 
+note: not exhaustively tested, please contact me or raise an issue if code doesn't work for a parameter combination
+
 Binary included with example folders.
 
 ```shell
@@ -26,14 +29,23 @@ Binary included with example folders.
 ```
 
 inputDir - string - the path to the input folder, defaults to ./input
+
 outputDir - string - the path to the output folder, defaults to ./output
+
 writeHeader - bool - If you want to write a header with some of the epub's metadata, defaults to true.
+
 writeMetadata - bool - If you want to write all metadata to a seperate file, defaults to false.
+
 cleanOutput - bool - If you want to clean the outputted text file for strange characters and spacing, defaults to true.
+
 gutenbergCleaning - bool - Additional output cleaning for gutenberg format books, defaults to false.
+
 seperateFolders - bool - If you want your epub and metadata to be written into a seperate folder per-book, defaults to false.
+
 stopEarly - bool - If you want the epubs to be converted to be limited to that number, defaults to 0 (unlimited).
+
 silent - bool - Silences console output, defaults to false.
+
 skipCopyRight - bool - Skips all books that is marked as copyrighted in the metadata, defaults to false.
 
 
