@@ -4,7 +4,7 @@ A fast `epub` to `txt` converter implemented in Golang. This converter acheives 
 
 ## Usage
 
-``` shell
+```bash
 ./convert \
     -inputDir [INPUT_DIRECTORY] \
     -outputDir [OUTPUT_DIRECTORY] \
@@ -17,7 +17,11 @@ A fast `epub` to `txt` converter implemented in Golang. This converter acheives 
     -skipCopyRight=[true|false] \
     -gutenbergCleaning=[true|false]
 
-Example
+```
+
+Example:
+
+```bash
 ./convert \
     -inputDir ../data/test-lib \
     -outputDir ./output \
