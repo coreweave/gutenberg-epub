@@ -36,36 +36,18 @@ Example:
 
 ## Arguments
 
-* `inputDir` _string_
-  * Path to the input folder.
-  * Default: `./input`
-* `outputDir` _string_
-  * Path to the output folder.
-  * Default: `./output`
-* `writeHeader` _bool_
-  * If `true`, write a header to the `*.txt` file with some of the epub's metadata. 
-  * Default: `true`
-* `writeMetadata` _bool_
-  * If `true`, write all metadata to a seperate file.
-  * Default: `false`
-* `cleanOutput` _bool_
-  * If `true`, remove strange characters and spacing from the output.
-  * Default: `true`
-* `gutenbergCleaning` _bool_
-  * If `true`, perform additional output cleaning for Gutenberg format books.
-  * Default: `false`
-* `seperateFolders` _bool_
-  * If `true`, write epub and metadata to a seperate folder per book.
-  * Default: `false`
-* `stopEarly` _int_
-  * The number of books to process before stopping.
-  * Default: `0` (unlimited).
-* `silent` _bool_
-  * If `true`, suppress console output.
-  * Default:  `false`
-* `skipCopyRight` _bool_
-  * If `true`, skip all books marked as copyrighted in the metadata.
-  * Default: `false`
+| Argument | Type | Description | Default Value |
+| -------- | ---- | ----------- | ------------- |
+| `inputDir` | _string_ | Input folder path | `./input` |
+| `outputDir` | _string_ | Output folder path | `./output` | 
+| `writeHeader` | _bool_ | Write a metadata header to the `*.txt` file. | `true` |
+| `writeMetadata` | _bool_ | Write metadata to a seperate file. | `false` |
+| `cleanOutput` | _bool_ | Remove strange characters and spacing from the output. | `true` |
+| `gutenbergCleaning` | _bool_ | Perform additional output cleaning for Gutenberg format books. | `false` |
+| `seperateFolders` | _bool_ | Write epub and metadata to a seperate folder per book. | `false` |
+| `stopEarly` | _int_ | The number of books to process before stopping. | `0` (unlimited) |
+| `silent` | _bool_ | Suppress console output. | `false` |
+| `skipCopyRight` | _bool_ | Skip all books marked as copyrighted in the metadata. | `false` |
 
 ## Build instructions
 
