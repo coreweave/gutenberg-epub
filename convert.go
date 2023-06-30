@@ -614,7 +614,6 @@ func cleanLineList(lines []string) []string {
 	for _, line := range lines {
 		trimmed := strings.Trim(strings.Trim(line, " "), "\n\n")
 		if trimmed != "" {
-			//fmt.Printf("trimmed: %s\n", trimmed)
 			CleanedLines = append(CleanedLines, line)
 		}
 	}
@@ -647,7 +646,7 @@ func RemoveToCAndResolveChapterSeperators(lines []string, thresholdRemove int, r
 		//only check first thresholdRemove and last thresholdRemove chapters
 		chapterTitle := ""
 		if chapterCount > thresholdRemove && chapterCount < totalChapterCount-thresholdRemove {
-			chapterCount++
+
 			if len(chapter) > thresholdRemove {
 				if strings.Count(chapter, "HEADER!") > 2 {
 					headerSplit := strings.Split(chapter, "HEADER!")
@@ -668,8 +667,10 @@ func RemoveToCAndResolveChapterSeperators(lines []string, thresholdRemove int, r
 				}
 
 				//write chapter to story including chapter seperator
+
 				story += fmt.Sprintf("\n***\n[ Chapter %d: %s ; ]\n", chapterCount-offset, chapterTitle)
 				story += chapter
+				chapterCount++
 			}
 			continue
 		}
@@ -679,6 +680,8 @@ func RemoveToCAndResolveChapterSeperators(lines []string, thresholdRemove int, r
 		chapter_nopunct := strings.ReplaceAll(chapter, ".", "")
 		chapter_nopunct = strings.ReplaceAll(chapter_nopunct, ",", "")
 		chapter_nopunct = strings.ReplaceAll(chapter_nopunct, "-", "")
+		chapter_nopunct = strings.ReplaceAll(chapter_nopunct, "HEADER", "")
+		chapter_nopunct = strings.TrimSpace(chapter_nopunct)
 		words := strings.Split(chapter_nopunct, " ")
 
 		for _, word := range words {
@@ -689,7 +692,7 @@ func RemoveToCAndResolveChapterSeperators(lines []string, thresholdRemove int, r
 		//add chapter to story if it is not a chapter list
 		if numbers > rangeRemove && len(chapter) < 10000 {
 			offset++
-		} else if len(chapter) > 10 {
+		} else if len(chapter_nopunct) > 30 {
 			//grab title if it exists
 			if strings.Count(chapter, "HEADER!") > 2 {
 				//check if there is more than 2 HEADER! in chapter
@@ -705,12 +708,14 @@ func RemoveToCAndResolveChapterSeperators(lines []string, thresholdRemove int, r
 				chapter = strings.ReplaceAll(chapter, "\n ", "\n")
 				chapter = strings.ReplaceAll(chapter, "\n\n", "\n")
 			}
+			if chapterCount == 0 {
+				chapterCount++
+			}
 			story += fmt.Sprintf("\n***\n[ Chapter %d: %s ; ]\n", chapterCount-offset, chapterTitle)
 			story += chapter
-
+			chapterCount++
 		}
 
-		chapterCount++
 	}
 	return story
 }
