@@ -5,7 +5,7 @@ A fast `epub` to `txt` converter implemented in Golang. This converter acheives 
 ## Usage
 
 ```bash
-./convert \
+./gutenberg-epub-converter \
     -inputDir [INPUT_DIRECTORY] \
     -outputDir [OUTPUT_DIRECTORY] \
     -writeHeader=[true|false] \
@@ -22,7 +22,7 @@ A fast `epub` to `txt` converter implemented in Golang. This converter acheives 
 Example:
 
 ```bash
-./convert \
+./gutenberg-epub-converter \
     -inputDir ../data/test-lib \
     -outputDir ./output \
     -writeHeader=true \
@@ -54,7 +54,7 @@ Example:
 Build the converter with golang.
 
 ```shell
-go build convert.go
+go build gutenberg-epub-converter.go
 ```
 
 ## Official icon
