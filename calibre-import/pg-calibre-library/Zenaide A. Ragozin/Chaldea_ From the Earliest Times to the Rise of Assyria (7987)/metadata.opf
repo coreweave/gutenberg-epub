@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ce7d5f3-a575-4813-b0d5-205930887f08</dc:identifier>
+        <dc:title>Chaldea: From the Earliest Times to the Rise of Assyria</dc:title>
+        <dc:creator opf:file-as="Ragozin, Zénaïde A. (Zénaïde Alexeïevna)" opf:role="aut">Zénaïde A. Ragozin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24654</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Babylonia -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zénaïde A. Ragozin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:57:55.070482+00:00"/>
+        <meta name="calibre:title_sort" content="Chaldea: From the Earliest Times to the Rise of Assyria"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

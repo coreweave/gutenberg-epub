@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ffdcb83-6385-4e2a-a2be-98a1e0c0c317</dc:identifier>
+        <dc:title>A searchlight on Germany: Germany's Blunders, Crimes and Punishment</dc:title>
+        <dc:creator opf:file-as="Hornaday, William T. (William Temple)" opf:role="aut">William T. Hornaday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53814</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Causes</dc:subject>
+        <dc:subject>1914-1918 -- Atrocities -- Germany</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William T. Hornaday&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:16.708721+00:00"/>
+        <meta name="calibre:title_sort" content="searchlight on Germany: Germany's Blunders, Crimes and Punishment, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

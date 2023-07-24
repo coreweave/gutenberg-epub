@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">802f9074-e60a-4fa2-aab8-1d5c4a13a65a</dc:identifier>
+        <dc:title>A Far Country — Volume 3</dc:title>
+        <dc:creator opf:file-as="Churchill, Winston" opf:role="aut">Winston Churchill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3738</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Upper class families -- Fiction</dc:subject>
+        <dc:subject>Religion and sociology -- Fiction</dc:subject>
+        <dc:subject>Ethics -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Winston Churchill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:40:57.696840+00:00"/>
+        <meta name="calibre:title_sort" content="Far Country — Volume 3, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

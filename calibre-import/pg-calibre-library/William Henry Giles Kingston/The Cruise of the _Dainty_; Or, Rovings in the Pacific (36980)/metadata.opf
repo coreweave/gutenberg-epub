@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f8b499f-959d-4ae8-89b5-e284357b9695</dc:identifier>
+        <dc:title>The Cruise of the "Dainty"; Or, Rovings in the Pacific</dc:title>
+        <dc:creator opf:file-as="Kingston, William Henry Giles" opf:role="aut">William Henry Giles Kingston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21456</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>Schooners -- Juvenile fiction</dc:subject>
+        <dc:subject>Islands of the Pacific -- Juvenile fiction</dc:subject>
+        <dc:subject>Missions -- Islands of the Pacific -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Giles Kingston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:53:58.136240+00:00"/>
+        <meta name="calibre:title_sort" content="Cruise of the &quot;Dainty&quot;; Or, Rovings in the Pacific, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

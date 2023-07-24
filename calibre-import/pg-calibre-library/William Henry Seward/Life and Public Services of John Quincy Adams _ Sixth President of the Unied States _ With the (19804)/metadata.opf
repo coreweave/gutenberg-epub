@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73ac2e4d-4ba3-4fd7-9557-2b9a7a86b1bf</dc:identifier>
+        <dc:title>Life and Public Services of John Quincy Adams / Sixth President of the Unied States / With the Eulogy Delivered Before the Legislature of New York</dc:title>
+        <dc:creator opf:file-as="Seward, William Henry" opf:role="aut">William Henry Seward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18196</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <dc:subject>Adams</dc:subject>
+        <dc:subject>John Quincy</dc:subject>
+        <dc:subject>1767-1848</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1825-1829</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Seward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:57:02.586527+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Public Services of John Quincy Adams / Sixth President of the Unied States / With the Eulogy Delivered Before the Legislature of New York"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

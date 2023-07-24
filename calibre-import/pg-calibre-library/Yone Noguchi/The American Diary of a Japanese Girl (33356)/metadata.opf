@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89e85055-3ca5-47a2-a1f7-1b4349666df5</dc:identifier>
+        <dc:title>The American Diary of a Japanese Girl</dc:title>
+        <dc:creator opf:file-as="Noguchi, Yoné" opf:role="aut">Yoné Noguchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63256</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Japan -- Fiction</dc:subject>
+        <dc:subject>Japanese -- United States -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yoné Noguchi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:53:38.718031+00:00"/>
+        <meta name="calibre:title_sort" content="American Diary of a Japanese Girl, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db9ac6dc-1710-4be0-b159-802b5e532e08</dc:identifier>
+        <dc:title>Aether and Gravitation</dc:title>
+        <dc:creator opf:file-as="Hooper, William George" opf:role="aut">William George Hooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24667</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Force and energy</dc:subject>
+        <dc:subject>Ether (Space)</dc:subject>
+        <dc:subject>Gravitation</dc:subject>
+        <dc:subject>Matter</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William George Hooper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:07.039445+00:00"/>
+        <meta name="calibre:title_sort" content="Aether and Gravitation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

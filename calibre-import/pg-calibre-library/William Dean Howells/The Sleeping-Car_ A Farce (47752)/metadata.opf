@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70caaf12-ea79-475e-b523-831332067736</dc:identifier>
+        <dc:title>The Sleeping-Car: A Farce</dc:title>
+        <dc:creator opf:file-as="Howells, William Dean" opf:role="aut">William Dean Howells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>American drama -- 19th century</dc:subject>
+        <dc:subject>Railroad travel -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Dean Howells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:48:56.257809+00:00"/>
+        <meta name="calibre:title_sort" content="Sleeping-Car: A Farce, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

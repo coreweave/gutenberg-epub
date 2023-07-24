@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d55b2dbe-b547-4c08-a195-c0b6679523fd</dc:identifier>
+        <dc:title>Self-Instructor in the Art of Hair Work, Dressing Hair, Making Curls, Switches, Braids, and Hair Jewelry of Every Description.</dc:title>
+        <dc:creator opf:file-as="Campbell, Mark, active 19th century" opf:role="aut">active 19th century Mark Campbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38658</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hairwork</dc:subject>
+        <dc:subject>Hairdressing</dc:subject>
+        <dc:subject>Jewelry -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 19th century Mark Campbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:21:28.408030+00:00"/>
+        <meta name="calibre:title_sort" content="Self-Instructor in the Art of Hair Work, Dressing Hair, Making Curls, Switches, Braids, and Hair Jewelry of Every Description."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

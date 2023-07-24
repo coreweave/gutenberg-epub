@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e90773e-ed84-4c8f-8497-14d839643446</dc:identifier>
+        <dc:title>The Saint of the Dragon's Dale: A Fantastical Tale</dc:title>
+        <dc:creator opf:file-as="Davis, William Stearns" opf:role="aut">William Stearns Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kidnapping -- Fiction</dc:subject>
+        <dc:subject>Witches -- Fiction</dc:subject>
+        <dc:subject>Hermits -- Fiction</dc:subject>
+        <dc:subject>Germany -- Social life and customs -- Middle Ages</dc:subject>
+        <dc:subject>500-1500 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Stearns Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:10:24.856955+00:00"/>
+        <meta name="calibre:title_sort" content="Saint of the Dragon's Dale: A Fantastical Tale, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

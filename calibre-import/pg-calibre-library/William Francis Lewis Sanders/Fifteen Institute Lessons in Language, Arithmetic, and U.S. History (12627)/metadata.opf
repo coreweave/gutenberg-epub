@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a77ae877-e3e5-4f18-bc4d-2368ac4d1b43</dc:identifier>
+        <dc:title>Fifteen Institute Lessons in Language, Arithmetic, and U.S. History</dc:title>
+        <dc:creator opf:file-as="Sanders, William Francis Lewis" opf:role="aut">William Francis Lewis Sanders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52429</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Outlines</dc:subject>
+        <dc:subject>syllabi</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Language arts -- Problems</dc:subject>
+        <dc:subject>exercises</dc:subject>
+        <dc:subject>Arithmetic -- Outlines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Francis Lewis Sanders&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:59:59.675326+00:00"/>
+        <meta name="calibre:title_sort" content="Fifteen Institute Lessons in Language, Arithmetic, and U.S. History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

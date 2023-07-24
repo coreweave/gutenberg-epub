@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c87a4bd8-0099-48c0-a182-533872237e62</dc:identifier>
+        <dc:title>Heroes of Science: Physicists</dc:title>
+        <dc:creator opf:file-as="Garnett, William" opf:role="aut">William Garnett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physicists</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Garnett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:32:15.970751+00:00"/>
+        <meta name="calibre:title_sort" content="Heroes of Science: Physicists"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

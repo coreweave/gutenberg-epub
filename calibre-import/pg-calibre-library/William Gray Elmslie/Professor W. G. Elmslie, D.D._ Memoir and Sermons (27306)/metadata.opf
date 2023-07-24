@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d73b7812-1364-499e-8c44-c59c4b3e2c28</dc:identifier>
+        <dc:title>Professor W. G. Elmslie, D.D.: Memoir and Sermons</dc:title>
+        <dc:creator opf:file-as="Elmslie, William Gray" opf:role="aut">William Gray Elmslie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60348</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Elmslie</dc:subject>
+        <dc:subject>William Gray</dc:subject>
+        <dc:subject>1848-1889</dc:subject>
+        <dc:subject>Theologians -- Scotland -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Gray Elmslie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:08:01.280971+00:00"/>
+        <meta name="calibre:title_sort" content="Professor W. G. Elmslie, D.D.: Memoir and Sermons"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

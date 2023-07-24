@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2528</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f31f4b4d-d124-41e4-a726-24e9b4a67e9f</dc:identifier>
+        <dc:title>A Sketch of the Life of Brig. Gen. Francis Marion and a History of His Brigade</dc:title>
+        <dc:creator opf:file-as="James, William Dobein" opf:role="aut">William Dobein James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marion</dc:subject>
+        <dc:subject>Francis</dc:subject>
+        <dc:subject>1732-1795</dc:subject>
+        <dc:subject>Generals -- United States -- Biography</dc:subject>
+        <dc:subject>South Carolina -- Militia -- Biography</dc:subject>
+        <dc:subject>South Carolina -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>Swamp Fox</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1732-1795 -- Correspondence</dc:subject>
+        <dc:subject>Greene</dc:subject>
+        <dc:subject>Nathanael</dc:subject>
+        <dc:subject>1742-1786 -- Correspondence</dc:subject>
+        <dc:subject>United States. Continental Army -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Dobein James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:06:07.854240+00:00"/>
+        <meta name="calibre:title_sort" content="Sketch of the Life of Brig. Gen. Francis Marion and a History of His Brigade, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

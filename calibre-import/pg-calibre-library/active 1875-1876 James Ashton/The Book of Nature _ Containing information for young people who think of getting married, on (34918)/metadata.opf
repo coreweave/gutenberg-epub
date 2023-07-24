@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34918</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcb0fc0a-ff88-460c-8079-b780be8886af</dc:identifier>
+        <dc:title>The Book of Nature / Containing information for young people who think of getting married, on the philosophy of procreation and sexual intercourse, showing how to prevent conception and to avoid child-bearing: also, rules for management during labor and child-birth</dc:title>
+        <dc:creator opf:file-as="Ashton, James, active 1875-1876" opf:role="aut">active 1875-1876 James Ashton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62705</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marriage</dc:subject>
+        <dc:subject>Sex</dc:subject>
+        <dc:subject>Pregnancy</dc:subject>
+        <dc:subject>Contraception</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1875-1876 James Ashton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:10:37.197212+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Nature / Containing information for young people who think of getting married, on the philosophy of procreation and sexual intercourse, showing how to prevent conception and to avoid child-bearing: also, rules for management during labor and child-birth, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67148339-fe77-4d90-9bc4-d8ebe8201492</dc:identifier>
+        <dc:title>The Face of the Earth as Seen from the Air / A Study in the Application of Airplane Photography to Geography</dc:title>
+        <dc:creator opf:file-as="Lee, Willis T. (Willis Thomas)" opf:role="aut">Willis T. Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physical geography</dc:subject>
+        <dc:subject>Cartography</dc:subject>
+        <dc:subject>Aerial photography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willis T. Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:02:13.262251+00:00"/>
+        <meta name="calibre:title_sort" content="Face of the Earth as Seen from the Air / A Study in the Application of Airplane Photography to Geography, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

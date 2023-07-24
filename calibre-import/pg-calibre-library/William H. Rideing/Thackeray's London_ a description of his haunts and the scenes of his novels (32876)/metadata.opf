@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5770626-0738-47df-a039-994370ea9c63</dc:identifier>
+        <dc:title>Thackeray's London: a description of his haunts and the scenes of his novels</dc:title>
+        <dc:creator opf:file-as="Rideing, William H. (William Henry)" opf:role="aut">William H. Rideing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62280</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary landmarks -- England -- London</dc:subject>
+        <dc:subject>London (England) -- In literature</dc:subject>
+        <dc:subject>Thackeray</dc:subject>
+        <dc:subject>William Makepeace</dc:subject>
+        <dc:subject>1811-1863 -- Homes and haunts -- England -- London</dc:subject>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- Homes and haunts -- England -- London</dc:subject>
+        <dc:subject>London (England) -- Intellectual life -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William H. Rideing&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:30:15.927407+00:00"/>
+        <meta name="calibre:title_sort" content="Thackeray's London: a description of his haunts and the scenes of his novels"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

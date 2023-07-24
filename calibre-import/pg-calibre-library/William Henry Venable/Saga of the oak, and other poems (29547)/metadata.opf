@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3307567c-a61f-4a74-ba90-a69c81a5e11e</dc:identifier>
+        <dc:title>Saga of the oak, and other poems</dc:title>
+        <dc:creator opf:file-as="Venable, William Henry" opf:role="aut">William Henry Venable</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64148</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Venable&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:49:12.587148+00:00"/>
+        <meta name="calibre:title_sort" content="Saga of the oak, and other poems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e5b6d17-3b87-4db5-8068-3abef78c56d9</dc:identifier>
+        <dc:title>The Memoirs of General Baron de Marbot</dc:title>
+        <dc:creator opf:file-as="Marbot, Jean-Baptiste-Antoine-Marcelin, baron de" opf:role="aut">baron de Jean-Baptiste-Antoine-Marcelin Marbot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2401</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marbot</dc:subject>
+        <dc:subject>Jean-Baptiste-Antoine-Marcelin</dc:subject>
+        <dc:subject>baron de</dc:subject>
+        <dc:subject>1782-1854</dc:subject>
+        <dc:subject>France. Armée</dc:subject>
+        <dc:subject>Generals -- France -- Biography</dc:subject>
+        <dc:subject>Napoleonic Wars</dc:subject>
+        <dc:subject>1800-1815 -- Personal narratives</dc:subject>
+        <dc:subject>French</dc:subject>
+        <dc:subject>1800-1815 -- Campaigns</dc:subject>
+        <dc:subject>France -- History</dc:subject>
+        <dc:subject>Military -- 1789-1815</dc:subject>
+        <dc:subject>Europe -- History -- 1789-1815</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;baron de Jean-Baptiste-Antoine-Marcelin Marbot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:32:11.543996+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of General Baron de Marbot, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

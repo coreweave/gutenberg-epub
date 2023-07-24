@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f54d176-70a3-4074-a219-00b7e672fa85</dc:identifier>
+        <dc:title>Letters on the Cholera Morbus. / Containing ample evidence that this disease, under whatever / name known, cannot be transmitted from the persons of those / labouring under it to other individuals, by contact—through / the medium of inanimate substances—or through the medium / of the atmosphere; and that all restrictions, by cordons / and quarantine regulations, are, as far as regards this / disease, not merely useless, but highly injurious to the / community.</dc:title>
+        <dc:creator opf:file-as="Fergusson, William" opf:role="aut">William Fergusson</dc:creator>
+        <dc:creator opf:file-as="Fergusson, William" opf:role="aut">J. Gillkrest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28147</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gastroenteritis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Fergusson&quot;: &quot;&quot;, &quot;J. Gillkrest&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:51:43.360079+00:00"/>
+        <meta name="calibre:title_sort" content="Letters on the Cholera Morbus. / Containing ample evidence that this disease, under whatever / name known, cannot be transmitted from the persons of those / labouring under it to other individuals, by contact—through / the medium of inanimate substances—or through the medium / of the atmosphere; and that all restrictions, by cordons / and quarantine regulations, are, as far as regards this / disease, not merely useless, but highly injurious to the / community."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

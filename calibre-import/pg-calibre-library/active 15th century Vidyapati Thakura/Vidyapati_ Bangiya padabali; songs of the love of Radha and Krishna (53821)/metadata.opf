@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac0b47f1-899c-4fcf-b3f4-cdad94e21b62</dc:identifier>
+        <dc:title>Vidyāpati: Bangīya padābali; songs of the love of Rādhā and Krishna</dc:title>
+        <dc:creator opf:file-as="Vidyāpati Thākura, active 15th century" opf:role="aut">active 15th century Vidyāpati Thākura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38174</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Krishna (Hindu deity) -- Poetry</dc:subject>
+        <dc:subject>Radha (Hindu deity) -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 15th century Vidyāpati Thākura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:11:09.856712+00:00"/>
+        <meta name="calibre:title_sort" content="Vidyāpati: Bangīya padābali; songs of the love of Rādhā and Krishna"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

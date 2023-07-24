@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">105ac5fb-7a82-4452-acf8-98ab1458b294</dc:identifier>
+        <dc:title>Death Valley in '49 / Important chapter of California pioneer history. The autobiography of a pioneer, detailing his life from a humble home in the Green Mountains to the gold mines of California; and particularly reciting the sufferings of the band of men, women and children who gave "Death Valley" its name</dc:title>
+        <dc:creator opf:file-as="Manly, William Lewis" opf:role="aut">William Lewis Manly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12236</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Overland journeys to the Pacific</dc:subject>
+        <dc:subject>California -- Gold discoveries</dc:subject>
+        <dc:subject>Death Valley (Calif. and Nev.) -- History</dc:subject>
+        <dc:subject>Manly</dc:subject>
+        <dc:subject>William Lewis</dc:subject>
+        <dc:subject>1820-</dc:subject>
+        <dc:subject>Pioneers -- California -- Biography</dc:subject>
+        <dc:subject>California -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Lewis Manly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:50:51.337632+00:00"/>
+        <meta name="calibre:title_sort" content="Death Valley in '49 / Important chapter of California pioneer history. The autobiography of a pioneer, detailing his life from a humble home in the Green Mountains to the gold mines of California; and particularly reciting the sufferings of the band of men, women and children who gave &quot;Death Valley&quot; its name"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f6f247e-b027-4b82-8df4-09878b40b8f2</dc:identifier>
+        <dc:title>Personal Recollections of Distinguished Generals</dc:title>
+        <dc:creator opf:file-as="Shanks, William Franklin Gore" opf:role="aut">William Franklin Gore Shanks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48980</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Biography</dc:subject>
+        <dc:subject>Generals -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Franklin Gore Shanks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:15:03.843770+00:00"/>
+        <meta name="calibre:title_sort" content="Personal Recollections of Distinguished Generals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

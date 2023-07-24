@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38aeac51-35a7-48e2-b4f6-bdfae7bbf0ea</dc:identifier>
+        <dc:title>Around the world in eighty minutes / Photographic reproductions of the most magnificent edifices, the most interesting remains and the most beautiful scenes on the earth's surface</dc:title>
+        <dc:creator opf:file-as="Walsh, William S." opf:role="aut">William S. Walsh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69543</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Views</dc:subject>
+        <dc:subject>Historic sites -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William S. Walsh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:54:56.410594+00:00"/>
+        <meta name="calibre:title_sort" content="Around the world in eighty minutes / Photographic reproductions of the most magnificent edifices, the most interesting remains and the most beautiful scenes on the earth's surface"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

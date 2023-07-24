@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba088d38-f142-40c4-ad10-c4547417d924</dc:identifier>
+        <dc:title>Selections from Saint-Simon</dc:title>
+        <dc:creator opf:file-as="Saint-Simon, Louis de Rouvroy, duc de" opf:role="aut">duc de Louis de Rouvroy Saint-Simon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57929</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>fra</dc:language>
+        <dc:subject>France -- History -- Louis XIV</dc:subject>
+        <dc:subject>1643-1715</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;duc de Louis de Rouvroy Saint-Simon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:20:09.527616+00:00"/>
+        <meta name="calibre:title_sort" content="Selections from Saint-Simon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

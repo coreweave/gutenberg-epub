@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e5604ea-c666-483e-afb9-0fa0c4686346</dc:identifier>
+        <dc:title>The Burnt Planet</dc:title>
+        <dc:creator opf:file-as="Brittain, William J." opf:role="aut">William J. Brittain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63828</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <dc:subject>Outer space -- Exploration -- Fiction</dc:subject>
+        <dc:subject>Apocalyptic fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William J. Brittain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:40:59.046489+00:00"/>
+        <meta name="calibre:title_sort" content="Burnt Planet, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

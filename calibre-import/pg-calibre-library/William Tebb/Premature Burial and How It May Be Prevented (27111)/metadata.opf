@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e06814af-724c-47ad-a0a2-b1de91febcb3</dc:identifier>
+        <dc:title>Premature Burial and How It May Be Prevented</dc:title>
+        <dc:creator opf:file-as="Tebb, William" opf:role="aut">William Tebb</dc:creator>
+        <dc:creator opf:file-as="Tebb, William" opf:role="aut">Edward Perry Vollum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50460</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Burial</dc:subject>
+        <dc:subject>Premature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Tebb&quot;: &quot;&quot;, &quot;Edward Perry Vollum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:59:32.329180+00:00"/>
+        <meta name="calibre:title_sort" content="Premature Burial and How It May Be Prevented"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

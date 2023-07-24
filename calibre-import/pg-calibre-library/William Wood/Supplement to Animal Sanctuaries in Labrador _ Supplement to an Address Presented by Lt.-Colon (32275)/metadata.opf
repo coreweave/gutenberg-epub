@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d58671a-d5fc-4576-8664-a4094833a9e5</dc:identifier>
+        <dc:title>Supplement to Animal Sanctuaries in Labrador / Supplement to an Address Presented by Lt.-Colonel William Wood, F.R.S.C. Before the Second Annual Meeting of the Commission of Conservation in January, 1911</dc:title>
+        <dc:creator opf:file-as="Wood, William" opf:role="aut">William Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15134</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animal welfare</dc:subject>
+        <dc:subject>Labrador (N.L.) -- Economic conditions</dc:subject>
+        <dc:subject>Canada. Commission of Conservation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:01:20.587290+00:00"/>
+        <meta name="calibre:title_sort" content="Supplement to Animal Sanctuaries in Labrador / Supplement to an Address Presented by Lt.-Colonel William Wood, F.R.S.C. Before the Second Annual Meeting of the Commission of Conservation in January, 1911"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

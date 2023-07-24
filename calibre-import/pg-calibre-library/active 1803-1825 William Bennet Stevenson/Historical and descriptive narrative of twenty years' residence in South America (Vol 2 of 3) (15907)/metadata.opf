@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0596c3f-7524-4623-8221-58330890bb2a</dc:identifier>
+        <dc:title>Historical and descriptive narrative of twenty years' residence in South America (Vol 2 of 3) / Containing travels in Arauco, Chile, Peru, and Colombia; with an account of the revolution, its rise, progress, and results</dc:title>
+        <dc:creator opf:file-as="Stevenson, William Bennet, active 1803-1825" opf:role="aut">active 1803-1825 William Bennet Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55777</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Peru -- Description and travel</dc:subject>
+        <dc:subject>Peru -- History -- War of Independence</dc:subject>
+        <dc:subject>1820-1829</dc:subject>
+        <dc:subject>Ecuador -- Description and travel</dc:subject>
+        <dc:subject>Chile -- Description and travel</dc:subject>
+        <dc:subject>South America -- History -- Wars of Independence</dc:subject>
+        <dc:subject>1806-1830</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1803-1825 William Bennet Stevenson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:42:05.430948+00:00"/>
+        <meta name="calibre:title_sort" content="Historical and descriptive narrative of twenty years' residence in South America (Vol 2 of 3) / Containing travels in Arauco, Chile, Peru, and Colombia; with an account of the revolution, its rise, progress, and results"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

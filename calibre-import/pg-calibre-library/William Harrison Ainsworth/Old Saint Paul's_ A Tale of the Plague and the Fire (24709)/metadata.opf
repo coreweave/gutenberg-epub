@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8631184-0724-402c-9ebd-0bfc9e440e31</dc:identifier>
+        <dc:title>Old Saint Paul's: A Tale of the Plague and the Fire</dc:title>
+        <dc:creator opf:file-as="Ainsworth, William Harrison" opf:role="aut">William Harrison Ainsworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11082</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Great Fire</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>1666 -- Fiction</dc:subject>
+        <dc:subject>Plague -- Fiction</dc:subject>
+        <dc:subject>London (England) -- History -- 17th century -- Fiction</dc:subject>
+        <dc:subject>Fires -- Fiction</dc:subject>
+        <dc:subject>St. Paul's Cathedral (London</dc:subject>
+        <dc:subject>England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Harrison Ainsworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:16:19.016629+00:00"/>
+        <meta name="calibre:title_sort" content="Old Saint Paul's: A Tale of the Plague and the Fire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

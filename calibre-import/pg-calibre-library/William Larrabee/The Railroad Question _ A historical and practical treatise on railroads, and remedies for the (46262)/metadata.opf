@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72f9a8a0-f7ff-4a26-b85d-2c428e1b4ff2</dc:identifier>
+        <dc:title>The Railroad Question / A historical and practical treatise on railroads, and remedies for their abuses</dc:title>
+        <dc:creator opf:file-as="Larrabee, William" opf:role="aut">William Larrabee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29294</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railroads</dc:subject>
+        <dc:subject>Railroads -- United States</dc:subject>
+        <dc:subject>Railroads and state -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Larrabee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:20:49.005966+00:00"/>
+        <meta name="calibre:title_sort" content="Railroad Question / A historical and practical treatise on railroads, and remedies for their abuses, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

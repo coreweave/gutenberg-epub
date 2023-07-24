@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e8cf993-f51d-4137-af35-0b056269aa20</dc:identifier>
+        <dc:title>William Clayton's Journal / A Daily Record of the Journey of the Original Company of "Mormon" Pioneers from Nauvoo, Illinois, to the Valley of the Great Salt Lake</dc:title>
+        <dc:creator opf:file-as="Clayton, William" opf:role="aut">William Clayton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45051</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormon Church</dc:subject>
+        <dc:subject>Utah -- Description and travel</dc:subject>
+        <dc:subject>Clayton</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1814-1879</dc:subject>
+        <dc:subject>1814-1879 -- Diaries</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Utah</dc:subject>
+        <dc:subject>Mormon pioneers -- Utah -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Clayton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:20:56.439040+00:00"/>
+        <meta name="calibre:title_sort" content="William Clayton's Journal / A Daily Record of the Journey of the Original Company of &quot;Mormon&quot; Pioneers from Nauvoo, Illinois, to the Valley of the Great Salt Lake"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

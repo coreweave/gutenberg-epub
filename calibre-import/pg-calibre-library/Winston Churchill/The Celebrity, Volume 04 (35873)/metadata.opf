@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35873</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fd255a6-2cb9-4de7-9668-85cf243dd0b1</dc:identifier>
+        <dc:title>The Celebrity, Volume 04</dc:title>
+        <dc:creator opf:file-as="Churchill, Winston" opf:role="aut">Winston Churchill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors -- Fiction</dc:subject>
+        <dc:subject>Authorship -- Fiction</dc:subject>
+        <dc:subject>Celebrities -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Winston Churchill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:58:08.775999+00:00"/>
+        <meta name="calibre:title_sort" content="Celebrity, Volume 04, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

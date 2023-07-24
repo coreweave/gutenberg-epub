@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc1a61fa-c580-4b7d-8d06-39d932437c99</dc:identifier>
+        <dc:title>Theocritus, Bion and Moschus, Rendered into English Prose</dc:title>
+        <dc:creator opf:file-as="Bion, of Phlossa near Smyrna" opf:role="aut">of Phlossa near Smyrna Bion</dc:creator>
+        <dc:creator opf:file-as="Bion, of Phlossa near Smyrna" opf:role="aut">Moschus</dc:creator>
+        <dc:creator opf:file-as="Bion, of Phlossa near Smyrna" opf:role="aut">Theocritus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4775</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pastoral poetry</dc:subject>
+        <dc:subject>Greek -- Translations into English</dc:subject>
+        <dc:subject>Greek poetry -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;of Phlossa near Smyrna Bion&quot;: &quot;&quot;, &quot;Moschus&quot;: &quot;&quot;, &quot;Theocritus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:07:42.971502+00:00"/>
+        <meta name="calibre:title_sort" content="Theocritus, Bion and Moschus, Rendered into English Prose"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

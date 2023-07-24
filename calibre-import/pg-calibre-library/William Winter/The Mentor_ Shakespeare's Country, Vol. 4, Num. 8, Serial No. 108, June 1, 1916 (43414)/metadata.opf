@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a29611cd-5370-4ed9-a639-ee50e6fe853a</dc:identifier>
+        <dc:title>The Mentor: Shakespeare's Country, Vol. 4, Num. 8, Serial No. 108, June 1, 1916</dc:title>
+        <dc:creator opf:file-as="Winter, William" opf:role="aut">William Winter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51598</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Homes and haunts -- England -- Warwickshire</dc:subject>
+        <dc:subject>1564-1616 -- Homes and haunts -- England -- Stratford-upon-Avon</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Winter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:38:04.182470+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: Shakespeare's Country, Vol. 4, Num. 8, Serial No. 108, June 1, 1916, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

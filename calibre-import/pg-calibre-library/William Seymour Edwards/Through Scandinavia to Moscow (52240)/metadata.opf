@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">faa544d4-5115-452d-b1cf-d8e710e11a32</dc:identifier>
+        <dc:title>Through Scandinavia to Moscow</dc:title>
+        <dc:creator opf:file-as="Edwards, William Seymour" opf:role="aut">William Seymour Edwards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42132</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scandinavia -- Description and travel</dc:subject>
+        <dc:subject>Russia -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Seymour Edwards&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:29:42.657560+00:00"/>
+        <meta name="calibre:title_sort" content="Through Scandinavia to Moscow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

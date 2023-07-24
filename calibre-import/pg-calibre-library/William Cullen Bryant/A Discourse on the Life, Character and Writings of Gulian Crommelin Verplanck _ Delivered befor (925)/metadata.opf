@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">925</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2b28e61-833b-4e69-9bc3-1e930f5d95fc</dc:identifier>
+        <dc:title>A Discourse on the Life, Character and Writings of Gulian Crommelin Verplanck / Delivered before the New-York Historical Society, May 17th, 1870</dc:title>
+        <dc:creator opf:file-as="Bryant, William Cullen" opf:role="aut">William Cullen Bryant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10141</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Verplanck</dc:subject>
+        <dc:subject>Gulian C. (Gulian Crommelin)</dc:subject>
+        <dc:subject>1786-1870</dc:subject>
+        <dc:subject>New York (State) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Cullen Bryant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:55.541066+00:00"/>
+        <meta name="calibre:title_sort" content="Discourse on the Life, Character and Writings of Gulian Crommelin Verplanck / Delivered before the New-York Historical Society, May 17th, 1870, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

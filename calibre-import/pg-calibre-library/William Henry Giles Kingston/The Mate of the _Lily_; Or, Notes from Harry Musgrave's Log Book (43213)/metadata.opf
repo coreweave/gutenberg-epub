@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e29d7329-2a0c-4b8b-bbe8-3da986526b60</dc:identifier>
+        <dc:title>The Mate of the "Lily"; Or, Notes from Harry Musgrave's Log Book</dc:title>
+        <dc:creator opf:file-as="Kingston, William Henry Giles" opf:role="aut">William Henry Giles Kingston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21469</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Pirates -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Rescues -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>Shipwrecks -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Giles Kingston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:26:52.101017+00:00"/>
+        <meta name="calibre:title_sort" content="Mate of the &quot;Lily&quot;; Or, Notes from Harry Musgrave's Log Book, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

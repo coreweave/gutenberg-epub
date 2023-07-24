@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e7267dc-9486-4969-9a6a-00d0669dca83</dc:identifier>
+        <dc:title>The Grateful Indian, and Other Stories</dc:title>
+        <dc:creator opf:file-as="Kingston, William Henry Giles" opf:role="aut">William Henry Giles Kingston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24662</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Juvenile literature</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Giles Kingston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:08:51.943873+00:00"/>
+        <meta name="calibre:title_sort" content="Grateful Indian, and Other Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

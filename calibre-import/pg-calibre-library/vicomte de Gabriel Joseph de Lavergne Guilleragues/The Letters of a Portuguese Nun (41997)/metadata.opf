@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ba90ed1-fae7-4b5b-ae17-783ce399bb54</dc:identifier>
+        <dc:title>The Letters of a Portuguese Nun</dc:title>
+        <dc:creator opf:file-as="Guilleragues, Gabriel Joseph de Lavergne, vicomte de" opf:role="aut">vicomte de Gabriel Joseph de Lavergne Guilleragues</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>fra</dc:language>
+        <dc:subject>Epistolary fiction</dc:subject>
+        <dc:subject>Alcoforado</dc:subject>
+        <dc:subject>Mariana</dc:subject>
+        <dc:subject>1640-1723 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;vicomte de Gabriel Joseph de Lavergne Guilleragues&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:19:21.475061+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of a Portuguese Nun, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

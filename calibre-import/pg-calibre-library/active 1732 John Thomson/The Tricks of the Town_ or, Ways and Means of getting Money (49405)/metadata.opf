@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c85e4aa4-0d8f-4c34-ad42-80ab7a75d6b3</dc:identifier>
+        <dc:title>The Tricks of the Town: or, Ways and Means of getting Money</dc:title>
+        <dc:creator opf:file-as="Thomson, John, active 1732" opf:role="aut">active 1732 John Thomson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29582</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Social life and customs</dc:subject>
+        <dc:subject>Crime -- England -- London</dc:subject>
+        <dc:subject>London (England) -- Social conditions</dc:subject>
+        <dc:subject>Criminals -- England -- London</dc:subject>
+        <dc:subject>Fraud</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1732 John Thomson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:29:25.189879+00:00"/>
+        <meta name="calibre:title_sort" content="Tricks of the Town: or, Ways and Means of getting Money, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

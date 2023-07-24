@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8141f8d0-aadb-43ac-8911-561b347019fd</dc:identifier>
+        <dc:title>The Overland Guide-book / A complete vade-mecum for the overland traveller, to India viâ Egypt.</dc:title>
+        <dc:creator opf:file-as="Barber, James, active 1837-1839" opf:role="aut">active 1837-1839 James Barber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45706</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Travel -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1837-1839 James Barber&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:03:53.109399+00:00"/>
+        <meta name="calibre:title_sort" content="Overland Guide-book / A complete vade-mecum for the overland traveller, to India viâ Egypt., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

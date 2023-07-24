@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c46ac867-2b6a-4434-ab2b-ab4dc26d87f0</dc:identifier>
+        <dc:title>A Burial Cave in Baja California / The Palmer Collection, 1887</dc:title>
+        <dc:creator opf:file-as="Massey, William C." opf:role="aut">William C. Massey</dc:creator>
+        <dc:creator opf:file-as="Massey, William C." opf:role="aut">Carolyn M. Osborne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30385</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of Mexico -- Antiquities</dc:subject>
+        <dc:subject>Indians of Mexico -- Mexico -- Baja California (Peninsula)</dc:subject>
+        <dc:subject>Baja California (Mexico : Peninsula) -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William C. Massey&quot;: &quot;&quot;, &quot;Carolyn M. Osborne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:33:22.886821+00:00"/>
+        <meta name="calibre:title_sort" content="Burial Cave in Baja California / The Palmer Collection, 1887, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

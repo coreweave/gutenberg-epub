@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd17a836-761c-4eb9-bcf3-678251d417af</dc:identifier>
+        <dc:title>American Slave Trade / Or, An Account of the Manner in which the Slave Dealers take Free People from some of the United States of America, and carry them away, and sell them as Slaves in other of the States; and of the horrible Cruelties practised in the carrying on of this most infamous Traffic</dc:title>
+        <dc:creator opf:file-as="Torrey, Jesse, active 1787-1834" opf:role="aut">active 1787-1834 Jesse Torrey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1787-1834 Jesse Torrey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:18.409519+00:00"/>
+        <meta name="calibre:title_sort" content="American Slave Trade / Or, An Account of the Manner in which the Slave Dealers take Free People from some of the United States of America, and carry them away, and sell them as Slaves in other of the States; and of the horrible Cruelties practised in the carrying on of this most infamous Traffic"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

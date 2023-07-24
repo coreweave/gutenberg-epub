@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2764d97-118c-481c-8cfa-6b5b6087f51a</dc:identifier>
+        <dc:title>The American Prejudice Against Color / An Authentic Narrative, Showing How Easily the Nation Got into an Uproar.</dc:title>
+        <dc:creator opf:file-as="Allen, William G., active 1849-1853" opf:role="aut">active 1849-1853 William G. Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17875</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Race relations</dc:subject>
+        <dc:subject>Allen</dc:subject>
+        <dc:subject>William G.</dc:subject>
+        <dc:subject>active 1849-1853</dc:subject>
+        <dc:subject>Miscegenation -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1849-1853 William G. Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:02:28.131294+00:00"/>
+        <meta name="calibre:title_sort" content="American Prejudice Against Color / An Authentic Narrative, Showing How Easily the Nation Got into an Uproar., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

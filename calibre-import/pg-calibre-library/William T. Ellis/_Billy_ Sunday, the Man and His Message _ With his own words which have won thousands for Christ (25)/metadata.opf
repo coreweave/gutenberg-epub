@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33910719-0684-4102-8874-e6ba36e69a63</dc:identifier>
+        <dc:title>"Billy" Sunday, the Man and His Message / With his own words which have won thousands for Christ</dc:title>
+        <dc:creator opf:file-as="Ellis, William T. (William Thomas)" opf:role="aut">William T. Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50586</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sunday</dc:subject>
+        <dc:subject>Billy</dc:subject>
+        <dc:subject>1862-1935</dc:subject>
+        <dc:subject>Evangelists -- United States -- Biography</dc:subject>
+        <dc:subject>Baseball players -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William T. Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:31.407355+00:00"/>
+        <meta name="calibre:title_sort" content="Billy&quot; Sunday, the Man and His Message / With his own words which have won thousands for Christ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

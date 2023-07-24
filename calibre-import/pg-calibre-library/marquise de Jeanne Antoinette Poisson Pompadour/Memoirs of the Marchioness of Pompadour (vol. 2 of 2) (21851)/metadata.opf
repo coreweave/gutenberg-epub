@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b87b36e1-009e-4152-b681-928028351340</dc:identifier>
+        <dc:title>Memoirs of the Marchioness of Pompadour (vol. 2 of 2)</dc:title>
+        <dc:creator opf:file-as="Pompadour, Jeanne Antoinette Poisson, marquise de" opf:role="aut">marquise de Jeanne Antoinette Poisson Pompadour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52215</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Court and courtiers</dc:subject>
+        <dc:subject>Pompadour</dc:subject>
+        <dc:subject>Jeanne Antoinette Poisson</dc:subject>
+        <dc:subject>marquise de</dc:subject>
+        <dc:subject>1721-1764</dc:subject>
+        <dc:subject>France -- History -- Louis XV</dc:subject>
+        <dc:subject>1715-1774</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;marquise de Jeanne Antoinette Poisson Pompadour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:16:07.964925+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Marchioness of Pompadour (vol. 2 of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

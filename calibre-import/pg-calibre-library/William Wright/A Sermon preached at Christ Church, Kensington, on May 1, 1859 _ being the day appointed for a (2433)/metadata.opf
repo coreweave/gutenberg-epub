@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90dc2e1a-bf33-4da6-8e1a-2ebe0d9ec26f</dc:identifier>
+        <dc:title>A Sermon preached at Christ Church, Kensington, on May 1, 1859 / being the day appointed for a general thanksgiving to Almighty God, for the success granted to our arms in suppressing the rebellion and restoring tranquillity in Her Majesty's Indian Dominions.</dc:title>
+        <dc:creator opf:file-as="Wright, William" opf:role="aut">William Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64717</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons</dc:subject>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Bible. Samuel</dc:subject>
+        <dc:subject>2nd</dc:subject>
+        <dc:subject>VIII</dc:subject>
+        <dc:subject>14-15 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:04:29.146691+00:00"/>
+        <meta name="calibre:title_sort" content="Sermon preached at Christ Church, Kensington, on May 1, 1859 / being the day appointed for a general thanksgiving to Almighty God, for the success granted to our arms in suppressing the rebellion and restoring tranquillity in Her Majesty's Indian Dominions., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

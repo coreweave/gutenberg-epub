@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">843cd75d-2cac-4d63-bb5b-96642e73df8d</dc:identifier>
+        <dc:title>The Old Humanities and the New Science</dc:title>
+        <dc:creator opf:file-as="Osler, William" opf:role="aut">William Osler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48994</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Classical education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Osler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:50:29.793052+00:00"/>
+        <meta name="calibre:title_sort" content="Old Humanities and the New Science, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

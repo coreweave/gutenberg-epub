@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02517c89-a19d-42d0-95f4-1fc1bbb873d3</dc:identifier>
+        <dc:title>Shan Folk Lore Stories from the Hill and Water Country</dc:title>
+        <dc:creator opf:file-as="Griggs, William Charles" opf:role="aut">William Charles Griggs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32375</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tales -- Burma</dc:subject>
+        <dc:subject>Folklore -- Burma</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Charles Griggs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:32:12.499389+00:00"/>
+        <meta name="calibre:title_sort" content="Shan Folk Lore Stories from the Hill and Water Country"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

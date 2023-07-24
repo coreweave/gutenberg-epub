@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06c9a26a-7dd5-4a74-bc10-00918387b427</dc:identifier>
+        <dc:title>The Battle of Wavre and Grouchy's Retreat / A study of an Obscure Part of the Waterloo Campaign</dc:title>
+        <dc:creator opf:file-as="Kelly, William Hyde" opf:role="aut">William Hyde Kelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58174</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Waterloo</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Belgium</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <dc:subject>Grouchy</dc:subject>
+        <dc:subject>Emmanuel</dc:subject>
+        <dc:subject>marquis de</dc:subject>
+        <dc:subject>1766-1847</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Hyde Kelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:38:05.842954+00:00"/>
+        <meta name="calibre:title_sort" content="Battle of Wavre and Grouchy's Retreat / A study of an Obscure Part of the Waterloo Campaign, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

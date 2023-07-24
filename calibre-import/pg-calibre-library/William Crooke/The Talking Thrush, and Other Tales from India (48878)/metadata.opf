@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">929d4e99-721d-4a7c-aa12-671207c825ce</dc:identifier>
+        <dc:title>The Talking Thrush, and Other Tales from India</dc:title>
+        <dc:creator opf:file-as="Crooke, William" opf:role="aut">William Crooke</dc:creator>
+        <dc:creator opf:file-as="Crooke, William" opf:role="aut">W. H. D. Rouse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30635</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Crooke&quot;: &quot;&quot;, &quot;W. H. D. Rouse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:55:57.140044+00:00"/>
+        <meta name="calibre:title_sort" content="Talking Thrush, and Other Tales from India, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16880</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c9ecadc-1d45-46ee-93c0-338389a59625</dc:identifier>
+        <dc:title>Hymns in Human Experience</dc:title>
+        <dc:creator opf:file-as="Hart, William J. (William John)" opf:role="aut">William J. Hart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56480</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hymns -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William J. Hart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:14:33.244171+00:00"/>
+        <meta name="calibre:title_sort" content="Hymns in Human Experience"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

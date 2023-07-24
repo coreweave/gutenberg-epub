@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43099</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f827551-f7eb-4039-970f-d60bbd9bf096</dc:identifier>
+        <dc:title>The March of Portola and the Discovery of the Bay of San Francisco</dc:title>
+        <dc:creator opf:file-as="Eldredge, Zoeth Skinner" opf:role="aut">Zoeth Skinner Eldredge</dc:creator>
+        <dc:creator opf:file-as="Eldredge, Zoeth Skinner" opf:role="aut">E. J. Molera</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4978</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>California -- History</dc:subject>
+        <dc:subject>California -- History -- To 1846</dc:subject>
+        <dc:subject>San Francisco Bay (Calif.)</dc:subject>
+        <dc:subject>Portolá's Expedition</dc:subject>
+        <dc:subject>Calif.</dc:subject>
+        <dc:subject>1769-1770</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zoeth Skinner Eldredge&quot;: &quot;&quot;, &quot;E. J. Molera&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:20:26.510885+00:00"/>
+        <meta name="calibre:title_sort" content="March of Portola and the Discovery of the Bay of San Francisco, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

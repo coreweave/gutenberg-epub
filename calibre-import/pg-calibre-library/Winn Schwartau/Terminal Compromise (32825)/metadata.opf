@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f25cc75f-b818-4c72-9d80-4e6a1d87c1c0</dc:identifier>
+        <dc:title>Terminal Compromise</dc:title>
+        <dc:creator opf:file-as="Schwartau, Winn" opf:role="aut">Winn Schwartau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/79</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer security -- Fiction</dc:subject>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Privacy</dc:subject>
+        <dc:subject>Right of -- Fiction</dc:subject>
+        <dc:subject>Records -- Access control -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Winn Schwartau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:27:47.103482+00:00"/>
+        <meta name="calibre:title_sort" content="Terminal Compromise"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

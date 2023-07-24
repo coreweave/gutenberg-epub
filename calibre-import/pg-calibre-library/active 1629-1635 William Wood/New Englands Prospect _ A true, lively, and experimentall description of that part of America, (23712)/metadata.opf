@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8930ea22-6ae2-4e92-9ca2-57690ed127c2</dc:identifier>
+        <dc:title>New Englands Prospect / A true, lively, and experimentall description of that part of America, commonly called New England: discovering the state of that Countrie, both as it stands to our new-come English Planters; and to the old Native Inhabitants</dc:title>
+        <dc:creator opf:file-as="Wood, William, active 1629-1635" opf:role="aut">active 1629-1635 William Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47082</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Massachusetts -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>Indians of North America -- Massachusetts -- Early works to 1800</dc:subject>
+        <dc:subject>Massachuset language -- Glossaries</dc:subject>
+        <dc:subject>vocabularies</dc:subject>
+        <dc:subject>etc. -- Early works to 1800</dc:subject>
+        <dc:subject>Massachusetts -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1629-1635 William Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:33:48.065483+00:00"/>
+        <meta name="calibre:title_sort" content="New Englands Prospect / A true, lively, and experimentall description of that part of America, commonly called New England: discovering the state of that Countrie, both as it stands to our new-come English Planters; and to the old Native Inhabitants"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

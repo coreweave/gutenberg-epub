@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd7cb90a-d5dd-494d-85b1-9ce447c41147</dc:identifier>
+        <dc:title>The Boy Chums Cruising in Florida Waters / or, The Perils and Dangers of the Fishing Fleet</dc:title>
+        <dc:creator opf:file-as="Ely, Wilmer M. (Wilmer Mateo)" opf:role="aut">Wilmer M. Ely</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43856</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fisheries -- Florida -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wilmer M. Ely&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:19:41.763462+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Chums Cruising in Florida Waters / or, The Perils and Dangers of the Fishing Fleet, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

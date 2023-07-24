@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ab3ce51-3fd8-49b8-8383-2217b7501944</dc:identifier>
+        <dc:title>Popery! As It Was and as It Is. Also, Auricular Confession; And Popish Nunneries</dc:title>
+        <dc:creator opf:file-as="Hogan, William" opf:role="aut">William Hogan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37705</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Catholic Church -- Controversial literature</dc:subject>
+        <dc:subject>Anti-Catholicism</dc:subject>
+        <dc:subject>Jesuits -- Controversial Literature</dc:subject>
+        <dc:subject>Catholic Church -- United States</dc:subject>
+        <dc:subject>Confession -- Controversial literature</dc:subject>
+        <dc:subject>Convents -- Controversial literature</dc:subject>
+        <dc:subject>Catholic Church -- Doctrines -- Protestant authors</dc:subject>
+        <dc:subject>Papacy -- Controversial literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Hogan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:50:34.191301+00:00"/>
+        <meta name="calibre:title_sort" content="Popery! As It Was and as It Is. Also, Auricular Confession; And Popish Nunneries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

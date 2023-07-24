@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0613d790-6078-4a0c-8273-9eb8c24e9aa5</dc:identifier>
+        <dc:title>Three Courses and a Dessert / Comprising Three Sets of Tales, West Country, Irish, and Legal; and a Melange</dc:title>
+        <dc:creator opf:file-as="Clarke, William" opf:role="aut">William Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44560</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Legal stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>West Country (England) -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Clarke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:21:42.985055+00:00"/>
+        <meta name="calibre:title_sort" content="Three Courses and a Dessert / Comprising Three Sets of Tales, West Country, Irish, and Legal; and a Melange"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

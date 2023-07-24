@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30034</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">237db93d-c541-4fb1-8189-5066e5eb54ea</dc:identifier>
+        <dc:title>Sebastopol</dc:title>
+        <dc:creator opf:file-as="Tolstoy, Leo, graf" opf:role="aut">graf Leo Tolstoy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61388</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sevastopol (Ukraine) -- History -- Siege</dc:subject>
+        <dc:subject>1854-1855 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;graf Leo Tolstoy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:12:21.521052+00:00"/>
+        <meta name="calibre:title_sort" content="Sebastopol"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

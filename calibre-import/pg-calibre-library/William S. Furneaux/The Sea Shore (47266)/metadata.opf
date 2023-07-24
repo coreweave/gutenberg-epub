@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fc319b4-41cb-40c2-866c-d69b477a3f92</dc:identifier>
+        <dc:title>The Sea Shore</dc:title>
+        <dc:creator opf:file-as="Furneaux, William S." opf:role="aut">William S. Furneaux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42978</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seashore biology</dc:subject>
+        <dc:subject>Seashore</dc:subject>
+        <dc:subject>Marine biology -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William S. Furneaux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:19:55.082369+00:00"/>
+        <meta name="calibre:title_sort" content="Sea Shore, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

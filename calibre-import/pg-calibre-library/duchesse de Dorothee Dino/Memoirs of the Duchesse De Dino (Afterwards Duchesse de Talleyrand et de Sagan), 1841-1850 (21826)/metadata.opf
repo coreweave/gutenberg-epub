@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21826</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">942281a5-a8fc-4719-a990-d16bf6e7d55f</dc:identifier>
+        <dc:title>Memoirs of the Duchesse De Dino (Afterwards Duchesse de Talleyrand et de Sagan), 1841-1850</dc:title>
+        <dc:creator opf:file-as="Dino, Dorothée, duchesse de" opf:role="aut">duchesse de Dorothée Dino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48076</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dino</dc:subject>
+        <dc:subject>Dorothée</dc:subject>
+        <dc:subject>duchesse de</dc:subject>
+        <dc:subject>1793-1862</dc:subject>
+        <dc:subject>Europe -- Politics and government -- 1815-1848</dc:subject>
+        <dc:subject>France -- Foreign relations -- 1830-1848</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;duchesse de Dorothée Dino&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:15:09.335081+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Duchesse De Dino (Afterwards Duchesse de Talleyrand et de Sagan), 1841-1850"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

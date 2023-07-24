@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">796e2c0b-8556-421f-8418-8529275fb333</dc:identifier>
+        <dc:title>Memoirs (Vieux Souvenirs) of the Prince de Joinville</dc:title>
+        <dc:creator opf:file-as="Joinville, François-Ferdinand-Philippe-Louis-Marie d'Orléans, prince de" opf:role="aut">prince de François-Ferdinand-Philippe-Louis-Marie d'Orléans Joinville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5716</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Restoration</dc:subject>
+        <dc:subject>1814-1830</dc:subject>
+        <dc:subject>France -- History -- Louis Philippe</dc:subject>
+        <dc:subject>1830-1848</dc:subject>
+        <dc:subject>Joinville</dc:subject>
+        <dc:subject>François-Ferdinand-Philippe-Louis-Marie d'Orléans</dc:subject>
+        <dc:subject>prince de</dc:subject>
+        <dc:subject>1818-1900</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;prince de François-Ferdinand-Philippe-Louis-Marie d'Orléans Joinville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:08:55.973197+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs (Vieux Souvenirs) of the Prince de Joinville"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

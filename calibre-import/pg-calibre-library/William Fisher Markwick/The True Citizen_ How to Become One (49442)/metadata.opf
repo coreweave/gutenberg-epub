@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1d2ca9c-394e-4a7e-9e74-52555c0b867b</dc:identifier>
+        <dc:title>The True Citizen: How to Become One</dc:title>
+        <dc:creator opf:file-as="Markwick, William Fisher" opf:role="aut">William Fisher Markwick</dc:creator>
+        <dc:creator opf:file-as="Markwick, William Fisher" opf:role="aut">William Alexander Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6158</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Readers -- Citizenship</dc:subject>
+        <dc:subject>Citizenship -- Problems</dc:subject>
+        <dc:subject>exercises</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Conduct of life -- Problems</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Fisher Markwick&quot;: &quot;&quot;, &quot;William Alexander Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:31:49.905920+00:00"/>
+        <meta name="calibre:title_sort" content="True Citizen: How to Become One, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

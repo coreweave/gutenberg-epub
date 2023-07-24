@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d392d905-48f0-4b8c-961b-46696e937248</dc:identifier>
+        <dc:title>Caleb Williams; Or, Things as They Are</dc:title>
+        <dc:creator opf:file-as="Godwin, William" opf:role="aut">William Godwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11323</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Murderers -- Fiction</dc:subject>
+        <dc:subject>False imprisonment -- Fiction</dc:subject>
+        <dc:subject>Master and servant -- Fiction</dc:subject>
+        <dc:subject>Executions and executioners -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Godwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:45:07.766195+00:00"/>
+        <meta name="calibre:title_sort" content="Caleb Williams; Or, Things as They Are"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

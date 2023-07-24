@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">479404ff-c980-4e74-be15-95a6a40c444b</dc:identifier>
+        <dc:title>Histology of medicinal plants</dc:title>
+        <dc:creator opf:file-as="Mansfield, William James" opf:role="aut">William James Mansfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65569</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Botany</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Plant anatomy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William James Mansfield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:38:22.109509+00:00"/>
+        <meta name="calibre:title_sort" content="Histology of medicinal plants"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

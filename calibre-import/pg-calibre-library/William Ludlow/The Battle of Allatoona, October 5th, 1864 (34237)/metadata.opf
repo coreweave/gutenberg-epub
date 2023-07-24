@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1844a164-ba8d-4281-acb9-6b07869041e8</dc:identifier>
+        <dc:title>The Battle of Allatoona, October 5th, 1864</dc:title>
+        <dc:creator opf:file-as="Ludlow, William" opf:role="aut">William Ludlow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32247</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>Allatoona Pass</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Ga.</dc:subject>
+        <dc:subject>1864</dc:subject>
+        <dc:subject>Georgia -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Ludlow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:36:53.341846+00:00"/>
+        <meta name="calibre:title_sort" content="Battle of Allatoona, October 5th, 1864, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

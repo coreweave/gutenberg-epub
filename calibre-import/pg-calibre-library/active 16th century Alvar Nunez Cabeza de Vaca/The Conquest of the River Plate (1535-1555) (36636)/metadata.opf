@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fe38d4f-8bea-4a4a-b1d3-7d799b0a885f</dc:identifier>
+        <dc:title>The Conquest of the River Plate (1535-1555)</dc:title>
+        <dc:creator opf:file-as="Núñez Cabeza de Vaca, Alvar, active 16th century" opf:role="aut">active 16th century Alvar Núñez Cabeza de Vaca</dc:creator>
+        <dc:creator opf:file-as="Núñez Cabeza de Vaca, Alvar, active 16th century" opf:role="aut">Ulrich Schmidel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paraguay -- History -- To 1811</dc:subject>
+        <dc:subject>America -- Early accounts to 1600</dc:subject>
+        <dc:subject>Mendoza</dc:subject>
+        <dc:subject>Pedro de</dc:subject>
+        <dc:subject>1487?-1537</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Spanish</dc:subject>
+        <dc:subject>Indians of South America</dc:subject>
+        <dc:subject>Rio de la Plata (Argentina and Uruguay)</dc:subject>
+        <dc:subject>Argentina -- History -- To 1810</dc:subject>
+        <dc:subject>Buenos Aires (Argentina) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 16th century Alvar Núñez Cabeza de Vaca&quot;: &quot;&quot;, &quot;Ulrich Schmidel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:36:34.725853+00:00"/>
+        <meta name="calibre:title_sort" content="Conquest of the River Plate (1535-1555), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

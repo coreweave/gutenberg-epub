@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91e04f19-4fcb-4ee9-a32c-95cfce76c60a</dc:identifier>
+        <dc:title>A History of Pendennis, Volume 1 / His fortunes and misfortunes, his friends and his greatest enemy</dc:title>
+        <dc:creator opf:file-as="Thackeray, William Makepeace" opf:role="aut">William Makepeace Thackeray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34922</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Autobiographical fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>1837-1901 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Makepeace Thackeray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:46:08.817363+00:00"/>
+        <meta name="calibre:title_sort" content="History of Pendennis, Volume 1 / His fortunes and misfortunes, his friends and his greatest enemy, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

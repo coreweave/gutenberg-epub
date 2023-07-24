@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb13ea41-b1d1-4c57-93ed-fd0b12dc739b</dc:identifier>
+        <dc:title>Othello, the Moor of Venice</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1531</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Othello (Fictitious character) -- Drama</dc:subject>
+        <dc:subject>Jealousy -- Drama</dc:subject>
+        <dc:subject>Interracial marriage -- Drama</dc:subject>
+        <dc:subject>Venice (Italy) -- Drama</dc:subject>
+        <dc:subject>Muslims -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Shakespeare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:38:01.832391+00:00"/>
+        <meta name="calibre:title_sort" content="Othello, the Moor of Venice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

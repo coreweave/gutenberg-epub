@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7849e52f-3c99-498b-b382-2bd9bbea6aa5</dc:identifier>
+        <dc:title>Spanish John / Being a Memoir, Now First Published in Complete Form, of the Early Life and Adventures of Colonel John McDonell, Known as "Spanish John," When a Lieutenant in the Company of St. James of the Regiment Irlandia, in the Service of the King of Spain Operating in Italy</dc:title>
+        <dc:creator opf:file-as="McLennan, William" opf:role="aut">William McLennan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61224</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jacobite Rebellion</dc:subject>
+        <dc:subject>1745-1746 -- Fiction</dc:subject>
+        <dc:subject>Italy -- Fiction</dc:subject>
+        <dc:subject>Scotland -- Fiction</dc:subject>
+        <dc:subject>M'Donell</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1728-1810 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William McLennan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:18:35.468582+00:00"/>
+        <meta name="calibre:title_sort" content="Spanish John / Being a Memoir, Now First Published in Complete Form, of the Early Life and Adventures of Colonel John McDonell, Known as &quot;Spanish John,&quot; When a Lieutenant in the Company of St. James of the Regiment Irlandia, in the Service of the King of Spain Operating in Italy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

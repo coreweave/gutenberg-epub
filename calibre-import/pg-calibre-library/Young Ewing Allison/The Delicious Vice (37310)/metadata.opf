@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37310</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dded84b4-8629-4b51-819f-0c5447c7c47d</dc:identifier>
+        <dc:title>The Delicious Vice</dc:title>
+        <dc:creator opf:file-as="Allison, Young Ewing" opf:role="aut">Young Ewing Allison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Books and reading</dc:subject>
+        <dc:subject>Fiction -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Young Ewing Allison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:10:52.030335+00:00"/>
+        <meta name="calibre:title_sort" content="Delicious Vice, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

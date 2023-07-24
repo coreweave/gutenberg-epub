@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c0120f9-1d95-4d67-9424-008e1a856b53</dc:identifier>
+        <dc:title>Chuang Tzu: Mystic, Moralist, and Social Reformer</dc:title>
+        <dc:creator opf:file-as="Zhuangzi" opf:role="aut">Zhuangzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethics -- China</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Chinese</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zhuangzi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:15:32.908671+00:00"/>
+        <meta name="calibre:title_sort" content="Chuang Tzu: Mystic, Moralist, and Social Reformer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

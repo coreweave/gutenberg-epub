@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cb2fc07-f563-4299-b51b-e4f3d0a1212a</dc:identifier>
+        <dc:title>The Life of King Henry V</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1521</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Henry V</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1387-1422 -- Drama</dc:subject>
+        <dc:subject>Great Britain -- Kings and rulers -- Drama</dc:subject>
+        <dc:subject>Great Britain -- History -- Henry V</dc:subject>
+        <dc:subject>1413-1422 -- Drama</dc:subject>
+        <dc:subject>Historical drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Shakespeare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:31:20.071548+00:00"/>
+        <meta name="calibre:title_sort" content="Life of King Henry V, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

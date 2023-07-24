@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86c8bda8-6b8a-46e8-a5f0-6ef71a5f7760</dc:identifier>
+        <dc:title>The Expeditions of Zebulon Montgomery Pike, Volume 3 (of 3) / To Headwaters of the Mississippi River Through Louisiana Territory, and in New Spain, During the Years 1805-6-7.</dc:title>
+        <dc:creator opf:file-as="Pike, Zebulon Montgomery" opf:role="aut">Zebulon Montgomery Pike</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43776</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mississippi River -- Description and travel</dc:subject>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>West (U.S.) -- History -- To 1848</dc:subject>
+        <dc:subject>New Mexico -- Description and travel</dc:subject>
+        <dc:subject>Pike</dc:subject>
+        <dc:subject>Zebulon Montgomery</dc:subject>
+        <dc:subject>1779-1813 -- Travel -- West (U.S.)</dc:subject>
+        <dc:subject>West (U.S.) -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zebulon Montgomery Pike&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:57:44.995541+00:00"/>
+        <meta name="calibre:title_sort" content="Expeditions of Zebulon Montgomery Pike, Volume 3 (of 3) / To Headwaters of the Mississippi River Through Louisiana Territory, and in New Spain, During the Years 1805-6-7., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

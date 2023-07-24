@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6539f40c-5a62-4f22-9254-0fdd29f201ba</dc:identifier>
+        <dc:title>Primrose Hill Park, Regent's Park, and Hampstead Heath</dc:title>
+        <dc:creator opf:file-as="Smee, William Ray" opf:role="aut">William Ray Smee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62152</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Smee</dc:subject>
+        <dc:subject>William Ray</dc:subject>
+        <dc:subject>1816-1877 -- Correspondence</dc:subject>
+        <dc:subject>Parks -- England -- London -- History</dc:subject>
+        <dc:subject>Regent's Park (London</dc:subject>
+        <dc:subject>England) -- History</dc:subject>
+        <dc:subject>Hampstead Heath (London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Ray Smee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:02:09.068147+00:00"/>
+        <meta name="calibre:title_sort" content="Primrose Hill Park, Regent's Park, and Hampstead Heath"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

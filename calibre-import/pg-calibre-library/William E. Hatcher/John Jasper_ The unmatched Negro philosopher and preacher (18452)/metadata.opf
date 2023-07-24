@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18452</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6aa89a85-7b67-448e-bd28-a3a5ee5fb6c6</dc:identifier>
+        <dc:title>John Jasper: The unmatched Negro philosopher and preacher</dc:title>
+        <dc:creator opf:file-as="Hatcher, William E. (William Eldridge)" opf:role="aut">William E. Hatcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68205</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Biography</dc:subject>
+        <dc:subject>African American clergy -- Biography</dc:subject>
+        <dc:subject>Jasper</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1812-1901</dc:subject>
+        <dc:subject>Richmond (Va.) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William E. Hatcher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:08:37.487692+00:00"/>
+        <meta name="calibre:title_sort" content="John Jasper: The unmatched Negro philosopher and preacher"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

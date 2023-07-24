@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a70621bb-96e3-4a21-98a8-e74e11dc25e9</dc:identifier>
+        <dc:title>The History of Oswestry / Comprising the British, Saxon, Norman, and English eras; the topography of the borough; and its ecclesiastical and civic history; with notices of botany, geology, statistics, angling, and biography: to which are added sketches of the environs</dc:title>
+        <dc:creator opf:file-as="Cathrall, William" opf:role="aut">William Cathrall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63840</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Oswestry (England) -- History</dc:subject>
+        <dc:subject>Natural history -- England -- Shropshire</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Cathrall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:52:20.029454+00:00"/>
+        <meta name="calibre:title_sort" content="History of Oswestry / Comprising the British, Saxon, Norman, and English eras; the topography of the borough; and its ecclesiastical and civic history; with notices of botany, geology, statistics, angling, and biography: to which are added sketches of the environs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

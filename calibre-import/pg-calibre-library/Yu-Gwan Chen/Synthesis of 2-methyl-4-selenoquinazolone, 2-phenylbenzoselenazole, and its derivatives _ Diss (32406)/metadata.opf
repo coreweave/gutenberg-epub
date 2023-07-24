@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93ece81b-7e78-4440-a968-621e374f3dd7</dc:identifier>
+        <dc:title>Synthesis of 2-methyl-4-selenoquinazolone, 2-phenylbenzoselenazole, and its derivatives / Dissertation submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy in the Faculty of Pure Science of Columbia University</dc:title>
+        <dc:creator opf:file-as="Chen, Yü-Gwan" opf:role="aut">Yü-Gwan Chen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46714</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thesis (Ph. D.)</dc:subject>
+        <dc:subject>Organic compounds -- Synthesis</dc:subject>
+        <dc:subject>Selenium</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yü-Gwan Chen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:07:31.029869+00:00"/>
+        <meta name="calibre:title_sort" content="Synthesis of 2-methyl-4-selenoquinazolone, 2-phenylbenzoselenazole, and its derivatives / Dissertation submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy in the Faculty of Pure Science of Columbia University"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

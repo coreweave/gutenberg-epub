@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9010</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ccd7860-7a1d-4193-b3fe-7dedaafd6bd7</dc:identifier>
+        <dc:title>Colored Americans in the Wars of 1776 and 1812</dc:title>
+        <dc:creator opf:file-as="Nell, William C. (William Cooper)" opf:role="aut">William C. Nell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59344</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Participation</dc:subject>
+        <dc:subject>African American</dc:subject>
+        <dc:subject>United States -- History -- War of 1812 -- Participation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William C. Nell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:22:54.829499+00:00"/>
+        <meta name="calibre:title_sort" content="Colored Americans in the Wars of 1776 and 1812"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f0e060a-330c-460a-8d5b-b6d0c1e81ca7</dc:identifier>
+        <dc:title>Penelope: or, Love's Labour Lost, Vol. 2 (of 3)</dc:title>
+        <dc:creator opf:file-as="Scargill, William Pitt" opf:role="aut">William Pitt Scargill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44159</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Pitt Scargill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:10:34.181092+00:00"/>
+        <meta name="calibre:title_sort" content="Penelope: or, Love's Labour Lost, Vol. 2 (of 3)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

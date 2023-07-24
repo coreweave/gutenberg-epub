@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23093</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90fb6f7e-dd05-4e65-8a26-bb44c30f1aac</dc:identifier>
+        <dc:title>Mutual Aid: A Factor of Evolution</dc:title>
+        <dc:creator opf:file-as="Kropotkin, Petr Alekseevich, kniaz" opf:role="aut">kniaz Petr Alekseevich Kropotkin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4341</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooperation</dc:subject>
+        <dc:subject>Social groups</dc:subject>
+        <dc:subject>Social institutions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;kniaz Petr Alekseevich Kropotkin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:07:27.345596+00:00"/>
+        <meta name="calibre:title_sort" content="Mutual Aid: A Factor of Evolution"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

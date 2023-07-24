@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5a8f16c-e605-4ae1-a3f8-c4a175b93680</dc:identifier>
+        <dc:title>The Lost Gold of the Montezumas: A Story of the Alamo</dc:title>
+        <dc:creator opf:file-as="Stoddard, William O." opf:role="aut">William O. Stoddard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38603</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alamo (San Antonio</dc:subject>
+        <dc:subject>Tex.) -- Siege</dc:subject>
+        <dc:subject>1836 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William O. Stoddard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:58:48.006559+00:00"/>
+        <meta name="calibre:title_sort" content="Lost Gold of the Montezumas: A Story of the Alamo, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab9612fb-eec0-4f63-b634-03d9142485b1</dc:identifier>
+        <dc:title>The Conquest of Bread</dc:title>
+        <dc:creator opf:file-as="Kropotkin, Petr Alekseevich, kniaz" opf:role="aut">kniaz Petr Alekseevich Kropotkin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23428</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Communism</dc:subject>
+        <dc:subject>Anarchism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;kniaz Petr Alekseevich Kropotkin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:36:07.160369+00:00"/>
+        <meta name="calibre:title_sort" content="Conquest of Bread, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

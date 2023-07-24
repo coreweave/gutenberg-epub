@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a78cc5b7-080f-4feb-9901-71a4f1b27dba</dc:identifier>
+        <dc:title>Reminiscences of a Private, Company "G", First Arkansas Regiment Infantry: May, 1861 to 1865</dc:title>
+        <dc:creator opf:file-as="Bevens, William E." opf:role="aut">William E. Bevens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Bevens</dc:subject>
+        <dc:subject>William E.</dc:subject>
+        <dc:subject>1841-1924</dc:subject>
+        <dc:subject>Confederate States of America. Army. Arkansas Infantry Regiment</dc:subject>
+        <dc:subject>1st -- Biography</dc:subject>
+        <dc:subject>Soldiers -- Arkansas -- Biography</dc:subject>
+        <dc:subject>Arkansas -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William E. Bevens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:10:55.578033+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of a Private, Company &quot;G&quot;, First Arkansas Regiment Infantry: May, 1861 to 1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

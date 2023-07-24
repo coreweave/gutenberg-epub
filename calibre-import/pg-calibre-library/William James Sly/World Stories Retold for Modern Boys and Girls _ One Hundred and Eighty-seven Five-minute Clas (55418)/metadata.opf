@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55418</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8499db0e-173d-4820-8ef6-ba0cdf228589</dc:identifier>
+        <dc:title>World Stories Retold for Modern Boys and Girls / One Hundred and Eighty-seven Five-minute Classic Stories for Retelling in Home, Sunday School, Children's Services, Public School Grades and "The Story-hour" in Public Libraries</dc:title>
+        <dc:creator opf:file-as="Sly, William James" opf:role="aut">William James Sly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55786</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Storytelling</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William James Sly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:56:17.104126+00:00"/>
+        <meta name="calibre:title_sort" content="World Stories Retold for Modern Boys and Girls / One Hundred and Eighty-seven Five-minute Classic Stories for Retelling in Home, Sunday School, Children's Services, Public School Grades and &quot;The Story-hour&quot; in Public Libraries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

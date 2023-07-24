@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca9803ea-f219-4f2c-a6cd-091848aae3e6</dc:identifier>
+        <dc:title>Literary Friends and Acquaintance; a Personal Retrospect of American Authorship</dc:title>
+        <dc:creator opf:file-as="Howells, William Dean" opf:role="aut">William Dean Howells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4201</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American literature -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Howells</dc:subject>
+        <dc:subject>William Dean</dc:subject>
+        <dc:subject>1837-1920 -- Friends and associates</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Dean Howells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:09:20.368667+00:00"/>
+        <meta name="calibre:title_sort" content="Literary Friends and Acquaintance; a Personal Retrospect of American Authorship"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

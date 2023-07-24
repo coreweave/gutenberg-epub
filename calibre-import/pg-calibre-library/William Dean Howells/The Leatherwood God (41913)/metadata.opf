@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">718b7d37-5152-4fe6-865c-7d56b6fe5d01</dc:identifier>
+        <dc:title>The Leatherwood God</dc:title>
+        <dc:creator opf:file-as="Howells, William Dean" opf:role="aut">William Dean Howells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7311</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Impostors and imposture -- Fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Ohio -- Fiction</dc:subject>
+        <dc:subject>Dylks</dc:subject>
+        <dc:subject>Joseph C. -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Dean Howells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:14:37.606306+00:00"/>
+        <meta name="calibre:title_sort" content="Leatherwood God, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

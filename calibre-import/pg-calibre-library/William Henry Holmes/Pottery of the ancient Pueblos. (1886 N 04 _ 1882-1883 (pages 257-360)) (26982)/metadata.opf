@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26982</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ec0fe8e-b743-418f-8900-d52be189b5f2</dc:identifier>
+        <dc:title>Pottery of the ancient Pueblos. (1886 N 04 / 1882-1883 (pages 257-360))</dc:title>
+        <dc:creator opf:file-as="Holmes, William Henry" opf:role="aut">William Henry Holmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41998</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indian pottery -- North America</dc:subject>
+        <dc:subject>Pueblo Indians -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Holmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:53:52.941002+00:00"/>
+        <meta name="calibre:title_sort" content="Pottery of the ancient Pueblos. (1886 N 04 / 1882-1883 (pages 257-360))"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

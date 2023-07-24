@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0fe2bdb-6414-40b2-bc81-5069d013ece5</dc:identifier>
+        <dc:title>The Great War in England in 1897</dc:title>
+        <dc:creator opf:file-as="Le Queux, William" opf:role="aut">William Le Queux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37470</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Imaginary wars and battles</dc:subject>
+        <dc:subject>Great Britain -- Defenses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Le Queux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:18:45.788663+00:00"/>
+        <meta name="calibre:title_sort" content="Great War in England in 1897, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

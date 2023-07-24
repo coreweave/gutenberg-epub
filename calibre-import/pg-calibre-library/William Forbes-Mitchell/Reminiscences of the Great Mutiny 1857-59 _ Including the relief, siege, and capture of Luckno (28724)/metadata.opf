@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dd4a4bc-8728-4d65-9276-bd4bfb2607e3</dc:identifier>
+        <dc:title>Reminiscences of the Great Mutiny 1857-59 / Including the relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude</dc:title>
+        <dc:creator opf:file-as="Forbes-Mitchell, William" opf:role="aut">William Forbes-Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33426</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- Sepoy Rebellion</dc:subject>
+        <dc:subject>1857-1858 -- Personal narratives</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Lucknow (India) -- History -- Siege</dc:subject>
+        <dc:subject>1857 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Forbes-Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:11:30.916405+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of the Great Mutiny 1857-59 / Including the relief, siege, and capture of Lucknow, and the campaigns in Rohilcund and Oude"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

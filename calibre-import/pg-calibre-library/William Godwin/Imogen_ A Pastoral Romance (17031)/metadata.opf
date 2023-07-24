@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52b079ae-fc22-4428-a415-79a81f49221f</dc:identifier>
+        <dc:title>Imogen: A Pastoral Romance</dc:title>
+        <dc:creator opf:file-as="Godwin, William" opf:role="aut">William Godwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9152</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pastoral fiction</dc:subject>
+        <dc:subject>Wales -- Fiction</dc:subject>
+        <dc:subject>Druids and druidism -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Godwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:19:42.717467+00:00"/>
+        <meta name="calibre:title_sort" content="Imogen: A Pastoral Romance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

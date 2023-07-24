@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d79e6d12-4908-45a2-8733-7c4276fa36c7</dc:identifier>
+        <dc:title>The Lady of the Aroostook</dc:title>
+        <dc:creator opf:file-as="Howells, William Dean" opf:role="aut">William Dean Howells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7797</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Venice (Italy) -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Fiction</dc:subject>
+        <dc:subject>Transatlantic voyages -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Dean Howells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:58:34.372316+00:00"/>
+        <meta name="calibre:title_sort" content="Lady of the Aroostook, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

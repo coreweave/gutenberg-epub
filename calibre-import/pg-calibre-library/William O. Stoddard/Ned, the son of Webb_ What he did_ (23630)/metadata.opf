@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72c0417a-28f4-4b85-96fc-82a30625b30e</dc:identifier>
+        <dc:title>Ned, the son of Webb: What he did.</dc:title>
+        <dc:creator opf:file-as="Stoddard, William O." opf:role="aut">William O. Stoddard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46956</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Time travel -- Juvenile fiction</dc:subject>
+        <dc:subject>Stamford Bridge</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>1066 -- Juvenile fiction</dc:subject>
+        <dc:subject>Hastings</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William O. Stoddard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:30:30.572163+00:00"/>
+        <meta name="calibre:title_sort" content="Ned, the son of Webb: What he did."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

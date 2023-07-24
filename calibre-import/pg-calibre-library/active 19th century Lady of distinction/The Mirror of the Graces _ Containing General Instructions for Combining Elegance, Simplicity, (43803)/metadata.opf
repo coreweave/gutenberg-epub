@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec5fabc8-d1f9-4870-a15f-79d3c674b9d2</dc:identifier>
+        <dc:title>The Mirror of the Graces / Containing General Instructions for Combining Elegance, Simplicity, and Economy with Fashion in Dress; Hints on Female Accomplishments and Manners; and Directions for the Preservation of Health and Beauty</dc:title>
+        <dc:creator opf:file-as="Lady of distinction, active 19th century" opf:role="aut">active 19th century Lady of distinction</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67790</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beauty</dc:subject>
+        <dc:subject>Personal</dc:subject>
+        <dc:subject>Clothing and dress -- Great Britain -- History -- 19th century</dc:subject>
+        <dc:subject>Etiquette -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 19th century Lady of distinction&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:59:56.360678+00:00"/>
+        <meta name="calibre:title_sort" content="Mirror of the Graces / Containing General Instructions for Combining Elegance, Simplicity, and Economy with Fashion in Dress; Hints on Female Accomplishments and Manners; and Directions for the Preservation of Health and Beauty, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

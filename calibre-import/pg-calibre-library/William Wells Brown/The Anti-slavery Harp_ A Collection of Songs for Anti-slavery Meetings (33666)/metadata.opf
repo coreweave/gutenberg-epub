@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9f3b8ba-c71a-4fde-bb08-d5410b1674e9</dc:identifier>
+        <dc:title>The Anti-slavery Harp: A Collection of Songs for Anti-slavery Meetings</dc:title>
+        <dc:creator opf:file-as="Brown, William Wells" opf:role="aut">William Wells Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58414</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States -- Poetry</dc:subject>
+        <dc:subject>Antislavery movements -- Songs and music</dc:subject>
+        <dc:subject>Songs</dc:subject>
+        <dc:subject>English -- United States -- Texts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Wells Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:08:48.085284+00:00"/>
+        <meta name="calibre:title_sort" content="Anti-slavery Harp: A Collection of Songs for Anti-slavery Meetings, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

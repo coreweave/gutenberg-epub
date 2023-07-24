@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9f5253f-fec0-43e7-b47d-e327ac626349</dc:identifier>
+        <dc:title>The Promulgation of Universal Peace</dc:title>
+        <dc:creator opf:file-as="`Abdu'l-Bahá" opf:role="aut">`Abdu'l-Bahá</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bahai Faith</dc:subject>
+        <dc:subject>Peace -- Religious aspects -- Bahai Faith</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;`Abdu'l-Bahá&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:07:11.771501+00:00"/>
+        <meta name="calibre:title_sort" content="Promulgation of Universal Peace, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

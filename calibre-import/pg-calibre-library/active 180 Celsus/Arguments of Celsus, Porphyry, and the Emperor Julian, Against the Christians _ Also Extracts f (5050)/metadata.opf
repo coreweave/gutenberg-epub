@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5050</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fa08047-023f-4210-9a07-f015a5ceb765</dc:identifier>
+        <dc:title>Arguments of Celsus, Porphyry, and the Emperor Julian, Against the Christians / Also Extracts from Diodorus Siculus, Josephus, and Tacitus, Relating to the Jews, Together with an Appendix</dc:title>
+        <dc:creator opf:file-as="Celsus (Platonic philosopher), active 180" opf:role="aut">active 180 Celsus</dc:creator>
+        <dc:creator opf:file-as="Celsus (Platonic philosopher), active 180" opf:role="aut">Siculus Diodorus</dc:creator>
+        <dc:creator opf:file-as="Celsus (Platonic philosopher), active 180" opf:role="aut">Flavius Josephus</dc:creator>
+        <dc:creator opf:file-as="Celsus (Platonic philosopher), active 180" opf:role="aut">Emperor of Rome Julian</dc:creator>
+        <dc:creator opf:file-as="Celsus (Platonic philosopher), active 180" opf:role="aut">Porphyry</dc:creator>
+        <dc:creator opf:file-as="Celsus (Platonic philosopher), active 180" opf:role="aut">Cornelius Tacitus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37696</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theology -- Early works to 1800</dc:subject>
+        <dc:subject>Christianity -- Controversial literature -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 180 Celsus&quot;: &quot;&quot;, &quot;Siculus Diodorus&quot;: &quot;&quot;, &quot;Flavius Josephus&quot;: &quot;&quot;, &quot;Emperor of Rome Julian&quot;: &quot;&quot;, &quot;Porphyry&quot;: &quot;&quot;, &quot;Cornelius Tacitus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:53:14.696788+00:00"/>
+        <meta name="calibre:title_sort" content="Arguments of Celsus, Porphyry, and the Emperor Julian, Against the Christians / Also Extracts from Diodorus Siculus, Josephus, and Tacitus, Relating to the Jews, Together with an Appendix"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

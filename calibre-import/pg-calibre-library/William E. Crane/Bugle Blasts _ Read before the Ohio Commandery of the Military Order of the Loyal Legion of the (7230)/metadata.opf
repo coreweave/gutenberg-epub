@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c2b6500-dd01-4869-9262-4a76498eadb2</dc:identifier>
+        <dc:title>Bugle Blasts / Read before the Ohio Commandery of the Military Order of the Loyal Legion of the United States</dc:title>
+        <dc:creator opf:file-as="Crane, William E. (William Edmund)" opf:role="aut">William E. Crane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31049</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>Crane</dc:subject>
+        <dc:subject>William E. (William Edmund)</dc:subject>
+        <dc:subject>United States. Army. Ohio Cavalry Regiment</dc:subject>
+        <dc:subject>4th (1861-1865)</dc:subject>
+        <dc:subject>Ohio -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William E. Crane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:40:13.852642+00:00"/>
+        <meta name="calibre:title_sort" content="Bugle Blasts / Read before the Ohio Commandery of the Military Order of the Loyal Legion of the United States"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

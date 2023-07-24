@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">faa6991e-37b3-4ab6-b52e-db5327e8861a</dc:identifier>
+        <dc:title>A New Orchard And Garden / or, The best way for planting, grafting, and to make any ground good, for a rich Orchard: Particularly in the North and generally for the whole kingdome of England</dc:title>
+        <dc:creator opf:file-as="Harward, Simon, active 1572-1614" opf:role="aut">active 1572-1614 Simon Harward</dc:creator>
+        <dc:creator opf:file-as="Harward, Simon, active 1572-1614" opf:role="aut">active 1618 William Lawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gardening -- Early works to 1800</dc:subject>
+        <dc:subject>Fruit-culture -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1572-1614 Simon Harward&quot;: &quot;&quot;, &quot;active 1618 William Lawson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:44.109057+00:00"/>
+        <meta name="calibre:title_sort" content="New Orchard And Garden / or, The best way for planting, grafting, and to make any ground good, for a rich Orchard: Particularly in the North and generally for the whole kingdome of England, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

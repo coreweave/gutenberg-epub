@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a42833a-5c2f-4fb1-9b12-e3a129e9e6de</dc:identifier>
+        <dc:title>Calumny Refuted by Facts From Liberia / With Extracts From the Inaugural Address of the Coloured President Roberts; an Eloquent Speech of Hilary Teage, a Coloured Senator; and Extracts From a Discourse by H. H. Garnett, a Fugitive Slave, on the Past and Present Condition, and Destiny of the Coloured Race. Presented to the Boston Anti-slavery Bazaar, U.S., By the Author of "A Tribute for the Negro."</dc:title>
+        <dc:creator opf:file-as="Armistead, Wilson" opf:role="aut">Wilson Armistead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41069</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Liberia</dc:subject>
+        <dc:subject>African Americans -- Colonization -- Africa</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wilson Armistead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:45:41.123370+00:00"/>
+        <meta name="calibre:title_sort" content="Calumny Refuted by Facts From Liberia / With Extracts From the Inaugural Address of the Coloured President Roberts; an Eloquent Speech of Hilary Teage, a Coloured Senator; and Extracts From a Discourse by H. H. Garnett, a Fugitive Slave, on the Past and Present Condition, and Destiny of the Coloured Race. Presented to the Boston Anti-slavery Bazaar, U.S., By the Author of &quot;A Tribute for the Negro.&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35391046-6ce9-440e-bd35-67d2c0ac8445</dc:identifier>
+        <dc:title>A Taxonomic Study of the Middle American Snake, Pituophis deppei</dc:title>
+        <dc:creator opf:file-as="Duellman, William Edward" opf:role="aut">William Edward Duellman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31570</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Snakes -- Latin America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Edward Duellman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:09:38.813165+00:00"/>
+        <meta name="calibre:title_sort" content="Taxonomic Study of the Middle American Snake, Pituophis deppei, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

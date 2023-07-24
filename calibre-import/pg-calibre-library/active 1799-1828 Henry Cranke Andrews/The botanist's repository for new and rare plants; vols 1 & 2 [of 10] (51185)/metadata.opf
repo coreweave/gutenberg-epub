@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dfdc186-db47-43b1-8827-830ae1a18d32</dc:identifier>
+        <dc:title>The botanist's repository for new and rare plants; vols 1 &amp; 2 [of 10]</dc:title>
+        <dc:creator opf:file-as="Andrews, Henry Cranke, active 1799-1828" opf:role="aut">active 1799-1828 Henry Cranke Andrews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69992</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plants -- Pictorial works</dc:subject>
+        <dc:subject>Plants</dc:subject>
+        <dc:subject>Cultivated -- Pictorial works</dc:subject>
+        <dc:subject>Rare plants -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1799-1828 Henry Cranke Andrews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:21:56.405343+00:00"/>
+        <meta name="calibre:title_sort" content="botanist's repository for new and rare plants; vols 1 &amp; 2 [of 10], The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

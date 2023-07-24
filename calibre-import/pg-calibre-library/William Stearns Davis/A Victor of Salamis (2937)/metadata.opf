@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2937</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5072768-e79d-4e1f-97db-10e8da5ad8f2</dc:identifier>
+        <dc:title>A Victor of Salamis</dc:title>
+        <dc:creator opf:file-as="Davis, William Stearns" opf:role="aut">William Stearns Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27587</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Xerxes I</dc:subject>
+        <dc:subject>King of Persia</dc:subject>
+        <dc:subject>519 B.C.-465 B.C. or 464 B.C. -- Fiction</dc:subject>
+        <dc:subject>Leonidas</dc:subject>
+        <dc:subject>King of Sparta</dc:subject>
+        <dc:subject>-480 B.C. -- Fiction</dc:subject>
+        <dc:subject>Themistocles</dc:subject>
+        <dc:subject>approximately 524 B.C.-approximately 459 B.C. -- Fiction</dc:subject>
+        <dc:subject>Salamis</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Greece</dc:subject>
+        <dc:subject>480 B.C. -- Fiction</dc:subject>
+        <dc:subject>Greece -- History -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Stearns Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:13:24.913514+00:00"/>
+        <meta name="calibre:title_sort" content="Victor of Salamis, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

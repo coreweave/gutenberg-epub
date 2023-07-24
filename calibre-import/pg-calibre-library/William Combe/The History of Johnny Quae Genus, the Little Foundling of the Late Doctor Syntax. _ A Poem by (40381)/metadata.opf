@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85ad7971-2cf3-4b63-a979-ec0b0ded855e</dc:identifier>
+        <dc:title>The History of Johnny Quæ Genus, the Little Foundling of the Late Doctor Syntax. / A Poem by the Author of the Three Tours.</dc:title>
+        <dc:creator opf:file-as="Combe, William" opf:role="aut">William Combe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Great Britain -- Social life and customs -- 19th century -- Caricatures and cartoons</dc:subject>
+        <dc:subject>Great Britain -- Social life and customs -- 19th century -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Combe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:51:01.933422+00:00"/>
+        <meta name="calibre:title_sort" content="History of Johnny Quæ Genus, the Little Foundling of the Late Doctor Syntax. / A Poem by the Author of the Three Tours., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

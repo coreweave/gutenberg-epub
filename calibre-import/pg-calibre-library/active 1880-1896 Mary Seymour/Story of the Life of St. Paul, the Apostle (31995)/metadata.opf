@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91645f29-f94d-456d-93d6-8ce517cbe57e</dc:identifier>
+        <dc:title>Story of the Life of St. Paul, the Apostle</dc:title>
+        <dc:creator opf:file-as="Seymour, Mary, active 1880-1896" opf:role="aut">active 1880-1896 Mary Seymour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63093</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paul</dc:subject>
+        <dc:subject>the Apostle</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1880-1896 Mary Seymour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:47:54.417008+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the Life of St. Paul, the Apostle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3133b3bb-98e6-4d85-8323-b67e9ec7dc27</dc:identifier>
+        <dc:title>History of the war in the Peninsula and in the south of France from the year 1807 to the year 1814, vol. 3</dc:title>
+        <dc:creator opf:file-as="Napier, William Francis Patrick" opf:role="aut">William Francis Patrick Napier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68187</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Francis Patrick Napier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:56:14.859441+00:00"/>
+        <meta name="calibre:title_sort" content="History of the war in the Peninsula and in the south of France from the year 1807 to the year 1814, vol. 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

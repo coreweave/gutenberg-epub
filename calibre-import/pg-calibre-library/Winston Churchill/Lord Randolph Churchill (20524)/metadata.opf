@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f810c957-0733-4788-8aab-f3eaec3a5018</dc:identifier>
+        <dc:title>Lord Randolph Churchill</dc:title>
+        <dc:creator opf:file-as="Churchill, Winston" opf:role="aut">Winston Churchill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42817</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Churchill</dc:subject>
+        <dc:subject>Randolph Henry Spencer</dc:subject>
+        <dc:subject>Lord</dc:subject>
+        <dc:subject>1849-1895</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Winston Churchill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:24:02.998267+00:00"/>
+        <meta name="calibre:title_sort" content="Lord Randolph Churchill"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

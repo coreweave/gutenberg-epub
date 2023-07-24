@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49266f3e-4b4a-437b-86ad-37b828a8a6bc</dc:identifier>
+        <dc:title>Eulogy on Chief-Justice Chase /</dc:title>
+        <dc:creator opf:file-as="Evarts, William Maxwell" opf:role="aut">William Maxwell Evarts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19165</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chase</dc:subject>
+        <dc:subject>Salmon P. (Salmon Portland)</dc:subject>
+        <dc:subject>1808-1873</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Maxwell Evarts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:43:14.585038+00:00"/>
+        <meta name="calibre:title_sort" content="Eulogy on Chief-Justice Chase /"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee164444-1a64-4608-b6c8-23f5acd779e0</dc:identifier>
+        <dc:title>John Eliot's First Indian Teacher and Interpreter Cockenoe-de-Long Island and The Story of His Career from the Early Records</dc:title>
+        <dc:creator opf:file-as="Tooker, William Wallace" opf:role="aut">William Wallace Tooker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24046</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cockenoe-de-Long Island</dc:subject>
+        <dc:subject>active 1649-1687</dc:subject>
+        <dc:subject>Eliot</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1604-1690</dc:subject>
+        <dc:subject>Indians of North America -- New York (State) -- Long Island</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Wallace Tooker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:07:40.762861+00:00"/>
+        <meta name="calibre:title_sort" content="John Eliot's First Indian Teacher and Interpreter Cockenoe-de-Long Island and The Story of His Career from the Early Records"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

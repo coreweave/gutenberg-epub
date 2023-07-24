@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4668fc51-02b0-434f-a1a9-d54825f1376d</dc:identifier>
+        <dc:title>The deadly thinkers</dc:title>
+        <dc:creator opf:file-as="Beyer, William Gray" opf:role="aut">William Gray Beyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Artificial intelligence -- Fiction</dc:subject>
+        <dc:subject>Computers -- Fiction</dc:subject>
+        <dc:subject>Psychic ability -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Gray Beyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:27:32.518763+00:00"/>
+        <meta name="calibre:title_sort" content="deadly thinkers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

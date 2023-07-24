@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">261f12c1-917b-4897-ae11-4852c5c79218</dc:identifier>
+        <dc:title>Watts (1817-1904)</dc:title>
+        <dc:creator opf:file-as="Hare, William Loftus" opf:role="aut">William Loftus Hare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13477</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Watts</dc:subject>
+        <dc:subject>George Frederick</dc:subject>
+        <dc:subject>1817-1904</dc:subject>
+        <dc:subject>Painters -- England -- Biography</dc:subject>
+        <dc:subject>Painting</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Loftus Hare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:38:14.859176+00:00"/>
+        <meta name="calibre:title_sort" content="Watts (1817-1904)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

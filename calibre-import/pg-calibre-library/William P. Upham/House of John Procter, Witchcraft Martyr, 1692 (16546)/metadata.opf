@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a652e49f-5520-4171-afc2-0126bb701c1a</dc:identifier>
+        <dc:title>House of John Procter, Witchcraft Martyr, 1692</dc:title>
+        <dc:creator opf:file-as="Upham, William P. (William Phineas)" opf:role="aut">William P. Upham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Procter</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1632-1692</dc:subject>
+        <dc:subject>Peabody (Mass.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William P. Upham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:03:26.172532+00:00"/>
+        <meta name="calibre:title_sort" content="House of John Procter, Witchcraft Martyr, 1692"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

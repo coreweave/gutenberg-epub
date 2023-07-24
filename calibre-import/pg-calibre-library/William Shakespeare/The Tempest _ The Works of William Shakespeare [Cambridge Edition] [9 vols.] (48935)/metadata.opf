@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad860fe1-0d6f-42c8-9006-f7a1b4b75754</dc:identifier>
+        <dc:title>The Tempest / The Works of William Shakespeare [Cambridge Edition] [9 vols.]</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23042</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwreck victims -- Drama</dc:subject>
+        <dc:subject>Fathers and daughters -- Drama</dc:subject>
+        <dc:subject>Magicians -- Drama</dc:subject>
+        <dc:subject>Political refugees -- Drama</dc:subject>
+        <dc:subject>Islands -- Drama</dc:subject>
+        <dc:subject>Spirits -- Drama</dc:subject>
+        <dc:subject>Tragicomedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Shakespeare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:59:25.073571+00:00"/>
+        <meta name="calibre:title_sort" content="Tempest / The Works of William Shakespeare [Cambridge Edition] [9 vols.], The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

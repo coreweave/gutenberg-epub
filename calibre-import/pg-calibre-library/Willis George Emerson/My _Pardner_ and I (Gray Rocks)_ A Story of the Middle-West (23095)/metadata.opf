@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52a07acc-a313-4c2d-ba34-12d75eac6d9a</dc:identifier>
+        <dc:title>My "Pardner" and I (Gray Rocks): A Story of the Middle-West</dc:title>
+        <dc:creator opf:file-as="Emerson, Willis George" opf:role="aut">Willis George Emerson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52458</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Miners -- Fiction</dc:subject>
+        <dc:subject>Gold mines and mining -- Fiction</dc:subject>
+        <dc:subject>Prospecting -- Fiction</dc:subject>
+        <dc:subject>Idaho -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willis George Emerson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:07:32.348122+00:00"/>
+        <meta name="calibre:title_sort" content="My &quot;Pardner&quot; and I (Gray Rocks): A Story of the Middle-West"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

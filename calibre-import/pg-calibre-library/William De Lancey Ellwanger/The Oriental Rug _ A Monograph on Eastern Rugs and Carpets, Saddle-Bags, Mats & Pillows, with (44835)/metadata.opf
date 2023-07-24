@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed4093df-2729-492b-bdb3-35f14e81ff45</dc:identifier>
+        <dc:title>The Oriental Rug / A Monograph on Eastern Rugs and Carpets, Saddle-Bags, Mats &amp; Pillows, with a Consideration of Kinds and Classes, Types, Borders, Figures, Dyes, Symbols, etc. Together with Some Practical Advice to Collectors.</dc:title>
+        <dc:creator opf:file-as="Ellwanger, William De Lancey" opf:role="aut">William De Lancey Ellwanger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33144</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Collectors and collecting</dc:subject>
+        <dc:subject>Rugs</dc:subject>
+        <dc:subject>Oriental</dc:subject>
+        <dc:subject>Carpets</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William De Lancey Ellwanger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:58:12.494724+00:00"/>
+        <meta name="calibre:title_sort" content="Oriental Rug / A Monograph on Eastern Rugs and Carpets, Saddle-Bags, Mats &amp; Pillows, with a Consideration of Kinds and Classes, Types, Borders, Figures, Dyes, Symbols, etc. Together with Some Practical Advice to Collectors., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

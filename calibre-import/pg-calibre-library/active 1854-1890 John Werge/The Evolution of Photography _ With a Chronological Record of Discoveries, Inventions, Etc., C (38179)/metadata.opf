@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cf30fd9-e4ba-4317-b7fa-106b23bc95c7</dc:identifier>
+        <dc:title>The Evolution of Photography / With a Chronological Record of Discoveries, Inventions, Etc., Contributions to Photographic Literature, and Personal Reminescences Extending over Forty Years</dc:title>
+        <dc:creator opf:file-as="Werge, John, active 1854-1890" opf:role="aut">active 1854-1890 John Werge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38866</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Photography -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1854-1890 John Werge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:55:49.791877+00:00"/>
+        <meta name="calibre:title_sort" content="Evolution of Photography / With a Chronological Record of Discoveries, Inventions, Etc., Contributions to Photographic Literature, and Personal Reminescences Extending over Forty Years, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fb42829-941a-4745-8ed9-8499f43a9f32</dc:identifier>
+        <dc:title>Red-Tape and Pigeon-Hole Generals / As Seen From the Ranks During a Campaign in the Army of the Potomac</dc:title>
+        <dc:creator opf:file-as="Armstrong, William H." opf:role="aut">William H. Armstrong</dc:creator>
+        <dc:creator opf:file-as="Armstrong, William H." opf:role="aut">Jacob G. Frick</dc:creator>
+        <dc:creator opf:file-as="Armstrong, William H." opf:role="aut">Henry Morford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23565</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories -- Army of the Potomac</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William H. Armstrong&quot;: &quot;&quot;, &quot;Jacob G. Frick&quot;: &quot;&quot;, &quot;Henry Morford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:04:31.139395+00:00"/>
+        <meta name="calibre:title_sort" content="Red-Tape and Pigeon-Hole Generals / As Seen From the Ranks During a Campaign in the Army of the Potomac"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

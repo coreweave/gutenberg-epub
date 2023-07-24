@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9b5d321-09f0-4483-a349-5a5e8f0b09c8</dc:identifier>
+        <dc:title>Christianity Unveiled / Being an Examination of the Principles and Effects of the Christian Religion</dc:title>
+        <dc:creator opf:file-as="Holbach, Paul Henri Thiry, baron d'" opf:role="aut">baron d' Paul Henri Thiry Holbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40770</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Free thought</dc:subject>
+        <dc:subject>Christianity -- Controversial literature</dc:subject>
+        <dc:subject>Atheism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;baron d' Paul Henri Thiry Holbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:11:56.901910+00:00"/>
+        <meta name="calibre:title_sort" content="Christianity Unveiled / Being an Examination of the Principles and Effects of the Christian Religion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

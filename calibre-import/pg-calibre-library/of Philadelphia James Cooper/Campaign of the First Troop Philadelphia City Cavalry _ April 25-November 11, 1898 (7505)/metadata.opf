@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e12dc9e6-b9ea-4f06-b047-b03535051c97</dc:identifier>
+        <dc:title>Campaign of the First Troop Philadelphia City Cavalry / April 25-November 11, 1898</dc:title>
+        <dc:creator opf:file-as="Cooper, James, of Philadelphia" opf:role="aut">of Philadelphia James Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37755</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spanish-American War</dc:subject>
+        <dc:subject>1898 -- Regimental histories -- United States</dc:subject>
+        <dc:subject>Pennsylvania. National Guard. Troop of Philadelphia Cavalry</dc:subject>
+        <dc:subject>1st</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;of Philadelphia James Cooper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:46:36.499370+00:00"/>
+        <meta name="calibre:title_sort" content="Campaign of the First Troop Philadelphia City Cavalry / April 25-November 11, 1898"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

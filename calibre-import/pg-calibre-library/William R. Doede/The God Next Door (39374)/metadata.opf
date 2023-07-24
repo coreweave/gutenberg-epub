@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">974214e8-8edf-47ec-bdbc-58534d81a1b9</dc:identifier>
+        <dc:title>The God Next Door</dc:title>
+        <dc:creator opf:file-as="Doede, William R." opf:role="aut">William R. Doede</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51699</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Interstellar travel -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William R. Doede&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:57:54.269235+00:00"/>
+        <meta name="calibre:title_sort" content="God Next Door, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

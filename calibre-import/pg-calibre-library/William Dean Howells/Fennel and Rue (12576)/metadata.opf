@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d2a50e8-3d44-4b6b-b048-9b9a81567352</dc:identifier>
+        <dc:title>Fennel and Rue</dc:title>
+        <dc:creator opf:file-as="Howells, William Dean" opf:role="aut">William Dean Howells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3363</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Editors -- Fiction</dc:subject>
+        <dc:subject>Novelists -- Fiction</dc:subject>
+        <dc:subject>Fan mail -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Dean Howells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:58:34.145650+00:00"/>
+        <meta name="calibre:title_sort" content="Fennel and Rue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

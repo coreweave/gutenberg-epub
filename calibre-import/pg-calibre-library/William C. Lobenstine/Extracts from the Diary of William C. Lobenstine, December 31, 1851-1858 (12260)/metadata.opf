@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12260</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e6f878d-b573-4ac8-9596-4a798b6c5c50</dc:identifier>
+        <dc:title>Extracts from the Diary of William C. Lobenstine, December 31, 1851-1858</dc:title>
+        <dc:creator opf:file-as="Lobenstine, William C. (William Christian)" opf:role="aut">William C. Lobenstine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53043</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Overland journeys to the Pacific</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William C. Lobenstine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:49:35.562471+00:00"/>
+        <meta name="calibre:title_sort" content="Extracts from the Diary of William C. Lobenstine, December 31, 1851-1858"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

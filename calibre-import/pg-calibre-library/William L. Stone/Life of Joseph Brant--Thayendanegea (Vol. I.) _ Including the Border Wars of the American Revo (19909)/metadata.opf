@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc09825b-e508-48b7-acbe-dddfe7eeb713</dc:identifier>
+        <dc:title>Life of Joseph Brant—Thayendanegea (Vol. I.) / Including the Border Wars of the American Revolution and Sketches of the Indian Campaigns of Generals Harmar, St. Clair, and Wayne; And Other Matters Connected with the Indian Relations of the United States and Great Britain, from the Peace of 1783 to the Indian Peace of 1795</dc:title>
+        <dc:creator opf:file-as="Stone, William L. (William Leete)" opf:role="aut">William L. Stone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52072</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Wars -- 1750-1815</dc:subject>
+        <dc:subject>Brant</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1742-1807</dc:subject>
+        <dc:subject>Mohawk Indians -- Kings and rulers -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William L. Stone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:00:51.998765+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Joseph Brant—Thayendanegea (Vol. I.) / Including the Border Wars of the American Revolution and Sketches of the Indian Campaigns of Generals Harmar, St. Clair, and Wayne; And Other Matters Connected with the Indian Relations of the United States and Great Britain, from the Peace of 1783 to the Indian Peace of 1795"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

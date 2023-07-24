@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11077acc-52cd-47b0-b7b4-1fb9f8c72236</dc:identifier>
+        <dc:title>Congressional Government: A Study in American Politics</dc:title>
+        <dc:creator opf:file-as="Wilson, Woodrow" opf:role="aut">Woodrow Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35861</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government</dc:subject>
+        <dc:subject>United States. Congress</dc:subject>
+        <dc:subject>Executive power -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Woodrow Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:28:14.848667+00:00"/>
+        <meta name="calibre:title_sort" content="Congressional Government: A Study in American Politics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

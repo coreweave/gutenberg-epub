@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c342633-f350-4e6b-a7a4-ecb6556fca98</dc:identifier>
+        <dc:title>60 New Trimmed Gift Ideas</dc:title>
+        <dc:creator opf:file-as="Wm. E. Wright &amp; Sons Co." opf:role="aut">Wm. E. Wright</dc:creator>
+        <dc:creator opf:file-as="Wm. E. Wright &amp; Sons Co." opf:role="aut">Sons Co.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65503</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Handicraft</dc:subject>
+        <dc:subject>Christmas decorations</dc:subject>
+        <dc:subject>Ribbon work</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wm. E. Wright&quot;: &quot;&quot;, &quot;Sons Co.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:30:11.566799+00:00"/>
+        <meta name="calibre:title_sort" content="60 New Trimmed Gift Ideas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

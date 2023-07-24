@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">591a4ee8-666c-4290-84e9-fcb9de211052</dc:identifier>
+        <dc:title>The Story of Nelson / also "The Grateful Indian", "The Boatswain's Son"</dc:title>
+        <dc:creator opf:file-as="Kingston, William Henry Giles" opf:role="aut">William Henry Giles Kingston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23504</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Indians of North America -- Juvenile fiction</dc:subject>
+        <dc:subject>Nelson</dc:subject>
+        <dc:subject>Horatio Nelson</dc:subject>
+        <dc:subject>Viscount</dc:subject>
+        <dc:subject>1758-1805 -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Ship captains -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Giles Kingston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:22:23.719561+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Nelson / also &quot;The Grateful Indian&quot;, &quot;The Boatswain's Son&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

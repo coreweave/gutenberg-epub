@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4a92042-5b58-401f-bf37-b48f17d897b1</dc:identifier>
+        <dc:title>Clotelle; Or, The Colored Heroine, a tale of the Southern States; Or, The President's Daughter</dc:title>
+        <dc:creator opf:file-as="Brown, William Wells" opf:role="aut">William Wells Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children of presidents -- Fiction</dc:subject>
+        <dc:subject>Women slaves -- Fiction</dc:subject>
+        <dc:subject>Jefferson</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1743-1826 -- Relations with women -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Illegitimate children -- Fiction</dc:subject>
+        <dc:subject>African American women -- Fiction</dc:subject>
+        <dc:subject>African American families -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Wells Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:20:01.015948+00:00"/>
+        <meta name="calibre:title_sort" content="Clotelle; Or, The Colored Heroine, a tale of the Southern States; Or, The President's Daughter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

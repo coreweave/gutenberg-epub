@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d3d7af2-84b6-4305-ae94-0dfeac3ffa9e</dc:identifier>
+        <dc:title>Memoirs of General W. T. Sherman, Volume I., Part 1</dc:title>
+        <dc:creator opf:file-as="Sherman, William T. (William Tecumseh)" opf:role="aut">William T. Sherman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5850</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- United States -- Biography</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>Sherman</dc:subject>
+        <dc:subject>William T. (William Tecumseh)</dc:subject>
+        <dc:subject>1820-1891</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>United States. Army -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William T. Sherman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:10:00.195855+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of General W. T. Sherman, Volume I., Part 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

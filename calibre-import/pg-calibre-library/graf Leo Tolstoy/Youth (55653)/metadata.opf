@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55653</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12e0bfc8-48ad-4b3c-9cfa-ad7571f7eaba</dc:identifier>
+        <dc:title>Youth</dc:title>
+        <dc:creator opf:file-as="Tolstoy, Leo, graf" opf:role="aut">graf Leo Tolstoy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2637</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Autobiographical fiction</dc:subject>
+        <dc:subject>Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
+        <dc:subject>Tolstoy</dc:subject>
+        <dc:subject>Leo</dc:subject>
+        <dc:subject>graf</dc:subject>
+        <dc:subject>1828-1910 -- Childhood and youth -- Fiction</dc:subject>
+        <dc:subject>Russia -- History -- 1801-1917 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;graf Leo Tolstoy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:12:17.443889+00:00"/>
+        <meta name="calibre:title_sort" content="Youth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

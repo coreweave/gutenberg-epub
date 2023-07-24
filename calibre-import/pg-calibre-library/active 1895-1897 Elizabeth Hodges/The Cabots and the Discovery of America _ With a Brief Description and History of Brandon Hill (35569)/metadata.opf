@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b31bbfe-7641-4616-b7a8-0341c98eba3f</dc:identifier>
+        <dc:title>The Cabots and the Discovery of America / With a Brief Description and History of Brandon Hill, the Site of the Cabot Memorial Tower</dc:title>
+        <dc:creator opf:file-as="Hodges, Elizabeth, active 1895-1897" opf:role="aut">active 1895-1897 Elizabeth Hodges</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45273</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cabot</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>-1498?</dc:subject>
+        <dc:subject>Sebastian</dc:subject>
+        <dc:subject>approximately 1474-1557</dc:subject>
+        <dc:subject>Bristol (England) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1895-1897 Elizabeth Hodges&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:42:58.845268+00:00"/>
+        <meta name="calibre:title_sort" content="Cabots and the Discovery of America / With a Brief Description and History of Brandon Hill, the Site of the Cabot Memorial Tower, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

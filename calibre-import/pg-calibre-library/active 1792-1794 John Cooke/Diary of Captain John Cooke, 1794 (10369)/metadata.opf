@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9434b1b2-7ece-4be1-b41c-185a9ed12bd5</dc:identifier>
+        <dc:title>Diary of Captain John Cooke, 1794</dc:title>
+        <dc:creator opf:file-as="Cooke, John, active 1792-1794" opf:role="aut">active 1792-1794 John Cooke</dc:creator>
+        <dc:creator opf:file-as="Cooke, John, active 1792-1794" opf:role="aut">Public Library of Fort Wayne</dc:creator>
+        <dc:creator opf:file-as="Cooke, John, active 1792-1794" opf:role="aut">Allen County</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65499</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooke</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>active 1792-1794 -- Diaries</dc:subject>
+        <dc:subject>Wayne's Campaign</dc:subject>
+        <dc:subject>1794 -- Personal narratives</dc:subject>
+        <dc:subject>Soldiers -- Pennsylvania -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1792-1794 John Cooke&quot;: &quot;&quot;, &quot;Public Library of Fort Wayne&quot;: &quot;&quot;, &quot;Allen County&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:57:47.920613+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of Captain John Cooke, 1794"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

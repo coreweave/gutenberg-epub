@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">723a004a-6d25-4943-abab-9d4d326c57a8</dc:identifier>
+        <dc:title>The Story of the First Trans-Continental Railroad / Its Projectors, Construction and History</dc:title>
+        <dc:creator opf:file-as="Bailey, William Francis" opf:role="aut">William Francis Bailey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22598</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railroads -- United States -- History</dc:subject>
+        <dc:subject>Union Pacific Railroad Company</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Francis Bailey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:30:48.672249+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the First Trans-Continental Railroad / Its Projectors, Construction and History, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">719f1025-0c29-4fd5-8ec8-f77ab63da055</dc:identifier>
+        <dc:title>Damon and Delia: A Tale</dc:title>
+        <dc:creator opf:file-as="Godwin, William" opf:role="aut">William Godwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10318</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Courtship -- Fiction</dc:subject>
+        <dc:subject>England -- Social life and customs -- 18th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Godwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:43:57.887947+00:00"/>
+        <meta name="calibre:title_sort" content="Damon and Delia: A Tale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

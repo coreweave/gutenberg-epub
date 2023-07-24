@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55e0dce9-ff11-4735-b1dd-66ee05b82ebc</dc:identifier>
+        <dc:title>Discovery of Witches / The Wonderfull Discoverie of Witches in the Countie of Lancaster</dc:title>
+        <dc:creator opf:file-as="Potts, Thomas, active 1612-1618" opf:role="aut">active 1612-1618 Thomas Potts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Preston</dc:subject>
+        <dc:subject>Jennet</dc:subject>
+        <dc:subject>-1612</dc:subject>
+        <dc:subject>Witchcraft -- England -- Lancashire</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1612-1618 Thomas Potts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:04:23.827635+00:00"/>
+        <meta name="calibre:title_sort" content="Discovery of Witches / The Wonderfull Discoverie of Witches in the Countie of Lancaster"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

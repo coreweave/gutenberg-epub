@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">371a2edb-1ab0-4f11-a5b9-9054522424d8</dc:identifier>
+        <dc:title>The Queen-like Closet or Rich Cabinet / Stored with all manner of rare receipts for preserving, candying and cookery. Very pleasant and beneficial to all ingenious persons of the female sex</dc:title>
+        <dc:creator opf:file-as="Woolley, Hannah, active 1670" opf:role="aut">active 1670 Hannah Woolley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14377</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>English -- Early works to 1800</dc:subject>
+        <dc:subject>Medicine</dc:subject>
+        <dc:subject>Popular -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1670 Hannah Woolley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:16:33.798670+00:00"/>
+        <meta name="calibre:title_sort" content="Queen-like Closet or Rich Cabinet / Stored with all manner of rare receipts for preserving, candying and cookery. Very pleasant and beneficial to all ingenious persons of the female sex, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25fbc3a4-4af6-449b-8db3-9aaab77f8edc</dc:identifier>
+        <dc:title>History of the Twelfth West Virginia Volunteer Infantry / The Part It Took in the War of the Rebellion, 1861-1865</dc:title>
+        <dc:creator opf:file-as="Hewitt, William, active 19th century" opf:role="aut">active 19th century William Hewitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45233</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>United States. Army. West Virginia Infantry Regiment</dc:subject>
+        <dc:subject>12th (1862-1865) -- History</dc:subject>
+        <dc:subject>West Virginia -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 19th century William Hewitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:53:27.909765+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Twelfth West Virginia Volunteer Infantry / The Part It Took in the War of the Rebellion, 1861-1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

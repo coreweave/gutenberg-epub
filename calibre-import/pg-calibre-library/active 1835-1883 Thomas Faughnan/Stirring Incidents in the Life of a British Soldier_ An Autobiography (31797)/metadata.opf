@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31797</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">190b2ca7-131e-470a-a2f8-040670df07e0</dc:identifier>
+        <dc:title>Stirring Incidents in the Life of a British Soldier: An Autobiography</dc:title>
+        <dc:creator opf:file-as="Faughnan, Thomas, active 1835-1883" opf:role="aut">active 1835-1883 Thomas Faughnan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Military -- 19th century</dc:subject>
+        <dc:subject>Crimean War</dc:subject>
+        <dc:subject>1853-1856 -- Personal narratives</dc:subject>
+        <dc:subject>Faughnan</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>active 1835-1883</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1835-1883 Thomas Faughnan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:37:52.144157+00:00"/>
+        <meta name="calibre:title_sort" content="Stirring Incidents in the Life of a British Soldier: An Autobiography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70f9e6d3-9705-47da-983b-1664ea80b665</dc:identifier>
+        <dc:title>Mound-Builders</dc:title>
+        <dc:creator opf:file-as="Smyth, William J." opf:role="aut">William J. Smyth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17969</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mounds -- Ohio</dc:subject>
+        <dc:subject>Indians of North America -- Antiquities</dc:subject>
+        <dc:subject>Ohio -- Antiquities</dc:subject>
+        <dc:subject>Mound-builders -- Ohio</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William J. Smyth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:54:52.069563+00:00"/>
+        <meta name="calibre:title_sort" content="Mound-Builders"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

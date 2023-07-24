@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c6755ff-47d7-4479-93fb-006d1cb2cb8d</dc:identifier>
+        <dc:title>The Works of William Shakespeare [Cambridge Edition] [Vol. 4 of 9]</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50095</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Shakespeare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:50:10.969038+00:00"/>
+        <meta name="calibre:title_sort" content="Works of William Shakespeare [Cambridge Edition] [Vol. 4 of 9], The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

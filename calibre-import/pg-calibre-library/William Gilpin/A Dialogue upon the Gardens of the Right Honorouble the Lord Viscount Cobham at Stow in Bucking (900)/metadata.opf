@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67e6c71b-99fb-4a41-8561-97a2a8099454</dc:identifier>
+        <dc:title>A Dialogue upon the Gardens of the Right Honorouble the Lord Viscount Cobham at Stow in Buckinghamshire</dc:title>
+        <dc:creator opf:file-as="Gilpin, William" opf:role="aut">William Gilpin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39929</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cobham</dc:subject>
+        <dc:subject>Richard Temple</dc:subject>
+        <dc:subject>Viscount</dc:subject>
+        <dc:subject>1669?-1749</dc:subject>
+        <dc:subject>Landscape gardening -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Gilpin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:32.462800+00:00"/>
+        <meta name="calibre:title_sort" content="Dialogue upon the Gardens of the Right Honorouble the Lord Viscount Cobham at Stow in Buckinghamshire, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

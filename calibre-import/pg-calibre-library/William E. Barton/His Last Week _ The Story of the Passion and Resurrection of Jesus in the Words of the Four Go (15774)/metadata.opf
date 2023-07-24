@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dec405d6-3671-4fee-be00-4083ad31576e</dc:identifier>
+        <dc:title>His Last Week / The Story of the Passion and Resurrection of Jesus in the Words of the Four Gospels</dc:title>
+        <dc:creator opf:file-as="Barton, William E. (William Eleazar)" opf:role="aut">William E. Barton</dc:creator>
+        <dc:creator opf:file-as="Barton, William E. (William Eleazar)" opf:role="aut">Theodore Gerald Soares</dc:creator>
+        <dc:creator opf:file-as="Barton, William E. (William Eleazar)" opf:role="aut">Sydney Strong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30561</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jesus Christ -- Passion -- Texts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William E. Barton&quot;: &quot;&quot;, &quot;Theodore Gerald Soares&quot;: &quot;&quot;, &quot;Sydney Strong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:37:38.765654+00:00"/>
+        <meta name="calibre:title_sort" content="His Last Week / The Story of the Passion and Resurrection of Jesus in the Words of the Four Gospels"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

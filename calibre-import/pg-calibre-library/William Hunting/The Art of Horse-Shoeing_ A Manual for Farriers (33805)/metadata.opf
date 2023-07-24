@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43ea939d-e5f5-4d27-b578-68a8d3f87ed1</dc:identifier>
+        <dc:title>The Art of Horse-Shoeing: A Manual for Farriers</dc:title>
+        <dc:creator opf:file-as="Hunting, William" opf:role="aut">William Hunting</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49077</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horseshoeing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Hunting&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:15:38.516867+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Horse-Shoeing: A Manual for Farriers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64d9f24b-0f4f-44a4-b702-245e89c47234</dc:identifier>
+        <dc:title>Baltimore Hats, Past and Present</dc:title>
+        <dc:creator opf:file-as="Brigham, William Tufts" opf:role="aut">William Tufts Brigham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39780</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hats</dc:subject>
+        <dc:subject>Hat trade -- Maryland -- Baltimore -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Tufts Brigham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:06:30.799417+00:00"/>
+        <meta name="calibre:title_sort" content="Baltimore Hats, Past and Present"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

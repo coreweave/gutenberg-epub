@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0433f267-0b36-453e-8b0d-8829743d083b</dc:identifier>
+        <dc:title>The Treasure of Hidden Valley</dc:title>
+        <dc:creator opf:file-as="Emerson, Willis George" opf:role="aut">Willis George Emerson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52461</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>San Francisco Earthquake and Fire</dc:subject>
+        <dc:subject>Calif.</dc:subject>
+        <dc:subject>1906</dc:subject>
+        <dc:subject>Gold mines and mining -- Fiction</dc:subject>
+        <dc:subject>Wyoming -- Fiction</dc:subject>
+        <dc:subject>Ranch life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willis George Emerson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:25:15.055024+00:00"/>
+        <meta name="calibre:title_sort" content="Treasure of Hidden Valley, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

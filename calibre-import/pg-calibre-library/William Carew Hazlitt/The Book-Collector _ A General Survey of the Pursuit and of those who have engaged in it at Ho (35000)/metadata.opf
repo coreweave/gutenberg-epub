@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35000</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd75f756-e35d-4a7e-8cdd-84c24b19d337</dc:identifier>
+        <dc:title>The Book-Collector / A General Survey of the Pursuit and of those who have engaged in it at Home and Abroad from the Earliest Period to the Present Time</dc:title>
+        <dc:creator opf:file-as="Hazlitt, William Carew" opf:role="aut">William Carew Hazlitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28225</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Book collecting</dc:subject>
+        <dc:subject>Book collectors</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Carew Hazlitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:14:43.836040+00:00"/>
+        <meta name="calibre:title_sort" content="Book-Collector / A General Survey of the Pursuit and of those who have engaged in it at Home and Abroad from the Earliest Period to the Present Time, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

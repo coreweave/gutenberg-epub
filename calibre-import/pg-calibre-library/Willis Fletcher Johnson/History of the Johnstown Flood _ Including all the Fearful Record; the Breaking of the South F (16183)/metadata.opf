@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0eb19272-479b-4d78-bd04-a9c1d189cba5</dc:identifier>
+        <dc:title>History of the Johnstown Flood / Including all the Fearful Record; the Breaking of the South Fork Dam; the Sweeping Out of the Conemaugh Valley; the Over-Throw of Johnstown; the Massing of the Wreck at the Railroad Bridge; Escapes, Rescues, Searches for Survivors and the Dead; Relief Organizations, Stupendous Charities, etc., etc., With Full Accounts also of the Destruction on the Susquehanna and Juniata Rivers, and the Bald Eagle Creek.</dc:title>
+        <dc:creator opf:file-as="Johnson, Willis Fletcher" opf:role="aut">Willis Fletcher Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41271</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Floods -- Pennsylvania -- Johnstown (Cambria County)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willis Fletcher Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:51:11.170625+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Johnstown Flood / Including all the Fearful Record; the Breaking of the South Fork Dam; the Sweeping Out of the Conemaugh Valley; the Over-Throw of Johnstown; the Massing of the Wreck at the Railroad Bridge; Escapes, Rescues, Searches for Survivors and the Dead; Relief Organizations, Stupendous Charities, etc., etc., With Full Accounts also of the Destruction on the Susquehanna and Juniata Rivers, and the Bald Eagle Creek."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

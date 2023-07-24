@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af3e181c-7851-4649-8cbb-810144749413</dc:identifier>
+        <dc:title>Louisiana Beef Cattle</dc:title>
+        <dc:creator opf:file-as="Stubbs, William Carter" opf:role="aut">William Carter Stubbs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36645</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beef cattle -- Louisiana</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Carter Stubbs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:27:01.230393+00:00"/>
+        <meta name="calibre:title_sort" content="Louisiana Beef Cattle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

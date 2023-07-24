@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6060eb17-0e8b-47ca-bba0-2c6775dd08f9</dc:identifier>
+        <dc:title>The Works of William Cowper / His life, letters, and poems, now first completed by the introduction of Cowper's private correspondence</dc:title>
+        <dc:creator opf:file-as="Cowper, William" opf:role="aut">William Cowper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47790</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 18th century -- Biography</dc:subject>
+        <dc:subject>English poetry -- 18th century</dc:subject>
+        <dc:subject>Cowper</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1731-1800</dc:subject>
+        <dc:subject>1731-1800 -- Correspondence</dc:subject>
+        <dc:subject>English -- 18th century -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Cowper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:49:46.911453+00:00"/>
+        <meta name="calibre:title_sort" content="Works of William Cowper / His life, letters, and poems, now first completed by the introduction of Cowper's private correspondence, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

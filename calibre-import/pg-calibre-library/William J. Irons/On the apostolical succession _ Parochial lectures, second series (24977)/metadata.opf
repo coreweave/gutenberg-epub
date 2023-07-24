@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c81d11a-d415-42e8-ac74-ffa531c5a14c</dc:identifier>
+        <dc:title>On the apostolical succession / Parochial lectures, second series</dc:title>
+        <dc:creator opf:file-as="Irons, William J. (William Josiah)" opf:role="aut">William J. Irons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49006</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons</dc:subject>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Apostolic succession -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William J. Irons&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:27:27.802604+00:00"/>
+        <meta name="calibre:title_sort" content="On the apostolical succession / Parochial lectures, second series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

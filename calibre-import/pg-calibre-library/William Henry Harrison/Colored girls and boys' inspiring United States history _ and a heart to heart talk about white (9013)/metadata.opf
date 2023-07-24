@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09593dd2-2cf5-46f8-a0d9-4b841e156c9c</dc:identifier>
+        <dc:title>Colored girls and boys' inspiring United States history / and a heart to heart talk about white folks</dc:title>
+        <dc:creator opf:file-as="Harrison, William Henry" opf:role="aut">William Henry Harrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57181</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Juvenile literature</dc:subject>
+        <dc:subject>African Americans -- History -- Juvenile literature</dc:subject>
+        <dc:subject>African Americans -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>United States -- Race relations -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Harrison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:22:59.505396+00:00"/>
+        <meta name="calibre:title_sort" content="Colored girls and boys' inspiring United States history / and a heart to heart talk about white folks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

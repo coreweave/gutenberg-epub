@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">818dfd70-d872-4ea0-8b93-f1a850c273cd</dc:identifier>
+        <dc:title>Guernsey Pictorial Directory and Stranger's Guide / Embellished with Numerous Wood-cuts</dc:title>
+        <dc:creator opf:file-as="Bellamy, Thomas, of Guernsey" opf:role="aut">of Guernsey Thomas Bellamy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40092</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Guernsey (Channel Islands) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;of Guernsey Thomas Bellamy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:02:33.026401+00:00"/>
+        <meta name="calibre:title_sort" content="Guernsey Pictorial Directory and Stranger's Guide / Embellished with Numerous Wood-cuts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

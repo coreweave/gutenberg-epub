@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">814a9d1a-af7d-4192-861a-bac1e11d212e</dc:identifier>
+        <dc:title>The Barb and the Bridle / A Handbook of Equitation for Ladies, and Manual of Instruction in the Science of Riding, from the Preparatory Suppling Exercises</dc:title>
+        <dc:creator opf:file-as="Henderson, Robert, active 1866-1874" opf:role="aut">active 1866-1874 Robert Henderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38831</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horsemanship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1866-1874 Robert Henderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:34:30.520679+00:00"/>
+        <meta name="calibre:title_sort" content="Barb and the Bridle / A Handbook of Equitation for Ladies, and Manual of Instruction in the Science of Riding, from the Preparatory Suppling Exercises, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

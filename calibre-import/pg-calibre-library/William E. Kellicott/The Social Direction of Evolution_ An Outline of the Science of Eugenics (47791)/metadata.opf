@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1728ac6e-06c3-4d34-93e1-138510e81c64</dc:identifier>
+        <dc:title>The Social Direction of Evolution: An Outline of the Science of Eugenics</dc:title>
+        <dc:creator opf:file-as="Kellicott, William E. (William Erskine)" opf:role="aut">William E. Kellicott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31705</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Eugenics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William E. Kellicott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:51:09.794583+00:00"/>
+        <meta name="calibre:title_sort" content="Social Direction of Evolution: An Outline of the Science of Eugenics, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

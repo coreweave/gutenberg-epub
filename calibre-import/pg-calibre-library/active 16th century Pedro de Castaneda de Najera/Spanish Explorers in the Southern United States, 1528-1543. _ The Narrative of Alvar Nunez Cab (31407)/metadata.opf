@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c92e1f10-ad4c-488c-9919-aea5cb2cffd9</dc:identifier>
+        <dc:title>Spanish Explorers in the Southern United States, 1528-1543. / The Narrative of Alvar Nunez Cabeca de Vaca. The Narrative of the Expedition of Hernando De Soto by the Gentleman of Elvas</dc:title>
+        <dc:creator opf:file-as="Castañeda de Nájera, Pedro de, active 16th century" opf:role="aut">active 16th century Pedro de Castañeda de Nájera</dc:creator>
+        <dc:creator opf:file-as="Castañeda de Nájera, Pedro de, active 16th century" opf:role="aut">Knight of Elvas</dc:creator>
+        <dc:creator opf:file-as="Castañeda de Nájera, Pedro de, active 16th century" opf:role="aut">active 16th century Alvar Núñez Cabeza de Vaca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42841</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America</dc:subject>
+        <dc:subject>Soto</dc:subject>
+        <dc:subject>Hernando de</dc:subject>
+        <dc:subject>approximately 1500-1542</dc:subject>
+        <dc:subject>Florida -- History -- To 1565</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Spanish</dc:subject>
+        <dc:subject>Coronado</dc:subject>
+        <dc:subject>Francisco Vásquez de</dc:subject>
+        <dc:subject>1510-1554</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 16th century Pedro de Castañeda de Nájera&quot;: &quot;&quot;, &quot;Knight of Elvas&quot;: &quot;&quot;, &quot;active 16th century Alvar Núñez Cabeza de Vaca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:18:29.569260+00:00"/>
+        <meta name="calibre:title_sort" content="Spanish Explorers in the Southern United States, 1528-1543. / The Narrative of Alvar Nunez Cabeca de Vaca. The Narrative of the Expedition of Hernando De Soto by the Gentleman of Elvas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

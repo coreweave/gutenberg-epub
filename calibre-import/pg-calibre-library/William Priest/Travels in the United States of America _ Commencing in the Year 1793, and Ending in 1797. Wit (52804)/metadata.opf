@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77a02ca9-5440-4922-923a-7ab53ea926fd</dc:identifier>
+        <dc:title>Travels in the United States of America / Commencing in the Year 1793, and Ending in 1797. With the Author's Journals of his Two Voyages Across the Atlantic.</dc:title>
+        <dc:creator opf:file-as="Priest, William" opf:role="aut">William Priest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11545</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Priest&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:05:43.704380+00:00"/>
+        <meta name="calibre:title_sort" content="Travels in the United States of America / Commencing in the Year 1793, and Ending in 1797. With the Author's Journals of his Two Voyages Across the Atlantic."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

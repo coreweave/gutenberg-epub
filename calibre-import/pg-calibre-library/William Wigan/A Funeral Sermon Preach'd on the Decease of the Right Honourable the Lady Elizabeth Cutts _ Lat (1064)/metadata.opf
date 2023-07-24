@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1064</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7217b619-d133-41a6-bd7d-6d032176e758</dc:identifier>
+        <dc:title>A Funeral Sermon Preach'd on the Decease of the Right Honourable the Lady Elizabeth Cutts / Late Wife of the Right Honourable the Lord Cutts, on the 5th of December, 1697, at Kensington Church</dc:title>
+        <dc:creator opf:file-as="Wigan, William" opf:role="aut">William Wigan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons</dc:subject>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 17th century</dc:subject>
+        <dc:subject>Funeral sermons</dc:subject>
+        <dc:subject>Cutts</dc:subject>
+        <dc:subject>Elizabeth Pickering Cutts</dc:subject>
+        <dc:subject>Baroness</dc:subject>
+        <dc:subject>1678 or 1679-1697</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Wigan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:42:02.573601+00:00"/>
+        <meta name="calibre:title_sort" content="Funeral Sermon Preach'd on the Decease of the Right Honourable the Lady Elizabeth Cutts / Late Wife of the Right Honourable the Lord Cutts, on the 5th of December, 1697, at Kensington Church, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

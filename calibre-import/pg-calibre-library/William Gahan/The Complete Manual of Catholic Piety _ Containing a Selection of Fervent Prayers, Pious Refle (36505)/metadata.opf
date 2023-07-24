@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">872a1372-f7e2-4a3a-956a-41b4b4a2a681</dc:identifier>
+        <dc:title>The Complete Manual of Catholic Piety / Containing a Selection of Fervent Prayers, Pious Reflection, and Solid Instructions, Adapted to Every State of Life. To Which is Annexed a Supplement, Containing Excellent and Approved Devotions, With the Epistles and Gospels for All the Sundays and Festivals of the Year.</dc:title>
+        <dc:creator opf:file-as="Gahan, William" opf:role="aut">William Gahan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62988</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Catholic Church -- Prayers and devotions -- English</dc:subject>
+        <dc:subject>Catholic Church -- Liturgy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Gahan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:29:46.814311+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Manual of Catholic Piety / Containing a Selection of Fervent Prayers, Pious Reflection, and Solid Instructions, Adapted to Every State of Life. To Which is Annexed a Supplement, Containing Excellent and Approved Devotions, With the Epistles and Gospels for All the Sundays and Festivals of the Year., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

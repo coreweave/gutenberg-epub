@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d62598c-0197-44d3-94c4-53755496d09e</dc:identifier>
+        <dc:title>Bahá'í Prayers / A Selection of Prayers Revealed by Bahá'u'lláh, the Báb, and ‘Abdu'l-Bahá</dc:title>
+        <dc:creator opf:file-as="`Abdu'l-Bahá" opf:role="aut">`Abdu'l-Bahá</dc:creator>
+        <dc:creator opf:file-as="`Abdu'l-Bahá" opf:role="aut">`Ali Muhammad Shirazi Bab</dc:creator>
+        <dc:creator opf:file-as="`Abdu'l-Bahá" opf:role="aut">Bahá'u'lláh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19240</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bahai Faith -- Prayers and devotions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;`Abdu'l-Bahá&quot;: &quot;&quot;, &quot;`Ali Muhammad Shirazi Bab&quot;: &quot;&quot;, &quot;Bahá'u'lláh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:05:36.901735+00:00"/>
+        <meta name="calibre:title_sort" content="Bahá'í Prayers / A Selection of Prayers Revealed by Bahá'u'lláh, the Báb, and ‘Abdu'l-Bahá"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

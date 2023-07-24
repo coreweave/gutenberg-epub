@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07e338c0-cef1-4203-9ed5-891e82025ff9</dc:identifier>
+        <dc:title>A Dialogue in Hades / A Parallel of Military Errors, of Which the French and English Armies Were Guilty, During the Campaign of 1759, in Canada</dc:title>
+        <dc:creator opf:file-as="Johnstone, James Johnstone, chevalier de" opf:role="aut">chevalier de James Johnstone Johnstone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44381</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- French and Indian War</dc:subject>
+        <dc:subject>1754-1763</dc:subject>
+        <dc:subject>Québec Campaign</dc:subject>
+        <dc:subject>Québec</dc:subject>
+        <dc:subject>1759</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;chevalier de James Johnstone Johnstone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:31.552741+00:00"/>
+        <meta name="calibre:title_sort" content="Dialogue in Hades / A Parallel of Military Errors, of Which the French and English Armies Were Guilty, During the Campaign of 1759, in Canada, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09f4a01d-028f-40c7-8643-49598663fdae</dc:identifier>
+        <dc:title>Signs of Change</dc:title>
+        <dc:creator opf:file-as="Morris, William" opf:role="aut">William Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3053</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Socialism</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Socialism -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:40:32.427264+00:00"/>
+        <meta name="calibre:title_sort" content="Signs of Change"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

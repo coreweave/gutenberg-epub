@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">301295a9-a60e-4e72-bbd4-4083ac279410</dc:identifier>
+        <dc:title>William E. Burton: Actor, Author, and Manager / A Sketch of his Career with Recollections of his Performances</dc:title>
+        <dc:creator opf:file-as="Keese, William L. (William Linn)" opf:role="aut">William L. Keese</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43935</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Actors -- Biography</dc:subject>
+        <dc:subject>Burton</dc:subject>
+        <dc:subject>William E. (William Evans)</dc:subject>
+        <dc:subject>1802-1860</dc:subject>
+        <dc:subject>Theatrical managers -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William L. Keese&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:21:16.956072+00:00"/>
+        <meta name="calibre:title_sort" content="William E. Burton: Actor, Author, and Manager / A Sketch of his Career with Recollections of his Performances"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

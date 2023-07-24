@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4fad77c-6ca5-4747-9098-7f0197ce2769</dc:identifier>
+        <dc:title>The Book of Snobs</dc:title>
+        <dc:creator opf:file-as="Thackeray, William Makepeace" opf:role="aut">William Makepeace Thackeray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Snobs and snobbishness -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Makepeace Thackeray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:11:22.952194+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Snobs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

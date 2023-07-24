@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bae7c577-873e-41ae-96ce-575ae3986eb4</dc:identifier>
+        <dc:title>My Recollections of Lord Byron</dc:title>
+        <dc:creator opf:file-as="Guiccioli, Teresa, contessa di" opf:role="aut">contessa di Teresa Guiccioli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25977</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Byron</dc:subject>
+        <dc:subject>George Gordon Byron</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1788-1824</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;contessa di Teresa Guiccioli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:14:45.699224+00:00"/>
+        <meta name="calibre:title_sort" content="My Recollections of Lord Byron"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a000fe39-6db0-4cd6-b9c8-b81ea0f3c2c4</dc:identifier>
+        <dc:title>Reminiscences of Prince Talleyrand, Volume 2 (of 2)</dc:title>
+        <dc:creator opf:file-as="Colmache, M., active 19th century" opf:role="aut">active 19th century M. Colmache</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55995</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Talleyrand-Périgord</dc:subject>
+        <dc:subject>Charles Maurice de</dc:subject>
+        <dc:subject>prince de Bénévent</dc:subject>
+        <dc:subject>1754-1838</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 19th century M. Colmache&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:10:14.849879+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of Prince Talleyrand, Volume 2 (of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

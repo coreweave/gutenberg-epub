@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99bbe0e3-1dfd-4dbe-9e72-5832a70cb9a0</dc:identifier>
+        <dc:title>Capt. W. F. Drannan, Chief of Scouts, As Pilot to Emigrant and Government Trains, Across the Plains of the Wild West of Fifty Years Ago</dc:title>
+        <dc:creator opf:file-as="Drannan, William F." opf:role="aut">William F. Drannan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12895</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- West (U.S.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William F. Drannan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:49:21.483042+00:00"/>
+        <meta name="calibre:title_sort" content="Capt. W. F. Drannan, Chief of Scouts, As Pilot to Emigrant and Government Trains, Across the Plains of the Wild West of Fifty Years Ago"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

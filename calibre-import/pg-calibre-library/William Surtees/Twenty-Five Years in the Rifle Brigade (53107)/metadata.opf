@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4607ab93-aa09-4752-8261-722660563df7</dc:identifier>
+        <dc:title>Twenty-Five Years in the Rifle Brigade</dc:title>
+        <dc:creator opf:file-as="Surtees, William" opf:role="aut">William Surtees</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36778</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Contemporaries</dc:subject>
+        <dc:subject>Great Britain. Army. Rifle Brigade (Prince Consort's Own) -- Biography</dc:subject>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814 -- Personal narratives</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Napoleonic Wars</dc:subject>
+        <dc:subject>1800-1815 -- Personal narratives</dc:subject>
+        <dc:subject>Surtees</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1781-1830</dc:subject>
+        <dc:subject>United States -- History -- War of 1812 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Surtees&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:25:15.319614+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty-Five Years in the Rifle Brigade"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

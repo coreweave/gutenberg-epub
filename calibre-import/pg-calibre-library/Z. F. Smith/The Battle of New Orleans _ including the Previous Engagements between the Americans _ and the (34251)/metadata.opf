@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">619c42c1-7007-4db1-a05b-159eb3f8765f</dc:identifier>
+        <dc:title>The Battle of New Orleans / including the Previous Engagements between the Americans / and the British, the Indians and the Spanish which led to / the Final Conflict on the 8th of January, 1815</dc:title>
+        <dc:creator opf:file-as="Smith, Z. F. (Zachariah Frederick)" opf:role="aut">Z. F. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25699</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New Orleans</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>La.</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Z. F. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:37:36.064674+00:00"/>
+        <meta name="calibre:title_sort" content="Battle of New Orleans / including the Previous Engagements between the Americans / and the British, the Indians and the Spanish which led to / the Final Conflict on the 8th of January, 1815, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

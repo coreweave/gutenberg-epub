@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">274a01bf-9273-4db9-8664-a2c4ef426bb6</dc:identifier>
+        <dc:title>Chronicles and characters of the stock exchange</dc:title>
+        <dc:creator opf:file-as="Francis, John, of the Bank of England" opf:role="aut">of the Bank of England John Francis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70656</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speculation</dc:subject>
+        <dc:subject>Stock Exchange (London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;of the Bank of England John Francis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:14:41.161267+00:00"/>
+        <meta name="calibre:title_sort" content="Chronicles and characters of the stock exchange"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

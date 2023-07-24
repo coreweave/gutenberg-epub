@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">194320d5-d97a-49a9-8e8d-9b9a27939397</dc:identifier>
+        <dc:title>The Elements of Geology</dc:title>
+        <dc:creator opf:file-as="Norton, William Harmon" opf:role="aut">William Harmon Norton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40404</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Geology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Harmon Norton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:40:19.242262+00:00"/>
+        <meta name="calibre:title_sort" content="Elements of Geology, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

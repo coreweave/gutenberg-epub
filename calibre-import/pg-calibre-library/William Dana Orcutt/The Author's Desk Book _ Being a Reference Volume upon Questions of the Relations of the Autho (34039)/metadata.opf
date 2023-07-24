@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34039</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49d46e96-0806-4ed1-80b5-f36b31f46571</dc:identifier>
+        <dc:title>The Author's Desk Book / Being a Reference Volume upon Questions of the Relations of the Author to the Publisher, Copyright, The Relation of the Contributor to the Magazine, Mechanics of the Book, Arrangement of the Book, Making of the Index, Etc.</dc:title>
+        <dc:creator opf:file-as="Orcutt, William Dana" opf:role="aut">William Dana Orcutt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53520</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authorship -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Dana Orcutt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:27:17.873941+00:00"/>
+        <meta name="calibre:title_sort" content="Author's Desk Book / Being a Reference Volume upon Questions of the Relations of the Author to the Publisher, Copyright, The Relation of the Contributor to the Magazine, Mechanics of the Book, Arrangement of the Book, Making of the Index, Etc., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c897543a-0c13-4418-8456-f26fbf94b62b</dc:identifier>
+        <dc:title>Sir Francis Drake: His Voyage, 1595 / Together with the Spanish account of Drake's attack on Puerto Rico</dc:title>
+        <dc:creator opf:file-as="Maynarde, Thomas, active 1595" opf:role="aut">active 1595 Thomas Maynarde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>spa</dc:language>
+        <dc:subject>Voyages around the world -- Early works to 1800</dc:subject>
+        <dc:subject>Drake</dc:subject>
+        <dc:subject>Francis</dc:subject>
+        <dc:subject>approximately 1540-1596 -- Travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1595 Thomas Maynarde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:43:47.728633+00:00"/>
+        <meta name="calibre:title_sort" content="Sir Francis Drake: His Voyage, 1595 / Together with the Spanish account of Drake's attack on Puerto Rico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

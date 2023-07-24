@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bcfe9d5-cc68-493d-9cf2-1649aff7c067</dc:identifier>
+        <dc:title>Talk of Uncle George to His Nephew about Draw Poker / Containing valuable suggestions in connection with this great American game. Also, instruction and directions to clubs and social card parties, whose members play only for recreation and pastime, with timely warnings to young players.</dc:title>
+        <dc:creator opf:file-as="Uncle George, active 19th century" opf:role="aut">active 19th century Uncle George</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poker</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 19th century Uncle George&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:19:00.441525+00:00"/>
+        <meta name="calibre:title_sort" content="Talk of Uncle George to His Nephew about Draw Poker / Containing valuable suggestions in connection with this great American game. Also, instruction and directions to clubs and social card parties, whose members play only for recreation and pastime, with timely warnings to young players."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

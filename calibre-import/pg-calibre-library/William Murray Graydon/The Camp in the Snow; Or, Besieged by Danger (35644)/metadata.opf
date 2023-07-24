@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd4c4c3c-59d9-4954-aa76-431d45d53da6</dc:identifier>
+        <dc:title>The Camp in the Snow; Or, Besieged by Danger</dc:title>
+        <dc:creator opf:file-as="Graydon, William Murray" opf:role="aut">William Murray Graydon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24301</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Murray Graydon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:46:36.455734+00:00"/>
+        <meta name="calibre:title_sort" content="Camp in the Snow; Or, Besieged by Danger, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

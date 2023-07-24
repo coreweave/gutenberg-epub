@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4df69059-d3af-4b13-a7cd-18af557a3572</dc:identifier>
+        <dc:title>The Pain and Sorrow of Evil Marriage</dc:title>
+        <dc:creator opf:file-as="Worde, Wynkyn de" opf:role="aut">Wynkyn de Worde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32445</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marriage -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wynkyn de Worde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:05:58.405396+00:00"/>
+        <meta name="calibre:title_sort" content="Pain and Sorrow of Evil Marriage, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

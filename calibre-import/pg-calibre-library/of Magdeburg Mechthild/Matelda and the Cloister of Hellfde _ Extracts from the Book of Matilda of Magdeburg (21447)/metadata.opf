@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba51efae-d66d-4f4a-a4e3-6b69d330cd08</dc:identifier>
+        <dc:title>Matelda and the Cloister of Hellfde / Extracts from the Book of Matilda of Magdeburg</dc:title>
+        <dc:creator opf:file-as="Mechthild, of Magdeburg" opf:role="aut">of Magdeburg Mechthild</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35811</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mechthild</dc:subject>
+        <dc:subject>of Magdeburg</dc:subject>
+        <dc:subject>approximately 1212-approximately 1282</dc:subject>
+        <dc:subject>Visions -- Early works to 1800</dc:subject>
+        <dc:subject>Private revelations -- Early works to 1800</dc:subject>
+        <dc:subject>Spiritual life -- Catholic Church -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;of Magdeburg Mechthild&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:59:45.928938+00:00"/>
+        <meta name="calibre:title_sort" content="Matelda and the Cloister of Hellfde / Extracts from the Book of Matilda of Magdeburg"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

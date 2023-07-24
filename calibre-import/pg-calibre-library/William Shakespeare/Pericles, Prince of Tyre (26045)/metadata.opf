@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26045</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1885e3b-f273-4ab8-bdb3-bd9ab0b74d56</dc:identifier>
+        <dc:title>Pericles, Prince of Tyre</dc:title>
+        <dc:creator opf:file-as="Shakespeare, William" opf:role="aut">William Shakespeare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1537</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tragicomedy</dc:subject>
+        <dc:subject>Princes -- Lebanon -- Tyre -- Drama</dc:subject>
+        <dc:subject>Tyre (Lebanon) -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Shakespeare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:12:38.430090+00:00"/>
+        <meta name="calibre:title_sort" content="Pericles, Prince of Tyre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

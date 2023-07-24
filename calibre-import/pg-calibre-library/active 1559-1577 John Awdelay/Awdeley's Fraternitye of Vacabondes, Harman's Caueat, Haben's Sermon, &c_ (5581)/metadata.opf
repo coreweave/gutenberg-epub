@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64d7007c-2401-47cf-9188-b0bc08b16120</dc:identifier>
+        <dc:title>Awdeley's Fraternitye of Vacabondes, Harman's Caueat, Haben's Sermon, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Awdelay, John, active 1559-1577" opf:role="aut">active 1559-1577 John Awdelay</dc:creator>
+        <dc:creator opf:file-as="Awdelay, John, active 1559-1577" opf:role="aut">Parson Haben</dc:creator>
+        <dc:creator opf:file-as="Awdelay, John, active 1559-1577" opf:role="aut">active 1567 Thomas Harman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English prose literature -- Early modern</dc:subject>
+        <dc:subject>1500-1700</dc:subject>
+        <dc:subject>Rogues and vagabonds -- Literary collections</dc:subject>
+        <dc:subject>Thieves -- Literary collections</dc:subject>
+        <dc:subject>England -- Literary collections</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1559-1577 John Awdelay&quot;: &quot;&quot;, &quot;Parson Haben&quot;: &quot;&quot;, &quot;active 1567 Thomas Harman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:04:04.533571+00:00"/>
+        <meta name="calibre:title_sort" content="Awdeley's Fraternitye of Vacabondes, Harman's Caueat, Haben's Sermon, &amp;c."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

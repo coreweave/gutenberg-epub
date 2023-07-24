@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3459efc0-ecff-4eff-88b4-307a6ef5e6ee</dc:identifier>
+        <dc:title>The Art and Craft of Printing</dc:title>
+        <dc:creator opf:file-as="Morris, William" opf:role="aut">William Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31596</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kelmscott Press</dc:subject>
+        <dc:subject>Printing -- Great Britain -- History</dc:subject>
+        <dc:subject>Hammersmith (London</dc:subject>
+        <dc:subject>England) -- Imprints</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:14:12.506904+00:00"/>
+        <meta name="calibre:title_sort" content="Art and Craft of Printing, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

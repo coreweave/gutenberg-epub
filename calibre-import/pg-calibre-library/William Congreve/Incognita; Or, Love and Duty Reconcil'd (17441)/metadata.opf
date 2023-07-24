@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22c02968-b368-47ec-a5c0-31af3680d362</dc:identifier>
+        <dc:title>Incognita; Or, Love and Duty Reconcil'd</dc:title>
+        <dc:creator opf:file-as="Congreve, William" opf:role="aut">William Congreve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2363</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Florence (Italy) -- Fiction</dc:subject>
+        <dc:subject>Mistaken identity -- Fiction</dc:subject>
+        <dc:subject>Balls (Parties) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Congreve&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:33:39.994588+00:00"/>
+        <meta name="calibre:title_sort" content="Incognita; Or, Love and Duty Reconcil'd"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

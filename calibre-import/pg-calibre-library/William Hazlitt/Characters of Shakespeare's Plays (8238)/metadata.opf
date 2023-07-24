@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a83c5df-6f47-4419-bfa2-20e87063da4e</dc:identifier>
+        <dc:title>Characters of Shakespeare's Plays</dc:title>
+        <dc:creator opf:file-as="Hazlitt, William" opf:role="aut">William Hazlitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5085</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Characters</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Hazlitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:03:46.998668+00:00"/>
+        <meta name="calibre:title_sort" content="Characters of Shakespeare's Plays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

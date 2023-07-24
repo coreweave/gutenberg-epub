@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">896e089a-c91e-4de1-94ea-6d05bb5c075f</dc:identifier>
+        <dc:title>Kidnapping in the Pacific; Or, The Adventures of Boas Ringdon / A long four-part Yarn</dc:title>
+        <dc:creator opf:file-as="Kingston, William Henry Giles" opf:role="aut">William Henry Giles Kingston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40691</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kidnapping -- Juvenile fiction</dc:subject>
+        <dc:subject>Islands of the Pacific -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Giles Kingston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:23:56.078150+00:00"/>
+        <meta name="calibre:title_sort" content="Kidnapping in the Pacific; Or, The Adventures of Boas Ringdon / A long four-part Yarn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

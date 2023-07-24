@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2ebad25-9aef-4fd3-bd50-56ff684de68c</dc:identifier>
+        <dc:title>King Matthias and the Beggar Boy</dc:title>
+        <dc:creator opf:file-as="Jósika, Miklós, báró" opf:role="aut">báró Miklós Jósika</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Hungary -- History -- Matthias</dc:subject>
+        <dc:subject>1458-1490 -- Juvenile fiction</dc:subject>
+        <dc:subject>Beggars -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;báró Miklós Jósika&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:25:57.996511+00:00"/>
+        <meta name="calibre:title_sort" content="King Matthias and the Beggar Boy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

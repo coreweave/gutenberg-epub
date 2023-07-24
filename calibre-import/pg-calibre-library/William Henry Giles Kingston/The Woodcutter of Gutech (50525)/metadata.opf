@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27a0b7f0-f329-4b14-adfd-ffcfc402e984</dc:identifier>
+        <dc:title>The Woodcutter of Gutech</dc:title>
+        <dc:creator opf:file-as="Kingston, William Henry Giles" opf:role="aut">William Henry Giles Kingston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21486</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Reformation -- Germany -- Juvenile fiction</dc:subject>
+        <dc:subject>Lumbermen -- Juvenile fiction</dc:subject>
+        <dc:subject>Counter-Reformation -- Germany -- Juvenile fiction</dc:subject>
+        <dc:subject>Germany -- History -- 1517-1648 -- Juvenile fiction</dc:subject>
+        <dc:subject>Black Forest (Germany) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Giles Kingston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:39:08.460843+00:00"/>
+        <meta name="calibre:title_sort" content="Woodcutter of Gutech, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

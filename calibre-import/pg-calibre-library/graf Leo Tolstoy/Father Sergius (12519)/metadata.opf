@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0efdbdc2-1a26-4d84-bd5c-72bc37c531dd</dc:identifier>
+        <dc:title>Father Sergius</dc:title>
+        <dc:creator opf:file-as="Tolstoy, Leo, graf" opf:role="aut">graf Leo Tolstoy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/985</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adultery -- Fiction</dc:subject>
+        <dc:subject>Monks -- Fiction</dc:subject>
+        <dc:subject>Russia -- Fiction</dc:subject>
+        <dc:subject>Betrothal -- Fiction</dc:subject>
+        <dc:subject>Russian fiction -- Translations into English</dc:subject>
+        <dc:subject>Russia. Armiia -- Officers -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Monasteries -- Russia -- Fiction</dc:subject>
+        <dc:subject>Miracle workers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;graf Leo Tolstoy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:56:56.178466+00:00"/>
+        <meta name="calibre:title_sort" content="Father Sergius"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

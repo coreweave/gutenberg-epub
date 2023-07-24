@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75f8b2d1-9376-4242-988e-5c189d32405e</dc:identifier>
+        <dc:title>Curiosities of History: Boston, September Seventeenth, 1630-1880</dc:title>
+        <dc:creator opf:file-as="Wheildon, William W. (William Willder)" opf:role="aut">William W. Wheildon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38417</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boston (Mass.) -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>Boston (Mass.) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William W. Wheildon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:40:17.767617+00:00"/>
+        <meta name="calibre:title_sort" content="Curiosities of History: Boston, September Seventeenth, 1630-1880"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

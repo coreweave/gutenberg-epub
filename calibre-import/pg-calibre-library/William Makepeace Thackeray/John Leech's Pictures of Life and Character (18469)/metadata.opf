@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc496f42-e4c8-489c-bc47-93904b232f57</dc:identifier>
+        <dc:title>John Leech's Pictures of Life and Character</dc:title>
+        <dc:creator opf:file-as="Thackeray, William Makepeace" opf:role="aut">William Makepeace Thackeray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2646</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Leech</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1817-1864</dc:subject>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Great Britain -- Social life and customs -- 19th century -- Caricatures and cartoons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Makepeace Thackeray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:09:11.600719+00:00"/>
+        <meta name="calibre:title_sort" content="John Leech's Pictures of Life and Character"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

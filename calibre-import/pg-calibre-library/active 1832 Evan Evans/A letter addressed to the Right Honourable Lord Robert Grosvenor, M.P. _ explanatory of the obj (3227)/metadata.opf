@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">841342b9-2318-48ae-8865-4a8f6e4444cf</dc:identifier>
+        <dc:title>A letter addressed to the Right Honourable Lord Robert Grosvenor, M.P. / explanatory of the object and design of the Chester Cambrian Society</dc:title>
+        <dc:creator opf:file-as="Evans, Evan, active 1832" opf:role="aut">active 1832 Evan Evans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62158</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chester Cambrian Society (Chester</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>Welsh -- England -- Chester</dc:subject>
+        <dc:subject>Societies -- England -- Chester</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1832 Evan Evans&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:37.399470+00:00"/>
+        <meta name="calibre:title_sort" content="letter addressed to the Right Honourable Lord Robert Grosvenor, M.P. / explanatory of the object and design of the Chester Cambrian Society, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

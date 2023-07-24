@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de6f1ee5-f8ca-4930-b90c-3127d29d915a</dc:identifier>
+        <dc:title>Memoirs of Leonora Christina, Daughter of Christian IV. of Denmark / Written During Her Imprisonment in the Blue Tower at Copenhagen 1663-1685</dc:title>
+        <dc:creator opf:file-as="Ulfeldt, Leonora Christina, grevinde" opf:role="aut">grevinde Leonora Christina Ulfeldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38128</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ulfeldt</dc:subject>
+        <dc:subject>Leonora Christina</dc:subject>
+        <dc:subject>grevinde</dc:subject>
+        <dc:subject>1621-1698 -- Imprisonment</dc:subject>
+        <dc:subject>Princesses -- Denmark -- Biography</dc:subject>
+        <dc:subject>Women political prisoners -- Denmark -- Biography</dc:subject>
+        <dc:subject>Denmark -- History -- Frederick III</dc:subject>
+        <dc:subject>1648-1670 -- Sources</dc:subject>
+        <dc:subject>Denmark -- History -- Christian V</dc:subject>
+        <dc:subject>1670-1699 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;grevinde Leonora Christina Ulfeldt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:10:50.186710+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Leonora Christina, Daughter of Christian IV. of Denmark / Written During Her Imprisonment in the Blue Tower at Copenhagen 1663-1685"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

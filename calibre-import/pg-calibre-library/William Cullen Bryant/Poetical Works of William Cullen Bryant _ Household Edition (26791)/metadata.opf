@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f267f57-2bd7-42f6-96ff-659405a9a0a5</dc:identifier>
+        <dc:title>Poetical Works of William Cullen Bryant / Household Edition</dc:title>
+        <dc:creator opf:file-as="Bryant, William Cullen" opf:role="aut">William Cullen Bryant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29700</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Cullen Bryant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:45:46.104912+00:00"/>
+        <meta name="calibre:title_sort" content="Poetical Works of William Cullen Bryant / Household Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

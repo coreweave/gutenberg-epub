@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d0645c1-13d0-457b-ab58-ceaca8ac63f5</dc:identifier>
+        <dc:title>An Account of Two Voyages to New-England, Made During the Years 1638, 1663</dc:title>
+        <dc:creator opf:file-as="Josselyn, John, active 1630-1675" opf:role="aut">active 1630-1675 John Josselyn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66922</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>America -- Discovery and exploration -- British</dc:subject>
+        <dc:subject>New England -- Description and travel</dc:subject>
+        <dc:subject>Indians of North America -- New England</dc:subject>
+        <dc:subject>Josselyn</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>active 1630-1675 -- Travel -- New England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1630-1675 John Josselyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:36:02.345149+00:00"/>
+        <meta name="calibre:title_sort" content="Account of Two Voyages to New-England, Made During the Years 1638, 1663, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

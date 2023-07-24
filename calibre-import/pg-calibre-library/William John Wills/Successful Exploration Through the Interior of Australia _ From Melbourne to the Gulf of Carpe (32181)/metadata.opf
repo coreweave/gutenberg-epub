@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edbbe9aa-8020-420a-9e2e-1b2e14ca8a23</dc:identifier>
+        <dc:title>Successful Exploration Through the Interior of Australia / From Melbourne to the Gulf of Carpentaria</dc:title>
+        <dc:creator opf:file-as="Wills, William John" opf:role="aut">William John Wills</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Description and travel</dc:subject>
+        <dc:subject>Australia -- Discovery and exploration</dc:subject>
+        <dc:subject>Burke and Wills Expedition</dc:subject>
+        <dc:subject>(1860-1861)</dc:subject>
+        <dc:subject>Wills</dc:subject>
+        <dc:subject>William John</dc:subject>
+        <dc:subject>1834-1861</dc:subject>
+        <dc:subject>Burke</dc:subject>
+        <dc:subject>Robert O'Hara</dc:subject>
+        <dc:subject>1821-1861</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William John Wills&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:56:50.949472+00:00"/>
+        <meta name="calibre:title_sort" content="Successful Exploration Through the Interior of Australia / From Melbourne to the Gulf of Carpentaria"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

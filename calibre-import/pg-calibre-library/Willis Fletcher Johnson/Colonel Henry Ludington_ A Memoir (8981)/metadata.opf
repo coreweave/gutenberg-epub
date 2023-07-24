@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8981</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e995af9a-1ef0-437b-80e2-d7a00af53240</dc:identifier>
+        <dc:title>Colonel Henry Ludington: A Memoir</dc:title>
+        <dc:creator opf:file-as="Johnson, Willis Fletcher" opf:role="aut">Willis Fletcher Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58125</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ludington</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1739-1817</dc:subject>
+        <dc:subject>New York (State) -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>Dutchess County (N.Y.) -- History -- Revolution</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willis Fletcher Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:22:10.968779+00:00"/>
+        <meta name="calibre:title_sort" content="Colonel Henry Ludington: A Memoir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

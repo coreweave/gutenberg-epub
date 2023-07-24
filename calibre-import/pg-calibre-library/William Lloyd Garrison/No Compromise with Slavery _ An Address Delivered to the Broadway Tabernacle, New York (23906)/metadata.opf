@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abfad64e-531a-450e-b1b7-fd90a2e10e59</dc:identifier>
+        <dc:title>No Compromise with Slavery / An Address Delivered to the Broadway Tabernacle, New York</dc:title>
+        <dc:creator opf:file-as="Garrison, William Lloyd" opf:role="aut">William Lloyd Garrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24194</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <dc:subject>Slaves -- Emancipation -- United States</dc:subject>
+        <dc:subject>Slavery and the church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Lloyd Garrison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:41:57.646202+00:00"/>
+        <meta name="calibre:title_sort" content="No Compromise with Slavery / An Address Delivered to the Broadway Tabernacle, New York"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

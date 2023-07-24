@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f211550e-0bae-48aa-9983-a80a8d88dca3</dc:identifier>
+        <dc:title>My First Cruise, and Other stories</dc:title>
+        <dc:creator opf:file-as="Kingston, William Henry Giles" opf:role="aut">William Henry Giles Kingston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy literature</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>Castaways -- Juvenile fiction</dc:subject>
+        <dc:subject>Farm life -- Juvenile fiction</dc:subject>
+        <dc:subject>South America -- Juvenile fiction</dc:subject>
+        <dc:subject>Peddlers -- Juvenile fiction</dc:subject>
+        <dc:subject>Pennsylvania -- Juvenile fiction</dc:subject>
+        <dc:subject>Minstrels -- Juvenile fiction</dc:subject>
+        <dc:subject>Blind -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Giles Kingston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:10:11.482423+00:00"/>
+        <meta name="calibre:title_sort" content="My First Cruise, and Other stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

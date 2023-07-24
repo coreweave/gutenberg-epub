@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7d8f879-164c-48ed-85f3-37c78d5f1a90</dc:identifier>
+        <dc:title>Starr King in California</dc:title>
+        <dc:creator opf:file-as="Simonds, William Day" opf:role="aut">William Day Simonds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4641</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>King</dc:subject>
+        <dc:subject>Thomas Starr</dc:subject>
+        <dc:subject>1824-1864</dc:subject>
+        <dc:subject>California -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>Unitarians -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Day Simonds&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:31:15.514472+00:00"/>
+        <meta name="calibre:title_sort" content="Starr King in California"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

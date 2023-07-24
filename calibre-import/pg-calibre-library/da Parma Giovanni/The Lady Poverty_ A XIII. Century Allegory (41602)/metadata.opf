@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7beec326-f8ed-4c28-9b91-863766801881</dc:identifier>
+        <dc:title>The Lady Poverty: A XIII. Century Allegory</dc:title>
+        <dc:creator opf:file-as="Giovanni, da Parma" opf:role="aut">da Parma Giovanni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66025</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Francis</dc:subject>
+        <dc:subject>of Assisi</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1182-1226</dc:subject>
+        <dc:subject>Poverty -- Religious aspects -- Catholic Church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;da Parma Giovanni&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:57:44.556764+00:00"/>
+        <meta name="calibre:title_sort" content="Lady Poverty: A XIII. Century Allegory, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f15b2eb0-3f9b-4b79-8fda-ea99779389cc</dc:identifier>
+        <dc:title>History of the Conquest of Peru</dc:title>
+        <dc:creator opf:file-as="Prescott, William Hickling" opf:role="aut">William Hickling Prescott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1209</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Peru -- History -- Conquest</dc:subject>
+        <dc:subject>1522-1548</dc:subject>
+        <dc:subject>Incas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Hickling Prescott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:49:08.789665+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Conquest of Peru"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c1d1ca1-6de4-4982-833a-5f254892eb4e</dc:identifier>
+        <dc:title>Memoirs of the Comtesse Du Barry / With Minute Details of Her Entire Career as Favorite of Louis XV</dc:title>
+        <dc:creator opf:file-as="Lamothe-Langon, Etienne-Léon, baron de" opf:role="aut">baron de Etienne-Léon Lamothe-Langon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Du Barry</dc:subject>
+        <dc:subject>Jeanne Bécu</dc:subject>
+        <dc:subject>comtesse</dc:subject>
+        <dc:subject>1743-1793</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;baron de Etienne-Léon Lamothe-Langon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:13:46.666172+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Comtesse Du Barry / With Minute Details of Her Entire Career as Favorite of Louis XV"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

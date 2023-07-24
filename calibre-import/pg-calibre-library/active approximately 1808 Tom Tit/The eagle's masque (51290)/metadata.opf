@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41f1331e-73bd-46c4-9c26-522ce203b10c</dc:identifier>
+        <dc:title>The eagle's masque</dc:title>
+        <dc:creator opf:file-as="Tit, Tom, active approximately 1808" opf:role="aut">active approximately 1808 Tom Tit</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70437</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Birds -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active approximately 1808 Tom Tit&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:28:51.351596+00:00"/>
+        <meta name="calibre:title_sort" content="eagle's masque, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

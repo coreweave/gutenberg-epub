@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d2e3914-88a0-4024-86c6-d3728db028c0</dc:identifier>
+        <dc:title>The Rogues and Vagabonds of Shakespeare's Youth / Awdeley's 'Fraternitye of vacabondes' and Harman's 'Caveat'</dc:title>
+        <dc:creator opf:file-as="Awdelay, John, active 1559-1577" opf:role="aut">active 1559-1577 John Awdelay</dc:creator>
+        <dc:creator opf:file-as="Awdelay, John, active 1559-1577" opf:role="aut">active 1567 Thomas Harman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38850</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Contemporary England</dc:subject>
+        <dc:subject>Rogues and vagabonds -- England -- History -- 16th century -- Sources</dc:subject>
+        <dc:subject>Rogues and vagabonds -- England -- Early works to 1800</dc:subject>
+        <dc:subject>Thieves</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1559-1577 John Awdelay&quot;: &quot;&quot;, &quot;active 1567 Thomas Harman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:53:37.133052+00:00"/>
+        <meta name="calibre:title_sort" content="Rogues and Vagabonds of Shakespeare's Youth / Awdeley's 'Fraternitye of vacabondes' and Harman's 'Caveat', The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

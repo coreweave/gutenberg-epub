@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a31116ec-95fe-4b9a-b058-ec2f8f72afd8</dc:identifier>
+        <dc:title>The History of Sumatra / Containing An Account Of The Government, Laws, Customs And / Manners Of The Native Inhabitants</dc:title>
+        <dc:creator opf:file-as="Marsden, William" opf:role="aut">William Marsden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16768</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- Indonesia -- Sumatra</dc:subject>
+        <dc:subject>Sumatra (Indonesia)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Marsden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:54:35.078229+00:00"/>
+        <meta name="calibre:title_sort" content="History of Sumatra / Containing An Account Of The Government, Laws, Customs And / Manners Of The Native Inhabitants, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

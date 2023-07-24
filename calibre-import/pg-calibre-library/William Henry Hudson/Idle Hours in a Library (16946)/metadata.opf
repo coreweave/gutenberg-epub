@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16946</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfb10e34-53bd-494b-82b8-36ab0747c0c8</dc:identifier>
+        <dc:title>Idle Hours in a Library</dc:title>
+        <dc:creator opf:file-as="Hudson, William Henry" opf:role="aut">William Henry Hudson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56659</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Social life and customs</dc:subject>
+        <dc:subject>English literature -- History and criticism</dc:subject>
+        <dc:subject>Pepys</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1633-1703</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Contemporary England</dc:subject>
+        <dc:subject>Behn</dc:subject>
+        <dc:subject>Aphra</dc:subject>
+        <dc:subject>1640-1689</dc:subject>
+        <dc:subject>Manley</dc:subject>
+        <dc:subject>Mrs. (Mary de la Rivière)</dc:subject>
+        <dc:subject>1663-1724</dc:subject>
+        <dc:subject>Murger</dc:subject>
+        <dc:subject>Henri</dc:subject>
+        <dc:subject>1822-1861. Scènes de la vie de Bohême</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Hudson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:16:48.368560+00:00"/>
+        <meta name="calibre:title_sort" content="Idle Hours in a Library"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

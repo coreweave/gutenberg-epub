@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45945</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9af0bef-1406-4ab1-82de-e2fee8693180</dc:identifier>
+        <dc:title>The Printer Boy; Or, How Benjamin Franklin Made His Mark / An Example for Youth.</dc:title>
+        <dc:creator opf:file-as="Thayer, William Makepeace" opf:role="aut">William Makepeace Thayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26295</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Franklin</dc:subject>
+        <dc:subject>Benjamin</dc:subject>
+        <dc:subject>1706-1790</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Makepeace Thayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:02:23.395547+00:00"/>
+        <meta name="calibre:title_sort" content="Printer Boy; Or, How Benjamin Franklin Made His Mark / An Example for Youth., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

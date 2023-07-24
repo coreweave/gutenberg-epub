@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9fffc5a-0b88-4259-9371-bfd0701591d4</dc:identifier>
+        <dc:title>"Chicago to the Sea." Eastern Excursionist / A complete guide to the principal eastern summer resorts, including: Niagara Falls, the White Mountains, Saint Lawrence and Saguenay Rivers, Montreal and Quebec, the New England sea beaches, etc., and how and when to enjoy them.</dc:title>
+        <dc:creator opf:file-as="Gage, William C." opf:role="aut">William C. Gage</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49894</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>New England -- Description and travel</dc:subject>
+        <dc:subject>Saint Lawrence River -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William C. Gage&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:44.708017+00:00"/>
+        <meta name="calibre:title_sort" content="Chicago to the Sea.&quot; Eastern Excursionist / A complete guide to the principal eastern summer resorts, including: Niagara Falls, the White Mountains, Saint Lawrence and Saguenay Rivers, Montreal and Quebec, the New England sea beaches, etc., and how and when to enjoy them."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

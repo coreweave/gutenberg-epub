@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41e1cbab-93fe-47c0-b518-dfa96a5ed963</dc:identifier>
+        <dc:title>France and the Republic / A Record of Things Seen and Learned in the French Provinces During the 'Centennial' Year 1889</dc:title>
+        <dc:creator opf:file-as="Hurlbert, William Henry" opf:role="aut">William Henry Hurlbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21498</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Description and travel</dc:subject>
+        <dc:subject>France -- Politics and government -- 1870-1940</dc:subject>
+        <dc:subject>Republicanism -- France</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Hurlbert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:19:36.797386+00:00"/>
+        <meta name="calibre:title_sort" content="France and the Republic / A Record of Things Seen and Learned in the French Provinces During the 'Centennial' Year 1889"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

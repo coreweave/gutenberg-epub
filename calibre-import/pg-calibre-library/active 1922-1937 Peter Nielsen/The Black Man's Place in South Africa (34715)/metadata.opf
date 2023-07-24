@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6a8848a-4b2d-4843-98e0-b7795591034f</dc:identifier>
+        <dc:title>The Black Man's Place in South Africa</dc:title>
+        <dc:creator opf:file-as="Nielsen, Peter, active 1922-1937" opf:role="aut">active 1922-1937 Peter Nielsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Black people -- South Africa</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1922-1937 Peter Nielsen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:00:30.003072+00:00"/>
+        <meta name="calibre:title_sort" content="Black Man's Place in South Africa, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32930</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0413205d-667f-4bfd-b31a-d53b23f1dcd7</dc:identifier>
+        <dc:title>The "Twenty-Seventh": A Regimental History</dc:title>
+        <dc:creator opf:file-as="Sheldon, Winthrop Dudley" opf:role="aut">Winthrop Dudley Sheldon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61312</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>United States. Army. Connecticut Infantry Regiment</dc:subject>
+        <dc:subject>27th (1862-1863)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Winthrop Dudley Sheldon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:32:50.816936+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty-Seventh&quot;: A Regimental History, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e7280c2-46d1-48ea-9b33-23938b10a1e1</dc:identifier>
+        <dc:title>Illustrated Catalogue of a Portion of the Collections Made During the Field Season of 1881 / Third Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1881-82, Government Printing Office, Washington, 1884, pages 427-510</dc:title>
+        <dc:creator opf:file-as="Holmes, William Henry" opf:role="aut">William Henry Holmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19416</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Antiquities</dc:subject>
+        <dc:subject>North Carolina -- Antiquities</dc:subject>
+        <dc:subject>Tennessee -- Antiquities</dc:subject>
+        <dc:subject>Arkansas -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Holmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:18:23.101740+00:00"/>
+        <meta name="calibre:title_sort" content="Illustrated Catalogue of a Portion of the Collections Made During the Field Season of 1881 / Third Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1881-82, Government Printing Office, Washington, 1884, pages 427-510"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

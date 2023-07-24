@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d3028c5-3bc7-42fa-8e22-f8772c5f5c32</dc:identifier>
+        <dc:title>"God Wills It!" A Tale of the First Crusade.</dc:title>
+        <dc:creator opf:file-as="Davis, William Stearns" opf:role="aut">William Stearns Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crusades -- First</dc:subject>
+        <dc:subject>1096-1099 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Stearns Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:27:06.207711+00:00"/>
+        <meta name="calibre:title_sort" content="God Wills It!&quot; A Tale of the First Crusade."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

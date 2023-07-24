@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">987c4a1c-f571-4ac2-833d-a6b32a4c37a8</dc:identifier>
+        <dc:title>A Port Said miscellany</dc:title>
+        <dc:creator opf:file-as="McFee, William" opf:role="aut">William McFee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69240</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels</dc:subject>
+        <dc:subject>Ships</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William McFee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:59:50.873999+00:00"/>
+        <meta name="calibre:title_sort" content="Port Said miscellany, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

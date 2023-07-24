@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6645348c-43ae-458a-838c-8771f6f878e1</dc:identifier>
+        <dc:title>Theodore Roosevelt: An Intimate Biography</dc:title>
+        <dc:creator opf:file-as="Thayer, William Roscoe" opf:role="aut">William Roscoe Thayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <dc:subject>Roosevelt</dc:subject>
+        <dc:subject>Theodore</dc:subject>
+        <dc:subject>1858-1919</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Roscoe Thayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:08:14.843531+00:00"/>
+        <meta name="calibre:title_sort" content="Theodore Roosevelt: An Intimate Biography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03b4f7c7-e1dd-4899-ad90-0e919977309f</dc:identifier>
+        <dc:title>The Mind of the Child, Part II / The Development of the Intellect, International Education / Series Edited By William T. Harris, Volume IX.</dc:title>
+        <dc:creator opf:file-as="Preyer, William T." opf:role="aut">William T. Preyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Child development</dc:subject>
+        <dc:subject>Child psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William T. Preyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:46:09.355858+00:00"/>
+        <meta name="calibre:title_sort" content="Mind of the Child, Part II / The Development of the Intellect, International Education / Series Edited By William T. Harris, Volume IX., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

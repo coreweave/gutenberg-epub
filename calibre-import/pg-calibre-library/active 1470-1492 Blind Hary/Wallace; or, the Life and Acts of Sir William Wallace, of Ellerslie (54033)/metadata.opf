@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">099dbdb3-b685-4550-bd83-55ee0a65c426</dc:identifier>
+        <dc:title>Wallace; or, the Life and Acts of Sir William Wallace, of Ellerslie</dc:title>
+        <dc:creator opf:file-as="Blind Hary, active 1470-1492" opf:role="aut">active 1470-1492 Blind Hary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49580</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wallace</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>-1305 -- Poetry</dc:subject>
+        <dc:subject>Revolutionaries -- Poetry</dc:subject>
+        <dc:subject>Nationalists -- Poetry</dc:subject>
+        <dc:subject>Guerrillas -- Poetry</dc:subject>
+        <dc:subject>Scotland -- History -- Wallace's Rising</dc:subject>
+        <dc:subject>1297-1304 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;active 1470-1492 Blind Hary&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:24:53.945629+00:00"/>
+        <meta name="calibre:title_sort" content="Wallace; or, the Life and Acts of Sir William Wallace, of Ellerslie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1006cdd2-a424-4dd5-ad79-f48eb21c8db2</dc:identifier>
+        <dc:title>Legendary Islands of the Atlantic: A Study of Medieval Geography</dc:title>
+        <dc:creator opf:file-as="Babcock, William Henry" opf:role="aut">William Henry Babcock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65103</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Geography</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>Medieval -- Atlantic Ocean</dc:subject>
+        <dc:subject>Geographical myths</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Henry Babcock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:43:17.834733+00:00"/>
+        <meta name="calibre:title_sort" content="Legendary Islands of the Atlantic: A Study of Medieval Geography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
