@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2a3e7bf-f0c0-4f75-881d-6197af3687b2</dc:identifier>
+        <dc:title>Acid Rain and Our Nation's Capital: A Guide to Effects on Buildings and Monuments</dc:title>
+        <dc:creator opf:file-as="McGee, E. S." opf:role="aut">E. S. McGee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57972</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Acid rain -- Environmental aspects -- Washington (D.C.)</dc:subject>
+        <dc:subject>Building stones -- Deterioration -- Washington (D.C.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. S. McGee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:22:11.277777+00:00"/>
+        <meta name="calibre:title_sort" content="Acid Rain and Our Nation's Capital: A Guide to Effects on Buildings and Monuments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

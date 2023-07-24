@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20982</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">690ff653-d30a-412c-86fb-94aee608d33a</dc:identifier>
+        <dc:title>Mammals Obtained by Dr. Curt von Wedel from the Barrier Beach of Tamaulipas, Mexico</dc:title>
+        <dc:creator opf:file-as="Hall, E. Raymond (Eugene Raymond)" opf:role="aut">E. Raymond Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29122</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mammals -- Mexico -- Tamaulipas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Raymond Hall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:41:38.458043+00:00"/>
+        <meta name="calibre:title_sort" content="Mammals Obtained by Dr. Curt von Wedel from the Barrier Beach of Tamaulipas, Mexico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

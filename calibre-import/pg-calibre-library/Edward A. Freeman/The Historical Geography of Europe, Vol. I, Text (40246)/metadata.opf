@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a0b39b4-0b51-4cc0-89f9-0e0da13eff2d</dc:identifier>
+        <dc:title>The Historical Geography of Europe, Vol. I, Text</dc:title>
+        <dc:creator opf:file-as="Freeman, Edward A. (Edward Augustus)" opf:role="aut">Edward A. Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61375</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Historical geography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward A. Freeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:43:48.594068+00:00"/>
+        <meta name="calibre:title_sort" content="Historical Geography of Europe, Vol. I, Text, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

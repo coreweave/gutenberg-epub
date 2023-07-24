@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">436b5a32-3c45-4b09-8695-be46b8076f7b</dc:identifier>
+        <dc:title>Rose and Rose</dc:title>
+        <dc:creator opf:file-as="Lucas, E. V. (Edward Verrall)" opf:role="aut">E. V. Lucas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57995</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physicians -- Fiction</dc:subject>
+        <dc:subject>Guardian and ward -- Fiction</dc:subject>
+        <dc:subject>Single men -- Fiction</dc:subject>
+        <dc:subject>England -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. V. Lucas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:36:47.150417+00:00"/>
+        <meta name="calibre:title_sort" content="Rose and Rose"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ae33423-b3e2-46f6-9f1d-c9b21c01d40b</dc:identifier>
+        <dc:title>Against the Current: Simple Chapters from a Complex Life</dc:title>
+        <dc:creator opf:file-as="Steiner, Edward Alfred" opf:role="aut">Edward Alfred Steiner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41756</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Steiner</dc:subject>
+        <dc:subject>Edward Alfred</dc:subject>
+        <dc:subject>1866-1956</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Alfred Steiner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:58.937174+00:00"/>
+        <meta name="calibre:title_sort" content="Against the Current: Simple Chapters from a Complex Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54314</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37ef36e8-66c3-470f-a2b0-20f14a470701</dc:identifier>
+        <dc:title>Weird Tales, Vol. 2 (of 2)</dc:title>
+        <dc:creator opf:file-as="Hoffmann, E. T. A. (Ernst Theodor Amadeus)" opf:role="aut">E. T. A. Hoffmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31439</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>German -- Translations into English</dc:subject>
+        <dc:subject>Hoffmann</dc:subject>
+        <dc:subject>E. T. A. (Ernst Theodor Amadeus)</dc:subject>
+        <dc:subject>1776-1822 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. T. A. Hoffmann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:43:11.760972+00:00"/>
+        <meta name="calibre:title_sort" content="Weird Tales, Vol. 2 (of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

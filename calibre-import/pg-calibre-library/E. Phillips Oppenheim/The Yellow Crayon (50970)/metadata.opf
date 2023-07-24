@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ca4e1f7-c251-4ff1-adaa-622a9d820f6c</dc:identifier>
+        <dc:title>The Yellow Crayon</dc:title>
+        <dc:creator opf:file-as="Oppenheim, E. Phillips (Edward Phillips)" opf:role="aut">E. Phillips Oppenheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1849</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Phillips Oppenheim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:07:42.013377+00:00"/>
+        <meta name="calibre:title_sort" content="Yellow Crayon, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

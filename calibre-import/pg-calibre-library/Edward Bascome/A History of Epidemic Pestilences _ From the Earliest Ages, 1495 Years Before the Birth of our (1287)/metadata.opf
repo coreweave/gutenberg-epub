@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a54ed6ad-40db-4417-a5f0-73df5573dad2</dc:identifier>
+        <dc:title>A History of Epidemic Pestilences / From the Earliest Ages, 1495 Years Before the Birth of our Saviour to 1848: With Researches into Their Nature, Causes, and Prophylaxis</dc:title>
+        <dc:creator opf:file-as="Bascome, Edward" opf:role="aut">Edward Bascome</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67182</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Epidemics -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Bascome&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:45:35.453925+00:00"/>
+        <meta name="calibre:title_sort" content="History of Epidemic Pestilences / From the Earliest Ages, 1495 Years Before the Birth of our Saviour to 1848: With Researches into Their Nature, Causes, and Prophylaxis, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

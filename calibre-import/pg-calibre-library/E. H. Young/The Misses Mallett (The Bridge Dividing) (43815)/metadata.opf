@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43815</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45aac3fa-5f9d-4fac-948b-3bac6360541d</dc:identifier>
+        <dc:title>The Misses Mallett (The Bridge Dividing)</dc:title>
+        <dc:creator opf:file-as="Young, E. H. (Emily Hilda)" opf:role="aut">E. H. Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. H. Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:00:38.963781+00:00"/>
+        <meta name="calibre:title_sort" content="Misses Mallett (The Bridge Dividing), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2982db26-219c-43de-8877-5ef8811a2cb7</dc:identifier>
+        <dc:title>Yachting, Vol. 1</dc:title>
+        <dc:creator opf:file-as="Brassey, Thomas Brassey, Earl" opf:role="aut">Earl Thomas Brassey Brassey</dc:creator>
+        <dc:creator opf:file-as="Brassey, Thomas Brassey, Earl" opf:role="aut">R. T. Pritchett</dc:creator>
+        <dc:creator opf:file-as="Brassey, Thomas Brassey, Earl" opf:role="aut">C. E. Seth-Smith</dc:creator>
+        <dc:creator opf:file-as="Brassey, Thomas Brassey, Earl" opf:role="aut">Sir Edward Sullivan</dc:creator>
+        <dc:creator opf:file-as="Brassey, Thomas Brassey, Earl" opf:role="aut">Watson. G. L.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41971</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Yachts</dc:subject>
+        <dc:subject>Yachting</dc:subject>
+        <dc:subject>Yacht racing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Earl Thomas Brassey Brassey&quot;: &quot;&quot;, &quot;R. T. Pritchett&quot;: &quot;&quot;, &quot;C. E. Seth-Smith&quot;: &quot;&quot;, &quot;Sir Edward Sullivan&quot;: &quot;&quot;, &quot;Watson. G. L.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:00:56.781172+00:00"/>
+        <meta name="calibre:title_sort" content="Yachting, Vol. 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

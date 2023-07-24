@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b82c35d3-a1d5-4c59-ba18-0d4c13f7297c</dc:identifier>
+        <dc:title>Little Susy's Little Servants</dc:title>
+        <dc:creator opf:file-as="Prentiss, E. (Elizabeth)" opf:role="aut">E. Prentiss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Family -- Juvenile fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Mothers and daughters -- Juvenile fiction</dc:subject>
+        <dc:subject>Body schema in children -- Juvenile fiction</dc:subject>
+        <dc:subject>Glory of God -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Prentiss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:16:04.126985+00:00"/>
+        <meta name="calibre:title_sort" content="Little Susy's Little Servants"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

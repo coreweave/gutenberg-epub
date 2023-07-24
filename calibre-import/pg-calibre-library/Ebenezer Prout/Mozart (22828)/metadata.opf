@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22828</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97bc99e7-b28e-47a0-b8a8-d658aff1b2c8</dc:identifier>
+        <dc:title>Mozart</dc:title>
+        <dc:creator opf:file-as="Prout, Ebenezer" opf:role="aut">Ebenezer Prout</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mozart</dc:subject>
+        <dc:subject>Wolfgang Amadeus</dc:subject>
+        <dc:subject>1756-1791</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ebenezer Prout&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:55:59.771828+00:00"/>
+        <meta name="calibre:title_sort" content="Mozart"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

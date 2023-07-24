@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">961f098d-a809-4c16-9bcb-504d70ec3432</dc:identifier>
+        <dc:title>The Raven, and The Philosophy of Composition</dc:title>
+        <dc:creator opf:file-as="Poe, Edgar Allan" opf:role="aut">Edgar Allan Poe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55749</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Rhetoric</dc:subject>
+        <dc:subject>Ravens -- Poetry</dc:subject>
+        <dc:subject>Fantasy poetry</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edgar Allan Poe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:24:28.334444+00:00"/>
+        <meta name="calibre:title_sort" content="Raven, and The Philosophy of Composition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

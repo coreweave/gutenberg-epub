@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">327c5ef3-d7d8-4bff-814d-df800e649c48</dc:identifier>
+        <dc:title>Gypsy Sorcery and Fortune Telling / Illustrated by numerous incantations, specimens of medical magic, anecdotes and tales</dc:title>
+        <dc:creator opf:file-as="Leland, Charles Godfrey" opf:role="aut">Charles Godfrey Leland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58465</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romanies</dc:subject>
+        <dc:subject>Fortune-telling</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Romani</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Godfrey Leland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:04:41.668093+00:00"/>
+        <meta name="calibre:title_sort" content="Gypsy Sorcery and Fortune Telling / Illustrated by numerous incantations, specimens of medical magic, anecdotes and tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

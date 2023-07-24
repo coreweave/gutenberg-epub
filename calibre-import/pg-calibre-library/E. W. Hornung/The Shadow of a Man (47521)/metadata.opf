@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a24378e-da5e-4d09-9a98-419b3c20b6cf</dc:identifier>
+        <dc:title>The Shadow of a Man</dc:title>
+        <dc:creator opf:file-as="Hornung, E. W. (Ernest William)" opf:role="aut">E. W. Hornung</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33651</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. W. Hornung&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:35:04.627047+00:00"/>
+        <meta name="calibre:title_sort" content="Shadow of a Man, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

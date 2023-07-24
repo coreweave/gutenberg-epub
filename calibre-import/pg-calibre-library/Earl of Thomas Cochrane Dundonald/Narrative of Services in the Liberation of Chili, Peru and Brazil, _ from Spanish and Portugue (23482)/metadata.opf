@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f6e9e48-cf5a-432c-8cd1-7bbd32fd2a11</dc:identifier>
+        <dc:title>Narrative of Services in the Liberation of Chili, Peru and Brazil, / from Spanish and Portuguese Domination, Volume 1</dc:title>
+        <dc:creator opf:file-as="Dundonald, Thomas Cochrane, Earl of" opf:role="aut">Earl of Thomas Cochrane Dundonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14914</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chile -- History -- War of Independence</dc:subject>
+        <dc:subject>1810-1824</dc:subject>
+        <dc:subject>Peru -- History -- War of Independence</dc:subject>
+        <dc:subject>1820-1829</dc:subject>
+        <dc:subject>Brazil -- History -- Empire</dc:subject>
+        <dc:subject>1822-1889</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Earl of Thomas Cochrane Dundonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:24:28.552106+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of Services in the Liberation of Chili, Peru and Brazil, / from Spanish and Portuguese Domination, Volume 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

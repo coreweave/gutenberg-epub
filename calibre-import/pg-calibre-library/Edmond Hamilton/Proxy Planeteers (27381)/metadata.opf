@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfd07e82-479a-48b0-90e8-1296b35c0ff5</dc:identifier>
+        <dc:title>Proxy Planeteers</dc:title>
+        <dc:creator opf:file-as="Hamilton, Edmond" opf:role="aut">Edmond Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68669</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <dc:subject>Mercury (Planet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmond Hamilton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:11:18.113549+00:00"/>
+        <meta name="calibre:title_sort" content="Proxy Planeteers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

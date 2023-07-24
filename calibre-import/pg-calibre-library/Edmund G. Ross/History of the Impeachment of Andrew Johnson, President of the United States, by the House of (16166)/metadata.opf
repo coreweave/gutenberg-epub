@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a18472e1-66e5-46ec-9abf-bf455c018850</dc:identifier>
+        <dc:title>History of the Impeachment of Andrew Johnson, President of the United States, by the House of Representatives, and his trial by the Senate for high crimes and misdemeanors in office, 1868</dc:title>
+        <dc:creator opf:file-as="Ross, Edmund G. (Edmund Gibson)" opf:role="aut">Edmund G. Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2442</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Johnson</dc:subject>
+        <dc:subject>Andrew</dc:subject>
+        <dc:subject>1808-1875 -- Impeachment</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmund G. Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:50:37.077011+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Impeachment of Andrew Johnson, President of the United States, by the House of Representatives, and his trial by the Senate for high crimes and misdemeanors in office, 1868"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

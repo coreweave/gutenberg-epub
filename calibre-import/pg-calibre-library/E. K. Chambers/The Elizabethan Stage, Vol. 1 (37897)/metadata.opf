@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad5f17c3-1f82-4e2f-9a86-bf576ac2760c</dc:identifier>
+        <dc:title>The Elizabethan Stage, Vol. 1</dc:title>
+        <dc:creator opf:file-as="Chambers, E. K. (Edmund Kerchever)" opf:role="aut">E. K. Chambers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Elizabeth</dc:subject>
+        <dc:subject>1558-1603</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Stage history -- To 1625</dc:subject>
+        <dc:subject>English drama -- Early modern and Elizabethan</dc:subject>
+        <dc:subject>1500-1600 -- History and criticism</dc:subject>
+        <dc:subject>1564-1616 -- Stage history -- England -- London</dc:subject>
+        <dc:subject>Theaters -- England -- London -- History -- 16th century</dc:subject>
+        <dc:subject>1564-1616 -- Relations with actors</dc:subject>
+        <dc:subject>Theater -- England -- London -- History -- 16th century</dc:subject>
+        <dc:subject>Acting -- History -- 16th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. K. Chambers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:41:13.945538+00:00"/>
+        <meta name="calibre:title_sort" content="Elizabethan Stage, Vol. 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

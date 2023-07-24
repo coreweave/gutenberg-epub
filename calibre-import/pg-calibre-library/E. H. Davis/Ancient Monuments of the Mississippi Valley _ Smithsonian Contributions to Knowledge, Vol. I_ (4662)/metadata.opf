@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52fd8cd4-b3a6-421c-8a8d-e430c76fad3a</dc:identifier>
+        <dc:title>Ancient Monuments of the Mississippi Valley / Smithsonian Contributions to Knowledge, Vol. I.</dc:title>
+        <dc:creator opf:file-as="Davis, E. H. (Edwin Hamilton)" opf:role="aut">E. H. Davis</dc:creator>
+        <dc:creator opf:file-as="Davis, E. H. (Edwin Hamilton)" opf:role="aut">E. G. Squier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49668</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mounds -- Mississippi River Valley</dc:subject>
+        <dc:subject>Indians of North America -- Mississippi River Valley -- Antiquities</dc:subject>
+        <dc:subject>Mississippi River Valley -- Antiquities</dc:subject>
+        <dc:subject>Ohio River Valley -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. H. Davis&quot;: &quot;&quot;, &quot;E. G. Squier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:45:27.231747+00:00"/>
+        <meta name="calibre:title_sort" content="Ancient Monuments of the Mississippi Valley / Smithsonian Contributions to Knowledge, Vol. I."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

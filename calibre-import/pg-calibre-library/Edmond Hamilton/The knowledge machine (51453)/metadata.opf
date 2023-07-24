@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4065ee6c-cca2-4385-ba29-424ebf2929f6</dc:identifier>
+        <dc:title>The knowledge machine</dc:title>
+        <dc:creator opf:file-as="Hamilton, Edmond" opf:role="aut">Edmond Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69665</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Education -- Fiction</dc:subject>
+        <dc:subject>Inventions -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmond Hamilton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:39:35.693202+00:00"/>
+        <meta name="calibre:title_sort" content="knowledge machine, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

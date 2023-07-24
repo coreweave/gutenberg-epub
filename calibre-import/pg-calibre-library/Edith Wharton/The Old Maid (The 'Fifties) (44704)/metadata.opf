@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">386bd033-027a-4c46-b71d-411bf259b8a0</dc:identifier>
+        <dc:title>The Old Maid (The 'Fifties)</dc:title>
+        <dc:creator opf:file-as="Wharton, Edith" opf:role="aut">Edith Wharton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61290</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Single women -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Cousins -- Fiction</dc:subject>
+        <dc:subject>Illegitimate children -- Fiction</dc:subject>
+        <dc:subject>Weddings -- Fiction</dc:subject>
+        <dc:subject>Birthmothers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Wharton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:50:45.657436+00:00"/>
+        <meta name="calibre:title_sort" content="Old Maid (The 'Fifties), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

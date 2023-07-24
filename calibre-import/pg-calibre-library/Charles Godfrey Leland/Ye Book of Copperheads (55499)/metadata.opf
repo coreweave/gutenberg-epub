@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42458bf6-97d0-4869-90d2-f389b87b3ae8</dc:identifier>
+        <dc:title>Ye Book of Copperheads</dc:title>
+        <dc:creator opf:file-as="Leland, Charles Godfrey" opf:role="aut">Charles Godfrey Leland</dc:creator>
+        <dc:creator opf:file-as="Leland, Charles Godfrey" opf:role="aut">H. P. Leland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45274</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Poetry</dc:subject>
+        <dc:subject>Caricatures and cartoons -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Godfrey Leland&quot;: &quot;&quot;, &quot;H. P. Leland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:01:35.252372+00:00"/>
+        <meta name="calibre:title_sort" content="Ye Book of Copperheads"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96fef0e8-20a8-45d8-9002-3028a3e10ea8</dc:identifier>
+        <dc:title>The War of the Wenuses</dc:title>
+        <dc:creator opf:file-as="Graves, Charles L. (Charles Larcom)" opf:role="aut">Charles L. Graves</dc:creator>
+        <dc:creator opf:file-as="Graves, Charles L. (Charles Larcom)" opf:role="aut">E. V. Lucas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14678</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Wells</dc:subject>
+        <dc:subject>H. G. (Herbert George)</dc:subject>
+        <dc:subject>1866-1946 -- Parodies</dc:subject>
+        <dc:subject>imitations</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles L. Graves&quot;: &quot;&quot;, &quot;E. V. Lucas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:07:53.915243+00:00"/>
+        <meta name="calibre:title_sort" content="War of the Wenuses, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4431363e-1b2e-40e3-bec4-240dafd35a72</dc:identifier>
+        <dc:title>Come home from Earth</dc:title>
+        <dc:creator opf:file-as="Hamilton, Edmond" opf:role="aut">Edmond Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69279</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Scientists -- Fiction</dc:subject>
+        <dc:subject>Experiments -- Fiction</dc:subject>
+        <dc:subject>Symbiosis -- Fiction</dc:subject>
+        <dc:subject>Mind and body -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmond Hamilton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:23:39.462555+00:00"/>
+        <meta name="calibre:title_sort" content="Come home from Earth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a83c6bd7-fb3e-4dda-88bd-a0191be94e94</dc:identifier>
+        <dc:title>Narrative of a Voyage to Hudson's Bay in His Majesty's Ship Rosamond / Containing Some Account of the North-eastern Coast of America and of the Tribes Inhabiting That Remote Region</dc:title>
+        <dc:creator opf:file-as="Chappell, Edward" opf:role="aut">Edward Chappell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54088</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Canadian -- Description and travel</dc:subject>
+        <dc:subject>Eskimos</dc:subject>
+        <dc:subject>Hudson Bay</dc:subject>
+        <dc:subject>Cree language -- Dictionaries -- English</dc:subject>
+        <dc:subject>English language -- Dictionaries -- Cree</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Chappell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:25:06.191894+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of a Voyage to Hudson's Bay in His Majesty's Ship Rosamond / Containing Some Account of the North-eastern Coast of America and of the Tribes Inhabiting That Remote Region"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

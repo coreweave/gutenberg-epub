@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">145e1ea8-55cc-46e4-b8fc-74242acacd6c</dc:identifier>
+        <dc:title>William Caxton</dc:title>
+        <dc:creator opf:file-as="Duff, E. Gordon (Edward Gordon)" opf:role="aut">E. Gordon Duff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55919</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caxton</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>approximately 1422-1491 or 1492</dc:subject>
+        <dc:subject>Printing -- England -- London -- History -- Origin and antecedents</dc:subject>
+        <dc:subject>Incunabula -- England -- London -- Bibliography</dc:subject>
+        <dc:subject>Printers -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Westminster (London</dc:subject>
+        <dc:subject>England) -- Imprints</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Gordon Duff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:20:52.416123+00:00"/>
+        <meta name="calibre:title_sort" content="William Caxton"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

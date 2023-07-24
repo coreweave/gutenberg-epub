@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e64a91c-2503-4fae-a5d9-0918d32a247e</dc:identifier>
+        <dc:title>Three Great Epoch-Makers in Music</dc:title>
+        <dc:creator opf:file-as="Farnsworth, Edward Clarence" opf:role="aut">Edward Clarence Farnsworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58649</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chopin</dc:subject>
+        <dc:subject>Frédéric</dc:subject>
+        <dc:subject>1810-1849</dc:subject>
+        <dc:subject>Bach</dc:subject>
+        <dc:subject>Johann Sebastian</dc:subject>
+        <dc:subject>1685-1750</dc:subject>
+        <dc:subject>Strauss</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1864-1949</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Clarence Farnsworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:22:32.133305+00:00"/>
+        <meta name="calibre:title_sort" content="Three Great Epoch-Makers in Music"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

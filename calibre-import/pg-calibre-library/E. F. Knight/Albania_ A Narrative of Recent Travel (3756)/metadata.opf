@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61e8e453-3336-4326-b264-96cabd444dac</dc:identifier>
+        <dc:title>Albania: A Narrative of Recent Travel</dc:title>
+        <dc:creator opf:file-as="Knight, E. F. (Edward Frederick)" opf:role="aut">E. F. Knight</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Albania -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. F. Knight&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:28:16.213613+00:00"/>
+        <meta name="calibre:title_sort" content="Albania: A Narrative of Recent Travel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

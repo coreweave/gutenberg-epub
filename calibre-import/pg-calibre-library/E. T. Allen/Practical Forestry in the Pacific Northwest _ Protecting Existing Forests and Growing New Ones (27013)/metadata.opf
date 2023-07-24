@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6365d2a0-4a45-47f1-a6b8-7a354320ee75</dc:identifier>
+        <dc:title>Practical Forestry in the Pacific Northwest / Protecting Existing Forests and Growing New Ones, from the Standpoint of the Public and That of the Lumberman, with an Outline of Technical Methods</dc:title>
+        <dc:creator opf:file-as="Allen, E. T. (Edward Tyson)" opf:role="aut">E. T. Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18680</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pacific Coast -- Forestry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. T. Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:55:16.102362+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Forestry in the Pacific Northwest / Protecting Existing Forests and Growing New Ones, from the Standpoint of the Public and That of the Lumberman, with an Outline of Technical Methods"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

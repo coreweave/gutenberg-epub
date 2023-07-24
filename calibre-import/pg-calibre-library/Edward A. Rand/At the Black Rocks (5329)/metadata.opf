@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db5a3308-fe92-42b5-8275-49cebd0d005b</dc:identifier>
+        <dc:title>At the Black Rocks</dc:title>
+        <dc:creator opf:file-as="Rand, Edward A. (Edward Augustus)" opf:role="aut">Edward A. Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40269</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Boys -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailing -- Juvenile fiction</dc:subject>
+        <dc:subject>Ship captains -- Juvenile fiction</dc:subject>
+        <dc:subject>Christmas -- Juvenile fiction</dc:subject>
+        <dc:subject>Storms -- Juvenile fiction</dc:subject>
+        <dc:subject>Intergenerational relations -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward A. Rand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:58:50.958761+00:00"/>
+        <meta name="calibre:title_sort" content="At the Black Rocks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

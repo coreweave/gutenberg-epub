@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e33979d2-fb06-4ea5-b84b-03d034e304ff</dc:identifier>
+        <dc:title>Notes on Noses</dc:title>
+        <dc:creator opf:file-as="Warwick, Eden" opf:role="aut">Eden Warwick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physiognomy</dc:subject>
+        <dc:subject>Nose</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eden Warwick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:01:35.705748+00:00"/>
+        <meta name="calibre:title_sort" content="Notes on Noses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

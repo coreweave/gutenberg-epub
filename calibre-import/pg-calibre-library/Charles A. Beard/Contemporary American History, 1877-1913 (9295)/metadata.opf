@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4c82b3b-2e46-451e-8e01-95525c3399f2</dc:identifier>
+        <dc:title>Contemporary American History, 1877-1913</dc:title>
+        <dc:creator opf:file-as="Beard, Charles A. (Charles Austin)" opf:role="aut">Charles A. Beard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- 1865-1921</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles A. Beard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:30:03.767778+00:00"/>
+        <meta name="calibre:title_sort" content="Contemporary American History, 1877-1913"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

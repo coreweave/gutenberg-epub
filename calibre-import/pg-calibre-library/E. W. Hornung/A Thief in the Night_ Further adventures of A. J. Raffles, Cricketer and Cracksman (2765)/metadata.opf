@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8f8dc36-c324-456d-b228-c843c22cd910</dc:identifier>
+        <dc:title>A Thief in the Night: Further adventures of A. J. Raffles, Cricketer and Cracksman</dc:title>
+        <dc:creator opf:file-as="Hornung, E. W. (Ernest William)" opf:role="aut">E. W. Hornung</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33173</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Raffles (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Criminals -- England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. W. Hornung&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:10:13.364490+00:00"/>
+        <meta name="calibre:title_sort" content="Thief in the Night: Further adventures of A. J. Raffles, Cricketer and Cracksman, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

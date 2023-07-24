@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40af9765-207d-47da-b9f3-1a11a9eda08b</dc:identifier>
+        <dc:title>Eleven Possible Cases</dc:title>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Edgar Fawcett</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Franklin Fyles</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Anna Katharine Green</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Henry Harland</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Ingersoll Lockwood</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Joaquin Miller</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Kirk Munroe</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Brainard Gardner Smith</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Frank Richard Stockton</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">Maurice Thompson</dc:creator>
+        <dc:creator opf:file-as="Fawcett, Edgar" opf:role="aut">A. C. Wheeler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32117</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edgar Fawcett&quot;: &quot;&quot;, &quot;Franklin Fyles&quot;: &quot;&quot;, &quot;Anna Katharine Green&quot;: &quot;&quot;, &quot;Henry Harland&quot;: &quot;&quot;, &quot;Ingersoll Lockwood&quot;: &quot;&quot;, &quot;Joaquin Miller&quot;: &quot;&quot;, &quot;Kirk Munroe&quot;: &quot;&quot;, &quot;Brainard Gardner Smith&quot;: &quot;&quot;, &quot;Frank Richard Stockton&quot;: &quot;&quot;, &quot;Maurice Thompson&quot;: &quot;&quot;, &quot;A. C. Wheeler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:25:13.996247+00:00"/>
+        <meta name="calibre:title_sort" content="Eleven Possible Cases"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

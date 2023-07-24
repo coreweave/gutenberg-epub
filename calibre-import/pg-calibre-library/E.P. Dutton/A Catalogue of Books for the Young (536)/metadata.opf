@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72f73173-6e35-40ca-ad93-8e988b84ece0</dc:identifier>
+        <dc:title>A Catalogue of Books for the Young</dc:title>
+        <dc:creator opf:file-as="E.P. Dutton (Firm)" opf:role="aut">E.P. Dutton</dc:creator>
+        <dc:creator opf:file-as="E.P. Dutton (Firm)" opf:role="aut">Okeden</dc:creator>
+        <dc:creator opf:file-as="E.P. Dutton (Firm)" opf:role="aut">Welsh Farran Griffith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39818</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's books -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E.P. Dutton&quot;: &quot;&quot;, &quot;Okeden&quot;: &quot;&quot;, &quot;Welsh Farran Griffith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:34:00.170411+00:00"/>
+        <meta name="calibre:title_sort" content="Catalogue of Books for the Young, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cb5e489-6585-4f10-9da4-9a9e66cf8709</dc:identifier>
+        <dc:title>Famous Authors (Men)</dc:title>
+        <dc:creator opf:file-as="Harkins, E. F. (Edward Francis)" opf:role="aut">E. F. Harkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45523</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. F. Harkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:53:40.130426+00:00"/>
+        <meta name="calibre:title_sort" content="Famous Authors (Men)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

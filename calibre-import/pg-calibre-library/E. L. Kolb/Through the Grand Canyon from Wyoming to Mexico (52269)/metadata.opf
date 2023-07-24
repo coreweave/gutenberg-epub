@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64ba91f2-f078-4658-90bd-175c659f3006</dc:identifier>
+        <dc:title>Through the Grand Canyon from Wyoming to Mexico</dc:title>
+        <dc:creator opf:file-as="Kolb, E. L. (Ellsworth Leonardson)" opf:role="aut">E. L. Kolb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13150</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Grand Canyon (Ariz.)</dc:subject>
+        <dc:subject>Kolb</dc:subject>
+        <dc:subject>E. L. (Ellsworth Leonardson)</dc:subject>
+        <dc:subject>1876- -- Travel -- Arizona -- Grand Canyon</dc:subject>
+        <dc:subject>Boats and boating -- Colorado River (Colo.-Mexico)</dc:subject>
+        <dc:subject>Boats and boating -- Green River (Wyo.-Utah)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. L. Kolb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:31:36.306500+00:00"/>
+        <meta name="calibre:title_sort" content="Through the Grand Canyon from Wyoming to Mexico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

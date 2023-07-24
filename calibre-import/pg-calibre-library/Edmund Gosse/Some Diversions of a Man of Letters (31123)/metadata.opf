@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f48700cd-0b2b-4cb4-b305-af2bb917c702</dc:identifier>
+        <dc:title>Some Diversions of a Man of Letters</dc:title>
+        <dc:creator opf:file-as="Gosse, Edmund" opf:role="aut">Edmund Gosse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18649</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Poetry</dc:subject>
+        <dc:subject>American literature -- History and criticism</dc:subject>
+        <dc:subject>English literature -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmund Gosse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:05:00.060077+00:00"/>
+        <meta name="calibre:title_sort" content="Some Diversions of a Man of Letters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

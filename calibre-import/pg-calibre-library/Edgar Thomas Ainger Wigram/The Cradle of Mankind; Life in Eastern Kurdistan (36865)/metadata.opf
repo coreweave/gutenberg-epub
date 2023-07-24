@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3e24608-8d95-4978-90ba-c98a8de20fb8</dc:identifier>
+        <dc:title>The Cradle of Mankind; Life in Eastern Kurdistan</dc:title>
+        <dc:creator opf:file-as="Wigram, Edgar Thomas Ainger" opf:role="aut">Edgar Thomas Ainger Wigram</dc:creator>
+        <dc:creator opf:file-as="Wigram, Edgar Thomas Ainger" opf:role="aut">W. A. Wigram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44417</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kurds</dc:subject>
+        <dc:subject>Kurdistan -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edgar Thomas Ainger Wigram&quot;: &quot;&quot;, &quot;W. A. Wigram&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:48:15.444552+00:00"/>
+        <meta name="calibre:title_sort" content="Cradle of Mankind; Life in Eastern Kurdistan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

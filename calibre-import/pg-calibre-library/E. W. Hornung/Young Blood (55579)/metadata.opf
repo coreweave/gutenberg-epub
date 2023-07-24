@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55579</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf7b3ada-7129-42cd-81be-9b216f60e127</dc:identifier>
+        <dc:title>Young Blood</dc:title>
+        <dc:creator opf:file-as="Hornung, E. W. (Ernest William)" opf:role="aut">E. W. Hornung</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42902</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. W. Hornung&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:07:28.479063+00:00"/>
+        <meta name="calibre:title_sort" content="Young Blood"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

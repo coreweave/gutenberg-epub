@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9b6699d-38e0-420b-8b48-a89eb965b9a3</dc:identifier>
+        <dc:title>Alroy: The Prince of the Captivity</dc:title>
+        <dc:creator opf:file-as="Disraeli, Benjamin, Earl of Beaconsfield" opf:role="aut">Earl of Beaconsfield Benjamin Disraeli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20002</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Princes -- Fiction</dc:subject>
+        <dc:subject>Crusades -- Second</dc:subject>
+        <dc:subject>1147-1149 -- Fiction</dc:subject>
+        <dc:subject>Judaism -- Relations -- Islam -- Fiction</dc:subject>
+        <dc:subject>Islam -- Relations -- Judaism -- Fiction</dc:subject>
+        <dc:subject>Kurdistan -- Fiction</dc:subject>
+        <dc:subject>Jerusalem -- History -- Latin Kingdom</dc:subject>
+        <dc:subject>1099-1244 -- Fiction</dc:subject>
+        <dc:subject>Jews -- History -- 70-1789 -- Fiction</dc:subject>
+        <dc:subject>Messianism -- Fiction</dc:subject>
+        <dc:subject>Jewish fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Earl of Beaconsfield Benjamin Disraeli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:31:42.817311+00:00"/>
+        <meta name="calibre:title_sort" content="Alroy: The Prince of the Captivity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

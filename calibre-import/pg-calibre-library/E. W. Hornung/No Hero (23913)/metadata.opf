@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95f86d66-639a-45f9-8ecf-2ec2e2565ee7</dc:identifier>
+        <dc:title>No Hero</dc:title>
+        <dc:creator opf:file-as="Hornung, E. W. (Ernest William)" opf:role="aut">E. W. Hornung</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11153</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Widows -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>British -- Switzerland -- Fiction</dc:subject>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902 -- Veterans -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. W. Hornung&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:42:17.167787+00:00"/>
+        <meta name="calibre:title_sort" content="No Hero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

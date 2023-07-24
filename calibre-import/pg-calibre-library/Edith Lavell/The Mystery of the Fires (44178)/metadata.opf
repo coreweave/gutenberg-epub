@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b179f0a9-f729-4977-8891-3f05202518d3</dc:identifier>
+        <dc:title>The Mystery of the Fires</dc:title>
+        <dc:creator opf:file-as="Lavell, Edith" opf:role="aut">Edith Lavell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Camps -- Juvenile fiction</dc:subject>
+        <dc:subject>Teenage girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Arson -- Juvenile fiction</dc:subject>
+        <dc:subject>Women detectives -- Juvenile fiction</dc:subject>
+        <dc:subject>Children of police -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Lavell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:21:05.193259+00:00"/>
+        <meta name="calibre:title_sort" content="Mystery of the Fires, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

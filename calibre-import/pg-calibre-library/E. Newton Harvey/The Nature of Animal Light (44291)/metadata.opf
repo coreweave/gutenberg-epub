@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bb9d388-1802-433a-ab98-4d51676d5f22</dc:identifier>
+        <dc:title>The Nature of Animal Light</dc:title>
+        <dc:creator opf:file-as="Harvey, E. Newton (Edmund Newton)" opf:role="aut">E. Newton Harvey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34450</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Phosphorescence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Newton Harvey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:27:23.569743+00:00"/>
+        <meta name="calibre:title_sort" content="Nature of Animal Light, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

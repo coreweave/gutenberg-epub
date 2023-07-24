@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4eb56872-8032-4747-bfb7-71c2077f197c</dc:identifier>
+        <dc:title>The Girl Scouts on the Ranch</dc:title>
+        <dc:creator opf:file-as="Lavell, Edith" opf:role="aut">Edith Lavell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Girl Scouts -- Juvenile fiction</dc:subject>
+        <dc:subject>Ranch life -- Juvenile fiction</dc:subject>
+        <dc:subject>Young women -- Societies and clubs -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Lavell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:48:26.021145+00:00"/>
+        <meta name="calibre:title_sort" content="Girl Scouts on the Ranch, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

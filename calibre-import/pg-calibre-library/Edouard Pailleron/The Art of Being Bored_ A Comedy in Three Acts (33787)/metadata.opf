@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1175571-2341-4ad9-b07b-f6f2fe5ef676</dc:identifier>
+        <dc:title>The Art of Being Bored: A Comedy in Three Acts</dc:title>
+        <dc:creator opf:file-as="Pailleron, Edouard" opf:role="aut">Edouard Pailleron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53334</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>French drama -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edouard Pailleron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:14:43.923327+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Being Bored: A Comedy in Three Acts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

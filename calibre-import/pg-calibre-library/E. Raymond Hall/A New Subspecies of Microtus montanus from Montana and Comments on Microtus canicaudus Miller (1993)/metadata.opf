@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1993</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7c0c896-7caf-4795-b72f-c8974d4cacfb</dc:identifier>
+        <dc:title>A New Subspecies of Microtus montanus from Montana and Comments on Microtus canicaudus Miller</dc:title>
+        <dc:creator opf:file-as="Hall, E. Raymond (Eugene Raymond)" opf:role="aut">E. Raymond Hall</dc:creator>
+        <dc:creator opf:file-as="Hall, E. Raymond (Eugene Raymond)" opf:role="aut">Keith R. Kelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Microtus</dc:subject>
+        <dc:subject>Mammals -- Montana</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Raymond Hall&quot;: &quot;&quot;, &quot;Keith R. Kelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:57:01.382713+00:00"/>
+        <meta name="calibre:title_sort" content="New Subspecies of Microtus montanus from Montana and Comments on Microtus canicaudus Miller, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b5af3da-283e-4515-b57c-d59d73705e33</dc:identifier>
+        <dc:title>The City of Beautiful Nonsense</dc:title>
+        <dc:creator opf:file-as="Thurston, E. Temple (Ernest Temple)" opf:role="aut">E. Temple Thurston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Venice (Italy) -- Fiction</dc:subject>
+        <dc:subject>Authors -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Temple Thurston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:16:49.912903+00:00"/>
+        <meta name="calibre:title_sort" content="City of Beautiful Nonsense, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

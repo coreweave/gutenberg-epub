@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6100607-ddb7-4fe8-a38c-71c89d5a35ef</dc:identifier>
+        <dc:title>Tanar of Pellucidar</dc:title>
+        <dc:creator opf:file-as="Burroughs, Edgar Rice" opf:role="aut">Edgar Rice Burroughs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70199</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Earth (Planet) -- Core -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edgar Rice Burroughs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:20:03.253913+00:00"/>
+        <meta name="calibre:title_sort" content="Tanar of Pellucidar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

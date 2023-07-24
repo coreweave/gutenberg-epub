@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9344463-a143-48d2-90d5-ae89d7bbe158</dc:identifier>
+        <dc:title>The Ivory King: A popular history of the elephant and its allies</dc:title>
+        <dc:creator opf:file-as="Holder, Charles Frederick" opf:role="aut">Charles Frederick Holder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66546</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Elephants</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Frederick Holder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:36:46.392420+00:00"/>
+        <meta name="calibre:title_sort" content="Ivory King: A popular history of the elephant and its allies, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

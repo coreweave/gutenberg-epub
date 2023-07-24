@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21564</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f0531a7-0b70-4d4b-9863-18817012b2ac</dc:identifier>
+        <dc:title>Mechanical Devices in the Home</dc:title>
+        <dc:creator opf:file-as="Allen, Edith" opf:role="aut">Edith Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46836</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home economics</dc:subject>
+        <dc:subject>Home economics -- Equipment and supplies</dc:subject>
+        <dc:subject>Domestic engineering</dc:subject>
+        <dc:subject>Household appliances</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:04:31.752974+00:00"/>
+        <meta name="calibre:title_sort" content="Mechanical Devices in the Home"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fdbed698-07b5-4cf3-8d71-5a773354d7f5</dc:identifier>
+        <dc:title>Primitive culture, vol. 1 (of 2)</dc:title>
+        <dc:creator opf:file-as="Tylor, Edward B. (Edward Burnett)" opf:role="aut">Edward B. Tylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70458</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Ethnology</dc:subject>
+        <dc:subject>Civilization -- History</dc:subject>
+        <dc:subject>Primitive societies</dc:subject>
+        <dc:subject>Language and languages</dc:subject>
+        <dc:subject>Animism</dc:subject>
+        <dc:subject>Social evolution</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward B. Tylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:02:04.612141+00:00"/>
+        <meta name="calibre:title_sort" content="Primitive culture, vol. 1 (of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52bd61e9-da8a-4824-a36d-75bc4fb3da47</dc:identifier>
+        <dc:title>Henrietta Temple: A Love Story</dc:title>
+        <dc:creator opf:file-as="Disraeli, Benjamin, Earl of Beaconsfield" opf:role="aut">Earl of Beaconsfield Benjamin Disraeli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19771</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Autobiographical fiction</dc:subject>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Aristocracy (Social class) -- Fiction</dc:subject>
+        <dc:subject>Upper class families -- Fiction</dc:subject>
+        <dc:subject>Dandies -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Earl of Beaconsfield Benjamin Disraeli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:28:19.383403+00:00"/>
+        <meta name="calibre:title_sort" content="Henrietta Temple: A Love Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

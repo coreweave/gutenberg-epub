@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b73bd33-05b2-4253-8e4e-6f90c4d618fa</dc:identifier>
+        <dc:title>Daring Deeds of Famous Pirates / True stories of the stirring adventures, bravery and resource of pirates, filibusters &amp; buccaneers</dc:title>
+        <dc:creator opf:file-as="Chatterton, E. Keble (Edward Keble)" opf:role="aut">E. Keble Chatterton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64954</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pirates</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Keble Chatterton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:45:27.552925+00:00"/>
+        <meta name="calibre:title_sort" content="Daring Deeds of Famous Pirates / True stories of the stirring adventures, bravery and resource of pirates, filibusters &amp; buccaneers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

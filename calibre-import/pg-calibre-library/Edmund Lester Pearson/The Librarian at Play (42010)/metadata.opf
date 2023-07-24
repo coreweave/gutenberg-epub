@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42010</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67ee884b-c407-49ac-a4d2-fe53c7bb663e</dc:identifier>
+        <dc:title>The Librarian at Play</dc:title>
+        <dc:creator opf:file-as="Pearson, Edmund Lester" opf:role="aut">Edmund Lester Pearson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46933</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Libraries -- Anecdotes</dc:subject>
+        <dc:subject>Librarians -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmund Lester Pearson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:20:04.273653+00:00"/>
+        <meta name="calibre:title_sort" content="Librarian at Play, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aff64ac1-0b03-48c5-9a1a-0dc895b86b20</dc:identifier>
+        <dc:title>Land of the Burnt Thigh</dc:title>
+        <dc:creator opf:file-as="Kohl, Edith Eudora" opf:role="aut">Edith Eudora Kohl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24352</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kohl</dc:subject>
+        <dc:subject>Edith Eudora</dc:subject>
+        <dc:subject>1884-</dc:subject>
+        <dc:subject>Frontier and pioneer life -- South Dakota</dc:subject>
+        <dc:subject>Farm life -- South Dakota -- History</dc:subject>
+        <dc:subject>Pioneers -- South Dakota -- Biography</dc:subject>
+        <dc:subject>South Dakota -- Social life and customs</dc:subject>
+        <dc:subject>South Dakota -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Eudora Kohl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:35:02.825839+00:00"/>
+        <meta name="calibre:title_sort" content="Land of the Burnt Thigh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

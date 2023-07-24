@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2b057f4-a0dd-4381-a18a-74c5070e03cb</dc:identifier>
+        <dc:title>Cursory Observations on the Poems Attributed to Thomas Rowley (1782)</dc:title>
+        <dc:creator opf:file-as="Malone, Edmond" opf:role="aut">Edmond Malone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29116</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chatterton</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1752-1770 -- Authorship</dc:subject>
+        <dc:subject>Milles</dc:subject>
+        <dc:subject>Jeremiah</dc:subject>
+        <dc:subject>1714-1784</dc:subject>
+        <dc:subject>Bryant</dc:subject>
+        <dc:subject>Jacob</dc:subject>
+        <dc:subject>1715-1804</dc:subject>
+        <dc:subject>Literary forgeries and mystifications -- History -- 18th century</dc:subject>
+        <dc:subject>Medievalism -- England -- History -- 18th century</dc:subject>
+        <dc:subject>Middle Ages in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmond Malone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:41:11.430105+00:00"/>
+        <meta name="calibre:title_sort" content="Cursory Observations on the Poems Attributed to Thomas Rowley (1782)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

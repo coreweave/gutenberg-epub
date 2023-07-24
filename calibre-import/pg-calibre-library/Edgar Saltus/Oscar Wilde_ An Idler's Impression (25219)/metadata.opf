@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">045f4159-0e89-4f48-8dfd-e7e9223d32b6</dc:identifier>
+        <dc:title>Oscar Wilde: An Idler's Impression</dc:title>
+        <dc:creator opf:file-as="Saltus, Edgar" opf:role="aut">Edgar Saltus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32849</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wilde</dc:subject>
+        <dc:subject>Oscar</dc:subject>
+        <dc:subject>1854-1900 -- Criticism and interpretation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edgar Saltus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:37:37.925307+00:00"/>
+        <meta name="calibre:title_sort" content="Oscar Wilde: An Idler's Impression"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

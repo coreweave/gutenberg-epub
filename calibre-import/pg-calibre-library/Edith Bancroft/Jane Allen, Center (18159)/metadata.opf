@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2db322f-a135-4ee4-a7cd-25c530ca2cc0</dc:identifier>
+        <dc:title>Jane Allen, Center</dc:title>
+        <dc:creator opf:file-as="Bancroft, Edith" opf:role="aut">Edith Bancroft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>College students -- Juvenile fiction</dc:subject>
+        <dc:subject>Young women -- Juvenile fiction</dc:subject>
+        <dc:subject>Women college students -- Juvenile fiction</dc:subject>
+        <dc:subject>Basketball stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Bancroft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:58:23.713201+00:00"/>
+        <meta name="calibre:title_sort" content="Jane Allen, Center"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

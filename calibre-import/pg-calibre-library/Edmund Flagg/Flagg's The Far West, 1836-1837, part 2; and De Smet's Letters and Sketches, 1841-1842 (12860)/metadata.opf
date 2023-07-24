@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12860</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2888d11-8377-47ea-b0c1-335d135245fc</dc:identifier>
+        <dc:title>Flagg's The Far West, 1836-1837, part 2; and De Smet's Letters and Sketches, 1841-1842</dc:title>
+        <dc:creator opf:file-as="Flagg, Edmund" opf:role="aut">Edmund Flagg</dc:creator>
+        <dc:creator opf:file-as="Flagg, Edmund" opf:role="aut">Pierre-Jean de Smet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42090</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Indians of North America -- Missions</dc:subject>
+        <dc:subject>Rocky Mountains</dc:subject>
+        <dc:subject>Illinois -- Description and travel</dc:subject>
+        <dc:subject>Siksika Indians</dc:subject>
+        <dc:subject>Missouri -- Description and travel</dc:subject>
+        <dc:subject>Mississippi River Valley -- Description and travel</dc:subject>
+        <dc:subject>Salish Indians</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmund Flagg&quot;: &quot;&quot;, &quot;Pierre-Jean de Smet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:06:43.154728+00:00"/>
+        <meta name="calibre:title_sort" content="Flagg's The Far West, 1836-1837, part 2; and De Smet's Letters and Sketches, 1841-1842"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

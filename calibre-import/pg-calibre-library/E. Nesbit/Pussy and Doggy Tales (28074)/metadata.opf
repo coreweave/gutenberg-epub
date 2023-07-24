@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bcd822c-6764-41c2-a772-5dc23601a488</dc:identifier>
+        <dc:title>Pussy and Doggy Tales</dc:title>
+        <dc:creator opf:file-as="Nesbit, E. (Edith)" opf:role="aut">E. Nesbit</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27190</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Juvenile fiction</dc:subject>
+        <dc:subject>Cats -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Nesbit&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:42:04.079829+00:00"/>
+        <meta name="calibre:title_sort" content="Pussy and Doggy Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

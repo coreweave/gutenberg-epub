@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">034d530e-f6c8-4e0c-9056-f12aa04a8471</dc:identifier>
+        <dc:title>Mary at the Farm and Book of Recipes Compiled During Her Visit Among the "Pennsylvania Germans"</dc:title>
+        <dc:creator opf:file-as="Thomas, Edith May Bertels" opf:role="aut">Edith May Bertels Thomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13545</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pennsylvania Dutch</dc:subject>
+        <dc:subject>Cooking -- Pennsylvania</dc:subject>
+        <dc:subject>Pennsylvania -- Social life and customs</dc:subject>
+        <dc:subject>Cookbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith May Bertels Thomas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:56:49.151946+00:00"/>
+        <meta name="calibre:title_sort" content="Mary at the Farm and Book of Recipes Compiled During Her Visit Among the &quot;Pennsylvania Germans&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

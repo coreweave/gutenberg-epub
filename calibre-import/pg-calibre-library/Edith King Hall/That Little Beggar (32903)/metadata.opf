@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">deea3d5e-0a79-4b15-8d0f-f26bff6c88b4</dc:identifier>
+        <dc:title>That Little Beggar</dc:title>
+        <dc:creator opf:file-as="Hall, Edith King" opf:role="aut">Edith King Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36166</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Boys -- Fiction</dc:subject>
+        <dc:subject>Grandparent and child -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith King Hall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:31:32.910720+00:00"/>
+        <meta name="calibre:title_sort" content="That Little Beggar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

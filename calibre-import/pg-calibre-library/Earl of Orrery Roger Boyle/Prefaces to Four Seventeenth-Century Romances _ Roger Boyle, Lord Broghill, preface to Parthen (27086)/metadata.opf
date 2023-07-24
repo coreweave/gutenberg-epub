@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27086</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67985c2d-0483-44d9-bb4e-420c6211dd97</dc:identifier>
+        <dc:title>Prefaces to Four Seventeenth-Century Romances / Roger Boyle, Lord Broghill, preface to Parthenissa (1655) Sir George Mackenzie, "Apologie for romances," prefixed to Aretina, the serious romance (1660) Nathaniel Ingelo, preface to Bentivolio and Urania (1660) Robert Boyle, preface to Theodora and Didymus (1687)</dc:title>
+        <dc:creator opf:file-as="Boyle, Roger, Earl of Orrery" opf:role="aut">Earl of Orrery Roger Boyle</dc:creator>
+        <dc:creator opf:file-as="Boyle, Roger, Earl of Orrery" opf:role="aut">Nathaniel Ingelo</dc:creator>
+        <dc:creator opf:file-as="Boyle, Roger, Earl of Orrery" opf:role="aut">George Mackenzie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42620</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Prefaces</dc:subject>
+        <dc:subject>English fiction -- Early modern</dc:subject>
+        <dc:subject>1500-1700</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Earl of Orrery Roger Boyle&quot;: &quot;&quot;, &quot;Nathaniel Ingelo&quot;: &quot;&quot;, &quot;George Mackenzie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:58:29.320424+00:00"/>
+        <meta name="calibre:title_sort" content="Prefaces to Four Seventeenth-Century Romances / Roger Boyle, Lord Broghill, preface to Parthenissa (1655) Sir George Mackenzie, &quot;Apologie for romances,&quot; prefixed to Aretina, the serious romance (1660) Nathaniel Ingelo, preface to Bentivolio and Urania (1660) Robert Boyle, preface to Theodora and Didymus (1687)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

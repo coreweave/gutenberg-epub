@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8211120a-b60a-4554-b781-5026ef534784</dc:identifier>
+        <dc:title>Shepherds of the Wild</dc:title>
+        <dc:creator opf:file-as="Marshall, Edison" opf:role="aut">Edison Marshall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67764</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Fiction</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Idaho -- Fiction</dc:subject>
+        <dc:subject>Shepherds -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edison Marshall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:34:59.784370+00:00"/>
+        <meta name="calibre:title_sort" content="Shepherds of the Wild"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

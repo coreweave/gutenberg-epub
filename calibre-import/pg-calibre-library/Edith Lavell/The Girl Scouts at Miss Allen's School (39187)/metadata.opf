@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4a7272d-dc84-4a5b-8308-b22d02858a85</dc:identifier>
+        <dc:title>The Girl Scouts at Miss Allen's School</dc:title>
+        <dc:creator opf:file-as="Lavell, Edith" opf:role="aut">Edith Lavell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55213</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Girl Scouts -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Societies and clubs -- Juvenile fiction</dc:subject>
+        <dc:subject>Boarding school students -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edith Lavell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:48:07.153839+00:00"/>
+        <meta name="calibre:title_sort" content="Girl Scouts at Miss Allen's School, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

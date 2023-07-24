@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72319a53-4a8d-4cf8-892b-a44817c2a6cc</dc:identifier>
+        <dc:title>An Irish Precursor of Dante / A Study on the Vision of Heaven and Hell ascribed to the Eighth-century Irish Saint Adamnán, with Translation of the Irish Text</dc:title>
+        <dc:creator opf:file-as="Boswell, Charles Stuart" opf:role="aut">Charles Stuart Boswell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50021</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Celtic</dc:subject>
+        <dc:subject>in literature</dc:subject>
+        <dc:subject>Dante Alighieri</dc:subject>
+        <dc:subject>1265-1321 -- Criticism and interpretation</dc:subject>
+        <dc:subject>Fís Adamnáin</dc:subject>
+        <dc:subject>Christian literature</dc:subject>
+        <dc:subject>Irish -- History and criticism</dc:subject>
+        <dc:subject>Heaven -- Christianity -- History of doctrines -- Middle Ages</dc:subject>
+        <dc:subject>600-1500</dc:subject>
+        <dc:subject>Hell -- Christianity -- History of doctrines -- Middle Ages</dc:subject>
+        <dc:subject>Christian saints -- Ireland</dc:subject>
+        <dc:subject>Heaven in literature</dc:subject>
+        <dc:subject>Hell in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Stuart Boswell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:42:49.603789+00:00"/>
+        <meta name="calibre:title_sort" content="Irish Precursor of Dante / A Study on the Vision of Heaven and Hell ascribed to the Eighth-century Irish Saint Adamnán, with Translation of the Irish Text, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

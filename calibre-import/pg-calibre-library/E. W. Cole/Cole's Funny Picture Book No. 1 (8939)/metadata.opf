@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a55bc938-6fcb-4792-a4cc-afc2d04a8cfe</dc:identifier>
+        <dc:title>Cole's Funny Picture Book No. 1</dc:title>
+        <dc:creator opf:file-as="Cole, E. W. (Edward William)" opf:role="aut">E. W. Cole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30726</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wit and humor</dc:subject>
+        <dc:subject>Juvenile</dc:subject>
+        <dc:subject>Australian wit and humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. W. Cole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:21:07.866755+00:00"/>
+        <meta name="calibre:title_sort" content="Cole's Funny Picture Book No. 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

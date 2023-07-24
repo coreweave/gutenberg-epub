@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a29a92d-4746-4b4d-ad0d-593817bdc4c3</dc:identifier>
+        <dc:title>Children of the Mist</dc:title>
+        <dc:creator opf:file-as="Phillpotts, Eden" opf:role="aut">Eden Phillpotts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14527</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Villages -- Fiction</dc:subject>
+        <dc:subject>Dartmoor (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eden Phillpotts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:09:22.274988+00:00"/>
+        <meta name="calibre:title_sort" content="Children of the Mist"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

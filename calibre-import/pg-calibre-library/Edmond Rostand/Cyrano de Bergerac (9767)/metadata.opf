@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75bb8dd3-b60c-4a75-92b9-e537006caca1</dc:identifier>
+        <dc:title>Cyrano de Bergerac</dc:title>
+        <dc:creator opf:file-as="Rostand, Edmond" opf:role="aut">Edmond Rostand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cyrano de Bergerac</dc:subject>
+        <dc:subject>1619-1655 -- Drama</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>French -- 17th century -- Drama</dc:subject>
+        <dc:subject>France -- History -- 17th century -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edmond Rostand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:05.470579+00:00"/>
+        <meta name="calibre:title_sort" content="Cyrano de Bergerac"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

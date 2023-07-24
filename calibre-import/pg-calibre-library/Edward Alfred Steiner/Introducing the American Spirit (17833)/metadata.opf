@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fdff8a1a-db7d-4487-bf04-6c71caca409a</dc:identifier>
+        <dc:title>Introducing the American Spirit</dc:title>
+        <dc:creator opf:file-as="Steiner, Edward Alfred" opf:role="aut">Edward Alfred Steiner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41898</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Social life and customs -- 1865-1918</dc:subject>
+        <dc:subject>National characteristics</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Alfred Steiner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:47:03.914977+00:00"/>
+        <meta name="calibre:title_sort" content="Introducing the American Spirit"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

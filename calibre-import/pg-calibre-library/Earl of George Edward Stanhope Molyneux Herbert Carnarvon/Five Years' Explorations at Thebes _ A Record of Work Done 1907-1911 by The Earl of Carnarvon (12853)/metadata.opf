@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35068b5e-7289-4b09-a055-cb5d351c7182</dc:identifier>
+        <dc:title>Five Years' Explorations at Thebes / A Record of Work Done 1907-1911 by The Earl of Carnarvon and Howard Carter</dc:title>
+        <dc:creator opf:file-as="Carnarvon, George Edward Stanhope Molyneux Herbert, Earl of" opf:role="aut">Earl of George Edward Stanhope Molyneux Herbert Carnarvon</dc:creator>
+        <dc:creator opf:file-as="Carnarvon, George Edward Stanhope Molyneux Herbert, Earl of" opf:role="aut">Howard Carter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48382</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Excavations (Archaeology) -- Egypt</dc:subject>
+        <dc:subject>Thebes (Egypt : Extinct city)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Earl of George Edward Stanhope Molyneux Herbert Carnarvon&quot;: &quot;&quot;, &quot;Howard Carter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:06:31.826223+00:00"/>
+        <meta name="calibre:title_sort" content="Five Years' Explorations at Thebes / A Record of Work Done 1907-1911 by The Earl of Carnarvon and Howard Carter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
