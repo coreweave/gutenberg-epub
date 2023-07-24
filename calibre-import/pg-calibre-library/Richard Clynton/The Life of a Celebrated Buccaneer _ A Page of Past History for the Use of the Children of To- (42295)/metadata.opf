@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">acc78037-97e2-4df9-bedd-6711e16de2fe</dc:identifier>
+        <dc:title>The Life of a Celebrated Buccaneer / A Page of Past History for the Use of the Children of To-day</dc:title>
+        <dc:creator opf:file-as="Clynton, Richard" opf:role="aut">Richard Clynton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Islands -- Juvenile fiction</dc:subject>
+        <dc:subject>Pirates -- Juvenile fiction</dc:subject>
+        <dc:subject>Treasure troves -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Outdoor life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Clynton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:35:57.912611+00:00"/>
+        <meta name="calibre:title_sort" content="Life of a Celebrated Buccaneer / A Page of Past History for the Use of the Children of To-day, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

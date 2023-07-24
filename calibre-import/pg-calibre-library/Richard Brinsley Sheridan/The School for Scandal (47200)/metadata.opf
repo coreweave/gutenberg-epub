@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca88097b-5a04-4c2b-89a8-44d8476d4aba</dc:identifier>
+        <dc:title>The School for Scandal</dc:title>
+        <dc:creator opf:file-as="Sheridan, Richard Brinsley" opf:role="aut">Richard Brinsley Sheridan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1929</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>English drama -- 18th century</dc:subject>
+        <dc:subject>England -- Social life and customs -- 18th century -- Drama</dc:subject>
+        <dc:subject>Nobility -- England -- History -- 18th century -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Brinsley Sheridan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:15:58.775619+00:00"/>
+        <meta name="calibre:title_sort" content="School for Scandal, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

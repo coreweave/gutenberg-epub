@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64d4fcdc-d245-49e9-a24c-94b90e8f9053</dc:identifier>
+        <dc:title>Perchance to Dream</dc:title>
+        <dc:creator opf:file-as="Stockham, Richard" opf:role="aut">Richard Stockham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32859</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Dystopias -- Fiction</dc:subject>
+        <dc:subject>Dreams -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Stockham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:11:58.922343+00:00"/>
+        <meta name="calibre:title_sort" content="Perchance to Dream"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

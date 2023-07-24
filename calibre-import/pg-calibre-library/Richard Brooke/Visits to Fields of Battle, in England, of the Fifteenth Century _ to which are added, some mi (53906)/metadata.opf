@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cd78ee0-eaa6-491d-982f-67700a4939da</dc:identifier>
+        <dc:title>Visits to Fields of Battle, in England, of the Fifteenth Century / to which are added, some miscellaneous tracts and papers upon archæological subjects</dc:title>
+        <dc:creator opf:file-as="Brooke, Richard" opf:role="aut">Richard Brooke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58147</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Wars of the Roses</dc:subject>
+        <dc:subject>1455-1485</dc:subject>
+        <dc:subject>Battlefields -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Brooke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:16:47.803645+00:00"/>
+        <meta name="calibre:title_sort" content="Visits to Fields of Battle, in England, of the Fifteenth Century / to which are added, some miscellaneous tracts and papers upon archæological subjects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

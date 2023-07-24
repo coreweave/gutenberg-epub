@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45416152-9ad5-46a0-990e-1f38a6fc16de</dc:identifier>
+        <dc:title>Diary of Richard Cocks, Volume 2 / Cape-Merchant in the English Factory in Japan, 1615-1622, with Correspondence</dc:title>
+        <dc:creator opf:file-as="Cocks, Richard" opf:role="aut">Richard Cocks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48012</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>East India Company -- Early works to 1800</dc:subject>
+        <dc:subject>Cocks</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>-1624 -- Diaries</dc:subject>
+        <dc:subject>Adams</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1620</dc:subject>
+        <dc:subject>British -- Japan -- History -- 17th century</dc:subject>
+        <dc:subject>Great Britain -- Commerce -- Japan -- Early works to 1800</dc:subject>
+        <dc:subject>Japan -- Commerce -- Great Britain -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Cocks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:57:54.066949+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of Richard Cocks, Volume 2 / Cape-Merchant in the English Factory in Japan, 1615-1622, with Correspondence"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

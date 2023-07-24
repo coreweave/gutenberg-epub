@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc4ba4a4-54f7-466f-9586-2618bb4711c1</dc:identifier>
+        <dc:title>The Metamorphoses of Ovid, Books I-VII</dc:title>
+        <dc:creator opf:file-as="Ovid" opf:role="aut">Ovid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21765</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Classical literature</dc:subject>
+        <dc:subject>Latin poetry -- Translations into English</dc:subject>
+        <dc:subject>Fables</dc:subject>
+        <dc:subject>Latin -- Translations into English</dc:subject>
+        <dc:subject>Metamorphosis -- Mythology -- Poetry</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Classical -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ovid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:42:17.788876+00:00"/>
+        <meta name="calibre:title_sort" content="Metamorphoses of Ovid, Books I-VII, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

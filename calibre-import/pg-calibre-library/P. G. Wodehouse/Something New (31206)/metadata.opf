@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f69aa2ca-3e1f-4d0a-a836-18c8c8890eb5</dc:identifier>
+        <dc:title>Something New</dc:title>
+        <dc:creator opf:file-as="Wodehouse, P. G. (Pelham Grenville)" opf:role="aut">P. G. Wodehouse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2042</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Nobility -- Fiction</dc:subject>
+        <dc:subject>Blandings Castle (England : Imaginary place) -- Fiction</dc:subject>
+        <dc:subject>Shropshire (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;P. G. Wodehouse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:08:58.002552+00:00"/>
+        <meta name="calibre:title_sort" content="Something New"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

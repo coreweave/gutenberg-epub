@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb6b86b3-4a01-4eff-8003-7fc571425a75</dc:identifier>
+        <dc:title>The Ballad of Venus Nell</dc:title>
+        <dc:creator opf:file-as="Bond, Nelson S." opf:role="aut">Nelson S. Bond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62096</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous poetry</dc:subject>
+        <dc:subject>Man-woman relationships -- Poetry</dc:subject>
+        <dc:subject>Science fiction poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nelson S. Bond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:33:18.156558+00:00"/>
+        <meta name="calibre:title_sort" content="Ballad of Venus Nell, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

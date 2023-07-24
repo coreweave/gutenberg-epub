@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13991</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35fa1d7e-b85a-435c-b2f2-26c4b18450be</dc:identifier>
+        <dc:title>George Washington: Farmer / Being an Account of His Home Life and Agricultural Activities</dc:title>
+        <dc:creator opf:file-as="Haworth, Paul Leland" opf:role="aut">Paul Leland Haworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11858</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799 -- Homes and haunts -- Virginia -- Mount Vernon (Estate)</dc:subject>
+        <dc:subject>Mount Vernon (Va. : Estate)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Leland Haworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:40:40.584921+00:00"/>
+        <meta name="calibre:title_sort" content="George Washington: Farmer / Being an Account of His Home Life and Agricultural Activities"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

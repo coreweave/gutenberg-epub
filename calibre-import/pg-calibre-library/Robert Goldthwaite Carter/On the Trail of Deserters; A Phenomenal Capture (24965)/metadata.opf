@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8b41836-2549-4145-8a30-d2fc5a3375a1</dc:identifier>
+        <dc:title>On the Trail of Deserters; A Phenomenal Capture</dc:title>
+        <dc:creator opf:file-as="Carter, Robert Goldthwaite" opf:role="aut">Robert Goldthwaite Carter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Army. Cavalry</dc:subject>
+        <dc:subject>4th</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Texas</dc:subject>
+        <dc:subject>Desertion</dc:subject>
+        <dc:subject>Military -- Texas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Goldthwaite Carter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:26:58.085875+00:00"/>
+        <meta name="calibre:title_sort" content="On the Trail of Deserters; A Phenomenal Capture"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

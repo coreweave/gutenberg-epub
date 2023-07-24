@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34097</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b23a84f6-08dc-4bf9-95b4-21ab0fd1d7b0</dc:identifier>
+        <dc:title>The Awakening of the East: Siberia—Japan—China</dc:title>
+        <dc:creator opf:file-as="Leroy-Beaulieu, Pierre" opf:role="aut">Pierre Leroy-Beaulieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61310</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>China</dc:subject>
+        <dc:subject>East Asia</dc:subject>
+        <dc:subject>Japan</dc:subject>
+        <dc:subject>Eastern question (Far East)</dc:subject>
+        <dc:subject>Siberia (Russia)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre Leroy-Beaulieu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:30:06.041942+00:00"/>
+        <meta name="calibre:title_sort" content="Awakening of the East: Siberia—Japan—China, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

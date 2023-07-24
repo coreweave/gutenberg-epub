@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54925</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ea3e9c0-a2da-4fb2-a3ea-32b677d9e8ba</dc:identifier>
+        <dc:title>William Tell Told Again</dc:title>
+        <dc:creator opf:file-as="Wodehouse, P. G. (Pelham Grenville)" opf:role="aut">P. G. Wodehouse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7298</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Tell</dc:subject>
+        <dc:subject>Wilhelm -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;P. G. Wodehouse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:23:14.706037+00:00"/>
+        <meta name="calibre:title_sort" content="William Tell Told Again"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

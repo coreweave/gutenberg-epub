@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f42c42a5-f0de-49f8-890f-8dc89cb8f224</dc:identifier>
+        <dc:title>The Butterflies of the British Isles</dc:title>
+        <dc:creator opf:file-as="South, Richard" opf:role="aut">Richard South</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43713</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Butterflies -- Great Britain</dc:subject>
+        <dc:subject>Lepidoptera -- Great Britain</dc:subject>
+        <dc:subject>Butterflies -- Great Britain -- Identification</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard South&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:41:56.625696+00:00"/>
+        <meta name="calibre:title_sort" content="Butterflies of the British Isles, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

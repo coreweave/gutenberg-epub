@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51508</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46a63585-a387-42b8-b9fc-4916c728eaf4</dc:identifier>
+        <dc:title>The love letters of Abelard and Heloise</dc:title>
+        <dc:creator opf:file-as="Abelard, Peter" opf:role="aut">Peter Abelard</dc:creator>
+        <dc:creator opf:file-as="Abelard, Peter" opf:role="aut">Héloïse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40227</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love-letters</dc:subject>
+        <dc:subject>Abelard</dc:subject>
+        <dc:subject>Peter</dc:subject>
+        <dc:subject>1079-1142 -- Correspondence</dc:subject>
+        <dc:subject>Héloïse</dc:subject>
+        <dc:subject>approximately 1095-1163 or 1164 -- Correspondence</dc:subject>
+        <dc:subject>Abbesses</dc:subject>
+        <dc:subject>Christian -- France -- Correspondence</dc:subject>
+        <dc:subject>Theologians -- France -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Abelard&quot;: &quot;&quot;, &quot;Héloïse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:43:02.699861+00:00"/>
+        <meta name="calibre:title_sort" content="love letters of Abelard and Heloise, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

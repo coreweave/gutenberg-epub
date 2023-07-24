@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02eb3c97-e8e4-4e50-96b8-089c5334698d</dc:identifier>
+        <dc:title>On the Phenomena of Hybridity in the Genus Homo</dc:title>
+        <dc:creator opf:file-as="Broca, Paul" opf:role="aut">Paul Broca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47137</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Miscegenation</dc:subject>
+        <dc:subject>Hominids -- Hybridization</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Broca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:25:53.426716+00:00"/>
+        <meta name="calibre:title_sort" content="On the Phenomena of Hybridity in the Genus Homo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

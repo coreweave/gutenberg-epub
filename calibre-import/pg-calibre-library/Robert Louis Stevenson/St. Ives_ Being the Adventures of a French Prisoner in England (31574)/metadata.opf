@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31574</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">490964fd-b782-46a3-8917-fbd2d6901695</dc:identifier>
+        <dc:title>St. Ives: Being the Adventures of a French Prisoner in England</dc:title>
+        <dc:creator opf:file-as="Stevenson, Robert Louis" opf:role="aut">Robert Louis Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/322</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Prisoners of war -- Fiction</dc:subject>
+        <dc:subject>French -- England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Louis Stevenson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:26:24.409716+00:00"/>
+        <meta name="calibre:title_sort" content="St. Ives: Being the Adventures of a French Prisoner in England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

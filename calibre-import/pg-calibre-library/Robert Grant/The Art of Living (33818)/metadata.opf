@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33818</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c109257f-55a0-4a4d-a6de-39263b321f58</dc:identifier>
+        <dc:title>The Art of Living</dc:title>
+        <dc:creator opf:file-as="Grant, Robert" opf:role="aut">Robert Grant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53040</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home economics</dc:subject>
+        <dc:subject>Quality of life</dc:subject>
+        <dc:subject>Life skills</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Grant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:16:16.653274+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Living, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

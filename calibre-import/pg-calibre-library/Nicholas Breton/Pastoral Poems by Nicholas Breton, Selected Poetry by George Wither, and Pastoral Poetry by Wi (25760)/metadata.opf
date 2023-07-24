@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6931856-e77f-414a-9a19-a9a6fb000331</dc:identifier>
+        <dc:title>Pastoral Poems by Nicholas Breton, Selected Poetry by George Wither, and Pastoral Poetry by William Browne (of Tavistock)</dc:title>
+        <dc:creator opf:file-as="Breton, Nicholas" opf:role="aut">Nicholas Breton</dc:creator>
+        <dc:creator opf:file-as="Breton, Nicholas" opf:role="aut">William Browne</dc:creator>
+        <dc:creator opf:file-as="Breton, Nicholas" opf:role="aut">George Wither</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- Early modern</dc:subject>
+        <dc:subject>1500-1700</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicholas Breton&quot;: &quot;&quot;, &quot;William Browne&quot;: &quot;&quot;, &quot;George Wither&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:00:33.599623+00:00"/>
+        <meta name="calibre:title_sort" content="Pastoral Poems by Nicholas Breton, Selected Poetry by George Wither, and Pastoral Poetry by William Browne (of Tavistock)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

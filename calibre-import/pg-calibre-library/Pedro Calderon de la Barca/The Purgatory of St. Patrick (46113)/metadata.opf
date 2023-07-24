@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20b33f67-e5de-4346-b126-fedab1c525b8</dc:identifier>
+        <dc:title>The Purgatory of St. Patrick</dc:title>
+        <dc:creator opf:file-as="Calderón de la Barca, Pedro" opf:role="aut">Pedro Calderón de la Barca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6371</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Patrick</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>373?-463? -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pedro Calderón de la Barca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:12:13.223375+00:00"/>
+        <meta name="calibre:title_sort" content="Purgatory of St. Patrick, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

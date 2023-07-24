@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d13fb254-3a80-4957-b9c1-e5be103b9402</dc:identifier>
+        <dc:title>Opus 21 / Descriptive Music for the Lower Kinsey Epoch of the Atomic Age, a Concerto for a One-man Band, Six Arias for Soap Operas, Fugues, Anthems &amp; Barrelhouse</dc:title>
+        <dc:creator opf:file-as="Wylie, Philip" opf:role="aut">Philip Wylie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors -- Fiction</dc:subject>
+        <dc:subject>Philosophy -- Fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Patients -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Wylie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:33:43.398943+00:00"/>
+        <meta name="calibre:title_sort" content="Opus 21 / Descriptive Music for the Lower Kinsey Epoch of the Atomic Age, a Concerto for a One-man Band, Six Arias for Soap Operas, Fugues, Anthems &amp; Barrelhouse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f38be22-b8fe-47d5-8e6d-37e376439923</dc:identifier>
+        <dc:title>The Adventures of Odysseus and The Tales of Troy</dc:title>
+        <dc:creator opf:file-as="Colum, Padraic" opf:role="aut">Padraic Colum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16867</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Odysseus</dc:subject>
+        <dc:subject>King of Ithaca (Mythological character) -- Juvenile literature</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Greek -- Juvenile literature</dc:subject>
+        <dc:subject>Trojan War -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Padraic Colum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:43:04.000310+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Odysseus and The Tales of Troy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

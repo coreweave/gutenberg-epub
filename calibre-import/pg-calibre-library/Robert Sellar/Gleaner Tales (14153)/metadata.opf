@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">367c43b1-3f3c-480e-8b50-b53ec236e231</dc:identifier>
+        <dc:title>Gleaner Tales</dc:title>
+        <dc:creator opf:file-as="Sellar, Robert" opf:role="aut">Robert Sellar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66150</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Québec (Province) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Sellar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:45:39.978670+00:00"/>
+        <meta name="calibre:title_sort" content="Gleaner Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

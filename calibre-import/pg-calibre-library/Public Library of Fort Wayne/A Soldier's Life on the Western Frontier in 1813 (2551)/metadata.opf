@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">005bb76d-c53a-4890-a405-665943cf29ff</dc:identifier>
+        <dc:title>A Soldier's Life on the Western Frontier in 1813</dc:title>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Public Library of Fort Wayne</dc:creator>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Allen County</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65943</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Old -- History</dc:subject>
+        <dc:subject>Frontier and pioneer life -- United States</dc:subject>
+        <dc:subject>United States -- Armed Forces -- Military life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Public Library of Fort Wayne&quot;: &quot;&quot;, &quot;Allen County&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:06:31.299232+00:00"/>
+        <meta name="calibre:title_sort" content="Soldier's Life on the Western Frontier in 1813, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

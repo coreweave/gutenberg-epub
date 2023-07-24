@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b60861e-6b08-4d24-897d-7e846031a4ff</dc:identifier>
+        <dc:title>U.S. Marine Operations in Korea, 1950-1953, Volume 5 (of 5) / Operations in West Korea</dc:title>
+        <dc:creator opf:file-as="Meid, Pat" opf:role="aut">Pat Meid</dc:creator>
+        <dc:creator opf:file-as="Meid, Pat" opf:role="aut">James M. Yingling</dc:creator>
+        <dc:creator opf:file-as="Meid, Pat" opf:role="aut">United States. Marine Corps</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Marine Corps -- History -- Korean War</dc:subject>
+        <dc:subject>1950-1953</dc:subject>
+        <dc:subject>Korean War</dc:subject>
+        <dc:subject>1950-1953 -- Campaigns</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pat Meid&quot;: &quot;&quot;, &quot;James M. Yingling&quot;: &quot;&quot;, &quot;United States. Marine Corps&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:40:01.106389+00:00"/>
+        <meta name="calibre:title_sort" content="U.S. Marine Operations in Korea, 1950-1953, Volume 5 (of 5) / Operations in West Korea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

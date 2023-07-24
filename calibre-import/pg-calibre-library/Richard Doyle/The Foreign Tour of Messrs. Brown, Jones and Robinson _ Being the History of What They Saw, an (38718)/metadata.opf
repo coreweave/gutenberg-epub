@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc708086-2612-4c85-918d-fb57baa54d4f</dc:identifier>
+        <dc:title>The Foreign Tour of Messrs. Brown, Jones and Robinson / Being the History of What They Saw, and Did, in Belgium, Germany, Switzerland &amp; Italy.</dc:title>
+        <dc:creator opf:file-as="Doyle, Richard" opf:role="aut">Richard Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29463</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Caricatures and cartoons -- Great Britain</dc:subject>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Doyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:23:43.132454+00:00"/>
+        <meta name="calibre:title_sort" content="Foreign Tour of Messrs. Brown, Jones and Robinson / Being the History of What They Saw, and Did, in Belgium, Germany, Switzerland &amp; Italy., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

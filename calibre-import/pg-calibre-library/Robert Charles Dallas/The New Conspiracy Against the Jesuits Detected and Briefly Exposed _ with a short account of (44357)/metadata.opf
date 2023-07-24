@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44357</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8314c19-0f9e-49bf-aae2-a5e8e61341f7</dc:identifier>
+        <dc:title>The New Conspiracy Against the Jesuits Detected and Briefly Exposed / with a short account of their institute; and observations on the danger of systems of education independent of religion</dc:title>
+        <dc:creator opf:file-as="Dallas, Robert Charles" opf:role="aut">Robert Charles Dallas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33836</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jesuits -- Controversial Literature</dc:subject>
+        <dc:subject>Jesuits -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Charles Dallas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:31:09.517131+00:00"/>
+        <meta name="calibre:title_sort" content="New Conspiracy Against the Jesuits Detected and Briefly Exposed / with a short account of their institute; and observations on the danger of systems of education independent of religion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

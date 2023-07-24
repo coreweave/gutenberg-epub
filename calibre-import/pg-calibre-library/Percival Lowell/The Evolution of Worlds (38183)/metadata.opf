@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">300bf09a-a295-4aa9-b999-151c31f7bc34</dc:identifier>
+        <dc:title>The Evolution of Worlds</dc:title>
+        <dc:creator opf:file-as="Lowell, Percival" opf:role="aut">Percival Lowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62992</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cosmogony</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percival Lowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:56:02.051677+00:00"/>
+        <meta name="calibre:title_sort" content="Evolution of Worlds, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

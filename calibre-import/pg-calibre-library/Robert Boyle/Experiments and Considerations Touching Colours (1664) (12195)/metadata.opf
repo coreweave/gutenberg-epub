@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f6b62e2-1ee5-40b8-b82a-843e1f9c9495</dc:identifier>
+        <dc:title>Experiments and Considerations Touching Colours (1664)</dc:title>
+        <dc:creator opf:file-as="Boyle, Robert" opf:role="aut">Robert Boyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14504</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Color -- Early works to 1800</dc:subject>
+        <dc:subject>Colors -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Boyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:47:45.631779+00:00"/>
+        <meta name="calibre:title_sort" content="Experiments and Considerations Touching Colours (1664)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

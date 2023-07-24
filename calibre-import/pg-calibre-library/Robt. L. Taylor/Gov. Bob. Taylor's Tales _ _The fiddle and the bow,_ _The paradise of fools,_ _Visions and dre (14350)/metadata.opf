@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b9b0b1b-b29e-4482-b482-d6ab11358da3</dc:identifier>
+        <dc:title>Gov. Bob. Taylor's Tales / "The fiddle and the bow," "The paradise of fools," "Visions and dreams"</dc:title>
+        <dc:creator opf:file-as="Taylor, Robt. L. (Robert Love)" opf:role="aut">Robt. L. Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20171</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speeches</dc:subject>
+        <dc:subject>addresses</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robt. L. Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:51:46.584854+00:00"/>
+        <meta name="calibre:title_sort" content="Gov. Bob. Taylor's Tales / &quot;The fiddle and the bow,&quot; &quot;The paradise of fools,&quot; &quot;Visions and dreams&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

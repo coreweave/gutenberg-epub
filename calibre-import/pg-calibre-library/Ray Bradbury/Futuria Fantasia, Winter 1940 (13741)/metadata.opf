@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b32395d6-b2d7-4949-9219-65c8f1aee408</dc:identifier>
+        <dc:title>Futuria Fantasia, Winter 1940</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41627</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction -- Periodicals</dc:subject>
+        <dc:subject>Zines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ray Bradbury&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:32:58.614368+00:00"/>
+        <meta name="calibre:title_sort" content="Futuria Fantasia, Winter 1940"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

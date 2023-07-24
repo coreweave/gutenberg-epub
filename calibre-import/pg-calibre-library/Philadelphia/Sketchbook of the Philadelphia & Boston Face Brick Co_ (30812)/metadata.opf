@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37c802b2-b214-48a1-9c69-e85f32e734f1</dc:identifier>
+        <dc:title>Sketchbook of the Philadelphia &amp; Boston Face Brick Co.</dc:title>
+        <dc:creator opf:file-as="Philadelphia &amp; Boston Face Brick Co." opf:role="aut">Philadelphia</dc:creator>
+        <dc:creator opf:file-as="Philadelphia &amp; Boston Face Brick Co." opf:role="aut">Boston Face Brick Co.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fireplaces</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Domestic</dc:subject>
+        <dc:subject>Bricks -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philadelphia&quot;: &quot;&quot;, &quot;Boston Face Brick Co.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:50:17.791726+00:00"/>
+        <meta name="calibre:title_sort" content="Sketchbook of the Philadelphia &amp; Boston Face Brick Co."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

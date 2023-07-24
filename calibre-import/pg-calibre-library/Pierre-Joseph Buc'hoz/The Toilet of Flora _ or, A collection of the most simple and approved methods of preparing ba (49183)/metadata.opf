@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b0939bd-e85d-489f-bc63-74f5efdc81b1</dc:identifier>
+        <dc:title>The Toilet of Flora / or, A collection of the most simple and approved methods of preparing baths, essences, pomatums, powders, perfumes, and sweet-scented waters. With receipts for cosmetics of every kind, that can smooth and brighten the skin, give force to beauty, and take off the appearance of old age and decay</dc:title>
+        <dc:creator opf:file-as="Buc'hoz, Pierre-Joseph" opf:role="aut">Pierre-Joseph Buc'hoz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44276</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cosmetics -- Early works to 1800</dc:subject>
+        <dc:subject>Perfumes -- Early works to 1800</dc:subject>
+        <dc:subject>Beauty</dc:subject>
+        <dc:subject>Personal -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre-Joseph Buc'hoz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:14:51.951475+00:00"/>
+        <meta name="calibre:title_sort" content="Toilet of Flora / or, A collection of the most simple and approved methods of preparing baths, essences, pomatums, powders, perfumes, and sweet-scented waters. With receipts for cosmetics of every kind, that can smooth and brighten the skin, give force to beauty, and take off the appearance of old age and decay, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

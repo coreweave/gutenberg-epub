@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9709df6-b9a6-4fc2-a42c-dfa49770789d</dc:identifier>
+        <dc:title>The Homesteaders: A Novel of the Canadian West</dc:title>
+        <dc:creator opf:file-as="Stead, Robert J. C." opf:role="aut">Robert J. C. Stead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28579</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Farm life -- Manitoba -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert J. C. Stead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:02:24.354363+00:00"/>
+        <meta name="calibre:title_sort" content="Homesteaders: A Novel of the Canadian West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

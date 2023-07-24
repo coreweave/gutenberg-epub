@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eea267be-974b-4c0e-9f19-21dd12ce488c</dc:identifier>
+        <dc:title>The Lead of Honour</dc:title>
+        <dc:creator opf:file-as="Richardson, Norval" opf:role="aut">Norval Richardson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46381</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Triangles (Interpersonal relations) -- Fiction</dc:subject>
+        <dc:subject>Lawyers -- Fiction</dc:subject>
+        <dc:subject>Natchez (Miss.) -- Fiction</dc:subject>
+        <dc:subject>Mississippi -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Norval Richardson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:14:04.381461+00:00"/>
+        <meta name="calibre:title_sort" content="Lead of Honour, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

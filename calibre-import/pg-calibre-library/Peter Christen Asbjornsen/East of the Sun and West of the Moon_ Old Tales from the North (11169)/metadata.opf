@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b2abe09-0c9e-4122-b8ea-21825093a1f2</dc:identifier>
+        <dc:title>East of the Sun and West of the Moon: Old Tales from the North</dc:title>
+        <dc:creator opf:file-as="Asbjørnsen, Peter Christen" opf:role="aut">Peter Christen Asbjørnsen</dc:creator>
+        <dc:creator opf:file-as="Asbjørnsen, Peter Christen" opf:role="aut">Jørgen Engebretsen Moe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30973</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tales -- Norway</dc:subject>
+        <dc:subject>Fairy tales -- Norway</dc:subject>
+        <dc:subject>Folklore -- Norway</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Christen Asbjørnsen&quot;: &quot;&quot;, &quot;Jørgen Engebretsen Moe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:19:20.196626+00:00"/>
+        <meta name="calibre:title_sort" content="East of the Sun and West of the Moon: Old Tales from the North"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

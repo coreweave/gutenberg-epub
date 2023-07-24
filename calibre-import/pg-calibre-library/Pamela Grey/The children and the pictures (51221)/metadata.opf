@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3f016c5-7c9c-4d1c-bdcc-59692fcb6ae9</dc:identifier>
+        <dc:title>The children and the pictures</dc:title>
+        <dc:creator opf:file-as="Grey, Pamela" opf:role="aut">Pamela Grey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64573</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Art -- Juvenile literature</dc:subject>
+        <dc:subject>Painting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pamela Grey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:24:16.589574+00:00"/>
+        <meta name="calibre:title_sort" content="children and the pictures, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">860f8e10-f52f-4301-b41d-8799a8e47513</dc:identifier>
+        <dc:title>Dead Souls</dc:title>
+        <dc:creator opf:file-as="Gogol, Nikolai Vasilevich" opf:role="aut">Nikolai Vasilevich Gogol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1081</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
+        <dc:subject>Swindlers and swindling -- Russia -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nikolai Vasilevich Gogol&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:50:12.618466+00:00"/>
+        <meta name="calibre:title_sort" content="Dead Souls"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

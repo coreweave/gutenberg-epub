@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62308bd3-0aa1-4452-a6e2-7e104270a126</dc:identifier>
+        <dc:title>Key and Guide to Native Trees, Shrubs, and Woody Vines of Dallas County</dc:title>
+        <dc:creator opf:file-as="Stillwell, Norma" opf:role="aut">Norma Stillwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58703</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trees -- Texas</dc:subject>
+        <dc:subject>Shrubs -- Texas</dc:subject>
+        <dc:subject>Woody plants -- Texas -- Dallas County -- Identification</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Norma Stillwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:23:20.613872+00:00"/>
+        <meta name="calibre:title_sort" content="Key and Guide to Native Trees, Shrubs, and Woody Vines of Dallas County"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

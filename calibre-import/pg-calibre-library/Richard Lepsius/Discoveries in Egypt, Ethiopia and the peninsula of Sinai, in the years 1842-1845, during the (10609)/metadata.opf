@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8ca6eab-483e-4d6a-84cc-e8a2f4fdf5ca</dc:identifier>
+        <dc:title>Discoveries in Egypt, Ethiopia and the peninsula of Sinai, in the years 1842-1845, during the mission sent out by his majesty, Frederick William IV of Prussia.</dc:title>
+        <dc:creator opf:file-as="Lepsius, Richard" opf:role="aut">Richard Lepsius</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70375</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egypt -- Antiquities</dc:subject>
+        <dc:subject>Sinai (Egypt) -- Antiquities</dc:subject>
+        <dc:subject>Ethiopia -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Lepsius&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:04:15.249449+00:00"/>
+        <meta name="calibre:title_sort" content="Discoveries in Egypt, Ethiopia and the peninsula of Sinai, in the years 1842-1845, during the mission sent out by his majesty, Frederick William IV of Prussia."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

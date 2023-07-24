@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19949</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b479840-5087-4f6a-a92e-28d9e5a749ac</dc:identifier>
+        <dc:title>Life of Thomas Paine / Written Purposely to Bind with His Writings</dc:title>
+        <dc:creator opf:file-as="Carlile, Richard" opf:role="aut">Richard Carlile</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40208</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paine</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1737-1809</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Carlile&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:02:21.668484+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Thomas Paine / Written Purposely to Bind with His Writings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57c64b57-3e2d-4a76-8cf3-9b30d81116e6</dc:identifier>
+        <dc:title>Weymouth New Testament in Modern Speech, Colossians</dc:title>
+        <dc:creator opf:file-as="Weymouth, Richard Francis" opf:role="aut">Richard Francis Weymouth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8839</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Colossians</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Francis Weymouth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:47:46.825092+00:00"/>
+        <meta name="calibre:title_sort" content="Weymouth New Testament in Modern Speech, Colossians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

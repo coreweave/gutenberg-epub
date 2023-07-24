@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dffc1333-de50-4593-bc0f-68b56b93fefd</dc:identifier>
+        <dc:title>French Polishing and Enamelling: A Practical Work of Instruction</dc:title>
+        <dc:creator opf:file-as="Bitmead, Richard" opf:role="aut">Richard Bitmead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17935</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wood finishing</dc:subject>
+        <dc:subject>Varnish and varnishing</dc:subject>
+        <dc:subject>Stains and staining</dc:subject>
+        <dc:subject>Polishes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Bitmead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:25:01.558219+00:00"/>
+        <meta name="calibre:title_sort" content="French Polishing and Enamelling: A Practical Work of Instruction"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

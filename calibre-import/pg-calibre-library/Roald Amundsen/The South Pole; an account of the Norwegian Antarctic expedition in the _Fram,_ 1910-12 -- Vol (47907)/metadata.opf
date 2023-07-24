@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bda775a8-c372-41b7-bef5-f7cf60874576</dc:identifier>
+        <dc:title>The South Pole; an account of the Norwegian Antarctic expedition in the "Fram," 1910-12 — Volume 1 and Volume 2</dc:title>
+        <dc:creator opf:file-as="Amundsen, Roald" opf:role="aut">Roald Amundsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4229</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amundsen</dc:subject>
+        <dc:subject>Roald</dc:subject>
+        <dc:subject>1872-1928 -- Travel -- Antarctica</dc:subject>
+        <dc:subject>South Pole -- Discovery and exploration -- Norwegian</dc:subject>
+        <dc:subject>Antarctica -- Discovery and exploration -- Norwegian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roald Amundsen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:57:57.577858+00:00"/>
+        <meta name="calibre:title_sort" content="South Pole; an account of the Norwegian Antarctic expedition in the &quot;Fram,&quot; 1910-12 — Volume 1 and Volume 2, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

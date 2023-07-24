@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28be63fa-160e-45eb-95cd-0d3d86469d30</dc:identifier>
+        <dc:title>Cecil Rhodes, Man and Empire-Maker</dc:title>
+        <dc:creator opf:file-as="Radziwill, Catherine, Princess" opf:role="aut">Princess Catherine Radziwill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16600</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South Africa -- Politics and government</dc:subject>
+        <dc:subject>Rhodes</dc:subject>
+        <dc:subject>Cecil</dc:subject>
+        <dc:subject>1853-1902</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Princess Catherine Radziwill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:56:28.449639+00:00"/>
+        <meta name="calibre:title_sort" content="Cecil Rhodes, Man and Empire-Maker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

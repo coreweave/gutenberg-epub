@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e33afaf8-0db9-4f1f-8cb5-a0d334f48655</dc:identifier>
+        <dc:title>Friar Tuck / Being the Chronicles of the Reverend John Carmichael, of Wyoming, U. S. A.</dc:title>
+        <dc:creator opf:file-as="Wason, Robert Alexander" opf:role="aut">Robert Alexander Wason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41926</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Clergy -- Fiction</dc:subject>
+        <dc:subject>Wyoming -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Alexander Wason&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:25:36.591440+00:00"/>
+        <meta name="calibre:title_sort" content="Friar Tuck / Being the Chronicles of the Reverend John Carmichael, of Wyoming, U. S. A."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

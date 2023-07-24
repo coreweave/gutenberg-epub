@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58fae715-04a3-4fc1-bf16-0ada72ae2dec</dc:identifier>
+        <dc:title>The book of the ladies / Illustrious Dames: The Reign and Amours of the Bourbon Régime</dc:title>
+        <dc:creator opf:file-as="Brantôme, Pierre de Bourdeille" opf:role="aut">Pierre de Bourdeille Brantôme</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42515</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Court and courtiers</dc:subject>
+        <dc:subject>Women -- Biography</dc:subject>
+        <dc:subject>France -- Biography</dc:subject>
+        <dc:subject>queens</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre de Bourdeille Brantôme&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:21:39.838174+00:00"/>
+        <meta name="calibre:title_sort" content="book of the ladies / Illustrious Dames: The Reign and Amours of the Bourbon Régime, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

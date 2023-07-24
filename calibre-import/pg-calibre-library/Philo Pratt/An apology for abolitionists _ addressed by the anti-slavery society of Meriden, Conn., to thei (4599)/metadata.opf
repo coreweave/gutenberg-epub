@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb87dc4e-bbe9-40d1-a3be-860007e9f8f3</dc:identifier>
+        <dc:title>An apology for abolitionists / addressed by the anti-slavery society of Meriden, Conn., to their fellow citizens</dc:title>
+        <dc:creator opf:file-as="Pratt, Philo" opf:role="aut">Philo Pratt</dc:creator>
+        <dc:creator opf:file-as="Pratt, Philo" opf:role="aut">Isaac I. Tibbals</dc:creator>
+        <dc:creator opf:file-as="Pratt, Philo" opf:role="aut">Walter Webb</dc:creator>
+        <dc:creator opf:file-as="Pratt, Philo" opf:role="aut">Conn. Anti-slavery Society of Meriden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69367</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <dc:subject>Slavery -- United States -- Societies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Abolitionists -- Connecticut -- Meriden</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philo Pratt&quot;: &quot;&quot;, &quot;Isaac I. Tibbals&quot;: &quot;&quot;, &quot;Walter Webb&quot;: &quot;&quot;, &quot;Conn. Anti-slavery Society of Meriden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:44:15.465342+00:00"/>
+        <meta name="calibre:title_sort" content="apology for abolitionists / addressed by the anti-slavery society of Meriden, Conn., to their fellow citizens, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

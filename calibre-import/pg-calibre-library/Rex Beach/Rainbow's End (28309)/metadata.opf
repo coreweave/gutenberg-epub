@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dbc0e86-d0bf-4c93-b280-ab99362359c1</dc:identifier>
+        <dc:title>Rainbow's End</dc:title>
+        <dc:creator opf:file-as="Beach, Rex" opf:role="aut">Rex Beach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cuba -- History -- Revolution</dc:subject>
+        <dc:subject>1895-1898 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rex Beach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:52:33.510436+00:00"/>
+        <meta name="calibre:title_sort" content="Rainbow's End"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9850</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9080df28-9bbf-4868-a838-92fbbde00959</dc:identifier>
+        <dc:title>Dancing Without an Instructor</dc:title>
+        <dc:creator opf:file-as="Wilkinson, Professor" opf:role="aut">Professor Wilkinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59067</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dance</dc:subject>
+        <dc:subject>Ballroom dancing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Professor Wilkinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:44:13.359214+00:00"/>
+        <meta name="calibre:title_sort" content="Dancing Without an Instructor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

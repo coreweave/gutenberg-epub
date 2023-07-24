@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f2d8896-5200-46d8-92cf-32fc3baecea6</dc:identifier>
+        <dc:title>Lessons in Music Form / A Manual of Analysis of All the Structural Factors and Designs Employed in Musical Composition</dc:title>
+        <dc:creator opf:file-as="Goetschius, Percy" opf:role="aut">Percy Goetschius</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19354</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Musical form</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percy Goetschius&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:46:53.502307+00:00"/>
+        <meta name="calibre:title_sort" content="Lessons in Music Form / A Manual of Analysis of All the Structural Factors and Designs Employed in Musical Composition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

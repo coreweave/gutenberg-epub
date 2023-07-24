@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35944</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5531f90-7552-4d0c-915d-0d124fa68dca</dc:identifier>
+        <dc:title>The Charitable Pestmaster; Or, The Cure of the Plague / Conteining a few short and necessary instructions how to preserve the body from infection of the plagve, as also to cure those that are infected. Together with a little treatise concerning the cure of the small pox.</dc:title>
+        <dc:creator opf:file-as="Sherwood, Thomas, Practitioner in physick" opf:role="aut">Practitioner in physick Thomas Sherwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61537</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plague -- Early works to 1800</dc:subject>
+        <dc:subject>Smallpox -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Practitioner in physick Thomas Sherwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:01:40.223409+00:00"/>
+        <meta name="calibre:title_sort" content="Charitable Pestmaster; Or, The Cure of the Plague / Conteining a few short and necessary instructions how to preserve the body from infection of the plagve, as also to cure those that are infected. Together with a little treatise concerning the cure of the small pox., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

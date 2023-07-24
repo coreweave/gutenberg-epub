@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7aa172b5-f5ee-46ca-81a1-7af859787f44</dc:identifier>
+        <dc:title>An Illustrated Account of St. Bartholomew's Priory Church, Smithfield / With a Sketch of Bartholomew Fair, St. Bartholomew's Hospital, and the Prior's Country Seat, Canonbury Tower, Islington</dc:title>
+        <dc:creator opf:file-as="Normanus" opf:role="aut">Normanus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>St. Bartholomew-the-Great (Church : London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>Smithfield (London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Normanus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:41:44.957179+00:00"/>
+        <meta name="calibre:title_sort" content="Illustrated Account of St. Bartholomew's Priory Church, Smithfield / With a Sketch of Bartholomew Fair, St. Bartholomew's Hospital, and the Prior's Country Seat, Canonbury Tower, Islington, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64ca1eb4-1274-4e20-a693-777ff7196bf3</dc:identifier>
+        <dc:title>Stories about General Warren, in relation to the fifth of March massacre, and the battle of Bunker Hill</dc:title>
+        <dc:creator opf:file-as="Brown, Rebecca Warren" opf:role="aut">Rebecca Warren Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47044</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- United States -- Biography</dc:subject>
+        <dc:subject>Warren</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1741-1775</dc:subject>
+        <dc:subject>Bunker Hill</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Boston</dc:subject>
+        <dc:subject>Mass.</dc:subject>
+        <dc:subject>1775</dc:subject>
+        <dc:subject>Boston Massacre</dc:subject>
+        <dc:subject>1770</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rebecca Warren Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:40:18.082250+00:00"/>
+        <meta name="calibre:title_sort" content="Stories about General Warren, in relation to the fifth of March massacre, and the battle of Bunker Hill"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

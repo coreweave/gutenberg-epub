@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b7c5434-8a28-4bd3-8646-dceec172c712</dc:identifier>
+        <dc:title>The Pied Piper of Hamelin, and Other Poems / Every Boy's Library</dc:title>
+        <dc:creator opf:file-as="Browning, Robert" opf:role="aut">Robert Browning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42850</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile poetry</dc:subject>
+        <dc:subject>Pied Piper of Hamelin (Legendary character) -- Juvenile poetry</dc:subject>
+        <dc:subject>Avarice -- Juvenile poetry</dc:subject>
+        <dc:subject>Courage -- Juvenile poetry</dc:subject>
+        <dc:subject>Missing children -- Juvenile poetry</dc:subject>
+        <dc:subject>Promises -- Juvenile poetry</dc:subject>
+        <dc:subject>Soldiers -- Juvenile poetry</dc:subject>
+        <dc:subject>War -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Browning&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:30:00.242754+00:00"/>
+        <meta name="calibre:title_sort" content="Pied Piper of Hamelin, and Other Poems / Every Boy's Library, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

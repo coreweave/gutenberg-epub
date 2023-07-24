@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7543ccc6-6e66-4270-8282-c7df2993420b</dc:identifier>
+        <dc:title>Memories and Portraits</dc:title>
+        <dc:creator opf:file-as="Stevenson, Robert Louis" opf:role="aut">Robert Louis Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/381</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stevenson</dc:subject>
+        <dc:subject>Robert Louis</dc:subject>
+        <dc:subject>1850-1894</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Scottish -- 19th century -- Biography</dc:subject>
+        <dc:subject>Scotland -- Social life and customs -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Louis Stevenson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:18:08.629454+00:00"/>
+        <meta name="calibre:title_sort" content="Memories and Portraits"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

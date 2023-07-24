@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17831</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05ec2776-f5c0-46af-915e-672faf94c0d7</dc:identifier>
+        <dc:title>Intra Muros</dc:title>
+        <dc:creator opf:file-as="Springer, Rebecca Ruter" opf:role="aut">Rebecca Ruter Springer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Heaven -- Christianity</dc:subject>
+        <dc:subject>Private revelations</dc:subject>
+        <dc:subject>Near-death experiences -- Religious aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rebecca Ruter Springer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:46:59.926196+00:00"/>
+        <meta name="calibre:title_sort" content="Intra Muros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

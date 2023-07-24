@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecd6480a-c60b-4f19-b9c0-11e39d60f402</dc:identifier>
+        <dc:title>Asbestos, Its production and use / With some account of the asbestos mines of Canada</dc:title>
+        <dc:creator opf:file-as="Jones, Robert H." opf:role="aut">Robert H. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35121</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Asbestos</dc:subject>
+        <dc:subject>Asbestos mines and mining -- Québec (Province)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert H. Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:56:26.290597+00:00"/>
+        <meta name="calibre:title_sort" content="Asbestos, Its production and use / With some account of the asbestos mines of Canada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cbdb765-1486-42b7-94f9-5bc181c5d9a4</dc:identifier>
+        <dc:title>Give Me Liberty or Give Me Death</dc:title>
+        <dc:creator opf:file-as="Henry, Patrick" opf:role="aut">Patrick Henry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1976-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speeches</dc:subject>
+        <dc:subject>addresses</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1775-1783 -- Sources</dc:subject>
+        <dc:subject>Virginia -- Politics and government -- 1775-1783 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Patrick Henry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:45:01.686659+00:00"/>
+        <meta name="calibre:title_sort" content="Give Me Liberty or Give Me Death"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

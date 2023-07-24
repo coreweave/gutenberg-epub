@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38863</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9d42c3f-d0bf-4a43-b5da-fc346c4e82ca</dc:identifier>
+        <dc:title>The French and British at Three Rivers</dc:title>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Public Library of Fort Wayne</dc:creator>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Allen County</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64828</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fort Wayne Region (Ind.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Public Library of Fort Wayne&quot;: &quot;&quot;, &quot;Allen County&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:31:15.511023+00:00"/>
+        <meta name="calibre:title_sort" content="French and British at Three Rivers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

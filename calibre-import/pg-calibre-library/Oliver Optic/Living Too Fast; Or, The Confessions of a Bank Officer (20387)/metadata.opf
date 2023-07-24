@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e94f41a-b247-40c3-bb69-83e7e09ca940</dc:identifier>
+        <dc:title>Living Too Fast; Or, The Confessions of a Bank Officer</dc:title>
+        <dc:creator opf:file-as="Optic, Oliver" opf:role="aut">Oliver Optic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51067</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Young women -- Juvenile fiction</dc:subject>
+        <dc:subject>Uncles -- Juvenile fiction</dc:subject>
+        <dc:subject>Household employees -- Juvenile fiction</dc:subject>
+        <dc:subject>Young men -- Juvenile fiction</dc:subject>
+        <dc:subject>Temperance -- Juvenile fiction</dc:subject>
+        <dc:subject>Boston (Mass.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Theft -- Juvenile fiction</dc:subject>
+        <dc:subject>Money -- Juvenile fiction</dc:subject>
+        <dc:subject>Marriage -- Juvenile fiction</dc:subject>
+        <dc:subject>Banks and banking -- Juvenile fiction</dc:subject>
+        <dc:subject>Debt -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Optic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:18:46.836497+00:00"/>
+        <meta name="calibre:title_sort" content="Living Too Fast; Or, The Confessions of a Bank Officer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

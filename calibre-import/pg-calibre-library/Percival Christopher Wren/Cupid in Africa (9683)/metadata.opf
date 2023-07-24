@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26d0b94b-71d3-43c3-9751-8dfd22f0d36e</dc:identifier>
+        <dc:title>Cupid in Africa</dc:title>
+        <dc:creator opf:file-as="Wren, Percival Christopher" opf:role="aut">Percival Christopher Wren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37544</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- Africa</dc:subject>
+        <dc:subject>East -- Fiction</dc:subject>
+        <dc:subject>Great Britain. Army -- Military life -- History -- 20th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percival Christopher Wren&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:39:56.154141+00:00"/>
+        <meta name="calibre:title_sort" content="Cupid in Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

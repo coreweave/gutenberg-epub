@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd9530ac-8dbb-4125-9666-e5f6a45c384f</dc:identifier>
+        <dc:title>John Thorndyke's Cases / related by Christopher Jervis and edited by R. Austin Freeman</dc:title>
+        <dc:creator opf:file-as="Freeman, R. Austin (Richard Austin)" opf:role="aut">R. Austin Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13882</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Thorndyke</dc:subject>
+        <dc:subject>Doctor (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Physicians -- Fiction</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. Austin Freeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:10:29.074727+00:00"/>
+        <meta name="calibre:title_sort" content="John Thorndyke's Cases / related by Christopher Jervis and edited by R. Austin Freeman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

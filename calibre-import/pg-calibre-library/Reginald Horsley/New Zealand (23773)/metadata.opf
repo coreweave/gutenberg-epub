@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee61ccff-421a-40a3-853d-32eca3485070</dc:identifier>
+        <dc:title>New Zealand</dc:title>
+        <dc:creator opf:file-as="Horsley, Reginald" opf:role="aut">Reginald Horsley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54474</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New Zealand -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reginald Horsley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:36:29.268644+00:00"/>
+        <meta name="calibre:title_sort" content="New Zealand"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

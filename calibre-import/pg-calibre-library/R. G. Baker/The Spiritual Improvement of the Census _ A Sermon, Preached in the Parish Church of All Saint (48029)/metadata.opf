@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d63eb00f-1cf2-4f3c-aba2-d607b6a988b4</dc:identifier>
+        <dc:title>The Spiritual Improvement of the Census / A Sermon, Preached in the Parish Church of All Saints, Fulham, 30th March, 1851</dc:title>
+        <dc:creator opf:file-as="Baker, R. G. (Robert George)" opf:role="aut">R. G. Baker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64879</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Great Britain -- Census</dc:subject>
+        <dc:subject>1851</dc:subject>
+        <dc:subject>Bible. Samuel</dc:subject>
+        <dc:subject>2nd</dc:subject>
+        <dc:subject>XXIV</dc:subject>
+        <dc:subject>10 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. G. Baker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:05:02.681937+00:00"/>
+        <meta name="calibre:title_sort" content="Spiritual Improvement of the Census / A Sermon, Preached in the Parish Church of All Saints, Fulham, 30th March, 1851, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

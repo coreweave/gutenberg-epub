@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b69ad25-7e2c-402c-84da-ad64f7277dfb</dc:identifier>
+        <dc:title>James Clerk Maxwell and Modern Physics</dc:title>
+        <dc:creator opf:file-as="Glazebrook, Richard" opf:role="aut">Richard Glazebrook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65359</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physics -- History</dc:subject>
+        <dc:subject>Maxwell</dc:subject>
+        <dc:subject>James Clerk</dc:subject>
+        <dc:subject>1831-1879</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Glazebrook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:57:19.543126+00:00"/>
+        <meta name="calibre:title_sort" content="James Clerk Maxwell and Modern Physics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

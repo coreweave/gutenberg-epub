@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9479dcc9-55f2-48e1-9ce6-c3312a2e5968</dc:identifier>
+        <dc:title>The Purple Pennant</dc:title>
+        <dc:creator opf:file-as="Barbour, Ralph Henry" opf:role="aut">Ralph Henry Barbour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65819</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>High school students -- Juvenile fiction</dc:subject>
+        <dc:subject>Teenage boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Track and field -- Juvenile fiction</dc:subject>
+        <dc:subject>Running -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Henry Barbour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:12:56.335365+00:00"/>
+        <meta name="calibre:title_sort" content="Purple Pennant, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

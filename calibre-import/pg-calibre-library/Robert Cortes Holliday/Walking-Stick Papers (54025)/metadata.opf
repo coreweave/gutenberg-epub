@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d51186f4-e1df-4b17-ac8c-64018ef2c1ad</dc:identifier>
+        <dc:title>Walking-Stick Papers</dc:title>
+        <dc:creator opf:file-as="Holliday, Robert Cortes" opf:role="aut">Robert Cortes Holliday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13708</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Cortes Holliday&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:24:23.990423+00:00"/>
+        <meta name="calibre:title_sort" content="Walking-Stick Papers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

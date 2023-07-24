@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25081</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ebfff63-6a50-44a2-998c-8af71f3ba4ee</dc:identifier>
+        <dc:title>Ontario Normal School Manuals: Science of Education</dc:title>
+        <dc:creator opf:file-as="Ontario. Department of Education" opf:role="aut">Ontario. Department of Education</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18451</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Educational psychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ontario. Department of Education&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:31:48.517944+00:00"/>
+        <meta name="calibre:title_sort" content="Ontario Normal School Manuals: Science of Education"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

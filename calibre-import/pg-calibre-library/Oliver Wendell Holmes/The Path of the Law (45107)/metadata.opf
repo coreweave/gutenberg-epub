@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fccb936-5cb5-4b0a-8642-25fcdd695143</dc:identifier>
+        <dc:title>The Path of the Law</dc:title>
+        <dc:creator opf:file-as="Holmes, Oliver Wendell" opf:role="aut">Oliver Wendell Holmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2373</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>Law -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Wendell Holmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:13:47.778282+00:00"/>
+        <meta name="calibre:title_sort" content="Path of the Law, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

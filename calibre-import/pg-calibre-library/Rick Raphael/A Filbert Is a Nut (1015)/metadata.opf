@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">837caecf-e87f-45c8-8ff8-1bdd58f4cb88</dc:identifier>
+        <dc:title>A Filbert Is a Nut</dc:title>
+        <dc:creator opf:file-as="Raphael, Rick" opf:role="aut">Rick Raphael</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23588</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rick Raphael&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:41:15.991699+00:00"/>
+        <meta name="calibre:title_sort" content="Filbert Is a Nut, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

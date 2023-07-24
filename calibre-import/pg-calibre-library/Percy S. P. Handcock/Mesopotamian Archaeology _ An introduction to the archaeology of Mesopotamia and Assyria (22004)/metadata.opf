@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0deba3a4-b160-470a-9371-e4a4108d0d68</dc:identifier>
+        <dc:title>Mesopotamian Archaeology / An introduction to the archaeology of Mesopotamia and Assyria</dc:title>
+        <dc:creator opf:file-as="Handcock, Percy S. P. (Percy Stuart Peache)" opf:role="aut">Percy S. P. Handcock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45229</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Iraq -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percy S. P. Handcock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:22:18.998923+00:00"/>
+        <meta name="calibre:title_sort" content="Mesopotamian Archaeology / An introduction to the archaeology of Mesopotamia and Assyria"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

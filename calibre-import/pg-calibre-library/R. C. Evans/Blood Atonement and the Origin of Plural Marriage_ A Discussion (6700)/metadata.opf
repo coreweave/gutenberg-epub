@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6223c77-ff6c-402a-a688-020c05c852e2</dc:identifier>
+        <dc:title>Blood Atonement and the Origin of Plural Marriage: A Discussion</dc:title>
+        <dc:creator opf:file-as="Evans, R. C. (Richard C.)" opf:role="aut">R. C. Evans</dc:creator>
+        <dc:creator opf:file-as="Evans, R. C. (Richard C.)" opf:role="aut">Joseph Fielding Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50535</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormons</dc:subject>
+        <dc:subject>Atonement</dc:subject>
+        <dc:subject>Mormon Church -- Doctrines</dc:subject>
+        <dc:subject>Marriage -- Religious aspects -- Mormon Church</dc:subject>
+        <dc:subject>Polygamy -- Religious aspects -- Mormon Church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. C. Evans&quot;: &quot;&quot;, &quot;Joseph Fielding Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:28:08.565770+00:00"/>
+        <meta name="calibre:title_sort" content="Blood Atonement and the Origin of Plural Marriage: A Discussion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

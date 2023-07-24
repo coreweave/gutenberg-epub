@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a704117e-9d07-4b58-b5b0-be8e194c4bfb</dc:identifier>
+        <dc:title>Poisonous Dwellers of the Desert</dc:title>
+        <dc:creator opf:file-as="Dodge, Natt N. (Natt Noyes)" opf:role="aut">Natt N. Dodge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54548</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poisonous animals -- Southwest</dc:subject>
+        <dc:subject>New</dc:subject>
+        <dc:subject>Desert animals -- Southwest</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Natt N. Dodge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:47:11.604643+00:00"/>
+        <meta name="calibre:title_sort" content="Poisonous Dwellers of the Desert"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

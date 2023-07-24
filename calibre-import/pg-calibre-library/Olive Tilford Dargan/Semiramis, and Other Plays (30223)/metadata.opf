@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">786dc78e-90fd-4e44-974e-c57b1d14cb59</dc:identifier>
+        <dc:title>Semiramis, and Other Plays</dc:title>
+        <dc:creator opf:file-as="Dargan, Olive Tilford" opf:role="aut">Olive Tilford Dargan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23234</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Carlota</dc:subject>
+        <dc:subject>Empress</dc:subject>
+        <dc:subject>consort of Maximilian</dc:subject>
+        <dc:subject>Emperor of Mexico</dc:subject>
+        <dc:subject>1840-1927 -- Drama</dc:subject>
+        <dc:subject>Poe</dc:subject>
+        <dc:subject>Edgar Allan</dc:subject>
+        <dc:subject>1809-1849 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Olive Tilford Dargan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:22:01.855494+00:00"/>
+        <meta name="calibre:title_sort" content="Semiramis, and Other Plays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

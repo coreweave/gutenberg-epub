@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60c7e51b-5004-407b-be5a-7d795007954a</dc:identifier>
+        <dc:title>The Light Invisible</dc:title>
+        <dc:creator opf:file-as="Benson, Robert Hugh" opf:role="aut">Robert Hugh Benson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58433</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clergy -- England -- Fiction</dc:subject>
+        <dc:subject>Christian life -- Fiction</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Hugh Benson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:38:26.436518+00:00"/>
+        <meta name="calibre:title_sort" content="Light Invisible, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

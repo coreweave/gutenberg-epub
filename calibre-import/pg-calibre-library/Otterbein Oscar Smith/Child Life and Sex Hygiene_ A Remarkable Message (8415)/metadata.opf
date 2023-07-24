@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">125a22ba-9bfb-49a4-99a9-4dd322934e09</dc:identifier>
+        <dc:title>Child Life and Sex Hygiene: A Remarkable Message</dc:title>
+        <dc:creator opf:file-as="Smith, Otterbein Oscar" opf:role="aut">Otterbein Oscar Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66565</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sexual ethics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Otterbein Oscar Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:08:08.604503+00:00"/>
+        <meta name="calibre:title_sort" content="Child Life and Sex Hygiene: A Remarkable Message"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

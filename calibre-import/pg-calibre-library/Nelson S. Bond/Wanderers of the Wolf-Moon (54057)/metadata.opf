@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54057</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96dc8c4d-bc56-42b1-8137-04ec4c0013ee</dc:identifier>
+        <dc:title>Wanderers of the Wolf-Moon</dc:title>
+        <dc:creator opf:file-as="Bond, Nelson S." opf:role="aut">Nelson S. Bond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63048</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Survival -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Titan (Satellite) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nelson S. Bond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:26:30.979236+00:00"/>
+        <meta name="calibre:title_sort" content="Wanderers of the Wolf-Moon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

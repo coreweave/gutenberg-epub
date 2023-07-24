@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ef9978c-1f89-4092-88a0-59725e8179e2</dc:identifier>
+        <dc:title>Dante: Six Sermons</dc:title>
+        <dc:creator opf:file-as="Wicksteed, Philip H. (Philip Henry)" opf:role="aut">Philip H. Wicksteed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36479</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dante Alighieri</dc:subject>
+        <dc:subject>1265-1321</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip H. Wicksteed&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:45:18.391391+00:00"/>
+        <meta name="calibre:title_sort" content="Dante: Six Sermons"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

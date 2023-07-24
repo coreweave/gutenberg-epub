@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">521c457f-949f-42aa-bf5e-0b723dca5d42</dc:identifier>
+        <dc:title>The Golden Hope: A Story of the Time of King Alexander the Great</dc:title>
+        <dc:creator opf:file-as="Fuller, Robert H. (Robert Higginson)" opf:role="aut">Robert H. Fuller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37576</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Alexander</dc:subject>
+        <dc:subject>the Great</dc:subject>
+        <dc:subject>356 B.C.-323 B.C. -- Fiction</dc:subject>
+        <dc:subject>Greece -- History -- Macedonian expansion</dc:subject>
+        <dc:subject>359-323 B.C. -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert H. Fuller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:02:41.521917+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Hope: A Story of the Time of King Alexander the Great, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

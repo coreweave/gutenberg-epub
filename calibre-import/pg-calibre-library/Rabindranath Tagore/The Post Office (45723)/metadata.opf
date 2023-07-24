@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cee2d05-a0af-4e0f-ba33-5484fd9ea709</dc:identifier>
+        <dc:title>The Post Office</dc:title>
+        <dc:creator opf:file-as="Tagore, Rabindranath" opf:role="aut">Rabindranath Tagore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6523</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tagore</dc:subject>
+        <dc:subject>Rabindranath</dc:subject>
+        <dc:subject>1861-1941 -- Translations into English</dc:subject>
+        <dc:subject>Indic drama -- Translations into English</dc:subject>
+        <dc:subject>Bengali drama -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rabindranath Tagore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:49:25.893528+00:00"/>
+        <meta name="calibre:title_sort" content="Post Office, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

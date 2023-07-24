@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee036870-e4ec-4f8f-8155-2a5c9b06bb3c</dc:identifier>
+        <dc:title>The shoemaker / A powerful picture of nature, adapted from Hal Reid’s famous drama of the same name</dc:title>
+        <dc:creator opf:file-as="Harper, Olive" opf:role="aut">Olive Harper</dc:creator>
+        <dc:creator opf:file-as="Harper, Olive" opf:role="aut">Hal Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Abduction -- Fiction</dc:subject>
+        <dc:subject>West (U.S.) -- Fiction</dc:subject>
+        <dc:subject>Shoemakers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Olive Harper&quot;: &quot;&quot;, &quot;Hal Reid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:54:42.962400+00:00"/>
+        <meta name="calibre:title_sort" content="shoemaker / A powerful picture of nature, adapted from Hal Reid’s famous drama of the same name, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

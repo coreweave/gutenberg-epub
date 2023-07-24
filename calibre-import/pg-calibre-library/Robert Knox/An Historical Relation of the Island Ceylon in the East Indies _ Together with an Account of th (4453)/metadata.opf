@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85fd3df5-77da-4beb-85e0-bf23fb25aace</dc:identifier>
+        <dc:title>An Historical Relation of the Island Ceylon in the East Indies / Together with an Account of the Detaining in Captivity the Author and Divers other Englishmen Now Living There, and of the Author's Miraculous Escape</dc:title>
+        <dc:creator opf:file-as="Knox, Robert" opf:role="aut">Robert Knox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sri Lanka -- Social life and customs</dc:subject>
+        <dc:subject>Sri Lanka -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Knox&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:41:25.924932+00:00"/>
+        <meta name="calibre:title_sort" content="Historical Relation of the Island Ceylon in the East Indies / Together with an Account of the Detaining in Captivity the Author and Divers other Englishmen Now Living There, and of the Author's Miraculous Escape, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

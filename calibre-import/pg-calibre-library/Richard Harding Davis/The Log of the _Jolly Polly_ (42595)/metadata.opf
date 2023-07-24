@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c34bbb2-25d2-424f-a5b9-21a7392dfe94</dc:identifier>
+        <dc:title>The Log of the "Jolly Polly"</dc:title>
+        <dc:creator opf:file-as="Davis, Richard Harding" opf:role="aut">Richard Harding Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1808</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Harding Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:52:39.732869+00:00"/>
+        <meta name="calibre:title_sort" content="Log of the &quot;Jolly Polly&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

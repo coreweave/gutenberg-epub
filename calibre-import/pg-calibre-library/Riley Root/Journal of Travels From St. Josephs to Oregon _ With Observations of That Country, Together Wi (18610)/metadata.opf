@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7877ae22-fd91-45dd-8f95-34665b05d91a</dc:identifier>
+        <dc:title>Journal of Travels From St. Josephs to Oregon / With Observations of That Country, Together With Some Description of California, Its Agricultural Interests, and a Full Description of Its Gold Mines.</dc:title>
+        <dc:creator opf:file-as="Root, Riley" opf:role="aut">Riley Root</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62155</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>California -- Description and travel</dc:subject>
+        <dc:subject>Overland journeys to the Pacific</dc:subject>
+        <dc:subject>Oregon -- Description and travel</dc:subject>
+        <dc:subject>California -- Gold discoveries</dc:subject>
+        <dc:subject>Oregon Territory -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Riley Root&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:14:12.545858+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of Travels From St. Josephs to Oregon / With Observations of That Country, Together With Some Description of California, Its Agricultural Interests, and a Full Description of Its Gold Mines."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

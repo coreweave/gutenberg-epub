@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9f6af55-e385-480e-8a1e-ce3ce1d2770c</dc:identifier>
+        <dc:title>The School of Recreation (1696 edition) / Or a Guide to the Most Ingenious Exercises of Hunting, Riding, Racing, Fireworks, Military Discipline, the Science of Defence</dc:title>
+        <dc:creator opf:file-as="R. H. (Robert Howlett)" opf:role="aut">R. H.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17727</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Recreation -- Early works to 1800</dc:subject>
+        <dc:subject>Physical education and training -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. H.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:16:06.170684+00:00"/>
+        <meta name="calibre:title_sort" content="School of Recreation (1696 edition) / Or a Guide to the Most Ingenious Exercises of Hunting, Riding, Racing, Fireworks, Military Discipline, the Science of Defence, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

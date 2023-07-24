@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59d4675f-488a-47af-8ac8-9dabd6ce0aa1</dc:identifier>
+        <dc:title>Kindred of the Dust</dc:title>
+        <dc:creator opf:file-as="Kyne, Peter B. (Peter Bernard)" opf:role="aut">Peter B. Kyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13532</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Children of the rich -- Fiction</dc:subject>
+        <dc:subject>Washington (State) -- Fiction</dc:subject>
+        <dc:subject>Lumber trade -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter B. Kyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:24:26.671743+00:00"/>
+        <meta name="calibre:title_sort" content="Kindred of the Dust"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

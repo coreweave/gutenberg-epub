@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb907ca3-581a-41b3-93fd-36915d6630b3</dc:identifier>
+        <dc:title>The Geology of Groton State Forest</dc:title>
+        <dc:creator opf:file-as="Christman, Robert A. (Robert Adam)" opf:role="aut">Robert A. Christman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60710</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Geology -- Vermont -- Groton State Forest</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert A. Christman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:42:28.489182+00:00"/>
+        <meta name="calibre:title_sort" content="Geology of Groton State Forest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

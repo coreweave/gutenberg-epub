@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fd674cd-d0fa-4f3c-b73d-8e58ef657557</dc:identifier>
+        <dc:title>The Person and Work of The Holy Spirit</dc:title>
+        <dc:creator opf:file-as="Torrey, R. A. (Reuben Archer)" opf:role="aut">R. A. Torrey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Holy Spirit</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. A. Torrey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:20:00.714496+00:00"/>
+        <meta name="calibre:title_sort" content="Person and Work of The Holy Spirit, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

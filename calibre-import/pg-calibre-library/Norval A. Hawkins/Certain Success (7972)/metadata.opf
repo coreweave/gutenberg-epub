@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cef00d7-e1a4-48f9-93dc-5ca91eddcb50</dc:identifier>
+        <dc:title>Certain Success</dc:title>
+        <dc:creator opf:file-as="Hawkins, Norval A." opf:role="aut">Norval A. Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14589</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Sales personnel</dc:subject>
+        <dc:subject>Selling</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Norval A. Hawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:57:32.449227+00:00"/>
+        <meta name="calibre:title_sort" content="Certain Success"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

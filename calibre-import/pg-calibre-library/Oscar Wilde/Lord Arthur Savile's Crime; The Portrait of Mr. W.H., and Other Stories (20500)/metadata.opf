@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5107022-c002-4a3d-9cc4-516c91a52ebf</dc:identifier>
+        <dc:title>Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/773</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Manners and customs -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:23:06.444968+00:00"/>
+        <meta name="calibre:title_sort" content="Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

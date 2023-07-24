@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32850</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e56b088-6d2c-4aa7-a28d-0eb160841e45</dc:identifier>
+        <dc:title>Tested Recipes: Waterless Cooking for Better Meals, Better Health</dc:title>
+        <dc:creator opf:file-as="Tested Recipe Institute (New York, N.Y.)" opf:role="aut">N.Y.) Tested Recipe Institute (New York</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64703</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Cookware</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;N.Y.) Tested Recipe Institute (New York&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:29:00.416417+00:00"/>
+        <meta name="calibre:title_sort" content="Tested Recipes: Waterless Cooking for Better Meals, Better Health"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

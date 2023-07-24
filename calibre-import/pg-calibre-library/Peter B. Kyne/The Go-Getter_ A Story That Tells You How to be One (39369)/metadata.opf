@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cc3320c-94bf-4f7a-8818-6bafb55f8fc2</dc:identifier>
+        <dc:title>The Go-Getter: A Story That Tells You How to be One</dc:title>
+        <dc:creator opf:file-as="Kyne, Peter B. (Peter Bernard)" opf:role="aut">Peter B. Kyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Businessmen -- Fiction</dc:subject>
+        <dc:subject>Motivation (Psychology) -- Fiction</dc:subject>
+        <dc:subject>Success in business -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter B. Kyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:57:38.134534+00:00"/>
+        <meta name="calibre:title_sort" content="Go-Getter: A Story That Tells You How to be One, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

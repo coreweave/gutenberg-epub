@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa4f61b8-82a1-42ed-864d-e6b08061a772</dc:identifier>
+        <dc:title>Geographic Variation in the Pocket Gopher, Cratogeomys castanops, in Coahuila, México</dc:title>
+        <dc:creator opf:file-as="Baker, Rollin H. (Rollin Harold)" opf:role="aut">Rollin H. Baker</dc:creator>
+        <dc:creator opf:file-as="Baker, Rollin H. (Rollin Harold)" opf:role="aut">Robert J. Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pocket gophers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rollin H. Baker&quot;: &quot;&quot;, &quot;Robert J. Russell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:38:35.993394+00:00"/>
+        <meta name="calibre:title_sort" content="Geographic Variation in the Pocket Gopher, Cratogeomys castanops, in Coahuila, México"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

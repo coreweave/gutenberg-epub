@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c1afd44-24f4-4f05-beca-ddb51686f5fc</dc:identifier>
+        <dc:title>The Hesperides &amp; Noble Numbers: Vol. 1 and 2</dc:title>
+        <dc:creator opf:file-as="Herrick, Robert" opf:role="aut">Robert Herrick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22421</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Herrick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:39:58.908643+00:00"/>
+        <meta name="calibre:title_sort" content="Hesperides &amp; Noble Numbers: Vol. 1 and 2, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

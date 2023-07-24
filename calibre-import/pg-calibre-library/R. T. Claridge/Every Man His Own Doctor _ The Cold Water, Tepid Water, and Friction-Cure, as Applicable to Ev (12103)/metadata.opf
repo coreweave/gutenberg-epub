@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c11d8b9-f2ab-4ae3-9269-d4c4668f1b17</dc:identifier>
+        <dc:title>Every Man His Own Doctor / The Cold Water, Tepid Water, and Friction-Cure, as Applicable to Every Disease to Which the Human Frame Is Subject, and Also to the Cure of Disease in Horses and Cattle</dc:title>
+        <dc:creator opf:file-as="Claridge, R. T." opf:role="aut">R. T. Claridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41292</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hydrotherapy</dc:subject>
+        <dc:subject>Veterinary medicine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. T. Claridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:45:08.605132+00:00"/>
+        <meta name="calibre:title_sort" content="Every Man His Own Doctor / The Cold Water, Tepid Water, and Friction-Cure, as Applicable to Every Disease to Which the Human Frame Is Subject, and Also to the Cure of Disease in Horses and Cattle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

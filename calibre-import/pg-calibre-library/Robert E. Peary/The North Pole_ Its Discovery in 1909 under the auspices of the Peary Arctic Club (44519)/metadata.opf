@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c09e3c08-12ce-411d-8444-367fdac6f96d</dc:identifier>
+        <dc:title>The North Pole: Its Discovery in 1909 under the auspices of the Peary Arctic Club</dc:title>
+        <dc:creator opf:file-as="Peary, Robert E. (Robert Edwin)" opf:role="aut">Robert E. Peary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18975</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arctic regions -- Discovery and exploration</dc:subject>
+        <dc:subject>North Pole -- Discovery and exploration</dc:subject>
+        <dc:subject>Peary</dc:subject>
+        <dc:subject>Robert E. (Robert Edwin)</dc:subject>
+        <dc:subject>1856-1920 -- Travel -- Arctic regions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert E. Peary&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:40:25.301770+00:00"/>
+        <meta name="calibre:title_sort" content="North Pole: Its Discovery in 1909 under the auspices of the Peary Arctic Club, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

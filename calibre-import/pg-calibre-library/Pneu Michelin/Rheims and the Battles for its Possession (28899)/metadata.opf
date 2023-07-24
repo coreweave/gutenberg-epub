@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54e5bbc6-4040-4794-aa4c-ad52a51203ed</dc:identifier>
+        <dc:title>Rheims and the Battles for its Possession</dc:title>
+        <dc:creator opf:file-as="Pneu Michelin (Firm)" opf:role="aut">Pneu Michelin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36885</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Battlefields -- Guidebooks</dc:subject>
+        <dc:subject>Reims (France) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pneu Michelin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:19:44.512580+00:00"/>
+        <meta name="calibre:title_sort" content="Rheims and the Battles for its Possession"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

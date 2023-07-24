@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0f686dd-8fd8-49d7-8a67-a317c8c4a501</dc:identifier>
+        <dc:title>The Life of the Moselle / From its source in the Vosges Mountains to its junction with the Rhine at Coblence</dc:title>
+        <dc:creator opf:file-as="Rooke, Octavius" opf:role="aut">Octavius Rooke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44913</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Moselle River Valley</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Octavius Rooke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:36:40.407638+00:00"/>
+        <meta name="calibre:title_sort" content="Life of the Moselle / From its source in the Vosges Mountains to its junction with the Rhine at Coblence, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

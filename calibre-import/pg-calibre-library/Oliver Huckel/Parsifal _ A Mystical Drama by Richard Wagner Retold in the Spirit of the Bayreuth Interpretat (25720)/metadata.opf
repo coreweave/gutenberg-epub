@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01f11441-8964-41fb-a96a-cfe174054d0f</dc:identifier>
+        <dc:title>Parsifal / A Mystical Drama by Richard Wagner Retold in the Spirit of the Bayreuth Interpretation</dc:title>
+        <dc:creator opf:file-as="Huckel, Oliver" opf:role="aut">Oliver Huckel</dc:creator>
+        <dc:creator opf:file-as="Huckel, Oliver" opf:role="aut">Richard Wagner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11633</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Operas -- Stories</dc:subject>
+        <dc:subject>plots</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Perceval (Legendary character) -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Huckel&quot;: &quot;&quot;, &quot;Richard Wagner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:58:56.700285+00:00"/>
+        <meta name="calibre:title_sort" content="Parsifal / A Mystical Drama by Richard Wagner Retold in the Spirit of the Bayreuth Interpretation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

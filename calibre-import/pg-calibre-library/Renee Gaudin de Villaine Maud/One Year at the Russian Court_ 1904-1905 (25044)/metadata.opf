@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25044</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12133fcc-e369-4708-a63f-9323b7cd5ba3</dc:identifier>
+        <dc:title>One Year at the Russian Court: 1904-1905</dc:title>
+        <dc:creator opf:file-as="Maud, Renée Gaudin de Villaine" opf:role="aut">Renée Gaudin de Villaine Maud</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59095</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rasputin</dc:subject>
+        <dc:subject>Grigorii Efimovich</dc:subject>
+        <dc:subject>1869-1916</dc:subject>
+        <dc:subject>Russia -- Court and courtiers</dc:subject>
+        <dc:subject>Saint Petersburg (Russia) -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Renée Gaudin de Villaine Maud&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:30:15.765421+00:00"/>
+        <meta name="calibre:title_sort" content="One Year at the Russian Court: 1904-1905"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

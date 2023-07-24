@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8bf4dfc-65b6-499a-bc92-22a6052150c3</dc:identifier>
+        <dc:title>The Argonautica</dc:title>
+        <dc:creator opf:file-as="Apollonius, Rhodius" opf:role="aut">Rhodius Apollonius</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Classical literature</dc:subject>
+        <dc:subject>Argonauts (Greek mythology)</dc:subject>
+        <dc:subject>Jason -- (Mythological character)</dc:subject>
+        <dc:subject>Medea</dc:subject>
+        <dc:subject>consort of Aegeus</dc:subject>
+        <dc:subject>King of Athens (Mythological character)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rhodius Apollonius&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:12:33.988405+00:00"/>
+        <meta name="calibre:title_sort" content="Argonautica, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

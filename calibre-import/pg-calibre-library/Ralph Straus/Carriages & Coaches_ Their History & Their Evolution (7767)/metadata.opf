@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5521060f-734e-4a4e-afa0-9131b52e449f</dc:identifier>
+        <dc:title>Carriages &amp; Coaches: Their History &amp; Their Evolution</dc:title>
+        <dc:creator opf:file-as="Straus, Ralph" opf:role="aut">Ralph Straus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46216</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Carriages and carts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Straus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:52:41.874372+00:00"/>
+        <meta name="calibre:title_sort" content="Carriages &amp; Coaches: Their History &amp; Their Evolution"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

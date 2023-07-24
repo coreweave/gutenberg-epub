@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43b8de83-5884-46bc-a3a2-23342e41afa5</dc:identifier>
+        <dc:title>An Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen / To Which is Added, a Copious Collection of the Knight's Moves over the Chess Board</dc:title>
+        <dc:creator opf:file-as="Willis, Robert" opf:role="aut">Robert Willis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61410</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Automaton chess players</dc:subject>
+        <dc:subject>Kempelen</dc:subject>
+        <dc:subject>Wolfgang von</dc:subject>
+        <dc:subject>1734-1804</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Willis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:38:15.717725+00:00"/>
+        <meta name="calibre:title_sort" content="Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen / To Which is Added, a Copious Collection of the Knight's Moves over the Chess Board, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

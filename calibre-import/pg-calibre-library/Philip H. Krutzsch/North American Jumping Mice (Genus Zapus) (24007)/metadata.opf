@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24007</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed140aab-7fd1-49cf-a6fc-24d58ff3be15</dc:identifier>
+        <dc:title>North American Jumping Mice (Genus Zapus)</dc:title>
+        <dc:creator opf:file-as="Krutzsch, Philip H. (Philip Henry)" opf:role="aut">Philip H. Krutzsch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zapus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip H. Krutzsch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:46:27.510478+00:00"/>
+        <meta name="calibre:title_sort" content="North American Jumping Mice (Genus Zapus)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

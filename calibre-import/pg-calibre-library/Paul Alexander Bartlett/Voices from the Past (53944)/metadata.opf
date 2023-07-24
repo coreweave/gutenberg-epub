@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53944</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">829b398a-6203-4a99-9dc8-a32178e5f4ee</dc:identifier>
+        <dc:title>Voices from the Past</dc:title>
+        <dc:creator opf:file-as="Bartlett, Paul Alexander" opf:role="aut">Paul Alexander Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Jesus Christ -- Fiction</dc:subject>
+        <dc:subject>Diary fiction</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Fiction</dc:subject>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Fiction</dc:subject>
+        <dc:subject>Leonardo</dc:subject>
+        <dc:subject>da Vinci</dc:subject>
+        <dc:subject>1452-1519 -- Fiction</dc:subject>
+        <dc:subject>Sappho -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Alexander Bartlett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:19:12.055477+00:00"/>
+        <meta name="calibre:title_sort" content="Voices from the Past"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

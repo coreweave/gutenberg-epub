@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac40f52c-aec7-452d-97a2-3097a4ea2f02</dc:identifier>
+        <dc:title>National Strategy for Combating Terrorism / September 2006</dc:title>
+        <dc:creator opf:file-as="National Security Council (U.S.)" opf:role="aut">National Security Council</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29186</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Military policy</dc:subject>
+        <dc:subject>Terrorism -- Prevention -- Government policy -- United States</dc:subject>
+        <dc:subject>National security -- United States</dc:subject>
+        <dc:subject>War on Terrorism</dc:subject>
+        <dc:subject>2001-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;National Security Council&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:27:31.299794+00:00"/>
+        <meta name="calibre:title_sort" content="National Strategy for Combating Terrorism / September 2006"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

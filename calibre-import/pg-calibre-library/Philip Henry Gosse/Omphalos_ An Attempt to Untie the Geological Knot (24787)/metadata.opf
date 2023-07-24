@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97ab5199-3419-4511-89a0-3b75a08a77a8</dc:identifier>
+        <dc:title>Omphalos: An Attempt to Untie the Geological Knot</dc:title>
+        <dc:creator opf:file-as="Gosse, Philip Henry" opf:role="aut">Philip Henry Gosse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Creation</dc:subject>
+        <dc:subject>Bible and geology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Henry Gosse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:19:30.864396+00:00"/>
+        <meta name="calibre:title_sort" content="Omphalos: An Attempt to Untie the Geological Knot"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

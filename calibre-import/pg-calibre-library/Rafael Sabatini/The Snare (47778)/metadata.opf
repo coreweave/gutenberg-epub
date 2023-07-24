@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47778</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adb6378e-9d89-43f3-8694-86505be23cc1</dc:identifier>
+        <dc:title>The Snare</dc:title>
+        <dc:creator opf:file-as="Sabatini, Rafael" opf:role="aut">Rafael Sabatini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2687</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814 -- Fiction</dc:subject>
+        <dc:subject>British -- Portugal -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rafael Sabatini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:50:25.561873+00:00"/>
+        <meta name="calibre:title_sort" content="Snare, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74f1223d-8494-41fc-8092-a613e8e1f32a</dc:identifier>
+        <dc:title>A Sketch of the Life and Times of Judge Haliburton</dc:title>
+        <dc:creator opf:file-as="Haliburton, R. G. (Robert Grant)" opf:role="aut">R. G. Haliburton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47670</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Haliburton</dc:subject>
+        <dc:subject>Thomas Chandler</dc:subject>
+        <dc:subject>1796-1865</dc:subject>
+        <dc:subject>Nova Scotia -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. G. Haliburton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:06:06.701591+00:00"/>
+        <meta name="calibre:title_sort" content="Sketch of the Life and Times of Judge Haliburton, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">053ba14e-197e-4366-9e89-49f540275125</dc:identifier>
+        <dc:title>The Etymology of Local Names / With a short introduction to the relationship of languages. Teutonic names.</dc:title>
+        <dc:creator opf:file-as="Morris, Richard" opf:role="aut">Richard Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57658</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Onomastics</dc:subject>
+        <dc:subject>Names</dc:subject>
+        <dc:subject>Geographical -- England</dc:subject>
+        <dc:subject>English language -- Etymology -- Names</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:52:49.345550+00:00"/>
+        <meta name="calibre:title_sort" content="Etymology of Local Names / With a short introduction to the relationship of languages. Teutonic names., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

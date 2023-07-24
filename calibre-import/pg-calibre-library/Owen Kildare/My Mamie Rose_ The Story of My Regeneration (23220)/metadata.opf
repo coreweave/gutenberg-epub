@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8d98ba6-4ab1-4c58-b8d5-a765045a210d</dc:identifier>
+        <dc:title>My Mamie Rose: The Story of My Regeneration</dc:title>
+        <dc:creator opf:file-as="Kildare, Owen" opf:role="aut">Owen Kildare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Biography</dc:subject>
+        <dc:subject>Kildare</dc:subject>
+        <dc:subject>Owen</dc:subject>
+        <dc:subject>1864-1911</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Owen Kildare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:13:01.529513+00:00"/>
+        <meta name="calibre:title_sort" content="My Mamie Rose: The Story of My Regeneration"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

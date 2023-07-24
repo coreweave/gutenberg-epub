@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b200b833-cf00-4028-88cf-c2e586b06ace</dc:identifier>
+        <dc:title>The Boy Apprenticed to an Enchanter</dc:title>
+        <dc:creator opf:file-as="Colum, Padraic" opf:role="aut">Padraic Colum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53252</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Horses -- Juvenile fiction</dc:subject>
+        <dc:subject>Magicians -- Juvenile fiction</dc:subject>
+        <dc:subject>Apprentices -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Padraic Colum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:19:05.786530+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Apprenticed to an Enchanter, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

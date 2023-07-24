@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8591abc-16d8-457f-9b8e-454e6e90ab8a</dc:identifier>
+        <dc:title>A Collection of Essays and Fugitiv Writings / On Moral, Historical, Political, and Literary Subjects</dc:title>
+        <dc:creator opf:file-as="Webster, Noah" opf:role="aut">Noah Webster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44416</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1783-1789 -- Sources</dc:subject>
+        <dc:subject>American essays</dc:subject>
+        <dc:subject>United States -- History -- Confederation</dc:subject>
+        <dc:subject>1783-1789 -- Sources</dc:subject>
+        <dc:subject>United States -- Intellectual life -- 1783-1865 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noah Webster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:36:09.528580+00:00"/>
+        <meta name="calibre:title_sort" content="Collection of Essays and Fugitiv Writings / On Moral, Historical, Political, and Literary Subjects, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

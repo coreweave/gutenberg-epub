@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">815074b7-180f-4827-80e6-2814efc18d56</dc:identifier>
+        <dc:title>Servetus and Calvin / A Study of an Important Epoch in the Early History of the Reformation</dc:title>
+        <dc:creator opf:file-as="Willis, Robert" opf:role="aut">Robert Willis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Calvin</dc:subject>
+        <dc:subject>Jean</dc:subject>
+        <dc:subject>1509-1564</dc:subject>
+        <dc:subject>Servetus</dc:subject>
+        <dc:subject>Michael</dc:subject>
+        <dc:subject>1511?-1553</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Willis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:25:33.460168+00:00"/>
+        <meta name="calibre:title_sort" content="Servetus and Calvin / A Study of an Important Epoch in the Early History of the Reformation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

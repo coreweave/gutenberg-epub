@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e04abc9-c4e4-412f-bbbf-a2ca3b7e95ab</dc:identifier>
+        <dc:title>Flower o' the Heather: A Story of the Killing Times</dc:title>
+        <dc:creator opf:file-as="MacKenna, Robert William" opf:role="aut">Robert William MacKenna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46769</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Scotland -- History -- 17th century -- Fiction</dc:subject>
+        <dc:subject>Covenanters -- Scotland -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert William MacKenna&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:08:39.378917+00:00"/>
+        <meta name="calibre:title_sort" content="Flower o' the Heather: A Story of the Killing Times"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

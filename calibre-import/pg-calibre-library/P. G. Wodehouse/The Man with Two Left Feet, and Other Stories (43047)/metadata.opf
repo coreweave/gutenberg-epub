@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd76bf7d-21d2-4fac-b22b-7fbec2ac5c96</dc:identifier>
+        <dc:title>The Man with Two Left Feet, and Other Stories</dc:title>
+        <dc:creator opf:file-as="Wodehouse, P. G. (Pelham Grenville)" opf:role="aut">P. G. Wodehouse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7471</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;P. G. Wodehouse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:17:34.373379+00:00"/>
+        <meta name="calibre:title_sort" content="Man with Two Left Feet, and Other Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

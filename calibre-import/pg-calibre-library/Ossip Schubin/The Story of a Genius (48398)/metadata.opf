@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e67d8fe9-fb97-4944-bb27-221d52870c24</dc:identifier>
+        <dc:title>The Story of a Genius</dc:title>
+        <dc:creator opf:file-as="Schubin, Ossip" opf:role="aut">Ossip Schubin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Austrian fiction -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ossip Schubin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:27:13.302506+00:00"/>
+        <meta name="calibre:title_sort" content="Story of a Genius, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

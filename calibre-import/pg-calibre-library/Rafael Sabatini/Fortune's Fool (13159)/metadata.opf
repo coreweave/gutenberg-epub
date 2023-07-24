@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">980744d8-2eaf-4b19-853c-52d8118e7078</dc:identifier>
+        <dc:title>Fortune's Fool</dc:title>
+        <dc:creator opf:file-as="Sabatini, Rafael" opf:role="aut">Rafael Sabatini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65939</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Abduction -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Restoration</dc:subject>
+        <dc:subject>1660-1688 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rafael Sabatini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:15:26.354528+00:00"/>
+        <meta name="calibre:title_sort" content="Fortune's Fool"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

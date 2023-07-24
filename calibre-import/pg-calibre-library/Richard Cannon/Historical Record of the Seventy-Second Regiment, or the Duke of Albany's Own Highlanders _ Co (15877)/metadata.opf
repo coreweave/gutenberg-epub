@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c28d43ad-40e8-4f6d-82c0-38a60115e0c1</dc:identifier>
+        <dc:title>Historical Record of the Seventy-Second Regiment, or the Duke of Albany's Own Highlanders / Containing an account of the formation of the regiment in 1778, and of its subsequent services to 1848</dc:title>
+        <dc:creator opf:file-as="Cannon, Richard" opf:role="aut">Richard Cannon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66993</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army. Seaforth Highlanders -- History</dc:subject>
+        <dc:subject>Great Britain. Army. Regiment of Foot</dc:subject>
+        <dc:subject>72nd -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Cannon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:41:05.086735+00:00"/>
+        <meta name="calibre:title_sort" content="Historical Record of the Seventy-Second Regiment, or the Duke of Albany's Own Highlanders / Containing an account of the formation of the regiment in 1778, and of its subsequent services to 1848"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4aaec4c-3f3e-4ab8-97ff-d2a3b26c978c</dc:identifier>
+        <dc:title>The Land of Joy</dc:title>
+        <dc:creator opf:file-as="Barbour, Ralph Henry" opf:role="aut">Ralph Henry Barbour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57497</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Harvard University -- Fiction</dc:subject>
+        <dc:subject>Youth -- Fiction</dc:subject>
+        <dc:subject>Plantations -- Virginia -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Henry Barbour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:02:04.584886+00:00"/>
+        <meta name="calibre:title_sort" content="Land of Joy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

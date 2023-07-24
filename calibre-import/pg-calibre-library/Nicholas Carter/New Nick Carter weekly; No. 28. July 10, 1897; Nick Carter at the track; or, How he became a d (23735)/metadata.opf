@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3e8e138-888a-4f07-b9db-008216ac6712</dc:identifier>
+        <dc:title>New Nick Carter weekly; No. 28. July 10, 1897; Nick Carter at the track; or, How he became a dead game sport.</dc:title>
+        <dc:creator opf:file-as="Carter, Nicholas (House name)" opf:role="aut">Nicholas Carter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69108</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dime novels -- Periodicals</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>American -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicholas Carter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:34:44.632146+00:00"/>
+        <meta name="calibre:title_sort" content="New Nick Carter weekly; No. 28. July 10, 1897; Nick Carter at the track; or, How he became a dead game sport."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

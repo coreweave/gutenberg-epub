@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6e9c5e9-bb0a-47df-869c-e33e3f45d3d0</dc:identifier>
+        <dc:title>Problem on Balak</dc:title>
+        <dc:creator opf:file-as="Aycock, Roger D." opf:role="aut">Roger D. Aycock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33839</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <dc:subject>Identity -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roger D. Aycock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:06:55.244246+00:00"/>
+        <meta name="calibre:title_sort" content="Problem on Balak"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01ee6fce-9c5b-4dd1-aae2-8dcf5b0ceca5</dc:identifier>
+        <dc:title>Buffalo Bill's Weird Warning; Or, Dauntless Dell's Rival</dc:title>
+        <dc:creator opf:file-as="Ingraham, Prentiss" opf:role="aut">Prentiss Ingraham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64613</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Buffalo Bill</dc:subject>
+        <dc:subject>1846-1917 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Prentiss Ingraham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:39:54.213962+00:00"/>
+        <meta name="calibre:title_sort" content="Buffalo Bill's Weird Warning; Or, Dauntless Dell's Rival"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

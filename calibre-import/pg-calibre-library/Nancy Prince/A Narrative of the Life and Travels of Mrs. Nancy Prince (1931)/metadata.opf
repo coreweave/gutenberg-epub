@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1931</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9e9ccf3-1b3c-478f-ab69-b9c6554bba2e</dc:identifier>
+        <dc:title>A Narrative of the Life and Travels of Mrs. Nancy Prince</dc:title>
+        <dc:creator opf:file-as="Prince, Nancy" opf:role="aut">Nancy Prince</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63579</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Biography</dc:subject>
+        <dc:subject>Russia -- Description and travel</dc:subject>
+        <dc:subject>Russia -- Social life and customs -- 1533-1917</dc:subject>
+        <dc:subject>Jamaica -- Description and travel</dc:subject>
+        <dc:subject>Prince</dc:subject>
+        <dc:subject>Nancy</dc:subject>
+        <dc:subject>1799- -- Travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nancy Prince&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:59.958477+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Life and Travels of Mrs. Nancy Prince, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16cdd7c1-7537-4377-8bd8-122a9d1b5077</dc:identifier>
+        <dc:title>Unparliamentary papers and other diversions</dc:title>
+        <dc:creator opf:file-as="Berkeley, Reginald" opf:role="aut">Reginald Berkeley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68876</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Parodies</dc:subject>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Great Britain -- Politics and government -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reginald Berkeley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:55:10.468829+00:00"/>
+        <meta name="calibre:title_sort" content="Unparliamentary papers and other diversions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

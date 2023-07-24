@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a013e0b-d39e-4c93-8c4b-b17d0f07d763</dc:identifier>
+        <dc:title>Smithson's Theory of Special Creation</dc:title>
+        <dc:creator opf:file-as="Smithson, Noble" opf:role="aut">Noble Smithson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53026</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Creation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noble Smithson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:57:59.241791+00:00"/>
+        <meta name="calibre:title_sort" content="Smithson's Theory of Special Creation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

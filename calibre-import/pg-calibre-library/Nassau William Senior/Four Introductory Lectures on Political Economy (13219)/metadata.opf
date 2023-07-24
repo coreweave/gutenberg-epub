@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2d4d067-34aa-4479-a003-4d2cce609989</dc:identifier>
+        <dc:title>Four Introductory Lectures on Political Economy</dc:title>
+        <dc:creator opf:file-as="Senior, Nassau William" opf:role="aut">Nassau William Senior</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47266</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nassau William Senior&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:17:13.060879+00:00"/>
+        <meta name="calibre:title_sort" content="Four Introductory Lectures on Political Economy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

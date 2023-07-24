@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c976f60-97c2-4b32-9127-d801c0a996d0</dc:identifier>
+        <dc:title>Now or Never; Or, The Adventures of Bobby Bright: A Story for Young Folks</dc:title>
+        <dc:creator opf:file-as="Optic, Oliver" opf:role="aut">Oliver Optic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14762</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Fishing -- Juvenile fiction</dc:subject>
+        <dc:subject>Maine -- Juvenile fiction</dc:subject>
+        <dc:subject>Runaway children -- Juvenile fiction</dc:subject>
+        <dc:subject>Mothers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Boston (Mass.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Child labor -- Juvenile fiction</dc:subject>
+        <dc:subject>Theft -- Juvenile fiction</dc:subject>
+        <dc:subject>Money -- Juvenile fiction</dc:subject>
+        <dc:subject>Widows -- Juvenile fiction</dc:subject>
+        <dc:subject>Book industries and trade -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Optic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:04:06.443088+00:00"/>
+        <meta name="calibre:title_sort" content="Now or Never; Or, The Adventures of Bobby Bright: A Story for Young Folks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

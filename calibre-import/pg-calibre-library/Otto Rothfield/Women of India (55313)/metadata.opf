@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b26a010-d0b9-4375-b777-d5738a2b4f8c</dc:identifier>
+        <dc:title>Women of India</dc:title>
+        <dc:creator opf:file-as="Rothfield, Otto" opf:role="aut">Otto Rothfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Social life and customs</dc:subject>
+        <dc:subject>Women -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Otto Rothfield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:49:19.594024+00:00"/>
+        <meta name="calibre:title_sort" content="Women of India"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

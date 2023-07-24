@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5a71270-42f9-4fe1-8294-cbc24560d1f2</dc:identifier>
+        <dc:title>A Narrative of the Life of Rev. Noah Davis, A Colored Man / Written by Himself, At The Age of Fifty-Four</dc:title>
+        <dc:creator opf:file-as="Davis, Noah" opf:role="aut">Noah Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20005</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Davis</dc:subject>
+        <dc:subject>Noah</dc:subject>
+        <dc:subject>1803 or 1804-</dc:subject>
+        <dc:subject>Slavery -- United States -- Personal narratives</dc:subject>
+        <dc:subject>Freed persons -- Maryland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Noah Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:02.862765+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Life of Rev. Noah Davis, A Colored Man / Written by Himself, At The Age of Fifty-Four, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

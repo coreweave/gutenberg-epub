@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f1e5d94-3f0e-4f5b-bdaf-3d7b0c4f9510</dc:identifier>
+        <dc:title>Breakfasts and Teas: Novel Suggestions for Social Occasions</dc:title>
+        <dc:creator opf:file-as="Pierce, Paul" opf:role="aut">Paul Pierce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30861</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Games</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Pierce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:35:03.376970+00:00"/>
+        <meta name="calibre:title_sort" content="Breakfasts and Teas: Novel Suggestions for Social Occasions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

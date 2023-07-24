@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12316581-6a9e-4557-8944-5d40c20155ba</dc:identifier>
+        <dc:title>A Blockaded Family: Life in Southern Alabama during the Civil War</dc:title>
+        <dc:creator opf:file-as="Hague, Parthenia Antoinette" opf:role="aut">Parthenia Antoinette Hague</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Blockades</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>1861-1865 -- Women</dc:subject>
+        <dc:subject>Alabama -- Biography</dc:subject>
+        <dc:subject>Hague</dc:subject>
+        <dc:subject>Parthenia Antoinette</dc:subject>
+        <dc:subject>1838-</dc:subject>
+        <dc:subject>Plantation life -- Alabama -- History -- 19th century</dc:subject>
+        <dc:subject>Women -- Alabama -- Biography</dc:subject>
+        <dc:subject>Alabama -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Parthenia Antoinette Hague&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:31:13.797252+00:00"/>
+        <meta name="calibre:title_sort" content="Blockaded Family: Life in Southern Alabama during the Civil War, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31417</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92c284ff-34a5-4935-9dba-151ea9c45c8f</dc:identifier>
+        <dc:title>Spanish and Portuguese South America during the Colonial Period; Vol. 1 of 2</dc:title>
+        <dc:creator opf:file-as="Watson, Robert Grant" opf:role="aut">Robert Grant Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50990</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>America -- Discovery and exploration</dc:subject>
+        <dc:subject>South America -- History -- To 1806</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Grant Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:18:58.848829+00:00"/>
+        <meta name="calibre:title_sort" content="Spanish and Portuguese South America during the Colonial Period; Vol. 1 of 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

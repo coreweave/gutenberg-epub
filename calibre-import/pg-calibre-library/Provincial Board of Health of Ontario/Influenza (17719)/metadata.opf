@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">423b458e-185d-4608-95e6-27324e1ee70d</dc:identifier>
+        <dc:title>Influenza</dc:title>
+        <dc:creator opf:file-as="Provincial Board of Health of Ontario" opf:role="aut">Provincial Board of Health of Ontario</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60087</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Influenza</dc:subject>
+        <dc:subject>Influenza Epidemic</dc:subject>
+        <dc:subject>1918-1919</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Provincial Board of Health of Ontario&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:43:08.448568+00:00"/>
+        <meta name="calibre:title_sort" content="Influenza"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

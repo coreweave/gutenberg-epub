@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69d3c76d-1ed8-4972-be7a-dfb3466fd2f4</dc:identifier>
+        <dc:title>Villainage in England: Essays in English Mediaeval History</dc:title>
+        <dc:creator opf:file-as="Vinogradoff, Paul" opf:role="aut">Paul Vinogradoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38876</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Villeinage -- England -- History -- To 1500</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Vinogradoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:13:29.839875+00:00"/>
+        <meta name="calibre:title_sort" content="Villainage in England: Essays in English Mediaeval History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

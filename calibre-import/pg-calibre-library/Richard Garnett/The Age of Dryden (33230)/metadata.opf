@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20aad4eb-e492-49c0-8728-6202825ec9de</dc:identifier>
+        <dc:title>The Age of Dryden</dc:title>
+        <dc:creator opf:file-as="Garnett, Richard" opf:role="aut">Richard Garnett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39817</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English literature -- Early modern</dc:subject>
+        <dc:subject>1500-1700 -- History and criticism</dc:subject>
+        <dc:subject>Dryden</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1631-1700</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Garnett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:47:33.624479+00:00"/>
+        <meta name="calibre:title_sort" content="Age of Dryden, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

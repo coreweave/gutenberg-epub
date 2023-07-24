@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ecd33b5-a559-47bf-8837-6b645393ade2</dc:identifier>
+        <dc:title>Observations on the Sermons of Elias Hicks / In Several Letters to Him; With Some Introductory Remarks, Addressed to the Junior Members of the Society of Friends.</dc:title>
+        <dc:creator opf:file-as="Waln, Robert" opf:role="aut">Robert Waln</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58078</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hicks</dc:subject>
+        <dc:subject>Elias</dc:subject>
+        <dc:subject>1748-1830</dc:subject>
+        <dc:subject>Society of Friends -- Hicksite controversy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Waln&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:07:42.195413+00:00"/>
+        <meta name="calibre:title_sort" content="Observations on the Sermons of Elias Hicks / In Several Letters to Him; With Some Introductory Remarks, Addressed to the Junior Members of the Society of Friends."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

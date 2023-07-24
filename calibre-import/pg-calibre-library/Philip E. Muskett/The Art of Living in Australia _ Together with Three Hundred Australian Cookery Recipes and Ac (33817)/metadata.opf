@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65144b03-4d9e-42bd-9db5-6a3a7c33a6ab</dc:identifier>
+        <dc:title>The Art of Living in Australia / Together with Three Hundred Australian Cookery Recipes and Accessory Kitchen Information by Mrs. H. Wicken</dc:title>
+        <dc:creator opf:file-as="Muskett, Philip E." opf:role="aut">Philip E. Muskett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hygiene</dc:subject>
+        <dc:subject>Health</dc:subject>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Australian</dc:subject>
+        <dc:subject>Australia -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip E. Muskett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:16:13.569041+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Living in Australia / Together with Three Hundred Australian Cookery Recipes and Accessory Kitchen Information by Mrs. H. Wicken, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

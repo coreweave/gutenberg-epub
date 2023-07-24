@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54e585fe-101a-4d22-b951-9f10a098cf09</dc:identifier>
+        <dc:title>This Giddy Globe</dc:title>
+        <dc:creator opf:file-as="Herford, Oliver" opf:role="aut">Oliver Herford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26053</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American wit and humor</dc:subject>
+        <dc:subject>Geography -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Herford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:14:32.989829+00:00"/>
+        <meta name="calibre:title_sort" content="This Giddy Globe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

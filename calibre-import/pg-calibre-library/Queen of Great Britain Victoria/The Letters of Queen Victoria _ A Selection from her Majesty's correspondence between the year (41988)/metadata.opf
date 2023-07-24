@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c633c54a-9f58-4c27-b189-192a79689b2f</dc:identifier>
+        <dc:title>The Letters of Queen Victoria : A Selection from her Majesty's correspondence between the years 1837 and 1861. Volume 2, 1844-1853</dc:title>
+        <dc:creator opf:file-as="Victoria, Queen of Great Britain" opf:role="aut">Queen of Great Britain Victoria</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24780</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>1837-1901</dc:subject>
+        <dc:subject>Victoria</dc:subject>
+        <dc:subject>Queen of Great Britain</dc:subject>
+        <dc:subject>1819-1901 -- Correspondence</dc:subject>
+        <dc:subject>Great Britain -- Politics and government -- 1837-1901</dc:subject>
+        <dc:subject>Europe -- Politics and government -- 1848-1871</dc:subject>
+        <dc:subject>1837-1901 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Queen of Great Britain Victoria&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:18:49.679500+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Queen Victoria : A Selection from her Majesty's correspondence between the years 1837 and 1861. Volume 2, 1844-1853, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

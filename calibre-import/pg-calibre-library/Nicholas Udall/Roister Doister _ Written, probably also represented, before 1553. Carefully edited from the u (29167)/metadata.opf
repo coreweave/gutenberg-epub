@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f90835a8-35b8-4be0-8ba1-22e13b81e889</dc:identifier>
+        <dc:title>Roister Doister / Written, probably also represented, before 1553. Carefully edited from the unique copy, now at Eton College</dc:title>
+        <dc:creator opf:file-as="Udall, Nicholas" opf:role="aut">Nicholas Udall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21350</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English drama (Comedy)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicholas Udall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:31:54.758670+00:00"/>
+        <meta name="calibre:title_sort" content="Roister Doister / Written, probably also represented, before 1553. Carefully edited from the unique copy, now at Eton College"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">965a0e7b-6a6d-4202-870e-6ae1e334a916</dc:identifier>
+        <dc:title>The Magic of the Horse-shoe, with other folk-lore notes</dc:title>
+        <dc:creator opf:file-as="Lawrence, Robert Means" opf:role="aut">Robert Means Lawrence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57411</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Means Lawrence&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:07:41.500306+00:00"/>
+        <meta name="calibre:title_sort" content="Magic of the Horse-shoe, with other folk-lore notes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

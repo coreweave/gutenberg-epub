@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19046</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc1461d3-7ec1-4ccf-9730-9fa798e69dc5</dc:identifier>
+        <dc:title>Korean folk tales</dc:title>
+        <dc:creator opf:file-as="Im, Pang" opf:role="aut">Pang Im</dc:creator>
+        <dc:creator opf:file-as="Im, Pang" opf:role="aut">Yuk Yi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51002</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- Korea</dc:subject>
+        <dc:subject>Tales -- Korea</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pang Im&quot;: &quot;&quot;, &quot;Yuk Yi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:29:42.470232+00:00"/>
+        <meta name="calibre:title_sort" content="Korean folk tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bafd6bb0-e7dd-4f7c-88ff-b7c28f1267c9</dc:identifier>
+        <dc:title>The Bloudy Tenent of Persecution for Cause of Conscience Discussed and Mr. Cotton's Letter Examined and Answered</dc:title>
+        <dc:creator opf:file-as="Williams, Roger" opf:role="aut">Roger Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65739</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church and state -- Early works to 1800</dc:subject>
+        <dc:subject>Cotton</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1584-1652</dc:subject>
+        <dc:subject>Liberty of conscience -- Early works to 1800</dc:subject>
+        <dc:subject>Persecution -- Early works to 1800</dc:subject>
+        <dc:subject>Baptists -- New England -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roger Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:03:58.436919+00:00"/>
+        <meta name="calibre:title_sort" content="Bloudy Tenent of Persecution for Cause of Conscience Discussed and Mr. Cotton's Letter Examined and Answered, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

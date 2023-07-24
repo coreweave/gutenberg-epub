@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">998</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">576170b8-3b38-4dfb-b382-151343e6e4da</dc:identifier>
+        <dc:title>A Fascinating Traitor: An Anglo-Indian Story</dc:title>
+        <dc:creator opf:file-as="Savage, Richard" opf:role="aut">Richard Savage</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5972</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Savage&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:41:00.469735+00:00"/>
+        <meta name="calibre:title_sort" content="Fascinating Traitor: An Anglo-Indian Story, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

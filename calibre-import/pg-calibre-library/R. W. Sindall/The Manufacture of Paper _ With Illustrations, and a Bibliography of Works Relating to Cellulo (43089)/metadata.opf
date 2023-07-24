@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95e518aa-460b-4bbb-8d1b-940d0e725e67</dc:identifier>
+        <dc:title>The Manufacture of Paper / With Illustrations, and a Bibliography of Works Relating to Cellulose and Paper-Making</dc:title>
+        <dc:creator opf:file-as="Sindall, R. W. (Robert Walter)" opf:role="aut">R. W. Sindall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46449</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Papermaking</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. W. Sindall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:19:53.329501+00:00"/>
+        <meta name="calibre:title_sort" content="Manufacture of Paper / With Illustrations, and a Bibliography of Works Relating to Cellulose and Paper-Making, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b6d17d2-d238-4f6d-a8ce-18b169fb49ba</dc:identifier>
+        <dc:title>Pictorial Photography in America 1922</dc:title>
+        <dc:creator opf:file-as="Pictorial Photographers of America" opf:role="aut">Pictorial Photographers of America</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28024</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Photography</dc:subject>
+        <dc:subject>Artistic -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pictorial Photographers of America&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:26:01.652149+00:00"/>
+        <meta name="calibre:title_sort" content="Pictorial Photography in America 1922"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

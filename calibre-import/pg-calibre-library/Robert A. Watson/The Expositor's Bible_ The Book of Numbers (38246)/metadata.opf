@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">905263b0-63d1-436d-aa89-83ce5c8bfff4</dc:identifier>
+        <dc:title>The Expositor's Bible: The Book of Numbers</dc:title>
+        <dc:creator opf:file-as="Watson, Robert A. (Robert Alexander)" opf:role="aut">Robert A. Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42639</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Numbers -- Commentaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert A. Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:59:15.761287+00:00"/>
+        <meta name="calibre:title_sort" content="Expositor's Bible: The Book of Numbers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

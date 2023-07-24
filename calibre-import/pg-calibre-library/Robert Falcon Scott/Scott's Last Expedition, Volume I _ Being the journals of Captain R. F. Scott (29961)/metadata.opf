@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06b442e4-e184-400c-bce3-2fa2df7624af</dc:identifier>
+        <dc:title>Scott's Last Expedition, Volume I / Being the journals of Captain R. F. Scott</dc:title>
+        <dc:creator opf:file-as="Scott, Robert Falcon" opf:role="aut">Robert Falcon Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11579</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British Antarctic ("Terra Nova") Expedition (1910-1913)</dc:subject>
+        <dc:subject>Terra Nova (Ship)</dc:subject>
+        <dc:subject>Antarctica -- Discovery and exploration -- British</dc:subject>
+        <dc:subject>Scott</dc:subject>
+        <dc:subject>Robert Falcon</dc:subject>
+        <dc:subject>1868-1912 -- Diaries</dc:subject>
+        <dc:subject>South Pole -- Discovery and exploration -- British</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Falcon Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:08:46.312467+00:00"/>
+        <meta name="calibre:title_sort" content="Scott's Last Expedition, Volume I / Being the journals of Captain R. F. Scott"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

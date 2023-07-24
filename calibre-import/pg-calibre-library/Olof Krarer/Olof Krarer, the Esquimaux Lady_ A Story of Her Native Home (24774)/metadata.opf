@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eec463c6-62a4-4f8f-b999-4bcbe68cefe5</dc:identifier>
+        <dc:title>Olof Krarer, the Esquimaux Lady: A Story of Her Native Home</dc:title>
+        <dc:creator opf:file-as="Krarer, Olof" opf:role="aut">Olof Krarer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33703</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Krarer</dc:subject>
+        <dc:subject>Olof</dc:subject>
+        <dc:subject>1858-1935</dc:subject>
+        <dc:subject>Dwarfs -- United States -- Biography</dc:subject>
+        <dc:subject>Lecturers -- United States -- Biography</dc:subject>
+        <dc:subject>Icelanders -- United States -- Biography</dc:subject>
+        <dc:subject>Eskimos -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Olof Krarer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:18:59.391039+00:00"/>
+        <meta name="calibre:title_sort" content="Olof Krarer, the Esquimaux Lady: A Story of Her Native Home"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bfaac6d-818a-404e-8dd7-94f018882021</dc:identifier>
+        <dc:title>Peach Blossom Shangri-la: Tao Hua Yuan Ji</dc:title>
+        <dc:creator opf:file-as="Tao, Qian" opf:role="aut">Qian Tao</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2090</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>zho</dc:language>
+        <dc:subject>Chinese literature -- Translations into English</dc:subject>
+        <dc:subject>Chinese fiction -- To 618</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Qian Tao&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:05:16.632761+00:00"/>
+        <meta name="calibre:title_sort" content="Peach Blossom Shangri-la: Tao Hua Yuan Ji"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

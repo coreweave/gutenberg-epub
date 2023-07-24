@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc926faf-c691-41d9-a9bf-cf935ee21c1b</dc:identifier>
+        <dc:title>Czechoslovak Fairy Tales</dc:title>
+        <dc:creator opf:file-as="Fillmore, Parker" opf:role="aut">Parker Fillmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales -- Czechoslovakia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Parker Fillmore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:18.693216+00:00"/>
+        <meta name="calibre:title_sort" content="Czechoslovak Fairy Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

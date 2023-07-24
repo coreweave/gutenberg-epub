@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e0640bb-a8e2-4083-aadf-f5e7b59fda3f</dc:identifier>
+        <dc:title>The Balkans: A History of Bulgaria—Serbia—Greece—Rumania—Turkey</dc:title>
+        <dc:creator opf:file-as="Forbes, Nevill" opf:role="aut">Nevill Forbes</dc:creator>
+        <dc:creator opf:file-as="Forbes, Nevill" opf:role="aut">D. G. Hogarth</dc:creator>
+        <dc:creator opf:file-as="Forbes, Nevill" opf:role="aut">David Mitrany</dc:creator>
+        <dc:creator opf:file-as="Forbes, Nevill" opf:role="aut">Arnold Toynbee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11716</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Balkan Peninsula -- History</dc:subject>
+        <dc:subject>Eastern question (Balkan)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nevill Forbes&quot;: &quot;&quot;, &quot;D. G. Hogarth&quot;: &quot;&quot;, &quot;David Mitrany&quot;: &quot;&quot;, &quot;Arnold Toynbee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:32:55.452236+00:00"/>
+        <meta name="calibre:title_sort" content="Balkans: A History of Bulgaria—Serbia—Greece—Rumania—Turkey, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8827ed6b-7c76-441c-9cd7-906f224f93b4</dc:identifier>
+        <dc:title>Act, Declaration, &amp; Testimony for the Whole of our Covenanted Reformation, as Attained to, and Established in Britain and Ireland; Particularly Betwixt the Years 1638 and 1649, Inclusive</dc:title>
+        <dc:creator opf:file-as="Reformed Presbytery of North America" opf:role="aut">Reformed Presbytery of North America</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13200</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reformed Presbyterian Church (Scotland) -- History</dc:subject>
+        <dc:subject>Reformed Presbyterian Church of Ireland -- History</dc:subject>
+        <dc:subject>Reformed Presbytery of North America -- History</dc:subject>
+        <dc:subject>Reformed Presbytery of North America -- Doctrines</dc:subject>
+        <dc:subject>Church and state</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reformed Presbytery of North America&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:22:50.493326+00:00"/>
+        <meta name="calibre:title_sort" content="Act, Declaration, &amp; Testimony for the Whole of our Covenanted Reformation, as Attained to, and Established in Britain and Ireland; Particularly Betwixt the Years 1638 and 1649, Inclusive"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

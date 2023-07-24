@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1b1f08d-f613-4c8d-bb0e-e635e844c293</dc:identifier>
+        <dc:title>Red Dusk and the Morrow: Adventures and Investigations in Red Russia</dc:title>
+        <dc:creator opf:file-as="Dukes, Paul" opf:role="aut">Paul Dukes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57804</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Communism -- Soviet Union</dc:subject>
+        <dc:subject>Soviet Union -- Social conditions</dc:subject>
+        <dc:subject>Spies -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Dukes</dc:subject>
+        <dc:subject>Paul</dc:subject>
+        <dc:subject>1889-1967</dc:subject>
+        <dc:subject>Espionage</dc:subject>
+        <dc:subject>British -- Soviet Union -- History -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Dukes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:02:41.019237+00:00"/>
+        <meta name="calibre:title_sort" content="Red Dusk and the Morrow: Adventures and Investigations in Red Russia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

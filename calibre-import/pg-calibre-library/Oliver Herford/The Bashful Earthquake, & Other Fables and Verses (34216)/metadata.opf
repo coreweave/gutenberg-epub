@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fd0e1e2-b0c4-435d-8063-a8e9387657c4</dc:identifier>
+        <dc:title>The Bashful Earthquake, &amp; Other Fables and Verses</dc:title>
+        <dc:creator opf:file-as="Herford, Oliver" opf:role="aut">Oliver Herford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56765</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous poetry</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Herford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:35:51.399582+00:00"/>
+        <meta name="calibre:title_sort" content="Bashful Earthquake, &amp; Other Fables and Verses, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

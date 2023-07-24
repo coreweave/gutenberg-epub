@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24428</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce0a3b91-1ed1-44e5-a7d2-bb8b5fe7e4bf</dc:identifier>
+        <dc:title>Nunnery life in the Church of England; or, Seventeen years with Father Ignatius</dc:title>
+        <dc:creator opf:file-as="Mary Agnes, Sister, O.S.B." opf:role="aut">O.S.B. Sister Mary Agnes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Monastic and religious life of women</dc:subject>
+        <dc:subject>Monasticism and religious orders for women -- Anglican Communion</dc:subject>
+        <dc:subject>Ignatius</dc:subject>
+        <dc:subject>Father</dc:subject>
+        <dc:subject>O.S.B.</dc:subject>
+        <dc:subject>1837-1908</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;O.S.B. Sister Mary Agnes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:04:38.906641+00:00"/>
+        <meta name="calibre:title_sort" content="Nunnery life in the Church of England; or, Seventeen years with Father Ignatius"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">231b6912-e5e5-413f-8e35-b6ef973af761</dc:identifier>
+        <dc:title>Two Years in the Forbidden City</dc:title>
+        <dc:creator opf:file-as="Der Ling, Princess" opf:role="aut">Princess Der Ling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/889</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cixi</dc:subject>
+        <dc:subject>Empress dowager of China</dc:subject>
+        <dc:subject>1835-1908 -- Anecdotes</dc:subject>
+        <dc:subject>Empresses -- China -- Anecdotes</dc:subject>
+        <dc:subject>China -- Court and courtiers -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Princess Der Ling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:33:31.257342+00:00"/>
+        <meta name="calibre:title_sort" content="Two Years in the Forbidden City"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

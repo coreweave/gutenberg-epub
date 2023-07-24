@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03b3a5bb-9c98-4441-934b-a0a1b7daa18e</dc:identifier>
+        <dc:title>Philosophy 4: A Story of Harvard University</dc:title>
+        <dc:creator opf:file-as="Wister, Owen" opf:role="aut">Owen Wister</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/862</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harvard University -- Fiction</dc:subject>
+        <dc:subject>College stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Owen Wister&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:22:48.884533+00:00"/>
+        <meta name="calibre:title_sort" content="Philosophy 4: A Story of Harvard University"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

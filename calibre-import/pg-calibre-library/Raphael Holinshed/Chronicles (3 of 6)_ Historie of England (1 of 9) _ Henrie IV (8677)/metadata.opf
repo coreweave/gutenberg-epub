@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bba0485-2616-4dc2-b533-32f623318323</dc:identifier>
+        <dc:title>Chronicles (3 of 6): Historie of England (1 of 9) / Henrie IV</dc:title>
+        <dc:creator opf:file-as="Holinshed, Raphael" opf:role="aut">Raphael Holinshed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28188</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Middle Ages</dc:subject>
+        <dc:subject>Great Britain -- History -- Henry IV</dc:subject>
+        <dc:subject>1399-1413</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raphael Holinshed&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:14:38.012310+00:00"/>
+        <meta name="calibre:title_sort" content="Chronicles (3 of 6): Historie of England (1 of 9) / Henrie IV"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

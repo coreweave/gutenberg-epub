@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f0a8f26-ef21-4435-8150-038ce3f41808</dc:identifier>
+        <dc:title>Rambles in Dickens' Land</dc:title>
+        <dc:creator opf:file-as="Allbut, Robert" opf:role="aut">Robert Allbut</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38652</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dickens</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1812-1870 -- Homes and haunts -- England -- London</dc:subject>
+        <dc:subject>Literary landmarks -- England -- London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Allbut&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:53:56.333769+00:00"/>
+        <meta name="calibre:title_sort" content="Rambles in Dickens' Land"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

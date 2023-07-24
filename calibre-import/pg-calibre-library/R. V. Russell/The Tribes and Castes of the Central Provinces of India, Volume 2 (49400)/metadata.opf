@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c83d4ca-5809-44a2-89b2-7a1f1ae3c43c</dc:identifier>
+        <dc:title>The Tribes and Castes of the Central Provinces of India, Volume 2</dc:title>
+        <dc:creator opf:file-as="Russell, R. V. (Robert Vane)" opf:role="aut">R. V. Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22010</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethnology -- India -- Madhya Pradesh</dc:subject>
+        <dc:subject>Caste -- India -- Madhya Pradesh</dc:subject>
+        <dc:subject>Madhya Pradesh (India) -- Religion</dc:subject>
+        <dc:subject>Madhya Pradesh (India) -- Scheduled tribes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. V. Russell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:29:07.370075+00:00"/>
+        <meta name="calibre:title_sort" content="Tribes and Castes of the Central Provinces of India, Volume 2, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

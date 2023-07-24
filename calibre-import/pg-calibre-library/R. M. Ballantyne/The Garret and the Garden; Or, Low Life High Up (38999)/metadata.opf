@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38999</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac57340d-d78c-4af4-9c32-5f34d6e670af</dc:identifier>
+        <dc:title>The Garret and the Garden; Or, Low Life High Up</dc:title>
+        <dc:creator opf:file-as="Ballantyne, R. M. (Robert Michael)" opf:role="aut">R. M. Ballantyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21737</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>False imprisonment -- Fiction</dc:subject>
+        <dc:subject>London (England) -- Social conditions -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. M. Ballantyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:38:17.087540+00:00"/>
+        <meta name="calibre:title_sort" content="Garret and the Garden; Or, Low Life High Up, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

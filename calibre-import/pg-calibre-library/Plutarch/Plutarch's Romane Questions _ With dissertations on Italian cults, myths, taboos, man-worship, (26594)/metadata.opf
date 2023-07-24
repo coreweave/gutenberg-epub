@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a2403fd-41c0-4ead-968a-ad281c907b93</dc:identifier>
+        <dc:title>Plutarch's Romane Questions / With dissertations on Italian cults, myths, taboos, man-worship, aryan marriage, sympathetic magic and the eating of beans</dc:title>
+        <dc:creator opf:file-as="Plutarch" opf:role="aut">Plutarch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rome -- Religion -- Early works to 1800</dc:subject>
+        <dc:subject>Rome -- Social life and customs -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Plutarch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:37:23.308920+00:00"/>
+        <meta name="calibre:title_sort" content="Plutarch's Romane Questions / With dissertations on Italian cults, myths, taboos, man-worship, aryan marriage, sympathetic magic and the eating of beans"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

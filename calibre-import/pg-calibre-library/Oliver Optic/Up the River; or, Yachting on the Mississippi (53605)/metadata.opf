@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d72a3770-8b2d-484f-816f-9e5762d038cc</dc:identifier>
+        <dc:title>Up the River; or, Yachting on the Mississippi</dc:title>
+        <dc:creator opf:file-as="Optic, Oliver" opf:role="aut">Oliver Optic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24775</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Yachts -- Juvenile fiction</dc:subject>
+        <dc:subject>Mississippi River -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Optic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:57:08.134334+00:00"/>
+        <meta name="calibre:title_sort" content="Up the River; or, Yachting on the Mississippi"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e676c2c-2615-4885-b300-2241ae3aeecf</dc:identifier>
+        <dc:title>The Humbugs of the World / An Account of Humbugs, Delusions, Impositions, Quackeries, Deceits and Deceivers Generally, in All Ages</dc:title>
+        <dc:creator opf:file-as="Barnum, P. T. (Phineas Taylor)" opf:role="aut">P. T. Barnum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26640</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Impostors and imposture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;P. T. Barnum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:11:03.686259+00:00"/>
+        <meta name="calibre:title_sort" content="Humbugs of the World / An Account of Humbugs, Delusions, Impositions, Quackeries, Deceits and Deceivers Generally, in All Ages, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

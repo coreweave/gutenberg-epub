@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39798</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9373836c-2080-4b27-bcb2-423960a548d5</dc:identifier>
+        <dc:title>The Green Carnation</dc:title>
+        <dc:creator opf:file-as="Hichens, Robert" opf:role="aut">Robert Hichens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24499</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors -- Fiction</dc:subject>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Ireland -- Fiction</dc:subject>
+        <dc:subject>Wilde</dc:subject>
+        <dc:subject>Oscar</dc:subject>
+        <dc:subject>1854-1900 -- Fiction</dc:subject>
+        <dc:subject>Gay men -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Hichens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:20:06.961812+00:00"/>
+        <meta name="calibre:title_sort" content="Green Carnation, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

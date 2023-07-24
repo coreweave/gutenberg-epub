@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e78d1ee5-9977-40c6-9e7a-e76d5b8dd4b7</dc:identifier>
+        <dc:title>The Ancestral Footstep (fragment) / Outlines of an English Romance</dc:title>
+        <dc:creator opf:file-as="Hawthorne, Nathaniel" opf:role="aut">Nathaniel Hawthorne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8429</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nathaniel Hawthorne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:04:50.448112+00:00"/>
+        <meta name="calibre:title_sort" content="Ancestral Footstep (fragment) / Outlines of an English Romance, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

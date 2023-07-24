@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca31e394-531d-41f9-8573-25fc789d5097</dc:identifier>
+        <dc:title>The King's Men: A Tale of To-morrow</dc:title>
+        <dc:creator opf:file-as="Grant, Robert" opf:role="aut">Robert Grant</dc:creator>
+        <dc:creator opf:file-as="Grant, Robert" opf:role="aut">John Boyle O'Reilly</dc:creator>
+        <dc:creator opf:file-as="Grant, Robert" opf:role="aut">Frederic Jesup Stimson</dc:creator>
+        <dc:creator opf:file-as="Grant, Robert" opf:role="aut">John T. Wheelwright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18960</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Great Britain -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Grant&quot;: &quot;&quot;, &quot;John Boyle O'Reilly&quot;: &quot;&quot;, &quot;Frederic Jesup Stimson&quot;: &quot;&quot;, &quot;John T. Wheelwright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:51:45.384356+00:00"/>
+        <meta name="calibre:title_sort" content="King's Men: A Tale of To-morrow, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

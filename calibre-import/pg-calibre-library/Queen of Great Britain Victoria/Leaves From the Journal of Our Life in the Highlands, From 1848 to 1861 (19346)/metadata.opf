@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b53d547-de7d-46f4-a357-d6a78df1f211</dc:identifier>
+        <dc:title>Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861</dc:title>
+        <dc:creator opf:file-as="Victoria, Queen of Great Britain" opf:role="aut">Queen of Great Britain Victoria</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66173</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Highlands (Scotland) -- Description and travel</dc:subject>
+        <dc:subject>Victoria</dc:subject>
+        <dc:subject>Queen of Great Britain</dc:subject>
+        <dc:subject>1819-1901 -- Homes and haunts -- Scotland -- Highlands</dc:subject>
+        <dc:subject>1819-1901 -- Diaries</dc:subject>
+        <dc:subject>Queens -- Great Britain -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Queen of Great Britain Victoria&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:40:27.610797+00:00"/>
+        <meta name="calibre:title_sort" content="Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

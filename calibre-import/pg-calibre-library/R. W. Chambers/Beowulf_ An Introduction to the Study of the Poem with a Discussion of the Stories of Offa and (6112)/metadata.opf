@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68306b00-5f06-47fb-ac7a-d157d362682c</dc:identifier>
+        <dc:title>Beowulf: An Introduction to the Study of the Poem with a Discussion of the Stories of Offa and Finn</dc:title>
+        <dc:creator opf:file-as="Chambers, R. W. (Raymond Wilson)" opf:role="aut">R. W. Chambers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34117</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Offa</dc:subject>
+        <dc:subject>King of the Mercians</dc:subject>
+        <dc:subject>-796 -- In literature</dc:subject>
+        <dc:subject>Beowulf</dc:subject>
+        <dc:subject>Fight at Finnesburg (Anglo-Saxon poem)</dc:subject>
+        <dc:subject>Offa saga</dc:subject>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>English (Old) -- History and criticism</dc:subject>
+        <dc:subject>Anglo-Saxons -- Kings and rulers</dc:subject>
+        <dc:subject>Monsters in literature</dc:subject>
+        <dc:subject>Dragons in literature</dc:subject>
+        <dc:subject>Heroes in literature</dc:subject>
+        <dc:subject>Mercia (Kingdom) -- In literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. W. Chambers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:15:18.831075+00:00"/>
+        <meta name="calibre:title_sort" content="Beowulf: An Introduction to the Study of the Poem with a Discussion of the Stories of Offa and Finn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

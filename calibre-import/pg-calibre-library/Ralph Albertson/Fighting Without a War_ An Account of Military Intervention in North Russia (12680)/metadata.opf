@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a06738b1-89bf-4eb6-8287-aaf37723439a</dc:identifier>
+        <dc:title>Fighting Without a War: An Account of Military Intervention in North Russia</dc:title>
+        <dc:creator opf:file-as="Albertson, Ralph" opf:role="aut">Ralph Albertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Soviet Union</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Albertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:01:32.169275+00:00"/>
+        <meta name="calibre:title_sort" content="Fighting Without a War: An Account of Military Intervention in North Russia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

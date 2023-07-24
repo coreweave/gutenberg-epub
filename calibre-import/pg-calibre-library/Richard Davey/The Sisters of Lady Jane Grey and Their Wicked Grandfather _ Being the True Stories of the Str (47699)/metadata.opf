@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">084748e7-1ee6-4c11-90ae-8e5044b91263</dc:identifier>
+        <dc:title>The Sisters of Lady Jane Grey and Their Wicked Grandfather / Being the True Stories of the Strange Lives of Charles Brandon, Duke of Suffolk, and the Ladies Katherine and Mary Grey, sisters</dc:title>
+        <dc:creator opf:file-as="Davey, Richard" opf:role="aut">Richard Davey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49265</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Suffolk</dc:subject>
+        <dc:subject>Charles Brandon</dc:subject>
+        <dc:subject>Duke of</dc:subject>
+        <dc:subject>approximately 1484-1545</dc:subject>
+        <dc:subject>Hertford</dc:subject>
+        <dc:subject>Katherine Seymour</dc:subject>
+        <dc:subject>Countess of</dc:subject>
+        <dc:subject>1540-1568</dc:subject>
+        <dc:subject>Keys</dc:subject>
+        <dc:subject>Mary Grey</dc:subject>
+        <dc:subject>1545?-1578</dc:subject>
+        <dc:subject>Cumberland</dc:subject>
+        <dc:subject>Eleanor Brandon Clifford</dc:subject>
+        <dc:subject>1519-1547</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Davey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:45:48.201815+00:00"/>
+        <meta name="calibre:title_sort" content="Sisters of Lady Jane Grey and Their Wicked Grandfather / Being the True Stories of the Strange Lives of Charles Brandon, Duke of Suffolk, and the Ladies Katherine and Mary Grey, sisters, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

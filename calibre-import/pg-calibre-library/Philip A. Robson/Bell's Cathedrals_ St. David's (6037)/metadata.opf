@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6037</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99e333cd-a1be-47a0-a926-29cb15b83f08</dc:identifier>
+        <dc:title>Bell's Cathedrals: St. David's</dc:title>
+        <dc:creator opf:file-as="Robson, Philip A. (Philip Appleby)" opf:role="aut">Philip A. Robson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>St. Davids Cathedral</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip A. Robson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:13:42.698307+00:00"/>
+        <meta name="calibre:title_sort" content="Bell's Cathedrals: St. David's"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

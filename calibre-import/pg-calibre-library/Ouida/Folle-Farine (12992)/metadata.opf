@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ac1832c-7677-47da-af58-fd15f444b7ba</dc:identifier>
+        <dc:title>Folle-Farine</dc:title>
+        <dc:creator opf:file-as="Ouida" opf:role="aut">Ouida</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39745</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ouida&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:10:32.366354+00:00"/>
+        <meta name="calibre:title_sort" content="Folle-Farine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

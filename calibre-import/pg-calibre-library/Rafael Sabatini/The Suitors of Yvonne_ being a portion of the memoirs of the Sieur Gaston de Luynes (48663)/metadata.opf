@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b967fd5a-485a-4374-96c2-18269a2dea90</dc:identifier>
+        <dc:title>The Suitors of Yvonne: being a portion of the memoirs of the Sieur Gaston de Luynes</dc:title>
+        <dc:creator opf:file-as="Sabatini, Rafael" opf:role="aut">Rafael Sabatini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3430</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>France -- History -- Louis XIV</dc:subject>
+        <dc:subject>1643-1715 -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>France -- History -- 17th century -- Fiction</dc:subject>
+        <dc:subject>Mazarin</dc:subject>
+        <dc:subject>Jules</dc:subject>
+        <dc:subject>1602-1661 -- Fiction</dc:subject>
+        <dc:subject>Cardinals -- France -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rafael Sabatini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:43:09.253437+00:00"/>
+        <meta name="calibre:title_sort" content="Suitors of Yvonne: being a portion of the memoirs of the Sieur Gaston de Luynes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

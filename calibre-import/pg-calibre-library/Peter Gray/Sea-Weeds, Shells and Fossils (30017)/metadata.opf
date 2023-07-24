@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a51c823-b0c8-4189-919d-84decb600667</dc:identifier>
+        <dc:title>Sea-Weeds, Shells and Fossils</dc:title>
+        <dc:creator opf:file-as="Gray, Peter" opf:role="aut">Peter Gray</dc:creator>
+        <dc:creator opf:file-as="Gray, Peter" opf:role="aut">B. B. Woodward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37119</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marine algae -- Identification -- Juvenile literature</dc:subject>
+        <dc:subject>Mollusks -- Identification -- Juvenile literature</dc:subject>
+        <dc:subject>Mollusks -- Classification -- Juvenile literature</dc:subject>
+        <dc:subject>Mollusks</dc:subject>
+        <dc:subject>Fossil -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Gray&quot;: &quot;&quot;, &quot;B. B. Woodward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:11:29.644698+00:00"/>
+        <meta name="calibre:title_sort" content="Sea-Weeds, Shells and Fossils"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

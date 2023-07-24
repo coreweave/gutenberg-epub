@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eba282e0-f9a7-4927-b0b4-bf5c68d52592</dc:identifier>
+        <dc:title>Mental Defectives and Sexual Offenders / Report of the Committee of Inquiry Appointed by the Hon. Sir Maui Pomare, K.B.E., C.M.G., Minister of Health</dc:title>
+        <dc:creator opf:file-as="New Zealand. Committee of Inquiry into Mental Defectives and Sexual Offenders" opf:role="aut">New Zealand. Committee of Inquiry into Mental Defectives</dc:creator>
+        <dc:creator opf:file-as="New Zealand. Committee of Inquiry into Mental Defectives and Sexual Offenders" opf:role="aut">Sexual Offenders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18932</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>People with mental disabilities -- Care -- New Zealand</dc:subject>
+        <dc:subject>People with mental disabilities -- Legal status</dc:subject>
+        <dc:subject>laws</dc:subject>
+        <dc:subject>etc. -- New Zealand</dc:subject>
+        <dc:subject>Sex offenders -- Legal status</dc:subject>
+        <dc:subject>Sterilization (Birth control) -- New Zealand</dc:subject>
+        <dc:subject>Mental health laws -- New Zealand</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;New Zealand. Committee of Inquiry into Mental Defectives&quot;: &quot;&quot;, &quot;Sexual Offenders&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:20:50.814288+00:00"/>
+        <meta name="calibre:title_sort" content="Mental Defectives and Sexual Offenders / Report of the Committee of Inquiry Appointed by the Hon. Sir Maui Pomare, K.B.E., C.M.G., Minister of Health"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

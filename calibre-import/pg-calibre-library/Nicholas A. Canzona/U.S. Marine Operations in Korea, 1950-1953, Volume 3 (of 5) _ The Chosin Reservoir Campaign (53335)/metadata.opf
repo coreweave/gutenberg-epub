@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fda727e3-f440-4e9f-adc6-975f3eb3d785</dc:identifier>
+        <dc:title>U.S. Marine Operations in Korea, 1950-1953, Volume 3 (of 5) / The Chosin Reservoir Campaign</dc:title>
+        <dc:creator opf:file-as="Canzona, Nicholas A." opf:role="aut">Nicholas A. Canzona</dc:creator>
+        <dc:creator opf:file-as="Canzona, Nicholas A." opf:role="aut">Lynn Montross</dc:creator>
+        <dc:creator opf:file-as="Canzona, Nicholas A." opf:role="aut">United States. Marine Corps</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65009</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Marine Corps -- History -- Korean War</dc:subject>
+        <dc:subject>1950-1953</dc:subject>
+        <dc:subject>Korean War</dc:subject>
+        <dc:subject>1950-1953 -- Campaigns</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicholas A. Canzona&quot;: &quot;&quot;, &quot;Lynn Montross&quot;: &quot;&quot;, &quot;United States. Marine Corps&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:39:53.576095+00:00"/>
+        <meta name="calibre:title_sort" content="U.S. Marine Operations in Korea, 1950-1953, Volume 3 (of 5) / The Chosin Reservoir Campaign"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

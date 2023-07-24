@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c444e03-d2e3-4a72-9169-c83dac4b1f25</dc:identifier>
+        <dc:title>Skulls in the stars</dc:title>
+        <dc:creator opf:file-as="Howard, Robert E. (Robert Ervin)" opf:role="aut">Robert E. Howard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70540</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Puritans -- Fiction</dc:subject>
+        <dc:subject>Good and evil -- Fiction</dc:subject>
+        <dc:subject>Kane</dc:subject>
+        <dc:subject>Solomon (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert E. Howard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:53:57.117714+00:00"/>
+        <meta name="calibre:title_sort" content="Skulls in the stars"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

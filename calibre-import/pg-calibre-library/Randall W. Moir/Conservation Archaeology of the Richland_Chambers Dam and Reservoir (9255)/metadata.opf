@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74b47861-41ef-4a01-b0bf-9a6d6888703e</dc:identifier>
+        <dc:title>Conservation Archaeology of the Richland/Chambers Dam and Reservoir</dc:title>
+        <dc:creator opf:file-as="Moir, Randall W." opf:role="aut">Randall W. Moir</dc:creator>
+        <dc:creator opf:file-as="Moir, Randall W." opf:role="aut">L. Mark Raab</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63671</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Richland Creek Archaeological Project</dc:subject>
+        <dc:subject>Salvage archaeology -- Texas -- Richland-Chambers Reservoir Region</dc:subject>
+        <dc:subject>Indians of North America -- Texas -- Richland-Chambers Reservoir Region -- Antiquities</dc:subject>
+        <dc:subject>Richland-Chambers Reservoir Region (Tex.) -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Randall W. Moir&quot;: &quot;&quot;, &quot;L. Mark Raab&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:29:05.084043+00:00"/>
+        <meta name="calibre:title_sort" content="Conservation Archaeology of the Richland/Chambers Dam and Reservoir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

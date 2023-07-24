@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24cc506a-2fa0-4b69-b6da-2f42320360d7</dc:identifier>
+        <dc:title>Advice to a Mother on the Management of Her Children</dc:title>
+        <dc:creator opf:file-as="Chavasse, Pye Henry" opf:role="aut">Pye Henry Chavasse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Child care</dc:subject>
+        <dc:subject>Children -- Health and hygiene</dc:subject>
+        <dc:subject>Infants -- Health and hygiene</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pye Henry Chavasse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:25:44.522576+00:00"/>
+        <meta name="calibre:title_sort" content="Advice to a Mother on the Management of Her Children"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

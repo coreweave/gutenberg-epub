@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08c21a4e-8d1a-430f-8a57-683bf6ec55c6</dc:identifier>
+        <dc:title>Four New Pocket Gophers of the Genus Cratogeomys from Jalisco, Mexico</dc:title>
+        <dc:creator opf:file-as="Russell, Robert J." opf:role="aut">Robert J. Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31141</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pocket gophers</dc:subject>
+        <dc:subject>Mammals -- Mexico -- Jalisco</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert J. Russell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:17:42.074140+00:00"/>
+        <meta name="calibre:title_sort" content="Four New Pocket Gophers of the Genus Cratogeomys from Jalisco, Mexico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

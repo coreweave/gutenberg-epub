@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b77066d-25e9-4613-b58b-27ccccf2b71b</dc:identifier>
+        <dc:title>The Three Choirs: A Handbook to the Cathedrals of Gloucester, Hereford, and Worcester / A Complete Description of the Buildings, a History of Each Diocese and Biographical Notices of the Bishops</dc:title>
+        <dc:creator opf:file-as="King, R. J. (Richard John)" opf:role="aut">R. J. King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gloucester Cathedral</dc:subject>
+        <dc:subject>Church architecture -- England</dc:subject>
+        <dc:subject>Cathedrals -- England</dc:subject>
+        <dc:subject>Hereford Cathedral</dc:subject>
+        <dc:subject>Worcester Cathedral</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. J. King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:07:54.576420+00:00"/>
+        <meta name="calibre:title_sort" content="Three Choirs: A Handbook to the Cathedrals of Gloucester, Hereford, and Worcester / A Complete Description of the Buildings, a History of Each Diocese and Biographical Notices of the Bishops, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

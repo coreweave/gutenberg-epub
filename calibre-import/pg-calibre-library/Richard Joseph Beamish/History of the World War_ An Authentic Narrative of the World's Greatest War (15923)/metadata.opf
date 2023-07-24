@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39dfbb7a-9d6a-4f40-b852-492e3991e774</dc:identifier>
+        <dc:title>History of the World War: An Authentic Narrative of the World's Greatest War</dc:title>
+        <dc:creator opf:file-as="Beamish, Richard Joseph" opf:role="aut">Richard Joseph Beamish</dc:creator>
+        <dc:creator opf:file-as="Beamish, Richard Joseph" opf:role="aut">Francis Andrew March</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18993</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Joseph Beamish&quot;: &quot;&quot;, &quot;Francis Andrew March&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:42:37.385399+00:00"/>
+        <meta name="calibre:title_sort" content="History of the World War: An Authentic Narrative of the World's Greatest War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

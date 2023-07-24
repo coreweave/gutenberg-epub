@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0311145-d828-4d23-9848-3f37fa643159</dc:identifier>
+        <dc:title>The Adhesive Postage Stamp</dc:title>
+        <dc:creator opf:file-as="Chalmers, Patrick" opf:role="aut">Patrick Chalmers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39569</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postage stamps</dc:subject>
+        <dc:subject>Hill</dc:subject>
+        <dc:subject>Rowland</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1795-1879</dc:subject>
+        <dc:subject>Chalmers</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1782-1853</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Patrick Chalmers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:38:11.144638+00:00"/>
+        <meta name="calibre:title_sort" content="Adhesive Postage Stamp, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

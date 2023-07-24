@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47997</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4c52f67-df07-453b-b56a-df14682ef30c</dc:identifier>
+        <dc:title>The Spider's Web</dc:title>
+        <dc:creator opf:file-as="Kauffman, Reginald Wright" opf:role="aut">Reginald Wright Kauffman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45866</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Lawyers -- Fiction</dc:subject>
+        <dc:subject>United States -- Social conditions -- 1865-1918 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reginald Wright Kauffman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:03:09.480105+00:00"/>
+        <meta name="calibre:title_sort" content="Spider's Web, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

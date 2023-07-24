@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9be4ae8d-8f93-4125-98ea-4023830364a5</dc:identifier>
+        <dc:title>Report of the Chief Librarian for the Year Ended 31 March 1958: Special Centennial Issue</dc:title>
+        <dc:creator opf:file-as="New Zealand. General Assembly Library" opf:role="aut">New Zealand. General Assembly Library</dc:creator>
+        <dc:creator opf:file-as="New Zealand. General Assembly Library" opf:role="aut">J. O. Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25034</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General Assembly Library -- Periodicals</dc:subject>
+        <dc:subject>Libraries -- New Zealand -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;New Zealand. General Assembly Library&quot;: &quot;&quot;, &quot;J. O. Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:13:18.019947+00:00"/>
+        <meta name="calibre:title_sort" content="Report of the Chief Librarian for the Year Ended 31 March 1958: Special Centennial Issue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

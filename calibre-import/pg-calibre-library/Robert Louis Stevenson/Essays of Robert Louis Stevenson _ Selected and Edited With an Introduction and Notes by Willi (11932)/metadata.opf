@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1420fa4-c727-4ed6-a631-16d3f52ec4af</dc:identifier>
+        <dc:title>Essays of Robert Louis Stevenson / Selected and Edited With an Introduction and Notes by William Lyon Phelps</dc:title>
+        <dc:creator opf:file-as="Stevenson, Robert Louis" opf:role="aut">Robert Louis Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10761</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Louis Stevenson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:40:22.914977+00:00"/>
+        <meta name="calibre:title_sort" content="Essays of Robert Louis Stevenson / Selected and Edited With an Introduction and Notes by William Lyon Phelps"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

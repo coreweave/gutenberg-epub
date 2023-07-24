@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">839f15f6-e100-4aa4-ac6d-13528d6d977d</dc:identifier>
+        <dc:title>Early Woodcut Initials / Containing over Thirteen Hundred Reproductions of Ornamental Letters of the Fifteenth and Sixteenth Centuries</dc:title>
+        <dc:creator opf:file-as="Jennings, Oscar" opf:role="aut">Oscar Jennings</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65847</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wood-engraving</dc:subject>
+        <dc:subject>Initials</dc:subject>
+        <dc:subject>Illustrated books</dc:subject>
+        <dc:subject>Block books</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Jennings&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:18:21.809818+00:00"/>
+        <meta name="calibre:title_sort" content="Early Woodcut Initials / Containing over Thirteen Hundred Reproductions of Ornamental Letters of the Fifteenth and Sixteenth Centuries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

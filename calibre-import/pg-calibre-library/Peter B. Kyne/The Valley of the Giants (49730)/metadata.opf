@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7906649-69b4-45f1-855f-4b0aa666f945</dc:identifier>
+        <dc:title>The Valley of the Giants</dc:title>
+        <dc:creator opf:file-as="Kyne, Peter B. (Peter Bernard)" opf:role="aut">Peter B. Kyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5735</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Fathers and sons -- Fiction</dc:subject>
+        <dc:subject>California -- Fiction</dc:subject>
+        <dc:subject>Lumber trade -- Fiction</dc:subject>
+        <dc:subject>Humboldt County (Calif.) -- Fiction</dc:subject>
+        <dc:subject>Redwood industry -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter B. Kyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:49:17.099220+00:00"/>
+        <meta name="calibre:title_sort" content="Valley of the Giants, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

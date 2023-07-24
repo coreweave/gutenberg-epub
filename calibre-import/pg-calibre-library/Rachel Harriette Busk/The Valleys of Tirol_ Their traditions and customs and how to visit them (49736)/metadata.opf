@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ace0a910-41e5-4e04-9a86-ca82611eae9f</dc:identifier>
+        <dc:title>The Valleys of Tirol: Their traditions and customs and how to visit them</dc:title>
+        <dc:creator opf:file-as="Busk, Rachel Harriette" opf:role="aut">Rachel Harriette Busk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43614</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tyrol (Austria) -- Description and travel</dc:subject>
+        <dc:subject>Valleys -- Austria -- Tyrol</dc:subject>
+        <dc:subject>Tyrol (Austria) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rachel Harriette Busk&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:49:37.559075+00:00"/>
+        <meta name="calibre:title_sort" content="Valleys of Tirol: Their traditions and customs and how to visit them, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

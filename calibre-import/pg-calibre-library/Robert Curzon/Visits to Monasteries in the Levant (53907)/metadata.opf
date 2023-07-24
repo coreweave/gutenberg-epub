@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05ce5089-2592-42f6-bb53-fd2afc7b785e</dc:identifier>
+        <dc:title>Visits to Monasteries in the Levant</dc:title>
+        <dc:creator opf:file-as="Curzon, Robert" opf:role="aut">Robert Curzon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32397</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Middle East -- Description and travel</dc:subject>
+        <dc:subject>Monasteries -- Middle East</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Curzon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:16:51.719093+00:00"/>
+        <meta name="calibre:title_sort" content="Visits to Monasteries in the Levant"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f16ab85c-bd7a-41b3-98ab-b20b8734358a</dc:identifier>
+        <dc:title>Vigilante Days and Ways / The pioneers of the Rockies; the makers and making of Montana and Idaho</dc:title>
+        <dc:creator opf:file-as="Langford, Nathaniel Pitt" opf:role="aut">Nathaniel Pitt Langford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64135</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- History</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Northwestern States</dc:subject>
+        <dc:subject>Northwestern States -- History</dc:subject>
+        <dc:subject>Vigilance committees</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nathaniel Pitt Langford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:11:55.256621+00:00"/>
+        <meta name="calibre:title_sort" content="Vigilante Days and Ways / The pioneers of the Rockies; the makers and making of Montana and Idaho"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

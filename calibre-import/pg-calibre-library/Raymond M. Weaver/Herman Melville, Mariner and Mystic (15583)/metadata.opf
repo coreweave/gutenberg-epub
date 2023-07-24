@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe017477-90bd-4035-877a-a756cc3bf09a</dc:identifier>
+        <dc:title>Herman Melville, Mariner and Mystic</dc:title>
+        <dc:creator opf:file-as="Weaver, Raymond M. (Raymond Melbourne)" opf:role="aut">Raymond M. Weaver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50461</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Melville</dc:subject>
+        <dc:subject>Herman</dc:subject>
+        <dc:subject>1819-1891</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raymond M. Weaver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:31:22.656035+00:00"/>
+        <meta name="calibre:title_sort" content="Herman Melville, Mariner and Mystic"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25c6ed20-fd61-4153-adf3-1e188282b84b</dc:identifier>
+        <dc:title>Superior Fishing / Or, the Striped Bass, Trout, and Black Bass of the Northern States</dc:title>
+        <dc:creator opf:file-as="Roosevelt, Robert Barnwell" opf:role="aut">Robert Barnwell Roosevelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fishing -- United States</dc:subject>
+        <dc:subject>Fishing -- Canada</dc:subject>
+        <dc:subject>Fishing -- Superior</dc:subject>
+        <dc:subject>Lake</dc:subject>
+        <dc:subject>Fishes -- United States</dc:subject>
+        <dc:subject>Fishes -- Canada</dc:subject>
+        <dc:subject>Fishes -- Superior</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Barnwell Roosevelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:00:32.873199+00:00"/>
+        <meta name="calibre:title_sort" content="Superior Fishing / Or, the Striped Bass, Trout, and Black Bass of the Northern States"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

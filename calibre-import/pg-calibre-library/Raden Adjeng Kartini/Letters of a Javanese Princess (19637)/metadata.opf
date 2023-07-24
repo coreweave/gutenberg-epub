@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36d0ff2a-a1a5-4d38-a7a4-fca41cc600ea</dc:identifier>
+        <dc:title>Letters of a Javanese Princess</dc:title>
+        <dc:creator opf:file-as="Kartini, Raden Adjeng" opf:role="aut">Raden Adjeng Kartini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34647</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kartini</dc:subject>
+        <dc:subject>Raden Adjeng</dc:subject>
+        <dc:subject>1879-1904 -- Correspondence</dc:subject>
+        <dc:subject>Feminists -- Indonesia -- Java -- Correspondence</dc:subject>
+        <dc:subject>Women -- Indonesia -- Java -- Social conditions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raden Adjeng Kartini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:51:03.733234+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of a Javanese Princess"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

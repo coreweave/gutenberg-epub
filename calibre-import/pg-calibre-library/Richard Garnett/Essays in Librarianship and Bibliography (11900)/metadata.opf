@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61d9af24-83a3-44a5-bea3-8b366de577ed</dc:identifier>
+        <dc:title>Essays in Librarianship and Bibliography</dc:title>
+        <dc:creator opf:file-as="Garnett, Richard" opf:role="aut">Richard Garnett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53163</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Library science</dc:subject>
+        <dc:subject>British Museum</dc:subject>
+        <dc:subject>Bibliography -- Methodology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Garnett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:39:31.672667+00:00"/>
+        <meta name="calibre:title_sort" content="Essays in Librarianship and Bibliography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

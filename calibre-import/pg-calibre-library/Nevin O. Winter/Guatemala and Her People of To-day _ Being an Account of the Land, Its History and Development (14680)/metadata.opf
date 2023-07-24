@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">608a4d7f-3f7f-4e02-9a51-5a0fd6f3d355</dc:identifier>
+        <dc:title>Guatemala and Her People of To-day / Being an Account of the Land, Its History and Development; the People, Their Customs and Characteristics; to Which Are Added Chapters on British Honduras and the Republic of Honduras, with References to the Other Countries of Central America, Salvador, Nicaragua, and Costa Rica</dc:title>
+        <dc:creator opf:file-as="Winter, Nevin O. (Nevin Otto)" opf:role="aut">Nevin O. Winter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59367</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Guatemala</dc:subject>
+        <dc:subject>Central America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nevin O. Winter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:02:20.964350+00:00"/>
+        <meta name="calibre:title_sort" content="Guatemala and Her People of To-day / Being an Account of the Land, Its History and Development; the People, Their Customs and Characteristics; to Which Are Added Chapters on British Honduras and the Republic of Honduras, with References to the Other Countries of Central America, Salvador, Nicaragua, and Costa Rica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

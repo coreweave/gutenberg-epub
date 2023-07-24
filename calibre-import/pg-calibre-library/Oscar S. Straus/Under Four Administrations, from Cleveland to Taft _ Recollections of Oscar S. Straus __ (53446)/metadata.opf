@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e1a0818-be98-48de-90ed-367fa9dddf59</dc:identifier>
+        <dc:title>Under Four Administrations, from Cleveland to Taft / Recollections of Oscar S. Straus ...</dc:title>
+        <dc:creator opf:file-as="Straus, Oscar S. (Oscar Solomon)" opf:role="aut">Oscar S. Straus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39144</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 20th century</dc:subject>
+        <dc:subject>United States -- Politics and government -- 19th century</dc:subject>
+        <dc:subject>Straus</dc:subject>
+        <dc:subject>Oscar S. (Oscar Solomon)</dc:subject>
+        <dc:subject>1850-1926</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar S. Straus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:46:58.172940+00:00"/>
+        <meta name="calibre:title_sort" content="Under Four Administrations, from Cleveland to Taft / Recollections of Oscar S. Straus ..."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

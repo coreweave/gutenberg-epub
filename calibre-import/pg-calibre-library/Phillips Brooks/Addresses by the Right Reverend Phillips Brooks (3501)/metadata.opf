@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da848acc-aeda-492a-8fb1-87c39c17844c</dc:identifier>
+        <dc:title>Addresses by the Right Reverend Phillips Brooks</dc:title>
+        <dc:creator opf:file-as="Brooks, Phillips" opf:role="aut">Phillips Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14497</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Sermons</dc:subject>
+        <dc:subject>Episcopal Church -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Phillips Brooks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:23:37.440667+00:00"/>
+        <meta name="calibre:title_sort" content="Addresses by the Right Reverend Phillips Brooks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

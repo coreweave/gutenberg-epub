@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89c75a90-b6ab-4546-8e1f-69cd7d36fea7</dc:identifier>
+        <dc:title>Boy Labour and Apprenticeship</dc:title>
+        <dc:creator opf:file-as="Bray, Reginald Arthur" opf:role="aut">Reginald Arthur Bray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39291</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Working class -- Great Britain</dc:subject>
+        <dc:subject>Apprenticeship programs -- Great Britain</dc:subject>
+        <dc:subject>Child labor -- Great Britain</dc:subject>
+        <dc:subject>Youth -- Employment -- Great Britain</dc:subject>
+        <dc:subject>Teenage boys -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reginald Arthur Bray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:32:42.163492+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Labour and Apprenticeship"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

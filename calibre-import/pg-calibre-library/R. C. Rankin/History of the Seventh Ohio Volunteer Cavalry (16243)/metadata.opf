@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2eab031a-af7d-4300-bfe4-2084a04e9ad7</dc:identifier>
+        <dc:title>History of the Seventh Ohio Volunteer Cavalry</dc:title>
+        <dc:creator opf:file-as="Rankin, R. C. (Richard C.)" opf:role="aut">R. C. Rankin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31584</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>United States. Army. Ohio Cavalry Regiment</dc:subject>
+        <dc:subject>7th (1862-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. C. Rankin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:53:11.679542+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Seventh Ohio Volunteer Cavalry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

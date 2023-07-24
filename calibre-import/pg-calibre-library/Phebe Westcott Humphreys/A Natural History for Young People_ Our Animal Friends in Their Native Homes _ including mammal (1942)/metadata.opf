@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0e0633e-c8c0-4d86-9b04-27fd85e6efc3</dc:identifier>
+        <dc:title>A Natural History for Young People: Our Animal Friends in Their Native Homes / including mammals, birds and fishes</dc:title>
+        <dc:creator opf:file-as="Humphreys, Phebe Westcott" opf:role="aut">Phebe Westcott Humphreys</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50776</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Phebe Westcott Humphreys&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:10.931667+00:00"/>
+        <meta name="calibre:title_sort" content="Natural History for Young People: Our Animal Friends in Their Native Homes / including mammals, birds and fishes, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

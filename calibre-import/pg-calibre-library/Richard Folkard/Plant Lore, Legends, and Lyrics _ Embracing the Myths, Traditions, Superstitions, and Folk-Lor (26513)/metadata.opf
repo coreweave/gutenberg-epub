@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">928fa6da-a45a-40ec-b116-25b7b2e90b55</dc:identifier>
+        <dc:title>Plant Lore, Legends, and Lyrics / Embracing the Myths, Traditions, Superstitions, and Folk-Lore of the Plant Kingdom</dc:title>
+        <dc:creator opf:file-as="Folkard, Richard" opf:role="aut">Richard Folkard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44638</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plants -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Folkard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:33:53.982196+00:00"/>
+        <meta name="calibre:title_sort" content="Plant Lore, Legends, and Lyrics / Embracing the Myths, Traditions, Superstitions, and Folk-Lore of the Plant Kingdom"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

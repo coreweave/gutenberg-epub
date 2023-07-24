@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">467c54d7-1d0d-425f-b12b-7b5d0bfd5db7</dc:identifier>
+        <dc:title>A Collection of Seven and Fifty approved Receipts Good against the Plague / Taken out of the five books of that renowned Dr. Don Alexes secrets, for the benefit of the poorer sort of people of these nations.</dc:title>
+        <dc:creator opf:file-as="Alessio, Piemontese" opf:role="aut">Piemontese Alessio</dc:creator>
+        <dc:creator opf:file-as="Alessio, Piemontese" opf:role="aut">W. J.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61703</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plague -- Prevention -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Piemontese Alessio&quot;: &quot;&quot;, &quot;W. J.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:36:18.030183+00:00"/>
+        <meta name="calibre:title_sort" content="Collection of Seven and Fifty approved Receipts Good against the Plague / Taken out of the five books of that renowned Dr. Don Alexes secrets, for the benefit of the poorer sort of people of these nations., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

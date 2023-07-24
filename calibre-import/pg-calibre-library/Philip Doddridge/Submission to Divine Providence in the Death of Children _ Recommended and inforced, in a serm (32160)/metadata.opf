@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84a8460d-29f9-4955-af71-5efbb262e42f</dc:identifier>
+        <dc:title>Submission to Divine Providence in the Death of Children / Recommended and inforced, in a sermon preached at / Northampton, on the death of a very amiable and hopeful / child, about five years old</dc:title>
+        <dc:creator opf:file-as="Doddridge, Philip" opf:role="aut">Philip Doddridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26097</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 18th century</dc:subject>
+        <dc:subject>Death -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Doddridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:55:49.986208+00:00"/>
+        <meta name="calibre:title_sort" content="Submission to Divine Providence in the Death of Children / Recommended and inforced, in a sermon preached at / Northampton, on the death of a very amiable and hopeful / child, about five years old"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

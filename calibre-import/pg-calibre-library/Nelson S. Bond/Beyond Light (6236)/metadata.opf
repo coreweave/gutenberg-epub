@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a77e78f9-761d-4aaf-babc-3c3f013a409f</dc:identifier>
+        <dc:title>Beyond Light</dc:title>
+        <dc:creator opf:file-as="Bond, Nelson S." opf:role="aut">Nelson S. Bond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61826</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Engineers -- Fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <dc:subject>Venus (Planet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nelson S. Bond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:17:57.014307+00:00"/>
+        <meta name="calibre:title_sort" content="Beyond Light"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

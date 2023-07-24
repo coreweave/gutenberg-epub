@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">966f3e62-bee2-4ab8-9c0f-ae1cfdbe5896</dc:identifier>
+        <dc:title>Wood Magic: A Fable</dc:title>
+        <dc:creator opf:file-as="Jefferies, Richard" opf:role="aut">Richard Jefferies</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Fiction</dc:subject>
+        <dc:subject>Country life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Jefferies&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:51:55.457495+00:00"/>
+        <meta name="calibre:title_sort" content="Wood Magic: A Fable"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

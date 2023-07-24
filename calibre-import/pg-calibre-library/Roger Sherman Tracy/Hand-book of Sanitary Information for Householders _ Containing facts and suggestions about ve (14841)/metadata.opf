@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b55b1da4-a824-4bb1-b347-b678f34cce8f</dc:identifier>
+        <dc:title>Hand-book of Sanitary Information for Householders / Containing facts and suggestions about ventilation, drainage, care of contageous diseases, disinfection, food, and water. With appendices on disinfectants and plumbers' materials.</dc:title>
+        <dc:creator opf:file-as="Tracy, Roger Sherman" opf:role="aut">Roger Sherman Tracy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67768</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sanitation</dc:subject>
+        <dc:subject>Household</dc:subject>
+        <dc:subject>Hygiene</dc:subject>
+        <dc:subject>Food adulteration and inspection</dc:subject>
+        <dc:subject>Ventilation</dc:subject>
+        <dc:subject>Drinking water</dc:subject>
+        <dc:subject>Disinfection and disinfectants</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roger Sherman Tracy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:07:24.871712+00:00"/>
+        <meta name="calibre:title_sort" content="Hand-book of Sanitary Information for Householders / Containing facts and suggestions about ventilation, drainage, care of contageous diseases, disinfection, food, and water. With appendices on disinfectants and plumbers' materials."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

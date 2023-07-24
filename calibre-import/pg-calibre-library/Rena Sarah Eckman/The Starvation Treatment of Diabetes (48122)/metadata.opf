@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">317d2620-d6f6-4d83-8dc9-48ef7b86323a</dc:identifier>
+        <dc:title>The Starvation Treatment of Diabetes</dc:title>
+        <dc:creator opf:file-as="Eckman, Rena Sarah" opf:role="aut">Rena Sarah Eckman</dc:creator>
+        <dc:creator opf:file-as="Eckman, Rena Sarah" opf:role="aut">Lewis Webb Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Diabetes</dc:subject>
+        <dc:subject>Diet in disease</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rena Sarah Eckman&quot;: &quot;&quot;, &quot;Lewis Webb Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:10:38.184006+00:00"/>
+        <meta name="calibre:title_sort" content="Starvation Treatment of Diabetes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

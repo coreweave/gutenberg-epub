@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3d6307c-aa14-43fa-ac4c-733dc6f3d807</dc:identifier>
+        <dc:title>Adventures in Swaziland: The Story of a South African Boer</dc:title>
+        <dc:creator opf:file-as="O'Neil, Owen Rowe" opf:role="aut">Owen Rowe O'Neil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38447</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Afrikaners -- Biography</dc:subject>
+        <dc:subject>O'Neil</dc:subject>
+        <dc:subject>Owen Rowe</dc:subject>
+        <dc:subject>Swaziland -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Owen Rowe O'Neil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:24:52.924639+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures in Swaziland: The Story of a South African Boer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

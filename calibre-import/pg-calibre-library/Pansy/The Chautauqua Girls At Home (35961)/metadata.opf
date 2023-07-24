@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8adbb546-5ac0-482f-872e-756f53e74d75</dc:identifier>
+        <dc:title>The Chautauqua Girls At Home</dc:title>
+        <dc:creator opf:file-as="Pansy" opf:role="aut">Pansy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26742</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Fiction</dc:subject>
+        <dc:subject>Physicians -- Fiction</dc:subject>
+        <dc:subject>Sisters -- Fiction</dc:subject>
+        <dc:subject>Conduct of life -- Fiction</dc:subject>
+        <dc:subject>Soldiers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pansy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:02:31.629463+00:00"/>
+        <meta name="calibre:title_sort" content="Chautauqua Girls At Home, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

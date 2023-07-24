@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">693f60b2-15fc-453a-aae8-90e53069d73c</dc:identifier>
+        <dc:title>The Love of Azalea</dc:title>
+        <dc:creator opf:file-as="Watanna, Onoto" opf:role="aut">Onoto Watanna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64861</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Clergy -- Fiction</dc:subject>
+        <dc:subject>Japan -- Fiction</dc:subject>
+        <dc:subject>Husband and wife -- Fiction</dc:subject>
+        <dc:subject>East and West -- Fiction</dc:subject>
+        <dc:subject>Americans -- Japan -- Fiction</dc:subject>
+        <dc:subject>Stepdaughters -- Fiction</dc:subject>
+        <dc:subject>Missions -- Japan -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Onoto Watanna&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:01:50.401526+00:00"/>
+        <meta name="calibre:title_sort" content="Love of Azalea, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

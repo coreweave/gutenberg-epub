@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61d684a6-428a-4188-aff4-62b28252efed</dc:identifier>
+        <dc:title>Domestic Animals / History and description of the horse, mule, cattle, sheep, swine, poultry and farm dogs; with directions for their management, breeding, crossing, rearing, feeding, and preparation for a profitable market; also their diseases and remedies. Together with full directions for the management of the dairy.</dc:title>
+        <dc:creator opf:file-as="Allen, Richard Lamb" opf:role="aut">Richard Lamb Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34175</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Domestic animals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Lamb Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:07:30.741692+00:00"/>
+        <meta name="calibre:title_sort" content="Domestic Animals / History and description of the horse, mule, cattle, sheep, swine, poultry and farm dogs; with directions for their management, breeding, crossing, rearing, feeding, and preparation for a profitable market; also their diseases and remedies. Together with full directions for the management of the dairy."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

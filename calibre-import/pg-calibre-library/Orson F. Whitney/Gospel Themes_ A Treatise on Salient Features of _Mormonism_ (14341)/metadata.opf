@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ace10d2-34e4-4c5c-aa92-8616db24f845</dc:identifier>
+        <dc:title>Gospel Themes: A Treatise on Salient Features of "Mormonism"</dc:title>
+        <dc:creator opf:file-as="Whitney, Orson F. (Orson Ferguson)" opf:role="aut">Orson F. Whitney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50536</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormon Church -- Doctrines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Orson F. Whitney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:51:29.126014+00:00"/>
+        <meta name="calibre:title_sort" content="Gospel Themes: A Treatise on Salient Features of &quot;Mormonism&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

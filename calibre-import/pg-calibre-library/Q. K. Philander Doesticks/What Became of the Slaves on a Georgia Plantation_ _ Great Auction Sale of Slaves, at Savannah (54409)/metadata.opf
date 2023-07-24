@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24dfd838-6f43-47b6-b156-4a435b747ed5</dc:identifier>
+        <dc:title>What Became of the Slaves on a Georgia Plantation? / Great Auction Sale of Slaves, at Savannah, Georgia, March 2d &amp; 3d, 1859</dc:title>
+        <dc:creator opf:file-as="Doesticks, Q. K. Philander" opf:role="aut">Q. K. Philander Doesticks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64804</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- Georgia</dc:subject>
+        <dc:subject>Slave trade -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Q. K. Philander Doesticks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:49:16.850397+00:00"/>
+        <meta name="calibre:title_sort" content="What Became of the Slaves on a Georgia Plantation? / Great Auction Sale of Slaves, at Savannah, Georgia, March 2d &amp; 3d, 1859"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

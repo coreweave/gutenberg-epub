@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7605a67-160a-4a6f-990e-acc672a16a78</dc:identifier>
+        <dc:title>Recollections and Letters of General Robert E. Lee</dc:title>
+        <dc:creator opf:file-as="Lee, Robert E. (Robert Edward)" opf:role="aut">Robert E. Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2323</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- United States -- Biography</dc:subject>
+        <dc:subject>Lee</dc:subject>
+        <dc:subject>Robert E. (Robert Edward)</dc:subject>
+        <dc:subject>1807-1870</dc:subject>
+        <dc:subject>Generals -- Confederate States of America -- Biography</dc:subject>
+        <dc:subject>1807-1870 -- Correspondence</dc:subject>
+        <dc:subject>1843-1914</dc:subject>
+        <dc:subject>Lee family</dc:subject>
+        <dc:subject>Confederate States of America. Army -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert E. Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:59:18.512040+00:00"/>
+        <meta name="calibre:title_sort" content="Recollections and Letters of General Robert E. Lee"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

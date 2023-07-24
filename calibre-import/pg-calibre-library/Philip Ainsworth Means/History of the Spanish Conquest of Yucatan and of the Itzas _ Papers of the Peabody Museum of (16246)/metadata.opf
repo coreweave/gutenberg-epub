@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00a35d43-cf4f-4b9c-8d84-5b9b6ac31f4d</dc:identifier>
+        <dc:title>History of the Spanish Conquest of Yucatan and of the Itzas / Papers of the Peabody Museum of American Archaeology and Ethnology, Hard University. Vol. VII.</dc:title>
+        <dc:creator opf:file-as="Means, Philip Ainsworth" opf:role="aut">Philip Ainsworth Means</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33231</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Itza Indians</dc:subject>
+        <dc:subject>Yucatán (Mexico : State) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Ainsworth Means&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:53:17.582901+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Spanish Conquest of Yucatan and of the Itzas / Papers of the Peabody Museum of American Archaeology and Ethnology, Hard University. Vol. VII."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

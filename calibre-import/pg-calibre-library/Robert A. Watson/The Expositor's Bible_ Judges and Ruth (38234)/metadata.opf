@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a55a5939-415c-4f57-afc4-0783e55f5cb1</dc:identifier>
+        <dc:title>The Expositor's Bible: Judges and Ruth</dc:title>
+        <dc:creator opf:file-as="Watson, Robert A. (Robert Alexander)" opf:role="aut">Robert A. Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39727</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Judges -- Commentaries</dc:subject>
+        <dc:subject>Bible. Ruth -- Commentaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert A. Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:58:37.244357+00:00"/>
+        <meta name="calibre:title_sort" content="Expositor's Bible: Judges and Ruth, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

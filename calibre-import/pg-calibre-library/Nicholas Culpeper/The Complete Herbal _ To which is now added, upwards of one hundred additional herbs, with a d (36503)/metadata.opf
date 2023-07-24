@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ef3e987-2cf0-4516-968a-2ef88230ed12</dc:identifier>
+        <dc:title>The Complete Herbal / To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic.</dc:title>
+        <dc:creator opf:file-as="Culpeper, Nicholas" opf:role="aut">Nicholas Culpeper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Botany</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Materia medica</dc:subject>
+        <dc:subject>Vegetable</dc:subject>
+        <dc:subject>Medicinal plants -- England</dc:subject>
+        <dc:subject>Medical -- England</dc:subject>
+        <dc:subject>Herbs -- Therapeutic use</dc:subject>
+        <dc:subject>Medicinal plants</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicholas Culpeper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:29:41.086937+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Herbal / To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

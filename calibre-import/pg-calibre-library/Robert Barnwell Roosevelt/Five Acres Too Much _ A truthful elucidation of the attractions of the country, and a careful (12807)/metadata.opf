@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43984ddf-8b13-402c-bc9c-d0db969bda9c</dc:identifier>
+        <dc:title>Five Acres Too Much / A truthful elucidation of the attractions of the country, and a careful consideration of the question of profit and loss as involved in amateur farming, with much valuable advice and instruction to those about purchasing large or small places in the rural districts</dc:title>
+        <dc:creator opf:file-as="Roosevelt, Robert Barnwell" opf:role="aut">Robert Barnwell Roosevelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55220</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Country life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Barnwell Roosevelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:05:12.741195+00:00"/>
+        <meta name="calibre:title_sort" content="Five Acres Too Much / A truthful elucidation of the attractions of the country, and a careful consideration of the question of profit and loss as involved in amateur farming, with much valuable advice and instruction to those about purchasing large or small places in the rural districts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

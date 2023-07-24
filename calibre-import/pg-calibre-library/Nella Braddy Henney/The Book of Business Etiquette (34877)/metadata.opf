@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e61dda90-1727-480c-8e20-45ddb8aef9cc</dc:identifier>
+        <dc:title>The Book of Business Etiquette</dc:title>
+        <dc:creator opf:file-as="Henney, Nella Braddy" opf:role="aut">Nella Braddy Henney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23025</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Etiquette</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nella Braddy Henney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:08:34.885098+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Business Etiquette, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

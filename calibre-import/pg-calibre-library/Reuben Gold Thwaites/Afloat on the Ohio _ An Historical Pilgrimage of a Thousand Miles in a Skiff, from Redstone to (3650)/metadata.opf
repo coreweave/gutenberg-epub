@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f30eff89-f283-492b-982d-eeb72ad1b365</dc:identifier>
+        <dc:title>Afloat on the Ohio / An Historical Pilgrimage of a Thousand Miles in a Skiff, from Redstone to Cairo</dc:title>
+        <dc:creator opf:file-as="Thwaites, Reuben Gold" opf:role="aut">Reuben Gold Thwaites</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29306</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thwaites</dc:subject>
+        <dc:subject>Reuben Gold</dc:subject>
+        <dc:subject>1853-1913 -- Travel -- Ohio River</dc:subject>
+        <dc:subject>Ohio River Valley -- Social life and customs</dc:subject>
+        <dc:subject>Skiffs -- Ohio River -- History -- 19th century</dc:subject>
+        <dc:subject>Ohio River -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reuben Gold Thwaites&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:20.356459+00:00"/>
+        <meta name="calibre:title_sort" content="Afloat on the Ohio / An Historical Pilgrimage of a Thousand Miles in a Skiff, from Redstone to Cairo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

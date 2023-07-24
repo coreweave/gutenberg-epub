@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b320258f-9f38-4974-92fb-3ec85df90ca5</dc:identifier>
+        <dc:title>The Brother of a Hero</dc:title>
+        <dc:creator opf:file-as="Barbour, Ralph Henry" opf:role="aut">Ralph Henry Barbour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63297</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Football -- Juvenile fiction</dc:subject>
+        <dc:subject>Teenage boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Boarding schools -- Juvenile fiction</dc:subject>
+        <dc:subject>New York (State) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Henry Barbour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:37:05.035666+00:00"/>
+        <meta name="calibre:title_sort" content="Brother of a Hero, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

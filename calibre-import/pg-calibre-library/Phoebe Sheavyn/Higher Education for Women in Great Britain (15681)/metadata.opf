@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15681</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f55bdcad-b3da-4b33-a588-c168de67f11c</dc:identifier>
+        <dc:title>Higher Education for Women in Great Britain</dc:title>
+        <dc:creator opf:file-as="Sheavyn, Phoebe" opf:role="aut">Phoebe Sheavyn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50840</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Education (Higher) -- Great Britain</dc:subject>
+        <dc:subject>Women college students -- Great Britain</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Higher -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Phoebe Sheavyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:34:33.544515+00:00"/>
+        <meta name="calibre:title_sort" content="Higher Education for Women in Great Britain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

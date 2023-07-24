@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b27f3dc4-9e66-4b46-ba21-42e1996a56c6</dc:identifier>
+        <dc:title>Jean-Christophe Journey's End</dc:title>
+        <dc:creator opf:file-as="Rolland, Romain" opf:role="aut">Romain Rolland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7967</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Composers -- Fiction</dc:subject>
+        <dc:subject>Europe -- Fiction</dc:subject>
+        <dc:subject>Epic literature</dc:subject>
+        <dc:subject>French fiction -- Translations into English</dc:subject>
+        <dc:subject>Musicians -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Romain Rolland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:01:08.765960+00:00"/>
+        <meta name="calibre:title_sort" content="Jean-Christophe Journey's End"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26049</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">baec95ea-1db9-46d2-8a70-58d5b7778372</dc:identifier>
+        <dc:title>Perils and Captivity / Comprising The sufferings of the Picard family after the shipwreck of the Medusa, in the year 1816; Narrative of the captivity of M. de Brisson, in the year 1785; Voyage of Madame Godin along the river of the Amazons, in the year 1770.</dc:title>
+        <dc:creator opf:file-as="Brisson, Pierre-Raymond de" opf:role="aut">Pierre-Raymond de Brisson</dc:creator>
+        <dc:creator opf:file-as="Brisson, Pierre-Raymond de" opf:role="aut">Charlotte-Adelaïde Dard</dc:creator>
+        <dc:creator opf:file-as="Brisson, Pierre-Raymond de" opf:role="aut">Jean Godin des Odonais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22792</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Méduse (Ship)</dc:subject>
+        <dc:subject>Picard family</dc:subject>
+        <dc:subject>Godin des Odonais</dc:subject>
+        <dc:subject>Isabelle de Grandmaison</dc:subject>
+        <dc:subject>1728?-</dc:subject>
+        <dc:subject>Shipwrecks -- South Atlantic Ocean</dc:subject>
+        <dc:subject>Amazon River -- Description and travel</dc:subject>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>North -- Social life and customs -- 18th century</dc:subject>
+        <dc:subject>French-speaking West -- Social life and customs -- 18th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre-Raymond de Brisson&quot;: &quot;&quot;, &quot;Charlotte-Adelaïde Dard&quot;: &quot;&quot;, &quot;Jean Godin des Odonais&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:12:49.093735+00:00"/>
+        <meta name="calibre:title_sort" content="Perils and Captivity / Comprising The sufferings of the Picard family after the shipwreck of the Medusa, in the year 1816; Narrative of the captivity of M. de Brisson, in the year 1785; Voyage of Madame Godin along the river of the Amazons, in the year 1770."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

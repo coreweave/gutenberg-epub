@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5cce8df-d127-4960-bfcf-a5c598037cb0</dc:identifier>
+        <dc:title>The Book of Buried Treasure / Being a True History of the Gold, Jewels, and Plate of Pirates, Galleons, etc., which are sought for to this day</dc:title>
+        <dc:creator opf:file-as="Paine, Ralph Delahaye" opf:role="aut">Ralph Delahaye Paine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33318</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Treasure troves</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Delahaye Paine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:08:31.490539+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Buried Treasure / Being a True History of the Gold, Jewels, and Plate of Pirates, Galleons, etc., which are sought for to this day, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

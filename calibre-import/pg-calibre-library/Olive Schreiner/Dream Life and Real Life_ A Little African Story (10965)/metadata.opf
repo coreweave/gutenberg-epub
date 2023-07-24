@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd7cc23e-193b-4633-b06c-5d6a96aa7ad1</dc:identifier>
+        <dc:title>Dream Life and Real Life: A Little African Story</dc:title>
+        <dc:creator opf:file-as="Schreiner, Olive" opf:role="aut">Olive Schreiner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1458</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Olive Schreiner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:13:49.927567+00:00"/>
+        <meta name="calibre:title_sort" content="Dream Life and Real Life: A Little African Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

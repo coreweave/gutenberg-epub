@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41051</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1302c2ec-040f-4a46-9f28-91a4c46370a8</dc:identifier>
+        <dc:title>The Intimate Letters of Hester Piozzi and Penelope Pennington, 1788-1821</dc:title>
+        <dc:creator opf:file-as="Pennington, Penelope" opf:role="aut">Penelope Pennington</dc:creator>
+        <dc:creator opf:file-as="Pennington, Penelope" opf:role="aut">Hester Lynch Piozzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 18th century -- Correspondence</dc:subject>
+        <dc:subject>England -- Social life and customs -- 18th century</dc:subject>
+        <dc:subject>Piozzi</dc:subject>
+        <dc:subject>Hester Lynch</dc:subject>
+        <dc:subject>1741-1821 -- Correspondence</dc:subject>
+        <dc:subject>Pennington</dc:subject>
+        <dc:subject>Penelope -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Penelope Pennington&quot;: &quot;&quot;, &quot;Hester Lynch Piozzi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:27:17.053182+00:00"/>
+        <meta name="calibre:title_sort" content="Intimate Letters of Hester Piozzi and Penelope Pennington, 1788-1821, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

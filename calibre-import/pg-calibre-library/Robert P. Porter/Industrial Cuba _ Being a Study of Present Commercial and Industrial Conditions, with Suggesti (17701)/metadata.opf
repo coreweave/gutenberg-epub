@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17701</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6cca6a1-7c18-4633-8ff9-d4be1966424b</dc:identifier>
+        <dc:title>Industrial Cuba / Being a Study of Present Commercial and Industrial Conditions, with Suggestions as to the Opportunities Presented in the Island for American Capital, Enterprise, and Labour</dc:title>
+        <dc:creator opf:file-as="Porter, Robert P. (Robert Percival)" opf:role="aut">Robert P. Porter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41463</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cuba -- Description and travel</dc:subject>
+        <dc:subject>Cuba -- Economic conditions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert P. Porter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:42:31.039711+00:00"/>
+        <meta name="calibre:title_sort" content="Industrial Cuba / Being a Study of Present Commercial and Industrial Conditions, with Suggestions as to the Opportunities Presented in the Island for American Capital, Enterprise, and Labour"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

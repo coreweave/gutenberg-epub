@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6055</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79601c6e-7e88-448b-827a-470126952451</dc:identifier>
+        <dc:title>Bell's Cathedrals: The Cathedral Church of Wells / A Description of Its Fabric and a Brief History of the Episcopal See</dc:title>
+        <dc:creator opf:file-as="Dearmer, Percy" opf:role="aut">Percy Dearmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32280</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wells Cathedral</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percy Dearmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:14:06.867310+00:00"/>
+        <meta name="calibre:title_sort" content="Bell's Cathedrals: The Cathedral Church of Wells / A Description of Its Fabric and a Brief History of the Episcopal See"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

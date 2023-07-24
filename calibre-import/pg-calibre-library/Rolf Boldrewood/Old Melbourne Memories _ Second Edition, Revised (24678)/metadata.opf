@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ac1621f-e2fa-47fc-9e32-00c81652dcd3</dc:identifier>
+        <dc:title>Old Melbourne Memories / Second Edition, Revised</dc:title>
+        <dc:creator opf:file-as="Boldrewood, Rolf" opf:role="aut">Rolf Boldrewood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Victoria -- Description and travel</dc:subject>
+        <dc:subject>Victoria -- Social life and customs</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Australia -- Melbourne (Vic.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rolf Boldrewood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:15:00.775766+00:00"/>
+        <meta name="calibre:title_sort" content="Old Melbourne Memories / Second Edition, Revised"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

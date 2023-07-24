@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66938356-dc41-44b2-bc95-2bb796ed0aaa</dc:identifier>
+        <dc:title>The Extant Odes of Pindar / Translated with Introduction and Short Notes by Ernest Myers</dc:title>
+        <dc:creator opf:file-as="Pindar" opf:role="aut">Pindar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10717</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pindar -- Translations into English</dc:subject>
+        <dc:subject>Laudatory poetry</dc:subject>
+        <dc:subject>Greek -- Translations into English</dc:subject>
+        <dc:subject>Olympic games (Ancient) -- Poetry</dc:subject>
+        <dc:subject>Athletics -- Greece -- Poetry</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Greek -- Poetry</dc:subject>
+        <dc:subject>Games -- Greece -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pindar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:00:59.384681+00:00"/>
+        <meta name="calibre:title_sort" content="Extant Odes of Pindar / Translated with Introduction and Short Notes by Ernest Myers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

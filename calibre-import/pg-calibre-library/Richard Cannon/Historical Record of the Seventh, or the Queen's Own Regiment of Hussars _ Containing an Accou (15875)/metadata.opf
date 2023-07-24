@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15875</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebe50f1d-9c68-4ee6-94a9-91a3d4f17524</dc:identifier>
+        <dc:title>Historical Record of the Seventh, or the Queen's Own Regiment of Hussars / Containing an Account of the Origin of the Regiment in 1690, and of Its Subsequent Services to 1842</dc:title>
+        <dc:creator opf:file-as="Cannon, Richard" opf:role="aut">Richard Cannon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army. Queen's Own Hussars</dc:subject>
+        <dc:subject>7th</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Cannon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:41:01.085792+00:00"/>
+        <meta name="calibre:title_sort" content="Historical Record of the Seventh, or the Queen's Own Regiment of Hussars / Containing an Account of the Origin of the Regiment in 1690, and of Its Subsequent Services to 1842"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

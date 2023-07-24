@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3954</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6a1a072-2bf0-4f9c-8707-55ab02e6394b</dc:identifier>
+        <dc:title>Amadis of Gaul, an opera / As it is perform'd at the King's Theatre in the Hay-market</dc:title>
+        <dc:creator opf:file-as="Haym, Nicola Francesco" opf:role="aut">Nicola Francesco Haym</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17440</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>ita</dc:language>
+        <dc:subject>Operas -- Librettos</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicola Francesco Haym&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:31:57.576680+00:00"/>
+        <meta name="calibre:title_sort" content="Amadis of Gaul, an opera / As it is perform'd at the King's Theatre in the Hay-market"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

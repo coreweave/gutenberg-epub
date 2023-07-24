@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d8cff2d-f435-4180-aa73-998243e2d72b</dc:identifier>
+        <dc:title>Free from School</dc:title>
+        <dc:creator opf:file-as="Alvares, Rahul" opf:role="aut">Rahul Alvares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10347</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alvares</dc:subject>
+        <dc:subject>Rahul</dc:subject>
+        <dc:subject>Natural history -- India -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rahul Alvares&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:24:10.958875+00:00"/>
+        <meta name="calibre:title_sort" content="Free from School"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

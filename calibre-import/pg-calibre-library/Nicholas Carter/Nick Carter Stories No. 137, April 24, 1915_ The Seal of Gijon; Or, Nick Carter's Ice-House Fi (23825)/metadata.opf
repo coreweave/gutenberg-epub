@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">856393c3-29fc-4c9b-be69-50ce1b63d6f6</dc:identifier>
+        <dc:title>Nick Carter Stories No. 137, April 24, 1915: The Seal of Gijon; Or, Nick Carter's Ice-House Fight</dc:title>
+        <dc:creator opf:file-as="Carter, Nicholas (House name)" opf:role="aut">Nicholas Carter</dc:creator>
+        <dc:creator opf:file-as="Carter, Nicholas (House name)" opf:role="aut">Roland Ashford Phillips</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66986</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Popular literature -- Periodicals</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>American -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicholas Carter&quot;: &quot;&quot;, &quot;Roland Ashford Phillips&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:38:41.703667+00:00"/>
+        <meta name="calibre:title_sort" content="Nick Carter Stories No. 137, April 24, 1915: The Seal of Gijon; Or, Nick Carter's Ice-House Fight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

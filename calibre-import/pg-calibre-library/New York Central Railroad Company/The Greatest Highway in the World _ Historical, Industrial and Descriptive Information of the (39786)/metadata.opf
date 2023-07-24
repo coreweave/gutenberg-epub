@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13c35921-5c6d-4aa9-9f21-73d1cb2f4216</dc:identifier>
+        <dc:title>The Greatest Highway in the World / Historical, Industrial and Descriptive Information of the Towns, Cities and Country Passed Through Between New York and Chicago Via the New York Central Lines. Based on the Encyclopaedia Britannica.</dc:title>
+        <dc:creator opf:file-as="New York Central Railroad Company" opf:role="aut">New York Central Railroad Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27701</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (State) -- Guidebooks</dc:subject>
+        <dc:subject>Ohio -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;New York Central Railroad Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:19:29.032837+00:00"/>
+        <meta name="calibre:title_sort" content="Greatest Highway in the World / Historical, Industrial and Descriptive Information of the Towns, Cities and Country Passed Through Between New York and Chicago Via the New York Central Lines. Based on the Encyclopaedia Britannica., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

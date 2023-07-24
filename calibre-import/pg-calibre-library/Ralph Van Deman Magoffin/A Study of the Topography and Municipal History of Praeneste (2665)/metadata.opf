@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef6358bb-81c7-4538-8b6a-1a9e1163eed6</dc:identifier>
+        <dc:title>A Study of the Topography and Municipal History of Praeneste</dc:title>
+        <dc:creator opf:file-as="Magoffin, Ralph Van Deman" opf:role="aut">Ralph Van Deman Magoffin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12770</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Palestrina (Italy)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Van Deman Magoffin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:08:28.203116+00:00"/>
+        <meta name="calibre:title_sort" content="Study of the Topography and Municipal History of Praeneste, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

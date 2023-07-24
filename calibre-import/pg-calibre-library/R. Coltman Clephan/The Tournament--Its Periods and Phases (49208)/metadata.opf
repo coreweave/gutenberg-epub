@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">503f009b-d28e-4ac0-8b0f-8f53310b693b</dc:identifier>
+        <dc:title>The Tournament—Its Periods and Phases</dc:title>
+        <dc:creator opf:file-as="Clephan, R. Coltman (Robert Coltman)" opf:role="aut">R. Coltman Clephan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64928</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Military art and science -- History -- Medieval</dc:subject>
+        <dc:subject>500-1500</dc:subject>
+        <dc:subject>Tournaments</dc:subject>
+        <dc:subject>Medieval -- History</dc:subject>
+        <dc:subject>Knights and knighthood -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. Coltman Clephan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:16:26.857740+00:00"/>
+        <meta name="calibre:title_sort" content="Tournament—Its Periods and Phases, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

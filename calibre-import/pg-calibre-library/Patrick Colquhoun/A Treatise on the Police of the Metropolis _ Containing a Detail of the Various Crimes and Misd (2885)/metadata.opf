@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1568a79-a49c-44cd-8791-d1615923292b</dc:identifier>
+        <dc:title>A Treatise on the Police of the Metropolis / Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security are, at Present, Injured and Endangered: and Suggesting Remedies for their Prevention</dc:title>
+        <dc:creator opf:file-as="Colquhoun, Patrick" opf:role="aut">Patrick Colquhoun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35650</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crime -- England -- London</dc:subject>
+        <dc:subject>Police -- England -- London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Patrick Colquhoun&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:21.307979+00:00"/>
+        <meta name="calibre:title_sort" content="Treatise on the Police of the Metropolis / Containing a Detail of the Various Crimes and Misdemeanors by which Public and Private Property and Security are, at Present, Injured and Endangered: and Suggesting Remedies for their Prevention, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

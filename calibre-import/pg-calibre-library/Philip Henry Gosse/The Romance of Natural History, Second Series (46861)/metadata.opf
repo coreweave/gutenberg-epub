@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b287a434-b81b-4ba8-9902-600d7f4b4e8d</dc:identifier>
+        <dc:title>The Romance of Natural History, Second Series</dc:title>
+        <dc:creator opf:file-as="Gosse, Philip Henry" opf:role="aut">Philip Henry Gosse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32800</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Henry Gosse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:56:04.989616+00:00"/>
+        <meta name="calibre:title_sort" content="Romance of Natural History, Second Series, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

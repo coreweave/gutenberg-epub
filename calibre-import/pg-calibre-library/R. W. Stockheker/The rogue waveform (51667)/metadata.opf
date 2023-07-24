@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f95c714b-6ba1-47b7-8cff-1dae86d3ad10</dc:identifier>
+        <dc:title>The rogue waveform</dc:title>
+        <dc:creator opf:file-as="Stockheker, R. W." opf:role="aut">R. W. Stockheker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Scientists -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Wrestlers -- Fiction</dc:subject>
+        <dc:subject>Personality -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. W. Stockheker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:53:12.706382+00:00"/>
+        <meta name="calibre:title_sort" content="rogue waveform, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

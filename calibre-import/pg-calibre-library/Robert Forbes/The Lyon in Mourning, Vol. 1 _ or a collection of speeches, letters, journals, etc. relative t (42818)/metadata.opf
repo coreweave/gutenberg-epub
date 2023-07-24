@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42818</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd6c92bc-17a8-499a-91b2-3c9d6c0516ba</dc:identifier>
+        <dc:title>The Lyon in Mourning, Vol. 1 / or a collection of speeches, letters, journals, etc. relative to the affairs of Prince Charles Edward Stuart</dc:title>
+        <dc:creator opf:file-as="Forbes, Robert" opf:role="aut">Robert Forbes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43222</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Charles Edward</dc:subject>
+        <dc:subject>Prince</dc:subject>
+        <dc:subject>grandson of James II</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1720-1788</dc:subject>
+        <dc:subject>Jacobite Rebellion</dc:subject>
+        <dc:subject>1745-1746 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Forbes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:04:57.163662+00:00"/>
+        <meta name="calibre:title_sort" content="Lyon in Mourning, Vol. 1 / or a collection of speeches, letters, journals, etc. relative to the affairs of Prince Charles Edward Stuart, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

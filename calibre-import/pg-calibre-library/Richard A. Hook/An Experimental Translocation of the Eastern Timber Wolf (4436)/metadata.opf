@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40f56746-70ec-44f4-9863-2af117608603</dc:identifier>
+        <dc:title>An Experimental Translocation of the Eastern Timber Wolf</dc:title>
+        <dc:creator opf:file-as="Hook, Richard A." opf:role="aut">Richard A. Hook</dc:creator>
+        <dc:creator opf:file-as="Hook, Richard A." opf:role="aut">L. David Mech</dc:creator>
+        <dc:creator opf:file-as="Hook, Richard A." opf:role="aut">William Laughlin Robinson</dc:creator>
+        <dc:creator opf:file-as="Hook, Richard A." opf:role="aut">Thomas F. Weise</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35006</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gray wolf -- Reintroduction -- Michigan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard A. Hook&quot;: &quot;&quot;, &quot;L. David Mech&quot;: &quot;&quot;, &quot;William Laughlin Robinson&quot;: &quot;&quot;, &quot;Thomas F. Weise&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:41:07.046266+00:00"/>
+        <meta name="calibre:title_sort" content="Experimental Translocation of the Eastern Timber Wolf, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

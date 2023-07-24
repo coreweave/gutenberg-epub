@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fa7996f-cf46-4d7f-a687-10b6bd24acd2</dc:identifier>
+        <dc:title>Zodiac Town / The Rhymes of Amos and Ann</dc:title>
+        <dc:creator opf:file-as="Turner, Nancy Byrd" opf:role="aut">Nancy Byrd Turner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Months -- Juvenile poetry</dc:subject>
+        <dc:subject>Poetry -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nancy Byrd Turner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:16:15.982718+00:00"/>
+        <meta name="calibre:title_sort" content="Zodiac Town / The Rhymes of Amos and Ann"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

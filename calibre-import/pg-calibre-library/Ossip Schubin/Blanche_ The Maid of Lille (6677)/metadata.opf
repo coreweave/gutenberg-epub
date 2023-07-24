@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2283b19d-2d50-4d03-a49d-5a35b55e6c53</dc:identifier>
+        <dc:title>Blanche: The Maid of Lille</dc:title>
+        <dc:creator opf:file-as="Schubin, Ossip" opf:role="aut">Ossip Schubin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35385</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Austrian fiction -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ossip Schubin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:27:38.164228+00:00"/>
+        <meta name="calibre:title_sort" content="Blanche: The Maid of Lille"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

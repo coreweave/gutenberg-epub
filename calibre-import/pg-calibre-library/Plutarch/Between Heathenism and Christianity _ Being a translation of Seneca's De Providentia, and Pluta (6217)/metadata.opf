@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3bc74ec-2c37-47a8-9bf7-aff059da514b</dc:identifier>
+        <dc:title>Between Heathenism and Christianity / Being a translation of Seneca's De Providentia, and Plutarch's De sera numinis vindicta, together with notes, additional extracts from these writers and two essays on Graeco-Roman life in the first century after Christ.</dc:title>
+        <dc:creator opf:file-as="Plutarch" opf:role="aut">Plutarch</dc:creator>
+        <dc:creator opf:file-as="Plutarch" opf:role="aut">Lucius Annaeus Seneca</dc:creator>
+        <dc:creator opf:file-as="Plutarch" opf:role="aut">Charles William Super</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60831</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stoics</dc:subject>
+        <dc:subject>Ethics -- History</dc:subject>
+        <dc:subject>Ethics -- Greece</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Plutarch&quot;: &quot;&quot;, &quot;Lucius Annaeus Seneca&quot;: &quot;&quot;, &quot;Charles William Super&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:17:33.271536+00:00"/>
+        <meta name="calibre:title_sort" content="Between Heathenism and Christianity / Being a translation of Seneca's De Providentia, and Plutarch's De sera numinis vindicta, together with notes, additional extracts from these writers and two essays on Graeco-Roman life in the first century after Christ."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

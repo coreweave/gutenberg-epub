@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">001294ec-9d6a-42ee-9226-24bd68694a84</dc:identifier>
+        <dc:title>Auguste Rodin</dc:title>
+        <dc:creator opf:file-as="Rilke, Rainer Maria" opf:role="aut">Rainer Maria Rilke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rodin</dc:subject>
+        <dc:subject>Auguste</dc:subject>
+        <dc:subject>1840-1917</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rainer Maria Rilke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:00:50.087575+00:00"/>
+        <meta name="calibre:title_sort" content="Auguste Rodin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

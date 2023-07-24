@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0badb0eb-35d6-4a19-9141-d8466a7ad53b</dc:identifier>
+        <dc:title>The Lay of the Sheriff</dc:title>
+        <dc:creator opf:file-as="Lybbe, Philip Lybbe Powys" opf:role="aut">Philip Lybbe Powys Lybbe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61121</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vanderstegen</dc:subject>
+        <dc:subject>John -- Poetry</dc:subject>
+        <dc:subject>Sheriffs -- England -- Oxfordshire -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Lybbe Powys Lybbe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:13:49.381008+00:00"/>
+        <meta name="calibre:title_sort" content="Lay of the Sheriff, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

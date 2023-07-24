@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24000</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">809f7418-8e2a-46da-91e3-7b07766e4bee</dc:identifier>
+        <dc:title>Norse mythology; or, The religion of our forefathers, containing all the myths of the Eddas, systematized and interpreted</dc:title>
+        <dc:creator opf:file-as="Anderson, Rasmus Björn" opf:role="aut">Rasmus Björn Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tales</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Norse</dc:subject>
+        <dc:subject>Old Norse literature</dc:subject>
+        <dc:subject>Northmen -- Religion</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rasmus Björn Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:46:08.329944+00:00"/>
+        <meta name="calibre:title_sort" content="Norse mythology; or, The religion of our forefathers, containing all the myths of the Eddas, systematized and interpreted"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

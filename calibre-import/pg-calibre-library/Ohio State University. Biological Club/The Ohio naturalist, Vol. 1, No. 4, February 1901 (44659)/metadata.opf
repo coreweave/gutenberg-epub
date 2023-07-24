@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99f6ea86-18e7-4376-9698-f46b10ef46cd</dc:identifier>
+        <dc:title>The Ohio naturalist, Vol. 1, No. 4, February 1901</dc:title>
+        <dc:creator opf:file-as="Ohio State University. Biological Club" opf:role="aut">Ohio State University. Biological Club</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69092</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- Periodicals</dc:subject>
+        <dc:subject>Natural history -- Periodicals</dc:subject>
+        <dc:subject>Natural history -- Ohio -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ohio State University. Biological Club&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:48:19.811489+00:00"/>
+        <meta name="calibre:title_sort" content="Ohio naturalist, Vol. 1, No. 4, February 1901, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

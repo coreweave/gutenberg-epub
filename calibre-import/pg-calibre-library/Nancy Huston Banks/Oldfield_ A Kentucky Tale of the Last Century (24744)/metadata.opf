@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5184b27-0fa8-42f6-8a19-7c1da385b3ee</dc:identifier>
+        <dc:title>Oldfield: A Kentucky Tale of the Last Century</dc:title>
+        <dc:creator opf:file-as="Banks, Nancy Huston" opf:role="aut">Nancy Huston Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35239</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kentucky -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nancy Huston Banks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:17:46.061032+00:00"/>
+        <meta name="calibre:title_sort" content="Oldfield: A Kentucky Tale of the Last Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33057</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5057d440-b65d-4f52-aaaa-4fd0fa629c9a</dc:identifier>
+        <dc:title>The Adventure Club Afloat</dc:title>
+        <dc:creator opf:file-as="Barbour, Ralph Henry" opf:role="aut">Ralph Henry Barbour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13897</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Sailing -- Juvenile fiction</dc:subject>
+        <dc:subject>New England -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Henry Barbour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:39:01.036579+00:00"/>
+        <meta name="calibre:title_sort" content="Adventure Club Afloat, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

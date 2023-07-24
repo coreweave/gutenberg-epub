@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f5841f3-f9e9-4495-b626-46cf2197c2f2</dc:identifier>
+        <dc:title>Serbia in Light and Darkness / With Preface by the Archbishop of Canterbury, (1916)</dc:title>
+        <dc:creator opf:file-as="Velimirović, Nikolaj" opf:role="aut">Nikolaj Velimirović</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19871</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Proverbs</dc:subject>
+        <dc:subject>Serbian</dc:subject>
+        <dc:subject>Serbian poetry -- Translations into English</dc:subject>
+        <dc:subject>Serbia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nikolaj Velimirović&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:23:44.513871+00:00"/>
+        <meta name="calibre:title_sort" content="Serbia in Light and Darkness / With Preface by the Archbishop of Canterbury, (1916)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf78c203-fc35-4a13-83df-5cd24f289fa8</dc:identifier>
+        <dc:title>Loimologia: Or, an Historical Account of the Plague in London in 1665 / With Precautionary Directions Against the Like Contagion</dc:title>
+        <dc:creator opf:file-as="Hodges, Nathaniel" opf:role="aut">Nathaniel Hodges</dc:creator>
+        <dc:creator opf:file-as="Hodges, Nathaniel" opf:role="aut">John Quincy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40106</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plague -- England -- London -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nathaniel Hodges&quot;: &quot;&quot;, &quot;John Quincy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:20:08.119615+00:00"/>
+        <meta name="calibre:title_sort" content="Loimologia: Or, an Historical Account of the Plague in London in 1665 / With Precautionary Directions Against the Like Contagion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

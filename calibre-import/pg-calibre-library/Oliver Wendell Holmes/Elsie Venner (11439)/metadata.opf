@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ae8cfad-75e9-4bcb-a53e-050fd3e0453b</dc:identifier>
+        <dc:title>Elsie Venner</dc:title>
+        <dc:creator opf:file-as="Holmes, Oliver Wendell" opf:role="aut">Oliver Wendell Holmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2696</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Predestination -- Fiction</dc:subject>
+        <dc:subject>Birthmarks -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver Wendell Holmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:26:45.301882+00:00"/>
+        <meta name="calibre:title_sort" content="Elsie Venner"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

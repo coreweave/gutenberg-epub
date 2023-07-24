@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc17ec7e-72f5-4ae9-9a8f-03673a019c9f</dc:identifier>
+        <dc:title>The Plattsburg Manual: A Handbook for Military Training</dc:title>
+        <dc:creator opf:file-as="Ellis, O. O. (Olin Oglesby)" opf:role="aut">O. O. Ellis</dc:creator>
+        <dc:creator opf:file-as="Ellis, O. O. (Olin Oglesby)" opf:role="aut">E. B. Garey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19552</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Army -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Military training camps -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;O. O. Ellis&quot;: &quot;&quot;, &quot;E. B. Garey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:36:30.071405+00:00"/>
+        <meta name="calibre:title_sort" content="Plattsburg Manual: A Handbook for Military Training, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

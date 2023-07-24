@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0eab8092-1577-4334-8906-70899f6637dd</dc:identifier>
+        <dc:title>Jesse James' Bold Stroke; Or, The Double Bank Robbery</dc:title>
+        <dc:creator opf:file-as="Ward, William (Author at Arthur Westbrook Co. (Cleveland, Ohio))" opf:role="aut">Ohio)) William (Author at Arthur Westbrook Co. (Cleveland Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62236</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>Jesse</dc:subject>
+        <dc:subject>1847-1882 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ohio)) William (Author at Arthur Westbrook Co. (Cleveland Ward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:02:43.987370+00:00"/>
+        <meta name="calibre:title_sort" content="Jesse James' Bold Stroke; Or, The Double Bank Robbery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

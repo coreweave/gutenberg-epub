@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49943</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">783a6066-a767-468c-9a76-786e91e6f656</dc:identifier>
+        <dc:title>The Voyages of Pedro Fernandez de Quiros, 1595 to 1606. Volume 1</dc:title>
+        <dc:creator opf:file-as="Queirós, Pedro Fernandes de" opf:role="aut">Pedro Fernandes de Queirós</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41200</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Oceania -- Discovery and exploration</dc:subject>
+        <dc:subject>Mendaña de Neira</dc:subject>
+        <dc:subject>Alvaro de</dc:subject>
+        <dc:subject>1542?-1595</dc:subject>
+        <dc:subject>Discoveries in geography -- Spanish</dc:subject>
+        <dc:subject>Early maps</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pedro Fernandes de Queirós&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:02:53.460096+00:00"/>
+        <meta name="calibre:title_sort" content="Voyages of Pedro Fernandez de Quiros, 1595 to 1606. Volume 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

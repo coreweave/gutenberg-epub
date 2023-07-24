@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7c842b9-c64a-42a0-a97a-023fdb1295f8</dc:identifier>
+        <dc:title>A Southern Woman's Story</dc:title>
+        <dc:creator opf:file-as="Pember, Phoebe Yates" opf:role="aut">Phoebe Yates Pember</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63870</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Hospitals</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>1861-1865 -- Medical care</dc:subject>
+        <dc:subject>Pember</dc:subject>
+        <dc:subject>Phoebe Yates</dc:subject>
+        <dc:subject>1823-1913</dc:subject>
+        <dc:subject>Chimborazo Hospital (Richmond</dc:subject>
+        <dc:subject>Va.)</dc:subject>
+        <dc:subject>Medicine</dc:subject>
+        <dc:subject>Military -- Confederate States of America -- History</dc:subject>
+        <dc:subject>Hospitals -- Confederate States of America -- Employees -- Biography</dc:subject>
+        <dc:subject>Women -- Confederate States of America -- Biography</dc:subject>
+        <dc:subject>Richmond (Va.) -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Phoebe Yates Pember&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:07:04.584580+00:00"/>
+        <meta name="calibre:title_sort" content="Southern Woman's Story, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

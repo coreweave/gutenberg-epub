@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29795</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93a96d0a-c9b9-412c-832b-44186cf15a23</dc:identifier>
+        <dc:title>Scaramouche: A Romance of the French Revolution</dc:title>
+        <dc:creator opf:file-as="Sabatini, Rafael" opf:role="aut">Rafael Sabatini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1947</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Revolution</dc:subject>
+        <dc:subject>1789-1799 -- Fiction</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rafael Sabatini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:00:48.022382+00:00"/>
+        <meta name="calibre:title_sort" content="Scaramouche: A Romance of the French Revolution"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

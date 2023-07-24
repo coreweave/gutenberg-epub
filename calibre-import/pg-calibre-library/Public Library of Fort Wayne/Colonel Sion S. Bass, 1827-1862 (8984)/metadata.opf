@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8984</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0b86722-9972-4518-a402-5e3c38914b51</dc:identifier>
+        <dc:title>Colonel Sion S. Bass, 1827-1862</dc:title>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Public Library of Fort Wayne</dc:creator>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Allen County</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65940</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bass</dc:subject>
+        <dc:subject>Sion St. Clair</dc:subject>
+        <dc:subject>1827-1862</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Public Library of Fort Wayne&quot;: &quot;&quot;, &quot;Allen County&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:22:15.589991+00:00"/>
+        <meta name="calibre:title_sort" content="Colonel Sion S. Bass, 1827-1862"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

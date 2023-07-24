@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d24a4ae2-b02d-4b29-9dd4-9687d18371ef</dc:identifier>
+        <dc:title>Our Battery; Or, The Journal of Company B, 1st O.V.A.</dc:title>
+        <dc:creator opf:file-as="Cutter, O. P. (Orlando Phelps)" opf:role="aut">O. P. Cutter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>United States. Army. Ohio Light Artillery Regiment</dc:subject>
+        <dc:subject>1st (1861-1865). Battery B</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;O. P. Cutter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:39:01.301585+00:00"/>
+        <meta name="calibre:title_sort" content="Our Battery; Or, The Journal of Company B, 1st O.V.A."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">235996c1-17a2-4705-a7da-157fefd2cad4</dc:identifier>
+        <dc:title>Fly Fishing in Wonderland</dc:title>
+        <dc:creator opf:file-as="Barnes, Orange Perry" opf:role="aut">Orange Perry Barnes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37278</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fishing -- Yellowstone National Park</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Orange Perry Barnes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:09:20.425012+00:00"/>
+        <meta name="calibre:title_sort" content="Fly Fishing in Wonderland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7e56beb-4f06-429c-9995-c66c00f54ea1</dc:identifier>
+        <dc:title>The Experienced Angler; or Angling Improved / Imparting Many of the Aptest Ways and Choicest Experiments for the Taking Most Sorts of Fish in Pond or River</dc:title>
+        <dc:creator opf:file-as="Venables, Robert" opf:role="aut">Robert Venables</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67474</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fishing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Venables&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:57:50.217908+00:00"/>
+        <meta name="calibre:title_sort" content="Experienced Angler; or Angling Improved / Imparting Many of the Aptest Ways and Choicest Experiments for the Taking Most Sorts of Fish in Pond or River, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

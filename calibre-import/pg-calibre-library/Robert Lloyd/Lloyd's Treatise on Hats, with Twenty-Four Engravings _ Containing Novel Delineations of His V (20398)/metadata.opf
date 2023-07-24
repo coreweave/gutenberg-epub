@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df0cfe66-d5fa-4c26-9420-0c717c27f065</dc:identifier>
+        <dc:title>Lloyd's Treatise on Hats, with Twenty-Four Engravings / Containing Novel Delineations of His Various Shapes, Shewing the Manner in Which They Should Be Worn...</dc:title>
+        <dc:creator opf:file-as="Lloyd, Robert" opf:role="aut">Robert Lloyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56103</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hats</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Lloyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:19:11.678408+00:00"/>
+        <meta name="calibre:title_sort" content="Lloyd's Treatise on Hats, with Twenty-Four Engravings / Containing Novel Delineations of His Various Shapes, Shewing the Manner in Which They Should Be Worn..."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

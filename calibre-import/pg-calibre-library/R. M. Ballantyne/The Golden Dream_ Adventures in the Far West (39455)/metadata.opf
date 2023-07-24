@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d483755-6fff-4cb3-a19d-f54acc58e685</dc:identifier>
+        <dc:title>The Golden Dream: Adventures in the Far West</dc:title>
+        <dc:creator opf:file-as="Ballantyne, R. M. (Robert Michael)" opf:role="aut">R. M. Ballantyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21734</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>California -- Gold discoveries -- Juvenile fiction</dc:subject>
+        <dc:subject>Bears -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunters -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. M. Ballantyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:02:00.533121+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Dream: Adventures in the Far West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

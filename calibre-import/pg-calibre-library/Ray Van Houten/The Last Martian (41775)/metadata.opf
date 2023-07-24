@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">299ccc06-7c15-4d01-9fa5-bd0e0f3b10a8</dc:identifier>
+        <dc:title>The Last Martian</dc:title>
+        <dc:creator opf:file-as="Van Houten, Ray" opf:role="aut">Ray Van Houten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62097</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Martians -- Fiction</dc:subject>
+        <dc:subject>Mars (Planet) -- Fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ray Van Houten&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:07:12.068668+00:00"/>
+        <meta name="calibre:title_sort" content="Last Martian, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

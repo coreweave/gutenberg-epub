@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7b755f4-ae6a-4d9a-80f4-7dd3d497581e</dc:identifier>
+        <dc:title>Nick Carter Stories No. 133, March 27, 1915: Won by Magic; or, Nick Carter's Mysterious Ear.</dc:title>
+        <dc:creator opf:file-as="Carter, Nicholas (House name)" opf:role="aut">Nicholas Carter</dc:creator>
+        <dc:creator opf:file-as="Carter, Nicholas (House name)" opf:role="aut">Roland Ashford Phillips</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66738</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Popular literature -- Periodicals</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>American -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nicholas Carter&quot;: &quot;&quot;, &quot;Roland Ashford Phillips&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:38:31.530319+00:00"/>
+        <meta name="calibre:title_sort" content="Nick Carter Stories No. 133, March 27, 1915: Won by Magic; or, Nick Carter's Mysterious Ear."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

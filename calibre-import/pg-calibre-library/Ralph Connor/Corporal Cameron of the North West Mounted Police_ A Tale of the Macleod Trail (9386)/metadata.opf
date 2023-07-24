@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81a532b2-e857-4b68-924c-15723d176e0e</dc:identifier>
+        <dc:title>Corporal Cameron of the North West Mounted Police: A Tale of the Macleod Trail</dc:title>
+        <dc:creator opf:file-as="Connor, Ralph" opf:role="aut">Ralph Connor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- Fiction</dc:subject>
+        <dc:subject>North West Mounted Police (Canada) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ralph Connor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:32:21.887196+00:00"/>
+        <meta name="calibre:title_sort" content="Corporal Cameron of the North West Mounted Police: A Tale of the Macleod Trail"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

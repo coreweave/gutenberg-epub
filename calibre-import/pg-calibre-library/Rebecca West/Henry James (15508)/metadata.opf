@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15508</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d82c88a9-8cb3-4762-a623-bb6e94f24968</dc:identifier>
+        <dc:title>Henry James</dc:title>
+        <dc:creator opf:file-as="West, Rebecca" opf:role="aut">Rebecca West</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37300</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1843-1916</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rebecca West&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:28:58.432623+00:00"/>
+        <meta name="calibre:title_sort" content="Henry James"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9081</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7cae082-10d0-4f1f-ac72-d5002df622e5</dc:identifier>
+        <dc:title>Commercial Law</dc:title>
+        <dc:creator opf:file-as="Currier, Richard D. (Richard Dudley)" opf:role="aut">Richard D. Currier</dc:creator>
+        <dc:creator opf:file-as="Currier, Richard D. (Richard Dudley)" opf:role="aut">Richard William Hill</dc:creator>
+        <dc:creator opf:file-as="Currier, Richard D. (Richard Dudley)" opf:role="aut">Samuel Williston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Commercial law -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard D. Currier&quot;: &quot;&quot;, &quot;Richard William Hill&quot;: &quot;&quot;, &quot;Samuel Williston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:24:40.863197+00:00"/>
+        <meta name="calibre:title_sort" content="Commercial Law"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

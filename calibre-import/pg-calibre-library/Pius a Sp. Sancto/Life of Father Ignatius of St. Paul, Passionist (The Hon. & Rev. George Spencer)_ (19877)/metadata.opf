@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">681bb41e-3f3a-43c3-9de2-0bdb0baba780</dc:identifier>
+        <dc:title>Life of Father Ignatius of St. Paul, Passionist (The Hon. &amp; Rev. George Spencer).</dc:title>
+        <dc:creator opf:file-as="Pius a Sp. Sancto (Pius a Spiritu Sancto)" opf:role="aut">Pius a Sp. Sancto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51370</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spencer</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1799-1864</dc:subject>
+        <dc:subject>Passionists</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pius a Sp. Sancto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:59:43.428169+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Father Ignatius of St. Paul, Passionist (The Hon. &amp; Rev. George Spencer)."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

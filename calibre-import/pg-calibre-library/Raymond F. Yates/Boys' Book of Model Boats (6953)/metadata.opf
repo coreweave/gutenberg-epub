@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d712063-b09a-462c-831a-1efd976bec64</dc:identifier>
+        <dc:title>Boys' Book of Model Boats</dc:title>
+        <dc:creator opf:file-as="Yates, Raymond F. (Raymond Francis)" opf:role="aut">Raymond F. Yates</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29064</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boatbuilding</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Raymond F. Yates&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:33:55.192738+00:00"/>
+        <meta name="calibre:title_sort" content="Boys' Book of Model Boats"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

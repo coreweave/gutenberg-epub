@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7217be7-cf0d-4c36-9e13-5052e6d933ac</dc:identifier>
+        <dc:title>The Strolling Saint; being the confessions of the high and mighty Agostino D'Anguissola, tyrant of Mondolfo and Lord of Carmina, in the state of Piacenza</dc:title>
+        <dc:creator opf:file-as="Sabatini, Rafael" opf:role="aut">Rafael Sabatini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3423</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Italy -- History -- 1492-1559 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rafael Sabatini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:39:46.342812+00:00"/>
+        <meta name="calibre:title_sort" content="Strolling Saint; being the confessions of the high and mighty Agostino D'Anguissola, tyrant of Mondolfo and Lord of Carmina, in the state of Piacenza, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

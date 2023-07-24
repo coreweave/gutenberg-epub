@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37428</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7aa3caf3-5005-4257-a5eb-c47684688289</dc:identifier>
+        <dc:title>The Diary of Delia / Being a Veracious Chronicle of the Kitchen, with Some Side-Lights on the Parlour</dc:title>
+        <dc:creator opf:file-as="Watanna, Onoto" opf:role="aut">Onoto Watanna</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Diary fiction</dc:subject>
+        <dc:subject>Household employees -- Fiction</dc:subject>
+        <dc:subject>Canadian fiction -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Onoto Watanna&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:17:01.255861+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of Delia / Being a Veracious Chronicle of the Kitchen, with Some Side-Lights on the Parlour, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

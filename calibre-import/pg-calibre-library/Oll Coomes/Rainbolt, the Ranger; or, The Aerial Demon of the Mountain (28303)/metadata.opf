@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3219c56-2976-44f3-b7d4-3e8747c5eb49</dc:identifier>
+        <dc:title>Rainbolt, the Ranger; or, The Aerial Demon of the Mountain</dc:title>
+        <dc:creator opf:file-as="Coomes, Oll" opf:role="aut">Oll Coomes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59847</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Fiction</dc:subject>
+        <dc:subject>Kidnapping -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Brigands and robbers -- Fiction</dc:subject>
+        <dc:subject>Black Hills (S.D. and Wyo.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oll Coomes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:52:17.737124+00:00"/>
+        <meta name="calibre:title_sort" content="Rainbolt, the Ranger; or, The Aerial Demon of the Mountain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

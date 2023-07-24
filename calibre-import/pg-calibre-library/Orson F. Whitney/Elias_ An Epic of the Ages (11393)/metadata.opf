@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92411332-c342-4d73-99da-76cff6397142</dc:identifier>
+        <dc:title>Elias: An Epic of the Ages</dc:title>
+        <dc:creator opf:file-as="Whitney, Orson F. (Orson Ferguson)" opf:role="aut">Orson F. Whitney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormons -- Poetry</dc:subject>
+        <dc:subject>Mormon Church -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Orson F. Whitney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:25:27.097464+00:00"/>
+        <meta name="calibre:title_sort" content="Elias: An Epic of the Ages"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

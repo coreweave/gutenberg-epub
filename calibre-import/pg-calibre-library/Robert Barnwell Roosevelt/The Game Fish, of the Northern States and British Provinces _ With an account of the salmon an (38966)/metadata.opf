@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92c110b3-848e-4cd3-82b5-263efb5deff6</dc:identifier>
+        <dc:title>The Game Fish, of the Northern States and British Provinces / With an account of the salmon and sea-trout fishing of Canada and New Brunswick, together with simple directions for tying artificial flies, etc., etc.</dc:title>
+        <dc:creator opf:file-as="Roosevelt, Robert Barnwell" opf:role="aut">Robert Barnwell Roosevelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56267</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fishes -- North America</dc:subject>
+        <dc:subject>Fishing -- North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Barnwell Roosevelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:36:33.422838+00:00"/>
+        <meta name="calibre:title_sort" content="Game Fish, of the Northern States and British Provinces / With an account of the salmon and sea-trout fishing of Canada and New Brunswick, together with simple directions for tying artificial flies, etc., etc., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

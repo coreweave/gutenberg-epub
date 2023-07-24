@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f12388f8-7971-4620-b4e9-0661b088a1e5</dc:identifier>
+        <dc:title>The romance of the Canadian Pacific Railway</dc:title>
+        <dc:creator opf:file-as="MacBeth, R. G. (Roderick George)" opf:role="aut">R. G. MacBeth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69588</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian Pacific Railway Company</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. G. MacBeth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:53:20.910025+00:00"/>
+        <meta name="calibre:title_sort" content="romance of the Canadian Pacific Railway, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

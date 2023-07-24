@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88ee464d-ed5f-4ecc-a079-32cd7ca6396a</dc:identifier>
+        <dc:title>Florida Caverns State Park / Marianna, Florida</dc:title>
+        <dc:creator opf:file-as="Vernon, Robert O. (Robert Orion)" opf:role="aut">Robert O. Vernon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46171</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caves -- Florida</dc:subject>
+        <dc:subject>Florida Caverns State Park (Fla.)</dc:subject>
+        <dc:subject>Geology -- Florida -- Jackson County</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert O. Vernon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:08:19.885637+00:00"/>
+        <meta name="calibre:title_sort" content="Florida Caverns State Park / Marianna, Florida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

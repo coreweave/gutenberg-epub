@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fdaa79d-0685-4e5a-b0ff-ab44c746b4ee</dc:identifier>
+        <dc:title>The Story of Opal: The Journal of an Understanding Heart</dc:title>
+        <dc:creator opf:file-as="Whiteley, Opal Stanley" opf:role="aut">Opal Stanley Whiteley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43818</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Whiteley</dc:subject>
+        <dc:subject>Opal Stanley -- Diaries</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 20th century -- Diaries</dc:subject>
+        <dc:subject>Children's writings</dc:subject>
+        <dc:subject>American -- Oregon</dc:subject>
+        <dc:subject>Oregon -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Opal Stanley Whiteley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:22:48.233807+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Opal: The Journal of an Understanding Heart, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2bc1309-c933-4a71-a5d5-22c9db4baaf8</dc:identifier>
+        <dc:title>The Hungry Stones, and Other Stories</dc:title>
+        <dc:creator opf:file-as="Tagore, Rabindranath" opf:role="aut">Rabindranath Tagore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2518</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Bengali -- Translations into English</dc:subject>
+        <dc:subject>Tagore</dc:subject>
+        <dc:subject>Rabindranath</dc:subject>
+        <dc:subject>1861-1941 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rabindranath Tagore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:11:50.236375+00:00"/>
+        <meta name="calibre:title_sort" content="Hungry Stones, and Other Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e74d03ef-a26e-4c08-841a-41ae3fb5f7aa</dc:identifier>
+        <dc:title>A Bird-Lover in the West</dc:title>
+        <dc:creator opf:file-as="Miller, Olive Thorne" opf:role="aut">Olive Thorne Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27902</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds</dc:subject>
+        <dc:subject>Birds -- West (U.S.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Olive Thorne Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:31:06.485626+00:00"/>
+        <meta name="calibre:title_sort" content="Bird-Lover in the West, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

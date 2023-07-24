@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22999</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c844e38-18dd-4d05-990d-186ae39660a4</dc:identifier>
+        <dc:title>Mrs. Siddons</dc:title>
+        <dc:creator opf:file-as="Kennard, Nina H." opf:role="aut">Nina H. Kennard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66222</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Actresses -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Siddons</dc:subject>
+        <dc:subject>Sarah</dc:subject>
+        <dc:subject>1755-1831</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nina H. Kennard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:03:32.611858+00:00"/>
+        <meta name="calibre:title_sort" content="Mrs. Siddons"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

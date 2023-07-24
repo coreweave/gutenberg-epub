@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21037</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">903eac60-fa74-424e-8bc2-f35c4715e92d</dc:identifier>
+        <dc:title>Manners &amp; Cvstoms of ye Englyshe / Drawn from ye Qvick</dc:title>
+        <dc:creator opf:file-as="Doyle, Richard" opf:role="aut">Richard Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37745</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caricatures and cartoons -- Great Britain</dc:subject>
+        <dc:subject>England -- Social life and customs -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Doyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:43:45.910242+00:00"/>
+        <meta name="calibre:title_sort" content="Manners &amp; Cvstoms of ye Englyshe / Drawn from ye Qvick"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

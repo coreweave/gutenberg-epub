@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0c8d4ad-496a-44ed-bce0-edcd18db776c</dc:identifier>
+        <dc:title>New Hampshire, A Poem; with Notes and Grace Notes</dc:title>
+        <dc:creator opf:file-as="Frost, Robert" opf:role="aut">Robert Frost</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58611</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry -- 20th century</dc:subject>
+        <dc:subject>New Hampshire -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Frost&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:33:58.272843+00:00"/>
+        <meta name="calibre:title_sort" content="New Hampshire, A Poem; with Notes and Grace Notes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

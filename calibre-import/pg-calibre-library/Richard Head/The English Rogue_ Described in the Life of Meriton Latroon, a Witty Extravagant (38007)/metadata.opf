@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38007</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4bce214-535a-4105-9ecc-ce244cfa1f94</dc:identifier>
+        <dc:title>The English Rogue: Described in the Life of Meriton Latroon, a Witty Extravagant</dc:title>
+        <dc:creator opf:file-as="Head, Richard" opf:role="aut">Richard Head</dc:creator>
+        <dc:creator opf:file-as="Head, Richard" opf:role="aut">Francis Kirkman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50416</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rogues and vagabonds -- England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Head&quot;: &quot;&quot;, &quot;Francis Kirkman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:46:57.020946+00:00"/>
+        <meta name="calibre:title_sort" content="English Rogue: Described in the Life of Meriton Latroon, a Witty Extravagant, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

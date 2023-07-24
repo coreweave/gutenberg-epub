@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d8bda33-716d-4fb4-8fa1-99d481ad52c8</dc:identifier>
+        <dc:title>Monsieur de Camors — Volume 3</dc:title>
+        <dc:creator opf:file-as="Feuillet, Octave" opf:role="aut">Octave Feuillet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paris (France) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Octave Feuillet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:43:14.267926+00:00"/>
+        <meta name="calibre:title_sort" content="Monsieur de Camors — Volume 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

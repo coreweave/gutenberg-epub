@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba385d4e-10d8-4281-9acf-81aa5718183a</dc:identifier>
+        <dc:title>Travels of Richard and John Lander into the interior of Africa, for the discovery of the course and termination of the Niger / From unpublished documents in the possession of the late Capt. John William Barber Fullerton ... with a prefatory analysis of the previous travels of Park, Denham, Clapperton, Adams, Lyon, Ritchie, &amp;c. into the hitherto unexplored countries of Africa</dc:title>
+        <dc:creator opf:file-as="Huish, Robert" opf:role="aut">Robert Huish</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12667</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Niger River</dc:subject>
+        <dc:subject>Lander</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1804-1834</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1807-1839</dc:subject>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>West -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Huish&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:06:02.766083+00:00"/>
+        <meta name="calibre:title_sort" content="Travels of Richard and John Lander into the interior of Africa, for the discovery of the course and termination of the Niger / From unpublished documents in the possession of the late Capt. John William Barber Fullerton ... with a prefatory analysis of the previous travels of Park, Denham, Clapperton, Adams, Lyon, Ritchie, &amp;c. into the hitherto unexplored countries of Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

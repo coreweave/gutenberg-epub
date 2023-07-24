@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28790</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86b94406-1a77-459b-b99a-4772314b23a4</dc:identifier>
+        <dc:title>Report on the Migration of Birds in the Spring and Autumn of 1882. Fourth Report</dc:title>
+        <dc:creator opf:file-as="Barrington, Richard Manliffe" opf:role="aut">Richard Manliffe Barrington</dc:creator>
+        <dc:creator opf:file-as="Barrington, Richard Manliffe" opf:role="aut">John Cordeaux</dc:creator>
+        <dc:creator opf:file-as="Barrington, Richard Manliffe" opf:role="aut">J. A. Harvie-Brown</dc:creator>
+        <dc:creator opf:file-as="Barrington, Richard Manliffe" opf:role="aut">Alexander Goodman More</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65515</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- Migration -- Great Britain -- Periodicals</dc:subject>
+        <dc:subject>Birds -- Migration -- Ireland -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Manliffe Barrington&quot;: &quot;&quot;, &quot;John Cordeaux&quot;: &quot;&quot;, &quot;J. A. Harvie-Brown&quot;: &quot;&quot;, &quot;Alexander Goodman More&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:14:32.294939+00:00"/>
+        <meta name="calibre:title_sort" content="Report on the Migration of Birds in the Spring and Autumn of 1882. Fourth Report"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

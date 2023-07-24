@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">955e7ae8-5a8c-4596-a5ba-500188485f2e</dc:identifier>
+        <dc:title>English as she is spoke; or, a jest in sober earnest</dc:title>
+        <dc:creator opf:file-as="Carolino, Pedro" opf:role="aut">Pedro Carolino</dc:creator>
+        <dc:creator opf:file-as="Carolino, Pedro" opf:role="aut">José da Fonseca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30411</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Errors and blunders</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>English language -- Conversation and phrase books -- Portuguese</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pedro Carolino&quot;: &quot;&quot;, &quot;José da Fonseca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:36:03.246600+00:00"/>
+        <meta name="calibre:title_sort" content="English as she is spoke; or, a jest in sober earnest"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7ec7129-71a2-4fda-a872-16b058ccf1c7</dc:identifier>
+        <dc:title>Disturbances of the Heart / Discussion of the Treatment of the Heart in Its Various Disorders, With a Chapter on Blood Pressure</dc:title>
+        <dc:creator opf:file-as="Osborne, Oliver T. (Oliver Thomas)" opf:role="aut">Oliver T. Osborne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Heart -- Diseases</dc:subject>
+        <dc:subject>Blood pressure</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oliver T. Osborne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:05:00.937194+00:00"/>
+        <meta name="calibre:title_sort" content="Disturbances of the Heart / Discussion of the Treatment of the Heart in Its Various Disorders, With a Chapter on Blood Pressure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

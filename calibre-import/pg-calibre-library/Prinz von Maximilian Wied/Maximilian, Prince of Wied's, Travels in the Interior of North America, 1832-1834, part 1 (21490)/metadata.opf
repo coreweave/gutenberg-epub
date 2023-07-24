@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74ac712e-711e-48e0-85fa-7d8d50f8544f</dc:identifier>
+        <dc:title>Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 1</dc:title>
+        <dc:creator opf:file-as="Wied, Maximilian, Prinz von" opf:role="aut">Prinz von Maximilian Wied</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America</dc:subject>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>Indians of North America -- Languages</dc:subject>
+        <dc:subject>Natural history -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Prinz von Maximilian Wied&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:01:28.597325+00:00"/>
+        <meta name="calibre:title_sort" content="Maximilian, Prince of Wied's, Travels in the Interior of North America, 1832-1834, part 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

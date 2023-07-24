@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38086db4-547b-4575-92c8-4f3b8a022ed9</dc:identifier>
+        <dc:title>Van Dyck</dc:title>
+        <dc:creator opf:file-as="Turner, Percy Moore" opf:role="aut">Percy Moore Turner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Van Dyck</dc:subject>
+        <dc:subject>Anthony</dc:subject>
+        <dc:subject>1599-1641</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percy Moore Turner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:01:42.078216+00:00"/>
+        <meta name="calibre:title_sort" content="Van Dyck"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

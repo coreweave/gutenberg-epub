@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9064</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">100b159b-29af-4e59-a254-2f8587cea549</dc:identifier>
+        <dc:title>Coming to Grips with White Knuckles</dc:title>
+        <dc:creator opf:file-as="Brown, Paul Cameron" opf:role="aut">Paul Cameron Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30948</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Cameron Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:24:15.736166+00:00"/>
+        <meta name="calibre:title_sort" content="Coming to Grips with White Knuckles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

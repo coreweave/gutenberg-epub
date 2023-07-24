@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fb80eaf-ee50-40a5-826c-9fd816c6ad9d</dc:identifier>
+        <dc:title>Sheppard Lee, Written by Himself. Vol. 1 (of 2)</dc:title>
+        <dc:creator opf:file-as="Bird, Robert Montgomery" opf:role="aut">Robert Montgomery Bird</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46621</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>American fiction -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Montgomery Bird&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:35:05.307267+00:00"/>
+        <meta name="calibre:title_sort" content="Sheppard Lee, Written by Himself. Vol. 1 (of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

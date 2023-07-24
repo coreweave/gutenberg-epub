@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42958</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2969ea9-d7bf-4918-baa7-fcd83a5fa9f5</dc:identifier>
+        <dc:title>The Man Inside</dc:title>
+        <dc:creator opf:file-as="Lincoln, Natalie Sumner" opf:role="aut">Natalie Sumner Lincoln</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63223</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Murder -- Investigation -- Fiction</dc:subject>
+        <dc:subject>Washington (D.C.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Natalie Sumner Lincoln&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:12:31.446970+00:00"/>
+        <meta name="calibre:title_sort" content="Man Inside, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

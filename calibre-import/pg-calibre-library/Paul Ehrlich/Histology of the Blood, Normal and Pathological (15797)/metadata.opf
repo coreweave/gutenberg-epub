@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15797</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fc071f5-3449-4437-a94c-6c80ea3e5b2d</dc:identifier>
+        <dc:title>Histology of the Blood, Normal and Pathological</dc:title>
+        <dc:creator opf:file-as="Ehrlich, Paul" opf:role="aut">Paul Ehrlich</dc:creator>
+        <dc:creator opf:file-as="Ehrlich, Paul" opf:role="aut">Adolf Lazarus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29842</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blood -- Examination</dc:subject>
+        <dc:subject>Blood Physiology</dc:subject>
+        <dc:subject>Blood cells -- Anatomy and histology</dc:subject>
+        <dc:subject>Hematologic Diseases -- Pathology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Ehrlich&quot;: &quot;&quot;, &quot;Adolf Lazarus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:38:23.769780+00:00"/>
+        <meta name="calibre:title_sort" content="Histology of the Blood, Normal and Pathological"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

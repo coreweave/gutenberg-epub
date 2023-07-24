@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32c89f5a-aff5-4649-8e2f-100fa09a94bc</dc:identifier>
+        <dc:title>Principles of Orchestration, with Musical Examples Drawn from His Own Works</dc:title>
+        <dc:creator opf:file-as="Rimsky-Korsakov, Nikolay" opf:role="aut">Nikolay Rimsky-Korsakov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Instrumentation and orchestration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nikolay Rimsky-Korsakov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:04:25.623593+00:00"/>
+        <meta name="calibre:title_sort" content="Principles of Orchestration, with Musical Examples Drawn from His Own Works"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

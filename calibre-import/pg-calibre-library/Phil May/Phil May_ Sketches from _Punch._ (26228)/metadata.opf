@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f41d517-a7a1-4e2b-a3f7-aaf43e35df96</dc:identifier>
+        <dc:title>Phil May: Sketches from "Punch."</dc:title>
+        <dc:creator opf:file-as="May, Phil" opf:role="aut">Phil May</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64738</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caricatures and cartoons -- Great Britain</dc:subject>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>May</dc:subject>
+        <dc:subject>Phil</dc:subject>
+        <dc:subject>1864-1903</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Phil May&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:20:44.687738+00:00"/>
+        <meta name="calibre:title_sort" content="Phil May: Sketches from &quot;Punch.&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

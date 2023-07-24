@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5b92d95-2dd1-46af-9f58-3beb1488f25c</dc:identifier>
+        <dc:title>Voyage of the Paper Canoe / A Geographical Journey of 2500 Miles, from Quebec to the Gulf of Mexico, During the Years 1874-5</dc:title>
+        <dc:creator opf:file-as="Bishop, Nathaniel H. (Nathaniel Holmes)" opf:role="aut">Nathaniel H. Bishop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1082</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bishop</dc:subject>
+        <dc:subject>Nathaniel H. (Nathaniel Holmes)</dc:subject>
+        <dc:subject>1837-1902 -- Travel -- United States</dc:subject>
+        <dc:subject>Canoes and canoeing -- United States -- History -- 19th century</dc:subject>
+        <dc:subject>Atlantic Coast (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>1837-1902 -- Travel -- Canada</dc:subject>
+        <dc:subject>Eastern</dc:subject>
+        <dc:subject>Waterways -- United States -- History -- 19th century</dc:subject>
+        <dc:subject>Waterways -- Canada</dc:subject>
+        <dc:subject>Eastern -- History -- 19th century</dc:subject>
+        <dc:subject>Canoes and canoeing -- Canada</dc:subject>
+        <dc:subject>Atlantic Coast (Canada) -- Description and travel</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <dc:subject>Eastern -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nathaniel H. Bishop&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:20:34.514789+00:00"/>
+        <meta name="calibre:title_sort" content="Voyage of the Paper Canoe / A Geographical Journey of 2500 Miles, from Quebec to the Gulf of Mexico, During the Years 1874-5"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

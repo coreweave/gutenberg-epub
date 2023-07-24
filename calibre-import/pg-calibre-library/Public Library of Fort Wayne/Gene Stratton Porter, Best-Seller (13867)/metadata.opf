@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0eff6f8c-e516-48de-891a-5ec5601d0b78</dc:identifier>
+        <dc:title>Gene Stratton Porter, Best-Seller</dc:title>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Public Library of Fort Wayne</dc:creator>
+        <dc:creator opf:file-as="Public Library of Fort Wayne and Allen County" opf:role="aut">Allen County</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64871</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 20th century -- Biography</dc:subject>
+        <dc:subject>Stratton-Porter</dc:subject>
+        <dc:subject>Gene</dc:subject>
+        <dc:subject>1863-1924</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Public Library of Fort Wayne&quot;: &quot;&quot;, &quot;Allen County&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:36:50.852214+00:00"/>
+        <meta name="calibre:title_sort" content="Gene Stratton Porter, Best-Seller"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

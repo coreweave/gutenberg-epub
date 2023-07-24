@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89295ad3-ae8c-4ac8-a849-0e29e19bc062</dc:identifier>
+        <dc:title>The History of Badlands National Monument and the White River (Big) Badlands of South Dakota</dc:title>
+        <dc:creator opf:file-as="Grom, Robert A." opf:role="aut">Robert A. Grom</dc:creator>
+        <dc:creator opf:file-as="Grom, Robert A." opf:role="aut">Ray H. Mattison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62641</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Badlands National Park (S.D.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert A. Grom&quot;: &quot;&quot;, &quot;Ray H. Mattison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:45:32.777948+00:00"/>
+        <meta name="calibre:title_sort" content="History of Badlands National Monument and the White River (Big) Badlands of South Dakota, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

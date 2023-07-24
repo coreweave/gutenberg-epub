@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f643048-b2ab-4cd6-8eba-6b9d8b46aac2</dc:identifier>
+        <dc:title>Experimental Investigation of the Spirit Manifestations / Demonstrating the existence of spirits and their communion with mortals. Doctrine of the spirit world respecting heaven, hell, morality, and God. Also, the influence of Scripture on the morals of Christians.</dc:title>
+        <dc:creator opf:file-as="Hare, Robert" opf:role="aut">Robert Hare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64160</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spiritualism</dc:subject>
+        <dc:subject>Bible and spiritualism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Hare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:47:40.139494+00:00"/>
+        <meta name="calibre:title_sort" content="Experimental Investigation of the Spirit Manifestations / Demonstrating the existence of spirits and their communion with mortals. Doctrine of the spirit world respecting heaven, hell, morality, and God. Also, the influence of Scripture on the morals of Christians."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

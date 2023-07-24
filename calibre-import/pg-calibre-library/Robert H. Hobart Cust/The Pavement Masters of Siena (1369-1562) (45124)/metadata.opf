@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45124</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c10c65f-346c-478b-990c-2aab43dc9b52</dc:identifier>
+        <dc:title>The Pavement Masters of Siena (1369-1562)</dc:title>
+        <dc:creator opf:file-as="Cust, Robert H. Hobart (Robert Henry Hobart)" opf:role="aut">Robert H. Hobart Cust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59168</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Art -- Italy -- Siena</dc:subject>
+        <dc:subject>Duomo di Siena</dc:subject>
+        <dc:subject>Pavements</dc:subject>
+        <dc:subject>Mosaic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert H. Hobart Cust&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:14:49.664759+00:00"/>
+        <meta name="calibre:title_sort" content="Pavement Masters of Siena (1369-1562), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

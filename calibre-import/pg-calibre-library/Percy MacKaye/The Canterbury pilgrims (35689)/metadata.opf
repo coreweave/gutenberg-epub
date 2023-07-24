@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">694064af-db1e-483f-aaca-9c65b5d7804c</dc:identifier>
+        <dc:title>The Canterbury pilgrims</dc:title>
+        <dc:creator opf:file-as="MacKaye, Percy" opf:role="aut">Percy MacKaye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70526</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American drama -- 20th century</dc:subject>
+        <dc:subject>Christian pilgrims and pilgrimages -- Drama</dc:subject>
+        <dc:subject>Chaucer</dc:subject>
+        <dc:subject>Geoffrey</dc:subject>
+        <dc:subject>-1400 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percy MacKaye&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:48:50.642498+00:00"/>
+        <meta name="calibre:title_sort" content="Canterbury pilgrims, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

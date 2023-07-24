@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4943f66-37fa-488c-9f8a-181ed852332b</dc:identifier>
+        <dc:title>The Noble Lord / A Comedy in One Act</dc:title>
+        <dc:creator opf:file-as="Wilde, Percival" opf:role="aut">Percival Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19904</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Percival Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:39:22.668329+00:00"/>
+        <meta name="calibre:title_sort" content="Noble Lord / A Comedy in One Act, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

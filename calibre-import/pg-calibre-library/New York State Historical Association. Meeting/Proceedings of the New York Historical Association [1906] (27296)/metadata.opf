@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8859de29-d637-44aa-ba44-8cccf1e5bd2d</dc:identifier>
+        <dc:title>Proceedings of the New York Historical Association [1906]</dc:title>
+        <dc:creator opf:file-as="New York State Historical Association. Meeting" opf:role="aut">New York State Historical Association. Meeting</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51218</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York State Historical Association -- Periodicals</dc:subject>
+        <dc:subject>New York (State) -- History -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;New York State Historical Association. Meeting&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:07:34.829553+00:00"/>
+        <meta name="calibre:title_sort" content="Proceedings of the New York Historical Association [1906]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cfefa16-2d67-4b73-8725-bb4353c9bacf</dc:identifier>
+        <dc:title>The Life or Legend of Gaudama, the Buddha of the Burmese (Volume II)</dc:title>
+        <dc:creator opf:file-as="Bigandet, Paul Ambroise" opf:role="aut">Paul Ambroise Bigandet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhism -- Burma</dc:subject>
+        <dc:subject>Burma -- Religion</dc:subject>
+        <dc:subject>Gautama Buddha</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Paul Ambroise Bigandet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:37:33.320543+00:00"/>
+        <meta name="calibre:title_sort" content="Life or Legend of Gaudama, the Buddha of the Burmese (Volume II), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

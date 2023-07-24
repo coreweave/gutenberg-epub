@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fab84d19-b9a5-4b27-b369-78dfe014db0f</dc:identifier>
+        <dc:title>Memoirs and Historical Chronicles of the Courts of Europe / Memoirs of Marguerite de Valois, Queen of France, Wife of Henri IV; of Madame de Pompadour of the Court of Louis XV; and of Catherine de Medici, Queen of France, Wife of Henri II</dc:title>
+        <dc:creator opf:file-as="Brantôme, Pierre de Bourdeille" opf:role="aut">Pierre de Bourdeille Brantôme</dc:creator>
+        <dc:creator opf:file-as="Brantôme, Pierre de Bourdeille" opf:role="aut">Mme. Du Hausset</dc:creator>
+        <dc:creator opf:file-as="Brantôme, Pierre de Bourdeille" opf:role="aut">King of France consort of Henry IV Queen Marguerite</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12967</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marguerite</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Henry IV</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1553-1615</dc:subject>
+        <dc:subject>France -- Court and courtiers</dc:subject>
+        <dc:subject>Pompadour</dc:subject>
+        <dc:subject>Jeanne Antoinette Poisson</dc:subject>
+        <dc:subject>marquise de</dc:subject>
+        <dc:subject>1721-1764</dc:subject>
+        <dc:subject>Catherine de Médicis</dc:subject>
+        <dc:subject>consort of Henry II</dc:subject>
+        <dc:subject>1519-1589</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Pierre de Bourdeille Brantôme&quot;: &quot;&quot;, &quot;Mme. Du Hausset&quot;: &quot;&quot;, &quot;King of France consort of Henry IV Queen Marguerite&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:09:03.042032+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs and Historical Chronicles of the Courts of Europe / Memoirs of Marguerite de Valois, Queen of France, Wife of Henri IV; of Madame de Pompadour of the Court of Louis XV; and of Catherine de Medici, Queen of France, Wife of Henri II"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

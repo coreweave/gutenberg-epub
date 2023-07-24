@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07e0423f-99c6-4aa8-ae20-74e9432b1902</dc:identifier>
+        <dc:title>Lectures of Col. R. G. Ingersoll, Volume I / Including His Answers to the Clergy, His Oration at His Brother's Grave, Etc., Etc.</dc:title>
+        <dc:creator opf:file-as="Ingersoll, Robert Green" opf:role="aut">Robert Green Ingersoll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8140</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Free thought</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Green Ingersoll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:41:08.102824+00:00"/>
+        <meta name="calibre:title_sort" content="Lectures of Col. R. G. Ingersoll, Volume I / Including His Answers to the Clergy, His Oration at His Brother's Grave, Etc., Etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

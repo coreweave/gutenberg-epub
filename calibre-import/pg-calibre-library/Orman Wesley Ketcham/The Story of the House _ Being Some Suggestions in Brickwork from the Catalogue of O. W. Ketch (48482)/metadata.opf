@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b5eb127-1d59-42c2-8919-99fa9e7dc293</dc:identifier>
+        <dc:title>The Story of the House / Being Some Suggestions in Brickwork from the Catalogue of O. W. Ketcham</dc:title>
+        <dc:creator opf:file-as="Ketcham, Orman Wesley" opf:role="aut">Orman Wesley Ketcham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Domestic</dc:subject>
+        <dc:subject>Bricks -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Orman Wesley Ketcham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:32:10.268275+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the House / Being Some Suggestions in Brickwork from the Catalogue of O. W. Ketcham, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f2fb8f8-be6b-463c-94f2-02005544ad10</dc:identifier>
+        <dc:title>Poems: With a Sketch of the Life and Experience of Annie R. Smith</dc:title>
+        <dc:creator opf:file-as="Smith, Rebekah" opf:role="aut">Rebekah Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Smith</dc:subject>
+        <dc:subject>Annie Rebekah</dc:subject>
+        <dc:subject>1828-1855</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rebekah Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:45:06.595661+00:00"/>
+        <meta name="calibre:title_sort" content="Poems: With a Sketch of the Life and Experience of Annie R. Smith"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

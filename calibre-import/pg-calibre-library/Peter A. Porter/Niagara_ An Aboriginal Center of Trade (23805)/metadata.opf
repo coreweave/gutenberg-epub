@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e251bdd0-302b-4caa-a935-d63ca6fe2415</dc:identifier>
+        <dc:title>Niagara: An Aboriginal Center of Trade</dc:title>
+        <dc:creator opf:file-as="Porter, Peter A. (Peter Augustus)" opf:role="aut">Peter A. Porter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31955</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Niagara Falls (N.Y. and Ont.) -- History</dc:subject>
+        <dc:subject>Niagara Falls (N.Y. and Ont.) -- Commerce -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Peter A. Porter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:37:51.051516+00:00"/>
+        <meta name="calibre:title_sort" content="Niagara: An Aboriginal Center of Trade"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

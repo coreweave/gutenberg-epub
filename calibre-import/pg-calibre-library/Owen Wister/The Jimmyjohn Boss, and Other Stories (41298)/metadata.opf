@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e4a973c-29f6-40b1-b271-fcf9ea6cfd2d</dc:identifier>
+        <dc:title>The Jimmyjohn Boss, and Other Stories</dc:title>
+        <dc:creator opf:file-as="Wister, Owen" opf:role="aut">Owen Wister</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Frontier and pioneer life -- West (U.S.) -- Fiction</dc:subject>
+        <dc:subject>West (U.S.) -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Owen Wister&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:40:52.402398+00:00"/>
+        <meta name="calibre:title_sort" content="Jimmyjohn Boss, and Other Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

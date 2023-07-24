@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b5b1997-f4d0-48d1-9160-53c77fbd2e5b</dc:identifier>
+        <dc:title>Cruise of the 'Alert' / Four Years in Patagonian, Polynesian, and Mascarene Waters (1878-82)</dc:title>
+        <dc:creator opf:file-as="Coppinger, R. W. (Richard William)" opf:role="aut">R. W. Coppinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43483</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Patagonia (Argentina and Chile) -- Description and travel</dc:subject>
+        <dc:subject>Polynesia -- Description and travel</dc:subject>
+        <dc:subject>Natural history -- Patagonia (Argentina and Chile)</dc:subject>
+        <dc:subject>Alert (Sloop : 1856-1895)</dc:subject>
+        <dc:subject>Natural history -- Polynesia</dc:subject>
+        <dc:subject>Natural history -- Mascarene Islands</dc:subject>
+        <dc:subject>Mascarene Islands -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;R. W. Coppinger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:38:39.017986+00:00"/>
+        <meta name="calibre:title_sort" content="Cruise of the 'Alert' / Four Years in Patagonian, Polynesian, and Mascarene Waters (1878-82)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

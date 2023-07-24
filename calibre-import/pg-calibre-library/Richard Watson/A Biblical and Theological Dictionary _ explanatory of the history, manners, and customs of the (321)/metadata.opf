@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d76ef2ba-0994-4183-a55b-da65c1a7b6ed</dc:identifier>
+        <dc:title>A Biblical and Theological Dictionary / explanatory of the history, manners, and customs of the Jews, and neighbouring nations</dc:title>
+        <dc:creator opf:file-as="Watson, Richard" opf:role="aut">Richard Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53884</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theology -- Dictionaries</dc:subject>
+        <dc:subject>Bible -- Dictionaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:30:48.494812+00:00"/>
+        <meta name="calibre:title_sort" content="Biblical and Theological Dictionary / explanatory of the history, manners, and customs of the Jews, and neighbouring nations, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

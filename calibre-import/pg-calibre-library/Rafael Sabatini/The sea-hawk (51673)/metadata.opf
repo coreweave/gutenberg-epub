@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8db038bc-71ff-4531-977b-14cd6117f838</dc:identifier>
+        <dc:title>The sea-hawk</dc:title>
+        <dc:creator opf:file-as="Sabatini, Rafael" opf:role="aut">Rafael Sabatini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3294</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Pirates -- Fiction</dc:subject>
+        <dc:subject>Muslims -- Fiction</dc:subject>
+        <dc:subject>British -- Africa</dc:subject>
+        <dc:subject>North -- Fiction</dc:subject>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>Cornwall (England : County) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rafael Sabatini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:53:37.029540+00:00"/>
+        <meta name="calibre:title_sort" content="sea-hawk, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

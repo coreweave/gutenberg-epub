@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39000</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b064c275-a411-458c-8b93-ddbdc58bc774</dc:identifier>
+        <dc:title>The Gary Schools</dc:title>
+        <dc:creator opf:file-as="Bourne, Randolph Silliman" opf:role="aut">Randolph Silliman Bourne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gary Public Schools</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Randolph Silliman Bourne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:38:20.241451+00:00"/>
+        <meta name="calibre:title_sort" content="Gary Schools, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

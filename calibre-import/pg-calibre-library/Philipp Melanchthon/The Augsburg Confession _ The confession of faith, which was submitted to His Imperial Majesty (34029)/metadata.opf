@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12337fdd-3b1c-413f-8182-939577c74e02</dc:identifier>
+        <dc:title>The Augsburg Confession / The confession of faith, which was submitted to His Imperial Majesty Charles V at the diet of Augsburg in the year 1530</dc:title>
+        <dc:creator opf:file-as="Melanchthon, Philipp" opf:role="aut">Philipp Melanchthon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/275</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lutheran Church -- Doctrines</dc:subject>
+        <dc:subject>Theology</dc:subject>
+        <dc:subject>Doctrinal</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philipp Melanchthon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:26:50.960277+00:00"/>
+        <meta name="calibre:title_sort" content="Augsburg Confession / The confession of faith, which was submitted to His Imperial Majesty Charles V at the diet of Augsburg in the year 1530, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

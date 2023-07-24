@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77ffcc73-20e2-41b0-babf-3e6d05818251</dc:identifier>
+        <dc:title>Gas-Engines and Producer-Gas Plants / A Practice Treatise Setting Forth the Principles of Gas-Engines and Producer Design, the Selection and Installation of an Engine, Conditions of Perfect Operation, Producer-Gas Engines and Their Possibilities, the Care of Gas-Engines and Producer-Gas Plants, with a Chapter on Volatile Hydrocarbon and Oil Engines</dc:title>
+        <dc:creator opf:file-as="Mathot, Rodolphe Edgard" opf:role="aut">Rodolphe Edgard Mathot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38415</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Internal combustion engines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rodolphe Edgard Mathot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:35:52.547942+00:00"/>
+        <meta name="calibre:title_sort" content="Gas-Engines and Producer-Gas Plants / A Practice Treatise Setting Forth the Principles of Gas-Engines and Producer Design, the Selection and Installation of an Engine, Conditions of Perfect Operation, Producer-Gas Engines and Their Possibilities, the Care of Gas-Engines and Producer-Gas Plants, with a Chapter on Volatile Hydrocarbon and Oil Engines"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

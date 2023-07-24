@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1947451-fab5-4f3c-8ee1-f05f23a76589</dc:identifier>
+        <dc:title>Wenderholme: A Story of Lancashire and Yorkshire</dc:title>
+        <dc:creator opf:file-as="Hamerton, Philip Gilbert" opf:role="aut">Philip Gilbert Hamerton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40874</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Yorkshire (England) -- Fiction</dc:subject>
+        <dc:subject>Lancashire (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Philip Gilbert Hamerton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:44:28.637547+00:00"/>
+        <meta name="calibre:title_sort" content="Wenderholme: A Story of Lancashire and Yorkshire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
