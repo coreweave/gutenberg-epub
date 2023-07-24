@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2a4c864-af88-4446-8d3c-93af52d1e3bb</dc:identifier>
+        <dc:title>Joan of Arc: A Play in Five Acts</dc:title>
+        <dc:creator opf:file-as="Sargant, J. A. (Jane Alice)" opf:role="aut">J. A. Sargant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35837</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Joan</dc:subject>
+        <dc:subject>of Arc</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1412-1431 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. A. Sargant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:05:28.605980+00:00"/>
+        <meta name="calibre:title_sort" content="Joan of Arc: A Play in Five Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

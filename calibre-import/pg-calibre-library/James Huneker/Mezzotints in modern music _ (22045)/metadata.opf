@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22045</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49a0fbd2-9fa2-4536-9dba-2356831b4f25</dc:identifier>
+        <dc:title>Mezzotints in modern music /</dc:title>
+        <dc:creator opf:file-as="Huneker, James" opf:role="aut">James Huneker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70132</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Liszt</dc:subject>
+        <dc:subject>Franz</dc:subject>
+        <dc:subject>1811-1886</dc:subject>
+        <dc:subject>Wagner</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1813-1883</dc:subject>
+        <dc:subject>Chopin</dc:subject>
+        <dc:subject>Frédéric</dc:subject>
+        <dc:subject>1810-1849</dc:subject>
+        <dc:subject>Music -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Brahms</dc:subject>
+        <dc:subject>Johannes</dc:subject>
+        <dc:subject>1833-1897</dc:subject>
+        <dc:subject>Tchaikovsky</dc:subject>
+        <dc:subject>Peter Ilich</dc:subject>
+        <dc:subject>1840-1893</dc:subject>
+        <dc:subject>Strauss</dc:subject>
+        <dc:subject>1864-1949</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Huneker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:24:00.626691+00:00"/>
+        <meta name="calibre:title_sort" content="Mezzotints in modern music /"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

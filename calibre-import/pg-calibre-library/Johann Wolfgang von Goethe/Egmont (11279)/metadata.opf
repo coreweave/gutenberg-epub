@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cab4602-71f7-4cdc-9167-135dfb7e3681</dc:identifier>
+        <dc:title>Egmont</dc:title>
+        <dc:creator opf:file-as="Goethe, Johann Wolfgang von" opf:role="aut">Johann Wolfgang von Goethe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egmont</dc:subject>
+        <dc:subject>Lamoraal</dc:subject>
+        <dc:subject>Graaf van</dc:subject>
+        <dc:subject>1522-1568 -- Drama</dc:subject>
+        <dc:subject>Tragedies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johann Wolfgang von Goethe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:22:20.130795+00:00"/>
+        <meta name="calibre:title_sort" content="Egmont"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

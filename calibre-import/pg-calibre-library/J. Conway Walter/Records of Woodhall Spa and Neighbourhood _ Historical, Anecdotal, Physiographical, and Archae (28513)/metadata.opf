@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">643e2f6a-29d4-4abe-8c1f-a703c8684fe3</dc:identifier>
+        <dc:title>Records of Woodhall Spa and Neighbourhood / Historical, Anecdotal, Physiographical, and Archaeological, with Other Matter</dc:title>
+        <dc:creator opf:file-as="Walter, J. Conway (James Conway)" opf:role="aut">J. Conway Walter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27160</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Woodhall Spa (England)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Conway Walter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:01:47.790445+00:00"/>
+        <meta name="calibre:title_sort" content="Records of Woodhall Spa and Neighbourhood / Historical, Anecdotal, Physiographical, and Archaeological, with Other Matter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

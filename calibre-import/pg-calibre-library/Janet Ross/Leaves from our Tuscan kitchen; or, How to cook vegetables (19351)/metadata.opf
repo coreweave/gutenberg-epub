@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcc123e3-c17f-4e37-8a0d-016cceef8465</dc:identifier>
+        <dc:title>Leaves from our Tuscan kitchen; or, How to cook vegetables</dc:title>
+        <dc:creator opf:file-as="Ross, Janet" opf:role="aut">Janet Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69370</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking (Vegetables)</dc:subject>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Italian -- Tuscan style</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Janet Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:40:38.216711+00:00"/>
+        <meta name="calibre:title_sort" content="Leaves from our Tuscan kitchen; or, How to cook vegetables"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

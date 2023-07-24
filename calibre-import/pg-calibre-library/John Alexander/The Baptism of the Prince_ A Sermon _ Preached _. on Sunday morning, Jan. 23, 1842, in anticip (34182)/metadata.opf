@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">006f3eb1-5d0c-4ec1-b249-28c098b0443b</dc:identifier>
+        <dc:title>The Baptism of the Prince: A Sermon / Preached ... on Sunday morning, Jan. 23, 1842, in anticipation of the baptism of His Royal Highness, the Prince of Wales.</dc:title>
+        <dc:creator opf:file-as="Alexander, John" opf:role="aut">John Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63331</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Baptism</dc:subject>
+        <dc:subject>Bible. Mark X</dc:subject>
+        <dc:subject>13-16 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Alexander&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:34:14.281585+00:00"/>
+        <meta name="calibre:title_sort" content="Baptism of the Prince: A Sermon / Preached ... on Sunday morning, Jan. 23, 1842, in anticipation of the baptism of His Royal Highness, the Prince of Wales., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

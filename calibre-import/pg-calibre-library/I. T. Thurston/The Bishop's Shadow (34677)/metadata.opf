@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c76c9922-8979-4e7f-97f5-d921b157dec4</dc:identifier>
+        <dc:title>The Bishop's Shadow</dc:title>
+        <dc:creator opf:file-as="Thurston, I. T. (Ida Treadwell)" opf:role="aut">I. T. Thurston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Kindness -- Juvenile fiction</dc:subject>
+        <dc:subject>Poverty -- Juvenile fiction</dc:subject>
+        <dc:subject>Theft -- Juvenile fiction</dc:subject>
+        <dc:subject>Sick -- Juvenile fiction</dc:subject>
+        <dc:subject>Bishops -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;I. T. Thurston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:58:38.081205+00:00"/>
+        <meta name="calibre:title_sort" content="Bishop's Shadow, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

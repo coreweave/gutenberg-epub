@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30060</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">651957f9-10ea-49e0-98b0-2da071a58ee5</dc:identifier>
+        <dc:title>Secret Band of Brothers / A Full and True Exposition of All the Various Crimes, Villanies, and Misdeeds of This Powerful Organization in the United States.</dc:title>
+        <dc:creator opf:file-as="Green, J. H. (Jonathan Harrington)" opf:role="aut">J. H. Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17917</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Organized crime -- United States -- History -- 19th century</dc:subject>
+        <dc:subject>Gambling -- United States -- History -- 19th century</dc:subject>
+        <dc:subject>Gambling and crime -- United States -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. H. Green&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:13:33.320644+00:00"/>
+        <meta name="calibre:title_sort" content="Secret Band of Brothers / A Full and True Exposition of All the Various Crimes, Villanies, and Misdeeds of This Powerful Organization in the United States."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

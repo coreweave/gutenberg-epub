@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54412</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1908494-5d90-46fb-b76a-86c3319ca049</dc:identifier>
+        <dc:title>What Cheer; Or, Roger Williams in Banishment: A Poem</dc:title>
+        <dc:creator opf:file-as="Durfee, Job" opf:role="aut">Job Durfee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65495</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Williams</dc:subject>
+        <dc:subject>Roger</dc:subject>
+        <dc:subject>1604?-1683 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Job Durfee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:49:29.440273+00:00"/>
+        <meta name="calibre:title_sort" content="What Cheer; Or, Roger Williams in Banishment: A Poem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

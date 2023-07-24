@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20ceea3f-e9d6-4589-993f-eada9d509013</dc:identifier>
+        <dc:title>Three Men on the Bummel</dc:title>
+        <dc:creator opf:file-as="Jerome, Jerome K. (Jerome Klapka)" opf:role="aut">Jerome K. Jerome</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2183</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>British -- Germany -- Fiction</dc:subject>
+        <dc:subject>Black Forest (Germany) -- Fiction</dc:subject>
+        <dc:subject>Bicycle touring -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jerome K. Jerome&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:23:30.588298+00:00"/>
+        <meta name="calibre:title_sort" content="Three Men on the Bummel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

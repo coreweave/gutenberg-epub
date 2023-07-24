@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebf99565-ebe6-4f0a-9709-a4a6df2698f1</dc:identifier>
+        <dc:title>An essay on the government of children, under three general heads, viz. health, manners, and education</dc:title>
+        <dc:creator opf:file-as="Nelson, James" opf:role="aut">James Nelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59551</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Child rearing -- England -- History -- 18th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Nelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:44:28.564177+00:00"/>
+        <meta name="calibre:title_sort" content="essay on the government of children, under three general heads, viz. health, manners, and education, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

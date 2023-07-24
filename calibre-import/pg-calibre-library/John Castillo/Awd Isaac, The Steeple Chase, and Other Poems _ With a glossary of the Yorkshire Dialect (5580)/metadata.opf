@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3457ec0-51bb-4578-abf5-b1ef3397d949</dc:identifier>
+        <dc:title>Awd Isaac, The Steeple Chase, and Other Poems / With a glossary of the Yorkshire Dialect</dc:title>
+        <dc:creator opf:file-as="Castillo, John" opf:role="aut">John Castillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35287</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry</dc:subject>
+        <dc:subject>English language -- Dialects -- England -- Yorkshire</dc:subject>
+        <dc:subject>English poetry -- England -- Yorkshire</dc:subject>
+        <dc:subject>Yorkshire (England) -- Poetry</dc:subject>
+        <dc:subject>English language -- Dialects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Castillo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:04:03.180129+00:00"/>
+        <meta name="calibre:title_sort" content="Awd Isaac, The Steeple Chase, and Other Poems / With a glossary of the Yorkshire Dialect"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

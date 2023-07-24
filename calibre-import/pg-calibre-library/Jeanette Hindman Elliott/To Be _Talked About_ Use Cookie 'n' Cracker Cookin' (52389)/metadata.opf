@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bd9af72-1a4f-443f-ae68-6695c2ea6578</dc:identifier>
+        <dc:title>To Be "Talked About" Use Cookie 'n' Cracker Cookin'</dc:title>
+        <dc:creator opf:file-as="Elliott, Jeanette Hindman" opf:role="aut">Jeanette Hindman Elliott</dc:creator>
+        <dc:creator opf:file-as="Elliott, Jeanette Hindman" opf:role="aut">Alfred Festen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64687</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Cookies</dc:subject>
+        <dc:subject>Crackers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jeanette Hindman Elliott&quot;: &quot;&quot;, &quot;Alfred Festen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:39:11.151977+00:00"/>
+        <meta name="calibre:title_sort" content="To Be &quot;Talked About&quot; Use Cookie 'n' Cracker Cookin'"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

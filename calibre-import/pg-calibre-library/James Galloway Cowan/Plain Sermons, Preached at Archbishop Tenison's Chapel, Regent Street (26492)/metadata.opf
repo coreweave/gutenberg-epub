@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29dafb26-f654-42b8-9cb1-09e0688f91c2</dc:identifier>
+        <dc:title>Plain Sermons, Preached at Archbishop Tenison's Chapel, Regent Street</dc:title>
+        <dc:creator opf:file-as="Cowan, James Galloway" opf:role="aut">James Galloway Cowan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64743</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Galloway Cowan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:32:59.198305+00:00"/>
+        <meta name="calibre:title_sort" content="Plain Sermons, Preached at Archbishop Tenison's Chapel, Regent Street"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

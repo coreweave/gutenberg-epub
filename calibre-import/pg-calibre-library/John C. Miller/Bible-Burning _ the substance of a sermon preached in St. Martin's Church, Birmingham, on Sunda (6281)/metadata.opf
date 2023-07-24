@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1823d4c-51b8-4f8b-bcde-18b76aa07cb8</dc:identifier>
+        <dc:title>Bible-Burning / the substance of a sermon preached in St. Martin's Church, Birmingham, on Sunday evening, Dec. 10, 1848</dc:title>
+        <dc:creator opf:file-as="Miller, John C. (John Cale)" opf:role="aut">John C. Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Catholic Church -- Controversial literature -- Protestant authors</dc:subject>
+        <dc:subject>Bible -- Sermons</dc:subject>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Bible. Jeremiah XXXVI</dc:subject>
+        <dc:subject>22</dc:subject>
+        <dc:subject>23 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John C. Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:18:55.601929+00:00"/>
+        <meta name="calibre:title_sort" content="Bible-Burning / the substance of a sermon preached in St. Martin's Church, Birmingham, on Sunday evening, Dec. 10, 1848"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

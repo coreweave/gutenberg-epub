@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ef4e2a2-2148-4e1f-a366-d31d8ff52473</dc:identifier>
+        <dc:title>A Narrative of the Most Remarkable Particulars in the Life of James Albert Ukawsaw Gronniosaw, an African Prince, as Related by Himself</dc:title>
+        <dc:creator opf:file-as="Gronniosaw, James Albert Ukawsaw" opf:role="aut">James Albert Ukawsaw Gronniosaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15042</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Autobiographies</dc:subject>
+        <dc:subject>Christian biography</dc:subject>
+        <dc:subject>Gronniosaw</dc:subject>
+        <dc:subject>James Albert Ukawsaw</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Albert Ukawsaw Gronniosaw&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:04.889225+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Most Remarkable Particulars in the Life of James Albert Ukawsaw Gronniosaw, an African Prince, as Related by Himself, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

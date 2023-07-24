@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87299576-d6a0-428e-b65f-ac17176c96ec</dc:identifier>
+        <dc:title>The English Home from Charles I. to George IV. / Its Architecture, Decoration and Garden Design</dc:title>
+        <dc:creator opf:file-as="Gotch, J. Alfred (John Alfred)" opf:role="aut">J. Alfred Gotch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67419</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Domestic -- England</dc:subject>
+        <dc:subject>Gardens -- England</dc:subject>
+        <dc:subject>Interior decoration -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Alfred Gotch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:45:55.346448+00:00"/>
+        <meta name="calibre:title_sort" content="English Home from Charles I. to George IV. / Its Architecture, Decoration and Garden Design, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f7d65b5-f5a8-4f6b-a83f-3e9deec896b2</dc:identifier>
+        <dc:title>The Black Fawn</dc:title>
+        <dc:creator opf:file-as="Kjelgaard, Jim" opf:role="aut">Jim Kjelgaard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35493</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Farms -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jim Kjelgaard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:00:08.301093+00:00"/>
+        <meta name="calibre:title_sort" content="Black Fawn, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

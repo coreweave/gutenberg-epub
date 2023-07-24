@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78e69f29-47b3-4321-8fd2-dd35daf5c9f3</dc:identifier>
+        <dc:title>Essays on the work entitled "Supernatural Religion"</dc:title>
+        <dc:creator opf:file-as="Lightfoot, J. B. (Joseph Barber)" opf:role="aut">J. B. Lightfoot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Apologetics -- History -- 19th century</dc:subject>
+        <dc:subject>Cassels</dc:subject>
+        <dc:subject>Walter Richard</dc:subject>
+        <dc:subject>1826-1907. Supernatural religion</dc:subject>
+        <dc:subject>Fathers of the church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. B. Lightfoot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:41:10.715981+00:00"/>
+        <meta name="calibre:title_sort" content="Essays on the work entitled &quot;Supernatural Religion&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

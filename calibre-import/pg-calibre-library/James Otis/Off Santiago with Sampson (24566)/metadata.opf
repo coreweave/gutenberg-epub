@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85af0c63-ce73-4d54-a872-9384dad58876</dc:identifier>
+        <dc:title>Off Santiago with Sampson</dc:title>
+        <dc:creator opf:file-as="Otis, James" opf:role="aut">James Otis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43420</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Young men -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Fathers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>Spanish-American War</dc:subject>
+        <dc:subject>1898 -- Juvenile fiction</dc:subject>
+        <dc:subject>Courage -- Juvenile fiction</dc:subject>
+        <dc:subject>War -- Juvenile fiction</dc:subject>
+        <dc:subject>Stowaways -- Juvenile fiction</dc:subject>
+        <dc:subject>Naval battles -- Juvenile fiction</dc:subject>
+        <dc:subject>Cuba -- History -- Revolution</dc:subject>
+        <dc:subject>1895-1898 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Otis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:10:20.587878+00:00"/>
+        <meta name="calibre:title_sort" content="Off Santiago with Sampson"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

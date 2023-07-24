@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49745</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2be4c728-70ff-4ddb-88b8-275384d7a994</dc:identifier>
+        <dc:title>The Van Roon</dc:title>
+        <dc:creator opf:file-as="Snaith, J. C. (John Collis)" opf:role="aut">J. C. Snaith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68520</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Fiction</dc:subject>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Uncles -- Fiction</dc:subject>
+        <dc:subject>Antique dealers -- Fiction</dc:subject>
+        <dc:subject>Art -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. C. Snaith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:50:11.869637+00:00"/>
+        <meta name="calibre:title_sort" content="Van Roon, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

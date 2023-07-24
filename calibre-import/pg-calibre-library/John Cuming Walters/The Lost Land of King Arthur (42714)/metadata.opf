@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42714</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6048f9f-2a16-4125-b687-7ff32b4bdf68</dc:identifier>
+        <dc:title>The Lost Land of King Arthur</dc:title>
+        <dc:creator opf:file-as="Walters, John Cuming" opf:role="aut">John Cuming Walters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arthur</dc:subject>
+        <dc:subject>King -- Homes and haunts -- England -- Cornwall (County)</dc:subject>
+        <dc:subject>Cornwall (England : County) -- Antiquities</dc:subject>
+        <dc:subject>Celtic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Cuming Walters&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:59:15.282092+00:00"/>
+        <meta name="calibre:title_sort" content="Lost Land of King Arthur, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

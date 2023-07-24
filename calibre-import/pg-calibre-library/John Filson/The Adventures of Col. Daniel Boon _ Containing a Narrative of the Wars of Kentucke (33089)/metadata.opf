@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3de7f65b-8a83-45ce-afe1-8d3837f0b7dc</dc:identifier>
+        <dc:title>The Adventures of Col. Daniel Boon / Containing a Narrative of the Wars of Kentucke</dc:title>
+        <dc:creator opf:file-as="Filson, John" opf:role="aut">John Filson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/909</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boone</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1734-1820</dc:subject>
+        <dc:subject>Kentucky -- History -- To 1792</dc:subject>
+        <dc:subject>Indian captivities -- Kentucky</dc:subject>
+        <dc:subject>Pioneers -- Kentucky -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Filson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:40:35.994475+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Col. Daniel Boon / Containing a Narrative of the Wars of Kentucke, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

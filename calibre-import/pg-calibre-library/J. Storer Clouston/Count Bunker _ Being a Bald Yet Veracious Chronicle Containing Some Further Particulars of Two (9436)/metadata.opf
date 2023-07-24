@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f71aae7-0b00-4528-b2da-345d97b6f3a6</dc:identifier>
+        <dc:title>Count Bunker / Being a Bald Yet Veracious Chronicle Containing Some Further Particulars of Two Gentlemen Whose Previous Careers Were Touched Upon in a Tome Entitled "The Lunatic at Large"</dc:title>
+        <dc:creator opf:file-as="Clouston, J. Storer (Joseph Storer)" opf:role="aut">J. Storer Clouston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1613</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Nobility -- Germany -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Storer Clouston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:33:37.225199+00:00"/>
+        <meta name="calibre:title_sort" content="Count Bunker / Being a Bald Yet Veracious Chronicle Containing Some Further Particulars of Two Gentlemen Whose Previous Careers Were Touched Upon in a Tome Entitled &quot;The Lunatic at Large&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

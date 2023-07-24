@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">679c0205-ed38-473d-8338-55fd4d46a261</dc:identifier>
+        <dc:title>Commodore Barney's Young Spies / A Boy's Story of the Burning of the City of Washington</dc:title>
+        <dc:creator opf:file-as="Otis, James" opf:role="aut">James Otis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32678</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Washington (D.C.) -- History -- Capture by the British</dc:subject>
+        <dc:subject>1814 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Otis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:24:46.643382+00:00"/>
+        <meta name="calibre:title_sort" content="Commodore Barney's Young Spies / A Boy's Story of the Burning of the City of Washington"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">091afcf8-b203-42c9-a0e1-b5fc65e1e88c</dc:identifier>
+        <dc:title>Maida's Little Shop</dc:title>
+        <dc:creator opf:file-as="Gillmore, Inez Haynes" opf:role="aut">Inez Haynes Gillmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17530</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Children of the rich -- Juvenile fiction</dc:subject>
+        <dc:subject>Sick children -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Inez Haynes Gillmore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:38:30.512209+00:00"/>
+        <meta name="calibre:title_sort" content="Maida's Little Shop"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

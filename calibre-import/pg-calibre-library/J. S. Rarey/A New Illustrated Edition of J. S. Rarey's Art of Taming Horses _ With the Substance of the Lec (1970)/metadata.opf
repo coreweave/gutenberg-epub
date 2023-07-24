@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">993bcc7f-92d3-4308-8635-5b9d36c3c22e</dc:identifier>
+        <dc:title>A New Illustrated Edition of J. S. Rarey's Art of Taming Horses / With the Substance of the Lectures at the Round House, and Additional Chapters on Horsemanship and Hunting, for the Young and Timid</dc:title>
+        <dc:creator opf:file-as="Rarey, J. S. (John Solomon)" opf:role="aut">J. S. Rarey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28612</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hunting</dc:subject>
+        <dc:subject>Horsemanship</dc:subject>
+        <dc:subject>Horses -- Training</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. S. Rarey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:39.163026+00:00"/>
+        <meta name="calibre:title_sort" content="New Illustrated Edition of J. S. Rarey's Art of Taming Horses / With the Substance of the Lectures at the Round House, and Additional Chapters on Horsemanship and Hunting, for the Young and Timid, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

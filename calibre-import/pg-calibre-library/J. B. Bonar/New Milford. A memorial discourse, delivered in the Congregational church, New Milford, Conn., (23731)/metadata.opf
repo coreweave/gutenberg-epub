@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4145f0b2-a343-495c-981a-b2d5fe550c56</dc:identifier>
+        <dc:title>New Milford. A memorial discourse, delivered in the Congregational church, New Milford, Conn., Sunday, July 9, 1876</dc:title>
+        <dc:creator opf:file-as="Bonar, J. B. (James Blair)" opf:role="aut">J. B. Bonar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64158</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New Milford (Conn.) -- History</dc:subject>
+        <dc:subject>First Congregational Church (New Milford</dc:subject>
+        <dc:subject>Conn.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. B. Bonar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:34:35.137051+00:00"/>
+        <meta name="calibre:title_sort" content="New Milford. A memorial discourse, delivered in the Congregational church, New Milford, Conn., Sunday, July 9, 1876"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

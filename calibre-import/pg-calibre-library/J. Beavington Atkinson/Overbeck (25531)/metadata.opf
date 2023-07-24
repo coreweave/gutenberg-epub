@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0119767f-e949-41c4-bf6c-75a37c1b4207</dc:identifier>
+        <dc:title>Overbeck</dc:title>
+        <dc:creator opf:file-as="Atkinson, J. Beavington" opf:role="aut">J. Beavington Atkinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25073</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Overbeck</dc:subject>
+        <dc:subject>Johann Friedrich</dc:subject>
+        <dc:subject>1789-1869</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Beavington Atkinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:50:50.571556+00:00"/>
+        <meta name="calibre:title_sort" content="Overbeck"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

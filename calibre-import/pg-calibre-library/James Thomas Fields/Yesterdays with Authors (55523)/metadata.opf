@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07f9e269-8b69-486b-89af-39889aa5b346</dc:identifier>
+        <dc:title>Yesterdays with Authors</dc:title>
+        <dc:creator opf:file-as="Fields, James Thomas" opf:role="aut">James Thomas Fields</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12632</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dickens</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1812-1870</dc:subject>
+        <dc:subject>Hawthorne</dc:subject>
+        <dc:subject>Nathaniel</dc:subject>
+        <dc:subject>1804-1864</dc:subject>
+        <dc:subject>Authors -- Biography</dc:subject>
+        <dc:subject>Thackeray</dc:subject>
+        <dc:subject>William Makepeace</dc:subject>
+        <dc:subject>1811-1863</dc:subject>
+        <dc:subject>Wordsworth</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1770-1850</dc:subject>
+        <dc:subject>Mitford</dc:subject>
+        <dc:subject>Mary Russell</dc:subject>
+        <dc:subject>1787-1855</dc:subject>
+        <dc:subject>Cornwall</dc:subject>
+        <dc:subject>Barry</dc:subject>
+        <dc:subject>1787-1874</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Thomas Fields&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:03:49.838963+00:00"/>
+        <meta name="calibre:title_sort" content="Yesterdays with Authors"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

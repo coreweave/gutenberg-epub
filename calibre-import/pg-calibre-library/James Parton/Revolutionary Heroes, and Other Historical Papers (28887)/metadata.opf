@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28887</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db1a4362-3711-48eb-bbef-733d5f3c5333</dc:identifier>
+        <dc:title>Revolutionary Heroes, and Other Historical Papers</dc:title>
+        <dc:creator opf:file-as="Parton, James" opf:role="aut">James Parton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8154</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Parton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:19:10.440443+00:00"/>
+        <meta name="calibre:title_sort" content="Revolutionary Heroes, and Other Historical Papers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

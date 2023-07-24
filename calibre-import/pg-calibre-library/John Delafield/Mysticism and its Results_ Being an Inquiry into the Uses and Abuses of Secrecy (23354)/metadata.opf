@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3f11c49-119a-4381-8fc7-0b5b27f4c28d</dc:identifier>
+        <dc:title>Mysticism and its Results: Being an Inquiry into the Uses and Abuses of Secrecy</dc:title>
+        <dc:creator opf:file-as="Delafield, John" opf:role="aut">John Delafield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22314</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Secret societies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Delafield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:19:05.198885+00:00"/>
+        <meta name="calibre:title_sort" content="Mysticism and its Results: Being an Inquiry into the Uses and Abuses of Secrecy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

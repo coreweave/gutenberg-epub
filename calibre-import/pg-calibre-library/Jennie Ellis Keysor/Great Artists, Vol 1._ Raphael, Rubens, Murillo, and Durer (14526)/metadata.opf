@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c16e32e-925d-457e-b760-c6505e8ebd43</dc:identifier>
+        <dc:title>Great Artists, Vol 1.: Raphael, Rubens, Murillo, and Durer</dc:title>
+        <dc:creator opf:file-as="Keysor, Jennie Ellis" opf:role="aut">Jennie Ellis Keysor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22564</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artists</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jennie Ellis Keysor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:57:22.718018+00:00"/>
+        <meta name="calibre:title_sort" content="Great Artists, Vol 1.: Raphael, Rubens, Murillo, and Durer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

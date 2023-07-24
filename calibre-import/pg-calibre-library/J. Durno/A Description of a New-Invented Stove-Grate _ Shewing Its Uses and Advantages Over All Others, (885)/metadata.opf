@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06ddbdc7-dd83-461e-b93b-d5ad4e23a6ef</dc:identifier>
+        <dc:title>A Description of a New-Invented Stove-Grate / Shewing Its Uses and Advantages Over All Others, Both in Point of Expence, and Every Purpose of a Chamber Fire</dc:title>
+        <dc:creator opf:file-as="Durno, J." opf:role="aut">J. Durno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64077</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Furnaces</dc:subject>
+        <dc:subject>Heating</dc:subject>
+        <dc:subject>Stoves</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Durno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:18.689256+00:00"/>
+        <meta name="calibre:title_sort" content="Description of a New-Invented Stove-Grate / Shewing Its Uses and Advantages Over All Others, Both in Point of Expence, and Every Purpose of a Chamber Fire, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

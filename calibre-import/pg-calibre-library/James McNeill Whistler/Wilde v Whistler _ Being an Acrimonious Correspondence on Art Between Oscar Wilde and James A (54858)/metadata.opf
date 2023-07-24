@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3ac81eb-8ab7-4004-a7c4-4c70def0ff81</dc:identifier>
+        <dc:title>Wilde v Whistler / Being an Acrimonious Correspondence on Art Between Oscar Wilde and James A McNeill Whistler</dc:title>
+        <dc:creator opf:file-as="Whistler, James McNeill" opf:role="aut">James McNeill Whistler</dc:creator>
+        <dc:creator opf:file-as="Whistler, James McNeill" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69674</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wilde</dc:subject>
+        <dc:subject>Oscar</dc:subject>
+        <dc:subject>1854-1900 -- Correspondence</dc:subject>
+        <dc:subject>Whistler</dc:subject>
+        <dc:subject>James McNeill</dc:subject>
+        <dc:subject>1834-1903 -- Correspondence</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Irish -- 19th century -- Correspondence</dc:subject>
+        <dc:subject>Art for art’s sake (Movement)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James McNeill Whistler&quot;: &quot;&quot;, &quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:18:42.043252+00:00"/>
+        <meta name="calibre:title_sort" content="Wilde v Whistler / Being an Acrimonious Correspondence on Art Between Oscar Wilde and James A McNeill Whistler"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

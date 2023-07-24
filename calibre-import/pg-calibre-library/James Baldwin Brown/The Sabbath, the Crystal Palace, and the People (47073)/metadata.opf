@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc196e95-a2c8-427f-a963-be69d1375396</dc:identifier>
+        <dc:title>The Sabbath, the Crystal Palace, and the People</dc:title>
+        <dc:creator opf:file-as="Brown, James Baldwin" opf:role="aut">James Baldwin Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62202</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sunday</dc:subject>
+        <dc:subject>Crystal Palace (Sydenham</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>Sunday legislation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Baldwin Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:08:32.460452+00:00"/>
+        <meta name="calibre:title_sort" content="Sabbath, the Crystal Palace, and the People, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

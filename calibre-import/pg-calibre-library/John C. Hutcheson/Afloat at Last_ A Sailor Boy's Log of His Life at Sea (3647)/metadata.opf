@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a53845c0-e3d1-47a7-bc76-c51127b57cf7</dc:identifier>
+        <dc:title>Afloat at Last: A Sailor Boy's Log of His Life at Sea</dc:title>
+        <dc:creator opf:file-as="Hutcheson, John C. (John Conroy)" opf:role="aut">John C. Hutcheson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21104</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Ship captains -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>Hurricanes -- Juvenile fiction</dc:subject>
+        <dc:subject>Sargasso Sea -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John C. Hutcheson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:16.795554+00:00"/>
+        <meta name="calibre:title_sort" content="Afloat at Last: A Sailor Boy's Log of His Life at Sea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

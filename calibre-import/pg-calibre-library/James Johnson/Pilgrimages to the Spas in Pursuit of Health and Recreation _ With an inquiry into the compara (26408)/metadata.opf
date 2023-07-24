@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb9e3d07-58ef-444a-a599-d4234fb5525e</dc:identifier>
+        <dc:title>Pilgrimages to the Spas in Pursuit of Health and Recreation / With an inquiry into the comparative merits of different mineral waters: the maladies to which they are applicable, and those in which they are injurious</dc:title>
+        <dc:creator opf:file-as="Johnson, James" opf:role="aut">James Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60104</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Health resorts</dc:subject>
+        <dc:subject>Mineral waters</dc:subject>
+        <dc:subject>Balneology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:29:18.475108+00:00"/>
+        <meta name="calibre:title_sort" content="Pilgrimages to the Spas in Pursuit of Health and Recreation / With an inquiry into the comparative merits of different mineral waters: the maladies to which they are applicable, and those in which they are injurious"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

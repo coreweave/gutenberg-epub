@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">862fadca-bcab-49cf-86c3-95da8f3196e3</dc:identifier>
+        <dc:title>The Young Mechanic / Containing directions for the use of all kinds of tools, and for the construction of steam engines and mechanical models, including the art of turning in wood and metal</dc:title>
+        <dc:creator opf:file-as="Lukin, James" opf:role="aut">James Lukin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60765</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Industrial arts</dc:subject>
+        <dc:subject>Handicraft</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Lukin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:13:25.185033+00:00"/>
+        <meta name="calibre:title_sort" content="Young Mechanic / Containing directions for the use of all kinds of tools, and for the construction of steam engines and mechanical models, including the art of turning in wood and metal, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

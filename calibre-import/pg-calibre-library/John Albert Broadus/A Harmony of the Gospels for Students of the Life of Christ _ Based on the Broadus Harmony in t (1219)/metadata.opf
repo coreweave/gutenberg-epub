@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">765576fb-c825-4825-919b-cf0f6d393fd8</dc:identifier>
+        <dc:title>A Harmony of the Gospels for Students of the Life of Christ / Based on the Broadus Harmony in the Revised Version</dc:title>
+        <dc:creator opf:file-as="Broadus, John Albert" opf:role="aut">John Albert Broadus</dc:creator>
+        <dc:creator opf:file-as="Broadus, John Albert" opf:role="aut">A. T. Robertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36264</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Gospels -- Harmonies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Albert Broadus&quot;: &quot;&quot;, &quot;A. T. Robertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:44:30.436022+00:00"/>
+        <meta name="calibre:title_sort" content="Harmony of the Gospels for Students of the Life of Christ / Based on the Broadus Harmony in the Revised Version, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

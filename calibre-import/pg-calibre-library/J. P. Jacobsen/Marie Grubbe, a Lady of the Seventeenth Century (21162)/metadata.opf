@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe009c2c-7d24-41d9-872e-6bc42b5a75cb</dc:identifier>
+        <dc:title>Marie Grubbe, a Lady of the Seventeenth Century</dc:title>
+        <dc:creator opf:file-as="Jacobsen, J. P. (Jens Peter)" opf:role="aut">J. P. Jacobsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54845</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Grubbe</dc:subject>
+        <dc:subject>Marie</dc:subject>
+        <dc:subject>approximately 1640-1718 -- Fiction</dc:subject>
+        <dc:subject>Women -- Denmark -- Fiction</dc:subject>
+        <dc:subject>Denmark -- History -- 17th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. P. Jacobsen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:48:35.957653+00:00"/>
+        <meta name="calibre:title_sort" content="Marie Grubbe, a Lady of the Seventeenth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

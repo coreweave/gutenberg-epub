@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b542c37d-642f-4fa9-82c7-5314d07fd436</dc:identifier>
+        <dc:title>Studies from Court and Cloister: being essays, historical and literary dealing mainly with subjects relating to the XVIth and XVIIth centuries</dc:title>
+        <dc:creator opf:file-as="Stone, J. M. (Jean Mary)" opf:role="aut">J. M. Stone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4333</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Margaret</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of James IV</dc:subject>
+        <dc:subject>King of Scotland</dc:subject>
+        <dc:subject>1489-1541</dc:subject>
+        <dc:subject>Great Britain -- History -- Henry VIII</dc:subject>
+        <dc:subject>1509-1547</dc:subject>
+        <dc:subject>Reformation in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. M. Stone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:51:36.158252+00:00"/>
+        <meta name="calibre:title_sort" content="Studies from Court and Cloister: being essays, historical and literary dealing mainly with subjects relating to the XVIth and XVIIth centuries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06ed6369-1828-4811-8f21-ad1c15d372d7</dc:identifier>
+        <dc:title>Wrecked on Spider Island; Or, How Ned Rogers Found the Treasure</dc:title>
+        <dc:creator opf:file-as="Otis, James" opf:role="aut">James Otis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63561</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Pirates -- Juvenile fiction</dc:subject>
+        <dc:subject>Treasure troves -- Juvenile fiction</dc:subject>
+        <dc:subject>Kindness -- Juvenile fiction</dc:subject>
+        <dc:subject>Shipwrecks -- Juvenile fiction</dc:subject>
+        <dc:subject>Poverty -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Prisoners -- Juvenile fiction</dc:subject>
+        <dc:subject>Florida Keys (Fla.) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Otis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:58:18.217954+00:00"/>
+        <meta name="calibre:title_sort" content="Wrecked on Spider Island; Or, How Ned Rogers Found the Treasure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

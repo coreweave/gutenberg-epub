@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2104108-1baa-494c-b0c9-dd44737180bc</dc:identifier>
+        <dc:title>The Fifth Ace</dc:title>
+        <dc:creator opf:file-as="Ostrander, Isabel" opf:role="aut">Isabel Ostrander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23885</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isabel Ostrander&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:11:01.356010+00:00"/>
+        <meta name="calibre:title_sort" content="Fifth Ace, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

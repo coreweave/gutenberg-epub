@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9c77efc-a4e7-47f8-ac83-3c9372445ca6</dc:identifier>
+        <dc:title>The Pilgrim's Progress from this world to that which is to come / Delivered under the similitude of a dream, by John Bunyan</dc:title>
+        <dc:creator opf:file-as="Bunyan, John" opf:role="aut">John Bunyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian fiction</dc:subject>
+        <dc:subject>Christian pilgrims and pilgrimages -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Bunyan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:30:42.651651+00:00"/>
+        <meta name="calibre:title_sort" content="Pilgrim's Progress from this world to that which is to come / Delivered under the similitude of a dream, by John Bunyan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

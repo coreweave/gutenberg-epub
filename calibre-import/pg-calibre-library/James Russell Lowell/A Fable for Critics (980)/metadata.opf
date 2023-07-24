@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6db030a7-70a7-41c5-88f5-49ca3f09832e</dc:identifier>
+        <dc:title>A Fable for Critics</dc:title>
+        <dc:creator opf:file-as="Lowell, James Russell" opf:role="aut">James Russell Lowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66213</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry -- 19th century</dc:subject>
+        <dc:subject>American literature -- 19th century -- Anecdotes</dc:subject>
+        <dc:subject>facetiae</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Russell Lowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:40:44.341782+00:00"/>
+        <meta name="calibre:title_sort" content="Fable for Critics, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

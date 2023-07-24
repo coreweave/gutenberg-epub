@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30418</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1b7d05c-eb2e-436b-baf7-41b9fdf28c4d</dc:identifier>
+        <dc:title>Shakspere, Personal Recollections</dc:title>
+        <dc:creator opf:file-as="Joyce, John A. (John Alexander)" opf:role="aut">John A. Joyce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John A. Joyce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:31:53.241836+00:00"/>
+        <meta name="calibre:title_sort" content="Shakspere, Personal Recollections"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

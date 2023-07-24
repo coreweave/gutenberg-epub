@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8bfadaf-82c5-4b23-b9d7-8b4882e240a2</dc:identifier>
+        <dc:title>The Cruise of the Catalpa: A Poem</dc:title>
+        <dc:creator opf:file-as="Breslin, John (John Joseph)" opf:role="aut">John Breslin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61372</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fenians -- Poetry</dc:subject>
+        <dc:subject>Catalpa (Bark) -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Breslin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:54:22.534684+00:00"/>
+        <meta name="calibre:title_sort" content="Cruise of the Catalpa: A Poem, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

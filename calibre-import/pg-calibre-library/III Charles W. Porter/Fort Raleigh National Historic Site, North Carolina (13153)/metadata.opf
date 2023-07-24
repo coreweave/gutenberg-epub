@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fe125e2-2f4c-4421-ad7a-94c3a70d22eb</dc:identifier>
+        <dc:title>Fort Raleigh National Historic Site, North Carolina</dc:title>
+        <dc:creator opf:file-as="Porter, Charles W., III (Charles Wesley)" opf:role="aut">III Charles W. Porter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58610</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Roanoke Colony</dc:subject>
+        <dc:subject>Fort Raleigh National Historic Site (N.C.)</dc:subject>
+        <dc:subject>Roanoke Island (N.C.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;III Charles W. Porter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:15:15.484462+00:00"/>
+        <meta name="calibre:title_sort" content="Fort Raleigh National Historic Site, North Carolina"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

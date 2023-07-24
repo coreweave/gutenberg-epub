@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65d6e7b0-a561-45ca-9546-1a2299d83656</dc:identifier>
+        <dc:title>Symmes's Theory of Concentric Spheres / Demonstrating that the Earth is hollow, habitable within, and widely open about the poles</dc:title>
+        <dc:creator opf:file-as="McBride, James" opf:role="aut">James McBride</dc:creator>
+        <dc:creator opf:file-as="McBride, James" opf:role="aut">John Cleves Symmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54329</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Earth (Planet) -- Miscellanea</dc:subject>
+        <dc:subject>Symmes</dc:subject>
+        <dc:subject>John Cleves</dc:subject>
+        <dc:subject>1780-1829</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James McBride&quot;: &quot;&quot;, &quot;John Cleves Symmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:06:57.706398+00:00"/>
+        <meta name="calibre:title_sort" content="Symmes's Theory of Concentric Spheres / Demonstrating that the Earth is hollow, habitable within, and widely open about the poles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

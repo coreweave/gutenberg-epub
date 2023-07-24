@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbf557fc-3bec-4b35-ae41-8fef9ffbce6b</dc:identifier>
+        <dc:title>Montaigne and Shakspere</dc:title>
+        <dc:creator opf:file-as="Robertson, J. M. (John Mackinnon)" opf:role="aut">J. M. Robertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25535</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Sources</dc:subject>
+        <dc:subject>1564-1616 -- Philosophy</dc:subject>
+        <dc:subject>Montaigne</dc:subject>
+        <dc:subject>Michel de</dc:subject>
+        <dc:subject>1533-1592 -- Influence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. M. Robertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:43:41.367464+00:00"/>
+        <meta name="calibre:title_sort" content="Montaigne and Shakspere"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

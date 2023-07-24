@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d37f484a-1abc-40cf-9575-9609d1bb7e26</dc:identifier>
+        <dc:title>All for Love; Or, The World Well Lost: A Tragedy</dc:title>
+        <dc:creator opf:file-as="Dryden, John" opf:role="aut">John Dryden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2062</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- Rome -- Drama</dc:subject>
+        <dc:subject>Queens -- Egypt -- Drama</dc:subject>
+        <dc:subject>Antonius</dc:subject>
+        <dc:subject>Marcus</dc:subject>
+        <dc:subject>83 B.C.?-30 B.C. -- Drama</dc:subject>
+        <dc:subject>Cleopatra</dc:subject>
+        <dc:subject>Queen of Egypt</dc:subject>
+        <dc:subject>-30 B.C. -- Drama</dc:subject>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Romans -- Egypt -- Drama</dc:subject>
+        <dc:subject>Egypt -- History -- 332-30 B.C. -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Dryden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:30:38.535025+00:00"/>
+        <meta name="calibre:title_sort" content="All for Love; Or, The World Well Lost: A Tragedy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

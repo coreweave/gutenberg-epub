@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44863</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5376e758-e534-4bcd-8d2f-0936f525e775</dc:identifier>
+        <dc:title>The Origins and Destiny of Imperial Britain / Nineteenth Century Europe</dc:title>
+        <dc:creator opf:file-as="Cramb, J. A. (John Adam)" opf:role="aut">J. A. Cramb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30710</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Imperialism</dc:subject>
+        <dc:subject>Great Britain -- Colonies -- Administration -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. A. Cramb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:59:48.492348+00:00"/>
+        <meta name="calibre:title_sort" content="Origins and Destiny of Imperial Britain / Nineteenth Century Europe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

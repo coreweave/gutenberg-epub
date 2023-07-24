@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9865bcd6-1f1d-4ec7-8b31-d305ae17f1c1</dc:identifier>
+        <dc:title>The Story of Louis Riel: The Rebel Chief</dc:title>
+        <dc:creator opf:file-as="Collins, J. E. (Joseph Edmund)" opf:role="aut">J. E. Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10399</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Riel</dc:subject>
+        <dc:subject>Louis</dc:subject>
+        <dc:subject>1844-1885</dc:subject>
+        <dc:subject>Revolutionaries -- Canada -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. E. Collins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:20:13.867446+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Louis Riel: The Rebel Chief, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

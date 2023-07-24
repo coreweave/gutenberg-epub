@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5ad3e74-18fb-43b0-9ee3-b5abc44dbf6d</dc:identifier>
+        <dc:title>The Christian serving his own generation / A sermon occasioned by the lamented death of Joseph John Gurney, Esq.</dc:title>
+        <dc:creator opf:file-as="Alexander, John" opf:role="aut">John Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63770</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Funeral sermons</dc:subject>
+        <dc:subject>Gurney</dc:subject>
+        <dc:subject>Joseph John</dc:subject>
+        <dc:subject>1788-1847</dc:subject>
+        <dc:subject>Christian life -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Alexander&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:11:52.002010+00:00"/>
+        <meta name="calibre:title_sort" content="Christian serving his own generation / A sermon occasioned by the lamented death of Joseph John Gurney, Esq., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

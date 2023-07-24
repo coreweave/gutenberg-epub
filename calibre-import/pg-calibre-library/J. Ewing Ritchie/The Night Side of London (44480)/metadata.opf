@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">275ae859-3956-48b9-84b9-575209026b4b</dc:identifier>
+        <dc:title>The Night Side of London</dc:title>
+        <dc:creator opf:file-as="Ritchie, J. Ewing (James Ewing)" opf:role="aut">J. Ewing Ritchie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32774</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Social life and customs -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Ewing Ritchie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:38:12.727738+00:00"/>
+        <meta name="calibre:title_sort" content="Night Side of London, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

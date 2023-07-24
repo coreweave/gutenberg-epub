@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9b64c65-b4a2-4a61-bcc8-fa19f1ef6eaa</dc:identifier>
+        <dc:title>Peter Pan</dc:title>
+        <dc:creator opf:file-as="Barrie, J. M. (James Matthew)" opf:role="aut">J. M. Barrie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy literature</dc:subject>
+        <dc:subject>Peter Pan (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Never-Never Land (Imaginary place) -- Fiction</dc:subject>
+        <dc:subject>Pirates -- Fiction</dc:subject>
+        <dc:subject>Fairies -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. M. Barrie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:17:00.451773+00:00"/>
+        <meta name="calibre:title_sort" content="Peter Pan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

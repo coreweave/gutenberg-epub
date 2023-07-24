@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b2203c5-1704-4116-8b06-b2e51c707e6c</dc:identifier>
+        <dc:title>Dream Tales and Prose Poems</dc:title>
+        <dc:creator opf:file-as="Turgenev, Ivan Sergeevich" opf:role="aut">Ivan Sergeevich Turgenev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8935</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Russia -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Turgenev</dc:subject>
+        <dc:subject>Ivan Sergeevich</dc:subject>
+        <dc:subject>1818-1883 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ivan Sergeevich Turgenev&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:13:54.740293+00:00"/>
+        <meta name="calibre:title_sort" content="Dream Tales and Prose Poems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

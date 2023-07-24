@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">572b3a1f-5b2a-49c0-912c-6c817951c252</dc:identifier>
+        <dc:title>The Story of the Barbary Corsairs</dc:title>
+        <dc:creator opf:file-as="Kelley, J. D. Jerrold (James Douglas Jerrold)" opf:role="aut">J. D. Jerrold Kelley</dc:creator>
+        <dc:creator opf:file-as="Kelley, J. D. Jerrold (James Douglas Jerrold)" opf:role="aut">Stanley Lane-Poole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22169</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pirates</dc:subject>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>North -- History -- 1517-1882</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. D. Jerrold Kelley&quot;: &quot;&quot;, &quot;Stanley Lane-Poole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:30:09.779549+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the Barbary Corsairs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

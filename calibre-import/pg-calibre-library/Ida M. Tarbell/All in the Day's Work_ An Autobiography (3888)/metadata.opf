@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">831b67a8-8a71-45ae-ab55-e8d776c24605</dc:identifier>
+        <dc:title>All in the Day's Work: An Autobiography</dc:title>
+        <dc:creator opf:file-as="Tarbell, Ida M. (Ida Minerva)" opf:role="aut">Ida M. Tarbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Journalists -- United States -- Biography</dc:subject>
+        <dc:subject>Tarbell</dc:subject>
+        <dc:subject>Ida M. (Ida Minerva)</dc:subject>
+        <dc:subject>1857-1944</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ida M. Tarbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:30:44.370471+00:00"/>
+        <meta name="calibre:title_sort" content="All in the Day's Work: An Autobiography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

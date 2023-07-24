@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfabdf32-41b9-443f-9e1c-b807ab91f8e6</dc:identifier>
+        <dc:title>Through Shot and Flame / The Adventures and Experiences of J. D. Kestell Chaplain to President Steyn and General Christian De Wet</dc:title>
+        <dc:creator opf:file-as="Kestell, J. D. (John Daniel)" opf:role="aut">J. D. Kestell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37083</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902 -- Personal narratives</dc:subject>
+        <dc:subject>Afrikaner</dc:subject>
+        <dc:subject>Afrikaners -- Biography</dc:subject>
+        <dc:subject>Kestell</dc:subject>
+        <dc:subject>J. D. (John Daniel)</dc:subject>
+        <dc:subject>1854-1941</dc:subject>
+        <dc:subject>Military chaplains -- South Africa -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. D. Kestell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:29:47.008881+00:00"/>
+        <meta name="calibre:title_sort" content="Through Shot and Flame / The Adventures and Experiences of J. D. Kestell Chaplain to President Steyn and General Christian De Wet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

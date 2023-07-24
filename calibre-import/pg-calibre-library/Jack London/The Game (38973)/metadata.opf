@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">158f42d0-1cc6-49fe-ae36-150ad619927f</dc:identifier>
+        <dc:title>The Game</dc:title>
+        <dc:creator opf:file-as="London, Jack" opf:role="aut">Jack London</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1160</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boxers (Sports) -- Fiction</dc:subject>
+        <dc:subject>Boxing stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:36:55.286475+00:00"/>
+        <meta name="calibre:title_sort" content="Game, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74bc4b35-db15-4baf-91a6-4a2a816d2b47</dc:identifier>
+        <dc:title>My Story That I Like Best</dc:title>
+        <dc:creator opf:file-as="Cobb, Irvin S. (Irvin Shrewsbury)" opf:role="aut">Irvin S. Cobb</dc:creator>
+        <dc:creator opf:file-as="Cobb, Irvin S. (Irvin Shrewsbury)" opf:role="aut">James Oliver Curwood</dc:creator>
+        <dc:creator opf:file-as="Cobb, Irvin S. (Irvin Shrewsbury)" opf:role="aut">Edna Ferber</dc:creator>
+        <dc:creator opf:file-as="Cobb, Irvin S. (Irvin Shrewsbury)" opf:role="aut">Peter B. Kyne</dc:creator>
+        <dc:creator opf:file-as="Cobb, Irvin S. (Irvin Shrewsbury)" opf:role="aut">Meredith Nicholson</dc:creator>
+        <dc:creator opf:file-as="Cobb, Irvin S. (Irvin Shrewsbury)" opf:role="aut">H. C. Witwer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65906</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>American fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Irvin S. Cobb&quot;: &quot;&quot;, &quot;James Oliver Curwood&quot;: &quot;&quot;, &quot;Edna Ferber&quot;: &quot;&quot;, &quot;Peter B. Kyne&quot;: &quot;&quot;, &quot;Meredith Nicholson&quot;: &quot;&quot;, &quot;H. C. Witwer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:15:40.384000+00:00"/>
+        <meta name="calibre:title_sort" content="My Story That I Like Best"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

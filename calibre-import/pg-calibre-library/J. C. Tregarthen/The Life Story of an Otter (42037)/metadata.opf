@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42037</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4fb7f8c-759c-40df-a520-528a39f4193c</dc:identifier>
+        <dc:title>The Life Story of an Otter</dc:title>
+        <dc:creator opf:file-as="Tregarthen, J. C. (John Coulson)" opf:role="aut">J. C. Tregarthen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54872</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Otters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. C. Tregarthen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:21:34.345726+00:00"/>
+        <meta name="calibre:title_sort" content="Life Story of an Otter, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

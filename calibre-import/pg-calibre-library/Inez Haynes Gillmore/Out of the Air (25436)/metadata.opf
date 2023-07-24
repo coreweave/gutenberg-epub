@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">958d06e9-f593-4a49-9342-4c397b6bce90</dc:identifier>
+        <dc:title>Out of the Air</dc:title>
+        <dc:creator opf:file-as="Gillmore, Inez Haynes" opf:role="aut">Inez Haynes Gillmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38060</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Ghosts -- Fiction</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Veterans -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Inez Haynes Gillmore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:46:48.532449+00:00"/>
+        <meta name="calibre:title_sort" content="Out of the Air"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

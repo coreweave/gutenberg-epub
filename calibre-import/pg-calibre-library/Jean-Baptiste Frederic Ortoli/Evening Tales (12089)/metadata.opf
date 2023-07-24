@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84fc1b7f-26df-41a8-945c-399bd0610bae</dc:identifier>
+        <dc:title>Evening Tales</dc:title>
+        <dc:creator opf:file-as="Ortoli, Jean-Baptiste Frédéric" opf:role="aut">Jean-Baptiste Frédéric Ortoli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56153</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Baptiste Frédéric Ortoli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:44:44.657210+00:00"/>
+        <meta name="calibre:title_sort" content="Evening Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

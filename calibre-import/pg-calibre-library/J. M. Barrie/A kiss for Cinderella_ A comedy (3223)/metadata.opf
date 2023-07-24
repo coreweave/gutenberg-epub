@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08e95018-2d40-40d6-8cfe-3bd6e5787607</dc:identifier>
+        <dc:title>A kiss for Cinderella: A comedy</dc:title>
+        <dc:creator opf:file-as="Barrie, J. M. (James Matthew)" opf:role="aut">J. M. Barrie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69817</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Drama</dc:subject>
+        <dc:subject>Man-woman relationships -- Drama</dc:subject>
+        <dc:subject>London (England) -- Drama</dc:subject>
+        <dc:subject>Fantasy drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. M. Barrie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:32.813929+00:00"/>
+        <meta name="calibre:title_sort" content="kiss for Cinderella: A comedy, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

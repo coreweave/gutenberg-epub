@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6dfc43f-ee15-4d0d-b602-3b35e3e835c3</dc:identifier>
+        <dc:title>Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals</dc:title>
+        <dc:creator opf:file-as="Lawson, J. C. (John Cuthbert)" opf:role="aut">J. C. Lawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66116</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <dc:subject>Greece -- Religion</dc:subject>
+        <dc:subject>Folklore -- Greece</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. C. Lawson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:38:02.055678+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

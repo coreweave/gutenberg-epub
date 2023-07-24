@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bedc2407-a218-4bd9-ae0f-8381930f7c02</dc:identifier>
+        <dc:title>The Journal of a Tour to the Hebrides with Samuel Johnson, LL.D.</dc:title>
+        <dc:creator opf:file-as="Boswell, James" opf:role="aut">James Boswell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6018</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scotland -- Description and travel -- Early works to 1800</dc:subject>
+        <dc:subject>Johnson</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1709-1784 -- Travel -- Scotland -- Hebrides</dc:subject>
+        <dc:subject>Boswell</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1740-1795 -- Travel -- Scotland -- Hebrides</dc:subject>
+        <dc:subject>Hebrides (Scotland) -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Boswell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:43:16.483091+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of a Tour to the Hebrides with Samuel Johnson, LL.D., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ac130aa-b019-4cf3-a026-6a70c6dc0b4c</dc:identifier>
+        <dc:title>Chaitanya and the Vaishnava Poets of Bengal</dc:title>
+        <dc:creator opf:file-as="Beames, John" opf:role="aut">John Beames</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6817</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chaitanya</dc:subject>
+        <dc:subject>1486-1534</dc:subject>
+        <dc:subject>Vaishnavism</dc:subject>
+        <dc:subject>Vaishnava poetry</dc:subject>
+        <dc:subject>Bengali</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Beames&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:57:52.028671+00:00"/>
+        <meta name="calibre:title_sort" content="Chaitanya and the Vaishnava Poets of Bengal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

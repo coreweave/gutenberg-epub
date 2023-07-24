@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2139073-6ba4-4a55-b68f-0996ae784c2b</dc:identifier>
+        <dc:title>On the State of Lunacy and the Legal Provision for the Insane / With Observations on the Construction and Organization of Asylums</dc:title>
+        <dc:creator opf:file-as="Arlidge, J. T. (John Thomas)" opf:role="aut">J. T. Arlidge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44320</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychiatric hospitals -- Great Britain</dc:subject>
+        <dc:subject>Psychiatric epidemiology</dc:subject>
+        <dc:subject>Mental health services -- Great Britain</dc:subject>
+        <dc:subject>Insanity (Law) -- Great Britain</dc:subject>
+        <dc:subject>Mentally ill -- Care -- Great Britain</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Pathological -- Epidemiology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. T. Arlidge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:26:42.903879+00:00"/>
+        <meta name="calibre:title_sort" content="On the State of Lunacy and the Legal Provision for the Insane / With Observations on the Construction and Organization of Asylums"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

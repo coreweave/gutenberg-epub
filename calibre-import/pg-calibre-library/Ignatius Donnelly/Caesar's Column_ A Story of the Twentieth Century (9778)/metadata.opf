@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9778</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28858425-36eb-4449-9449-ab439c1fa3b6</dc:identifier>
+        <dc:title>Cæsar's Column: A Story of the Twentieth Century</dc:title>
+        <dc:creator opf:file-as="Donnelly, Ignatius" opf:role="aut">Ignatius Donnelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5155</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Social problems -- Fiction</dc:subject>
+        <dc:subject>Dystopias -- Fiction</dc:subject>
+        <dc:subject>Twentieth century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ignatius Donnelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:23.282691+00:00"/>
+        <meta name="calibre:title_sort" content="Cæsar's Column: A Story of the Twentieth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

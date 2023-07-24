@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d50be479-0787-469a-ace7-247f7254a757</dc:identifier>
+        <dc:title>The Psychological Origin and the Nature of Religion</dc:title>
+        <dc:creator opf:file-as="Leuba, James H. (James Henry)" opf:role="aut">James H. Leuba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39511</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Religious</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James H. Leuba&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:10:10.193309+00:00"/>
+        <meta name="calibre:title_sort" content="Psychological Origin and the Nature of Religion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

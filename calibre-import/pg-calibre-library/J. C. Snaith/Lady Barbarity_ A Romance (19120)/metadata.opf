@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37401cc6-e29a-483d-98fe-91cf69547922</dc:identifier>
+        <dc:title>Lady Barbarity: A Romance</dc:title>
+        <dc:creator opf:file-as="Snaith, J. C. (John Collis)" opf:role="aut">J. C. Snaith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68858</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Political prisoners -- Fiction</dc:subject>
+        <dc:subject>Nobility -- England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. C. Snaith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:32:21.914973+00:00"/>
+        <meta name="calibre:title_sort" content="Lady Barbarity: A Romance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

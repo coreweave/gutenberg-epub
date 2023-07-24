@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65b34fed-a0cb-4e50-bd09-c124d9fe16b7</dc:identifier>
+        <dc:title>Pride and Prejudice</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1342</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Sisters -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Courtship -- Fiction</dc:subject>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Austen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:01:12.995309+00:00"/>
+        <meta name="calibre:title_sort" content="Pride and Prejudice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

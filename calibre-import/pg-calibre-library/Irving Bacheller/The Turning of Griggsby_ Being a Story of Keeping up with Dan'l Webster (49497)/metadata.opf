@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c9abd0f-5f6f-44d8-8f49-14fc77b779bd</dc:identifier>
+        <dc:title>The Turning of Griggsby: Being a Story of Keeping up with Dan'l Webster</dc:title>
+        <dc:creator opf:file-as="Bacheller, Irving" opf:role="aut">Irving Bacheller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50087</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Villages -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Newspaper editors -- Fiction</dc:subject>
+        <dc:subject>Reformers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Irving Bacheller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:35:04.268360+00:00"/>
+        <meta name="calibre:title_sort" content="Turning of Griggsby: Being a Story of Keeping up with Dan'l Webster, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

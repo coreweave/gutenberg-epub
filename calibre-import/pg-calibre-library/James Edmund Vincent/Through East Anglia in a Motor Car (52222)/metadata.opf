@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b19dbd7-fb36-4583-93f1-7fead6740dbb</dc:identifier>
+        <dc:title>Through East Anglia in a Motor Car</dc:title>
+        <dc:creator opf:file-as="Vincent, James Edmund" opf:role="aut">James Edmund Vincent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38938</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Norfolk (England) -- Description and travel</dc:subject>
+        <dc:subject>Suffolk (England) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Edmund Vincent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:28:34.548541+00:00"/>
+        <meta name="calibre:title_sort" content="Through East Anglia in a Motor Car"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

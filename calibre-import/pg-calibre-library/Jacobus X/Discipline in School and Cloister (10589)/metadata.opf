@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd9a3f0a-f867-4ffa-935b-acb7ef243fe5</dc:identifier>
+        <dc:title>Discipline in School and Cloister</dc:title>
+        <dc:creator opf:file-as="X, Jacobus" opf:role="aut">Jacobus X</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65264</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Flagellation</dc:subject>
+        <dc:subject>Corporal punishment</dc:subject>
+        <dc:subject>Flagellants</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacobus X&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:03:43.231606+00:00"/>
+        <meta name="calibre:title_sort" content="Discipline in School and Cloister"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

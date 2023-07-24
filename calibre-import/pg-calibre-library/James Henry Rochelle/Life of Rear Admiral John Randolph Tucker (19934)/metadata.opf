@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60e4106d-78a3-41b3-8214-4dddfba870a0</dc:identifier>
+        <dc:title>Life of Rear Admiral John Randolph Tucker</dc:title>
+        <dc:creator opf:file-as="Rochelle, James Henry" opf:role="aut">James Henry Rochelle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27101</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Naval operations</dc:subject>
+        <dc:subject>Tucker</dc:subject>
+        <dc:subject>John Randolph</dc:subject>
+        <dc:subject>1812-1883</dc:subject>
+        <dc:subject>Amazon River -- Navigation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Henry Rochelle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:01:46.394986+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Rear Admiral John Randolph Tucker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

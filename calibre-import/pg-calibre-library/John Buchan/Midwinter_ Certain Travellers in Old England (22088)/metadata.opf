@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59ff5e3a-494a-4f11-b68f-ba0548e108e8</dc:identifier>
+        <dc:title>Midwinter: Certain Travellers in Old England</dc:title>
+        <dc:creator opf:file-as="Buchan, John" opf:role="aut">John Buchan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59178</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Charles Edward</dc:subject>
+        <dc:subject>Prince</dc:subject>
+        <dc:subject>grandson of James II</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1720-1788 -- Fiction</dc:subject>
+        <dc:subject>Jacobite Rebellion</dc:subject>
+        <dc:subject>1745-1746 -- Fiction</dc:subject>
+        <dc:subject>Johnson</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1709-1784 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Buchan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:25:45.793595+00:00"/>
+        <meta name="calibre:title_sort" content="Midwinter: Certain Travellers in Old England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

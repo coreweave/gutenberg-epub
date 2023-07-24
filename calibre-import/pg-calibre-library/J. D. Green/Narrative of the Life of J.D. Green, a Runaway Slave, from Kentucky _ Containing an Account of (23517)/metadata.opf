@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06e2c747-9a22-4714-ab1c-3707f6ec2723</dc:identifier>
+        <dc:title>Narrative of the Life of J.D. Green, a Runaway Slave, from Kentucky / Containing an Account of His Three Escapes, in 1839, 1846, and 1848</dc:title>
+        <dc:creator opf:file-as="Green, J. D. (Jacob D.)" opf:role="aut">J. D. Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15128</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fugitive slaves -- United States -- Biography</dc:subject>
+        <dc:subject>Slavery -- Kentucky -- History -- 19th century</dc:subject>
+        <dc:subject>Slaves -- Kentucky -- Social conditions -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. D. Green&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:25:52.461753+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Life of J.D. Green, a Runaway Slave, from Kentucky / Containing an Account of His Three Escapes, in 1839, 1846, and 1848"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

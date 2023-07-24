@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40770138-0f7c-428f-b691-20ba7b36f941</dc:identifier>
+        <dc:title>Novel Notes</dc:title>
+        <dc:creator opf:file-as="Jerome, Jerome K. (Jerome Klapka)" opf:role="aut">Jerome K. Jerome</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2037</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction -- Authorship -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jerome K. Jerome&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:03:44.630796+00:00"/>
+        <meta name="calibre:title_sort" content="Novel Notes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

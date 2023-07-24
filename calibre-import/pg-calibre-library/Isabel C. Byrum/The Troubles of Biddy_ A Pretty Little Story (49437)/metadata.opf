@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d8a65e3-f7ff-41ef-aab5-4f867c7aa5cc</dc:identifier>
+        <dc:title>The Troubles of Biddy: A Pretty Little Story</dc:title>
+        <dc:creator opf:file-as="Byrum, Isabel C. (Isabel Coston)" opf:role="aut">Isabel C. Byrum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Chickens -- Juvenile poetry</dc:subject>
+        <dc:subject>Ducklings -- Juvenile poetry</dc:subject>
+        <dc:subject>Mothers -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isabel C. Byrum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:31:31.457818+00:00"/>
+        <meta name="calibre:title_sort" content="Troubles of Biddy: A Pretty Little Story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

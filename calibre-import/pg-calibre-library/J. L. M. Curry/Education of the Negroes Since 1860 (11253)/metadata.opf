@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e13fa4e0-2e94-4b11-aced-a3fbccd68701</dc:identifier>
+        <dc:title>Education of the Negroes Since 1860</dc:title>
+        <dc:creator opf:file-as="Curry, J. L. M. (Jabez Lamar Monroe)" opf:role="aut">J. L. M. Curry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60180</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Bureau of Refugees</dc:subject>
+        <dc:subject>Freedmen and Abandoned Lands</dc:subject>
+        <dc:subject>African Americans -- Education -- History</dc:subject>
+        <dc:subject>Church and education -- United States -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. L. M. Curry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:21:36.071885+00:00"/>
+        <meta name="calibre:title_sort" content="Education of the Negroes Since 1860"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

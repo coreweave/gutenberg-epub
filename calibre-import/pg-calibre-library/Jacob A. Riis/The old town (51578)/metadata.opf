@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e1afd52-14ce-4673-8fc7-5b79f9d5f806</dc:identifier>
+        <dc:title>The old town</dc:title>
+        <dc:creator opf:file-as="Riis, Jacob A. (Jacob August)" opf:role="aut">Jacob A. Riis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69399</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ribe (Denmark)</dc:subject>
+        <dc:subject>Denmark -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacob A. Riis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:47:30.639393+00:00"/>
+        <meta name="calibre:title_sort" content="old town, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

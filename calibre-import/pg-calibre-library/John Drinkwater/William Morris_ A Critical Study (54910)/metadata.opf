@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">188f372b-2a8c-4ec2-a8e7-41ec03075aee</dc:identifier>
+        <dc:title>William Morris: A Critical Study</dc:title>
+        <dc:creator opf:file-as="Drinkwater, John" opf:role="aut">John Drinkwater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63288</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Middle Ages in literature</dc:subject>
+        <dc:subject>Morris</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1834-1896 -- Criticism and interpretation</dc:subject>
+        <dc:subject>Fantasy literature</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <dc:subject>Medievalism -- England -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Drinkwater&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:22:13.795918+00:00"/>
+        <meta name="calibre:title_sort" content="William Morris: A Critical Study"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

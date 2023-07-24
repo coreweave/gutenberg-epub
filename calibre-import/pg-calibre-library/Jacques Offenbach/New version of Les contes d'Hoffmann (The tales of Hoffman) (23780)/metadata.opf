@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ea2fe36-0193-4df4-bbbc-15347dae199b</dc:identifier>
+        <dc:title>New version of Les contes d'Hoffmann (The tales of Hoffman)</dc:title>
+        <dc:creator opf:file-as="Offenbach, Jacques" opf:role="aut">Jacques Offenbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15915</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>fra</dc:language>
+        <dc:subject>Operas -- Librettos</dc:subject>
+        <dc:subject>Hoffmann</dc:subject>
+        <dc:subject>E. T. A. (Ernst Theodor Amadeus)</dc:subject>
+        <dc:subject>1776-1822 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacques Offenbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:36:46.894716+00:00"/>
+        <meta name="calibre:title_sort" content="New version of Les contes d'Hoffmann (The tales of Hoffman)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

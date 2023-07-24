@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8934a07b-067c-4086-ae3d-ca94d02ffaf6</dc:identifier>
+        <dc:title>An Account of the Ladies of Llangollen</dc:title>
+        <dc:creator opf:file-as="Prichard, J. (John)" opf:role="aut">J. Prichard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62005</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Butler</dc:subject>
+        <dc:subject>Eleanor</dc:subject>
+        <dc:subject>Lady</dc:subject>
+        <dc:subject>1739-1829</dc:subject>
+        <dc:subject>Ponsonby</dc:subject>
+        <dc:subject>Sarah</dc:subject>
+        <dc:subject>1755-1831</dc:subject>
+        <dc:subject>Women -- Wales -- Biography</dc:subject>
+        <dc:subject>Lesbians -- Wales -- Biography</dc:subject>
+        <dc:subject>Llangollen (Wales) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Prichard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:36:26.547244+00:00"/>
+        <meta name="calibre:title_sort" content="Account of the Ladies of Llangollen, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

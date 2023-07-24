@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45f42fad-552e-457f-844d-5a9f46bf51dd</dc:identifier>
+        <dc:title>The Deerslayer</dc:title>
+        <dc:creator opf:file-as="Cooper, James Fenimore" opf:role="aut">James Fenimore Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Delaware Indians -- Fiction</dc:subject>
+        <dc:subject>New York (State) -- History -- French and Indian War</dc:subject>
+        <dc:subject>1754-1763 -- Fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Male friendship -- Fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Fiction</dc:subject>
+        <dc:subject>Bumppo</dc:subject>
+        <dc:subject>Natty (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Hunters -- Fiction</dc:subject>
+        <dc:subject>Scouting (Reconnaissance) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Fenimore Cooper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:09:49.576285+00:00"/>
+        <meta name="calibre:title_sort" content="Deerslayer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9790</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d42cd814-d74c-447c-aae1-c848a7797c82</dc:identifier>
+        <dc:title>Daddy Long-Legs: A Comedy in Four Acts</dc:title>
+        <dc:creator opf:file-as="Webster, Jean" opf:role="aut">Jean Webster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40426</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Young women -- Drama</dc:subject>
+        <dc:subject>Philanthropists -- Drama</dc:subject>
+        <dc:subject>Women college students -- Drama</dc:subject>
+        <dc:subject>Women authors -- Drama</dc:subject>
+        <dc:subject>Orphans -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean Webster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:43.552275+00:00"/>
+        <meta name="calibre:title_sort" content="Daddy Long-Legs: A Comedy in Four Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

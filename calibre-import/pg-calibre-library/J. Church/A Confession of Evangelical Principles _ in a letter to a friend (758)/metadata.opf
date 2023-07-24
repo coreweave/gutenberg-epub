@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad77a0c3-2b27-4b3f-a22c-188a4a09b5e5</dc:identifier>
+        <dc:title>A Confession of Evangelical Principles / in a letter to a friend</dc:title>
+        <dc:creator opf:file-as="Church, J. (John)" opf:role="aut">J. Church</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58492</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theology</dc:subject>
+        <dc:subject>Doctrinal</dc:subject>
+        <dc:subject>Church</dc:subject>
+        <dc:subject>J. (John)</dc:subject>
+        <dc:subject>approximately 1780-approximately 1825</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Church&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:37:23.339206+00:00"/>
+        <meta name="calibre:title_sort" content="Confession of Evangelical Principles / in a letter to a friend, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

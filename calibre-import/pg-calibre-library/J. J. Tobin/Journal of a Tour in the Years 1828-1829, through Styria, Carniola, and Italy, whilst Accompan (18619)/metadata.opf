@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25e42ad1-fbf3-4e1a-b2ee-ff035a6fe423</dc:identifier>
+        <dc:title>Journal of a Tour in the Years 1828-1829, through Styria, Carniola, and Italy, whilst Accompanying the Late Sir Humphry Davy</dc:title>
+        <dc:creator opf:file-as="Tobin, J. J." opf:role="aut">J. J. Tobin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55920</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Davy</dc:subject>
+        <dc:subject>Humphry</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1778-1829</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. J. Tobin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:14:32.503972+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of a Tour in the Years 1828-1829, through Styria, Carniola, and Italy, whilst Accompanying the Late Sir Humphry Davy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2789b792-e235-44c6-b2df-d6582e791928</dc:identifier>
+        <dc:title>Shadows of Shasta</dc:title>
+        <dc:creator opf:file-as="Miller, Joaquin" opf:role="aut">Joaquin Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24006</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- California -- Fiction</dc:subject>
+        <dc:subject>Indians of North America -- Government relations -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joaquin Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:29:47.628958+00:00"/>
+        <meta name="calibre:title_sort" content="Shadows of Shasta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

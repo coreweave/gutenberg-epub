@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53fed14c-554b-47c4-9852-76f89ea2221d</dc:identifier>
+        <dc:title>Animal Chums: True Tales about Four-footed Friends</dc:title>
+        <dc:creator opf:file-as="McIntosh, Jean" opf:role="aut">Jean McIntosh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50466</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean McIntosh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:47:47.626601+00:00"/>
+        <meta name="calibre:title_sort" content="Animal Chums: True Tales about Four-footed Friends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

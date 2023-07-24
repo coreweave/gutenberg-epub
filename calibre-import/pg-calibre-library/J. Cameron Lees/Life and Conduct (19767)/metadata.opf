@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a8e1ce2-8233-46e3-b0fc-368bf1823b39</dc:identifier>
+        <dc:title>Life and Conduct</dc:title>
+        <dc:creator opf:file-as="Lees, J. Cameron (James Cameron)" opf:role="aut">J. Cameron Lees</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Cameron Lees&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:55:41.628817+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Conduct"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

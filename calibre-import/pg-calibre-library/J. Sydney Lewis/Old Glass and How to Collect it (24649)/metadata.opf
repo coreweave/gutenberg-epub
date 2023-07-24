@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f01836b7-9a55-40fb-98f4-a37076c9b49e</dc:identifier>
+        <dc:title>Old Glass and How to Collect it</dc:title>
+        <dc:creator opf:file-as="Lewis, J. Sydney" opf:role="aut">J. Sydney Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52738</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Glassware -- Collectors and collecting</dc:subject>
+        <dc:subject>Glassware -- Great Britain</dc:subject>
+        <dc:subject>Glassware -- Prices</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Sydney Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:13:48.301035+00:00"/>
+        <meta name="calibre:title_sort" content="Old Glass and How to Collect it"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

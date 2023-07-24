@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51db7497-900e-4c4e-82f6-a3a92ac78194</dc:identifier>
+        <dc:title>The Exploring Expedition to the Rocky Mountains, Oregon and California / To which is Added a Description of the Physical Geography of California, with Recent Notices of the Gold Region from the Latest and Most Authentic Sources</dc:title>
+        <dc:creator opf:file-as="Frémont, John Charles" opf:role="aut">John Charles Frémont</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9294</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Rocky Mountains</dc:subject>
+        <dc:subject>United States -- Discovery and exploration</dc:subject>
+        <dc:subject>California -- Gold discoveries</dc:subject>
+        <dc:subject>Pacific States -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Charles Frémont&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:58:28.144967+00:00"/>
+        <meta name="calibre:title_sort" content="Exploring Expedition to the Rocky Mountains, Oregon and California / To which is Added a Description of the Physical Geography of California, with Recent Notices of the Gold Region from the Latest and Most Authentic Sources, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

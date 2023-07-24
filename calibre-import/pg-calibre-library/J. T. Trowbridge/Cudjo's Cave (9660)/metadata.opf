@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c5ec271-1867-4241-a054-1cf1d609fc1e</dc:identifier>
+        <dc:title>Cudjo's Cave</dc:title>
+        <dc:creator opf:file-as="Trowbridge, J. T. (John Townsend)" opf:role="aut">J. T. Trowbridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31406</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Fugitive slaves -- Fiction</dc:subject>
+        <dc:subject>Quakers -- Fiction</dc:subject>
+        <dc:subject>Abolitionists -- Fiction</dc:subject>
+        <dc:subject>Unionists (United States Civil War) -- Fiction</dc:subject>
+        <dc:subject>Tennessee -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <dc:subject>Tennessee</dc:subject>
+        <dc:subject>East -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. T. Trowbridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:39:21.513468+00:00"/>
+        <meta name="calibre:title_sort" content="Cudjo's Cave"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

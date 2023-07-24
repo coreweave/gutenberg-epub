@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30852</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5080dd5-14e5-4023-9635-61db698e87b3</dc:identifier>
+        <dc:title>Sketches of Church History, from A.D. 33 to the Reformation</dc:title>
+        <dc:creator opf:file-as="Robertson, James Craigie" opf:role="aut">James Craigie Robertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32483</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church history -- Primitive and early church</dc:subject>
+        <dc:subject>ca. 30-600</dc:subject>
+        <dc:subject>Church history -- Middle Ages</dc:subject>
+        <dc:subject>600-1500</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Craigie Robertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:52:10.184147+00:00"/>
+        <meta name="calibre:title_sort" content="Sketches of Church History, from A.D. 33 to the Reformation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

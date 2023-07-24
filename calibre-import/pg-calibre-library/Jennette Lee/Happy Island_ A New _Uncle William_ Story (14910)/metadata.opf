@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bdcde8a-c6b7-42b1-ad20-a0fc77989f2f</dc:identifier>
+        <dc:title>Happy Island: A New "Uncle William" Story</dc:title>
+        <dc:creator opf:file-as="Lee, Jennette" opf:role="aut">Jennette Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52700</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Islands -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jennette Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:09:36.063379+00:00"/>
+        <meta name="calibre:title_sort" content="Happy Island: A New &quot;Uncle William&quot; Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

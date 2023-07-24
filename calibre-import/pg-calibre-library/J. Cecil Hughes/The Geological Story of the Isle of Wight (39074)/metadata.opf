@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f4b8a30-a058-4292-a3a6-b56b785894c4</dc:identifier>
+        <dc:title>The Geological Story of the Isle of Wight</dc:title>
+        <dc:creator opf:file-as="Hughes, J. Cecil (John Cecil)" opf:role="aut">J. Cecil Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Geology -- England -- Isle of Wight</dc:subject>
+        <dc:subject>Paleontology -- England -- Isle of Wight</dc:subject>
+        <dc:subject>Geology</dc:subject>
+        <dc:subject>Stratigraphic -- Tertiary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Cecil Hughes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:42:11.823296+00:00"/>
+        <meta name="calibre:title_sort" content="Geological Story of the Isle of Wight, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

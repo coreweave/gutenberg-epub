@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21032</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4d34453-b668-49c1-aa15-8930ff067ed0</dc:identifier>
+        <dc:title>Mandalay to Momien / A narrative of the two expeditions to western China of 1868 and 1875 under Colonel Edward B. Sladen and Colonel Horace Browne</dc:title>
+        <dc:creator opf:file-as="Anderson, John" opf:role="aut">John Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67758</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Burma -- Description and travel</dc:subject>
+        <dc:subject>Yunnan Sheng (China) -- Description and travel</dc:subject>
+        <dc:subject>Sladen</dc:subject>
+        <dc:subject>E. B. (Edward Bosc)</dc:subject>
+        <dc:subject>1827-1890 -- Travel -- China -- Yunnan Sheng</dc:subject>
+        <dc:subject>1827-1890 -- Travel -- Burma</dc:subject>
+        <dc:subject>Browne</dc:subject>
+        <dc:subject>Horace Albert</dc:subject>
+        <dc:subject>1832-1914 -- Travel -- China -- Yunnan Sheng</dc:subject>
+        <dc:subject>1832-1914 -- Travel -- Burma</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:43:34.469076+00:00"/>
+        <meta name="calibre:title_sort" content="Mandalay to Momien / A narrative of the two expeditions to western China of 1868 and 1875 under Colonel Edward B. Sladen and Colonel Horace Browne"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

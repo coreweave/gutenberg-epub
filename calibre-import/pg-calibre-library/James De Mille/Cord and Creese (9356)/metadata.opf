@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d78fe151-1f7e-4a57-82eb-ca893312658c</dc:identifier>
+        <dc:title>Cord and Creese</dc:title>
+        <dc:creator opf:file-as="De Mille, James" opf:role="aut">James De Mille</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8572</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James De Mille&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:31:36.545627+00:00"/>
+        <meta name="calibre:title_sort" content="Cord and Creese"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

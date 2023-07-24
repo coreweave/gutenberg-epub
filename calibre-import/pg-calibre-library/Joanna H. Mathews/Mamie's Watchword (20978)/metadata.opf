@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dabd966a-d666-40a9-a2bb-227dd16f98c9</dc:identifier>
+        <dc:title>Mamie's Watchword</dc:title>
+        <dc:creator opf:file-as="Mathews, Joanna H. (Joanna Hooe)" opf:role="aut">Joanna H. Mathews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44774</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Temper tantrums -- Juvenile fiction</dc:subject>
+        <dc:subject>Dolls -- Juvenile fiction</dc:subject>
+        <dc:subject>Obedience -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanna H. Mathews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:41:28.904418+00:00"/>
+        <meta name="calibre:title_sort" content="Mamie's Watchword"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

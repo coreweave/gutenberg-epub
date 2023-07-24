@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb938e47-959a-4e04-b076-f14b62b781ff</dc:identifier>
+        <dc:title>Moonlight and Robots</dc:title>
+        <dc:creator opf:file-as="Dunham, Jerry" opf:role="aut">Jerry Dunham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66571</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Robots -- Fiction</dc:subject>
+        <dc:subject>Marriage customs and rites -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jerry Dunham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:45:12.457680+00:00"/>
+        <meta name="calibre:title_sort" content="Moonlight and Robots"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

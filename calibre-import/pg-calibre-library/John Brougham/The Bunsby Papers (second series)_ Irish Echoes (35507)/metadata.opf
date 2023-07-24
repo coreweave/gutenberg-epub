@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24c12702-0cb6-4ac2-8b5d-1192466ebd0a</dc:identifier>
+        <dc:title>The Bunsby Papers (second series): Irish Echoes</dc:title>
+        <dc:creator opf:file-as="Brougham, John" opf:role="aut">John Brougham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Brougham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:39:52.036291+00:00"/>
+        <meta name="calibre:title_sort" content="Bunsby Papers (second series): Irish Echoes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

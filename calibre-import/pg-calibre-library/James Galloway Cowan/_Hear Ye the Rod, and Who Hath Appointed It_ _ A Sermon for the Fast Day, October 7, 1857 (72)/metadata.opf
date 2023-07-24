@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b2f375c-9c1a-4e3d-b433-e8a334bc66bc</dc:identifier>
+        <dc:title>"Hear Ye the Rod, and Who Hath Appointed It" / A Sermon for the Fast Day, October 7, 1857</dc:title>
+        <dc:creator opf:file-as="Cowan, James Galloway" opf:role="aut">James Galloway Cowan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64742</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Bible. Micah</dc:subject>
+        <dc:subject>VI</dc:subject>
+        <dc:subject>9 -- Sermons</dc:subject>
+        <dc:subject>India -- History -- Sepoy Rebellion</dc:subject>
+        <dc:subject>1857-1858 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Galloway Cowan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:27:11.909175+00:00"/>
+        <meta name="calibre:title_sort" content="Hear Ye the Rod, and Who Hath Appointed It&quot; / A Sermon for the Fast Day, October 7, 1857"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

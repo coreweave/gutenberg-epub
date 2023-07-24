@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dd862a2-6f34-45aa-a39e-d1cc286d1edc</dc:identifier>
+        <dc:title>John Barleycorn</dc:title>
+        <dc:creator opf:file-as="London, Jack" opf:role="aut">Jack London</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/318</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London</dc:subject>
+        <dc:subject>Jack</dc:subject>
+        <dc:subject>1876-1916</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 20th century -- Biography</dc:subject>
+        <dc:subject>Alcoholics -- United States -- Biography</dc:subject>
+        <dc:subject>Drinking of alcoholic beverages -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jack London&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:06:40.808542+00:00"/>
+        <meta name="calibre:title_sort" content="John Barleycorn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

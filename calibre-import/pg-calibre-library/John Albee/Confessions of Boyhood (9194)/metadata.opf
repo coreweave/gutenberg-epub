@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">139056a7-c97b-4f10-a1f0-1dc3442a95a2</dc:identifier>
+        <dc:title>Confessions of Boyhood</dc:title>
+        <dc:creator opf:file-as="Albee, John" opf:role="aut">John Albee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19418</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Albee</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1833-1915</dc:subject>
+        <dc:subject>Bellingham (Mass.)</dc:subject>
+        <dc:subject>Worcester (Mass.)</dc:subject>
+        <dc:subject>Norwich (Conn.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Albee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:27:31.333303+00:00"/>
+        <meta name="calibre:title_sort" content="Confessions of Boyhood"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

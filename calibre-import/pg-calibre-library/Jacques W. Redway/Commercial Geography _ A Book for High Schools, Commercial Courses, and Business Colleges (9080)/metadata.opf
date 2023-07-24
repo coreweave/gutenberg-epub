@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa3bf6e4-30f1-4111-bb68-38f5826663af</dc:identifier>
+        <dc:title>Commercial Geography / A Book for High Schools, Commercial Courses, and Business Colleges</dc:title>
+        <dc:creator opf:file-as="Redway, Jacques W. (Jacques Wardlaw)" opf:role="aut">Jacques W. Redway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24884</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Commercial geography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacques W. Redway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:24:39.278389+00:00"/>
+        <meta name="calibre:title_sort" content="Commercial Geography / A Book for High Schools, Commercial Courses, and Business Colleges"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

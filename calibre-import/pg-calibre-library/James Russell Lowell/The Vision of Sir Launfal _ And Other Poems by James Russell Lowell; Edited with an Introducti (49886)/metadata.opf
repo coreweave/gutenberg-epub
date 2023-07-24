@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1befc152-1590-4d51-9d7b-4c09afc1b69c</dc:identifier>
+        <dc:title>The Vision of Sir Launfal / And Other Poems by James Russell Lowell; Edited with an Introduction and Notes by Julian W. Abernethy, Ph.D.</dc:title>
+        <dc:creator opf:file-as="Lowell, James Russell" opf:role="aut">James Russell Lowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17948</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Russell Lowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:59:13.433704+00:00"/>
+        <meta name="calibre:title_sort" content="Vision of Sir Launfal / And Other Poems by James Russell Lowell; Edited with an Introduction and Notes by Julian W. Abernethy, Ph.D., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

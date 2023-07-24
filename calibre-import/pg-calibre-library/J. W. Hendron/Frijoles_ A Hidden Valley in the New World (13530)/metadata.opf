@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e7b41f6-ab2f-4c20-8167-cb34d7176aa8</dc:identifier>
+        <dc:title>Frijoles: A Hidden Valley in the New World</dc:title>
+        <dc:creator opf:file-as="Hendron, J. W. (Jerome William)" opf:role="aut">J. W. Hendron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52997</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cliff-dwellers -- New Mexico</dc:subject>
+        <dc:subject>Frijoles Canyon (N.M.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. W. Hendron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:26:36.308835+00:00"/>
+        <meta name="calibre:title_sort" content="Frijoles: A Hidden Valley in the New World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

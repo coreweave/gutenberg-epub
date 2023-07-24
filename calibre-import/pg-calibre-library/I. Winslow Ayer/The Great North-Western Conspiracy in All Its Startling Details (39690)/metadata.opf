@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0197cf2-ddff-4360-974d-53560f46006f</dc:identifier>
+        <dc:title>The Great North-Western Conspiracy in All Its Startling Details</dc:title>
+        <dc:creator opf:file-as="Ayer, I. Winslow" opf:role="aut">I. Winslow Ayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8543</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Knights of the Golden Circle</dc:subject>
+        <dc:subject>Northwestern Conspiracy</dc:subject>
+        <dc:subject>1864</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;I. Winslow Ayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:14:22.535510+00:00"/>
+        <meta name="calibre:title_sort" content="Great North-Western Conspiracy in All Its Startling Details, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

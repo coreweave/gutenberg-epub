@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60c5c1ee-1fe5-488c-904b-166e35909301</dc:identifier>
+        <dc:title>Story Hour Readers — Book Three</dc:title>
+        <dc:creator opf:file-as="Coe, Ida" opf:role="aut">Ida Coe</dc:creator>
+        <dc:creator opf:file-as="Coe, Ida" opf:role="aut">Alice Christie Dillon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6685</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Readers</dc:subject>
+        <dc:subject>Reading</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ida Coe&quot;: &quot;&quot;, &quot;Alice Christie Dillon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:47:33.752350+00:00"/>
+        <meta name="calibre:title_sort" content="Story Hour Readers — Book Three"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

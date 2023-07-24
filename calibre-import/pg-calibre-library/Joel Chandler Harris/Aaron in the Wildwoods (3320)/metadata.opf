@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d090d64f-048a-44b3-b82b-78da37a0714b</dc:identifier>
+        <dc:title>Aaron in the Wildwoods</dc:title>
+        <dc:creator opf:file-as="Harris, Joel Chandler" opf:role="aut">Joel Chandler Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52782</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Death -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Nature stories</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Children with disabilities -- Juvenile fiction</dc:subject>
+        <dc:subject>Plantation life -- Juvenile fiction</dc:subject>
+        <dc:subject>African Americans -- Juvenile fiction</dc:subject>
+        <dc:subject>Slavery -- Juvenile fiction</dc:subject>
+        <dc:subject>Parent and child -- Juvenile fiction</dc:subject>
+        <dc:subject>Swamps -- Juvenile fiction</dc:subject>
+        <dc:subject>Storytelling -- Juvenile fiction</dc:subject>
+        <dc:subject>Arabs -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Chandler Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:20:19.883324+00:00"/>
+        <meta name="calibre:title_sort" content="Aaron in the Wildwoods"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

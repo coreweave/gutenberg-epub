@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fc3e65e-5f04-4a08-8f20-d91d3d9774b1</dc:identifier>
+        <dc:title>Fish Populations, Following a Drought, in the Neosho and Marais des Cygnes Rivers of Kansas</dc:title>
+        <dc:creator opf:file-as="Deacon, James E." opf:role="aut">James E. Deacon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34787</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fish populations</dc:subject>
+        <dc:subject>Freshwater fishes -- Kansas -- Population dynamics -- Stocks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James E. Deacon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:04:37.904596+00:00"/>
+        <meta name="calibre:title_sort" content="Fish Populations, Following a Drought, in the Neosho and Marais des Cygnes Rivers of Kansas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

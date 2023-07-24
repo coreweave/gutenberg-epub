@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8c4fe48-9b10-4455-b944-33fbf01139f2</dc:identifier>
+        <dc:title>Notice of Runic Inscriptions Discovered during Recent Excavations in the Orkneys</dc:title>
+        <dc:creator opf:file-as="Farrer, James" opf:role="aut">James Farrer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inscriptions</dc:subject>
+        <dc:subject>Runic -- Scotland -- Orkney</dc:subject>
+        <dc:subject>Orkney (Scotland) -- Antiquities</dc:subject>
+        <dc:subject>Maes Howe (Scotland)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Farrer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:03:22.840723+00:00"/>
+        <meta name="calibre:title_sort" content="Notice of Runic Inscriptions Discovered during Recent Excavations in the Orkneys"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

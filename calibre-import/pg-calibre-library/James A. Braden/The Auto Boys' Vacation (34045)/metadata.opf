@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34045</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30abcdab-1dd1-4811-ab41-9ebfdb3f601a</dc:identifier>
+        <dc:title>The Auto Boys' Vacation</dc:title>
+        <dc:creator opf:file-as="Braden, James A. (James Andrew)" opf:role="aut">James A. Braden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33476</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vacations -- Juvenile fiction</dc:subject>
+        <dc:subject>Automobiles -- Juvenile fiction</dc:subject>
+        <dc:subject>Young men -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James A. Braden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:27:36.489568+00:00"/>
+        <meta name="calibre:title_sort" content="Auto Boys' Vacation, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

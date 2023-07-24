@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">077e2970-931f-4c9a-9588-ffc5d15241dd</dc:identifier>
+        <dc:title>At War with Society; or, Tales of the Outcasts</dc:title>
+        <dc:creator opf:file-as="M'Levy, James" opf:role="aut">James M'Levy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Mystery and detective stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James M'Levy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:58:41.354809+00:00"/>
+        <meta name="calibre:title_sort" content="At War with Society; or, Tales of the Outcasts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

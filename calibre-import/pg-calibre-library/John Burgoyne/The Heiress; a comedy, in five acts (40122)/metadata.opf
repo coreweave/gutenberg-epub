@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9fcc144-d1e1-4895-88ba-7dc51281887e</dc:identifier>
+        <dc:title>The Heiress; a comedy, in five acts</dc:title>
+        <dc:creator opf:file-as="Burgoyne, John" opf:role="aut">John Burgoyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36570</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>English drama -- 18th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Burgoyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:37:10.256788+00:00"/>
+        <meta name="calibre:title_sort" content="Heiress; a comedy, in five acts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

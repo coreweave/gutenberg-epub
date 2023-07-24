@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3db18dfb-18a2-4037-913c-3c1af35dbdab</dc:identifier>
+        <dc:title>The Cruise of the "Lively Bee"; Or, A Boy's Adventures in the War of 1812</dc:title>
+        <dc:creator opf:file-as="De Morgan, John" opf:role="aut">John De Morgan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46371</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>United States -- History -- War of 1812 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John De Morgan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:54:07.027879+00:00"/>
+        <meta name="calibre:title_sort" content="Cruise of the &quot;Lively Bee&quot;; Or, A Boy's Adventures in the War of 1812, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

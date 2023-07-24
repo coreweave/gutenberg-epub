@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4940d13-08a4-477b-8966-6d3130e1adba</dc:identifier>
+        <dc:title>The Abandoned Farmers / His Humorous Account of a Retreat from the City to the Farm</dc:title>
+        <dc:creator opf:file-as="Cobb, Irvin S. (Irvin Shrewsbury)" opf:role="aut">Irvin S. Cobb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Farms -- Recreational use -- United States -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Irvin S. Cobb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:36:02.244388+00:00"/>
+        <meta name="calibre:title_sort" content="Abandoned Farmers / His Humorous Account of a Retreat from the City to the Farm, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c48ff02-0f67-47bd-9ce4-803a71e4b723</dc:identifier>
+        <dc:title>The Boy's Voice / A Book of Practical Information on The Training of Boys' Voices For Church Choirs, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Curwen, J. Spencer (John Spencer)" opf:role="aut">J. Spencer Curwen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32023</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Singing</dc:subject>
+        <dc:subject>Voice culture</dc:subject>
+        <dc:subject>Choirs (Music)</dc:subject>
+        <dc:subject>Choirboys -- Training of -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Spencer Curwen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:27:43.138917+00:00"/>
+        <meta name="calibre:title_sort" content="Boy's Voice / A Book of Practical Information on The Training of Boys' Voices For Church Choirs, &amp;c., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

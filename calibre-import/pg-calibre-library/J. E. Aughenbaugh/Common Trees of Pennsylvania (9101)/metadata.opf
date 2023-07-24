@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a8b98ba-4563-482d-865d-c8557b6bfc51</dc:identifier>
+        <dc:title>Common Trees of Pennsylvania</dc:title>
+        <dc:creator opf:file-as="Aughenbaugh, J. E." opf:role="aut">J. E. Aughenbaugh</dc:creator>
+        <dc:creator opf:file-as="Aughenbaugh, J. E." opf:role="aut">Joseph E. Ibberson</dc:creator>
+        <dc:creator opf:file-as="Aughenbaugh, J. E." opf:role="aut">A. B. Mickalitis</dc:creator>
+        <dc:creator opf:file-as="Aughenbaugh, J. E." opf:role="aut">C. L. Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53535</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trees -- Pennsylvania</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. E. Aughenbaugh&quot;: &quot;&quot;, &quot;Joseph E. Ibberson&quot;: &quot;&quot;, &quot;A. B. Mickalitis&quot;: &quot;&quot;, &quot;C. L. Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:25:10.076531+00:00"/>
+        <meta name="calibre:title_sort" content="Common Trees of Pennsylvania"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

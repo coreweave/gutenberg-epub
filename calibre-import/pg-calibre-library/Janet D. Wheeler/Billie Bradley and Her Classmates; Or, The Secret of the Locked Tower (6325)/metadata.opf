@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64a21a88-b19b-4c2b-98c1-95c1e498ec6d</dc:identifier>
+        <dc:title>Billie Bradley and Her Classmates; Or, The Secret of the Locked Tower</dc:title>
+        <dc:creator opf:file-as="Wheeler, Janet D." opf:role="aut">Janet D. Wheeler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40586</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Boarding schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Rescues -- Juvenile fiction</dc:subject>
+        <dc:subject>Humanitarianism -- Juvenile fiction</dc:subject>
+        <dc:subject>Boarding school students -- Juvenile fiction</dc:subject>
+        <dc:subject>Winter sports -- Juvenile fiction</dc:subject>
+        <dc:subject>Competition -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Janet D. Wheeler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:19:55.009536+00:00"/>
+        <meta name="calibre:title_sort" content="Billie Bradley and Her Classmates; Or, The Secret of the Locked Tower"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

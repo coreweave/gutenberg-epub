@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d48ddac-25c6-48a5-86ee-ed0c483b5ed4</dc:identifier>
+        <dc:title>Over Fen and Wold</dc:title>
+        <dc:creator opf:file-as="Hissey, James John" opf:role="aut">James John Hissey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincolnshire (England) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James John Hissey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:49:30.469026+00:00"/>
+        <meta name="calibre:title_sort" content="Over Fen and Wold"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

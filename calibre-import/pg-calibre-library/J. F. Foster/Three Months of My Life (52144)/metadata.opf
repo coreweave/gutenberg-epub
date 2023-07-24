@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36e8afe5-4425-4f37-82d7-9c2cdfe8939c</dc:identifier>
+        <dc:title>Three Months of My Life</dc:title>
+        <dc:creator opf:file-as="Foster, J. F. (John Frederick)" opf:role="aut">J. F. Foster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14213</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jammu and Kashmir (India) -- Description and travel</dc:subject>
+        <dc:subject>Foster</dc:subject>
+        <dc:subject>J. F. (John Frederick)</dc:subject>
+        <dc:subject>1839-1869 -- Diaries</dc:subject>
+        <dc:subject>Great Britain. Army -- Surgeons -- Diaries</dc:subject>
+        <dc:subject>Surgeons -- Great Britain -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. F. Foster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:23:45.316716+00:00"/>
+        <meta name="calibre:title_sort" content="Three Months of My Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

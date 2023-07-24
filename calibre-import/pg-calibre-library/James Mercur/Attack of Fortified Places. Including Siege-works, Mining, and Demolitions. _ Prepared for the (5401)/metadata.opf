@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6267d248-7243-45f0-bcdc-07917c8fe1d6</dc:identifier>
+        <dc:title>Attack of Fortified Places. Including Siege-works, Mining, and Demolitions. / Prepared for the use of the Cadets of the United States Military Academy</dc:title>
+        <dc:creator opf:file-as="Mercur, James" opf:role="aut">James Mercur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Siege warfare</dc:subject>
+        <dc:subject>Defensive (Military science)</dc:subject>
+        <dc:subject>Offensive (Military science)</dc:subject>
+        <dc:subject>Military engineering</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Mercur&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:00:20.558599+00:00"/>
+        <meta name="calibre:title_sort" content="Attack of Fortified Places. Including Siege-works, Mining, and Demolitions. / Prepared for the use of the Cadets of the United States Military Academy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

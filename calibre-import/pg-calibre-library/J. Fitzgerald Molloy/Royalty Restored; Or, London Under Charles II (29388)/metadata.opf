@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c0de13f-1440-44c0-82fc-1f78e72db55b</dc:identifier>
+        <dc:title>Royalty Restored; Or, London Under Charles II</dc:title>
+        <dc:creator opf:file-as="Molloy, J. Fitzgerald (Joseph Fitzgerald)" opf:role="aut">J. Fitzgerald Molloy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1879</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Charles II</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1630-1685</dc:subject>
+        <dc:subject>Great Britain -- Court and courtiers -- History -- 17th century</dc:subject>
+        <dc:subject>England -- Social life and customs -- 17th century</dc:subject>
+        <dc:subject>London (England) -- History -- 17th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Fitzgerald Molloy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:41:55.868948+00:00"/>
+        <meta name="calibre:title_sort" content="Royalty Restored; Or, London Under Charles II"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

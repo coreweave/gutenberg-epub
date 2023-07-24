@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43037</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2aa198a-0179-4bc2-a190-2f894890984d</dc:identifier>
+        <dc:title>The Man of Taste</dc:title>
+        <dc:creator opf:file-as="Bramston, James" opf:role="aut">James Bramston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33441</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pope</dc:subject>
+        <dc:subject>Alexander</dc:subject>
+        <dc:subject>1688-1744 -- Poetry</dc:subject>
+        <dc:subject>Verse satire</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Aesthetics</dc:subject>
+        <dc:subject>British -- 18th century -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Bramston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:17:01.543513+00:00"/>
+        <meta name="calibre:title_sort" content="Man of Taste, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ad93486-13dd-468c-921d-af045571f43a</dc:identifier>
+        <dc:title>Crusoe's Island: A Ramble in the Footsteps of Alexander Selkirk / With Sketches of Adventure in California and Washoe</dc:title>
+        <dc:creator opf:file-as="Browne, J. Ross (John Ross)" opf:role="aut">J. Ross Browne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39918</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>California -- Social life and customs</dc:subject>
+        <dc:subject>Pacific States -- Description and travel</dc:subject>
+        <dc:subject>Mines and mineral resources -- California</dc:subject>
+        <dc:subject>Ethnic groups -- California</dc:subject>
+        <dc:subject>Juan Fernández Islands</dc:subject>
+        <dc:subject>Washoe County (Nev.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Ross Browne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:38:46.958000+00:00"/>
+        <meta name="calibre:title_sort" content="Crusoe's Island: A Ramble in the Footsteps of Alexander Selkirk / With Sketches of Adventure in California and Washoe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

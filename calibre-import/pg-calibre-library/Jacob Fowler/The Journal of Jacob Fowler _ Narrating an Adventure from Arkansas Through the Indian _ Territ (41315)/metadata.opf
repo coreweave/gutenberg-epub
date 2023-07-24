@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09c852dc-c483-4395-822a-68cebb1d5889</dc:identifier>
+        <dc:title>The Journal of Jacob Fowler / Narrating an Adventure from Arkansas Through the Indian / Territory, Oklahoma, Kansas, Colorado, and New Mexico, to / the Sources of Rio Grande del Norte, 1821-22</dc:title>
+        <dc:creator opf:file-as="Fowler, Jacob" opf:role="aut">Jacob Fowler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62018</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Frontier and pioneer life -- West (U.S.)</dc:subject>
+        <dc:subject>West (U.S.) -- History -- To 1848</dc:subject>
+        <dc:subject>Fur trade -- West (U.S.) -- History -- 19th century</dc:subject>
+        <dc:subject>Fowler</dc:subject>
+        <dc:subject>Jacob</dc:subject>
+        <dc:subject>1765-1850 -- Diaries</dc:subject>
+        <dc:subject>Pioneers -- West (U.S.) -- Diaries</dc:subject>
+        <dc:subject>Fur traders -- West (U.S.) -- Diaries</dc:subject>
+        <dc:subject>Arkansas River -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacob Fowler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:41:48.368734+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of Jacob Fowler / Narrating an Adventure from Arkansas Through the Indian / Territory, Oklahoma, Kansas, Colorado, and New Mexico, to / the Sources of Rio Grande del Norte, 1821-22, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

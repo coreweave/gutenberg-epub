@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f981b79d-5e73-448c-a6b2-214adb7bf68b</dc:identifier>
+        <dc:title>The Chronicles of Aunt Minervy Ann</dc:title>
+        <dc:creator opf:file-as="Harris, Joel Chandler" opf:role="aut">Joel Chandler Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64770</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Georgia -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Chandler Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:13:03.023995+00:00"/>
+        <meta name="calibre:title_sort" content="Chronicles of Aunt Minervy Ann, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

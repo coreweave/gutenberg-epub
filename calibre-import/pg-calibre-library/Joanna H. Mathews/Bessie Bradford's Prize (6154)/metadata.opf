@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d65616e-00b8-42f7-89f2-9d299bbf0c59</dc:identifier>
+        <dc:title>Bessie Bradford's Prize</dc:title>
+        <dc:creator opf:file-as="Mathews, Joanna H. (Joanna Hooe)" opf:role="aut">Joanna H. Mathews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6569</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Students -- Juvenile fiction</dc:subject>
+        <dc:subject>Sisters -- Juvenile fiction</dc:subject>
+        <dc:subject>Police -- Juvenile fiction</dc:subject>
+        <dc:subject>Theft -- Juvenile fiction</dc:subject>
+        <dc:subject>Letters -- Juvenile fiction</dc:subject>
+        <dc:subject>Prizes (Property captured at sea) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanna H. Mathews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:16:12.006580+00:00"/>
+        <meta name="calibre:title_sort" content="Bessie Bradford's Prize"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

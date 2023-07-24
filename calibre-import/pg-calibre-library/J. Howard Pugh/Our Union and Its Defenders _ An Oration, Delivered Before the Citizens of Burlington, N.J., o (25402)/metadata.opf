@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3ea2e3c-4905-4dbb-bb65-9765f80730e7</dc:identifier>
+        <dc:title>Our Union and Its Defenders / An Oration, Delivered Before the Citizens of Burlington, N.J., on the Occasion of Their Celebration of the Eighty-Sixth Anniversary of Independence Day, July 4th, 1862</dc:title>
+        <dc:creator opf:file-as="Pugh, J. Howard (John Howard)" opf:role="aut">J. Howard Pugh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59890</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fourth of July orations</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Religious aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Howard Pugh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:45:23.178918+00:00"/>
+        <meta name="calibre:title_sort" content="Our Union and Its Defenders / An Oration, Delivered Before the Citizens of Burlington, N.J., on the Occasion of Their Celebration of the Eighty-Sixth Anniversary of Independence Day, July 4th, 1862"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

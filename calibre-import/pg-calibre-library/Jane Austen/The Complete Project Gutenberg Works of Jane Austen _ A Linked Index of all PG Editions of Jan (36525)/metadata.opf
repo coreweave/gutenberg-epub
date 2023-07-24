@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1938cc9-16d1-45ba-9c2d-d9d4e23b540d</dc:identifier>
+        <dc:title>The Complete Project Gutenberg Works of Jane Austen / A Linked Index of all PG Editions of Jane Austen</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>England -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Austen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:30:46.600695+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Project Gutenberg Works of Jane Austen / A Linked Index of all PG Editions of Jane Austen, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

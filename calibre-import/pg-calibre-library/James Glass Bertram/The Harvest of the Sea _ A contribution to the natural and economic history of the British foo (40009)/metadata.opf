@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40009</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0df25850-be58-4841-bc0a-a81bbca29e04</dc:identifier>
+        <dc:title>The Harvest of the Sea / A contribution to the natural and economic history of the British food fishes</dc:title>
+        <dc:creator opf:file-as="Bertram, James Glass" opf:role="aut">James Glass Bertram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63433</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fish culture</dc:subject>
+        <dc:subject>Fishes</dc:subject>
+        <dc:subject>Fisheries -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Glass Bertram&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:31:17.311451+00:00"/>
+        <meta name="calibre:title_sort" content="Harvest of the Sea / A contribution to the natural and economic history of the British food fishes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

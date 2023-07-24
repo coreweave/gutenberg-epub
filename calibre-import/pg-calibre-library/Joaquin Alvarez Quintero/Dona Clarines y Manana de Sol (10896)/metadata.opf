@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f4dfd60-d6b1-4a5f-924c-e1b0b69de1b1</dc:identifier>
+        <dc:title>Doña Clarines y Mañana de Sol</dc:title>
+        <dc:creator opf:file-as="Álvarez Quintero, Joaquín" opf:role="aut">Joaquín Álvarez Quintero</dc:creator>
+        <dc:creator opf:file-as="Álvarez Quintero, Joaquín" opf:role="aut">Serafín Álvarez Quintero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16109</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>spa</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Spanish drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joaquín Álvarez Quintero&quot;: &quot;&quot;, &quot;Serafín Álvarez Quintero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:11:58.957287+00:00"/>
+        <meta name="calibre:title_sort" content="Doña Clarines y Mañana de Sol"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

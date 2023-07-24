@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30d66315-1909-4cb3-b0db-bc4a4cbe5640</dc:identifier>
+        <dc:title>Up the Orinoco and down the Magdalena</dc:title>
+        <dc:creator opf:file-as="Zahm, J. A. (John Augustine)" opf:role="aut">J. A. Zahm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45848</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Colombia -- Description and travel</dc:subject>
+        <dc:subject>Venezuela -- Description and travel</dc:subject>
+        <dc:subject>Orinoco River (Venezuela and Colombia)</dc:subject>
+        <dc:subject>Magdalena River (Colombia)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. A. Zahm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:57:03.737076+00:00"/>
+        <meta name="calibre:title_sort" content="Up the Orinoco and down the Magdalena"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

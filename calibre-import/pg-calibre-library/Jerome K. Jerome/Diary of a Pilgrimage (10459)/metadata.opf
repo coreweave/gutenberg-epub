@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96ef891a-29e9-4a70-9980-13f7eae68d55</dc:identifier>
+        <dc:title>Diary of a Pilgrimage</dc:title>
+        <dc:creator opf:file-as="Jerome, Jerome K. (Jerome Klapka)" opf:role="aut">Jerome K. Jerome</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2024</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germany -- Description and travel</dc:subject>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Jerome</dc:subject>
+        <dc:subject>Jerome K. (Jerome Klapka)</dc:subject>
+        <dc:subject>1859-1927 -- Travel -- Europe</dc:subject>
+        <dc:subject>Humorists</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>British -- Europe -- History -- 19th century</dc:subject>
+        <dc:subject>Oberammergauer Passionsspiel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jerome K. Jerome&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:00:11.941406+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of a Pilgrimage"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

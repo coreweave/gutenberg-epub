@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3e28c9d-f5d1-4ca6-b437-e54c5eacbd5c</dc:identifier>
+        <dc:title>Are these Things So? (1740) The Great Man's Answer to Are These things So: (1740)</dc:title>
+        <dc:creator opf:file-as="Miller, James" opf:role="aut">James Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38275</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pope</dc:subject>
+        <dc:subject>Alexander</dc:subject>
+        <dc:subject>1688-1744 -- Poetry</dc:subject>
+        <dc:subject>Walpole</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>Earl of Orford</dc:subject>
+        <dc:subject>1676-1745 -- Poetry</dc:subject>
+        <dc:subject>1676-1745 -- Early works to 1800</dc:subject>
+        <dc:subject>Great Britain -- Politics and government -- 1727-1760 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:52:50.711170+00:00"/>
+        <meta name="calibre:title_sort" content="Are these Things So? (1740) The Great Man's Answer to Are These things So: (1740)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11ab9408-2d04-425a-b6ec-afa533c2d9a4</dc:identifier>
+        <dc:title>Talkers: With Illustrations</dc:title>
+        <dc:creator opf:file-as="Bate, John" opf:role="aut">John Bate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31143</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conversation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Bate&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:19:02.982014+00:00"/>
+        <meta name="calibre:title_sort" content="Talkers: With Illustrations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

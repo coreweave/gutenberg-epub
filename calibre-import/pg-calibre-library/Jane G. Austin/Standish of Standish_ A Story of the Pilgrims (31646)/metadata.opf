@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3395320e-6ccb-49c0-bf3f-20e6a290dc44</dc:identifier>
+        <dc:title>Standish of Standish: A Story of the Pilgrims</dc:title>
+        <dc:creator opf:file-as="Austin, Jane G. (Jane Goodwin)" opf:role="aut">Jane G. Austin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22052</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Massachusetts -- History -- New Plymouth</dc:subject>
+        <dc:subject>1620-1691 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane G. Austin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:29:56.367857+00:00"/>
+        <meta name="calibre:title_sort" content="Standish of Standish: A Story of the Pilgrims"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

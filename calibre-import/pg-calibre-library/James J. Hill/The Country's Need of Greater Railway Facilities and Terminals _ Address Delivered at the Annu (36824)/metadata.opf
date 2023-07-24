@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37ee7914-4703-46f0-a7b3-2c2acaa0e27c</dc:identifier>
+        <dc:title>The Country's Need of Greater Railway Facilities and Terminals / Address Delivered at the Annual Dinner of the Railway Business Association, New York City, December 19, 1912</dc:title>
+        <dc:creator opf:file-as="Hill, James J. (James Jerome)" opf:role="aut">James J. Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47536</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railroad stations -- United States</dc:subject>
+        <dc:subject>Railroads -- United States -- Finance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James J. Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:46:06.594298+00:00"/>
+        <meta name="calibre:title_sort" content="Country's Need of Greater Railway Facilities and Terminals / Address Delivered at the Annual Dinner of the Railway Business Association, New York City, December 19, 1912, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

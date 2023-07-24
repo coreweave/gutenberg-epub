@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23490778-57e3-41ab-9495-58501e0fb8b8</dc:identifier>
+        <dc:title>The Farmer's Own Book: A treatise on the numerous diseases of the horse / with an explanation of their symptoms, and the course of treatment to be pursued; also a treatise on the diseases of horned cattle</dc:title>
+        <dc:creator opf:file-as="Koogle, J. D." opf:role="aut">J. D. Koogle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horses -- Diseases</dc:subject>
+        <dc:subject>Cattle -- Diseases</dc:subject>
+        <dc:subject>Veterinary medicine</dc:subject>
+        <dc:subject>Formulas</dc:subject>
+        <dc:subject>recipes</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. D. Koogle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:07:30.781652+00:00"/>
+        <meta name="calibre:title_sort" content="Farmer's Own Book: A treatise on the numerous diseases of the horse / with an explanation of their symptoms, and the course of treatment to be pursued; also a treatise on the diseases of horned cattle, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

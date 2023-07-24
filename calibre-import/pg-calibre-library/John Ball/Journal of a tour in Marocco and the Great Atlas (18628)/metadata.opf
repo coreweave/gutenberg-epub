@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77161992-11eb-4892-862b-f459158b4bec</dc:identifier>
+        <dc:title>Journal of a tour in Marocco and the Great Atlas</dc:title>
+        <dc:creator opf:file-as="Ball, John" opf:role="aut">John Ball</dc:creator>
+        <dc:creator opf:file-as="Ball, John" opf:role="aut">Joseph Dalton Hooker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70700</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Ball&quot;: &quot;&quot;, &quot;Joseph Dalton Hooker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:14:52.244177+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of a tour in Marocco and the Great Atlas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

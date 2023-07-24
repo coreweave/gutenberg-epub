@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">875b9826-f794-45a0-9262-64e100fe7c15</dc:identifier>
+        <dc:title>Witchcraft and Superstitious Record in the South-Western District of Scotland</dc:title>
+        <dc:creator opf:file-as="Wood, J. Maxwell (John Maxwell)" opf:role="aut">J. Maxwell Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43966</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- Scotland</dc:subject>
+        <dc:subject>Witchcraft -- Scotland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Maxwell Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:33:14.807722+00:00"/>
+        <meta name="calibre:title_sort" content="Witchcraft and Superstitious Record in the South-Western District of Scotland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

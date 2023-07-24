@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32bf49d4-b762-4cc0-9d08-51207c25db38</dc:identifier>
+        <dc:title>The Mentor: Rembrandt, Vol. 4, Num. 20, Serial No. 120, December 1, 1916</dc:title>
+        <dc:creator opf:file-as="Van Dyke, John Charles" opf:role="aut">John Charles Van Dyke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52178</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rembrandt Harmenszoon van Rijn</dc:subject>
+        <dc:subject>1606-1669</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Charles Van Dyke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:37:54.559440+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: Rembrandt, Vol. 4, Num. 20, Serial No. 120, December 1, 1916, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

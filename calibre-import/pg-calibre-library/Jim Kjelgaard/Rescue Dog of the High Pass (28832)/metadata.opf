@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6430094c-0f38-4751-9968-5c1604dfb552</dc:identifier>
+        <dc:title>Rescue Dog of the High Pass</dc:title>
+        <dc:creator opf:file-as="Kjelgaard, Jim" opf:role="aut">Jim Kjelgaard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34466</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mountain life -- Alps -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jim Kjelgaard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:16:30.753513+00:00"/>
+        <meta name="calibre:title_sort" content="Rescue Dog of the High Pass"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

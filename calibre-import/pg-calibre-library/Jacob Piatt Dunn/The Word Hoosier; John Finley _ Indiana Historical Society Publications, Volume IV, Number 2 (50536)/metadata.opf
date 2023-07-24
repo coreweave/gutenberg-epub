@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c32d20e-7f82-4fbf-8f6b-45c9a64ef9c8</dc:identifier>
+        <dc:title>The Word Hoosier; John Finley / Indiana Historical Society Publications, Volume IV, Number 2</dc:title>
+        <dc:creator opf:file-as="Dunn, Jacob Piatt" opf:role="aut">Jacob Piatt Dunn</dc:creator>
+        <dc:creator opf:file-as="Dunn, Jacob Piatt" opf:role="aut">Sarah A. Finley Wrigley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35634</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Finley</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1797-1866</dc:subject>
+        <dc:subject>Hoosier (Nickname)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacob Piatt Dunn&quot;: &quot;&quot;, &quot;Sarah A. Finley Wrigley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:39:49.938216+00:00"/>
+        <meta name="calibre:title_sort" content="Word Hoosier; John Finley / Indiana Historical Society Publications, Volume IV, Number 2, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

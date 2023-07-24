@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93203bb6-a62b-411a-8991-ad7a08b2bc0b</dc:identifier>
+        <dc:title>Little Busybodies: The Life of Crickets, Ants, Bees, Beetles, and Other Busybodies</dc:title>
+        <dc:creator opf:file-as="Marks, Jeannette Augustus" opf:role="aut">Jeannette Augustus Marks</dc:creator>
+        <dc:creator opf:file-as="Marks, Jeannette Augustus" opf:role="aut">Julia Moody</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21948</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Insects -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jeannette Augustus Marks&quot;: &quot;&quot;, &quot;Julia Moody&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:10:43.097911+00:00"/>
+        <meta name="calibre:title_sort" content="Little Busybodies: The Life of Crickets, Ants, Bees, Beetles, and Other Busybodies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

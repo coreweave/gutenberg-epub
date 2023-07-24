@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd7402a5-5211-4475-bbdb-ccc4391d76d4</dc:identifier>
+        <dc:title>Mormon Settlement in Arizona / A Record of Peaceful Conquest of the Desert</dc:title>
+        <dc:creator opf:file-as="McClintock, James H." opf:role="aut">James H. McClintock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9661</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormons -- Arizona -- History</dc:subject>
+        <dc:subject>Arizona -- History -- To 1950</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James H. McClintock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:48:44.216428+00:00"/>
+        <meta name="calibre:title_sort" content="Mormon Settlement in Arizona / A Record of Peaceful Conquest of the Desert"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

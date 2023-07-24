@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbb38962-5f96-452e-89e2-9d340d181939</dc:identifier>
+        <dc:title>An Unsinkable Titanic: Every Ship its own Lifeboat</dc:title>
+        <dc:creator opf:file-as="Walker, John Bernard" opf:role="aut">John Bernard Walker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Titanic (Steamship)</dc:subject>
+        <dc:subject>Shipbuilding</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Bernard Walker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:44:02.207626+00:00"/>
+        <meta name="calibre:title_sort" content="Unsinkable Titanic: Every Ship its own Lifeboat, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

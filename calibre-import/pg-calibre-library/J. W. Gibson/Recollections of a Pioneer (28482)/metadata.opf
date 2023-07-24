@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb5d02fb-5b16-497f-8422-e1d56b828875</dc:identifier>
+        <dc:title>Recollections of a Pioneer</dc:title>
+        <dc:creator opf:file-as="Gibson, J. W. (J. Watt)" opf:role="aut">J. W. Gibson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49089</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- West (U.S.)</dc:subject>
+        <dc:subject>Overland journeys to the Pacific</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. W. Gibson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:00:19.970978+00:00"/>
+        <meta name="calibre:title_sort" content="Recollections of a Pioneer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

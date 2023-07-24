@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d177cb99-f1ea-415c-8262-3ee5e2300acd</dc:identifier>
+        <dc:title>The American Occupation of the Philippines 1898-1912</dc:title>
+        <dc:creator opf:file-as="Blount, James H. (James Henderson)" opf:role="aut">James H. Blount</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36542</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philippines -- History -- 1898-1946</dc:subject>
+        <dc:subject>Philippines -- Politics and government -- 1898-1935</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James H. Blount&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:02:13.780217+00:00"/>
+        <meta name="calibre:title_sort" content="American Occupation of the Philippines 1898-1912, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

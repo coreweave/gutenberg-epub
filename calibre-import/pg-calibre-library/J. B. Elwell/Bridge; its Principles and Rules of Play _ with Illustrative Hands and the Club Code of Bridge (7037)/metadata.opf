@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7037</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">acb6eac4-17a7-4699-ac44-21f4e638405b</dc:identifier>
+        <dc:title>Bridge; its Principles and Rules of Play / with Illustrative Hands and the Club Code of Bridge Laws</dc:title>
+        <dc:creator opf:file-as="Elwell, J. B. (Joseph Bowne)" opf:role="aut">J. B. Elwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bridge whist</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. B. Elwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:35:50.896394+00:00"/>
+        <meta name="calibre:title_sort" content="Bridge; its Principles and Rules of Play / with Illustrative Hands and the Club Code of Bridge Laws"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

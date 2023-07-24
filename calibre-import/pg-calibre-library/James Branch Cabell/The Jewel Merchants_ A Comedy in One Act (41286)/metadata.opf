@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b5036ca-b1fd-4e04-aafc-dc99a305c794</dc:identifier>
+        <dc:title>The Jewel Merchants: A Comedy in One Act</dc:title>
+        <dc:creator opf:file-as="Cabell, James Branch" opf:role="aut">James Branch Cabell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9829</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Comedies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Branch Cabell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:40:09.920328+00:00"/>
+        <meta name="calibre:title_sort" content="Jewel Merchants: A Comedy in One Act, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

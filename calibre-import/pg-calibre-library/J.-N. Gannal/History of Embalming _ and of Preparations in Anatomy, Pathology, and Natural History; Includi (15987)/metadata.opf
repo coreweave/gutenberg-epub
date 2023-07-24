@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fd48d69-db36-4ddf-925e-6605251026a2</dc:identifier>
+        <dc:title>History of Embalming / and of Preparations in Anatomy, Pathology, and Natural History; Including an Account of a New Process for Embalming</dc:title>
+        <dc:creator opf:file-as="Gannal, J.-N. (Jean-Nicolas)" opf:role="aut">J.-N. Gannal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48078</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Embalming -- History</dc:subject>
+        <dc:subject>Anatomical specimens -- Collection and preservation</dc:subject>
+        <dc:subject>Mummies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J.-N. Gannal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:44:44.600636+00:00"/>
+        <meta name="calibre:title_sort" content="History of Embalming / and of Preparations in Anatomy, Pathology, and Natural History; Including an Account of a New Process for Embalming"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

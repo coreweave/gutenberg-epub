@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2e8dd6f-811b-4985-b4ce-cbf95948b0fc</dc:identifier>
+        <dc:title>Taxonomy of the Chipmunks, Eutamias quadrivittatus and Eutamias umbrinus</dc:title>
+        <dc:creator opf:file-as="White, John A." opf:role="aut">John A. White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31267</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chipmunks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John A. White&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:22:20.203669+00:00"/>
+        <meta name="calibre:title_sort" content="Taxonomy of the Chipmunks, Eutamias quadrivittatus and Eutamias umbrinus"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

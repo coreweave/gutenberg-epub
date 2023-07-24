@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99310484-e1b7-465f-96a4-dd5cca42fe50</dc:identifier>
+        <dc:title>An account of the manner of inoculating for the small pox in the East Indies / With some observations on the practice and mode of treating that disease in those parts</dc:title>
+        <dc:creator opf:file-as="Holwell, J. Z. (John Zephaniah)" opf:role="aut">J. Z. Holwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52722</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Smallpox -- Vaccination</dc:subject>
+        <dc:subject>Smallpox -- Prevention</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Z. Holwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:44:09.448677+00:00"/>
+        <meta name="calibre:title_sort" content="account of the manner of inoculating for the small pox in the East Indies / With some observations on the practice and mode of treating that disease in those parts, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

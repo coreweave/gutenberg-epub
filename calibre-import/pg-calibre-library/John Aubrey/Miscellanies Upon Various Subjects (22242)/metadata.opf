@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a35b995-2506-4bc8-a7e4-de0f5c44595b</dc:identifier>
+        <dc:title>Miscellanies Upon Various Subjects</dc:title>
+        <dc:creator opf:file-as="Aubrey, John" opf:role="aut">John Aubrey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Superstition</dc:subject>
+        <dc:subject>Occultism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Aubrey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:32:05.706203+00:00"/>
+        <meta name="calibre:title_sort" content="Miscellanies Upon Various Subjects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

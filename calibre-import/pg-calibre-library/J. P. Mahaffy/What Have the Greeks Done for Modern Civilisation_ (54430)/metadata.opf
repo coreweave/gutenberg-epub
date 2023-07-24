@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f37f4376-1713-40ed-81dc-b4982d01f110</dc:identifier>
+        <dc:title>What Have the Greeks Done for Modern Civilisation?</dc:title>
+        <dc:creator opf:file-as="Mahaffy, J. P. (John Pentland)" opf:role="aut">J. P. Mahaffy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59132</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Greece -- Civilization</dc:subject>
+        <dc:subject>Greece -- Intellectual life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. P. Mahaffy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:50:35.881012+00:00"/>
+        <meta name="calibre:title_sort" content="What Have the Greeks Done for Modern Civilisation?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

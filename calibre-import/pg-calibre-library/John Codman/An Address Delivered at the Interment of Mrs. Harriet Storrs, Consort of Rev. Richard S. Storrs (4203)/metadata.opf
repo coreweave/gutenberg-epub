@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2557358-2926-46c7-9a77-ddcf48009cea</dc:identifier>
+        <dc:title>An Address Delivered at the Interment of Mrs. Harriet Storrs, Consort of Rev. Richard S. Storrs, Braintree, Mass., July 11, 1834.</dc:title>
+        <dc:creator opf:file-as="Codman, John" opf:role="aut">John Codman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Storrs</dc:subject>
+        <dc:subject>Harriet</dc:subject>
+        <dc:subject>1786-1834 -- Death and burial -- Sermons</dc:subject>
+        <dc:subject>Funeral sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Codman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:36:37.353794+00:00"/>
+        <meta name="calibre:title_sort" content="Address Delivered at the Interment of Mrs. Harriet Storrs, Consort of Rev. Richard S. Storrs, Braintree, Mass., July 11, 1834., An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

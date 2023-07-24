@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5435a35-1be3-42df-bec5-a9a22de5a2de</dc:identifier>
+        <dc:title>Random Shots from a Rifleman</dc:title>
+        <dc:creator opf:file-as="Kincaid, J. (John)" opf:role="aut">J. Kincaid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44965</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kincaid</dc:subject>
+        <dc:subject>J. (John)</dc:subject>
+        <dc:subject>1787-1862</dc:subject>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814 -- Personal narratives</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Great Britain. Army. Regiment of Foot</dc:subject>
+        <dc:subject>95th</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Kincaid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:55:18.420203+00:00"/>
+        <meta name="calibre:title_sort" content="Random Shots from a Rifleman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

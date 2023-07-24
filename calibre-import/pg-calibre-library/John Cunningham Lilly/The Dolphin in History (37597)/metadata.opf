@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37597</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79879556-a2f7-430d-b1c2-29e097f26b02</dc:identifier>
+        <dc:title>The Dolphin in History</dc:title>
+        <dc:creator opf:file-as="Lilly, John Cunningham" opf:role="aut">John Cunningham Lilly</dc:creator>
+        <dc:creator opf:file-as="Lilly, John Cunningham" opf:role="aut">Ashley Montagu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58939</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dolphins -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Cunningham Lilly&quot;: &quot;&quot;, &quot;Ashley Montagu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:25:47.035187+00:00"/>
+        <meta name="calibre:title_sort" content="Dolphin in History, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

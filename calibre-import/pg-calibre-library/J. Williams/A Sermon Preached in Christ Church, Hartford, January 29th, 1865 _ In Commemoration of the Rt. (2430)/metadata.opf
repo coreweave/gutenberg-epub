@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c00b5275-c9e6-4ce3-b1ce-19338b5d0fdb</dc:identifier>
+        <dc:title>A Sermon Preached in Christ Church, Hartford, January 29th, 1865 / In Commemoration of the Rt. Rev. Thomas Church Brownell, D. D., LL. D., Third Bishop of Connecticut, and Presiding Bishop of the Protestant Episcopal Church in the United States by his Assistant and Successor</dc:title>
+        <dc:creator opf:file-as="Williams, J. (John)" opf:role="aut">J. Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brownell</dc:subject>
+        <dc:subject>Thomas Church</dc:subject>
+        <dc:subject>1779-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:04:26.178331+00:00"/>
+        <meta name="calibre:title_sort" content="Sermon Preached in Christ Church, Hartford, January 29th, 1865 / In Commemoration of the Rt. Rev. Thomas Church Brownell, D. D., LL. D., Third Bishop of Connecticut, and Presiding Bishop of the Protestant Episcopal Church in the United States by his Assistant and Successor, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

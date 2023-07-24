@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d50858d6-7496-4e83-ab78-59fcc2fc262c</dc:identifier>
+        <dc:title>Fata Morgana: A Romance of Art Student Life in Paris</dc:title>
+        <dc:creator opf:file-as="Castaigne, J. André" opf:role="aut">J. André Castaigne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59052</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paris (France) -- Fiction</dc:subject>
+        <dc:subject>Art students -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. André Castaigne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:56:40.323093+00:00"/>
+        <meta name="calibre:title_sort" content="Fata Morgana: A Romance of Art Student Life in Paris"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddd53287-97b5-4bf2-bfda-fea4587f53f0</dc:identifier>
+        <dc:title>Life and Remarkable Adventures of Israel R. Potter</dc:title>
+        <dc:creator opf:file-as="Potter, Israel" opf:role="aut">Israel Potter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Prisoners and prisons</dc:subject>
+        <dc:subject>1775-1783 -- Personal narratives</dc:subject>
+        <dc:subject>Potter</dc:subject>
+        <dc:subject>Israel</dc:subject>
+        <dc:subject>1744-1826?</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Israel Potter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:57:07.122954+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Remarkable Adventures of Israel R. Potter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

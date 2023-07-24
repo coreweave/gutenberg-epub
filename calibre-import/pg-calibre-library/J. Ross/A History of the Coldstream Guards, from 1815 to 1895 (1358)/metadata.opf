@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e350121-6d92-41e1-8221-3693d932e2f5</dc:identifier>
+        <dc:title>A History of the Coldstream Guards, from 1815 to 1895</dc:title>
+        <dc:creator opf:file-as="Ross, J. (John)" opf:role="aut">J. Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58852</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>1837-1901</dc:subject>
+        <dc:subject>Great Britain. Army. Coldstream Guards</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:46:43.910402+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Coldstream Guards, from 1815 to 1895, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

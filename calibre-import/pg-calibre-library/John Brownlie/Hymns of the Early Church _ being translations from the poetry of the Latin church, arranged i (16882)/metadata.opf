@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69638851-14bf-40ed-a533-22bae05155f0</dc:identifier>
+        <dc:title>Hymns of the Early Church / being translations from the poetry of the Latin church, arranged in the order of the Christian year</dc:title>
+        <dc:creator opf:file-as="Brownlie, John" opf:role="aut">John Brownlie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44039</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hymns</dc:subject>
+        <dc:subject>Latin -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Brownlie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:14:37.217486+00:00"/>
+        <meta name="calibre:title_sort" content="Hymns of the Early Church / being translations from the poetry of the Latin church, arranged in the order of the Christian year"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

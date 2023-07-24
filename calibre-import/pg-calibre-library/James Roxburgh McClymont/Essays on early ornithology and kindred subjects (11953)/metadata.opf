@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e3096ee-de26-42d2-a8e1-d9fcfb9c83fc</dc:identifier>
+        <dc:title>Essays on early ornithology and kindred subjects</dc:title>
+        <dc:creator opf:file-as="McClymont, James Roxburgh" opf:role="aut">James Roxburgh McClymont</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds</dc:subject>
+        <dc:subject>Ornithology -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Roxburgh McClymont&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:40:57.082854+00:00"/>
+        <meta name="calibre:title_sort" content="Essays on early ornithology and kindred subjects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

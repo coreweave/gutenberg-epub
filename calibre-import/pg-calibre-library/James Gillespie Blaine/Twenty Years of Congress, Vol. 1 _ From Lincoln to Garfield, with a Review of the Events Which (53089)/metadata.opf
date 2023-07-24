@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34a11cf4-88e0-4af7-9275-99f508f5be92</dc:identifier>
+        <dc:title>Twenty Years of Congress, Vol. 1 / From Lincoln to Garfield, with a Review of the Events Which Led to the Political Revolution of 1860</dc:title>
+        <dc:creator opf:file-as="Blaine, James Gillespie" opf:role="aut">James Gillespie Blaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21128</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- 1865-1898</dc:subject>
+        <dc:subject>United States -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Gillespie Blaine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:24:04.373032+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty Years of Congress, Vol. 1 / From Lincoln to Garfield, with a Review of the Events Which Led to the Political Revolution of 1860"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

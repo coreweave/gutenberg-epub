@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6cea8ce-ca4b-4cbc-9e71-4192e8e55425</dc:identifier>
+        <dc:title>Crimes and Punishments / Including a New Translation of Beccaria's 'Dei Delitti e delle Pene'</dc:title>
+        <dc:creator opf:file-as="Farrer, James Anson" opf:role="aut">James Anson Farrer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58700</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crime</dc:subject>
+        <dc:subject>Punishment</dc:subject>
+        <dc:subject>Torture</dc:subject>
+        <dc:subject>Criminal law</dc:subject>
+        <dc:subject>Beccaria</dc:subject>
+        <dc:subject>Cesare</dc:subject>
+        <dc:subject>marchese di</dc:subject>
+        <dc:subject>1738-1794. Dei delitti e delle pene</dc:subject>
+        <dc:subject>Capital punishment</dc:subject>
+        <dc:subject>Law reform</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Anson Farrer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:36:31.528745+00:00"/>
+        <meta name="calibre:title_sort" content="Crimes and Punishments / Including a New Translation of Beccaria's 'Dei Delitti e delle Pene'"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

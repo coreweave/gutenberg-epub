@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ad7eedc-d360-4b92-9a59-9ffc853f394e</dc:identifier>
+        <dc:title>The Poems of Goethe, Translated in the Original Metres</dc:title>
+        <dc:creator opf:file-as="Goethe, Johann Wolfgang von" opf:role="aut">Johann Wolfgang von Goethe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1287</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>German poetry -- Translations into English</dc:subject>
+        <dc:subject>Goethe</dc:subject>
+        <dc:subject>Johann Wolfgang von</dc:subject>
+        <dc:subject>1749-1832 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johann Wolfgang von Goethe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:39:31.532117+00:00"/>
+        <meta name="calibre:title_sort" content="Poems of Goethe, Translated in the Original Metres, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

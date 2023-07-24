@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">931dfcf8-122f-406f-b5b0-667f5fc72810</dc:identifier>
+        <dc:title>A Complete Grammar of Esperanto</dc:title>
+        <dc:creator opf:file-as="Reed, Ivy Kellerman" opf:role="aut">Ivy Kellerman Reed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7787</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>epo</dc:language>
+        <dc:subject>Esperanto -- Grammar</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ivy Kellerman Reed&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:37:09.701955+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Grammar of Esperanto, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

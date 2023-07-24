@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7940d311-5588-4676-bd31-b65c0667a1a3</dc:identifier>
+        <dc:title>The Bondage and Travels of Johann Schiltberger, a Native of Bavaria, in Europe, Asia, and Africa, 1396-1427</dc:title>
+        <dc:creator opf:file-as="Schiltberger, Johannes" opf:role="aut">Johannes Schiltberger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52569</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Early works to 1800</dc:subject>
+        <dc:subject>Timur</dc:subject>
+        <dc:subject>1336-1405 -- Early works to 1800</dc:subject>
+        <dc:subject>Turkey -- History -- Bayezid I</dc:subject>
+        <dc:subject>1389-1403</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johannes Schiltberger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:07:36.281775+00:00"/>
+        <meta name="calibre:title_sort" content="Bondage and Travels of Johann Schiltberger, a Native of Bavaria, in Europe, Asia, and Africa, 1396-1427, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

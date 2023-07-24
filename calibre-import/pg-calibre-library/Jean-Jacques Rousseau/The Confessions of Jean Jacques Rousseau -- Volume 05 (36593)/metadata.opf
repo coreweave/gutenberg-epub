@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f188688-df76-4ea2-bfb1-190a3e0b0cd7</dc:identifier>
+        <dc:title>The Confessions of Jean Jacques Rousseau — Volume 05</dc:title>
+        <dc:creator opf:file-as="Rousseau, Jean-Jacques" opf:role="aut">Jean-Jacques Rousseau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3905</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rousseau</dc:subject>
+        <dc:subject>Jean-Jacques</dc:subject>
+        <dc:subject>1712-1778</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>French -- 18th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Jacques Rousseau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:34:19.527481+00:00"/>
+        <meta name="calibre:title_sort" content="Confessions of Jean Jacques Rousseau — Volume 05, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

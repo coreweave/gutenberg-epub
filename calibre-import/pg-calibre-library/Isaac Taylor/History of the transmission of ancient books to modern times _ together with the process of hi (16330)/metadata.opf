@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">868b5648-ce47-4de0-89c0-cc6e68a8c20b</dc:identifier>
+        <dc:title>History of the transmission of ancient books to modern times / together with the process of historical proof; or, a concise account of the means by which genuineness of ancient literature generally, and the authenticity of historical works especially are ascertained including incidental remarks upon the relative strength of the evidence usually adduced in behalf of the Holy Scriptures</dc:title>
+        <dc:creator opf:file-as="Taylor, Isaac" opf:role="aut">Isaac Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67778</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historiography</dc:subject>
+        <dc:subject>Bible -- Evidences</dc:subject>
+        <dc:subject>authority</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Transmission of texts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaac Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:56:09.233863+00:00"/>
+        <meta name="calibre:title_sort" content="History of the transmission of ancient books to modern times / together with the process of historical proof; or, a concise account of the means by which genuineness of ancient literature generally, and the authenticity of historical works especially are ascertained including incidental remarks upon the relative strength of the evidence usually adduced in behalf of the Holy Scriptures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

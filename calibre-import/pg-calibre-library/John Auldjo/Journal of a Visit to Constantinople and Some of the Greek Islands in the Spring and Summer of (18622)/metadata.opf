@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25676a13-c6ae-46c4-98c1-7ed4ff6ae1dd</dc:identifier>
+        <dc:title>Journal of a Visit to Constantinople and Some of the Greek Islands in the Spring and Summer of 1833</dc:title>
+        <dc:creator opf:file-as="Auldjo, John" opf:role="aut">John Auldjo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27484</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Greece -- Description and travel</dc:subject>
+        <dc:subject>Russians -- Turkey</dc:subject>
+        <dc:subject>Turkey -- Social life and customs</dc:subject>
+        <dc:subject>Istanbul (Turkey) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Auldjo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:14:38.829346+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of a Visit to Constantinople and Some of the Greek Islands in the Spring and Summer of 1833"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

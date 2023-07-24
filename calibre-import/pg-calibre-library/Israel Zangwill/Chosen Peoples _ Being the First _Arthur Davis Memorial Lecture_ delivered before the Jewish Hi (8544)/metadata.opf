@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85cff404-5685-461c-8500-b2c16214b824</dc:identifier>
+        <dc:title>Chosen Peoples / Being the First "Arthur Davis Memorial Lecture" delivered before the Jewish Historical Society at University College on Easter-Passover Sunday, 1918/5678</dc:title>
+        <dc:creator opf:file-as="Zangwill, Israel" opf:role="aut">Israel Zangwill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20631</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>National characteristics</dc:subject>
+        <dc:subject>German</dc:subject>
+        <dc:subject>Jews -- Election</dc:subject>
+        <dc:subject>Doctrine of</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Israel Zangwill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:11:22.178461+00:00"/>
+        <meta name="calibre:title_sort" content="Chosen Peoples / Being the First &quot;Arthur Davis Memorial Lecture&quot; delivered before the Jewish Historical Society at University College on Easter-Passover Sunday, 1918/5678"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

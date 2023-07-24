@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80fdb1b4-64d9-4247-9a7f-c9b45bc9bc37</dc:identifier>
+        <dc:title>Gibbon</dc:title>
+        <dc:creator opf:file-as="Morison, James Cotter" opf:role="aut">James Cotter Morison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18851</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Intellectual life -- 18th century</dc:subject>
+        <dc:subject>Historians -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Gibbon</dc:subject>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>1737-1794</dc:subject>
+        <dc:subject>1737-1794. History of the decline and fall of the Roman empire</dc:subject>
+        <dc:subject>Scholars -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Rome -- History -- Empire</dc:subject>
+        <dc:subject>30 B.C.-476 A.D. -- Historiography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Cotter Morison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:43:29.536785+00:00"/>
+        <meta name="calibre:title_sort" content="Gibbon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

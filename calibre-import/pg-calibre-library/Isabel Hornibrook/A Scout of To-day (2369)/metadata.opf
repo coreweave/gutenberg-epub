@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d3477ce-cc58-475d-a1b3-f0f7cac9c4e7</dc:identifier>
+        <dc:title>A Scout of To-day</dc:title>
+        <dc:creator opf:file-as="Hornibrook, Isabel" opf:role="aut">Isabel Hornibrook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38540</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boy Scouts of America -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isabel Hornibrook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:03:24.072872+00:00"/>
+        <meta name="calibre:title_sort" content="Scout of To-day, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

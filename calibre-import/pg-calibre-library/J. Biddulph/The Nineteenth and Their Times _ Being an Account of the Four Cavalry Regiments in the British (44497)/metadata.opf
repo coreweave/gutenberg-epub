@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8677799e-751b-4b12-a8e1-a62a5ecbd815</dc:identifier>
+        <dc:title>The Nineteenth and Their Times / Being an Account of the Four Cavalry Regiments in the British Army That Have Borne the Number Nineteen and of the Campaigns in Which They Served</dc:title>
+        <dc:creator opf:file-as="Biddulph, J. (John)" opf:role="aut">J. Biddulph</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60290</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army. Cavalry. 19th Regiment</dc:subject>
+        <dc:subject>1759-1763</dc:subject>
+        <dc:subject>1779-1783</dc:subject>
+        <dc:subject>Great Britain. Army. Cavalry. 23rd Light Dragoons</dc:subject>
+        <dc:subject>1781-1786</dc:subject>
+        <dc:subject>Great Britain. Army. Cavalry. 19th Light Dragoons</dc:subject>
+        <dc:subject>1786-1821</dc:subject>
+        <dc:subject>Great Britain. Army. Royal Hussars</dc:subject>
+        <dc:subject>19th (Queen Alexandra's Own)</dc:subject>
+        <dc:subject>United States -- History -- War of 1812 -- Regimental histories</dc:subject>
+        <dc:subject>British</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Biddulph&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:39:12.883585+00:00"/>
+        <meta name="calibre:title_sort" content="Nineteenth and Their Times / Being an Account of the Four Cavalry Regiments in the British Army That Have Borne the Number Nineteen and of the Campaigns in Which They Served, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

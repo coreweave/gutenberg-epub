@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7c21dac-e299-40a1-8c59-f75c359232c2</dc:identifier>
+        <dc:title>The "City Guard": A History of Company "B" First Regiment Infantry, N. G. C. During the Sacremento Campaign, July 3 to 26, 1894 / Including a Brief History of the Company Since Its Organization March 31, 1854, to July 3, 1894</dc:title>
+        <dc:creator opf:file-as="Cook, Irving B." opf:role="aut">Irving B. Cook</dc:creator>
+        <dc:creator opf:file-as="Cook, Irving B." opf:role="aut">George Filmer</dc:creator>
+        <dc:creator opf:file-as="Cook, Irving B." opf:role="aut">W. J. Hayes</dc:creator>
+        <dc:creator opf:file-as="Cook, Irving B." opf:role="aut">A. McCulloch</dc:creator>
+        <dc:creator opf:file-as="Cook, Irving B." opf:role="aut">William D. O'Brien</dc:creator>
+        <dc:creator opf:file-as="Cook, Irving B." opf:role="aut">California. Infantry. First Regiment. Company B</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67904</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railroads -- United States -- Employees</dc:subject>
+        <dc:subject>Railroad Strike</dc:subject>
+        <dc:subject>Calif.</dc:subject>
+        <dc:subject>1894</dc:subject>
+        <dc:subject>California. Infantry. First Regiment. Company B</dc:subject>
+        <dc:subject>California -- History -- 1850-1950</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Irving B. Cook&quot;: &quot;&quot;, &quot;George Filmer&quot;: &quot;&quot;, &quot;W. J. Hayes&quot;: &quot;&quot;, &quot;A. McCulloch&quot;: &quot;&quot;, &quot;William D. O'Brien&quot;: &quot;&quot;, &quot;California. Infantry. First Regiment. Company B&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:32:30.446960+00:00"/>
+        <meta name="calibre:title_sort" content="City Guard&quot;: A History of Company &quot;B&quot; First Regiment Infantry, N. G. C. During the Sacremento Campaign, July 3 to 26, 1894 / Including a Brief History of the Company Since Its Organization March 31, 1854, to July 3, 1894, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

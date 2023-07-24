@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">763f3a74-76e7-48d9-81a8-b0a9e8d2fc7f</dc:identifier>
+        <dc:title>Daughter of the Sun: A Tale of Adventure</dc:title>
+        <dc:creator opf:file-as="Gregory, Jackson" opf:role="aut">Jackson Gregory</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18916</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jackson Gregory&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:46:22.425401+00:00"/>
+        <meta name="calibre:title_sort" content="Daughter of the Sun: A Tale of Adventure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

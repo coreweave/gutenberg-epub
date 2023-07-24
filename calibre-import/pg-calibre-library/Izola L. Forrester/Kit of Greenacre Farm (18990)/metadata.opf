@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18990</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53fb49ee-26b0-4bd1-855e-680eeb5329bf</dc:identifier>
+        <dc:title>Kit of Greenacre Farm</dc:title>
+        <dc:creator opf:file-as="Forrester, Izola L. (Izola Louise)" opf:role="aut">Izola L. Forrester</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15029</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Family -- Juvenile fiction</dc:subject>
+        <dc:subject>Farm life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Izola L. Forrester&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:27:41.664373+00:00"/>
+        <meta name="calibre:title_sort" content="Kit of Greenacre Farm"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

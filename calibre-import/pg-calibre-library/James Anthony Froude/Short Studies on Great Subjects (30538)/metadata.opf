@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9092259d-6a6a-415d-a42b-e517cf1fc2cc</dc:identifier>
+        <dc:title>Short Studies on Great Subjects</dc:title>
+        <dc:creator opf:file-as="Froude, James Anthony" opf:role="aut">James Anthony Froude</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20755</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>English literature</dc:subject>
+        <dc:subject>English essays</dc:subject>
+        <dc:subject>Religion -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Anthony Froude&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:37:23.870184+00:00"/>
+        <meta name="calibre:title_sort" content="Short Studies on Great Subjects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

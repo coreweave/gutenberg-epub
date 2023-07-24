@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">799dcfd0-8357-4089-b3e5-22788506c1e8</dc:identifier>
+        <dc:title>Obesity, or Excessive Corpulence: The Various Causes and the Rational Means of Cure</dc:title>
+        <dc:creator opf:file-as="Dancel, J.-F. (Jean-François)" opf:role="aut">J.-F. Dancel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57069</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Obesity</dc:subject>
+        <dc:subject>Weight loss</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J.-F. Dancel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:06:13.167981+00:00"/>
+        <meta name="calibre:title_sort" content="Obesity, or Excessive Corpulence: The Various Causes and the Rational Means of Cure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

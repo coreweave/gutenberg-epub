@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf355066-e9ee-4630-832d-41b2d9f1dd1d</dc:identifier>
+        <dc:title>Remarks on some fossil impressions in the sandstone rocks of Connecticut River</dc:title>
+        <dc:creator opf:file-as="Warren, John Collins" opf:role="aut">John Collins Warren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34056</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Footprints</dc:subject>
+        <dc:subject>Fossil -- Connecticut River Valley</dc:subject>
+        <dc:subject>Paleontology -- Connecticut River Valley</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Collins Warren&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:08:29.320902+00:00"/>
+        <meta name="calibre:title_sort" content="Remarks on some fossil impressions in the sandstone rocks of Connecticut River"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

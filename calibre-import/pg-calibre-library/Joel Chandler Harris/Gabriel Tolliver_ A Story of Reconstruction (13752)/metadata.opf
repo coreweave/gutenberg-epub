@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a5ef936-9c55-475c-96de-9bb24e046f2d</dc:identifier>
+        <dc:title>Gabriel Tolliver: A Story of Reconstruction</dc:title>
+        <dc:creator opf:file-as="Harris, Joel Chandler" opf:role="aut">Joel Chandler Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reconstruction (U.S. history</dc:subject>
+        <dc:subject>1865-1877) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Chandler Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:33:18.769785+00:00"/>
+        <meta name="calibre:title_sort" content="Gabriel Tolliver: A Story of Reconstruction"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

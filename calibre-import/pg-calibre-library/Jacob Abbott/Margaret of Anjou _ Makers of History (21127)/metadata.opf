@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bdbe007-27cb-4b86-badb-22986a727b77</dc:identifier>
+        <dc:title>Margaret of Anjou / Makers of History</dc:title>
+        <dc:creator opf:file-as="Abbott, Jacob" opf:role="aut">Jacob Abbott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25275</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Henry VI</dc:subject>
+        <dc:subject>1422-1461</dc:subject>
+        <dc:subject>Margaret</dc:subject>
+        <dc:subject>of Anjou</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Henry VI</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1430-1482</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacob Abbott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:47:15.491878+00:00"/>
+        <meta name="calibre:title_sort" content="Margaret of Anjou / Makers of History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

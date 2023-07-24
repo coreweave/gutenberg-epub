@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9240d5c2-3bc8-423f-bd09-0d71cc61df98</dc:identifier>
+        <dc:title>Know the Truth: A Critique on the Hamiltonian Theory of Limitation / Including Some Strictures Upon the Theories of Rev. Henry L. Mansel and Mr. Herbert Spencer</dc:title>
+        <dc:creator opf:file-as="Jones, Jesse Henry" opf:role="aut">Jesse Henry Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theism</dc:subject>
+        <dc:subject>Hamilton</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1788-1856</dc:subject>
+        <dc:subject>Spencer</dc:subject>
+        <dc:subject>Herbert</dc:subject>
+        <dc:subject>1820-1903</dc:subject>
+        <dc:subject>Mansel</dc:subject>
+        <dc:subject>Henry Longueville</dc:subject>
+        <dc:subject>1820-1871</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jesse Henry Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:29:01.084650+00:00"/>
+        <meta name="calibre:title_sort" content="Know the Truth: A Critique on the Hamiltonian Theory of Limitation / Including Some Strictures Upon the Theories of Rev. Henry L. Mansel and Mr. Herbert Spencer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

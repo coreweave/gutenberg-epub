@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65af5524-10f6-482d-a1c0-21119da7abee</dc:identifier>
+        <dc:title>Elusive Isabel</dc:title>
+        <dc:creator opf:file-as="Futrelle, Jacques" opf:role="aut">Jacques Futrelle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10943</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Spy stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacques Futrelle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:27:32.578116+00:00"/>
+        <meta name="calibre:title_sort" content="Elusive Isabel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

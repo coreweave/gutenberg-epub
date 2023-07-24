@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb421aea-a1bb-4c35-86e0-b70b53147a0a</dc:identifier>
+        <dc:title>The Belief in Immortality and the Worship of the Dead, Volume 1 (of 3) / The Belief Among the Aborigines of Australia, the Torres Straits Islands, New Guinea and Melanesia</dc:title>
+        <dc:creator opf:file-as="Frazer, James George" opf:role="aut">James George Frazer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20116</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Immortality -- Comparative studies</dc:subject>
+        <dc:subject>Ancestor worship -- Oceania</dc:subject>
+        <dc:subject>Funeral rites and ceremonies -- Oceania</dc:subject>
+        <dc:subject>Burial</dc:subject>
+        <dc:subject>Oceania -- Religion</dc:subject>
+        <dc:subject>Oceania -- Social life and customs.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James George Frazer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:43:44.543012+00:00"/>
+        <meta name="calibre:title_sort" content="Belief in Immortality and the Worship of the Dead, Volume 1 (of 3) / The Belief Among the Aborigines of Australia, the Torres Straits Islands, New Guinea and Melanesia, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

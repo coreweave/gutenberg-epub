@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80a51d62-7040-4d9c-a9cf-d3fe00a4eca3</dc:identifier>
+        <dc:title>From John O'Groats to Land's End / Or, 1372 miles on foot; A book of days and chronicle of adventures by two pedestrians on tour</dc:title>
+        <dc:creator opf:file-as="Naylor, John Anderton" opf:role="aut">John Anderton Naylor</dc:creator>
+        <dc:creator opf:file-as="Naylor, John Anderton" opf:role="aut">Robert Anderton Naylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14415</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Description and travel</dc:subject>
+        <dc:subject>Naylor</dc:subject>
+        <dc:subject>Robert Anderton -- Diaries</dc:subject>
+        <dc:subject>John Anderton -- Diaries</dc:subject>
+        <dc:subject>Travelers -- Great Britain -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Anderton Naylor&quot;: &quot;&quot;, &quot;Robert Anderton Naylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:27:48.617916+00:00"/>
+        <meta name="calibre:title_sort" content="From John O'Groats to Land's End / Or, 1372 miles on foot; A book of days and chronicle of adventures by two pedestrians on tour"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

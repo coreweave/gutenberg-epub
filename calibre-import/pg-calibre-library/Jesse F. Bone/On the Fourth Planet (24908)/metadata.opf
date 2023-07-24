@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaac240b-d7d5-4dea-9440-a413d99a4158</dc:identifier>
+        <dc:title>On the Fourth Planet</dc:title>
+        <dc:creator opf:file-as="Bone, Jesse F. (Jesse Franklin)" opf:role="aut">Jesse F. Bone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50904</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Extraterrestrial beings -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jesse F. Bone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:24:33.152674+00:00"/>
+        <meta name="calibre:title_sort" content="On the Fourth Planet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61f73a78-bc40-47bc-befc-44df91305576</dc:identifier>
+        <dc:title>The Boy Spies of Philadelphia / The Story of How the Young Spies Helped the Continental Army at Valley Forge</dc:title>
+        <dc:creator opf:file-as="Otis, James" opf:role="aut">James Otis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44724</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Spy stories</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Juvenile fiction</dc:subject>
+        <dc:subject>Spies -- Juvenile fiction</dc:subject>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Otis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:25:22.033786+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Spies of Philadelphia / The Story of How the Young Spies Helped the Continental Army at Valley Forge, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

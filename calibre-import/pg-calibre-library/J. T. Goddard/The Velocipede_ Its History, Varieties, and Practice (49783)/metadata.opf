@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0e18187-2515-47a1-a78d-68de0082b0cd</dc:identifier>
+        <dc:title>The Velocipede: Its History, Varieties, and Practice</dc:title>
+        <dc:creator opf:file-as="Goddard, J. T." opf:role="aut">J. T. Goddard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66727</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bicycles -- History</dc:subject>
+        <dc:subject>Tricycles -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. T. Goddard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:52:34.005977+00:00"/>
+        <meta name="calibre:title_sort" content="Velocipede: Its History, Varieties, and Practice, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

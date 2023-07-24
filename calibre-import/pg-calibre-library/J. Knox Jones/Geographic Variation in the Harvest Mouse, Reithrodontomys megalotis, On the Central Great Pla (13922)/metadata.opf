@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48ca1d89-3a5a-4ee7-81a4-d50fecfc1ee7</dc:identifier>
+        <dc:title>Geographic Variation in the Harvest Mouse, Reithrodontomys megalotis, On the Central Great Plains And in Adjacent Regions</dc:title>
+        <dc:creator opf:file-as="Jones, J. Knox" opf:role="aut">J. Knox Jones</dc:creator>
+        <dc:creator opf:file-as="Jones, J. Knox" opf:role="aut">B. Mursaloglu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reithrodontomys</dc:subject>
+        <dc:subject>Animals -- Variation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Knox Jones&quot;: &quot;&quot;, &quot;B. Mursaloglu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:38:32.061457+00:00"/>
+        <meta name="calibre:title_sort" content="Geographic Variation in the Harvest Mouse, Reithrodontomys megalotis, On the Central Great Plains And in Adjacent Regions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b5ecdd8-7fc0-4343-bb57-32ef066997f5</dc:identifier>
+        <dc:title>A Mountain Boyhood</dc:title>
+        <dc:creator opf:file-as="Mills, Joe" opf:role="aut">Joe Mills</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29681</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pioneers -- Colorado -- Biography</dc:subject>
+        <dc:subject>Natural history -- Colorado</dc:subject>
+        <dc:subject>Colorado -- Biography</dc:subject>
+        <dc:subject>Rocky Mountain National Park (Colo.) -- History</dc:subject>
+        <dc:subject>Mills</dc:subject>
+        <dc:subject>Joe</dc:subject>
+        <dc:subject>1880-1935 -- Childhood and youth</dc:subject>
+        <dc:subject>Estes Park Region (Colo.) -- Social life and customs</dc:subject>
+        <dc:subject>Longs Peak (Colo.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joe Mills&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:36.479989+00:00"/>
+        <meta name="calibre:title_sort" content="Mountain Boyhood, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

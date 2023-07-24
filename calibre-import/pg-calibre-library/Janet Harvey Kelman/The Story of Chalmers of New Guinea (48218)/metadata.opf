@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90ca5079-8bec-4800-b527-cb3d772d928d</dc:identifier>
+        <dc:title>The Story of Chalmers of New Guinea</dc:title>
+        <dc:creator opf:file-as="Kelman, Janet Harvey" opf:role="aut">Janet Harvey Kelman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67613</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Juvenile literature</dc:subject>
+        <dc:subject>Shipwrecks -- Juvenile literature</dc:subject>
+        <dc:subject>Chalmers</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1841-1901 -- Juvenile literature</dc:subject>
+        <dc:subject>Missionaries -- Scotland -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>Sailing -- Juvenile literature</dc:subject>
+        <dc:subject>Islands -- Juvenile literature</dc:subject>
+        <dc:subject>New Guinea -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Janet Harvey Kelman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:16:24.092208+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Chalmers of New Guinea, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

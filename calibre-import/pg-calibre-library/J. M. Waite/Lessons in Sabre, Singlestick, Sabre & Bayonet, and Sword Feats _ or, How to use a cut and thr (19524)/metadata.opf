@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be86b967-6aff-4d91-9e48-3da3bb9022ae</dc:identifier>
+        <dc:title>Lessons in Sabre, Singlestick, Sabre &amp; Bayonet, and Sword Feats / or, How to use a cut and thrust sword</dc:title>
+        <dc:creator opf:file-as="Waite, J. M. (John Musgrave)" opf:role="aut">J. M. Waite</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fencing</dc:subject>
+        <dc:subject>Sabers</dc:subject>
+        <dc:subject>Single-stick</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. M. Waite&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:46:55.867508+00:00"/>
+        <meta name="calibre:title_sort" content="Lessons in Sabre, Singlestick, Sabre &amp; Bayonet, and Sword Feats / or, How to use a cut and thrust sword"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

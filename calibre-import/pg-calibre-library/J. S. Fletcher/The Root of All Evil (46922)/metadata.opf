@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b3b6c29-bffc-4ba6-9b7b-ffa7c40c6244</dc:identifier>
+        <dc:title>The Root of All Evil</dc:title>
+        <dc:creator opf:file-as="Fletcher, J. S. (Joseph Smith)" opf:role="aut">J. S. Fletcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40603</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. S. Fletcher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:59:38.944056+00:00"/>
+        <meta name="calibre:title_sort" content="Root of All Evil, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65123495-43a4-4e43-afb5-58c2b68cc132</dc:identifier>
+        <dc:title>The Black Death, and The Dancing Mania</dc:title>
+        <dc:creator opf:file-as="Hecker, J. F. C. (Justus Friedrich Carl)" opf:role="aut">J. F. C. Hecker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1739</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Black Death</dc:subject>
+        <dc:subject>Chorea</dc:subject>
+        <dc:subject>Epidemic</dc:subject>
+        <dc:subject>Epidemics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. F. C. Hecker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:59:45.115358+00:00"/>
+        <meta name="calibre:title_sort" content="Black Death, and The Dancing Mania, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

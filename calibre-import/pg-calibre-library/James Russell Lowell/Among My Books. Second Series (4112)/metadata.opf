@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a964122e-877f-40d9-8db0-499d7a735823</dc:identifier>
+        <dc:title>Among My Books. Second Series</dc:title>
+        <dc:creator opf:file-as="Lowell, James Russell" opf:role="aut">James Russell Lowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8509</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Keats</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1795-1821</dc:subject>
+        <dc:subject>Milton</dc:subject>
+        <dc:subject>1608-1674</dc:subject>
+        <dc:subject>Dante Alighieri</dc:subject>
+        <dc:subject>1265-1321</dc:subject>
+        <dc:subject>Wordsworth</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1770-1850</dc:subject>
+        <dc:subject>Spenser</dc:subject>
+        <dc:subject>Edmund</dc:subject>
+        <dc:subject>1552?-1599</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Russell Lowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:54.682971+00:00"/>
+        <meta name="calibre:title_sort" content="Among My Books. Second Series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

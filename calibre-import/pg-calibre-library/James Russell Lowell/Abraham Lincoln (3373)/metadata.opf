@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adc0c443-8958-4143-99bd-d238f448f4f1</dc:identifier>
+        <dc:title>Abraham Lincoln</dc:title>
+        <dc:creator opf:file-as="Lowell, James Russell" opf:role="aut">James Russell Lowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/906</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Russell Lowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:21:18.055062+00:00"/>
+        <meta name="calibre:title_sort" content="Abraham Lincoln"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

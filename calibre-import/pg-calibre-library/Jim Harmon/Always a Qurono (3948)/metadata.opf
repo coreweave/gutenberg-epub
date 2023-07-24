@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01ee7c9c-e24f-4997-b01f-9d03e4c78e76</dc:identifier>
+        <dc:title>Always a Qurono</dc:title>
+        <dc:creator opf:file-as="Harmon, Jim" opf:role="aut">Jim Harmon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Space ships -- Fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <dc:subject>Life on other planets -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jim Harmon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:31:50.716630+00:00"/>
+        <meta name="calibre:title_sort" content="Always a Qurono"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4561f73-a3ff-48f3-a813-adcb5c285a11</dc:identifier>
+        <dc:title>Thirty years' history of the church and congregation in Prince's Street Chapel, Norwich</dc:title>
+        <dc:creator opf:file-as="Alexander, John" opf:role="aut">John Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63315</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Prince's Street Chapel (Norwich</dc:subject>
+        <dc:subject>England) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Alexander&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:14:03.222366+00:00"/>
+        <meta name="calibre:title_sort" content="Thirty years' history of the church and congregation in Prince's Street Chapel, Norwich"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

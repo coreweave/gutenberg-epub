@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26a7ff81-35f9-4817-b4f9-a4c3e7e67c1d</dc:identifier>
+        <dc:title>The Gentle Art of Making Enemies</dc:title>
+        <dc:creator opf:file-as="Whistler, James McNeill" opf:role="aut">James McNeill Whistler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24650</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Whistler</dc:subject>
+        <dc:subject>James McNeill</dc:subject>
+        <dc:subject>1834-1903</dc:subject>
+        <dc:subject>Painting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James McNeill Whistler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:40:21.412517+00:00"/>
+        <meta name="calibre:title_sort" content="Gentle Art of Making Enemies, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

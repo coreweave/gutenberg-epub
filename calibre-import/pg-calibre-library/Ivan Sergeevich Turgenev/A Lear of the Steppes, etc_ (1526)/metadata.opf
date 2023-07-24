@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">436361e3-eb5c-4b26-9ae1-c7ee023c76af</dc:identifier>
+        <dc:title>A Lear of the Steppes, etc.</dc:title>
+        <dc:creator opf:file-as="Turgenev, Ivan Sergeevich" opf:role="aut">Ivan Sergeevich Turgenev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52642</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Russia -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Turgenev</dc:subject>
+        <dc:subject>Ivan Sergeevich</dc:subject>
+        <dc:subject>1818-1883 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ivan Sergeevich Turgenev&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:26.423943+00:00"/>
+        <meta name="calibre:title_sort" content="Lear of the Steppes, etc., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

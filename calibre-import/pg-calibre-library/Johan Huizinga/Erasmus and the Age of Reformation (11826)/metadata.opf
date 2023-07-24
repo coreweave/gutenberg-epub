@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11826</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac48be73-1dc0-4db6-9eb4-1fe53f05f330</dc:identifier>
+        <dc:title>Erasmus and the Age of Reformation</dc:title>
+        <dc:creator opf:file-as="Huizinga, Johan" opf:role="aut">Johan Huizinga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Erasmus</dc:subject>
+        <dc:subject>Desiderius</dc:subject>
+        <dc:subject>-1536</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Latin (Medieval and modern) -- Netherlands -- Biography</dc:subject>
+        <dc:subject>Humanists -- Netherlands -- Biography</dc:subject>
+        <dc:subject>Scholars</dc:subject>
+        <dc:subject>Medieval -- Netherlands -- Biography</dc:subject>
+        <dc:subject>Reformation -- Biography</dc:subject>
+        <dc:subject>Netherlands -- Intellectual life -- 16th century</dc:subject>
+        <dc:subject>Rotterdam (Netherlands) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johan Huizinga&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:37:27.121917+00:00"/>
+        <meta name="calibre:title_sort" content="Erasmus and the Age of Reformation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

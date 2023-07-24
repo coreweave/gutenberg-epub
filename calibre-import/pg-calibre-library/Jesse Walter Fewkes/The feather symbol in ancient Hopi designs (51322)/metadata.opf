@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8f37c90-a4f7-4c4d-8c80-5ee244d6966c</dc:identifier>
+        <dc:title>The feather symbol in ancient Hopi designs</dc:title>
+        <dc:creator opf:file-as="Fewkes, Jesse Walter" opf:role="aut">Jesse Walter Fewkes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70555</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hopi Indians -- Antiquities</dc:subject>
+        <dc:subject>Hopi Indians -- Religion</dc:subject>
+        <dc:subject>Hopi Indians -- Rites and ceremonies</dc:subject>
+        <dc:subject>Hopi art</dc:subject>
+        <dc:subject>Feathers in art</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jesse Walter Fewkes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:30:55.129617+00:00"/>
+        <meta name="calibre:title_sort" content="feather symbol in ancient Hopi designs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

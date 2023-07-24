@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12a30f36-520c-4cb6-8f24-867dd6895337</dc:identifier>
+        <dc:title>Ragnarok : the Age of Fire and Gravel</dc:title>
+        <dc:creator opf:file-as="Donnelly, Ignatius" opf:role="aut">Ignatius Donnelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5109</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Atlantis (Legendary place)</dc:subject>
+        <dc:subject>Drift</dc:subject>
+        <dc:subject>Comets</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ignatius Donnelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:51:38.281606+00:00"/>
+        <meta name="calibre:title_sort" content="Ragnarok : the Age of Fire and Gravel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

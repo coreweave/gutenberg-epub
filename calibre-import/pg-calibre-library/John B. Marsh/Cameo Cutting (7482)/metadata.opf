@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">226a2605-ad35-4294-a97c-34ad6129bc6d</dc:identifier>
+        <dc:title>Cameo Cutting</dc:title>
+        <dc:creator opf:file-as="Marsh, John B." opf:role="aut">John B. Marsh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64054</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cameos</dc:subject>
+        <dc:subject>Shell engraving -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Carving (Decorative arts) -- Technique</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John B. Marsh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:46:03.136827+00:00"/>
+        <meta name="calibre:title_sort" content="Cameo Cutting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

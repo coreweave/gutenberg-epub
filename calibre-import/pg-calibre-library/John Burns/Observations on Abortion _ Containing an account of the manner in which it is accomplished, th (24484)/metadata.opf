@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24484</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9ffbcae-7ad8-4d1a-9cfb-d6bf26fe3f09</dc:identifier>
+        <dc:title>Observations on Abortion / Containing an account of the manner in which it is accomplished, the causes which produced it, and the method of preventing or treating it</dc:title>
+        <dc:creator opf:file-as="Burns, John" opf:role="aut">John Burns</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Miscarriage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Burns&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:06:56.151798+00:00"/>
+        <meta name="calibre:title_sort" content="Observations on Abortion / Containing an account of the manner in which it is accomplished, the causes which produced it, and the method of preventing or treating it"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

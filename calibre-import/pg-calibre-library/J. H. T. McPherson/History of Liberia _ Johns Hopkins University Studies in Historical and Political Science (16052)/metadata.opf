@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">136a5410-26be-44b9-a487-5c440bfefcae</dc:identifier>
+        <dc:title>History of Liberia / Johns Hopkins University Studies in Historical and Political Science</dc:title>
+        <dc:creator opf:file-as="McPherson, J. H. T. (John Hanson Thomas)" opf:role="aut">J. H. T. McPherson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11353</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Liberia -- History -- 1847-1944</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. H. T. McPherson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:46:54.073249+00:00"/>
+        <meta name="calibre:title_sort" content="History of Liberia / Johns Hopkins University Studies in Historical and Political Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

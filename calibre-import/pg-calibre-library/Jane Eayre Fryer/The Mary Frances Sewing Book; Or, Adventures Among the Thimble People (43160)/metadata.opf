@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0a24715-6e16-4ad2-84d4-2088f58855ef</dc:identifier>
+        <dc:title>The Mary Frances Sewing Book; Or, Adventures Among the Thimble People</dc:title>
+        <dc:creator opf:file-as="Fryer, Jane Eayre" opf:role="aut">Jane Eayre Fryer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58937</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mary Frances (Fictitious character) -- Juvenile fiction</dc:subject>
+        <dc:subject>Sewing -- Juvenile literature</dc:subject>
+        <dc:subject>Dollmaking -- Juvenile literature</dc:subject>
+        <dc:subject>Doll clothes -- Juvenile literature</dc:subject>
+        <dc:subject>Needlework -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Eayre Fryer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:23:49.078042+00:00"/>
+        <meta name="calibre:title_sort" content="Mary Frances Sewing Book; Or, Adventures Among the Thimble People, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

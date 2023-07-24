@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55639528-2c8c-4618-9b76-0fbcf65dced9</dc:identifier>
+        <dc:title>Training Infantry</dc:title>
+        <dc:creator opf:file-as="Morrison, John F. (John Frank)" opf:role="aut">John F. Morrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70414</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Infantry drill and tactics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John F. Morrison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:59:05.085786+00:00"/>
+        <meta name="calibre:title_sort" content="Training Infantry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

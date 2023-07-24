@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a495905d-9d39-4b61-9c2b-90c8feef1188</dc:identifier>
+        <dc:title>Letters from France</dc:title>
+        <dc:creator opf:file-as="Mack, Isaac Alexander" opf:role="aut">Isaac Alexander Mack</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19521</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Personal narratives</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaac Alexander Mack&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:48:44.319693+00:00"/>
+        <meta name="calibre:title_sort" content="Letters from France"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

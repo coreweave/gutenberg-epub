@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16984</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2eba566-4ed8-4e4b-82a6-dfc915b14ce2</dc:identifier>
+        <dc:title>Illuminated Manuscripts in Classical and Mediaeval Times / Their Art and Their Technique</dc:title>
+        <dc:creator opf:file-as="Middleton, J. H. (John Henry)" opf:role="aut">J. H. Middleton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Illumination of books and manuscripts</dc:subject>
+        <dc:subject>Manuscripts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. H. Middleton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:18:06.859344+00:00"/>
+        <meta name="calibre:title_sort" content="Illuminated Manuscripts in Classical and Mediaeval Times / Their Art and Their Technique"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

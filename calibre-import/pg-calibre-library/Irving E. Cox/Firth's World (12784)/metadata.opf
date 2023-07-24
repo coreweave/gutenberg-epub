@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bc4adda-7e79-467b-93b9-580a7ed97951</dc:identifier>
+        <dc:title>Firth's World</dc:title>
+        <dc:creator opf:file-as="Cox, Irving E." opf:role="aut">Irving E. Cox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59252</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Space colonies -- Fiction</dc:subject>
+        <dc:subject>Billionaires -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Irving E. Cox&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:04:32.923851+00:00"/>
+        <meta name="calibre:title_sort" content="Firth's World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

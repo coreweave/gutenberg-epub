@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02219995-65e6-4121-8134-379cf3b3fdc0</dc:identifier>
+        <dc:title>The Poetical Works of Beattie, Blair, and Falconer / With Lives, Critical Dissertations, and Explanatory Notes</dc:title>
+        <dc:creator opf:file-as="Beattie, James" opf:role="aut">James Beattie</dc:creator>
+        <dc:creator opf:file-as="Beattie, James" opf:role="aut">Robert Blair</dc:creator>
+        <dc:creator opf:file-as="Beattie, James" opf:role="aut">William Falconer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8695</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Beattie&quot;: &quot;&quot;, &quot;Robert Blair&quot;: &quot;&quot;, &quot;William Falconer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:41:32.024405+00:00"/>
+        <meta name="calibre:title_sort" content="Poetical Works of Beattie, Blair, and Falconer / With Lives, Critical Dissertations, and Explanatory Notes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

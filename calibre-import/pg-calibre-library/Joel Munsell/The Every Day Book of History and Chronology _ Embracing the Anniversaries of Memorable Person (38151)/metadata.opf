@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2819de80-7e54-4a9c-84d3-415814b3c7d2</dc:identifier>
+        <dc:title>The Every Day Book of History and Chronology / Embracing the Anniversaries of Memorable Persons and Events in Every Period and State of the World, from the Creation to the Present Time</dc:title>
+        <dc:creator opf:file-as="Munsell, Joel" opf:role="aut">Joel Munsell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44028</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chronology</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Munsell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:54:21.905582+00:00"/>
+        <meta name="calibre:title_sort" content="Every Day Book of History and Chronology / Embracing the Anniversaries of Memorable Persons and Events in Every Period and State of the World, from the Creation to the Present Time, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

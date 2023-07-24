@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f4ba416-30c9-4e03-86ba-81522d8fe498</dc:identifier>
+        <dc:title>Old Fort Garland</dc:title>
+        <dc:creator opf:file-as="Forrest, James T. (James Taylor)" opf:role="aut">James T. Forrest</dc:creator>
+        <dc:creator opf:file-as="Forrest, James T. (James Taylor)" opf:role="aut">Rosamund Slack</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47492</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fort Garland (Colo.) -- History -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James T. Forrest&quot;: &quot;&quot;, &quot;Rosamund Slack&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:13:24.035064+00:00"/>
+        <meta name="calibre:title_sort" content="Old Fort Garland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

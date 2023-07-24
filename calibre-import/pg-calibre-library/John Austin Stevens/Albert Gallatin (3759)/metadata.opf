@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22550546-f9e4-4e05-a6c0-f104934c243b</dc:identifier>
+        <dc:title>Albert Gallatin</dc:title>
+        <dc:creator opf:file-as="Stevens, John Austin" opf:role="aut">John Austin Stevens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20873</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gallatin</dc:subject>
+        <dc:subject>Albert</dc:subject>
+        <dc:subject>1761-1849</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Austin Stevens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:28:19.624861+00:00"/>
+        <meta name="calibre:title_sort" content="Albert Gallatin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

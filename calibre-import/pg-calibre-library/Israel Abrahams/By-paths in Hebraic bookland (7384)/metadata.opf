@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9204cf7c-1fd0-44fa-9b9f-a3690ffe6e6a</dc:identifier>
+        <dc:title>By-paths in Hebraic bookland</dc:title>
+        <dc:creator opf:file-as="Abrahams, Israel" opf:role="aut">Israel Abrahams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70401</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jewish literature -- History and criticism</dc:subject>
+        <dc:subject>Hebrew literature -- History and criticism</dc:subject>
+        <dc:subject>Jews in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Israel Abrahams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:43:46.159258+00:00"/>
+        <meta name="calibre:title_sort" content="By-paths in Hebraic bookland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

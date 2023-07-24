@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e6b7f2b-c138-4621-9f6b-7e97b90b6cf1</dc:identifier>
+        <dc:title>Stanley's Adventures in the Wilds of Africa / A Graphic Account of the Several Expeditions of Henry M. Stanley into the Heart of the Dark Continent</dc:title>
+        <dc:creator opf:file-as="Headley, Joel Tyler" opf:role="aut">Joel Tyler Headley</dc:creator>
+        <dc:creator opf:file-as="Headley, Joel Tyler" opf:role="aut">Willis Fletcher Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38389</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>Central -- Description and travel</dc:subject>
+        <dc:subject>Stanley</dc:subject>
+        <dc:subject>Henry M. (Henry Morton)</dc:subject>
+        <dc:subject>1841-1904</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Tyler Headley&quot;: &quot;&quot;, &quot;Willis Fletcher Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:30:08.086696+00:00"/>
+        <meta name="calibre:title_sort" content="Stanley's Adventures in the Wilds of Africa / A Graphic Account of the Several Expeditions of Henry M. Stanley into the Heart of the Dark Continent"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

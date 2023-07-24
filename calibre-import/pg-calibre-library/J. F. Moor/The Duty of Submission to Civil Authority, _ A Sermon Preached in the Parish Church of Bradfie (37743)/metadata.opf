@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2d8a39e-3c97-4183-b1d7-de779390d97c</dc:identifier>
+        <dc:title>The Duty of Submission to Civil Authority, / A Sermon Preached in the Parish Church of Bradfield, Berkes, on Sunday, November 28, 1830, on Occasion of the Late Disturbances</dc:title>
+        <dc:creator opf:file-as="Moor, J. F. (John Frewen)" opf:role="aut">J. F. Moor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42331</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Christianity and law</dc:subject>
+        <dc:subject>Sedition</dc:subject>
+        <dc:subject>Church and state -- England -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. F. Moor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:33:19.847928+00:00"/>
+        <meta name="calibre:title_sort" content="Duty of Submission to Civil Authority, / A Sermon Preached in the Parish Church of Bradfield, Berkes, on Sunday, November 28, 1830, on Occasion of the Late Disturbances, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

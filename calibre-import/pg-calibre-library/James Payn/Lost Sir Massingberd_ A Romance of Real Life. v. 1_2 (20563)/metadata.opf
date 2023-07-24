@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a4c2769-7936-4c77-8681-8585e836a0bb</dc:identifier>
+        <dc:title>Lost Sir Massingberd: A Romance of Real Life. v. 1/2</dc:title>
+        <dc:creator opf:file-as="Payn, James" opf:role="aut">James Payn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37170</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Payn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:25:30.648036+00:00"/>
+        <meta name="calibre:title_sort" content="Lost Sir Massingberd: A Romance of Real Life. v. 1/2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21847</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56854488-5a43-47cd-838e-07311bc7906a</dc:identifier>
+        <dc:title>Memoirs of the Life of Sir Walter Scott, Volume 6 (of 10)</dc:title>
+        <dc:creator opf:file-as="Lockhart, J. G. (John Gibson)" opf:role="aut">J. G. Lockhart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37631</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scott</dc:subject>
+        <dc:subject>Walter</dc:subject>
+        <dc:subject>1771-1832</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Scottish -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. G. Lockhart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:15:58.788444+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Life of Sir Walter Scott, Volume 6 (of 10)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

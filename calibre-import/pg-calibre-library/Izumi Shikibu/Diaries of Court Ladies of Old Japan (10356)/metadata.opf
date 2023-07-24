@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">803c85ac-f4f1-4d75-9f65-285de7fa5a57</dc:identifier>
+        <dc:title>Diaries of Court Ladies of Old Japan</dc:title>
+        <dc:creator opf:file-as="Izumi Shikibu" opf:role="aut">Izumi Shikibu</dc:creator>
+        <dc:creator opf:file-as="Izumi Shikibu" opf:role="aut">Murasaki Shikibu</dc:creator>
+        <dc:creator opf:file-as="Izumi Shikibu" opf:role="aut">Sugawara no Takasue no Musume</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47151</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Japanese diaries -- Women authors -- Translations into English</dc:subject>
+        <dc:subject>Japan -- Court and courtiers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Izumi Shikibu&quot;: &quot;&quot;, &quot;Murasaki Shikibu&quot;: &quot;&quot;, &quot;Sugawara no Takasue no Musume&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:57:26.597374+00:00"/>
+        <meta name="calibre:title_sort" content="Diaries of Court Ladies of Old Japan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

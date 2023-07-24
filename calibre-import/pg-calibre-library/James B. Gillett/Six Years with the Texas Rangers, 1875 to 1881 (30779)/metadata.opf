@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9ca0669-b3f2-45f0-bddf-42b529fb19ae</dc:identifier>
+        <dc:title>Six Years with the Texas Rangers, 1875 to 1881</dc:title>
+        <dc:creator opf:file-as="Gillett, James B." opf:role="aut">James B. Gillett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65675</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Texas</dc:subject>
+        <dc:subject>Texas -- History -- 1846-1950</dc:subject>
+        <dc:subject>Texas Rangers</dc:subject>
+        <dc:subject>Gillett</dc:subject>
+        <dc:subject>James B.</dc:subject>
+        <dc:subject>1856-1937</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James B. Gillett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:48:44.755235+00:00"/>
+        <meta name="calibre:title_sort" content="Six Years with the Texas Rangers, 1875 to 1881"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

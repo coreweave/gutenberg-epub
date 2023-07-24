@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2a7bb37-8ab7-467b-962d-2298b29c1f3a</dc:identifier>
+        <dc:title>The Cause and Cure of the Cattle Plague: A Plain Sermon</dc:title>
+        <dc:creator opf:file-as="Cowan, James Galloway" opf:role="aut">James Galloway Cowan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64734</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Bible. Isaiah</dc:subject>
+        <dc:subject>XLV</dc:subject>
+        <dc:subject>5</dc:subject>
+        <dc:subject>7 -- Sermons</dc:subject>
+        <dc:subject>Rinderpest -- Religious aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Galloway Cowan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:55:53.151359+00:00"/>
+        <meta name="calibre:title_sort" content="Cause and Cure of the Cattle Plague: A Plain Sermon, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

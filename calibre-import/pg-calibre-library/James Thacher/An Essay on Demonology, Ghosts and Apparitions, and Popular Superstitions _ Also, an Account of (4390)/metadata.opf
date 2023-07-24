@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13cde031-c2aa-44cd-a84e-28cfabb69a2f</dc:identifier>
+        <dc:title>An Essay on Demonology, Ghosts and Apparitions, and Popular Superstitions / Also, an Account of the Witchcraft Delusion at Salem, in 1692</dc:title>
+        <dc:creator opf:file-as="Thacher, James" opf:role="aut">James Thacher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49152</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Superstition</dc:subject>
+        <dc:subject>Witchcraft</dc:subject>
+        <dc:subject>Witchcraft -- Massachusetts -- Salem</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Thacher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:40:12.814974+00:00"/>
+        <meta name="calibre:title_sort" content="Essay on Demonology, Ghosts and Apparitions, and Popular Superstitions / Also, an Account of the Witchcraft Delusion at Salem, in 1692, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

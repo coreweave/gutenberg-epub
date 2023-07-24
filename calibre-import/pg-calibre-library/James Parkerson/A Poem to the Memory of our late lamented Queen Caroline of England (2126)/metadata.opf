@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4da6c4ee-79e7-45b0-9c43-5a74adea32b4</dc:identifier>
+        <dc:title>A Poem to the Memory of our late lamented Queen Caroline of England</dc:title>
+        <dc:creator opf:file-as="Parkerson, James" opf:role="aut">James Parkerson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33150</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caroline</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of George IV</dc:subject>
+        <dc:subject>King of Great Britain</dc:subject>
+        <dc:subject>1768-1821 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Parkerson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:59:17.134102+00:00"/>
+        <meta name="calibre:title_sort" content="Poem to the Memory of our late lamented Queen Caroline of England, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

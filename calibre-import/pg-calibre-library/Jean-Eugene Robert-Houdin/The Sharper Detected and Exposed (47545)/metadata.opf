@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">644a337d-f402-46a3-bc96-5506f1ce254f</dc:identifier>
+        <dc:title>The Sharper Detected and Exposed</dc:title>
+        <dc:creator opf:file-as="Robert-Houdin, Jean-Eugène" opf:role="aut">Jean-Eugène Robert-Houdin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46266</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gambling</dc:subject>
+        <dc:subject>Cardsharping</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Eugène Robert-Houdin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:36:28.729918+00:00"/>
+        <meta name="calibre:title_sort" content="Sharper Detected and Exposed, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1476a05-83e2-4685-8e3b-c688d98b0de8</dc:identifier>
+        <dc:title>Task of Tau</dc:title>
+        <dc:creator opf:file-as="Haggard, J. Harvey (John Harvey)" opf:role="aut">J. Harvey Haggard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64473</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Robots -- Fiction</dc:subject>
+        <dc:subject>Space colonies -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Harvey Haggard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:21:41.548906+00:00"/>
+        <meta name="calibre:title_sort" content="Task of Tau"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

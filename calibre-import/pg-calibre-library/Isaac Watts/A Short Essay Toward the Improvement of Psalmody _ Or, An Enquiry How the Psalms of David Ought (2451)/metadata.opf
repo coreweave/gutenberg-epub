@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef0b6679-86b9-42fe-b7a5-2c9f77065a32</dc:identifier>
+        <dc:title>A Short Essay Toward the Improvement of Psalmody / Or, An Enquiry How the Psalms of David Ought to Be Translated into Christian Songs, and How Lawful and Necessary It Is to Compose Other Hymns According to the Clearer Revelations of the Gospel, for the Use of the Christian Church.</dc:title>
+        <dc:creator opf:file-as="Watts, Isaac" opf:role="aut">Isaac Watts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30409</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psalmody</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaac Watts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:04:47.011980+00:00"/>
+        <meta name="calibre:title_sort" content="Short Essay Toward the Improvement of Psalmody / Or, An Enquiry How the Psalms of David Ought to Be Translated into Christian Songs, and How Lawful and Necessary It Is to Compose Other Hymns According to the Clearer Revelations of the Gospel, for the Use of the Christian Church., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

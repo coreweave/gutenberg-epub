@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8110b588-665e-4d39-a620-9c9b6e9f6ee6</dc:identifier>
+        <dc:title>Early Voyages and Travels in the Levant / I.—The Diary of Master Thomas Dallam, 1599-1600. II.—Extracts from the Diaries of Dr. John Covel, 1670-1679. With Some Account of the Levant Company of Turkey Merchants.</dc:title>
+        <dc:creator opf:file-as="Covel, John" opf:role="aut">John Covel</dc:creator>
+        <dc:creator opf:file-as="Covel, John" opf:role="aut">Thomas Dallam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61660</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Middle East -- Description and travel</dc:subject>
+        <dc:subject>Company of Merchants of England Trading to the Levant</dc:subject>
+        <dc:subject>English diaries</dc:subject>
+        <dc:subject>Great Britain -- Foreign relations -- Turkey</dc:subject>
+        <dc:subject>Turkey -- Foreign relations -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Covel&quot;: &quot;&quot;, &quot;Thomas Dallam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:18:19.061352+00:00"/>
+        <meta name="calibre:title_sort" content="Early Voyages and Travels in the Levant / I.—The Diary of Master Thomas Dallam, 1599-1600. II.—Extracts from the Diaries of Dr. John Covel, 1670-1679. With Some Account of the Levant Company of Turkey Merchants."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

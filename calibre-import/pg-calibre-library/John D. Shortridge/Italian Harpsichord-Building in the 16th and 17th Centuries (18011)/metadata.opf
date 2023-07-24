@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18011</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">004c01be-6746-43f2-8a11-ea5a32ab323b</dc:identifier>
+        <dc:title>Italian Harpsichord-Building in the 16th and 17th Centuries</dc:title>
+        <dc:creator opf:file-as="Shortridge, John D." opf:role="aut">John D. Shortridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27149</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harpsichord -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John D. Shortridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:53:11.067778+00:00"/>
+        <meta name="calibre:title_sort" content="Italian Harpsichord-Building in the 16th and 17th Centuries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

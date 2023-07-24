@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c64df010-59ed-49af-9fee-fd7fcfc70cd6</dc:identifier>
+        <dc:title>Letters of Madam Guyon</dc:title>
+        <dc:creator opf:file-as="Guyon, Jeanne Marie Bouvier de la Motte" opf:role="aut">Jeanne Marie Bouvier de la Motte Guyon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30083</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Guyon</dc:subject>
+        <dc:subject>Jeanne Marie Bouvier de La Motte</dc:subject>
+        <dc:subject>1648-1717</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jeanne Marie Bouvier de la Motte Guyon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:50:32.451119+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Madam Guyon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

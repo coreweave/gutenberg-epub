@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22007c60-46fe-4724-88e6-63ff8e561a02</dc:identifier>
+        <dc:title>Rembrandt and His Works / Comprising a Short Account of His Life; with a Critical Examination into His Principles and Practice of Design, Light, Shade, and Colour. Illustrated by Examples from the Etchings of Rembrandt.</dc:title>
+        <dc:creator opf:file-as="Burnet, John" opf:role="aut">John Burnet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22690</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rembrandt Harmenszoon van Rijn</dc:subject>
+        <dc:subject>1606-1669</dc:subject>
+        <dc:subject>Etching -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Burnet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:09:06.747070+00:00"/>
+        <meta name="calibre:title_sort" content="Rembrandt and His Works / Comprising a Short Account of His Life; with a Critical Examination into His Principles and Practice of Design, Light, Shade, and Colour. Illustrated by Examples from the Etchings of Rembrandt."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

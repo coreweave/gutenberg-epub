@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">840d35fa-8829-4df8-9f54-562333a8fbfd</dc:identifier>
+        <dc:title>A Discourse on the Evils of Dancing</dc:title>
+        <dc:creator opf:file-as="Mesick, John F." opf:role="aut">John F. Mesick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36667</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>American -- 19th century</dc:subject>
+        <dc:subject>Dance -- Moral and ethical aspects</dc:subject>
+        <dc:subject>Antidance Literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John F. Mesick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:54.578252+00:00"/>
+        <meta name="calibre:title_sort" content="Discourse on the Evils of Dancing, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

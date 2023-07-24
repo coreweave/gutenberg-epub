@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5df92b9-87b5-4d34-a1ff-42a51d8c294b</dc:identifier>
+        <dc:title>The Iron Puddler: My Life in the Rolling Mills and What Came of It</dc:title>
+        <dc:creator opf:file-as="Davis, James J. (James John)" opf:role="aut">James J. Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1297</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blue collar workers -- United States -- Biography</dc:subject>
+        <dc:subject>Labor unions -- United States</dc:subject>
+        <dc:subject>Davis</dc:subject>
+        <dc:subject>James J. (James John)</dc:subject>
+        <dc:subject>1873-1947</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James J. Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:34:03.341138+00:00"/>
+        <meta name="calibre:title_sort" content="Iron Puddler: My Life in the Rolling Mills and What Came of It, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

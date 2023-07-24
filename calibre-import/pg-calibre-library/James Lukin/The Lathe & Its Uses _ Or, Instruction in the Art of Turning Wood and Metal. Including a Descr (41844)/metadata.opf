@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b4c3cf9-c07b-4d51-bd82-7b20e7cd05c5</dc:identifier>
+        <dc:title>The Lathe &amp; Its Uses / Or, Instruction in the Art of Turning Wood and Metal. Including a Description of the Most Modern Appliances for the Ornamentation of Plane and Curved Surfaces. With an Appendix, in Which is Described an Entirely Novel Form of Lathe for Eccentric and Rose Engine Turning; a Lathe and Planing Machine Combined; and Other Valuable Matter Relating to the Art.</dc:title>
+        <dc:creator opf:file-as="Lukin, James" opf:role="aut">James Lukin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60819</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Turning (Lathe work)</dc:subject>
+        <dc:subject>Lathes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Lukin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:10:55.864624+00:00"/>
+        <meta name="calibre:title_sort" content="Lathe &amp; Its Uses / Or, Instruction in the Art of Turning Wood and Metal. Including a Description of the Most Modern Appliances for the Ornamentation of Plane and Curved Surfaces. With an Appendix, in Which is Described an Entirely Novel Form of Lathe for Eccentric and Rose Engine Turning; a Lathe and Planing Machine Combined; and Other Valuable Matter Relating to the Art., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

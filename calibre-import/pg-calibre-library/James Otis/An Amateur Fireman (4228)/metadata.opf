@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5d5bf66-1644-4072-9846-7e6c36ab2d40</dc:identifier>
+        <dc:title>An Amateur Fireman</dc:title>
+        <dc:creator opf:file-as="Otis, James" opf:role="aut">James Otis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33242</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Boys -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Rescues -- Juvenile fiction</dc:subject>
+        <dc:subject>Newspaper vendors -- Juvenile fiction</dc:subject>
+        <dc:subject>Fire fighters -- Juvenile fiction</dc:subject>
+        <dc:subject>Homeless boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Courage -- Juvenile fiction</dc:subject>
+        <dc:subject>Heroes -- Juvenile fiction</dc:subject>
+        <dc:subject>Shoe shiners -- Juvenile fiction</dc:subject>
+        <dc:subject>Arson -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Otis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:37:04.854590+00:00"/>
+        <meta name="calibre:title_sort" content="Amateur Fireman, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37702</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e91a2f1-13c5-4d7a-9835-292b4aa572d3</dc:identifier>
+        <dc:title>The Duchess of Berry and the Court of Charles X</dc:title>
+        <dc:creator opf:file-as="Imbert de Saint-Amand" opf:role="aut">Imbert de Saint-Amand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4289</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Restoration</dc:subject>
+        <dc:subject>1814-1830</dc:subject>
+        <dc:subject>Berry</dc:subject>
+        <dc:subject>Marie-Caroline de Bourbon-Sicile</dc:subject>
+        <dc:subject>duchesse de</dc:subject>
+        <dc:subject>1798-1870</dc:subject>
+        <dc:subject>Charles X</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1757-1836</dc:subject>
+        <dc:subject>France -- History -- Charles X</dc:subject>
+        <dc:subject>1824-1830</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Imbert de Saint-Amand&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:31:12.423828+00:00"/>
+        <meta name="calibre:title_sort" content="Duchess of Berry and the Court of Charles X, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

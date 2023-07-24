@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eff34910-c187-4893-b12c-df4451a68e6f</dc:identifier>
+        <dc:title>Lily Norris' Enemy</dc:title>
+        <dc:creator opf:file-as="Mathews, Joanna H. (Joanna Hooe)" opf:role="aut">Joanna H. Mathews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Quakers -- Juvenile fiction</dc:subject>
+        <dc:subject>Procrastination -- Juvenile fiction</dc:subject>
+        <dc:subject>Homelessness -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joanna H. Mathews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:05:02.455151+00:00"/>
+        <meta name="calibre:title_sort" content="Lily Norris' Enemy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

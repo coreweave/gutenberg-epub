@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77d1e339-2fd0-446d-9d23-3d5915326961</dc:identifier>
+        <dc:title>The Sword of Gideon</dc:title>
+        <dc:creator opf:file-as="Bloundelle-Burton, John" opf:role="aut">John Bloundelle-Burton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Rescues -- Fiction</dc:subject>
+        <dc:subject>Spanish Succession</dc:subject>
+        <dc:subject>War of</dc:subject>
+        <dc:subject>1701-1714 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Bloundelle-Burton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:48:44.617405+00:00"/>
+        <meta name="calibre:title_sort" content="Sword of Gideon, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

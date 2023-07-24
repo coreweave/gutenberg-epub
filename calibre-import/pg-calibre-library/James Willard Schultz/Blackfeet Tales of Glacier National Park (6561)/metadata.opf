@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6c7a497-e3d5-4211-afb0-e1206ffaf536</dc:identifier>
+        <dc:title>Blackfeet Tales of Glacier National Park</dc:title>
+        <dc:creator opf:file-as="Schultz, James Willard" opf:role="aut">James Willard Schultz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43399</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Folklore</dc:subject>
+        <dc:subject>Siksika Indians -- Folklore</dc:subject>
+        <dc:subject>Glacier National Park (Mont.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Willard Schultz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:25:08.622030+00:00"/>
+        <meta name="calibre:title_sort" content="Blackfeet Tales of Glacier National Park"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7adf105a-f364-4623-8252-8e17fd9eae8f</dc:identifier>
+        <dc:title>"Evacuation Day", 1783, Its Many Stirring Events / With Recollections of Capt. John Van Arsdale, of the Veteran Corps of Artillery, by Whose Efforts on That Day the Enemy Were Circumvented, and the American Flag Successfully Raised on the Battery</dc:title>
+        <dc:creator opf:file-as="Riker, James" opf:role="aut">James Riker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33419</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Van Arsdale</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1756-1836</dc:subject>
+        <dc:subject>Evacuation Day</dc:subject>
+        <dc:subject>New York</dc:subject>
+        <dc:subject>N.Y.</dc:subject>
+        <dc:subject>1783</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Riker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:56.316578+00:00"/>
+        <meta name="calibre:title_sort" content="Evacuation Day&quot;, 1783, Its Many Stirring Events / With Recollections of Capt. John Van Arsdale, of the Veteran Corps of Artillery, by Whose Efforts on That Day the Enemy Were Circumvented, and the American Flag Successfully Raised on the Battery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c484ff18-c5d3-4fd5-9f45-8a7245d77bf5</dc:identifier>
+        <dc:title>The New Year's carol</dc:title>
+        <dc:creator opf:file-as="Spyri, Johanna" opf:role="aut">Johanna Spyri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65174</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Switzerland -- Social life and customs -- Juvenile fiction</dc:subject>
+        <dc:subject>New Year -- Switzerland -- Urnäsch -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Johanna Spyri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:36:01.663171+00:00"/>
+        <meta name="calibre:title_sort" content="New Year's carol, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

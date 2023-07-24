@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c7d6508-8bee-4136-a898-bf3742b4cefc</dc:identifier>
+        <dc:title>Consumers and Wage-Earners: The Ethics of Buying Cheap</dc:title>
+        <dc:creator opf:file-as="Ross, J. Elliot (John Elliot)" opf:role="aut">J. Elliot Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43040</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wages -- United States</dc:subject>
+        <dc:subject>Wages</dc:subject>
+        <dc:subject>Consumers -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Elliot Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:29:52.350791+00:00"/>
+        <meta name="calibre:title_sort" content="Consumers and Wage-Earners: The Ethics of Buying Cheap"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

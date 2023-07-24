@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e846c917-ab1e-4d91-b35c-6c2577319cd3</dc:identifier>
+        <dc:title>Moral Principles in Education</dc:title>
+        <dc:creator opf:file-as="Dewey, John" opf:role="aut">John Dewey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25172</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Moral education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Dewey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:45:53.505026+00:00"/>
+        <meta name="calibre:title_sort" content="Moral Principles in Education"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

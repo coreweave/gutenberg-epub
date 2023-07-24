@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6fc9b77-7128-4c50-a83f-a927c77a86a7</dc:identifier>
+        <dc:title>The Thirteen Names of the First Patriarchs, Considered as Figurative of the Progressive Influence of the Spirit. / Being the Substance of Two Sermons, Preached on Wednesday March 24, and April 3, 1811, at the Obelisk Chapel</dc:title>
+        <dc:creator opf:file-as="Church, J. (John)" opf:role="aut">J. Church</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58554</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Church&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:05:10.804294+00:00"/>
+        <meta name="calibre:title_sort" content="Thirteen Names of the First Patriarchs, Considered as Figurative of the Progressive Influence of the Spirit. / Being the Substance of Two Sermons, Preached on Wednesday March 24, and April 3, 1811, at the Obelisk Chapel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

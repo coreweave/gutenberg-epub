@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05018fff-7e6c-4d31-a4bf-d7ec99aeece0</dc:identifier>
+        <dc:title>The Redskins; or, Indian and Injin, Volume 1. / Being the Conclusion of the Littlepage Manuscripts</dc:title>
+        <dc:creator opf:file-as="Cooper, James Fenimore" opf:role="aut">James Fenimore Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31210</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Fiction</dc:subject>
+        <dc:subject>New York (State) -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Fenimore Cooper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:33:28.174374+00:00"/>
+        <meta name="calibre:title_sort" content="Redskins; or, Indian and Injin, Volume 1. / Being the Conclusion of the Littlepage Manuscripts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

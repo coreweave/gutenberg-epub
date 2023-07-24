@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">527adce3-28d6-418a-a490-f64d0da5ef69</dc:identifier>
+        <dc:title>A Ten Years' War: An Account of the Battle with the Slum in New York</dc:title>
+        <dc:creator opf:file-as="Riis, Jacob A. (Jacob August)" opf:role="aut">Jacob A. Riis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38821</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poor -- New York (State) -- New York</dc:subject>
+        <dc:subject>Tenement houses -- New York (State) -- New York</dc:subject>
+        <dc:subject>Slums -- New York (State) -- New York</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jacob A. Riis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:09:41.020909+00:00"/>
+        <meta name="calibre:title_sort" content="Ten Years' War: An Account of the Battle with the Slum in New York, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

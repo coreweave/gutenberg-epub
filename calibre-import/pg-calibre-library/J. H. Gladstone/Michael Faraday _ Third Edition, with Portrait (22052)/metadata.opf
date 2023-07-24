@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec65e0a7-63a4-4055-8b94-9f9ad1b4f8de</dc:identifier>
+        <dc:title>Michael Faraday / Third Edition, with Portrait</dc:title>
+        <dc:creator opf:file-as="Gladstone, J. H. (John Hall)" opf:role="aut">J. H. Gladstone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47396</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Faraday</dc:subject>
+        <dc:subject>Michael</dc:subject>
+        <dc:subject>1791-1867</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. H. Gladstone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:24:17.805481+00:00"/>
+        <meta name="calibre:title_sort" content="Michael Faraday / Third Edition, with Portrait"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

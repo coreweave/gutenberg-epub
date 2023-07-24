@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0f4a976-50c6-49a3-960e-757fe9d32669</dc:identifier>
+        <dc:title>Squirrels and Other Fur-Bearers</dc:title>
+        <dc:creator opf:file-as="Burroughs, John" opf:role="aut">John Burroughs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24388</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animal behavior</dc:subject>
+        <dc:subject>Mammals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Burroughs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:25:16.143925+00:00"/>
+        <meta name="calibre:title_sort" content="Squirrels and Other Fur-Bearers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

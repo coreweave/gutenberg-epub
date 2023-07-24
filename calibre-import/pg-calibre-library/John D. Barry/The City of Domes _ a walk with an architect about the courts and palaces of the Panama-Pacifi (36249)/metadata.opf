@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26d7f14e-7673-47c5-b48b-8db3656317cb</dc:identifier>
+        <dc:title>The City of Domes : a walk with an architect about the courts and palaces of the Panama-Pacific International Exposition, with a discussion of its architecture, its sculpture, its mural decorations, its coloring and its lighting, preceded by a history of its growth</dc:title>
+        <dc:creator opf:file-as="Barry, John D. (John Daniel)" opf:role="aut">John D. Barry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3151</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Panama-Pacific International Exposition (1915 : San Francisco</dc:subject>
+        <dc:subject>Calif.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John D. Barry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:16:59.251041+00:00"/>
+        <meta name="calibre:title_sort" content="City of Domes : a walk with an architect about the courts and palaces of the Panama-Pacific International Exposition, with a discussion of its architecture, its sculpture, its mural decorations, its coloring and its lighting, preceded by a history of its growth, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4299b962-0515-4e95-aa0a-1e21f3cc4dca</dc:identifier>
+        <dc:title>The Ecclesiastical Orders of Knighthood</dc:title>
+        <dc:creator opf:file-as="Van der Veldt, James Herman" opf:role="aut">James Herman Van der Veldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61799</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orders of knighthood and chivalry</dc:subject>
+        <dc:subject>Papal</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Herman Van der Veldt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:36:42.054146+00:00"/>
+        <meta name="calibre:title_sort" content="Ecclesiastical Orders of Knighthood, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e03084f-0aa6-4cea-848f-ae7cd330ed44</dc:identifier>
+        <dc:title>Sewage and Garbage Disposal on the Farm</dc:title>
+        <dc:creator opf:file-as="Rockey, J. W. (John Wesley)" opf:role="aut">J. W. Rockey</dc:creator>
+        <dc:creator opf:file-as="Rockey, J. W. (John Wesley)" opf:role="aut">Joseph Winslow Simons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sewage disposal</dc:subject>
+        <dc:subject>Rural</dc:subject>
+        <dc:subject>Sanitation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. W. Rockey&quot;: &quot;&quot;, &quot;Joseph Winslow Simons&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:28:19.209075+00:00"/>
+        <meta name="calibre:title_sort" content="Sewage and Garbage Disposal on the Farm"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

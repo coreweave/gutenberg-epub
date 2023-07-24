@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89820ad6-b07e-4cb0-9433-2db7267e87a3</dc:identifier>
+        <dc:title>A Minniature ov Inglish Orthoggraphy</dc:title>
+        <dc:creator opf:file-as="Elphinston, James" opf:role="aut">James Elphinston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15901</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Orthography and spelling -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Elphinston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:54:42.646708+00:00"/>
+        <meta name="calibre:title_sort" content="Minniature ov Inglish Orthoggraphy, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

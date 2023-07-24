@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f68d732-1a8d-4f65-98d8-f9ca1b9fdc41</dc:identifier>
+        <dc:title>Anne Hyde, Duchess of York</dc:title>
+        <dc:creator opf:file-as="Henslowe, J. R." opf:role="aut">J. R. Henslowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69499</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nobility -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Great Britain -- Court and courtiers -- History -- 17th century</dc:subject>
+        <dc:subject>York</dc:subject>
+        <dc:subject>Anne Hyde</dc:subject>
+        <dc:subject>Duchess of</dc:subject>
+        <dc:subject>1637-1671</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. R. Henslowe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:48:43.307027+00:00"/>
+        <meta name="calibre:title_sort" content="Anne Hyde, Duchess of York"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

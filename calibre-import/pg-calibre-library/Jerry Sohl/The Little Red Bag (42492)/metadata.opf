@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c23e2219-0094-47d4-a85e-1c9031eee68f</dc:identifier>
+        <dc:title>The Little Red Bag</dc:title>
+        <dc:creator opf:file-as="Sohl, Jerry" opf:role="aut">Jerry Sohl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60747</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>California -- Fiction</dc:subject>
+        <dc:subject>Airplanes -- Fiction</dc:subject>
+        <dc:subject>Psychic ability -- Fiction</dc:subject>
+        <dc:subject>Bombs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jerry Sohl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:46:56.890888+00:00"/>
+        <meta name="calibre:title_sort" content="Little Red Bag, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

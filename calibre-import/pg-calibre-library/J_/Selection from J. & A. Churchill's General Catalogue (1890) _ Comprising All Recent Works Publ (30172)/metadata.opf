@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">067bd1e4-bb1d-4c4e-935b-762fb62097d2</dc:identifier>
+        <dc:title>Selection from J. &amp; A. Churchill's General Catalogue (1890) / Comprising All Recent Works Published by Them on the Art and Science of Medicine</dc:title>
+        <dc:creator opf:file-as="J. &amp; A. Churchill" opf:role="aut">J.</dc:creator>
+        <dc:creator opf:file-as="J. &amp; A. Churchill" opf:role="aut">A. Churchill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57410</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Publishers' catalogs -- England -- London</dc:subject>
+        <dc:subject>Medicine -- Bibliography -- Catalogs</dc:subject>
+        <dc:subject>J. &amp; A. Churchill -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J.&quot;: &quot;&quot;, &quot;A. Churchill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:19:22.394815+00:00"/>
+        <meta name="calibre:title_sort" content="Selection from J. &amp; A. Churchill's General Catalogue (1890) / Comprising All Recent Works Published by Them on the Art and Science of Medicine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba04a3ce-f6c7-492a-85df-c27c2049fa94</dc:identifier>
+        <dc:title>Daddy-Long-Legs</dc:title>
+        <dc:creator opf:file-as="Webster, Jean" opf:role="aut">Jean Webster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/157</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Fiction</dc:subject>
+        <dc:subject>Boarding schools -- Fiction</dc:subject>
+        <dc:subject>Schools -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Epistolary fiction</dc:subject>
+        <dc:subject>Women authors -- Fiction</dc:subject>
+        <dc:subject>Philanthropists -- Fiction</dc:subject>
+        <dc:subject>Women college students -- Fiction</dc:subject>
+        <dc:subject>Universities and colleges -- Fiction</dc:subject>
+        <dc:subject>Letters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean Webster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:52.142284+00:00"/>
+        <meta name="calibre:title_sort" content="Daddy-Long-Legs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

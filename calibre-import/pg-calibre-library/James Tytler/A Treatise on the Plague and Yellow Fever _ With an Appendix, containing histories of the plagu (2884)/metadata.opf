@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cfbcda7-42d0-46fb-a284-070aca008b5a</dc:identifier>
+        <dc:title>A Treatise on the Plague and Yellow Fever / With an Appendix, containing histories of the plague at Athens in the time of the Peloponnesian War; at Constantinople in the time of Justinian; at London in 1665; at Marseilles in 1720</dc:title>
+        <dc:creator opf:file-as="Tytler, James" opf:role="aut">James Tytler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67453</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plague -- Early works to 1800</dc:subject>
+        <dc:subject>Yellow fever -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Tytler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:20.063022+00:00"/>
+        <meta name="calibre:title_sort" content="Treatise on the Plague and Yellow Fever / With an Appendix, containing histories of the plague at Athens in the time of the Peloponnesian War; at Constantinople in the time of Justinian; at London in 1665; at Marseilles in 1720, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

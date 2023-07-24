@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6efbac3a-8066-44bc-8e8e-cfd8cf34fa9c</dc:identifier>
+        <dc:title>Illuminated illustrations of Froissart; Selected from the ms. in the British museum.</dc:title>
+        <dc:creator opf:file-as="Froissart, Jean" opf:role="aut">Jean Froissart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Illumination of books and manuscripts -- Specimens</dc:subject>
+        <dc:subject>Froissart</dc:subject>
+        <dc:subject>Jean</dc:subject>
+        <dc:subject>1338?-1410? Chroniques -- Illustrations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean Froissart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:18:13.179122+00:00"/>
+        <meta name="calibre:title_sort" content="Illuminated illustrations of Froissart; Selected from the ms. in the British museum."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

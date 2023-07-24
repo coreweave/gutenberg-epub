@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21065</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7eef652-d3f1-4970-837d-e01f819b47bd</dc:identifier>
+        <dc:title>Manual of Library Economy / Third and Memorial Edition</dc:title>
+        <dc:creator opf:file-as="Brown, James Duff" opf:role="aut">James Duff Brown</dc:creator>
+        <dc:creator opf:file-as="Brown, James Duff" opf:role="aut">W. C. Berwick Sayers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49895</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Library science -- Great Britain -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Libraries -- Great Britain -- Handbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Duff Brown&quot;: &quot;&quot;, &quot;W. C. Berwick Sayers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:44:50.395918+00:00"/>
+        <meta name="calibre:title_sort" content="Manual of Library Economy / Third and Memorial Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

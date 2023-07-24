@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c10b8a5f-f94c-4162-85d9-4ea4ed5f8673</dc:identifier>
+        <dc:title>Children of the Ghetto: A Study of a Peculiar People</dc:title>
+        <dc:creator opf:file-as="Zangwill, Israel" opf:role="aut">Israel Zangwill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12680</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Jewish fiction</dc:subject>
+        <dc:subject>Jews -- England -- London -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Israel Zangwill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:09:19.102326+00:00"/>
+        <meta name="calibre:title_sort" content="Children of the Ghetto: A Study of a Peculiar People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

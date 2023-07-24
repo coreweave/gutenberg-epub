@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8acddcb0-44a9-4576-a385-83bf1312ad3e</dc:identifier>
+        <dc:title>A Short History of Freethought Ancient and Modern, Volume 2 of 2 / Third edition, Revised and Expanded, in two volumes</dc:title>
+        <dc:creator opf:file-as="Robertson, J. M. (John Mackinnon)" opf:role="aut">J. M. Robertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52160</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Free thought -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. M. Robertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:05:00.493156+00:00"/>
+        <meta name="calibre:title_sort" content="Short History of Freethought Ancient and Modern, Volume 2 of 2 / Third edition, Revised and Expanded, in two volumes, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

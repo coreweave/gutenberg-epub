@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e499a741-a0bc-48f6-923f-39d430f09554</dc:identifier>
+        <dc:title>The Life of the Weevil</dc:title>
+        <dc:creator opf:file-as="Fabre, Jean-Henri" opf:role="aut">Jean-Henri Fabre</dc:creator>
+        <dc:creator opf:file-as="Fabre, Jean-Henri" opf:role="aut">Alexander Teixeira de Mattos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66844</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beetles</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Henri Fabre&quot;: &quot;&quot;, &quot;Alexander Teixeira de Mattos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:37:25.676440+00:00"/>
+        <meta name="calibre:title_sort" content="Life of the Weevil, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

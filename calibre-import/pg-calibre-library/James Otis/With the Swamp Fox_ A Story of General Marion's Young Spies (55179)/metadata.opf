@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d56a3755-9db1-4785-807e-cdd412bd8fa5</dc:identifier>
+        <dc:title>With the Swamp Fox: A Story of General Marion's Young Spies</dc:title>
+        <dc:creator opf:file-as="Otis, James" opf:role="aut">James Otis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44651</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Courage -- Juvenile fiction</dc:subject>
+        <dc:subject>Spies -- Juvenile fiction</dc:subject>
+        <dc:subject>Guerrilla warfare -- Juvenile fiction</dc:subject>
+        <dc:subject>Marion</dc:subject>
+        <dc:subject>Francis</dc:subject>
+        <dc:subject>1732-1795 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Otis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:40:32.908610+00:00"/>
+        <meta name="calibre:title_sort" content="With the Swamp Fox: A Story of General Marion's Young Spies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

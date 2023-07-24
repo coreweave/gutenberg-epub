@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c49c5e9b-94a2-4c28-baa4-add137f5a130</dc:identifier>
+        <dc:title>Mental diseases: a public health problem</dc:title>
+        <dc:creator opf:file-as="May, James Vance" opf:role="aut">James Vance May</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54611</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Pathological</dc:subject>
+        <dc:subject>Mental health services</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Vance May&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:21:03.427248+00:00"/>
+        <meta name="calibre:title_sort" content="Mental diseases: a public health problem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

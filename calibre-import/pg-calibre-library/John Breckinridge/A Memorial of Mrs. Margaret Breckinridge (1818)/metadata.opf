@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1818</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21595790-6aad-4df0-b236-5a0deea3a86b</dc:identifier>
+        <dc:title>A Memorial of Mrs. Margaret Breckinridge</dc:title>
+        <dc:creator opf:file-as="Breckinridge, John" opf:role="aut">John Breckinridge</dc:creator>
+        <dc:creator opf:file-as="Breckinridge, John" opf:role="aut">Samuel Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Breckinridge</dc:subject>
+        <dc:subject>Margaret (Miller)</dc:subject>
+        <dc:subject>Mrs.</dc:subject>
+        <dc:subject>1802-1838</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Breckinridge&quot;: &quot;&quot;, &quot;Samuel Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:54:08.740699+00:00"/>
+        <meta name="calibre:title_sort" content="Memorial of Mrs. Margaret Breckinridge, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

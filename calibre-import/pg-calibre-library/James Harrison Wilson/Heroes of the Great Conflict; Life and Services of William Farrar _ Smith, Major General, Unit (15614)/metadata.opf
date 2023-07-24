@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5dbb537-5519-408f-a909-148ffd547b69</dc:identifier>
+        <dc:title>Heroes of the Great Conflict; Life and Services of William Farrar / Smith, Major General, United States Volunteer in the Civil War</dc:title>
+        <dc:creator opf:file-as="Wilson, James Harrison" opf:role="aut">James Harrison Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14429</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Biography</dc:subject>
+        <dc:subject>Smith</dc:subject>
+        <dc:subject>William Farrar</dc:subject>
+        <dc:subject>1824-1903</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Harrison Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:32:24.345449+00:00"/>
+        <meta name="calibre:title_sort" content="Heroes of the Great Conflict; Life and Services of William Farrar / Smith, Major General, United States Volunteer in the Civil War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

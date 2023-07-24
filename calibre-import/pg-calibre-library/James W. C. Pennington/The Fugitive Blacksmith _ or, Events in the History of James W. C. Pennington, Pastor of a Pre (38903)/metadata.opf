@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7885a428-4fd7-42e0-b734-aee96034a798</dc:identifier>
+        <dc:title>The Fugitive Blacksmith / or, Events in the History of James W. C. Pennington, Pastor of a Presbyterian Church, New York, Formerly a Slave in the State of Maryland, United States</dc:title>
+        <dc:creator opf:file-as="Pennington, James W. C." opf:role="aut">James W. C. Pennington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15130</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fugitive slaves -- United States -- Biography</dc:subject>
+        <dc:subject>Slaves -- United States -- Biography</dc:subject>
+        <dc:subject>Pennington</dc:subject>
+        <dc:subject>James W. C.</dc:subject>
+        <dc:subject>Slavery -- Maryland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James W. C. Pennington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:33:19.270570+00:00"/>
+        <meta name="calibre:title_sort" content="Fugitive Blacksmith / or, Events in the History of James W. C. Pennington, Pastor of a Presbyterian Church, New York, Formerly a Slave in the State of Maryland, United States, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

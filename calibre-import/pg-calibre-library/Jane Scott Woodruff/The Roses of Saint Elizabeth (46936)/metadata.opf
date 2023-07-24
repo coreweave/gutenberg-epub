@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2993bd10-5205-4c8e-a764-c0a0c1c8ff8f</dc:identifier>
+        <dc:title>The Roses of Saint Elizabeth</dc:title>
+        <dc:creator opf:file-as="Woodruff, Jane Scott" opf:role="aut">Jane Scott Woodruff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58753</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Elizabeth of Hungary</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1207-1231 -- Juvenile fiction</dc:subject>
+        <dc:subject>Miracles -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jane Scott Woodruff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:00:28.391063+00:00"/>
+        <meta name="calibre:title_sort" content="Roses of Saint Elizabeth, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

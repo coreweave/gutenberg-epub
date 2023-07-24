@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">add9891f-74c1-4884-91f8-7ba923ad2caf</dc:identifier>
+        <dc:title>Bird Stories from Burroughs / Sketches of Bird Life Taken from the Works of John Burroughs</dc:title>
+        <dc:creator opf:file-as="Burroughs, John" opf:role="aut">John Burroughs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26046</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Burroughs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:21:35.933398+00:00"/>
+        <meta name="calibre:title_sort" content="Bird Stories from Burroughs / Sketches of Bird Life Taken from the Works of John Burroughs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

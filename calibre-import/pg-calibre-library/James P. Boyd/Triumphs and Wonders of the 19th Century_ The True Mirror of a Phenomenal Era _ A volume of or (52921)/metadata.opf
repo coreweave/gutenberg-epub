@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52921</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3aad74cb-112d-4f72-8f39-a815df847a0e</dc:identifier>
+        <dc:title>Triumphs and Wonders of the 19th Century: The True Mirror of a Phenomenal Era / A volume of original, entertaining and instructive historic and descriptive writings, showing the many and marvellous achievements which distinguish an hundred years of material, intellectual, social and moral progress</dc:title>
+        <dc:creator opf:file-as="Boyd, James P. (James Penny)" opf:role="aut">James P. Boyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Progress</dc:subject>
+        <dc:subject>Inventions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James P. Boyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:13:11.968226+00:00"/>
+        <meta name="calibre:title_sort" content="Triumphs and Wonders of the 19th Century: The True Mirror of a Phenomenal Era / A volume of original, entertaining and instructive historic and descriptive writings, showing the many and marvellous achievements which distinguish an hundred years of material, intellectual, social and moral progress"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

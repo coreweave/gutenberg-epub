@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f987ee37-92ae-487c-b905-fc296fc78c7d</dc:identifier>
+        <dc:title>Peacemakers—Blessed and Otherwise / Observations, Reflections and Irritations at an International Conference</dc:title>
+        <dc:creator opf:file-as="Tarbell, Ida M. (Ida Minerva)" opf:role="aut">Ida M. Tarbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54680</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conference on the Limitation of Armament (1921-1922 : Washington</dc:subject>
+        <dc:subject>D.C.)</dc:subject>
+        <dc:subject>World politics -- 1900-1945</dc:subject>
+        <dc:subject>Disarmament -- Congresses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ida M. Tarbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:05:13.979843+00:00"/>
+        <meta name="calibre:title_sort" content="Peacemakers—Blessed and Otherwise / Observations, Reflections and Irritations at an International Conference"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

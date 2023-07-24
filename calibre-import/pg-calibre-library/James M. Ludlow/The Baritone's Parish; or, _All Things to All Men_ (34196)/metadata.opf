@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2639d56e-0d4a-4927-ae71-dac0a9d03633</dc:identifier>
+        <dc:title>The Baritone's Parish; or, "All Things to All Men"</dc:title>
+        <dc:creator opf:file-as="Ludlow, James M. (James Meeker)" opf:role="aut">James M. Ludlow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59724</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Fiction</dc:subject>
+        <dc:subject>Alcoholics -- Fiction</dc:subject>
+        <dc:subject>Clergy -- Fiction</dc:subject>
+        <dc:subject>Singers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James M. Ludlow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:34:53.460824+00:00"/>
+        <meta name="calibre:title_sort" content="Baritone's Parish; or, &quot;All Things to All Men&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

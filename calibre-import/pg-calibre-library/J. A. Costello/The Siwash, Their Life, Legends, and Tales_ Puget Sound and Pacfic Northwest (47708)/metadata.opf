@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62432adf-e6c7-44ce-a965-73b3d813172e</dc:identifier>
+        <dc:title>The Siwash, Their Life, Legends, and Tales: Puget Sound and Pacfic Northwest</dc:title>
+        <dc:creator opf:file-as="Costello, J. A. (Joseph Allen)" opf:role="aut">J. A. Costello</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59592</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Salishan Indians</dc:subject>
+        <dc:subject>Indians of North America -- Northwest Coast of North America</dc:subject>
+        <dc:subject>Indians of North America -- Northwest</dc:subject>
+        <dc:subject>Pacific</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. A. Costello&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:46:20.939555+00:00"/>
+        <meta name="calibre:title_sort" content="Siwash, Their Life, Legends, and Tales: Puget Sound and Pacfic Northwest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

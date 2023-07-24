@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30ce3a23-e69f-4832-901b-3a54c1ee8aae</dc:identifier>
+        <dc:title>The thread of life</dc:title>
+        <dc:creator opf:file-as="Eulalia, Infanta of Spain" opf:role="aut">Infanta of Spain Eulalia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57768</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social problems</dc:subject>
+        <dc:subject>Social sciences</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Infanta of Spain Eulalia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:00:02.285623+00:00"/>
+        <meta name="calibre:title_sort" content="thread of life, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

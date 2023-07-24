@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3eecb20b-f902-4a66-8e38-ba7c6c8ff591</dc:identifier>
+        <dc:title>"The Numbering of the People" / A Sermon in conjunction with the census of 1861 preached in St. Thomas' Church, Islington, on Sunday Evening, April 7</dc:title>
+        <dc:creator opf:file-as="Allen, George (Vicar of St. Thomas's, Islington)" opf:role="aut">Islington) George (Vicar of St. Thomas's Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64876</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Bible. Numbers -- Sermons</dc:subject>
+        <dc:subject>Great Britain -- Census</dc:subject>
+        <dc:subject>1861</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Islington) George (Vicar of St. Thomas's Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:28:38.142221+00:00"/>
+        <meta name="calibre:title_sort" content="Numbering of the People&quot; / A Sermon in conjunction with the census of 1861 preached in St. Thomas' Church, Islington, on Sunday Evening, April 7, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

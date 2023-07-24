@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">284f8c74-6236-463e-8ac7-b4a02c188597</dc:identifier>
+        <dc:title>Tar-Heel Tales in Vernacular Verse</dc:title>
+        <dc:creator opf:file-as="Doyle, J. E. P. (John Edward Parker)" opf:role="aut">J. E. P. Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55042</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>North Carolina -- Poetry</dc:subject>
+        <dc:subject>North Carolina -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. E. P. Doyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:20:39.801130+00:00"/>
+        <meta name="calibre:title_sort" content="Tar-Heel Tales in Vernacular Verse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

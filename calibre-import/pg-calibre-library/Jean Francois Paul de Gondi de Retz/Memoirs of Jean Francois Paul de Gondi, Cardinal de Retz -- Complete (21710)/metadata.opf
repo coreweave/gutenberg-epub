@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">093c673f-62a7-4ffc-8fcd-61380fee1874</dc:identifier>
+        <dc:title>Memoirs of Jean François Paul de Gondi, Cardinal de Retz — Complete</dc:title>
+        <dc:creator opf:file-as="Retz, Jean François Paul de Gondi de" opf:role="aut">Jean François Paul de Gondi de Retz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3846</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Court and courtiers</dc:subject>
+        <dc:subject>France -- History -- Louis XIV</dc:subject>
+        <dc:subject>1643-1715</dc:subject>
+        <dc:subject>Mazarin</dc:subject>
+        <dc:subject>Jules</dc:subject>
+        <dc:subject>1602-1661</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean François Paul de Gondi de Retz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:10:27.605503+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Jean François Paul de Gondi, Cardinal de Retz — Complete"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

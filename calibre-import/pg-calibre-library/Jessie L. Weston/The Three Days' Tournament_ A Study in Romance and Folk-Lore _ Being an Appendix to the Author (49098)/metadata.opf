@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49098</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de2f6c43-fa0e-4797-8768-917eda286c16</dc:identifier>
+        <dc:title>The Three Days' Tournament: A Study in Romance and Folk-Lore / Being an Appendix to the Author's 'Legend of Sir Lancelot'</dc:title>
+        <dc:creator opf:file-as="Weston, Jessie L. (Jessie Laidlay)" opf:role="aut">Jessie L. Weston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46636</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arthurian romances -- History and criticism</dc:subject>
+        <dc:subject>Knights and knighthood in literature</dc:subject>
+        <dc:subject>Lancelot (Legendary character) -- Romances -- History and criticism</dc:subject>
+        <dc:subject>Tournaments</dc:subject>
+        <dc:subject>Medieval in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jessie L. Weston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:09:25.420620+00:00"/>
+        <meta name="calibre:title_sort" content="Three Days' Tournament: A Study in Romance and Folk-Lore / Being an Appendix to the Author's 'Legend of Sir Lancelot', The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

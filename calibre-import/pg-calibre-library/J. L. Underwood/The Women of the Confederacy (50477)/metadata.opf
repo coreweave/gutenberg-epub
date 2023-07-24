@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abcdf722-ee66-4d28-a482-f545e9aac05f</dc:identifier>
+        <dc:title>The Women of the Confederacy</dc:title>
+        <dc:creator opf:file-as="Underwood, J. L. (John Levi)" opf:role="aut">J. L. Underwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36969</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Anecdotes</dc:subject>
+        <dc:subject>Women -- Confederate States of America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. L. Underwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:36:03.395742+00:00"/>
+        <meta name="calibre:title_sort" content="Women of the Confederacy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

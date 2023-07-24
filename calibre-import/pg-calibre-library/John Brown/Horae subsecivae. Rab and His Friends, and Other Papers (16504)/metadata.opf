@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc7de92c-9925-4643-8ec9-2433bbde40f3</dc:identifier>
+        <dc:title>Horae subsecivae. Rab and His Friends, and Other Papers</dc:title>
+        <dc:creator opf:file-as="Brown, John" opf:role="aut">John Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45929</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English essays</dc:subject>
+        <dc:subject>Dogs -- Folklore</dc:subject>
+        <dc:subject>Art criticism</dc:subject>
+        <dc:subject>Brown</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1810-1882 -- Childhood and youth</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:02:02.449710+00:00"/>
+        <meta name="calibre:title_sort" content="Horae subsecivae. Rab and His Friends, and Other Papers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7067f530-88e5-4853-97a5-44354922aedf</dc:identifier>
+        <dc:title>How Does a Tree Grow? Or, Botany for Young Australians</dc:title>
+        <dc:creator opf:file-as="Bonwick, James" opf:role="aut">James Bonwick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57142</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plants -- Australia -- Juvenile literature</dc:subject>
+        <dc:subject>Plant physiology -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Bonwick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:04:06.393351+00:00"/>
+        <meta name="calibre:title_sort" content="How Does a Tree Grow? Or, Botany for Young Australians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b91f807d-0a9a-42c3-ae49-c72a8bd51e6d</dc:identifier>
+        <dc:title>We're Off to Mars!</dc:title>
+        <dc:creator opf:file-as="Gibson, Joe" opf:role="aut">Joe Gibson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joe Gibson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:41:05.673769+00:00"/>
+        <meta name="calibre:title_sort" content="We're Off to Mars!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

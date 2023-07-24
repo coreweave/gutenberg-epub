@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">694f347a-2289-4bfe-8ce8-0fce84cc62d7</dc:identifier>
+        <dc:title>The War After the War</dc:title>
+        <dc:creator opf:file-as="Marcosson, Isaac Frederick" opf:role="aut">Isaac Frederick Marcosson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18380</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lloyd George</dc:subject>
+        <dc:subject>David</dc:subject>
+        <dc:subject>1863-1945</dc:subject>
+        <dc:subject>Hughes</dc:subject>
+        <dc:subject>William Morris</dc:subject>
+        <dc:subject>1864-1952</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Economic aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isaac Frederick Marcosson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:05:46.732571+00:00"/>
+        <meta name="calibre:title_sort" content="War After the War, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4af36b6-9d97-4c0e-91c0-64ac7233a219</dc:identifier>
+        <dc:title>Birdseye Views of Far Lands</dc:title>
+        <dc:creator opf:file-as="Nichols, James T. (James Thomas)" opf:role="aut">James T. Nichols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28340</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James T. Nichols&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:23:50.278278+00:00"/>
+        <meta name="calibre:title_sort" content="Birdseye Views of Far Lands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

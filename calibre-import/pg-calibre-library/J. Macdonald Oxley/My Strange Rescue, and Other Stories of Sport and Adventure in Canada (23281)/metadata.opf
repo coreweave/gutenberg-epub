@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b55b0de-b6cd-4928-bcdf-610776eee078</dc:identifier>
+        <dc:title>My Strange Rescue, and Other Stories of Sport and Adventure in Canada</dc:title>
+        <dc:creator opf:file-as="Oxley, J. Macdonald (James Macdonald)" opf:role="aut">J. Macdonald Oxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51308</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- Juvenile fiction</dc:subject>
+        <dc:subject>Canada -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. Macdonald Oxley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:15:45.590581+00:00"/>
+        <meta name="calibre:title_sort" content="My Strange Rescue, and Other Stories of Sport and Adventure in Canada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

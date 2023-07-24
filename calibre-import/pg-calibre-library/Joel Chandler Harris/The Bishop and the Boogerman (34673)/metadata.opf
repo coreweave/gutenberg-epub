@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8005865d-0e7f-4347-9cb4-a9f17a7d5b78</dc:identifier>
+        <dc:title>The Bishop and the Boogerman</dc:title>
+        <dc:creator opf:file-as="Harris, Joel Chandler" opf:role="aut">Joel Chandler Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36370</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southern States -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Uncles -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joel Chandler Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:58:26.216219+00:00"/>
+        <meta name="calibre:title_sort" content="Bishop and the Boogerman, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

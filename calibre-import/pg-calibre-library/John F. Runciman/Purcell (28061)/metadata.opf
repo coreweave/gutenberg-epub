@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28061</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f50f3ce2-c3b1-409b-bc5b-06f9fb4e7acb</dc:identifier>
+        <dc:title>Purcell</dc:title>
+        <dc:creator opf:file-as="Runciman, John F." opf:role="aut">John F. Runciman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14430</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Purcell</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1659-1695</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John F. Runciman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:41:29.405856+00:00"/>
+        <meta name="calibre:title_sort" content="Purcell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30ba09a7-8e2a-4041-8d30-7d73bd8d193e</dc:identifier>
+        <dc:title>Alden's Handy Atlas of the World / Including One Hundred and Thirty-eight Colored Maps, Diagrams, Tables, Etc.</dc:title>
+        <dc:creator opf:file-as="Alden, John B. (John Berry)" opf:role="aut">John B. Alden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38457</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Atlases</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John B. Alden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:28:33.803458+00:00"/>
+        <meta name="calibre:title_sort" content="Alden's Handy Atlas of the World / Including One Hundred and Thirty-eight Colored Maps, Diagrams, Tables, Etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

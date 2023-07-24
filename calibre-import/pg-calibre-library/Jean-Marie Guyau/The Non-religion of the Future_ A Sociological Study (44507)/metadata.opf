@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28852f11-157b-4dce-8d2d-e9d072b467c7</dc:identifier>
+        <dc:title>The Non-religion of the Future: A Sociological Study</dc:title>
+        <dc:creator opf:file-as="Guyau, Jean-Marie" opf:role="aut">Jean-Marie Guyau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47421</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Social sciences</dc:subject>
+        <dc:subject>Irreligion and sociology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean-Marie Guyau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:39:46.111668+00:00"/>
+        <meta name="calibre:title_sort" content="Non-religion of the Future: A Sociological Study, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

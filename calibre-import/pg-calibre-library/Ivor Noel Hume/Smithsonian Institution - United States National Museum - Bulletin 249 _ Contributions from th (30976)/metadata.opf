@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7587ce83-f81b-4705-b736-897f7bfd7fd4</dc:identifier>
+        <dc:title>Smithsonian Institution - United States National Museum - Bulletin 249 / Contributions from the Museum of History and Technology / Papers 52-54 on Archeology</dc:title>
+        <dc:creator opf:file-as="Noël Hume, Ivor" opf:role="aut">Ivor Noël Hume</dc:creator>
+        <dc:creator opf:file-as="Noël Hume, Ivor" opf:role="aut">C. Malcolm Watkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45741</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Archaeology</dc:subject>
+        <dc:subject>Excavations (Archaeology) -- Virginia -- Gloucester County</dc:subject>
+        <dc:subject>Excavations (Archaeology) -- Virginia -- James City County</dc:subject>
+        <dc:subject>Excavations (Archaeology) -- Virginia -- Yorktown</dc:subject>
+        <dc:subject>Gloucester County (Va.) -- Antiquities</dc:subject>
+        <dc:subject>James City County (Va.) -- Antiquities</dc:subject>
+        <dc:subject>Yorktown (Va.) -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ivor Noël Hume&quot;: &quot;&quot;, &quot;C. Malcolm Watkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:58:05.189843+00:00"/>
+        <meta name="calibre:title_sort" content="Smithsonian Institution - United States National Museum - Bulletin 249 / Contributions from the Museum of History and Technology / Papers 52-54 on Archeology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">313e9570-4dca-4566-915a-0ed6f1daf141</dc:identifier>
+        <dc:title>Catholic Churchmen in Science [First Series] / Sketches of the Lives of Catholic Ecclesiastics Who Were Among the Great Founders in Science</dc:title>
+        <dc:creator opf:file-as="Walsh, James J. (James Joseph)" opf:role="aut">James J. Walsh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34067</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion and science</dc:subject>
+        <dc:subject>Scientists -- Biography</dc:subject>
+        <dc:subject>Catholics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James J. Walsh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:55:24.387186+00:00"/>
+        <meta name="calibre:title_sort" content="Catholic Churchmen in Science [First Series] / Sketches of the Lives of Catholic Ecclesiastics Who Were Among the Great Founders in Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

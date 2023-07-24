@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d79cdbc6-2ced-4d60-9eaf-26e136fc8358</dc:identifier>
+        <dc:title>The boy's Froissart / Being Sir John Froissart's Chronicles of adventure, battle, and custom in England, France, Spain, etc.</dc:title>
+        <dc:creator opf:file-as="Froissart, Jean" opf:role="aut">Jean Froissart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61710</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- 14th century</dc:subject>
+        <dc:subject>Hundred Years' War</dc:subject>
+        <dc:subject>1339-1453</dc:subject>
+        <dc:subject>France -- History -- House of Valois</dc:subject>
+        <dc:subject>1328-1589</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jean Froissart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:22:08.473139+00:00"/>
+        <meta name="calibre:title_sort" content="boy's Froissart / Being Sir John Froissart's Chronicles of adventure, battle, and custom in England, France, Spain, etc., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

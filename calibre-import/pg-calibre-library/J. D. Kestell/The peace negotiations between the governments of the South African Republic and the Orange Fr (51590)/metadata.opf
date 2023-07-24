@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f97e0c0-6654-4788-be5a-583d0a4f356a</dc:identifier>
+        <dc:title>The peace negotiations between the governments of the South African Republic and the Orange Free State, and the representatives of the British government, which terminated in the peace concluded at Vereeniging on the 31st May, 1902</dc:title>
+        <dc:creator opf:file-as="Kestell, J. D. (John Daniel)" opf:role="aut">J. D. Kestell</dc:creator>
+        <dc:creator opf:file-as="Kestell, J. D. (John Daniel)" opf:role="aut">D. E. van Velden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27529</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902</dc:subject>
+        <dc:subject>South Africa -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. D. Kestell&quot;: &quot;&quot;, &quot;D. E. van Velden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:48:17.709339+00:00"/>
+        <meta name="calibre:title_sort" content="peace negotiations between the governments of the South African Republic and the Orange Free State, and the representatives of the British government, which terminated in the peace concluded at Vereeniging on the 31st May, 1902, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

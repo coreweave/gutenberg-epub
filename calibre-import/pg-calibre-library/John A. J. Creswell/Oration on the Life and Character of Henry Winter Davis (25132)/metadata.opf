@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40a7052f-6861-417f-996e-a6ac53dd16bb</dc:identifier>
+        <dc:title>Oration on the Life and Character of Henry Winter Davis</dc:title>
+        <dc:creator opf:file-as="Creswell, John A. J. (John Angel James)" opf:role="aut">John A. J. Creswell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22084</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legislators -- United States -- Biography</dc:subject>
+        <dc:subject>Abolitionists -- United States -- Biography</dc:subject>
+        <dc:subject>Davis</dc:subject>
+        <dc:subject>Henry Winter</dc:subject>
+        <dc:subject>1817-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John A. J. Creswell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:33:58.533281+00:00"/>
+        <meta name="calibre:title_sort" content="Oration on the Life and Character of Henry Winter Davis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

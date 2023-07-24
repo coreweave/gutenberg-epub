@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04494b3f-eaeb-4b85-92f5-addc182475d6</dc:identifier>
+        <dc:title>Sketches of Indian Character / Being a Brief Survey of the Principal Features of Character Exhibited by the North American Indians; Illustrating the Aphorism of the Socialists, that "Man is the creature of circumstances"</dc:title>
+        <dc:creator opf:file-as="Bailey, James Napier" opf:role="aut">James Napier Bailey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58363</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Napier Bailey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:52:20.689165+00:00"/>
+        <meta name="calibre:title_sort" content="Sketches of Indian Character / Being a Brief Survey of the Principal Features of Character Exhibited by the North American Indians; Illustrating the Aphorism of the Socialists, that &quot;Man is the creature of circumstances&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

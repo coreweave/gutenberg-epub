@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c140a956-de24-4ae5-9af0-d9090dd58a8c</dc:identifier>
+        <dc:title>The Man Who Did Not Die: The Story of Elijah</dc:title>
+        <dc:creator opf:file-as="Willard, James Hartwell" opf:role="aut">James Hartwell Willard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30899</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Elijah -- (Biblical prophet) -- Juvenile literature</dc:subject>
+        <dc:subject>Bible -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Hartwell Willard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:13:04.397102+00:00"/>
+        <meta name="calibre:title_sort" content="Man Who Did Not Die: The Story of Elijah, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
