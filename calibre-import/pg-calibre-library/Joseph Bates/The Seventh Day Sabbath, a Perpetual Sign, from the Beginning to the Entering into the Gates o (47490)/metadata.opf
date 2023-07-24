@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02360de3-91de-4b9f-ac76-710638c5c797</dc:identifier>
+        <dc:title>The Seventh Day Sabbath, a Perpetual Sign, from the Beginning to the Entering into the Gates of the Holy City, According to the Commandment</dc:title>
+        <dc:creator opf:file-as="Bates, Joseph" opf:role="aut">Joseph Bates</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22098</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seventh-Day Adventists -- Doctrines</dc:subject>
+        <dc:subject>Sabbath</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Bates&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:33:14.998713+00:00"/>
+        <meta name="calibre:title_sort" content="Seventh Day Sabbath, a Perpetual Sign, from the Beginning to the Entering into the Gates of the Holy City, According to the Commandment, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

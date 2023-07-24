@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62266230-13fd-4d54-9314-8c5a24404227</dc:identifier>
+        <dc:title>On the Border with Andrew Jackson</dc:title>
+        <dc:creator opf:file-as="McIntyre, John T. (John Thomas)" opf:role="aut">John T. McIntyre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66807</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jackson</dc:subject>
+        <dc:subject>Andrew</dc:subject>
+        <dc:subject>1767-1845 -- Juvenile fiction</dc:subject>
+        <dc:subject>Alabama -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John T. McIntyre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:23:22.356848+00:00"/>
+        <meta name="calibre:title_sort" content="On the Border with Andrew Jackson"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

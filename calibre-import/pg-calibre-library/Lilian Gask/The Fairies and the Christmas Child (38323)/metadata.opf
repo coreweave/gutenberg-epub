@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a1e5924-2fdc-49f3-9654-b56f854518ff</dc:identifier>
+        <dc:title>The Fairies and the Christmas Child</dc:title>
+        <dc:creator opf:file-as="Gask, Lilian" opf:role="aut">Lilian Gask</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37547</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Fairies -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lilian Gask&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:03:18.287573+00:00"/>
+        <meta name="calibre:title_sort" content="Fairies and the Christmas Child, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

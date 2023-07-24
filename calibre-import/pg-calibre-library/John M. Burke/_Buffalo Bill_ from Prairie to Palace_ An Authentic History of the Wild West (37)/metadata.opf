@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ff8c3d5-7ea0-4e7b-bceb-a96d83a620eb</dc:identifier>
+        <dc:title>"Buffalo Bill" from Prairie to Palace: An Authentic History of the Wild West</dc:title>
+        <dc:creator opf:file-as="Burke, John M." opf:role="aut">John M. Burke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49204</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buffalo Bill</dc:subject>
+        <dc:subject>1846-1917</dc:subject>
+        <dc:subject>Entertainers -- United States -- Biography</dc:subject>
+        <dc:subject>West (U.S.) -- Biography</dc:subject>
+        <dc:subject>Frontier and pioneer life -- West (U.S.)</dc:subject>
+        <dc:subject>Pioneers -- West (U.S.) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John M. Burke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:41.312456+00:00"/>
+        <meta name="calibre:title_sort" content="Buffalo Bill&quot; from Prairie to Palace: An Authentic History of the Wild West"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

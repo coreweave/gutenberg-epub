@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">153d0b50-4ec2-4014-b716-445c96992bb6</dc:identifier>
+        <dc:title>Metabolic Adaptation to Climate and Distribution of the Raccoon Procyon Lotor and Other Procyonidae</dc:title>
+        <dc:creator opf:file-as="Mahlke-Johnson, Kathleen P." opf:role="aut">Kathleen P. Mahlke-Johnson</dc:creator>
+        <dc:creator opf:file-as="Mahlke-Johnson, Kathleen P." opf:role="aut">John N. Mugaas</dc:creator>
+        <dc:creator opf:file-as="Mahlke-Johnson, Kathleen P." opf:role="aut">John Seidensticker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36036</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Raccoon -- Metabolism -- Climatic factors</dc:subject>
+        <dc:subject>Procyonidae -- Metabolism -- Climatic factors</dc:subject>
+        <dc:subject>Raccoon -- Geographical distribution -- Climatic factors</dc:subject>
+        <dc:subject>Procyonidae -- Geographical distribution -- Climatic factors</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kathleen P. Mahlke-Johnson&quot;: &quot;&quot;, &quot;John N. Mugaas&quot;: &quot;&quot;, &quot;John Seidensticker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:22:50.648676+00:00"/>
+        <meta name="calibre:title_sort" content="Metabolic Adaptation to Climate and Distribution of the Raccoon Procyon Lotor and Other Procyonidae"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

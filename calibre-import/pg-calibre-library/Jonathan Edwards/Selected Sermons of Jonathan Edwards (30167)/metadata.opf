@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0441c9e3-ae59-440e-917e-17b7c708fe9f</dc:identifier>
+        <dc:title>Selected Sermons of Jonathan Edwards</dc:title>
+        <dc:creator opf:file-as="Edwards, Jonathan" opf:role="aut">Jonathan Edwards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34632</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Congregational churches -- Sermons</dc:subject>
+        <dc:subject>Edwards</dc:subject>
+        <dc:subject>Jonathan</dc:subject>
+        <dc:subject>1703-1758</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Edwards&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:19:06.071877+00:00"/>
+        <meta name="calibre:title_sort" content="Selected Sermons of Jonathan Edwards"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

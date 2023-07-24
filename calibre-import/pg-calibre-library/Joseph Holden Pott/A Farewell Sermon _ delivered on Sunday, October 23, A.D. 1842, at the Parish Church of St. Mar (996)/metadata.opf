@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">996</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2384902-61f9-404e-b16c-35df82a72375</dc:identifier>
+        <dc:title>A Farewell Sermon / delivered on Sunday, October 23, A.D. 1842, at the Parish Church of St. Mary Abbotts, Kensington</dc:title>
+        <dc:creator opf:file-as="Pott, Joseph Holden" opf:role="aut">Joseph Holden Pott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64716</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Farewell sermons</dc:subject>
+        <dc:subject>Bible. Ecclesiastes III</dc:subject>
+        <dc:subject>1 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Holden Pott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:40:58.620975+00:00"/>
+        <meta name="calibre:title_sort" content="Farewell Sermon / delivered on Sunday, October 23, A.D. 1842, at the Parish Church of St. Mary Abbotts, Kensington, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

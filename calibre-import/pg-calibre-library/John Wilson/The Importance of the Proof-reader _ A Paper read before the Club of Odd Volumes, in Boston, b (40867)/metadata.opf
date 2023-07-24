@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f25167a-1f16-4c8b-8058-901f0e7d10d4</dc:identifier>
+        <dc:title>The Importance of the Proof-reader / A Paper read before the Club of Odd Volumes, in Boston, by John Wilson</dc:title>
+        <dc:creator opf:file-as="Wilson, John" opf:role="aut">John Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Proofreading</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:17:27.312497+00:00"/>
+        <meta name="calibre:title_sort" content="Importance of the Proof-reader / A Paper read before the Club of Odd Volumes, in Boston, by John Wilson, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

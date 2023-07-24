@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38011</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42087f44-6d42-4eb9-b88c-03b97b9ac094</dc:identifier>
+        <dc:title>The English Utilitarians, Volume 1 (of 3)</dc:title>
+        <dc:creator opf:file-as="Stephen, Leslie" opf:role="aut">Leslie Stephen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27597</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Utilitarianism -- Great Britain -- History</dc:subject>
+        <dc:subject>Philosophers -- England</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>English -- 18th century</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Bentham</dc:subject>
+        <dc:subject>Jeremy</dc:subject>
+        <dc:subject>1748-1832</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leslie Stephen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:47:08.431874+00:00"/>
+        <meta name="calibre:title_sort" content="English Utilitarians, Volume 1 (of 3), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

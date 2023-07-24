@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">848a8cf5-9fc7-4a6c-a052-fa8aecab974d</dc:identifier>
+        <dc:title>'And So Ad Infinitum' (The Life of the Insects) / An Entomological Review, in Three Acts, a Prologue and an Epilogue</dc:title>
+        <dc:creator opf:file-as="Čapek, Josef" opf:role="aut">Josef Čapek</dc:creator>
+        <dc:creator opf:file-as="Čapek, Josef" opf:role="aut">Karel Čapek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61420</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Czech drama -- Translations into English</dc:subject>
+        <dc:subject>Insects -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Josef Čapek&quot;: &quot;&quot;, &quot;Karel Čapek&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:29:02.218854+00:00"/>
+        <meta name="calibre:title_sort" content="And So Ad Infinitum' (The Life of the Insects) / An Entomological Review, in Three Acts, a Prologue and an Epilogue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

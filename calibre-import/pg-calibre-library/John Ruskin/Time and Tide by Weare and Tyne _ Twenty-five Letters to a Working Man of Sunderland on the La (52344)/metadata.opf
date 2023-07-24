@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f87de89-a357-40ee-93c2-c665478aa494</dc:identifier>
+        <dc:title>Time and Tide by Weare and Tyne / Twenty-five Letters to a Working Man of Sunderland on the Laws of Work</dc:title>
+        <dc:creator opf:file-as="Ruskin, John" opf:role="aut">John Ruskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31196</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social sciences</dc:subject>
+        <dc:subject>Working class -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ruskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:36:22.133400+00:00"/>
+        <meta name="calibre:title_sort" content="Time and Tide by Weare and Tyne / Twenty-five Letters to a Working Man of Sunderland on the Laws of Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

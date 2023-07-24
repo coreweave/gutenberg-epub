@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d44bc5d3-6c72-4775-adff-4f8860c68138</dc:identifier>
+        <dc:title>The Saxons in England, Volume 1 (of 2) / A history of the English commonwealth till the period of the Norman conquest</dc:title>
+        <dc:creator opf:file-as="Kemble, John Mitchell" opf:role="aut">John Mitchell Kemble</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61161</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Anglo-Saxon period</dc:subject>
+        <dc:subject>449-1066</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Mitchell Kemble&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:13:24.346058+00:00"/>
+        <meta name="calibre:title_sort" content="Saxons in England, Volume 1 (of 2) / A history of the English commonwealth till the period of the Norman conquest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

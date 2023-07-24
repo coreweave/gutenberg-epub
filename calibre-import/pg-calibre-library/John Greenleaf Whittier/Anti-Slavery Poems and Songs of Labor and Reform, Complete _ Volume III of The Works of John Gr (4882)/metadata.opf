@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b04ece68-7b27-43c9-a156-f22cc80c6203</dc:identifier>
+        <dc:title>Anti-Slavery Poems and Songs of Labor and Reform, Complete / Volume III of The Works of John Greenleaf Whittier</dc:title>
+        <dc:creator opf:file-as="Whittier, John Greenleaf" opf:role="aut">John Greenleaf Whittier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9580</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Greenleaf Whittier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:49:52.704540+00:00"/>
+        <meta name="calibre:title_sort" content="Anti-Slavery Poems and Songs of Labor and Reform, Complete / Volume III of The Works of John Greenleaf Whittier"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

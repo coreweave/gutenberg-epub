@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8904</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1340a67b-1b3c-43b8-b355-8656bdf87533</dc:identifier>
+        <dc:title>Club Life of London, Vol. 1 (of 2) / With Anecdotes of the Clubs, Coffee-Houses and Taverns of the Metropolis During the 17th, 18th, and 19th Centuries</dc:title>
+        <dc:creator opf:file-as="Timbs, John" opf:role="aut">John Timbs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41146</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Social life and customs</dc:subject>
+        <dc:subject>Literary landmarks -- England -- London</dc:subject>
+        <dc:subject>Clubs -- England -- London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Timbs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:20:15.133772+00:00"/>
+        <meta name="calibre:title_sort" content="Club Life of London, Vol. 1 (of 2) / With Anecdotes of the Clubs, Coffee-Houses and Taverns of the Metropolis During the 17th, 18th, and 19th Centuries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

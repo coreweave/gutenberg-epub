@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36834</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2075134c-d50b-4345-9de7-0214b5482bae</dc:identifier>
+        <dc:title>The Court Houses of a Century / A Brief Historical Sketch of the Court Houses of London Distict, the County of Middlesex, and County of Elgin</dc:title>
+        <dc:creator opf:file-as="McKay, Kenneth W." opf:role="aut">Kenneth W. McKay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35026</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Elgin (Ont. : County) -- History</dc:subject>
+        <dc:subject>Courthouses -- Ontario -- Toronto</dc:subject>
+        <dc:subject>Courts -- Ontario -- Elgin County</dc:subject>
+        <dc:subject>Courts -- Ontario -- Middlesex County</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kenneth W. McKay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:46:38.060110+00:00"/>
+        <meta name="calibre:title_sort" content="Court Houses of a Century / A Brief Historical Sketch of the Court Houses of London Distict, the County of Middlesex, and County of Elgin, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

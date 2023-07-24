@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74dd57de-3a71-4a19-adfe-0e20a5d20b19</dc:identifier>
+        <dc:title>Expedition to Pluto</dc:title>
+        <dc:creator opf:file-as="Manning, Laurence" opf:role="aut">Laurence Manning</dc:creator>
+        <dc:creator opf:file-as="Manning, Laurence" opf:role="aut">Fletcher Pratt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61694</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Space ships -- Fiction</dc:subject>
+        <dc:subject>Radio broadcasting -- Fiction</dc:subject>
+        <dc:subject>Pluto (Dwarf planet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laurence Manning&quot;: &quot;&quot;, &quot;Fletcher Pratt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:47:31.153863+00:00"/>
+        <meta name="calibre:title_sort" content="Expedition to Pluto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

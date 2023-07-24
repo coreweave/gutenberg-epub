@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26871</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33645754-2293-4cb5-a8ef-9b9aafc4462c</dc:identifier>
+        <dc:title>Polly: A New-Fashioned Girl</dc:title>
+        <dc:creator opf:file-as="Meade, L. T." opf:role="aut">L. T. Meade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18666</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Motherless families -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. T. Meade&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:49:12.791814+00:00"/>
+        <meta name="calibre:title_sort" content="Polly: A New-Fashioned Girl"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

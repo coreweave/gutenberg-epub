@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6873a1dc-cd7d-43fc-8ebb-8c6e51c7379d</dc:identifier>
+        <dc:title>A Vindication of the Seventh-Day Sabbath and the Commandments of God / With a Further History of God's Peculiar People from 1847-1848</dc:title>
+        <dc:creator opf:file-as="Bates, Joseph" opf:role="aut">Joseph Bates</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30531</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sabbath</dc:subject>
+        <dc:subject>Seventh-Day Adventists -- Doctrinal and controversial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Bates&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:13:44.424555+00:00"/>
+        <meta name="calibre:title_sort" content="Vindication of the Seventh-Day Sabbath and the Commandments of God / With a Further History of God's Peculiar People from 1847-1848, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

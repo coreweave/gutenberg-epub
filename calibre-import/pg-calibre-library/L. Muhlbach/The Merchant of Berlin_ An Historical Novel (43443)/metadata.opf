@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9502db59-3838-42e2-85bc-46aa2731409b</dc:identifier>
+        <dc:title>The Merchant of Berlin: An Historical Novel</dc:title>
+        <dc:creator opf:file-as="Mühlbach, L. (Luise)" opf:role="aut">L. Mühlbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seven Years' War</dc:subject>
+        <dc:subject>1756-1763 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Mühlbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:39:30.570659+00:00"/>
+        <meta name="calibre:title_sort" content="Merchant of Berlin: An Historical Novel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

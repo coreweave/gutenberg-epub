@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f4f6da6-c8fd-4e85-9f33-fbb0328c1912</dc:identifier>
+        <dc:title>Syndicalism in France</dc:title>
+        <dc:creator opf:file-as="Lorwin, Lewis L. (Lewis Levitzki)" opf:role="aut">Lewis L. Lorwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Labor unions -- France -- History</dc:subject>
+        <dc:subject>Syndicalism -- France</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis L. Lorwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:07:15.344230+00:00"/>
+        <meta name="calibre:title_sort" content="Syndicalism in France"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

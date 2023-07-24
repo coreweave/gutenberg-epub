@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89a9cbd5-3a2e-4770-bab3-d8488e567fcf</dc:identifier>
+        <dc:title>Two Ghostly Mysteries / A Chapter in the History of a Tyrone Family; and the Murdered Cousin</dc:title>
+        <dc:creator opf:file-as="Le Fanu, Joseph Sheridan" opf:role="aut">Joseph Sheridan Le Fanu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12828</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ghost stories</dc:subject>
+        <dc:subject>Ireland -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Sheridan Le Fanu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:29:24.305686+00:00"/>
+        <meta name="calibre:title_sort" content="Two Ghostly Mysteries / A Chapter in the History of a Tyrone Family; and the Murdered Cousin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

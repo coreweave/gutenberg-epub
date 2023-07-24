@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa28606e-b37b-4a8c-af21-76acb4a402db</dc:identifier>
+        <dc:title>The life and adventures of Alexander Selkirk, the real Robinson Crusoe</dc:title>
+        <dc:creator opf:file-as="Howell, John" opf:role="aut">John Howell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70639</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwreck survival -- Juvenile literature</dc:subject>
+        <dc:subject>Selkirk</dc:subject>
+        <dc:subject>Alexander</dc:subject>
+        <dc:subject>1676-1721 -- Juvenile literature</dc:subject>
+        <dc:subject>Defoe</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1661?-1731. Robinson Crusoe</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Howell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:40:26.187832+00:00"/>
+        <meta name="calibre:title_sort" content="life and adventures of Alexander Selkirk, the real Robinson Crusoe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91a79d34-79e6-42e0-ae8f-4f136280c6ec</dc:identifier>
+        <dc:title>Maria Antoinette / Makers of History</dc:title>
+        <dc:creator opf:file-as="Abbott, John S. C. (John Stevens Cabot)" opf:role="aut">John S. C. Abbott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30875</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marie Antoinette</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Louis XVI</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1755-1793</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John S. C. Abbott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:48:02.603946+00:00"/>
+        <meta name="calibre:title_sort" content="Maria Antoinette / Makers of History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

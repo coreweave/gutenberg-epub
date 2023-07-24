@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">599fc350-0437-40e5-be32-adc0e46b30c0</dc:identifier>
+        <dc:title>Children of South America</dc:title>
+        <dc:creator opf:file-as="Hodge, Katharine A." opf:role="aut">Katharine A. Hodge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64105</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- South America -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Katharine A. Hodge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:09:01.538433+00:00"/>
+        <meta name="calibre:title_sort" content="Children of South America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8960b12-46f8-4c69-b5c2-0acec3ba4722</dc:identifier>
+        <dc:title>The snow man</dc:title>
+        <dc:creator opf:file-as="Housman, Laurence" opf:role="aut">Laurence Housman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>One-act plays</dc:subject>
+        <dc:subject>English drama -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laurence Housman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:55:37.787613+00:00"/>
+        <meta name="calibre:title_sort" content="snow man, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

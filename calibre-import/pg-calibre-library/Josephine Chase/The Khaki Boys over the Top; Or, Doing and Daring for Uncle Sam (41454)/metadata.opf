@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41454</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">248569d3-a1ee-4cda-a103-2ad653512317</dc:identifier>
+        <dc:title>The Khaki Boys over the Top; Or, Doing and Daring for Uncle Sam</dc:title>
+        <dc:creator opf:file-as="Chase, Josephine" opf:role="aut">Josephine Chase</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12957</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Josephine Chase&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:49:26.220356+00:00"/>
+        <meta name="calibre:title_sort" content="Khaki Boys over the Top; Or, Doing and Daring for Uncle Sam, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

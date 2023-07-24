@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6a2c7ae-d113-4a35-b99e-a1a707f032f5</dc:identifier>
+        <dc:title>New lands within the Arctic circle / Narrative of the discoveries of the Austrian ship "Tegetthoff" in the years 1872-1874</dc:title>
+        <dc:creator opf:file-as="Payer, Julius" opf:role="aut">Julius Payer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60258</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arctic regions</dc:subject>
+        <dc:subject>Franz Josef Land (Russia) -- Discovery and exploration</dc:subject>
+        <dc:subject>Admiral Tegetthoff (Ship)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julius Payer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:36:39.501660+00:00"/>
+        <meta name="calibre:title_sort" content="New lands within the Arctic circle / Narrative of the discoveries of the Austrian ship &quot;Tegetthoff&quot; in the years 1872-1874"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

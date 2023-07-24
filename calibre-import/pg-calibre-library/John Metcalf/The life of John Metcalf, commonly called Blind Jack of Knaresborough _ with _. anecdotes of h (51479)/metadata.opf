@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e376c5e1-de94-42bb-937a-533af1ffead4</dc:identifier>
+        <dc:title>The life of John Metcalf, commonly called Blind Jack of Knaresborough / with ... anecdotes of his exploits in hunting, card-playing, &amp;c., some particulars relative to the expedition against the rebels in 1745 ...; and also a succinct account of his various contracts for making roads, erecting bridges ... in Yorkshire, Lancashire, Derbyshire, and Cheshire ...</dc:title>
+        <dc:creator opf:file-as="Metcalf, John" opf:role="aut">John Metcalf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jacobite Rebellion</dc:subject>
+        <dc:subject>1745-1746</dc:subject>
+        <dc:subject>Metcalf</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1717-1810</dc:subject>
+        <dc:subject>Highway engineers -- England -- Biography</dc:subject>
+        <dc:subject>Blind -- England -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Metcalf&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:41:12.157699+00:00"/>
+        <meta name="calibre:title_sort" content="life of John Metcalf, commonly called Blind Jack of Knaresborough / with ... anecdotes of his exploits in hunting, card-playing, &amp;c., some particulars relative to the expedition against the rebels in 1745 ...; and also a succinct account of his various contracts for making roads, erecting bridges ... in Yorkshire, Lancashire, Derbyshire, and Cheshire ..., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

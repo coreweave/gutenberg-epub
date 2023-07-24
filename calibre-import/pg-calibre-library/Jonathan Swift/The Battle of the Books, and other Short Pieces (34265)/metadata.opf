@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9fe5bf1-19bc-4c08-9e01-15a80eb8fa7e</dc:identifier>
+        <dc:title>The Battle of the Books, and other Short Pieces</dc:title>
+        <dc:creator opf:file-as="Swift, Jonathan" opf:role="aut">Jonathan Swift</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English essays</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Ancients and moderns</dc:subject>
+        <dc:subject>Quarrel of</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Swift&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:38:17.500401+00:00"/>
+        <meta name="calibre:title_sort" content="Battle of the Books, and other Short Pieces, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

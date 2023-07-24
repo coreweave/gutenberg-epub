@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1a40c90-e2d0-43e1-9305-bde536ba3e01</dc:identifier>
+        <dc:title>Nostromo: A Tale of the Seaboard</dc:title>
+        <dc:creator opf:file-as="Conrad, Joseph" opf:role="aut">Joseph Conrad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2021</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Sailors -- Fiction</dc:subject>
+        <dc:subject>Revolutions -- Fiction</dc:subject>
+        <dc:subject>Latin America -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Conrad&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:49:27.294270+00:00"/>
+        <meta name="calibre:title_sort" content="Nostromo: A Tale of the Seaboard"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

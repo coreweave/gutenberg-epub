@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae10d3b5-404f-46bf-b734-e6b8424e51f4</dc:identifier>
+        <dc:title>The Cathedral Towns and Intervening Places of England, Ireland and Scotland: / A Description of Cities, Cathedrals, Lakes, Mountains, Ruins, and Watering-places.</dc:title>
+        <dc:creator opf:file-as="Powers, Lee L." opf:role="aut">Lee L. Powers</dc:creator>
+        <dc:creator opf:file-as="Powers, Lee L." opf:role="aut">Thomas W. Silloway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45909</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee L. Powers&quot;: &quot;&quot;, &quot;Thomas W. Silloway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:53:55.405442+00:00"/>
+        <meta name="calibre:title_sort" content="Cathedral Towns and Intervening Places of England, Ireland and Scotland: / A Description of Cities, Cathedrals, Lakes, Mountains, Ruins, and Watering-places., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

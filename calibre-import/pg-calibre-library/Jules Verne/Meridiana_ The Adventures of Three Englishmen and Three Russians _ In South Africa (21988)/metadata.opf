@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3311a14-a8d3-412a-b2fe-167ccf692866</dc:identifier>
+        <dc:title>Meridiana: The Adventures of Three Englishmen and Three Russians / In South Africa</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63650</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>Southern -- Fiction</dc:subject>
+        <dc:subject>Meridians (Geodesy) -- Fiction</dc:subject>
+        <dc:subject>Meridians (Astronomy) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:21:39.635460+00:00"/>
+        <meta name="calibre:title_sort" content="Meridiana: The Adventures of Three Englishmen and Three Russians / In South Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17830</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b0fec61-4c72-450f-bad4-3e8d1d6d1af1</dc:identifier>
+        <dc:title>Into the Unknown: A Romance of South Africa</dc:title>
+        <dc:creator opf:file-as="Fletcher, Lawrence" opf:role="aut">Lawrence Fletcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32912</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Africa -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lawrence Fletcher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:46:57.729010+00:00"/>
+        <meta name="calibre:title_sort" content="Into the Unknown: A Romance of South Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

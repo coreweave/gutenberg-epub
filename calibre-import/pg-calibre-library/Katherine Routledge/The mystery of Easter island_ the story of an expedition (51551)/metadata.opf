@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c62fd3b-7a93-4531-bdcf-c70ea398d254</dc:identifier>
+        <dc:title>The mystery of Easter island: the story of an expedition</dc:title>
+        <dc:creator opf:file-as="Routledge, Katherine" opf:role="aut">Katherine Routledge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69807</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels</dc:subject>
+        <dc:subject>Oceania -- Description and travel</dc:subject>
+        <dc:subject>Easter Island</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Katherine Routledge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:45:46.636040+00:00"/>
+        <meta name="calibre:title_sort" content="mystery of Easter island: the story of an expedition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

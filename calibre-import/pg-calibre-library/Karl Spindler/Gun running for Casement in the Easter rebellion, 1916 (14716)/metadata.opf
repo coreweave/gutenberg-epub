@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">210f0239-ebc5-42a1-870d-32c7a18f5657</dc:identifier>
+        <dc:title>Gun running for Casement in the Easter rebellion, 1916</dc:title>
+        <dc:creator opf:file-as="Spindler, Karl" opf:role="aut">Karl Spindler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45454</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- History -- Easter Rising</dc:subject>
+        <dc:subject>1916</dc:subject>
+        <dc:subject>Casement</dc:subject>
+        <dc:subject>Roger</dc:subject>
+        <dc:subject>1864-1916</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karl Spindler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:03:30.276771+00:00"/>
+        <meta name="calibre:title_sort" content="Gun running for Casement in the Easter rebellion, 1916"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44946</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4495ea5f-da0c-4aad-9913-3844d986bf07</dc:identifier>
+        <dc:title>The Oxford Methodists</dc:title>
+        <dc:creator opf:file-as="Tyerman, L. (Luke)" opf:role="aut">L. Tyerman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70497</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Methodism</dc:subject>
+        <dc:subject>Ingham</dc:subject>
+        <dc:subject>Benjamin</dc:subject>
+        <dc:subject>1712-1772</dc:subject>
+        <dc:subject>Gambold</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1711-1771</dc:subject>
+        <dc:subject>Hervey</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1714-1758</dc:subject>
+        <dc:subject>Broughton</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1712-1777</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Tyerman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:04:38.184782+00:00"/>
+        <meta name="calibre:title_sort" content="Oxford Methodists, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

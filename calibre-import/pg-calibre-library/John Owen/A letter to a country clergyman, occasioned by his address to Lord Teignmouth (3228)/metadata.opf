@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1aaceb08-569b-4083-a1a4-0c1d32f99f65</dc:identifier>
+        <dc:title>A letter to a country clergyman, occasioned by his address to Lord Teignmouth</dc:title>
+        <dc:creator opf:file-as="Owen, John" opf:role="aut">John Owen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62232</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British and Foreign Bible Society</dc:subject>
+        <dc:subject>Teignmouth</dc:subject>
+        <dc:subject>John Shore</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1751-1834</dc:subject>
+        <dc:subject>Sikes</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1765 or 1766-1834. Address to Lord Teignmouth</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Owen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:38.590982+00:00"/>
+        <meta name="calibre:title_sort" content="letter to a country clergyman, occasioned by his address to Lord Teignmouth, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

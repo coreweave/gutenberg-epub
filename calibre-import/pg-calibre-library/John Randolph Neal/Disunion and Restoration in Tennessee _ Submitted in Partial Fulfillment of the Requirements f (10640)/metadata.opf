@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0902c506-1a1c-4e59-8a5a-13ea8b945dfb</dc:identifier>
+        <dc:title>Disunion and Restoration in Tennessee / Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy in the Faculty of Political Science, Columbia University</dc:title>
+        <dc:creator opf:file-as="Neal, John Randolph" opf:role="aut">John Randolph Neal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65442</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thesis (Ph. D.)</dc:subject>
+        <dc:subject>Reconstruction (U.S. history</dc:subject>
+        <dc:subject>1865-1877) -- Tennessee</dc:subject>
+        <dc:subject>Tennessee -- Politics and government -- 1861-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Randolph Neal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:05:05.783733+00:00"/>
+        <meta name="calibre:title_sort" content="Disunion and Restoration in Tennessee / Submitted in Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy in the Faculty of Political Science, Columbia University"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15823</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86eb186d-3504-4905-b8c8-0288796a0386</dc:identifier>
+        <dc:title>Historic Shrines of America / Being the Story of One Hundred and Twenty Historic Buildings and the Pioneers Who Made Them Notable</dc:title>
+        <dc:creator opf:file-as="Faris, John T. (John Thomson)" opf:role="aut">John T. Faris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Biography</dc:subject>
+        <dc:subject>Historic buildings -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John T. Faris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:39:17.390459+00:00"/>
+        <meta name="calibre:title_sort" content="Historic Shrines of America / Being the Story of One Hundred and Twenty Historic Buildings and the Pioneers Who Made Them Notable"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67adb210-b099-472f-85b1-b2847d168bb0</dc:identifier>
+        <dc:title>English Industries of the Middle Ages / Being an Introduction to the Industrial History of Medieval England</dc:title>
+        <dc:creator opf:file-as="Salzman, L. F. (Louis Francis)" opf:role="aut">L. F. Salzman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48588</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Industries -- Great Britain -- History -- To 1500</dc:subject>
+        <dc:subject>Mineral industries -- England -- History -- To 1500</dc:subject>
+        <dc:subject>England -- Economic conditions -- 1066-1485</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. F. Salzman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:34:36.716942+00:00"/>
+        <meta name="calibre:title_sort" content="English Industries of the Middle Ages / Being an Introduction to the Industrial History of Medieval England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

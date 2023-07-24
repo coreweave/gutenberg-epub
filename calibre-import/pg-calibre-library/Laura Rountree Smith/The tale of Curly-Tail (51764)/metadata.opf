@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c850803-3bda-485a-9759-e304f6a8ca8b</dc:identifier>
+        <dc:title>The tale of Curly-Tail</dc:title>
+        <dc:creator opf:file-as="Smith, Laura Rountree" opf:role="aut">Laura Rountree Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68822</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Juvenile fiction</dc:subject>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laura Rountree Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:59:38.418259+00:00"/>
+        <meta name="calibre:title_sort" content="tale of Curly-Tail, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

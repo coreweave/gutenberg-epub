@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dcfd620-4322-408f-9a71-7ee226d07423</dc:identifier>
+        <dc:title>A Chronological Table of the Catholic Primates of Ireland / With the Years in Which They Succeeded to the Metropolitan Sees of Armagh, Dublin, Cashell and Tuam</dc:title>
+        <dc:creator opf:file-as="Murphy, John" opf:role="aut">John Murphy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Catholic Church -- Ireland -- Clergy -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Murphy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:35:43.112590+00:00"/>
+        <meta name="calibre:title_sort" content="Chronological Table of the Catholic Primates of Ireland / With the Years in Which They Succeeded to the Metropolitan Sees of Armagh, Dublin, Cashell and Tuam, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

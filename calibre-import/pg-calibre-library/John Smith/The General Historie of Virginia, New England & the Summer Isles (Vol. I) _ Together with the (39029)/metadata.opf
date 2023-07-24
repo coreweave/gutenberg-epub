@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18e4df62-b9b3-4cf3-81c6-64e29557b2d6</dc:identifier>
+        <dc:title>The General Historie of Virginia, New England &amp; the Summer Isles (Vol. I) / Together with the True Travels, Adventures and Observations, and a Sea Grammar</dc:title>
+        <dc:creator opf:file-as="Smith, John" opf:role="aut">John Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56347</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Smith</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1580-1631</dc:subject>
+        <dc:subject>Navigation</dc:subject>
+        <dc:subject>Virginia -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>New England -- History -- Colonial period</dc:subject>
+        <dc:subject>Indians of North America -- Virginia</dc:subject>
+        <dc:subject>Bermuda Islands -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:39:53.776043+00:00"/>
+        <meta name="calibre:title_sort" content="General Historie of Virginia, New England &amp; the Summer Isles (Vol. I) / Together with the True Travels, Adventures and Observations, and a Sea Grammar, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

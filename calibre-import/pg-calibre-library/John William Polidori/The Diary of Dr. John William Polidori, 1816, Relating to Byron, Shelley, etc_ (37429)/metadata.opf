@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37429</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64a59412-d1ff-4d94-a229-e2f2f5e2f91b</dc:identifier>
+        <dc:title>The Diary of Dr. John William Polidori, 1816, Relating to Byron, Shelley, etc.</dc:title>
+        <dc:creator opf:file-as="Polidori, John William" opf:role="aut">John William Polidori</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55017</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Shelley</dc:subject>
+        <dc:subject>Percy Bysshe</dc:subject>
+        <dc:subject>1792-1822 -- Friends and associates</dc:subject>
+        <dc:subject>Byron</dc:subject>
+        <dc:subject>George Gordon Byron</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1788-1824 -- Friends and associates</dc:subject>
+        <dc:subject>Polidori</dc:subject>
+        <dc:subject>John William</dc:subject>
+        <dc:subject>1795-1821 -- Diaries</dc:subject>
+        <dc:subject>English -- Homes and haunts -- Europe</dc:subject>
+        <dc:subject>Europe -- Intellectual life -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John William Polidori&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:17:04.292808+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of Dr. John William Polidori, 1816, Relating to Byron, Shelley, etc., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5fbab86-afc8-47ac-b5eb-f1ad4ce5c48e</dc:identifier>
+        <dc:title>A Sentimental Journey Through France and Italy</dc:title>
+        <dc:creator opf:file-as="Sterne, Laurence" opf:role="aut">Laurence Sterne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/804</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Clergy -- Fiction</dc:subject>
+        <dc:subject>Italy -- Fiction</dc:subject>
+        <dc:subject>France -- Fiction</dc:subject>
+        <dc:subject>Travelers -- Fiction</dc:subject>
+        <dc:subject>British -- Italy -- Fiction</dc:subject>
+        <dc:subject>British -- France -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laurence Sterne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:04:17.904021+00:00"/>
+        <meta name="calibre:title_sort" content="Sentimental Journey Through France and Italy, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

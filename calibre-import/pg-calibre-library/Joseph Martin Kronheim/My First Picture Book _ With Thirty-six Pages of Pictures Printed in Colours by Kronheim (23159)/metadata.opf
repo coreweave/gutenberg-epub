@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d52aa36c-348d-4874-99f6-22f0b3be9cd6</dc:identifier>
+        <dc:title>My First Picture Book / With Thirty-six Pages of Pictures Printed in Colours by Kronheim</dc:title>
+        <dc:creator opf:file-as="Kronheim, Joseph Martin" opf:role="aut">Joseph Martin Kronheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18937</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Martin Kronheim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:10:16.524407+00:00"/>
+        <meta name="calibre:title_sort" content="My First Picture Book / With Thirty-six Pages of Pictures Printed in Colours by Kronheim"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

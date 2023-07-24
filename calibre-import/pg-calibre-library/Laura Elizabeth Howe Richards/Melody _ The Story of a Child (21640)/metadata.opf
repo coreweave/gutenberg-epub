@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d29ca7e1-3a59-4698-af6d-618d6574356a</dc:identifier>
+        <dc:title>Melody : The Story of a Child</dc:title>
+        <dc:creator opf:file-as="Richards, Laura Elizabeth Howe" opf:role="aut">Laura Elizabeth Howe Richards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7824</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Kindness -- Juvenile fiction</dc:subject>
+        <dc:subject>Sisters -- Juvenile fiction</dc:subject>
+        <dc:subject>Blind children -- Juvenile fiction</dc:subject>
+        <dc:subject>Women with disabilities -- Juvenile fiction</dc:subject>
+        <dc:subject>Singing -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laura Elizabeth Howe Richards&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:07:37.303586+00:00"/>
+        <meta name="calibre:title_sort" content="Melody : The Story of a Child"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80ad991c-1460-4435-915d-27deaad7743e</dc:identifier>
+        <dc:title>The Scandinavian Element in the United States / University of Illinois Studies in the Social Sciences, Vol. 111, No. 3, September, 1914</dc:title>
+        <dc:creator opf:file-as="Babcock, Kendric Charles" opf:role="aut">Kendric Charles Babcock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43939</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scandinavians -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kendric Charles Babcock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:13:55.726613+00:00"/>
+        <meta name="calibre:title_sort" content="Scandinavian Element in the United States / University of Illinois Studies in the Social Sciences, Vol. 111, No. 3, September, 1914, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

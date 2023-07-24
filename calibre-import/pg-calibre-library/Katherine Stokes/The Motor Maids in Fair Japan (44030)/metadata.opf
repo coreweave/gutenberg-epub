@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f4835c9-ec41-4d00-b964-e7420d2bb5de</dc:identifier>
+        <dc:title>The Motor Maids in Fair Japan</dc:title>
+        <dc:creator opf:file-as="Stokes, Katherine" opf:role="aut">Katherine Stokes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13450</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Travel -- Juvenile fiction</dc:subject>
+        <dc:subject>Women travelers -- Juvenile fiction</dc:subject>
+        <dc:subject>Japan -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Katherine Stokes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:12:35.518324+00:00"/>
+        <meta name="calibre:title_sort" content="Motor Maids in Fair Japan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

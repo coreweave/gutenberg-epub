@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a06926fa-be4c-4f23-bf8c-3d0b51dcb3b1</dc:identifier>
+        <dc:title>Marie Antoinette and Her Son</dc:title>
+        <dc:creator opf:file-as="Mühlbach, L. (Luise)" opf:role="aut">L. Mühlbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3451</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Marie Antoinette</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Louis XVI</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1755-1793 -- Fiction</dc:subject>
+        <dc:subject>Louis XVII</dc:subject>
+        <dc:subject>of France</dc:subject>
+        <dc:subject>1785-1795 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Mühlbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:48:20.902400+00:00"/>
+        <meta name="calibre:title_sort" content="Marie Antoinette and Her Son"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

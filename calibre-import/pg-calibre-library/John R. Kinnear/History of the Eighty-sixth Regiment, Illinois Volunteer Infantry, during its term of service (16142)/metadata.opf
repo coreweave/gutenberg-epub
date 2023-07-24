@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6962efe9-e5f8-476f-a7d2-fa809c3f9c8e</dc:identifier>
+        <dc:title>History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its term of service</dc:title>
+        <dc:creator opf:file-as="Kinnear, John R." opf:role="aut">John R. Kinnear</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24906</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories -- Illinois</dc:subject>
+        <dc:subject>United States. Army. Illinois Infantry Regiment</dc:subject>
+        <dc:subject>86th (1862-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John R. Kinnear&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:49:50.200362+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Eighty-sixth Regiment, Illinois Volunteer Infantry, during its term of service"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

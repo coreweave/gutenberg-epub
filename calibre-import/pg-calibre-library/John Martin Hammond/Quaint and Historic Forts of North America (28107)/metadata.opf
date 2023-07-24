@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46b35a1a-fded-4b9f-94a8-30ab5a8d6308</dc:identifier>
+        <dc:title>Quaint and Historic Forts of North America</dc:title>
+        <dc:creator opf:file-as="Hammond, John Martin" opf:role="aut">John Martin Hammond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54746</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historic buildings -- United States</dc:subject>
+        <dc:subject>Fortification -- United States</dc:subject>
+        <dc:subject>Fortification -- North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Martin Hammond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:43:36.001124+00:00"/>
+        <meta name="calibre:title_sort" content="Quaint and Historic Forts of North America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

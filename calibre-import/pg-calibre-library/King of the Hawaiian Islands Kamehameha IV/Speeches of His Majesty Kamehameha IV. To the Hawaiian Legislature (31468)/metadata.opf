@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36dbac40-a867-490f-b08f-b2d26902043b</dc:identifier>
+        <dc:title>Speeches of His Majesty Kamehameha IV. To the Hawaiian Legislature</dc:title>
+        <dc:creator opf:file-as="Kamehameha IV, King of the Hawaiian Islands" opf:role="aut">King of the Hawaiian Islands Kamehameha IV</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hawaii -- Politics and government -- To 1893</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;King of the Hawaiian Islands Kamehameha IV&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:21:25.612588+00:00"/>
+        <meta name="calibre:title_sort" content="Speeches of His Majesty Kamehameha IV. To the Hawaiian Legislature"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcc648fc-9f79-45b1-b189-e46105dee5a2</dc:identifier>
+        <dc:title>Bobby in Search of a Birthday</dc:title>
+        <dc:creator opf:file-as="Mitchell, Lebbeus" opf:role="aut">Lebbeus Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43569</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Birthdays -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lebbeus Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:45.520154+00:00"/>
+        <meta name="calibre:title_sort" content="Bobby in Search of a Birthday"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

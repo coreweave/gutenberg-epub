@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1926</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">579ac6de-ff48-42ab-9746-1ef62ee4ed57</dc:identifier>
+        <dc:title>A Narrative of the Captivity and Adventures of John Tanner (U.S. Interpreter at the Saut de Ste. Marie) / During Thirty Years Residence among the Indians in the Interior of North America</dc:title>
+        <dc:creator opf:file-as="Tanner, John" opf:role="aut">John Tanner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61291</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Languages -- Glossaries</dc:subject>
+        <dc:subject>vocabularies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Tanner</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1780?-1847</dc:subject>
+        <dc:subject>Indian captivities -- North America</dc:subject>
+        <dc:subject>Ottawa Indians -- History</dc:subject>
+        <dc:subject>Ojibwa Indians -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Tanner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:54.639163+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Captivity and Adventures of John Tanner (U.S. Interpreter at the Saut de Ste. Marie) / During Thirty Years Residence among the Indians in the Interior of North America, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

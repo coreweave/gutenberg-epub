@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d9bdbaf-e6e6-40ba-a863-d829a104f2d5</dc:identifier>
+        <dc:title>Ariadne Florentina: Six Lectures on Wood and Metal Engraving</dc:title>
+        <dc:creator opf:file-as="Ruskin, John" opf:role="aut">John Ruskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27268</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Engraving</dc:subject>
+        <dc:subject>Wood-engraving</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ruskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:53:17.340312+00:00"/>
+        <meta name="calibre:title_sort" content="Ariadne Florentina: Six Lectures on Wood and Metal Engraving"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5315ba65-e344-42cc-8f57-482839485416</dc:identifier>
+        <dc:title>The Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel</dc:title>
+        <dc:creator opf:file-as="Tańska-Hoffmanowa, Klementyna" opf:role="aut">Klementyna Tańska-Hoffmanowa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36660</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Diary fiction</dc:subject>
+        <dc:subject>Franciszka Krasińska</dc:subject>
+        <dc:subject>countess</dc:subject>
+        <dc:subject>consort of Charles</dc:subject>
+        <dc:subject>Duke of Courland</dc:subject>
+        <dc:subject>1743-1796 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Klementyna Tańska-Hoffmanowa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:41:34.957693+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of Countess Françoise Krasinska, Great Grandmother of Victor Emmanuel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

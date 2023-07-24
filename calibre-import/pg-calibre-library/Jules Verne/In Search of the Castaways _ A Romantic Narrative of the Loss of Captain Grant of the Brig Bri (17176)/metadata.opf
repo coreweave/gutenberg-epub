@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4cdf1f4-b940-42cc-a68c-737c6e5bfa81</dc:identifier>
+        <dc:title>In Search of the Castaways / A Romantic Narrative of the Loss of Captain Grant of the Brig Britannia and of the Adventures of His Children and Friends in His Discovery and Rescue</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46597</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Fiction</dc:subject>
+        <dc:subject>Ship captains -- Fiction</dc:subject>
+        <dc:subject>South America -- Fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Fiction</dc:subject>
+        <dc:subject>Seafaring life -- Fiction</dc:subject>
+        <dc:subject>Castaways -- Fiction</dc:subject>
+        <dc:subject>Ocean travel -- Fiction</dc:subject>
+        <dc:subject>New Zealand -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:24:36.077683+00:00"/>
+        <meta name="calibre:title_sort" content="In Search of the Castaways / A Romantic Narrative of the Loss of Captain Grant of the Brig Britannia and of the Adventures of His Children and Friends in His Discovery and Rescue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

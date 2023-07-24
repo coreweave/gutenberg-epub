@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3a23af9-7aab-49af-80ea-8e0238dc57b4</dc:identifier>
+        <dc:title>The Digger Movement in the Days of the Commonwealth / As Revealed in the Writings of Gerrard Winstanley, the Digger, Mystic and Rationalist, Communist and Social Reformer</dc:title>
+        <dc:creator opf:file-as="Berens, Lewis Henry" opf:role="aut">Lewis Henry Berens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17480</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Communism</dc:subject>
+        <dc:subject>Winstanley</dc:subject>
+        <dc:subject>Gerrard</dc:subject>
+        <dc:subject>1609-</dc:subject>
+        <dc:subject>Land use</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis Henry Berens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:18:28.372906+00:00"/>
+        <meta name="calibre:title_sort" content="Digger Movement in the Days of the Commonwealth / As Revealed in the Writings of Gerrard Winstanley, the Digger, Mystic and Rationalist, Communist and Social Reformer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

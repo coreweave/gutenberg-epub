@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32411c5a-6f0e-4355-9eaa-e2ff2748cb11</dc:identifier>
+        <dc:title>"Trip to the Sunny South" in March, 1885 / Paris, Macon, Geneva, Mentone, San Remo, Monte Carlo, Monaco, Italy, Genoa, Turin, Leghorn, Pisa, Naples, Rome, Reggio, Sicily, Messina, Catania, Syracuse, Malta, Gibraltar</dc:title>
+        <dc:creator opf:file-as="D., L. S." opf:role="aut">L. S. D.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56884</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Mediterranean Region -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. S. D.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:28:51.137205+00:00"/>
+        <meta name="calibre:title_sort" content="Trip to the Sunny South&quot; in March, 1885 / Paris, Macon, Geneva, Mentone, San Remo, Monte Carlo, Monaco, Italy, Genoa, Turin, Leghorn, Pisa, Naples, Rome, Reggio, Sicily, Messina, Catania, Syracuse, Malta, Gibraltar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

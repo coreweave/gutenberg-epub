@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b8a80a7-a7e2-40a0-8ce8-91e818771e70</dc:identifier>
+        <dc:title>An Apache Campaign in the Sierra Madre / An Account of the Expedition in Pursuit of the Hostile Chiricahua Apaches in the Spring of 1883</dc:title>
+        <dc:creator opf:file-as="Bourke, John Gregory" opf:role="aut">John Gregory Bourke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65040</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Apache Indians -- Wars</dc:subject>
+        <dc:subject>1883-1886</dc:subject>
+        <dc:subject>Chiricahua Indians -- Wars</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Gregory Bourke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:37:44.311344+00:00"/>
+        <meta name="calibre:title_sort" content="Apache Campaign in the Sierra Madre / An Account of the Expedition in Pursuit of the Hostile Chiricahua Apaches in the Spring of 1883, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

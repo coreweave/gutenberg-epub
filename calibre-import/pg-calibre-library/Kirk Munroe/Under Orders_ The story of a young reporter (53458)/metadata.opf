@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e321e35-92af-47fd-a483-d3fc008319ab</dc:identifier>
+        <dc:title>Under Orders: The story of a young reporter</dc:title>
+        <dc:creator opf:file-as="Munroe, Kirk" opf:role="aut">Kirk Munroe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49492</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poor -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Diligence -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Newspaper publishing -- Juvenile fiction</dc:subject>
+        <dc:subject>Street life -- Juvenile fiction</dc:subject>
+        <dc:subject>Journalists -- Juvenile fiction</dc:subject>
+        <dc:subject>Mortgages -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kirk Munroe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:47:47.689922+00:00"/>
+        <meta name="calibre:title_sort" content="Under Orders: The story of a young reporter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

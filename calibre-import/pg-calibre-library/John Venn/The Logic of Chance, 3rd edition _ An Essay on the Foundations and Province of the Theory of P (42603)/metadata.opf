@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f9bdafb-f18f-4497-a9c9-91434e8c7e58</dc:identifier>
+        <dc:title>The Logic of Chance, 3rd edition / An Essay on the Foundations and Province of the Theory of Probability, With Especial Reference to Its Logical Bearings and Its Application to Moral and Social Science and to Statistics</dc:title>
+        <dc:creator opf:file-as="Venn, John" opf:role="aut">John Venn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57359</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- Methodology</dc:subject>
+        <dc:subject>Logic</dc:subject>
+        <dc:subject>Symbolic and mathematical</dc:subject>
+        <dc:subject>Probabilities</dc:subject>
+        <dc:subject>Chance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Venn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:53:06.824289+00:00"/>
+        <meta name="calibre:title_sort" content="Logic of Chance, 3rd edition / An Essay on the Foundations and Province of the Theory of Probability, With Especial Reference to Its Logical Bearings and Its Application to Moral and Social Science and to Statistics, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">696fc285-758b-4928-a325-7f6a1a8b2b3a</dc:identifier>
+        <dc:title>The Royal Picture Alphabet</dc:title>
+        <dc:creator opf:file-as="Leighton, John" opf:role="aut">John Leighton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23619</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alphabets</dc:subject>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Wit and humor</dc:subject>
+        <dc:subject>Juvenile</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Leighton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:03:43.996288+00:00"/>
+        <meta name="calibre:title_sort" content="Royal Picture Alphabet, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

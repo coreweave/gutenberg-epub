@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0937cb70-afe6-447e-b941-bdf20df63723</dc:identifier>
+        <dc:title>Fifty Notable Years / Views of the Ministry of Christian Universalism During the Last Half-Century; with Biographical Sketches</dc:title>
+        <dc:creator opf:file-as="Adams, John G. (John Greenleaf)" opf:role="aut">John G. Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45034</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Universalism</dc:subject>
+        <dc:subject>Universalist Church -- Biography</dc:subject>
+        <dc:subject>Universalists -- United States -- History</dc:subject>
+        <dc:subject>Universalists -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John G. Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:00:32.137633+00:00"/>
+        <meta name="calibre:title_sort" content="Fifty Notable Years / Views of the Ministry of Christian Universalism During the Last Half-Century; with Biographical Sketches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

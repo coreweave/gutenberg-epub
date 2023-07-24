@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1468e817-8758-4ab1-a64f-4dc2b38748fa</dc:identifier>
+        <dc:title>Items on the Priesthood, presented to the Latter-day Saints</dc:title>
+        <dc:creator opf:file-as="Taylor, John" opf:role="aut">John Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46221</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormons -- Controversial literature</dc:subject>
+        <dc:subject>Mormons -- Doctrines</dc:subject>
+        <dc:subject>Aaronic Priesthood (Mormon Church)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:53:40.044847+00:00"/>
+        <meta name="calibre:title_sort" content="Items on the Priesthood, presented to the Latter-day Saints"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

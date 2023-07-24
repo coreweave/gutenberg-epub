@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d3d2b2d-cf5b-41d7-afae-2367784d5d7c</dc:identifier>
+        <dc:title>History of the Church of Jesus Christ of Latter-day Saints, Volume 4</dc:title>
+        <dc:creator opf:file-as="Smith, Joseph, Jr." opf:role="aut">Jr. Joseph Smith</dc:creator>
+        <dc:creator opf:file-as="Smith, Joseph, Jr." opf:role="aut">Church of Jesus Christ of Latter-day Saints</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60708</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Smith</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>Jr.</dc:subject>
+        <dc:subject>1805-1844</dc:subject>
+        <dc:subject>Church of Jesus Christ of Latter-day Saints</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. Joseph Smith&quot;: &quot;&quot;, &quot;Church of Jesus Christ of Latter-day Saints&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:48:44.946847+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Church of Jesus Christ of Latter-day Saints, Volume 4"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

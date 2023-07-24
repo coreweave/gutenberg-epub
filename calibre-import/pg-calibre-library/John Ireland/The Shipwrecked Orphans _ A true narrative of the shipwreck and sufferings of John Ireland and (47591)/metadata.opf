@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5d5b815-7be9-47a7-94a2-9dc9e6cae060</dc:identifier>
+        <dc:title>The Shipwrecked Orphans / A true narrative of the shipwreck and sufferings of John Ireland and William Doyley, who were wrecked in the ship Charles Eaton, on an island in the South Seas</dc:title>
+        <dc:creator opf:file-as="Ireland, John (Seaman)" opf:role="aut">John Ireland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57515</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland</dc:subject>
+        <dc:subject>John (Seaman) -- Captivity</dc:subject>
+        <dc:subject>Doyley</dc:subject>
+        <dc:subject>William -- Captivity</dc:subject>
+        <dc:subject>Charles Eaton (Ship)</dc:subject>
+        <dc:subject>Shipwrecks -- Torres Strait</dc:subject>
+        <dc:subject>Shipwreck survival -- Torres Strait</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ireland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:39:16.645314+00:00"/>
+        <meta name="calibre:title_sort" content="Shipwrecked Orphans / A true narrative of the shipwreck and sufferings of John Ireland and William Doyley, who were wrecked in the ship Charles Eaton, on an island in the South Seas, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

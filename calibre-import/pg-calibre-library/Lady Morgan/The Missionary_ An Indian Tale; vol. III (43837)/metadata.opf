@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f23990ce-9bfe-407b-a66d-f663b7f1cdd6</dc:identifier>
+        <dc:title>The Missionary: An Indian Tale; vol. III</dc:title>
+        <dc:creator opf:file-as="Morgan, Lady (Sydney)" opf:role="aut">Lady Morgan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48744</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Missionaries -- Fiction</dc:subject>
+        <dc:subject>India -- History -- 1526-1765 -- Fiction</dc:subject>
+        <dc:subject>Portuguese -- India -- Fiction</dc:subject>
+        <dc:subject>Women prophets -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Morgan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:01:51.548055+00:00"/>
+        <meta name="calibre:title_sort" content="Missionary: An Indian Tale; vol. III, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

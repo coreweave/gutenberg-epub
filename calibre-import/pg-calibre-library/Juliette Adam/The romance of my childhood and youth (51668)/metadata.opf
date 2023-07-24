@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6927db58-85d3-4f79-aa55-0cb56347d9dd</dc:identifier>
+        <dc:title>The romance of my childhood and youth</dc:title>
+        <dc:creator opf:file-as="Adam, Juliette" opf:role="aut">Juliette Adam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>French -- Biography</dc:subject>
+        <dc:subject>Adam</dc:subject>
+        <dc:subject>Juliette</dc:subject>
+        <dc:subject>1836-1936</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Juliette Adam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:53:16.466480+00:00"/>
+        <meta name="calibre:title_sort" content="romance of my childhood and youth, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

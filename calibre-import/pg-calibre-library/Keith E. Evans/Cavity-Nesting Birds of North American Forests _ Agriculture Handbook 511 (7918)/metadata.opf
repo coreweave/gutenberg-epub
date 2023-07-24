@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7918</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8108441-a272-45a9-b3e6-cb9e3d823963</dc:identifier>
+        <dc:title>Cavity-Nesting Birds of North American Forests / Agriculture Handbook 511</dc:title>
+        <dc:creator opf:file-as="Evans, Keith E." opf:role="aut">Keith E. Evans</dc:creator>
+        <dc:creator opf:file-as="Evans, Keith E." opf:role="aut">David R. Patton</dc:creator>
+        <dc:creator opf:file-as="Evans, Keith E." opf:role="aut">Virgil E. Scott</dc:creator>
+        <dc:creator opf:file-as="Evans, Keith E." opf:role="aut">Charles P. Stone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49172</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- Nests</dc:subject>
+        <dc:subject>Birds -- North America</dc:subject>
+        <dc:subject>Forest birds -- North America</dc:subject>
+        <dc:subject>Cavity-nesting birds -- North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Keith E. Evans&quot;: &quot;&quot;, &quot;David R. Patton&quot;: &quot;&quot;, &quot;Virgil E. Scott&quot;: &quot;&quot;, &quot;Charles P. Stone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:56:15.319306+00:00"/>
+        <meta name="calibre:title_sort" content="Cavity-Nesting Birds of North American Forests / Agriculture Handbook 511"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

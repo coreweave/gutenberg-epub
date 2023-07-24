@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e7edcff-dc6a-4c6e-afa4-a75241268dd5</dc:identifier>
+        <dc:title>Letters of John Keats to Fanny Brawne / Written in the years MDCCCXIX and MDCCCXX and now given from the original manuscripts</dc:title>
+        <dc:creator opf:file-as="Keats, John" opf:role="aut">John Keats</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60433</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 19th century -- Correspondence</dc:subject>
+        <dc:subject>Keats</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1795-1821 -- Correspondence</dc:subject>
+        <dc:subject>Brawne</dc:subject>
+        <dc:subject>Fanny</dc:subject>
+        <dc:subject>1800-1865 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Keats&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:50:23.775973+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of John Keats to Fanny Brawne / Written in the years MDCCCXIX and MDCCCXX and now given from the original manuscripts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

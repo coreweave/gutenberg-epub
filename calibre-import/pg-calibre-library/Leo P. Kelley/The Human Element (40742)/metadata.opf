@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">177a11a5-bd63-4056-9def-a530c8832c04</dc:identifier>
+        <dc:title>The Human Element</dc:title>
+        <dc:creator opf:file-as="Kelley, Leo P." opf:role="aut">Leo P. Kelley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59982</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Circus -- Fiction</dc:subject>
+        <dc:subject>Clowns -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leo P. Kelley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:10:45.892718+00:00"/>
+        <meta name="calibre:title_sort" content="Human Element, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

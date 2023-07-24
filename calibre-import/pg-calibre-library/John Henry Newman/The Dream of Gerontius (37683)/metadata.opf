@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4cefc94-a33f-45b0-a873-15365d5d3d6e</dc:identifier>
+        <dc:title>The Dream of Gerontius</dc:title>
+        <dc:creator opf:file-as="Newman, John Henry" opf:role="aut">John Henry Newman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48927</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian poetry</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Henry Newman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:30:14.808135+00:00"/>
+        <meta name="calibre:title_sort" content="Dream of Gerontius, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

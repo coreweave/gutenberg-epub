@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1b0be19-d1d2-43aa-a91c-285f61bf7ce8</dc:identifier>
+        <dc:title>Journals of Two Expeditions into the Interior of New South Wales</dc:title>
+        <dc:creator opf:file-as="Oxley, John" opf:role="aut">John Oxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5334</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New South Wales -- Discovery and exploration</dc:subject>
+        <dc:subject>Oxley</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1783-1828</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Oxley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:15:27.690476+00:00"/>
+        <meta name="calibre:title_sort" content="Journals of Two Expeditions into the Interior of New South Wales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

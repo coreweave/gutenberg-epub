@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9d81a10-d918-44ab-ac6c-721cf06e7f41</dc:identifier>
+        <dc:title>The Story of Sir Francis Drake</dc:title>
+        <dc:creator opf:file-as="Elton, Letitia MacColl" opf:role="aut">Letitia MacColl Elton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drake</dc:subject>
+        <dc:subject>Francis</dc:subject>
+        <dc:subject>approximately 1540-1596 -- Juvenile literature</dc:subject>
+        <dc:subject>Explorers -- Great Britain -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>Admirals -- Great Britain -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Naval -- Tudors</dc:subject>
+        <dc:subject>1485-1603 -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>Great Britain -- History -- Elizabeth</dc:subject>
+        <dc:subject>1558-1603 -- Biography -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Letitia MacColl Elton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:24:43.419508+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Sir Francis Drake, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

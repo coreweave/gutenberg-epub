@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8841de2-3711-4ca4-bdb2-6c8482dab318</dc:identifier>
+        <dc:title>The Adventures of a Special Correspondent Among the Various Races and Countries of Central Asia / Being the Exploits and Experiences of Claudius Bombarnac of "The Twentieth Century"</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11263</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Fiction</dc:subject>
+        <dc:subject>Reporters and reporting -- Fiction</dc:subject>
+        <dc:subject>Railroad travel -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:45:30.630990+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of a Special Correspondent Among the Various Races and Countries of Central Asia / Being the Exploits and Experiences of Claudius Bombarnac of &quot;The Twentieth Century&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f43a264-645e-4363-a70b-a7b8273cb930</dc:identifier>
+        <dc:title>Modern Skepticism: A Journey Through the Land of Doubt and Back Again / A Life Story</dc:title>
+        <dc:creator opf:file-as="Barker, Joseph" opf:role="aut">Joseph Barker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18675</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Barker</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1806-1875</dc:subject>
+        <dc:subject>Methodist Church -- Clergy -- Biography</dc:subject>
+        <dc:subject>Skepticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Barker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:39:01.909484+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Skepticism: A Journey Through the Land of Doubt and Back Again / A Life Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

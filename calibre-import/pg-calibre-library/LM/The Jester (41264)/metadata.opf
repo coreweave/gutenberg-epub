@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b169e90-6059-4397-956e-b1be42669969</dc:identifier>
+        <dc:title>The Jester</dc:title>
+        <dc:creator opf:file-as="LM (Leslie Moore)" opf:role="aut">LM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59648</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Fools and jesters -- Fiction</dc:subject>
+        <dc:subject>France -- History -- Medieval period</dc:subject>
+        <dc:subject>987-1515 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;LM&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:38:54.990105+00:00"/>
+        <meta name="calibre:title_sort" content="Jester, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

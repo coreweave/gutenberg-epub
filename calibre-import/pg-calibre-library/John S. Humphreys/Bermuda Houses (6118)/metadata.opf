@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bea14d6c-f556-4018-b3a9-98c7a45fe8f6</dc:identifier>
+        <dc:title>Bermuda Houses</dc:title>
+        <dc:creator opf:file-as="Humphreys, John S. (John Sanford)" opf:role="aut">John S. Humphreys</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61736</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Domestic -- Bermuda Islands</dc:subject>
+        <dc:subject>Vernacular architecture -- Bermuda Islands</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John S. Humphreys&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:15:26.659849+00:00"/>
+        <meta name="calibre:title_sort" content="Bermuda Houses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

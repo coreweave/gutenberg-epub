@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c43d6006-8262-4060-b070-355a05f27a3c</dc:identifier>
+        <dc:title>Forty Years in South China: The Life of Rev. John Van Nest Talmage, D.D.</dc:title>
+        <dc:creator opf:file-as="Fagg, John Gerardus" opf:role="aut">John Gerardus Fagg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Missions -- China</dc:subject>
+        <dc:subject>Talmage</dc:subject>
+        <dc:subject>John Van Nest</dc:subject>
+        <dc:subject>1819-1892</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Gerardus Fagg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:15:42.084219+00:00"/>
+        <meta name="calibre:title_sort" content="Forty Years in South China: The Life of Rev. John Van Nest Talmage, D.D."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

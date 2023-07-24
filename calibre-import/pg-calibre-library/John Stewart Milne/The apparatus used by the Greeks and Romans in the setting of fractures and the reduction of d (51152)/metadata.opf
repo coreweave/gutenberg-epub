@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b7bc16a-2bc1-4815-9417-060948876743</dc:identifier>
+        <dc:title>The apparatus used by the Greeks and Romans in the setting of fractures and the reduction of dislocations</dc:title>
+        <dc:creator opf:file-as="Milne, John Stewart" opf:role="aut">John Stewart Milne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69222</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fractures -- Treatment -- History</dc:subject>
+        <dc:subject>Dislocations -- Treatment -- History</dc:subject>
+        <dc:subject>Surgical instruments and apparatus -- Rome</dc:subject>
+        <dc:subject>Surgical instruments and apparatus -- Greece</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Stewart Milne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:19:44.444955+00:00"/>
+        <meta name="calibre:title_sort" content="apparatus used by the Greeks and Romans in the setting of fractures and the reduction of dislocations, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

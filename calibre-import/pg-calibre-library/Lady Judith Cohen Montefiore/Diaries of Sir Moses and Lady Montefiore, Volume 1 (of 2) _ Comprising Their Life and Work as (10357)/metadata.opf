@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10357</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56ee1891-9ed1-4b2c-94d3-ff42d239ae4a</dc:identifier>
+        <dc:title>Diaries of Sir Moses and Lady Montefiore, Volume 1 (of 2) / Comprising Their Life and Work as Recorded in Their Diaries, from 1812 to 1883</dc:title>
+        <dc:creator opf:file-as="Montefiore, Judith Cohen, Lady" opf:role="aut">Lady Judith Cohen Montefiore</dc:creator>
+        <dc:creator opf:file-as="Montefiore, Judith Cohen, Lady" opf:role="aut">Sir Moses Montefiore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26170</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jews -- Biography</dc:subject>
+        <dc:subject>Palestine -- History</dc:subject>
+        <dc:subject>Diaries</dc:subject>
+        <dc:subject>Jews -- Europe</dc:subject>
+        <dc:subject>Montefiore</dc:subject>
+        <dc:subject>Judith Cohen</dc:subject>
+        <dc:subject>Lady</dc:subject>
+        <dc:subject>-1862</dc:subject>
+        <dc:subject>Moses</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1784-1885</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Judith Cohen Montefiore&quot;: &quot;&quot;, &quot;Sir Moses Montefiore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:57:28.259207+00:00"/>
+        <meta name="calibre:title_sort" content="Diaries of Sir Moses and Lady Montefiore, Volume 1 (of 2) / Comprising Their Life and Work as Recorded in Their Diaries, from 1812 to 1883"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

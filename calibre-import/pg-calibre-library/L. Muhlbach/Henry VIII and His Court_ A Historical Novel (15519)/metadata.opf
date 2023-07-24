@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7869fb5e-9e42-49c8-9ddd-0e9c21df288f</dc:identifier>
+        <dc:title>Henry VIII and His Court: A Historical Novel</dc:title>
+        <dc:creator opf:file-as="Mühlbach, L. (Luise)" opf:role="aut">L. Mühlbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3476</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Henry VIII</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1491-1547 -- Fiction</dc:subject>
+        <dc:subject>Catharine Parr</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Henry VIII</dc:subject>
+        <dc:subject>1512-1548 -- Fiction</dc:subject>
+        <dc:subject>Courts and courtiers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Mühlbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:29:20.149285+00:00"/>
+        <meta name="calibre:title_sort" content="Henry VIII and His Court: A Historical Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

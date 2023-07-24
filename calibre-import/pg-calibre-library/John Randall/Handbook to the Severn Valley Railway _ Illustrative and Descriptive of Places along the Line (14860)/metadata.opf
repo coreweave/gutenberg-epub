@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14860</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13be7392-afdc-44f1-8127-7e8d6c0bcc43</dc:identifier>
+        <dc:title>Handbook to the Severn Valley Railway / Illustrative and Descriptive of Places along the Line from Worcester to Shrewsbury</dc:title>
+        <dc:creator opf:file-as="Randall, John" opf:role="aut">John Randall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17612</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Severn Valley Railway</dc:subject>
+        <dc:subject>Railroads -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Randall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:08:01.036956+00:00"/>
+        <meta name="calibre:title_sort" content="Handbook to the Severn Valley Railway / Illustrative and Descriptive of Places along the Line from Worcester to Shrewsbury"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

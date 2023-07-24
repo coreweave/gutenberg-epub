@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48046</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5be4d26-0c81-4746-a783-e37bb4efd581</dc:identifier>
+        <dc:title>The Sports and Pastimes of the People of England / Including the Rural and Domestic Recreations, May Games, Mummeries, Shows, Processions, Pageants, and Pompous Spectacles from the Earliest Period to the Present Time</dc:title>
+        <dc:creator opf:file-as="Strutt, Joseph" opf:role="aut">Joseph Strutt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48983</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs</dc:subject>
+        <dc:subject>Popular culture -- England</dc:subject>
+        <dc:subject>Games -- England -- History</dc:subject>
+        <dc:subject>Sports -- England -- History</dc:subject>
+        <dc:subject>Pageants -- England -- History</dc:subject>
+        <dc:subject>Processions -- England -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Strutt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:06:03.881441+00:00"/>
+        <meta name="calibre:title_sort" content="Sports and Pastimes of the People of England / Including the Rural and Domestic Recreations, May Games, Mummeries, Shows, Processions, Pageants, and Pompous Spectacles from the Earliest Period to the Present Time, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

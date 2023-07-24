@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d27ddab3-7426-4869-8ef7-8d12c3e0dd0d</dc:identifier>
+        <dc:title>Among unknown Eskimo / An account of twelve years intimate relations with the primitive Eskimo of ice-bound Baffin Land, with a description of their ways of living, hunting customs &amp; beliefs</dc:title>
+        <dc:creator opf:file-as="Bilby, Julian W." opf:role="aut">Julian W. Bilby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68177</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Eskimo mythology</dc:subject>
+        <dc:subject>Eskimos -- Religion</dc:subject>
+        <dc:subject>Baffin Island (Nunavut)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julian W. Bilby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:35:28.674455+00:00"/>
+        <meta name="calibre:title_sort" content="Among unknown Eskimo / An account of twelve years intimate relations with the primitive Eskimo of ice-bound Baffin Land, with a description of their ways of living, hunting customs &amp; beliefs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">613a9a42-6f5e-46d1-bf1d-88e864b9fcce</dc:identifier>
+        <dc:title>The urine dance of the Zuni Indians of New Mexico</dc:title>
+        <dc:creator opf:file-as="Bourke, John Gregory" opf:role="aut">John Gregory Bourke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68519</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zuni Indians</dc:subject>
+        <dc:subject>Urine dance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Gregory Bourke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:02:15.256618+00:00"/>
+        <meta name="calibre:title_sort" content="urine dance of the Zuni Indians of New Mexico, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

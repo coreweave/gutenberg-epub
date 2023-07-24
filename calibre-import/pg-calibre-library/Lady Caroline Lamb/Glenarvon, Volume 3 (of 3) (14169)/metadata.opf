@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a23f62f9-6a92-402e-9e64-6503777b528c</dc:identifier>
+        <dc:title>Glenarvon, Volume 3 (of 3)</dc:title>
+        <dc:creator opf:file-as="Lamb, Caroline, Lady" opf:role="aut">Lady Caroline Lamb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68776</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gothic fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Ireland -- History -- Rebellion of 1798 -- Fiction</dc:subject>
+        <dc:subject>Romans à clef</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Caroline Lamb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:46:09.383993+00:00"/>
+        <meta name="calibre:title_sort" content="Glenarvon, Volume 3 (of 3)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

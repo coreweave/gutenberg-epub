@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4fc29f6-7d05-4cab-832d-902e32c1e1c8</dc:identifier>
+        <dc:title>An Etymological Dictionary of the Scottish Language / in which the words are explained in their different senses, authorized by the names of the writers by whom they are used, or the titles of the works in which they occur, and deduced from their originals</dc:title>
+        <dc:creator opf:file-as="Jamieson, John" opf:role="aut">John Jamieson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40521</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scots language -- Etymology -- Dictionaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Jamieson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:40:55.266259+00:00"/>
+        <meta name="calibre:title_sort" content="Etymological Dictionary of the Scottish Language / in which the words are explained in their different senses, authorized by the names of the writers by whom they are used, or the titles of the works in which they occur, and deduced from their originals, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

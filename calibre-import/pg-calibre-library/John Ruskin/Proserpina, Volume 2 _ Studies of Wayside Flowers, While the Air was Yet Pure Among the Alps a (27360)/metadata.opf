@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b875cfc1-676a-41a7-9afe-afb443a0feb3</dc:identifier>
+        <dc:title>Proserpina, Volume 2 / Studies of Wayside Flowers, While the Air was Yet Pure Among the Alps and in the Scotland and England Which My Father Knew</dc:title>
+        <dc:creator opf:file-as="Ruskin, John" opf:role="aut">John Ruskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15088</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plants</dc:subject>
+        <dc:subject>Flowers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ruskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:10:22.675493+00:00"/>
+        <meta name="calibre:title_sort" content="Proserpina, Volume 2 / Studies of Wayside Flowers, While the Air was Yet Pure Among the Alps and in the Scotland and England Which My Father Knew"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53007</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4624af4-6e0b-4c96-9142-b1939a4dc689</dc:identifier>
+        <dc:title>Tuen, Slave and Empress</dc:title>
+        <dc:creator opf:file-as="Nelson, Kathleen Gray" opf:role="aut">Kathleen Gray Nelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58369</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Cixi</dc:subject>
+        <dc:subject>Empress dowager of China</dc:subject>
+        <dc:subject>1835-1908 -- Fiction</dc:subject>
+        <dc:subject>Empresses -- Fiction</dc:subject>
+        <dc:subject>China -- History -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kathleen Gray Nelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:18:50.990031+00:00"/>
+        <meta name="calibre:title_sort" content="Tuen, Slave and Empress"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

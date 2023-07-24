@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28873670-ff94-4a57-9463-fa15d03649cc</dc:identifier>
+        <dc:title>Voyage of the Liberdade</dc:title>
+        <dc:creator opf:file-as="Slocum, Joshua" opf:role="aut">Joshua Slocum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18541</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels</dc:subject>
+        <dc:subject>Slocum</dc:subject>
+        <dc:subject>Joshua</dc:subject>
+        <dc:subject>1844- -- Travel</dc:subject>
+        <dc:subject>Liberdade (Ship)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joshua Slocum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:20:30.643802+00:00"/>
+        <meta name="calibre:title_sort" content="Voyage of the Liberdade"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

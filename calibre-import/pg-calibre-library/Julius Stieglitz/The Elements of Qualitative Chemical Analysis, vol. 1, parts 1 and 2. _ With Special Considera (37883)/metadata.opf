@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eddfe666-4bdf-4f3d-9ead-34fd6cbb899a</dc:identifier>
+        <dc:title>The Elements of Qualitative Chemical Analysis, vol. 1, parts 1 and 2. / With Special Consideration of the Application of the Laws of Equilibrium and of the Modern Theories of Solution.</dc:title>
+        <dc:creator opf:file-as="Stieglitz, Julius" opf:role="aut">Julius Stieglitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44986</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chemistry</dc:subject>
+        <dc:subject>Analytic -- Qualitative</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julius Stieglitz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:40:31.225548+00:00"/>
+        <meta name="calibre:title_sort" content="Elements of Qualitative Chemical Analysis, vol. 1, parts 1 and 2. / With Special Consideration of the Application of the Laws of Equilibrium and of the Modern Theories of Solution., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

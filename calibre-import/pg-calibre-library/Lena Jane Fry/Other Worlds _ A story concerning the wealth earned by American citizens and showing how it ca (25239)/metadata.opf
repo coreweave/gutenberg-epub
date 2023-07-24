@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0afed5db-9dc1-45f4-b864-87494fe0372c</dc:identifier>
+        <dc:title>Other Worlds / A story concerning the wealth earned by American citizens and showing how it can be secured to them instead of to the trusts</dc:title>
+        <dc:creator opf:file-as="Fry, Lena Jane" opf:role="aut">Lena Jane Fry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wealth</dc:subject>
+        <dc:subject>Trusts</dc:subject>
+        <dc:subject>Industrial</dc:subject>
+        <dc:subject>Distribution (Economic theory)</dc:subject>
+        <dc:subject>Utopias -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lena Jane Fry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:38:29.697263+00:00"/>
+        <meta name="calibre:title_sort" content="Other Worlds / A story concerning the wealth earned by American citizens and showing how it can be secured to them instead of to the trusts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

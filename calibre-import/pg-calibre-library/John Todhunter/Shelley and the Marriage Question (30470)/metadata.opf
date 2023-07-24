@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fb18003-677c-4e9e-a7fe-a2e52c19bf3b</dc:identifier>
+        <dc:title>Shelley and the Marriage Question</dc:title>
+        <dc:creator opf:file-as="Todhunter, John" opf:role="aut">John Todhunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34085</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shelley</dc:subject>
+        <dc:subject>Percy Bysshe</dc:subject>
+        <dc:subject>1792-1822</dc:subject>
+        <dc:subject>Marriage -- Moral and ethical aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Todhunter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:34:16.667747+00:00"/>
+        <meta name="calibre:title_sort" content="Shelley and the Marriage Question"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61a2a0c5-9a3b-4db1-9697-ac988b1fe04d</dc:identifier>
+        <dc:title>The Discovery of America Vol. 1 (of 2) / with some account of Ancient America and the Spanish Conquest</dc:title>
+        <dc:creator opf:file-as="Fiske, John" opf:role="aut">John Fiske</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Latin America -- History</dc:subject>
+        <dc:subject>America -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Fiske&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:20:11.103510+00:00"/>
+        <meta name="calibre:title_sort" content="Discovery of America Vol. 1 (of 2) / with some account of Ancient America and the Spanish Conquest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

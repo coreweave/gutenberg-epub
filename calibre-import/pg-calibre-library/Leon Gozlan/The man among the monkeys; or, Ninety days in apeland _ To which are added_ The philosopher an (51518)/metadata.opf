@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa7d49d5-26ed-4116-813a-4f98dd8f80c7</dc:identifier>
+        <dc:title>The man among the monkeys; or, Ninety days in apeland / To which are added: The philosopher and his monkeys, The professor and the crocodile, and other strange stories of men and animals</dc:title>
+        <dc:creator opf:file-as="Gozlan, Léon" opf:role="aut">Léon Gozlan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68059</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwreck survival -- Juvenile fiction</dc:subject>
+        <dc:subject>Monkeys -- Juvenile fiction</dc:subject>
+        <dc:subject>Robinsonades</dc:subject>
+        <dc:subject>Human-animal relationships -- Juvenile fiction</dc:subject>
+        <dc:subject>Survival -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Léon Gozlan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:43:41.363438+00:00"/>
+        <meta name="calibre:title_sort" content="man among the monkeys; or, Ninety days in apeland / To which are added: The philosopher and his monkeys, The professor and the crocodile, and other strange stories of men and animals, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

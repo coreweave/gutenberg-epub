@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52021</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4160df8-cd03-41ec-b451-73408aa2508f</dc:identifier>
+        <dc:title>Thomas Carlyle</dc:title>
+        <dc:creator opf:file-as="Nichol, John" opf:role="aut">John Nichol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Carlyle</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1795-1881</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Scottish -- 19th century -- Biography</dc:subject>
+        <dc:subject>Historians -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Nichol&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:16:10.768015+00:00"/>
+        <meta name="calibre:title_sort" content="Thomas Carlyle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

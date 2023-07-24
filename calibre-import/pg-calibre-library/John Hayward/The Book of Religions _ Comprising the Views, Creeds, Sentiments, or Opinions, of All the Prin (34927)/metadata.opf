@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ae1d724-be98-40c5-a8f7-8fc145a69a66</dc:identifier>
+        <dc:title>The Book of Religions / Comprising the Views, Creeds, Sentiments, or Opinions, of All the Principal Religious Sects in the World, Particularly of All Christian Denominations in Europe and America, to Which are Added Church and Missionary Statistics, Together With Biographical Sketches</dc:title>
+        <dc:creator opf:file-as="Hayward, John" opf:role="aut">John Hayward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30323</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religions</dc:subject>
+        <dc:subject>Sects</dc:subject>
+        <dc:subject>Christian biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Hayward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:11:05.728743+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Religions / Comprising the Views, Creeds, Sentiments, or Opinions, of All the Principal Religious Sects in the World, Particularly of All Christian Denominations in Europe and America, to Which are Added Church and Missionary Statistics, Together With Biographical Sketches, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

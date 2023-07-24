@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">677668d4-92d2-4d50-8546-1be8e3197f55</dc:identifier>
+        <dc:title>Historic Homes, Fort Dodge, Iowa</dc:title>
+        <dc:creator opf:file-as="Haugen, Karl F." opf:role="aut">Karl F. Haugen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historic buildings -- Iowa -- Fort Dodge</dc:subject>
+        <dc:subject>Dwellings -- Iowa -- Fort Dodge</dc:subject>
+        <dc:subject>Fort Dodge (Iowa) -- Buildings</dc:subject>
+        <dc:subject>structures</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karl F. Haugen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:38:59.558611+00:00"/>
+        <meta name="calibre:title_sort" content="Historic Homes, Fort Dodge, Iowa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

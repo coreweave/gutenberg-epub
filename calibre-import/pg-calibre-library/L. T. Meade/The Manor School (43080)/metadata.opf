@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1d3f748-a171-4444-ba4f-9c023262d1da</dc:identifier>
+        <dc:title>The Manor School</dc:title>
+        <dc:creator opf:file-as="Meade, L. T." opf:role="aut">L. T. Meade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61878</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boarding schools -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Social classes -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>Runaway children -- Juvenile fiction</dc:subject>
+        <dc:subject>Only child -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. T. Meade&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:19:23.995274+00:00"/>
+        <meta name="calibre:title_sort" content="Manor School, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

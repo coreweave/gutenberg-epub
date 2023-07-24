@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c7bccc8-a090-494b-b997-e5312b2d9e1b</dc:identifier>
+        <dc:title>Superstitions of the Highlands &amp; Islands of Scotland / Collected Entirely from Oral Sources</dc:title>
+        <dc:creator opf:file-as="Campbell, John Gregorson" opf:role="aut">John Gregorson Campbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61730</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- Scotland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Gregorson Campbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:01:06.833052+00:00"/>
+        <meta name="calibre:title_sort" content="Superstitions of the Highlands &amp; Islands of Scotland / Collected Entirely from Oral Sources"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

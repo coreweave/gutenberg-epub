@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79025730-852e-400f-8585-4713fc9c4029</dc:identifier>
+        <dc:title>Giotto and his works in Padua / An Explanatory Notice of the Series of Woodcuts Executed for the Arundel Society After the Frescoes in the Arena Chapel</dc:title>
+        <dc:creator opf:file-as="Ruskin, John" opf:role="aut">John Ruskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18371</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Giotto</dc:subject>
+        <dc:subject>1266?-1337</dc:subject>
+        <dc:subject>Cappella degli Scrovegni nell'Arena (Padua</dc:subject>
+        <dc:subject>Italy)</dc:subject>
+        <dc:subject>Mural painting and decoration -- Italy -- Padua</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ruskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:44:15.227169+00:00"/>
+        <meta name="calibre:title_sort" content="Giotto and his works in Padua / An Explanatory Notice of the Series of Woodcuts Executed for the Arundel Society After the Frescoes in the Arena Chapel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

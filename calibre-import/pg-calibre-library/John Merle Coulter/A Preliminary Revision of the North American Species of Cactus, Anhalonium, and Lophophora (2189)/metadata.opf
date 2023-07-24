@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5a1df41-78de-463f-8693-56c788428b53</dc:identifier>
+        <dc:title>A Preliminary Revision of the North American Species of Cactus, Anhalonium, and Lophophora</dc:title>
+        <dc:creator opf:file-as="Coulter, John Merle" opf:role="aut">John Merle Coulter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1221</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cactus</dc:subject>
+        <dc:subject>Ariocarpus</dc:subject>
+        <dc:subject>Peyote</dc:subject>
+        <dc:subject>Plants -- North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Merle Coulter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:00:20.343652+00:00"/>
+        <meta name="calibre:title_sort" content="Preliminary Revision of the North American Species of Cactus, Anhalonium, and Lophophora, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

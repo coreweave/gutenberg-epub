@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4b118a4-baf4-4028-99fb-839c16cfd7e8</dc:identifier>
+        <dc:title>The Preface to the Aeneis of Virgil (1718)</dc:title>
+        <dc:creator opf:file-as="Trapp, Joseph" opf:role="aut">Joseph Trapp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36137</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Virgil. Aeneis</dc:subject>
+        <dc:subject>Rome -- In literature</dc:subject>
+        <dc:subject>Aeneas (Legendary character) -- In literature</dc:subject>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>Latin -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Trapp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:54:19.893857+00:00"/>
+        <meta name="calibre:title_sort" content="Preface to the Aeneis of Virgil (1718), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

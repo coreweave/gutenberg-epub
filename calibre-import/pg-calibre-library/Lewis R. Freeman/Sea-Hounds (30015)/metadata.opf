@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e71405c-9ac8-419b-8302-d111f599e6d1</dc:identifier>
+        <dc:title>Sea-Hounds</dc:title>
+        <dc:creator opf:file-as="Freeman, Lewis R. (Lewis Ransome)" opf:role="aut">Lewis R. Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Naval operations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis R. Freeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:11:23.730165+00:00"/>
+        <meta name="calibre:title_sort" content="Sea-Hounds"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

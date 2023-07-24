@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cbb625f-bd54-4626-a542-315a77a44751</dc:identifier>
+        <dc:title>The Illustration of Books / A Manual for the Use of Students, Notes for a Course of Lectures at the Slade School, University College</dc:title>
+        <dc:creator opf:file-as="Pennell, Joseph" opf:role="aut">Joseph Pennell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51778</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Illustration of books</dc:subject>
+        <dc:subject>Illustration of books -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Pennell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:15:58.458957+00:00"/>
+        <meta name="calibre:title_sort" content="Illustration of Books / A Manual for the Use of Students, Notes for a Course of Lectures at the Slade School, University College, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

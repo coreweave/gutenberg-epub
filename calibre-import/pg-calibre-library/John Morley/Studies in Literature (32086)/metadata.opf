@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32086</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16666f5d-43ea-43cc-b6a2-5d45349c10cc</dc:identifier>
+        <dc:title>Studies in Literature</dc:title>
+        <dc:creator opf:file-as="Morley, John" opf:role="aut">John Morley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature -- History and criticism</dc:subject>
+        <dc:subject>Wordsworth</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1770-1850</dc:subject>
+        <dc:subject>Maine</dc:subject>
+        <dc:subject>Henry Sumner</dc:subject>
+        <dc:subject>1822-1888. Popular government</dc:subject>
+        <dc:subject>Browning</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1812-1889. Ring and the book</dc:subject>
+        <dc:subject>Napier</dc:subject>
+        <dc:subject>Macvey</dc:subject>
+        <dc:subject>1776-1847</dc:subject>
+        <dc:subject>Hugo</dc:subject>
+        <dc:subject>Victor</dc:subject>
+        <dc:subject>1802-1885. Quatrevingt-treize</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Morley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:52:14.857456+00:00"/>
+        <meta name="calibre:title_sort" content="Studies in Literature"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

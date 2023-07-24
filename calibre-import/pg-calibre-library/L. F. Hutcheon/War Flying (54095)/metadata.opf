@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b353538-0594-4a1f-8643-5520739a7688</dc:identifier>
+        <dc:title>War Flying</dc:title>
+        <dc:creator opf:file-as="Hutcheon, L. F." opf:role="aut">L. F. Hutcheon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60808</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Aerial operations</dc:subject>
+        <dc:subject>Great Britain. Royal Air Force</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. F. Hutcheon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:29:02.298041+00:00"/>
+        <meta name="calibre:title_sort" content="War Flying"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

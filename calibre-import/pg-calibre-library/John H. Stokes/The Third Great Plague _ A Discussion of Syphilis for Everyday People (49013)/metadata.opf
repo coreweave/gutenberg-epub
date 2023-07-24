@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2a555d7-7bcd-4922-a1e5-b99e497edfce</dc:identifier>
+        <dc:title>The Third Great Plague / A Discussion of Syphilis for Everyday People</dc:title>
+        <dc:creator opf:file-as="Stokes, John H. (John Hinchman)" opf:role="aut">John H. Stokes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18324</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Syphilis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John H. Stokes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:04:09.066895+00:00"/>
+        <meta name="calibre:title_sort" content="Third Great Plague / A Discussion of Syphilis for Everyday People, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

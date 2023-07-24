@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89a31522-64e7-40b1-a50d-970cd6e7429a</dc:identifier>
+        <dc:title>Life Immovable. First Part</dc:title>
+        <dc:creator opf:file-as="Palamas, Kostes" opf:role="aut">Kostes Palamas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Palamas</dc:subject>
+        <dc:subject>Kostes</dc:subject>
+        <dc:subject>1859-1943 -- Translations into English</dc:subject>
+        <dc:subject>Greek poetry</dc:subject>
+        <dc:subject>Modern -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kostes Palamas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:55:12.384041+00:00"/>
+        <meta name="calibre:title_sort" content="Life Immovable. First Part"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

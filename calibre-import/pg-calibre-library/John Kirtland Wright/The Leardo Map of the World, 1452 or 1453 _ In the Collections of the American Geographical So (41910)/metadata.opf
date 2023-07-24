@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43a209b9-044a-4fe6-a01b-4503d2d98ff3</dc:identifier>
+        <dc:title>The Leardo Map of the World, 1452 or 1453 / In the Collections of the American Geographical Society</dc:title>
+        <dc:creator opf:file-as="Wright, John Kirtland" opf:role="aut">John Kirtland Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53480</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Early maps</dc:subject>
+        <dc:subject>Leardo</dc:subject>
+        <dc:subject>Giovanni</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Kirtland Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:14:28.996459+00:00"/>
+        <meta name="calibre:title_sort" content="Leardo Map of the World, 1452 or 1453 / In the Collections of the American Geographical Society, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

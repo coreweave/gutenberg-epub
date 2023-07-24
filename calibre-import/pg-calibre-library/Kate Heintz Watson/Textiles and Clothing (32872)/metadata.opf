@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32872</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f2f4987-8591-4a0b-aa65-b8bc7bb2492c</dc:identifier>
+        <dc:title>Textiles and Clothing</dc:title>
+        <dc:creator opf:file-as="Watson, Kate Heintz" opf:role="aut">Kate Heintz Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21534</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Textile industry</dc:subject>
+        <dc:subject>Textile fabrics</dc:subject>
+        <dc:subject>Sewing</dc:subject>
+        <dc:subject>Dressmaking</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kate Heintz Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:30:04.399082+00:00"/>
+        <meta name="calibre:title_sort" content="Textiles and Clothing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

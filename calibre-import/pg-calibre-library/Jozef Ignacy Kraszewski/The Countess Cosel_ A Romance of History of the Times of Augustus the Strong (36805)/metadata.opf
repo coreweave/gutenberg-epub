@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11b360ff-8033-48be-a7b2-13f7cd4ed05e</dc:identifier>
+        <dc:title>The Countess Cosel: A Romance of History of the Times of Augustus the Strong</dc:title>
+        <dc:creator opf:file-as="Kraszewski, Józef Ignacy" opf:role="aut">Józef Ignacy Kraszewski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Polish fiction -- Translations into English</dc:subject>
+        <dc:subject>Cosel</dc:subject>
+        <dc:subject>Anna Konstanze</dc:subject>
+        <dc:subject>Gräfin von</dc:subject>
+        <dc:subject>1680-1765 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Józef Ignacy Kraszewski&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:45:07.677049+00:00"/>
+        <meta name="calibre:title_sort" content="Countess Cosel: A Romance of History of the Times of Augustus the Strong, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

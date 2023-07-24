@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5090fa1b-2db9-4c72-91eb-b84af1a54d2f</dc:identifier>
+        <dc:title>Social Rights And Duties: Addresses to Ethical Societies. Vol 2 [of 2]</dc:title>
+        <dc:creator opf:file-as="Stephen, Leslie" opf:role="aut">Leslie Stephen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36957</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social ethics</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Evolutionary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leslie Stephen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:01:01.469724+00:00"/>
+        <meta name="calibre:title_sort" content="Social Rights And Duties: Addresses to Ethical Societies. Vol 2 [of 2]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

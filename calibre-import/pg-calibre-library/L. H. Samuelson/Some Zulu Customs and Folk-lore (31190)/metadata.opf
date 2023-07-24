@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16c4191b-0197-43c8-924d-78da9b9a1411</dc:identifier>
+        <dc:title>Some Zulu Customs and Folk-lore</dc:title>
+        <dc:creator opf:file-as="Samuelson, L. H." opf:role="aut">L. H. Samuelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zulu (African people) -- Folklore</dc:subject>
+        <dc:subject>Tales -- South Africa -- Zululand</dc:subject>
+        <dc:subject>Folklore -- South Africa -- Zululand</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. H. Samuelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:08:11.291066+00:00"/>
+        <meta name="calibre:title_sort" content="Some Zulu Customs and Folk-lore"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

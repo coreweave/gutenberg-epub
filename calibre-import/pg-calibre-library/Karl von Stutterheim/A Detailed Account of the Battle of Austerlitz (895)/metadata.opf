@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2af9f86d-0a5f-4b88-81a2-3fa3edc51efb</dc:identifier>
+        <dc:title>A Detailed Account of the Battle of Austerlitz</dc:title>
+        <dc:creator opf:file-as="Stutterheim, Karl von" opf:role="aut">Karl von Stutterheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66641</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Austerlitz</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Czech Republic</dc:subject>
+        <dc:subject>1805</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karl von Stutterheim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:27.698536+00:00"/>
+        <meta name="calibre:title_sort" content="Detailed Account of the Battle of Austerlitz, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

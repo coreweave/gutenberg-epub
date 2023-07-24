@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">074a362b-d371-4bdf-b997-42a494150251</dc:identifier>
+        <dc:title>Ferdinand De Soto, The Discoverer of the Mississippi / American Pioneers and Patriots</dc:title>
+        <dc:creator opf:file-as="Abbott, John S. C. (John Stevens Cabot)" opf:role="aut">John S. C. Abbott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29172</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soto</dc:subject>
+        <dc:subject>Hernando de</dc:subject>
+        <dc:subject>approximately 1500-1542</dc:subject>
+        <dc:subject>Florida -- History -- To 1565</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John S. C. Abbott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:58:40.899253+00:00"/>
+        <meta name="calibre:title_sort" content="Ferdinand De Soto, The Discoverer of the Mississippi / American Pioneers and Patriots"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

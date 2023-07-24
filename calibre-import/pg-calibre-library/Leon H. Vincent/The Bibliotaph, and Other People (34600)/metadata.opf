@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffdc1b6c-4a99-4ab8-bbe4-501795509a86</dc:identifier>
+        <dc:title>The Bibliotaph, and Other People</dc:title>
+        <dc:creator opf:file-as="Vincent, Leon H. (Leon Henry)" opf:role="aut">Leon H. Vincent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21272</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stevenson</dc:subject>
+        <dc:subject>Robert Louis</dc:subject>
+        <dc:subject>1850-1894</dc:subject>
+        <dc:subject>Book collectors</dc:subject>
+        <dc:subject>Hardy</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1840-1928</dc:subject>
+        <dc:subject>Keats</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1795-1821</dc:subject>
+        <dc:subject>Lyly</dc:subject>
+        <dc:subject>1554?-1606</dc:subject>
+        <dc:subject>Priestley</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1733-1804</dc:subject>
+        <dc:subject>Gautier</dc:subject>
+        <dc:subject>Théophile</dc:subject>
+        <dc:subject>1811-1872</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leon H. Vincent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:54:49.342172+00:00"/>
+        <meta name="calibre:title_sort" content="Bibliotaph, and Other People, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

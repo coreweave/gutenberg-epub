@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10bfefeb-6e3c-4210-9cf0-674b6e6bd3a9</dc:identifier>
+        <dc:title>He Who Gets Slapped: A Play in Four Acts</dc:title>
+        <dc:creator opf:file-as="Andreyev, Leonid" opf:role="aut">Leonid Andreyev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37961</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Triangles (Interpersonal relations) -- Drama</dc:subject>
+        <dc:subject>Russian drama -- Translations into English</dc:subject>
+        <dc:subject>Andreyev</dc:subject>
+        <dc:subject>Leonid</dc:subject>
+        <dc:subject>1871-1919 -- Translations into English</dc:subject>
+        <dc:subject>Clowns -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leonid Andreyev&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:23:49.591512+00:00"/>
+        <meta name="calibre:title_sort" content="He Who Gets Slapped: A Play in Four Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

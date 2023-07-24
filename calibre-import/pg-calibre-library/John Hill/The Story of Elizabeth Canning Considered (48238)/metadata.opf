@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2017985-0426-4dcb-8bb3-7dbb597e6310</dc:identifier>
+        <dc:title>The Story of Elizabeth Canning Considered</dc:title>
+        <dc:creator opf:file-as="Hill, John" opf:role="aut">John Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51334</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canning</dc:subject>
+        <dc:subject>Elizabeth</dc:subject>
+        <dc:subject>1734-1773 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Fielding</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1707-1754. Clear state of the case of Elizabeth Canning</dc:subject>
+        <dc:subject>Trials (Perjury) -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:17:36.349634+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Elizabeth Canning Considered, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

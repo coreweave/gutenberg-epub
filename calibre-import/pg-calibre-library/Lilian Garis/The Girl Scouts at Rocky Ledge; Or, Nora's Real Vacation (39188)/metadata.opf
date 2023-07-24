@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44a13b37-dce5-428c-bb40-03be58ca3d21</dc:identifier>
+        <dc:title>The Girl Scouts at Rocky Ledge; Or, Nora's Real Vacation</dc:title>
+        <dc:creator opf:file-as="Garis, Lilian" opf:role="aut">Lilian Garis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38608</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rescues -- Juvenile fiction</dc:subject>
+        <dc:subject>Girl Scouts -- Juvenile fiction</dc:subject>
+        <dc:subject>Interpersonal relations -- Juvenile fiction</dc:subject>
+        <dc:subject>Homeless youth -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lilian Garis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:48:10.305336+00:00"/>
+        <meta name="calibre:title_sort" content="Girl Scouts at Rocky Ledge; Or, Nora's Real Vacation, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

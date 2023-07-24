@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a31e62df-40cc-42c8-8cfe-89920c4d01b5</dc:identifier>
+        <dc:title>The Happy Hunting-Grounds</dc:title>
+        <dc:creator opf:file-as="Roosevelt, Kermit" opf:role="aut">Kermit Roosevelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64079</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hunting</dc:subject>
+        <dc:subject>Roosevelt</dc:subject>
+        <dc:subject>Theodore</dc:subject>
+        <dc:subject>1858-1919</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kermit Roosevelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:29:17.945309+00:00"/>
+        <meta name="calibre:title_sort" content="Happy Hunting-Grounds, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

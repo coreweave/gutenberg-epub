@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5198e018-d622-448a-a0c1-2972cc8c6c4e</dc:identifier>
+        <dc:title>Joseph Pennell's pictures of the Panama Canal / Reproductions of a series of lithographs made by him on the Isthmus of Panama, January—March 1912, together with impressions and notes by the artist</dc:title>
+        <dc:creator opf:file-as="Pennell, Joseph" opf:role="aut">Joseph Pennell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48924</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lithography</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Pennell</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1857-1926</dc:subject>
+        <dc:subject>Panama Canal (Panama) -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Pennell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:12:25.369036+00:00"/>
+        <meta name="calibre:title_sort" content="Joseph Pennell's pictures of the Panama Canal / Reproductions of a series of lithographs made by him on the Isthmus of Panama, January—March 1912, together with impressions and notes by the artist"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

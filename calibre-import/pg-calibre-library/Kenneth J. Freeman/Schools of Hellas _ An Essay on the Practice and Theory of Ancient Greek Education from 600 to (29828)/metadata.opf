@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29828</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87aa8750-29c3-4b81-807f-bd1729ed165c</dc:identifier>
+        <dc:title>Schools of Hellas / An Essay on the Practice and Theory of Ancient Greek Education from 600 to 300 B. C.</dc:title>
+        <dc:creator opf:file-as="Freeman, Kenneth J. (Kenneth John)" opf:role="aut">Kenneth J. Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kenneth J. Freeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:02:23.593248+00:00"/>
+        <meta name="calibre:title_sort" content="Schools of Hellas / An Essay on the Practice and Theory of Ancient Greek Education from 600 to 300 B. C."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

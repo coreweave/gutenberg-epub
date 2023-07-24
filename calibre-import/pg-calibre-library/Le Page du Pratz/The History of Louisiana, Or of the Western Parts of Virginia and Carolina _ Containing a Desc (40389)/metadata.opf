@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d141496-9c2d-499b-a6c0-b8621f0dbdc8</dc:identifier>
+        <dc:title>The History of Louisiana, Or of the Western Parts of Virginia and Carolina / Containing a Description of the Countries That Lie on Both Sides of the River Missisippi</dc:title>
+        <dc:creator opf:file-as="Le Page du Pratz" opf:role="aut">Le Page du Pratz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9153</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- Louisiana -- Early works to 1800</dc:subject>
+        <dc:subject>Indians of North America -- Mississippi River Valley -- Early works to 1800</dc:subject>
+        <dc:subject>Louisiana -- History -- To 1803</dc:subject>
+        <dc:subject>Louisiana -- Description and travel -- Early works to 1800</dc:subject>
+        <dc:subject>France -- Colonies -- America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Le Page du Pratz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:51:26.023865+00:00"/>
+        <meta name="calibre:title_sort" content="History of Louisiana, Or of the Western Parts of Virginia and Carolina / Containing a Description of the Countries That Lie on Both Sides of the River Missisippi, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

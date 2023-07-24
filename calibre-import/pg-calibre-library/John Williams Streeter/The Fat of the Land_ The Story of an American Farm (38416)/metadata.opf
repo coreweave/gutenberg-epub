@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38416</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68277a1d-863a-4da0-92e1-a75368d0f392</dc:identifier>
+        <dc:title>The Fat of the Land: The Story of an American Farm</dc:title>
+        <dc:creator opf:file-as="Streeter, John Williams" opf:role="aut">John Williams Streeter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16525</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Agriculture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Williams Streeter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:08:03.266149+00:00"/>
+        <meta name="calibre:title_sort" content="Fat of the Land: The Story of an American Farm, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

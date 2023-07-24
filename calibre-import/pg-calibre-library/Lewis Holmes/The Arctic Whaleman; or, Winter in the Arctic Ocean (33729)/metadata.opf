@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e476e082-5b67-4c85-be64-006bd3bf8444</dc:identifier>
+        <dc:title>The Arctic Whaleman; or, Winter in the Arctic Ocean</dc:title>
+        <dc:creator opf:file-as="Holmes, Lewis" opf:role="aut">Lewis Holmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43959</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arctic regions</dc:subject>
+        <dc:subject>Shipwrecks</dc:subject>
+        <dc:subject>Whaling</dc:subject>
+        <dc:subject>Citizen (Ship : 1851-1852)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis Holmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:11:48.130582+00:00"/>
+        <meta name="calibre:title_sort" content="Arctic Whaleman; or, Winter in the Arctic Ocean, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

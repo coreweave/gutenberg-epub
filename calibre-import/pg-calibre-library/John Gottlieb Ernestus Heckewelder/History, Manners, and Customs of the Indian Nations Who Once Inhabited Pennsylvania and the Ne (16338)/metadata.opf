@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adb47cf3-1a9f-420a-a05a-b10e007abce9</dc:identifier>
+        <dc:title>History, Manners, and Customs of the Indian Nations Who Once Inhabited Pennsylvania and the Neighbouring States.</dc:title>
+        <dc:creator opf:file-as="Heckewelder, John Gottlieb Ernestus" opf:role="aut">John Gottlieb Ernestus Heckewelder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50350</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Iroquois Indians</dc:subject>
+        <dc:subject>Delaware Indians</dc:subject>
+        <dc:subject>Indians of North America -- Pennsylvania</dc:subject>
+        <dc:subject>Indians of North America -- Pennsylvania -- Languages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Gottlieb Ernestus Heckewelder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:56:24.725025+00:00"/>
+        <meta name="calibre:title_sort" content="History, Manners, and Customs of the Indian Nations Who Once Inhabited Pennsylvania and the Neighbouring States."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

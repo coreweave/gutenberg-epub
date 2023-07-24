@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44da4bfe-ec6a-48c3-9eab-42c0cacbe788</dc:identifier>
+        <dc:title>R. Holmes &amp; Co. / Being the Remarkable Adventures of Raffles Holmes, Esq., Detective and Amateur Cracksman by Birth</dc:title>
+        <dc:creator opf:file-as="Bangs, John Kendrick" opf:role="aut">John Kendrick Bangs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20559</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Private investigators -- England -- Fiction</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Criminals -- Fiction</dc:subject>
+        <dc:subject>Doyle</dc:subject>
+        <dc:subject>Arthur Conan</dc:subject>
+        <dc:subject>1859-1930 -- Parodies</dc:subject>
+        <dc:subject>imitations</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Hornung</dc:subject>
+        <dc:subject>E. W. (Ernest William)</dc:subject>
+        <dc:subject>1866-1921 -- Parodies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Kendrick Bangs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:49:26.679712+00:00"/>
+        <meta name="calibre:title_sort" content="R. Holmes &amp; Co. / Being the Remarkable Adventures of Raffles Holmes, Esq., Detective and Amateur Cracksman by Birth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

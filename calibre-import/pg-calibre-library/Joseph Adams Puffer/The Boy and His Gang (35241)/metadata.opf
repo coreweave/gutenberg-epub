@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6dd8e3a-3293-4b46-9260-4f26a511fe14</dc:identifier>
+        <dc:title>The Boy and His Gang</dc:title>
+        <dc:creator opf:file-as="Puffer, Joseph Adams" opf:role="aut">Joseph Adams Puffer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57927</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boys</dc:subject>
+        <dc:subject>Boys -- Societies and clubs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Adams Puffer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:26:45.684180+00:00"/>
+        <meta name="calibre:title_sort" content="Boy and His Gang, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

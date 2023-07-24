@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18a6ec00-54a4-4eb1-8af5-5780e0c463d1</dc:identifier>
+        <dc:title>Wyeth's Oregon, or a Short History of a Long Journey, 1832; and Townsend's Narrative of a Journey across the Rocky Mountains, 1834</dc:title>
+        <dc:creator opf:file-as="Townsend, John Kirk" opf:role="aut">John Kirk Townsend</dc:creator>
+        <dc:creator opf:file-as="Townsend, John Kirk" opf:role="aut">John B. Wyeth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Overland journeys to the Pacific</dc:subject>
+        <dc:subject>Oregon -- Description and travel</dc:subject>
+        <dc:subject>Townsend</dc:subject>
+        <dc:subject>John Kirk</dc:subject>
+        <dc:subject>1809-1851 -- Travel</dc:subject>
+        <dc:subject>Natural history -- Northwest</dc:subject>
+        <dc:subject>Pacific</dc:subject>
+        <dc:subject>Animals -- Oregon</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Kirk Townsend&quot;: &quot;&quot;, &quot;John B. Wyeth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:59:53.478589+00:00"/>
+        <meta name="calibre:title_sort" content="Wyeth's Oregon, or a Short History of a Long Journey, 1832; and Townsend's Narrative of a Journey across the Rocky Mountains, 1834"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

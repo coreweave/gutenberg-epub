@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa595c3a-736d-4905-abb7-81569ad0063c</dc:identifier>
+        <dc:title>Our Fathers Have Told Us / Part I. The Bible of Amiens</dc:title>
+        <dc:creator opf:file-as="Ruskin, John" opf:role="aut">John Ruskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24428</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History</dc:subject>
+        <dc:subject>Cathédrale d'Amiens</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ruskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:40:14.933654+00:00"/>
+        <meta name="calibre:title_sort" content="Our Fathers Have Told Us / Part I. The Bible of Amiens"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f0f7a24-9ac0-47ac-bee6-adc4c3fe005c</dc:identifier>
+        <dc:title>Diary of an Enlisted Man</dc:title>
+        <dc:creator opf:file-as="Van Alstyne, Lawrence" opf:role="aut">Lawrence Van Alstyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40890</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>United States. Army. New York Infantry Regiment</dc:subject>
+        <dc:subject>128th (1862-1865)</dc:subject>
+        <dc:subject>United States. Army. Colored Infantry Regiment</dc:subject>
+        <dc:subject>90th (1863-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lawrence Van Alstyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:00:13.625896+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of an Enlisted Man"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

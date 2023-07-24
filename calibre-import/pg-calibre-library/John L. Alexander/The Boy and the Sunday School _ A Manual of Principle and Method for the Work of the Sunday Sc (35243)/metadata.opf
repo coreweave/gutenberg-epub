@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1ce167b-206b-4d6a-9057-928275eb3c25</dc:identifier>
+        <dc:title>The Boy and the Sunday School / A Manual of Principle and Method for the Work of the Sunday School with Teen Age Boys</dc:title>
+        <dc:creator opf:file-as="Alexander, John L." opf:role="aut">John L. Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sunday schools</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John L. Alexander&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:26:51.434293+00:00"/>
+        <meta name="calibre:title_sort" content="Boy and the Sunday School / A Manual of Principle and Method for the Work of the Sunday School with Teen Age Boys, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b1852fa-9772-4c83-87b8-f3a413651bf9</dc:identifier>
+        <dc:title>The Economic Functions of Vice</dc:title>
+        <dc:creator opf:file-as="McElroy, John" opf:role="aut">John McElroy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31768</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John McElroy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:36:54.282049+00:00"/>
+        <meta name="calibre:title_sort" content="Economic Functions of Vice, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

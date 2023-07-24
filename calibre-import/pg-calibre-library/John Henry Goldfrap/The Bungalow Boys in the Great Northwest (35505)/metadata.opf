@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edfe4ade-3ff5-4e46-b368-8a56280daf5e</dc:identifier>
+        <dc:title>The Bungalow Boys in the Great Northwest</dc:title>
+        <dc:creator opf:file-as="Goldfrap, John Henry" opf:role="aut">John Henry Goldfrap</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45262</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery and detective stories</dc:subject>
+        <dc:subject>Inventions -- Juvenile fiction</dc:subject>
+        <dc:subject>Smugglers -- Juvenile fiction</dc:subject>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Pacific -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Henry Goldfrap&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:39:45.376179+00:00"/>
+        <meta name="calibre:title_sort" content="Bungalow Boys in the Great Northwest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

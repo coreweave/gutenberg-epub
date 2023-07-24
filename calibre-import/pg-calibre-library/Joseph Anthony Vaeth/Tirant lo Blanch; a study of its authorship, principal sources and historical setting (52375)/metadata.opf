@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aea2f375-79e4-4abd-97be-af1d28ad45c1</dc:identifier>
+        <dc:title>Tirant lo Blanch; a study of its authorship, principal sources and historical setting</dc:title>
+        <dc:creator opf:file-as="Vaeth, Joseph Anthony" opf:role="aut">Joseph Anthony Vaeth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65913</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Martorell</dc:subject>
+        <dc:subject>Joanot</dc:subject>
+        <dc:subject>-1468. Tirant lo Blanch</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Anthony Vaeth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:38:19.904769+00:00"/>
+        <meta name="calibre:title_sort" content="Tirant lo Blanch; a study of its authorship, principal sources and historical setting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

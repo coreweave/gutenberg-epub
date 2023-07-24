@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91d9833b-a17f-48fc-9da5-c6bdc37b0721</dc:identifier>
+        <dc:title>History of the Seventy-Second Regiment of the North Carolina Troops in the War Between the States, 1861-'65</dc:title>
+        <dc:creator opf:file-as="Hinsdale, John Wetmore" opf:role="aut">John Wetmore Hinsdale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62649</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Confederate States of America. Army. North Carolina Infantry Regiment</dc:subject>
+        <dc:subject>72nd</dc:subject>
+        <dc:subject>North Carolina -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Wetmore Hinsdale&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:53:13.379480+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Seventy-Second Regiment of the North Carolina Troops in the War Between the States, 1861-'65"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

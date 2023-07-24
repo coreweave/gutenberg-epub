@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5262324-6c3d-49af-aaff-872c728931dd</dc:identifier>
+        <dc:title>Trees Every Child Should Know: Easy Tree Studies for All Seasons of the Year</dc:title>
+        <dc:creator opf:file-as="Rogers, Julia Ellen" opf:role="aut">Julia Ellen Rogers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44186</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trees -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julia Ellen Rogers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:08:26.953284+00:00"/>
+        <meta name="calibre:title_sort" content="Trees Every Child Should Know: Easy Tree Studies for All Seasons of the Year"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

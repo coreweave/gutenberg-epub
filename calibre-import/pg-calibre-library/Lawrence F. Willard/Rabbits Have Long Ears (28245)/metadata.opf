@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9a89880-f3f6-4f7b-9d63-5842f1320622</dc:identifier>
+        <dc:title>Rabbits Have Long Ears</dc:title>
+        <dc:creator opf:file-as="Willard, Lawrence F." opf:role="aut">Lawrence F. Willard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Extraterrestrial beings -- Fiction</dc:subject>
+        <dc:subject>Space ships -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lawrence F. Willard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:49:42.936509+00:00"/>
+        <meta name="calibre:title_sort" content="Rabbits Have Long Ears"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

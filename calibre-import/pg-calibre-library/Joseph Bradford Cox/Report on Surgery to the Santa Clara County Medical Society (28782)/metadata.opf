@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5bf77af-f460-4135-86d4-7e7aea9ab875</dc:identifier>
+        <dc:title>Report on Surgery to the Santa Clara County Medical Society</dc:title>
+        <dc:creator opf:file-as="Cox, Joseph Bradford" opf:role="aut">Joseph Bradford Cox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23769</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Surgery -- Case studies</dc:subject>
+        <dc:subject>Medicine -- California -- Santa Clara County</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Bradford Cox&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:14:10.542357+00:00"/>
+        <meta name="calibre:title_sort" content="Report on Surgery to the Santa Clara County Medical Society"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

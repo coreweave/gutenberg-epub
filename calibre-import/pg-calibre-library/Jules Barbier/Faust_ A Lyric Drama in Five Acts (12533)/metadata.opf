@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23e18fac-0e2a-4de6-9dcf-ef83e11c1623</dc:identifier>
+        <dc:title>Faust: A Lyric Drama in Five Acts</dc:title>
+        <dc:creator opf:file-as="Barbier, Jules" opf:role="aut">Jules Barbier</dc:creator>
+        <dc:creator opf:file-as="Barbier, Jules" opf:role="aut">Michel Carré</dc:creator>
+        <dc:creator opf:file-as="Barbier, Jules" opf:role="aut">Charles Gounod</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45806</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Operas -- Librettos</dc:subject>
+        <dc:subject>Faust</dc:subject>
+        <dc:subject>-approximately 1540 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jules Barbier&quot;: &quot;&quot;, &quot;Michel Carré&quot;: &quot;&quot;, &quot;Charles Gounod&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:57:20.023788+00:00"/>
+        <meta name="calibre:title_sort" content="Faust: A Lyric Drama in Five Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

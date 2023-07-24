@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b29ba033-bfa9-4cfc-821d-3a76727c0c1e</dc:identifier>
+        <dc:title>Supplement to Commerce Reports Daily Consular and Trade Reports: Turkey, Harput</dc:title>
+        <dc:creator opf:file-as="Davis, Leslie A." opf:role="aut">Leslie A. Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48427</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harput (Turkey) -- Economic conditions -- 20th century</dc:subject>
+        <dc:subject>Turkey -- Commerce -- United States</dc:subject>
+        <dc:subject>United States -- Commerce -- Turkey</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leslie A. Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:01:23.550637+00:00"/>
+        <meta name="calibre:title_sort" content="Supplement to Commerce Reports Daily Consular and Trade Reports: Turkey, Harput"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

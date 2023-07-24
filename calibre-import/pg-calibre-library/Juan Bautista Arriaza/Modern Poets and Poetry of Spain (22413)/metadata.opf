@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1debbe31-cdaa-491b-87d9-4a68ab8ddce1</dc:identifier>
+        <dc:title>Modern Poets and Poetry of Spain</dc:title>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Juan Bautista Arriaza</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Manuel Bretón de los Herreros</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">José de Espronceda</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Leandro Fernández de Moratín</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">José María Heredia</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Tomás de Iriarte</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Gaspar de Jovellanos</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">James Kennedy</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Francisco Martínez de la Rosa</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Juan Meléndez Valdés</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">Manuel José Quintana</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">duque de Angel de Saavedra Rivas</dc:creator>
+        <dc:creator opf:file-as="Arriaza, Juan Bautista" opf:role="aut">José Zorrilla</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53671</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spanish poetry -- History and criticism</dc:subject>
+        <dc:subject>Spanish poetry -- Translations into English</dc:subject>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>Spanish</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Juan Bautista Arriaza&quot;: &quot;&quot;, &quot;Manuel Bretón de los Herreros&quot;: &quot;&quot;, &quot;José de Espronceda&quot;: &quot;&quot;, &quot;Leandro Fernández de Moratín&quot;: &quot;&quot;, &quot;José María Heredia&quot;: &quot;&quot;, &quot;Tomás de Iriarte&quot;: &quot;&quot;, &quot;Gaspar de Jovellanos&quot;: &quot;&quot;, &quot;James Kennedy&quot;: &quot;&quot;, &quot;Francisco Martínez de la Rosa&quot;: &quot;&quot;, &quot;Juan Meléndez Valdés&quot;: &quot;&quot;, &quot;Manuel José Quintana&quot;: &quot;&quot;, &quot;duque de Angel de Saavedra Rivas&quot;: &quot;&quot;, &quot;José Zorrilla&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:38:46.686098+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Poets and Poetry of Spain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

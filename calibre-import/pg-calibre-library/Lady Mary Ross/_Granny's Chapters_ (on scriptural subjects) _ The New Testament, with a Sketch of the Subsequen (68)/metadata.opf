@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">965133ba-f068-4953-9f4a-fb4568f52eaa</dc:identifier>
+        <dc:title>"Granny's Chapters" (on scriptural subjects) / The New Testament, with a Sketch of the Subsequent History of the Jews.</dc:title>
+        <dc:creator opf:file-as="Ross, Mary, Lady" opf:role="aut">Lady Mary Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38557</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jews -- History</dc:subject>
+        <dc:subject>Bible. New Testament -- Criticism</dc:subject>
+        <dc:subject>interpretation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Bible stories</dc:subject>
+        <dc:subject>English -- New Testament</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Mary Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:27:08.704506+00:00"/>
+        <meta name="calibre:title_sort" content="Granny's Chapters&quot; (on scriptural subjects) / The New Testament, with a Sketch of the Subsequent History of the Jews."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

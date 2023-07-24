@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f709513-26f2-4939-9b8c-186ad062cfde</dc:identifier>
+        <dc:title>Fissure of the Anus and Fistula in Ano</dc:title>
+        <dc:creator opf:file-as="Adler, Lewis H., Jr." opf:role="aut">Jr. Lewis H. Adler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47387</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fistula</dc:subject>
+        <dc:subject>Fissure in Ano</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. Lewis H. Adler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:05:07.484177+00:00"/>
+        <meta name="calibre:title_sort" content="Fissure of the Anus and Fistula in Ano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

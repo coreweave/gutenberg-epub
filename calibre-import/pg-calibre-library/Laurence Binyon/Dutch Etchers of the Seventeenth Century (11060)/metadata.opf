@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11060</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77fab662-d4c7-4b36-a61c-fc7c2ce564e0</dc:identifier>
+        <dc:title>Dutch Etchers of the Seventeenth Century</dc:title>
+        <dc:creator opf:file-as="Binyon, Laurence" opf:role="aut">Laurence Binyon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64570</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Etchers -- Netherlands</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laurence Binyon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:16:23.437796+00:00"/>
+        <meta name="calibre:title_sort" content="Dutch Etchers of the Seventeenth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

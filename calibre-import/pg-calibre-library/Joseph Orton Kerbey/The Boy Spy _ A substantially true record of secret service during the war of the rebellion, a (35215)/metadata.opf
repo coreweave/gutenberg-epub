@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e922f07-3eed-47b9-82b3-295504190b15</dc:identifier>
+        <dc:title>The Boy Spy / A substantially true record of secret service during the war of the rebellion, a correct account of events witnessed by a soldier</dc:title>
+        <dc:creator opf:file-as="Kerbey, Joseph Orton" opf:role="aut">Joseph Orton Kerbey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34344</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>1861-1865 -- Secret service</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Orton Kerbey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:25:27.907570+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Spy / A substantially true record of secret service during the war of the rebellion, a correct account of events witnessed by a soldier, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

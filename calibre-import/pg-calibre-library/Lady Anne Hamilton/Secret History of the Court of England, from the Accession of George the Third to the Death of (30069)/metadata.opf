@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">347ef660-dd57-482e-8e2e-d4e7169b2590</dc:identifier>
+        <dc:title>Secret History of the Court of England, from the Accession of George the Third to the Death of George the Fourth, Volume 2 (of 2) / Including, Among Other Important Matters, Full Particulars of the Mysterious Death of the Princess Charlotte</dc:title>
+        <dc:creator opf:file-as="Hamilton, Anne, Lady" opf:role="aut">Lady Anne Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37571</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- 1714-1837</dc:subject>
+        <dc:subject>Great Britain -- Court and courtiers -- History -- 18th century</dc:subject>
+        <dc:subject>Great Britain -- Court and courtiers -- History -- 19th century</dc:subject>
+        <dc:subject>George III</dc:subject>
+        <dc:subject>King of Great Britain</dc:subject>
+        <dc:subject>1738-1820 -- Relations with courts and courtiers</dc:subject>
+        <dc:subject>George IV</dc:subject>
+        <dc:subject>1762-1830 -- Relations with courts and courtiers</dc:subject>
+        <dc:subject>Caroline</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of George IV</dc:subject>
+        <dc:subject>1768-1821</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Anne Hamilton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:13:58.187992+00:00"/>
+        <meta name="calibre:title_sort" content="Secret History of the Court of England, from the Accession of George the Third to the Death of George the Fourth, Volume 2 (of 2) / Including, Among Other Important Matters, Full Particulars of the Mysterious Death of the Princess Charlotte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

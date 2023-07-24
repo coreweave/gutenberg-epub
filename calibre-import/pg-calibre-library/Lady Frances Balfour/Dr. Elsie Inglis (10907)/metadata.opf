@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa0f85fb-f84c-4782-a1af-0d7b2814987c</dc:identifier>
+        <dc:title>Dr. Elsie Inglis</dc:title>
+        <dc:creator opf:file-as="Balfour, Frances, Lady" opf:role="aut">Lady Frances Balfour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51410</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inglis</dc:subject>
+        <dc:subject>Elsie Maud</dc:subject>
+        <dc:subject>1864-1917</dc:subject>
+        <dc:subject>Women physicians -- Scotland -- Biography</dc:subject>
+        <dc:subject>Suffragists -- Scotland -- Biography</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Women -- Biography</dc:subject>
+        <dc:subject>1914-1918 -- Women -- Scotland</dc:subject>
+        <dc:subject>Scottish Women's Hospitals (Organization)</dc:subject>
+        <dc:subject>1914-1918 -- Medical care -- Russia</dc:subject>
+        <dc:subject>1914-1918 -- Medical care -- Scotland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Frances Balfour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:12:16.127521+00:00"/>
+        <meta name="calibre:title_sort" content="Dr. Elsie Inglis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

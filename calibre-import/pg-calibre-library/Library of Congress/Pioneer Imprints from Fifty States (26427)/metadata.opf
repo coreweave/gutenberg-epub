@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26427</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c96182ea-7c74-41ff-8f04-926cffcf85e8</dc:identifier>
+        <dc:title>Pioneer Imprints from Fifty States</dc:title>
+        <dc:creator opf:file-as="Library of Congress" opf:role="aut">Library of Congress</dc:creator>
+        <dc:creator opf:file-as="Library of Congress" opf:role="aut">Roger J. Trienens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48794</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Library of Congress</dc:subject>
+        <dc:subject>Printing -- United States -- History</dc:subject>
+        <dc:subject>Early printed books -- United States -- Bibliography</dc:subject>
+        <dc:subject>United States -- Imprints</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Library of Congress&quot;: &quot;&quot;, &quot;Roger J. Trienens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:30:11.913513+00:00"/>
+        <meta name="calibre:title_sort" content="Pioneer Imprints from Fifty States"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

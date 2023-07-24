@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcccc807-c700-4ea8-b8f6-c9cfb3f81542</dc:identifier>
+        <dc:title>Travels Through the Interior Parts of North America, in the Years 1766, 1767 and 1768</dc:title>
+        <dc:creator opf:file-as="Carver, Jonathan" opf:role="aut">Jonathan Carver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49753</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Northwestern states -- Early works to 1800</dc:subject>
+        <dc:subject>Ojibwa language -- Glossaries</dc:subject>
+        <dc:subject>vocabularies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Dakota language -- Glossaries</dc:subject>
+        <dc:subject>Northwestern states -- Description and travel -- Early works to 1800</dc:subject>
+        <dc:subject>Mississippi River -- Description and travel -- Early works to 1800</dc:subject>
+        <dc:subject>Minnesota -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Carver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:03:03.228373+00:00"/>
+        <meta name="calibre:title_sort" content="Travels Through the Interior Parts of North America, in the Years 1766, 1767 and 1768"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

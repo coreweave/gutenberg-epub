@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7046</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47d3dbdb-6dd7-456e-9f27-95811bc69b67</dc:identifier>
+        <dc:title>Brief for the higher education of the negro</dc:title>
+        <dc:creator opf:file-as="Miller, Kelly" opf:role="aut">Kelly Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kelly Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:36:03.646593+00:00"/>
+        <meta name="calibre:title_sort" content="Brief for the higher education of the negro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

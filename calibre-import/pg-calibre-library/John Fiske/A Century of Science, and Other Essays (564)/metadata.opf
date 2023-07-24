@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">564</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4aed7073-ab65-46e2-b4f4-cdae7b0cdbb7</dc:identifier>
+        <dc:title>A Century of Science, and Other Essays</dc:title>
+        <dc:creator opf:file-as="Fiske, John" opf:role="aut">John Fiske</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- History</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Authorship</dc:subject>
+        <dc:subject>Folklore -- Ireland</dc:subject>
+        <dc:subject>Arbitration (International law)</dc:subject>
+        <dc:subject>Youmans</dc:subject>
+        <dc:subject>Edward Livingston</dc:subject>
+        <dc:subject>1821-1887</dc:subject>
+        <dc:subject>Vane</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1613-1662</dc:subject>
+        <dc:subject>Parkman</dc:subject>
+        <dc:subject>Francis</dc:subject>
+        <dc:subject>1823-1893</dc:subject>
+        <dc:subject>Freeman</dc:subject>
+        <dc:subject>Edward A. (Edward Augustus)</dc:subject>
+        <dc:subject>1823-1892</dc:subject>
+        <dc:subject>Cook</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1838-1901</dc:subject>
+        <dc:subject>Cambridge (Mass.) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Fiske&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:34:26.185696+00:00"/>
+        <meta name="calibre:title_sort" content="Century of Science, and Other Essays, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

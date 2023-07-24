@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40216e98-a646-4475-ae20-e690d65a43ff</dc:identifier>
+        <dc:title>Essentials in Church History / A History of the Church from the Birth of Joseph Smith to the Present Time (1922), with Introductory Chapters on the Antiquity of the Gospel and the "Falling Away"</dc:title>
+        <dc:creator opf:file-as="Smith, Joseph Fielding" opf:role="aut">Joseph Fielding Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45054</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of Jesus Christ of Latter-day Saints -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Fielding Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:41:28.896338+00:00"/>
+        <meta name="calibre:title_sort" content="Essentials in Church History / A History of the Church from the Birth of Joseph Smith to the Present Time (1922), with Introductory Chapters on the Antiquity of the Gospel and the &quot;Falling Away&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

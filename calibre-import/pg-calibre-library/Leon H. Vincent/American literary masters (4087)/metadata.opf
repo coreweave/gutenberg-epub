@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75dff1f0-3263-4d13-bdc5-e332f808e70f</dc:identifier>
+        <dc:title>American literary masters</dc:title>
+        <dc:creator opf:file-as="Vincent, Leon H. (Leon Henry)" opf:role="aut">Leon H. Vincent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>American literature -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leon H. Vincent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:26.842703+00:00"/>
+        <meta name="calibre:title_sort" content="American literary masters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

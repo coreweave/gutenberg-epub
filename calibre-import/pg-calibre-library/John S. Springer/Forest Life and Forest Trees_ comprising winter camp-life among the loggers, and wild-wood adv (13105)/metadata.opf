@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b604f997-5f18-4efa-b125-10f19d99aa8e</dc:identifier>
+        <dc:title>Forest Life and Forest Trees: comprising winter camp-life among the loggers, and wild-wood adventure. / with Descriptions of lumbering operations on the various / rivers of Maine and New Brunswick</dc:title>
+        <dc:creator opf:file-as="Springer, John S." opf:role="aut">John S. Springer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trees</dc:subject>
+        <dc:subject>New Brunswick -- Description and travel</dc:subject>
+        <dc:subject>Maine -- Description and travel</dc:subject>
+        <dc:subject>Lumbering -- Maine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John S. Springer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:13:51.966716+00:00"/>
+        <meta name="calibre:title_sort" content="Forest Life and Forest Trees: comprising winter camp-life among the loggers, and wild-wood adventure. / with Descriptions of lumbering operations on the various / rivers of Maine and New Brunswick"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

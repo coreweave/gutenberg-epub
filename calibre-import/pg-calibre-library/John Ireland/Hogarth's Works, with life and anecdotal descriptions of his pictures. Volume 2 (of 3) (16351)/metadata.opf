@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bf4455f-18cd-47af-8f91-2ed5f6bf403d</dc:identifier>
+        <dc:title>Hogarth's Works, with life and anecdotal descriptions of his pictures. Volume 2 (of 3)</dc:title>
+        <dc:creator opf:file-as="Ireland, John" opf:role="aut">John Ireland</dc:creator>
+        <dc:creator opf:file-as="Ireland, John" opf:role="aut">John Nichols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51978</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hogarth</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1697-1764</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ireland&quot;: &quot;&quot;, &quot;John Nichols&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:56:50.909617+00:00"/>
+        <meta name="calibre:title_sort" content="Hogarth's Works, with life and anecdotal descriptions of his pictures. Volume 2 (of 3)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

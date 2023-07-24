@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14f2ddbd-4b89-4646-a000-82772f2e3399</dc:identifier>
+        <dc:title>A Sermon Preached on the Anniversary of the Boston Female Asylum for Destitute Orphans, September 25, 1835</dc:title>
+        <dc:creator opf:file-as="Wainwright, Jonathan Mayhew" opf:role="aut">Jonathan Mayhew Wainwright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24404</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Charity -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Mayhew Wainwright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:04:28.098122+00:00"/>
+        <meta name="calibre:title_sort" content="Sermon Preached on the Anniversary of the Boston Female Asylum for Destitute Orphans, September 25, 1835, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

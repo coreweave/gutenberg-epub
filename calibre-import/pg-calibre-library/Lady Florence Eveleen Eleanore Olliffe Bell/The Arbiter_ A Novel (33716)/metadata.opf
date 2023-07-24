@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93e5a703-ebe4-48d9-af4b-6424b4437db7</dc:identifier>
+        <dc:title>The Arbiter: A Novel</dc:title>
+        <dc:creator opf:file-as="Bell, Florence Eveleen Eleanore Olliffe, Lady" opf:role="aut">Lady Florence Eveleen Eleanore Olliffe Bell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24794</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>1837-1901 -- Fiction</dc:subject>
+        <dc:subject>Spy stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Florence Eveleen Eleanore Olliffe Bell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:11:11.228127+00:00"/>
+        <meta name="calibre:title_sort" content="Arbiter: A Novel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92b2f1bd-8416-4622-b9d1-9789ed4d7aa9</dc:identifier>
+        <dc:title>Sketch of the Reformation in England</dc:title>
+        <dc:creator opf:file-as="Blunt, John J. (John James)" opf:role="aut">John J. Blunt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Church history</dc:subject>
+        <dc:subject>Reformation -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John J. Blunt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:50:05.969399+00:00"/>
+        <meta name="calibre:title_sort" content="Sketch of the Reformation in England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

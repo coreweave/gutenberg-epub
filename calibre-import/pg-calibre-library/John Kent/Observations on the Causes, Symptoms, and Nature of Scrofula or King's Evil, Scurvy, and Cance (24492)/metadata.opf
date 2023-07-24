@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64b32fdd-8141-4cbf-9416-66fa5fc6c6b0</dc:identifier>
+        <dc:title>Observations on the Causes, Symptoms, and Nature of Scrofula or King's Evil, Scurvy, and Cancer / With Cases Illustrative of a Peculiar Mode of Treatment</dc:title>
+        <dc:creator opf:file-as="Kent, John" opf:role="aut">John Kent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scrofula</dc:subject>
+        <dc:subject>Scurvy</dc:subject>
+        <dc:subject>Cancer</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Kent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:07:16.749029+00:00"/>
+        <meta name="calibre:title_sort" content="Observations on the Causes, Symptoms, and Nature of Scrofula or King's Evil, Scurvy, and Cancer / With Cases Illustrative of a Peculiar Mode of Treatment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

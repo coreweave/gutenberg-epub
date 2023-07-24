@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">074fc931-711f-4089-a8e9-509e19c1527b</dc:identifier>
+        <dc:title>The Horse of America in His Derivation, History, and Development</dc:title>
+        <dc:creator opf:file-as="Wallace, John Hankins" opf:role="aut">John Hankins Wallace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62972</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horse breeds -- History</dc:subject>
+        <dc:subject>Horses -- United States -- History</dc:subject>
+        <dc:subject>Horses -- Breeding -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Hankins Wallace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:04:22.491507+00:00"/>
+        <meta name="calibre:title_sort" content="Horse of America in His Derivation, History, and Development, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

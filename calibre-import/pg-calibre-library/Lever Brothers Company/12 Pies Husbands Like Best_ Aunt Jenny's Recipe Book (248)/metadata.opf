@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e41bfa4-d4a0-4f79-8bd7-a3eee0f3cd5c</dc:identifier>
+        <dc:title>12 Pies Husbands Like Best: Aunt Jenny's Recipe Book</dc:title>
+        <dc:creator opf:file-as="Lever Brothers Company" opf:role="aut">Lever Brothers Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65508</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Desserts</dc:subject>
+        <dc:subject>Cookbooks</dc:subject>
+        <dc:subject>Baking</dc:subject>
+        <dc:subject>Oils and fats</dc:subject>
+        <dc:subject>Edible</dc:subject>
+        <dc:subject>Pies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lever Brothers Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:29:45.511597+00:00"/>
+        <meta name="calibre:title_sort" content="12 Pies Husbands Like Best: Aunt Jenny's Recipe Book"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

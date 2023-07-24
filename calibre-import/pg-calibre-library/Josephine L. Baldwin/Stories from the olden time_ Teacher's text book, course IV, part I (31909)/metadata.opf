@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be280719-d9dc-4deb-b09d-167ae8060ea7</dc:identifier>
+        <dc:title>Stories from the olden time: Teacher's text book, course IV, part I</dc:title>
+        <dc:creator opf:file-as="Baldwin, Josephine L." opf:role="aut">Josephine L. Baldwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69457</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Bible -- Study and teaching</dc:subject>
+        <dc:subject>Christian education of children</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Josephine L. Baldwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:43:47.116069+00:00"/>
+        <meta name="calibre:title_sort" content="Stories from the olden time: Teacher's text book, course IV, part I"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

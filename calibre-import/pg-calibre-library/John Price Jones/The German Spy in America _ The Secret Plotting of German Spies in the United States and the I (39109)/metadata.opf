@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a724bde9-8f7b-4cca-8d7c-a0a73e3e40da</dc:identifier>
+        <dc:title>The German Spy in America / The Secret Plotting of German Spies in the United States and the Inside Story of the Sinking of the Lusitania</dc:title>
+        <dc:creator opf:file-as="Jones, John Price" opf:role="aut">John Price Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55666</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germans -- United States</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Secret service -- Germany</dc:subject>
+        <dc:subject>Espionage</dc:subject>
+        <dc:subject>German -- United States -- History -- 20th century</dc:subject>
+        <dc:subject>1914-1918 -- Secret service -- United States</dc:subject>
+        <dc:subject>Spies -- Germany -- Biography</dc:subject>
+        <dc:subject>Spies -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Price Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:44:04.300838+00:00"/>
+        <meta name="calibre:title_sort" content="German Spy in America / The Secret Plotting of German Spies in the United States and the Inside Story of the Sinking of the Lusitania, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

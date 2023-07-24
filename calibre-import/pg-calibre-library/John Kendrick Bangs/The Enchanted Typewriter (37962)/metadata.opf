@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37962</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecae98c1-18b0-47c2-9b41-947f9e7bb776</dc:identifier>
+        <dc:title>The Enchanted Typewriter</dc:title>
+        <dc:creator opf:file-as="Bangs, John Kendrick" opf:role="aut">John Kendrick Bangs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3162</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Typewriters -- Fiction</dc:subject>
+        <dc:subject>Writing -- Automation -- Fiction</dc:subject>
+        <dc:subject>Hell -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Kendrick Bangs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:44:37.601936+00:00"/>
+        <meta name="calibre:title_sort" content="Enchanted Typewriter, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

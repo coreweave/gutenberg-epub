@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0334aff-ad50-4aef-b0d2-827b99419b86</dc:identifier>
+        <dc:title>Emerson and Other Essays</dc:title>
+        <dc:creator opf:file-as="Chapman, John Jay" opf:role="aut">John Jay Chapman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13088</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Browning</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1812-1889</dc:subject>
+        <dc:subject>Stevenson</dc:subject>
+        <dc:subject>Robert Louis</dc:subject>
+        <dc:subject>1850-1894</dc:subject>
+        <dc:subject>Literature -- History and criticism</dc:subject>
+        <dc:subject>Emerson</dc:subject>
+        <dc:subject>Ralph Waldo</dc:subject>
+        <dc:subject>1803-1882</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Jay Chapman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:28:06.298942+00:00"/>
+        <meta name="calibre:title_sort" content="Emerson and Other Essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

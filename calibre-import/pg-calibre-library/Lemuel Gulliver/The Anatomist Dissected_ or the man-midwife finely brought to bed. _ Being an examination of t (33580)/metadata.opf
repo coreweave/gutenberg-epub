@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e968baa-27af-4c17-9a93-19e5259de287</dc:identifier>
+        <dc:title>The Anatomist Dissected: or the man-midwife finely brought to bed. / Being an examination of the conduct of Mr. St. Andre. Touching the late pretended rabbit-bearer; as it appears from his own narrative.</dc:title>
+        <dc:creator opf:file-as="Gulliver, Lemuel (Surgeon)" opf:role="aut">Lemuel Gulliver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61044</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Obstetrics -- Early works to 1800</dc:subject>
+        <dc:subject>Toft</dc:subject>
+        <dc:subject>Mary</dc:subject>
+        <dc:subject>1703-1763</dc:subject>
+        <dc:subject>St. André</dc:subject>
+        <dc:subject>Nathanael</dc:subject>
+        <dc:subject>1680-1776</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lemuel Gulliver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:04:32.354486+00:00"/>
+        <meta name="calibre:title_sort" content="Anatomist Dissected: or the man-midwife finely brought to bed. / Being an examination of the conduct of Mr. St. Andre. Touching the late pretended rabbit-bearer; as it appears from his own narrative., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

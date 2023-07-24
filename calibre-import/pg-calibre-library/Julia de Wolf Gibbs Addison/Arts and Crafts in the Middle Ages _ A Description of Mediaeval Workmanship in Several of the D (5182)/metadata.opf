@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cef7013b-7d0a-491d-9a92-1af1d8e0c136</dc:identifier>
+        <dc:title>Arts and Crafts in the Middle Ages / A Description of Mediaeval Workmanship in Several of the Departments of Applied Art, Together with Some Account of Special Artisans in the Early Renaissance</dc:title>
+        <dc:creator opf:file-as="Addison, Julia de Wolf Gibbs" opf:role="aut">Julia de Wolf Gibbs Addison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18212</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Illumination of books and manuscripts</dc:subject>
+        <dc:subject>Decorative arts -- History</dc:subject>
+        <dc:subject>Decoration and ornament</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>Arts and crafts movement</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julia de Wolf Gibbs Addison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:55:54.492037+00:00"/>
+        <meta name="calibre:title_sort" content="Arts and Crafts in the Middle Ages / A Description of Mediaeval Workmanship in Several of the Departments of Applied Art, Together with Some Account of Special Artisans in the Early Renaissance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

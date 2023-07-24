@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecc6d175-e789-48ff-8509-4c635b9a55da</dc:identifier>
+        <dc:title>The Life and Adventures of Rear-Admiral John Paul Jones, Commonly Called Paul Jones</dc:title>
+        <dc:creator opf:file-as="Abbott, John S. C. (John Stevens Cabot)" opf:role="aut">John S. C. Abbott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55867</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jones</dc:subject>
+        <dc:subject>John Paul</dc:subject>
+        <dc:subject>1747-1792</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John S. C. Abbott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:22:24.727789+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Adventures of Rear-Admiral John Paul Jones, Commonly Called Paul Jones, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

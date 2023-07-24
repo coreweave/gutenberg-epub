@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33795</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a03f4418-c136-49e8-9f0a-e3f78bcc3449</dc:identifier>
+        <dc:title>The Art of Disappearing</dc:title>
+        <dc:creator opf:file-as="Smith, John Talbot" opf:role="aut">John Talbot Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Disguise -- Fiction</dc:subject>
+        <dc:subject>Irish Americans -- Fiction</dc:subject>
+        <dc:subject>Catholics -- United States -- Fiction</dc:subject>
+        <dc:subject>Runaway husbands -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Talbot Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:15:08.654043+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Disappearing, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

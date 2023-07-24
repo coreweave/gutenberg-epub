@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec3e4e34-ec5f-403a-b620-5a222943967e</dc:identifier>
+        <dc:title>Music Notation and Terminology</dc:title>
+        <dc:creator opf:file-as="Gehrkens, Karl Wilson" opf:role="aut">Karl Wilson Gehrkens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19499</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Musical notation</dc:subject>
+        <dc:subject>Music -- Terminology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karl Wilson Gehrkens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:06:05.444031+00:00"/>
+        <meta name="calibre:title_sort" content="Music Notation and Terminology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

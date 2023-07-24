@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a1ffa30-58c5-43d4-be13-c581e4b7facd</dc:identifier>
+        <dc:title>Father Thrift and His Animal Friends</dc:title>
+        <dc:creator opf:file-as="Sindelar, Joseph C. (Joseph Charles)" opf:role="aut">Joseph C. Sindelar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43287</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Readers</dc:subject>
+        <dc:subject>Human-animal relationships -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph C. Sindelar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:57:01.599597+00:00"/>
+        <meta name="calibre:title_sort" content="Father Thrift and His Animal Friends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

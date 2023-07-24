@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16055</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e6e3aad-0d6d-43e1-a4d6-d481a94e68b0</dc:identifier>
+        <dc:title>History of Madeley / including Ironbridge, Coalbrookdale, and Coalport</dc:title>
+        <dc:creator opf:file-as="Randall, John" opf:role="aut">John Randall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62423</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Madeley (Shropshire</dc:subject>
+        <dc:subject>England) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Randall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:46:59.863919+00:00"/>
+        <meta name="calibre:title_sort" content="History of Madeley / including Ironbridge, Coalbrookdale, and Coalport"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

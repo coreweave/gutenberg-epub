@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d898d13-0e1f-4851-8269-67b1616b47cf</dc:identifier>
+        <dc:title>A Floating City, and The Blockade Runners</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67829</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Eastern (Steamship) -- Fiction</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Blockades -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jules Verne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:41:31.077360+00:00"/>
+        <meta name="calibre:title_sort" content="Floating City, and The Blockade Runners, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

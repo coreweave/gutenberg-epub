@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8ff9c16-7151-4000-b5a7-2fbc149d0124</dc:identifier>
+        <dc:title>Henry Irving's Impressions of America / Narrated in a Series of Sketches, Chronicles, and Conversations</dc:title>
+        <dc:creator opf:file-as="Hatton, Joseph" opf:role="aut">Joseph Hatton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52357</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>Actors -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Irving</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1838-1905 -- Travel -- United States</dc:subject>
+        <dc:subject>British -- United States -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Hatton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:28:50.686349+00:00"/>
+        <meta name="calibre:title_sort" content="Henry Irving's Impressions of America / Narrated in a Series of Sketches, Chronicles, and Conversations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

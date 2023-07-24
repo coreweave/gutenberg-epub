@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b07f3bb4-377a-4ec9-9126-f8c1aff502bc</dc:identifier>
+        <dc:title>Joseph II. and His Court: An Historical Novel</dc:title>
+        <dc:creator opf:file-as="Mühlbach, L. (Luise)" opf:role="aut">L. Mühlbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3793</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Joseph II</dc:subject>
+        <dc:subject>Holy Roman Emperor</dc:subject>
+        <dc:subject>1741-1790 -- Fiction</dc:subject>
+        <dc:subject>Austria -- History -- Joseph II</dc:subject>
+        <dc:subject>1780-1790 -- Fiction</dc:subject>
+        <dc:subject>Courts and courtiers -- Fiction</dc:subject>
+        <dc:subject>Holy Roman Empire -- History -- Joseph II</dc:subject>
+        <dc:subject>1765-1790 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Mühlbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:12:15.028550+00:00"/>
+        <meta name="calibre:title_sort" content="Joseph II. and His Court: An Historical Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

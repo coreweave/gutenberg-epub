@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6013ed9-4533-4ed2-b44d-c715881c45ac</dc:identifier>
+        <dc:title>Five Tales</dc:title>
+        <dc:creator opf:file-as="Galsworthy, John" opf:role="aut">John Galsworthy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Forsyte family (Fictitious characters) -- Fiction</dc:subject>
+        <dc:subject>Families -- England -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Galsworthy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:06:13.022075+00:00"/>
+        <meta name="calibre:title_sort" content="Five Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

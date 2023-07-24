@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">175e7c84-5810-45b6-8449-9ba2f2f193fe</dc:identifier>
+        <dc:title>The Swamp Doctor's Adventures in The South-West / Containing the Whole of The Louisiana Swamp Doctor; Streaks of Squatter Life; and Far-Western Scenes; In a Series of Forty-Two Humorous Southern and Western Sketches, Descriptive of Incidents and Character</dc:title>
+        <dc:creator opf:file-as="Robb, John S." opf:role="aut">John S. Robb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46329</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southwest</dc:subject>
+        <dc:subject>Old -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John S. Robb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:47:03.480014+00:00"/>
+        <meta name="calibre:title_sort" content="Swamp Doctor's Adventures in The South-West / Containing the Whole of The Louisiana Swamp Doctor; Streaks of Squatter Life; and Far-Western Scenes; In a Series of Forty-Two Humorous Southern and Western Sketches, Descriptive of Incidents and Character, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

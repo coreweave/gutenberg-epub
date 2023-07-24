@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32454</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb70e286-3bc8-4819-a548-900bc006f7c7</dc:identifier>
+        <dc:title>Take the Reason Prisoner</dc:title>
+        <dc:creator opf:file-as="McGuire, John Joseph" opf:role="aut">John Joseph McGuire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30972</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Prisons -- Fiction</dc:subject>
+        <dc:subject>Prison wardens -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Joseph McGuire&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:09:52.131399+00:00"/>
+        <meta name="calibre:title_sort" content="Take the Reason Prisoner"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

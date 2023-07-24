@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f07fffe-5a7f-4197-a861-fc3fa66d089a</dc:identifier>
+        <dc:title>Observations on antimony / Read before the Medical Society of London, and published at their request</dc:title>
+        <dc:creator opf:file-as="Millar, John" opf:role="aut">John Millar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59698</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Antimony -- Therapeutic use</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Millar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:07:11.657475+00:00"/>
+        <meta name="calibre:title_sort" content="Observations on antimony / Read before the Medical Society of London, and published at their request"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

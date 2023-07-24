@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aba4beb-a415-472d-9b76-6cfa58ba23f7</dc:identifier>
+        <dc:title>The River and I</dc:title>
+        <dc:creator opf:file-as="Neihardt, John G." opf:role="aut">John G. Neihardt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16793</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Missouri River -- Description and travel</dc:subject>
+        <dc:subject>Neihardt</dc:subject>
+        <dc:subject>John Gneisenau</dc:subject>
+        <dc:subject>1881-1973 -- Travel -- Missouri River</dc:subject>
+        <dc:subject>1881-1973 -- Travel -- Yellowstone River</dc:subject>
+        <dc:subject>Yellowstone River -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John G. Neihardt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:50:16.731154+00:00"/>
+        <meta name="calibre:title_sort" content="River and I, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b82a447b-8f7c-48ab-b6de-b5bd4939cd44</dc:identifier>
+        <dc:title>Observations on Madness and Melancholy / Including Practical Remarks on those Diseases together with Cases and an Account of the Morbid Appearances on Dissection</dc:title>
+        <dc:creator opf:file-as="Haslam, John" opf:role="aut">John Haslam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37144</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Pathological</dc:subject>
+        <dc:subject>Psychiatry -- Early works to 1900</dc:subject>
+        <dc:subject>Depression</dc:subject>
+        <dc:subject>Mental</dc:subject>
+        <dc:subject>Melancholy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Haslam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:07:03.883627+00:00"/>
+        <meta name="calibre:title_sort" content="Observations on Madness and Melancholy / Including Practical Remarks on those Diseases together with Cases and an Account of the Morbid Appearances on Dissection"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

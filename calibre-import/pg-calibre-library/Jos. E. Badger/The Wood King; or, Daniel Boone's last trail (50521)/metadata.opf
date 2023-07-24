@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ba30ac0-5875-40cf-a581-2275a9792560</dc:identifier>
+        <dc:title>The Wood King; or, Daniel Boone's last trail</dc:title>
+        <dc:creator opf:file-as="Badger, Jos. E. (Joseph Edward)" opf:role="aut">Jos. E. Badger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69490</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Missouri -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Boone</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1734-1820 -- Fiction</dc:subject>
+        <dc:subject>Potawatomi Indians -- Fiction</dc:subject>
+        <dc:subject>Kickapoo Indians -- Fiction</dc:subject>
+        <dc:subject>Osage Indians -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jos. E. Badger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:38:54.577041+00:00"/>
+        <meta name="calibre:title_sort" content="Wood King; or, Daniel Boone's last trail, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c25bbf8-9d84-4c15-ad06-130e53e69229</dc:identifier>
+        <dc:title>The Masquerader</dc:title>
+        <dc:creator opf:file-as="Thurston, Katherine Cecil" opf:role="aut">Katherine Cecil Thurston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5422</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cousins -- Fiction</dc:subject>
+        <dc:subject>Legislators -- Fiction</dc:subject>
+        <dc:subject>Husband and wife -- Fiction</dc:subject>
+        <dc:subject>Impersonation -- Fiction</dc:subject>
+        <dc:subject>Success -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Katherine Cecil Thurston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:24:37.363822+00:00"/>
+        <meta name="calibre:title_sort" content="Masquerader, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

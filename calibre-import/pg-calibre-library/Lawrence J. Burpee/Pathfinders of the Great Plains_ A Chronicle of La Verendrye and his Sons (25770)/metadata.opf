@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69d4f25f-337b-4b69-bacb-e296a969b3e5</dc:identifier>
+        <dc:title>Pathfinders of the Great Plains: A Chronicle of La Vérendrye and his Sons</dc:title>
+        <dc:creator opf:file-as="Burpee, Lawrence J. (Lawrence Johnstone)" opf:role="aut">Lawrence J. Burpee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New France -- Discovery and exploration</dc:subject>
+        <dc:subject>La Vérendrye</dc:subject>
+        <dc:subject>Pierre Gaultier de Varennes</dc:subject>
+        <dc:subject>sieur de</dc:subject>
+        <dc:subject>1685-1749</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lawrence J. Burpee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:00:58.966183+00:00"/>
+        <meta name="calibre:title_sort" content="Pathfinders of the Great Plains: A Chronicle of La Vérendrye and his Sons"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

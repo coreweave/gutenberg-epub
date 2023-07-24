@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c304eb93-305f-40f0-bf3a-6997cabee27d</dc:identifier>
+        <dc:title>A Southern Cross fairy tale</dc:title>
+        <dc:creator opf:file-as="Clark, Kate McCosh" opf:role="aut">Kate McCosh Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69782</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy literature</dc:subject>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Birds -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Christmas -- Juvenile fiction</dc:subject>
+        <dc:subject>Maori (New Zealand people) -- Juvenile fiction</dc:subject>
+        <dc:subject>New Zealand -- Juvenile fiction</dc:subject>
+        <dc:subject>Dreams -- Juvenile fiction</dc:subject>
+        <dc:subject>Geysers -- Juvenile fiction</dc:subject>
+        <dc:subject>Fairy tales -- New Zealand</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kate McCosh Clark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:07:03.643112+00:00"/>
+        <meta name="calibre:title_sort" content="Southern Cross fairy tale, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

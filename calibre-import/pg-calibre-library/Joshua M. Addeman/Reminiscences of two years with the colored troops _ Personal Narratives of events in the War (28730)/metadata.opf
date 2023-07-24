@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc5e28cd-ce36-4aab-9f4b-54a79ad068c5</dc:identifier>
+        <dc:title>Reminiscences of two years with the colored troops / Personal Narratives of events in the War of the Rebellion, being papers read before the Rhode Island Soldiers and Sailors Historical Society. No. 7, Second Series</dc:title>
+        <dc:creator opf:file-as="Addeman, Joshua M. (Joshua Melancthon)" opf:role="aut">Joshua M. Addeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26747</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Louisiana -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>United States. Army. Rhode Island Heavy Artillery Regiment (Colored)</dc:subject>
+        <dc:subject>14th (1863-1864)</dc:subject>
+        <dc:subject>United States. Army. Colored Heavy Artillery Regiment</dc:subject>
+        <dc:subject>8th (1864)</dc:subject>
+        <dc:subject>11th (1864-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joshua M. Addeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:11:47.185623+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of two years with the colored troops / Personal Narratives of events in the War of the Rebellion, being papers read before the Rhode Island Soldiers and Sailors Historical Society. No. 7, Second Series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

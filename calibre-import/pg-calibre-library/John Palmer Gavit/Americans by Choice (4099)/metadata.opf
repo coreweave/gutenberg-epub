@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4099</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1c9e14d-4e23-448b-836e-0ba7495a19c5</dc:identifier>
+        <dc:title>Americans by Choice</dc:title>
+        <dc:creator opf:file-as="Gavit, John Palmer" opf:role="aut">John Palmer Gavit</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60576</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Immigrants -- United States</dc:subject>
+        <dc:subject>Americanization</dc:subject>
+        <dc:subject>Aliens -- United States</dc:subject>
+        <dc:subject>Civics</dc:subject>
+        <dc:subject>Naturalization -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Palmer Gavit&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:39.651828+00:00"/>
+        <meta name="calibre:title_sort" content="Americans by Choice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

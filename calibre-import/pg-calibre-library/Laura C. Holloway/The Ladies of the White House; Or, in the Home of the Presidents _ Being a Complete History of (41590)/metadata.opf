@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1a9e0fe-27c6-4ab4-ada7-732d99b688af</dc:identifier>
+        <dc:title>The Ladies of the White House; Or, in the Home of the Presidents / Being a Complete History of the Social and Domestic Lives of the Presidents from Washington to the Present Time—1789–1881</dc:title>
+        <dc:creator opf:file-as="Holloway, Laura C. (Laura Carter)" opf:role="aut">Laura C. Holloway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66909</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <dc:subject>Presidents' spouses -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laura C. Holloway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:57:02.657622+00:00"/>
+        <meta name="calibre:title_sort" content="Ladies of the White House; Or, in the Home of the Presidents / Being a Complete History of the Social and Domestic Lives of the Presidents from Washington to the Present Time—1789–1881, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

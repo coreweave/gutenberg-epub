@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ab5a7e5-7c64-499a-8343-f472358061a8</dc:identifier>
+        <dc:title>Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience</dc:title>
+        <dc:creator opf:file-as="Brockett, L. P. (Linus Pierpont)" opf:role="aut">L. P. Brockett</dc:creator>
+        <dc:creator opf:file-as="Brockett, L. P. (Linus Pierpont)" opf:role="aut">Mary C. Vaughan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21853</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Biography</dc:subject>
+        <dc:subject>1861-1865 -- Hospitals</dc:subject>
+        <dc:subject>1861-1865 -- Women</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. P. Brockett&quot;: &quot;&quot;, &quot;Mary C. Vaughan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:46:44.488963+00:00"/>
+        <meta name="calibre:title_sort" content="Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f223efdd-d4cc-4bde-b316-fc060da5033b</dc:identifier>
+        <dc:title>The True Woman / A Series of Discourses, to Which Is Added Woman vs. Ballot</dc:title>
+        <dc:creator opf:file-as="Fulton, Justin D. (Justin Dewey)" opf:role="aut">Justin D. Fulton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12790</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Suffrage</dc:subject>
+        <dc:subject>Women -- Religious aspects -- Christianity</dc:subject>
+        <dc:subject>Husband and wife</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Justin D. Fulton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:32:49.492974+00:00"/>
+        <meta name="calibre:title_sort" content="True Woman / A Series of Discourses, to Which Is Added Woman vs. Ballot, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40874</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18696758-2bf9-455c-9c29-df94b83e7f48</dc:identifier>
+        <dc:title>The Impostor: A Tale of Old Annapolis</dc:title>
+        <dc:creator opf:file-as="Scott, John Reed" opf:role="aut">John Reed Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59975</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Impostors and imposture -- Fiction</dc:subject>
+        <dc:subject>Annapolis (Md.) -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Reed Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:17:49.765532+00:00"/>
+        <meta name="calibre:title_sort" content="Impostor: A Tale of Old Annapolis, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5023a380-c872-43a6-bd37-4238d46687d6</dc:identifier>
+        <dc:title>The Story of Waitstill Baxter</dc:title>
+        <dc:creator opf:file-as="Wiggin, Kate Douglas Smith" opf:role="aut">Kate Douglas Smith Wiggin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1701</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sisters -- Fiction</dc:subject>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>New England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kate Douglas Smith Wiggin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:25:39.729245+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Waitstill Baxter, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dff4132a-aedb-4a16-8bb1-9ce9d089c35c</dc:identifier>
+        <dc:title>The Fifth String</dc:title>
+        <dc:creator opf:file-as="Sousa, John Philip" opf:role="aut">John Philip Sousa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29481</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Violinists -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Philip Sousa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:11:19.618113+00:00"/>
+        <meta name="calibre:title_sort" content="Fifth String, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

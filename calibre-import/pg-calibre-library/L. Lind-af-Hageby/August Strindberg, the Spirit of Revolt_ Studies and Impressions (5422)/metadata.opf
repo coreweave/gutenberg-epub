@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99b262c3-fe6d-4436-9e32-b4c40d1af25f</dc:identifier>
+        <dc:title>August Strindberg, the Spirit of Revolt: Studies and Impressions</dc:title>
+        <dc:creator opf:file-as="Lind-af-Hageby, L. (Lizzy)" opf:role="aut">L. Lind-af-Hageby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44025</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Strindberg</dc:subject>
+        <dc:subject>August</dc:subject>
+        <dc:subject>1849-1912</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Lind-af-Hageby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:00:45.531536+00:00"/>
+        <meta name="calibre:title_sort" content="August Strindberg, the Spirit of Revolt: Studies and Impressions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

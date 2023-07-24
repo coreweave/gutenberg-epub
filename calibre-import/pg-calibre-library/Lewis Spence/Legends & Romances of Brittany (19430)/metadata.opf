@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">435e1ad0-94ea-4096-a5d7-2a7fb1eeb1d7</dc:identifier>
+        <dc:title>Legends &amp; Romances of Brittany</dc:title>
+        <dc:creator opf:file-as="Spence, Lewis" opf:role="aut">Lewis Spence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30871</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legends -- France -- Brittany</dc:subject>
+        <dc:subject>Folklore -- France -- Brittany</dc:subject>
+        <dc:subject>Brittany (France) -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis Spence&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:43:29.257197+00:00"/>
+        <meta name="calibre:title_sort" content="Legends &amp; Romances of Brittany"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

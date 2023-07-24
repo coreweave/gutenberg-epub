@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dde6dd7-78b7-4599-9eeb-1f0e0aa35d10</dc:identifier>
+        <dc:title>Baseball Joe, Captain of the Team; or, Bitter Struggles on the Diamond</dc:title>
+        <dc:creator opf:file-as="Chadwick, Lester" opf:role="aut">Lester Chadwick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44716</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young men -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Revenge -- Juvenile fiction</dc:subject>
+        <dc:subject>Diligence -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Jealousy -- Juvenile fiction</dc:subject>
+        <dc:subject>Baseball stories</dc:subject>
+        <dc:subject>Baseball players -- Juvenile fiction</dc:subject>
+        <dc:subject>New York Giants (Baseball team) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lester Chadwick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:08:44.559945+00:00"/>
+        <meta name="calibre:title_sort" content="Baseball Joe, Captain of the Team; or, Bitter Struggles on the Diamond"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

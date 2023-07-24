@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">893</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d72e350-c858-465b-800a-2bbe61c4ed2c</dc:identifier>
+        <dc:title>A Desperate Game: A Comic Drama in One Act</dc:title>
+        <dc:creator opf:file-as="Morton, John Maddison" opf:role="aut">John Maddison Morton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45628</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>English drama -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Maddison Morton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:25.748028+00:00"/>
+        <meta name="calibre:title_sort" content="Desperate Game: A Comic Drama in One Act, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

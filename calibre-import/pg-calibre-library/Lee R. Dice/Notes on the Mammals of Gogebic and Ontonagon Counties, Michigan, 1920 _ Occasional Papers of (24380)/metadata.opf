@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24380</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">645f0e62-4d2f-4581-8731-59d2723f0087</dc:identifier>
+        <dc:title>Notes on the Mammals of Gogebic and Ontonagon Counties, Michigan, 1920 / Occasional Papers of the Museum of Zoology, Number 109</dc:title>
+        <dc:creator opf:file-as="Dice, Lee R. (Lee Raymond)" opf:role="aut">Lee R. Dice</dc:creator>
+        <dc:creator opf:file-as="Dice, Lee R. (Lee Raymond)" opf:role="aut">Harley Bakwel Sherman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37753</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mammals -- Michigan -- Ontonagon County</dc:subject>
+        <dc:subject>Mammals -- Michigan -- Gogebic County</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lee R. Dice&quot;: &quot;&quot;, &quot;Harley Bakwel Sherman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:02:39.748162+00:00"/>
+        <meta name="calibre:title_sort" content="Notes on the Mammals of Gogebic and Ontonagon Counties, Michigan, 1920 / Occasional Papers of the Museum of Zoology, Number 109"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

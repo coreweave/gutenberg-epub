@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7ccdb44-2997-42ad-aafa-f16ee21eb299</dc:identifier>
+        <dc:title>Down the Columbia</dc:title>
+        <dc:creator opf:file-as="Freeman, Lewis R. (Lewis Ransome)" opf:role="aut">Lewis R. Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38249</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Columbia River -- Description and travel</dc:subject>
+        <dc:subject>Freeman</dc:subject>
+        <dc:subject>Lewis R. (Lewis Ransome)</dc:subject>
+        <dc:subject>1878-1960 -- Travel -- Columbia River</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis R. Freeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:11:30.302330+00:00"/>
+        <meta name="calibre:title_sort" content="Down the Columbia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

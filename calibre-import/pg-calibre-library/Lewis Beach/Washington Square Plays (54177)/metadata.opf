@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35031c2b-060f-48d6-8937-dfb7443adac5</dc:identifier>
+        <dc:title>Washington Square Plays</dc:title>
+        <dc:creator opf:file-as="Beach, Lewis" opf:role="aut">Lewis Beach</dc:creator>
+        <dc:creator opf:file-as="Beach, Lewis" opf:role="aut">Alice Gerstenberg</dc:creator>
+        <dc:creator opf:file-as="Beach, Lewis" opf:role="aut">Edward Goodman</dc:creator>
+        <dc:creator opf:file-as="Beach, Lewis" opf:role="aut">Philip Moeller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>One-act plays</dc:subject>
+        <dc:subject>American drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis Beach&quot;: &quot;&quot;, &quot;Alice Gerstenberg&quot;: &quot;&quot;, &quot;Edward Goodman&quot;: &quot;&quot;, &quot;Philip Moeller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:34:21.030588+00:00"/>
+        <meta name="calibre:title_sort" content="Washington Square Plays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

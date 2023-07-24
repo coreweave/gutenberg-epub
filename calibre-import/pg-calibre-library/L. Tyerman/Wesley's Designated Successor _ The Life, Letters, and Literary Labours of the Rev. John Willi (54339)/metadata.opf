@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">806ae69c-30fb-4400-860c-3538e7940966</dc:identifier>
+        <dc:title>Wesley's Designated Successor / The Life, Letters, and Literary Labours of the Rev. John William Fletcher, Vicar of Madeley, Shropshire</dc:title>
+        <dc:creator opf:file-as="Tyerman, L. (Luke)" opf:role="aut">L. Tyerman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fletcher</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1729-1785</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Tyerman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:44:46.818176+00:00"/>
+        <meta name="calibre:title_sort" content="Wesley's Designated Successor / The Life, Letters, and Literary Labours of the Rev. John William Fletcher, Vicar of Madeley, Shropshire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

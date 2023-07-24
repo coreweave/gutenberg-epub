@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01de58c7-9d13-4eaa-a351-4d34afce3335</dc:identifier>
+        <dc:title>Reminiscences of Samuel Taylor Coleridge and Robert Southey</dc:title>
+        <dc:creator opf:file-as="Cottle, Joseph" opf:role="aut">Joseph Cottle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8580</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Southey</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1774-1843</dc:subject>
+        <dc:subject>Coleridge</dc:subject>
+        <dc:subject>Samuel Taylor</dc:subject>
+        <dc:subject>1772-1834</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Cottle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:10:20.378639+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of Samuel Taylor Coleridge and Robert Southey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

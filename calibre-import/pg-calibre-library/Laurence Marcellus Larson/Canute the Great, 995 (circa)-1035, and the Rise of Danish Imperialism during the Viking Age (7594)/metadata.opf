@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77409455-c46f-4c70-baef-616cb3de6991</dc:identifier>
+        <dc:title>Canute the Great, 995 (circa)-1035, and the Rise of Danish Imperialism during the Viking Age</dc:title>
+        <dc:creator opf:file-as="Larson, Laurence Marcellus" opf:role="aut">Laurence Marcellus Larson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canute I</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>995?-1035</dc:subject>
+        <dc:subject>Danes -- England -- Kings and rulers -- Biography</dc:subject>
+        <dc:subject>Northmen -- Great Britain</dc:subject>
+        <dc:subject>Vikings -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Civilization -- Scandinavian influences</dc:subject>
+        <dc:subject>Denmark -- Kings and rulers -- Biography</dc:subject>
+        <dc:subject>Great Britain -- History -- Canute</dc:subject>
+        <dc:subject>1017-1035</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laurence Marcellus Larson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:48:38.959653+00:00"/>
+        <meta name="calibre:title_sort" content="Canute the Great, 995 (circa)-1035, and the Rise of Danish Imperialism during the Viking Age"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

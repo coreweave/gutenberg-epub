@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4b9e6fc-ecb8-4a5f-ade1-d30549e2cca6</dc:identifier>
+        <dc:title>The Hallowell Partnership</dc:title>
+        <dc:creator opf:file-as="Brown, Katharine Holland" opf:role="aut">Katharine Holland Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41052</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civil engineers -- Fiction</dc:subject>
+        <dc:subject>Siblings -- Fiction</dc:subject>
+        <dc:subject>Invalids -- Fiction</dc:subject>
+        <dc:subject>Illinois -- Fiction</dc:subject>
+        <dc:subject>Young women -- Conduct of life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Katharine Holland Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:27:14.514435+00:00"/>
+        <meta name="calibre:title_sort" content="Hallowell Partnership, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

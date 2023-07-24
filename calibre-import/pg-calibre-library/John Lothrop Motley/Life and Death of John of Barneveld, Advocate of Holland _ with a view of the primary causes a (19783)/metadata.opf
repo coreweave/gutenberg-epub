@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0983d254-f57c-4bac-adef-444986ad56db</dc:identifier>
+        <dc:title>Life and Death of John of Barneveld, Advocate of Holland : with a view of the primary causes and movements of the Thirty Years' War, 1617</dc:title>
+        <dc:creator opf:file-as="Motley, John Lothrop" opf:role="aut">John Lothrop Motley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4894</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Oldenbarnevelt</dc:subject>
+        <dc:subject>Johan van</dc:subject>
+        <dc:subject>1547-1619</dc:subject>
+        <dc:subject>Thirty Years' War</dc:subject>
+        <dc:subject>1618-1648</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Lothrop Motley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:56:17.036531+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Death of John of Barneveld, Advocate of Holland : with a view of the primary causes and movements of the Thirty Years' War, 1617"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

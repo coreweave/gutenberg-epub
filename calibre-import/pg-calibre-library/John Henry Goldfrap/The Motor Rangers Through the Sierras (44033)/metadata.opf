@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27aa4a5c-75c5-4c25-9fc6-9cf7a5d46c91</dc:identifier>
+        <dc:title>The Motor Rangers Through the Sierras</dc:title>
+        <dc:creator opf:file-as="Goldfrap, John Henry" opf:role="aut">John Henry Goldfrap</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43917</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery and detective stories</dc:subject>
+        <dc:subject>Automobile travel -- Juvenile fiction</dc:subject>
+        <dc:subject>Sierra Nevada (Calif. and Nev.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Outlaws -- Juvenile fiction</dc:subject>
+        <dc:subject>Sapphires -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Henry Goldfrap&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:12:45.874249+00:00"/>
+        <meta name="calibre:title_sort" content="Motor Rangers Through the Sierras, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ff77e52-95c9-400b-ad7b-7b94bb837f0b</dc:identifier>
+        <dc:title>The Dawn of Reason; or, Mental Traits in the Lower Animals</dc:title>
+        <dc:creator opf:file-as="Weir, James, Jr." opf:role="aut">Jr. James Weir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21608</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Comparative</dc:subject>
+        <dc:subject>Reason</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. James Weir&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:05:06.544671+00:00"/>
+        <meta name="calibre:title_sort" content="Dawn of Reason; or, Mental Traits in the Lower Animals, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

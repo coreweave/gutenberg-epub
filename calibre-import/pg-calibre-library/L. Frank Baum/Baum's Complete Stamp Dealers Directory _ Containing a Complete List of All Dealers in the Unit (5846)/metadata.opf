@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88321f81-0358-48a6-beb6-c027a75c2fb0</dc:identifier>
+        <dc:title>Baum's Complete Stamp Dealers Directory / Containing a Complete List of All Dealers in the United States, Together with the Principal Ones of Europe, and a List of Philatelic Publications</dc:title>
+        <dc:creator opf:file-as="Baum, L. Frank (Lyman Frank)" opf:role="aut">L. Frank Baum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postage stamps -- United States -- Directories</dc:subject>
+        <dc:subject>Stamp collecting -- Directories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Frank Baum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:09:36.525140+00:00"/>
+        <meta name="calibre:title_sort" content="Baum's Complete Stamp Dealers Directory / Containing a Complete List of All Dealers in the United States, Together with the Principal Ones of Europe, and a List of Philatelic Publications"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

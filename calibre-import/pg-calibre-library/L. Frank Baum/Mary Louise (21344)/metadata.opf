@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7beedba-eced-46b0-b843-16c9de55e7ae</dc:identifier>
+        <dc:title>Mary Louise</dc:title>
+        <dc:creator opf:file-as="Baum, L. Frank (Lyman Frank)" opf:role="aut">L. Frank Baum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5660</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Teenage girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Burrows</dc:subject>
+        <dc:subject>Mary Louise (Fictitious character) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Frank Baum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:55:43.595813+00:00"/>
+        <meta name="calibre:title_sort" content="Mary Louise"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

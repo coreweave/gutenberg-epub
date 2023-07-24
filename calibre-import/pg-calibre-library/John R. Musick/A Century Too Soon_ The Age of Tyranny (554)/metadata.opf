@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83cae58b-063f-40de-8c55-ddb00acda04e</dc:identifier>
+        <dc:title>A Century Too Soon: The Age of Tyranny</dc:title>
+        <dc:creator opf:file-as="Musick, John R. (John Roy)" opf:role="aut">John R. Musick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10387</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775 -- Fiction</dc:subject>
+        <dc:subject>Bacon's Rebellion</dc:subject>
+        <dc:subject>1676 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John R. Musick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:34:17.328250+00:00"/>
+        <meta name="calibre:title_sort" content="Century Too Soon: The Age of Tyranny, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

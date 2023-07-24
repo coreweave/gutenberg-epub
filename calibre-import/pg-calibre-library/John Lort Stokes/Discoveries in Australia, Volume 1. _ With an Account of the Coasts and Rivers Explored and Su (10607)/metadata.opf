@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d96ce6a8-50e4-438e-9fbc-8bac814a8ce9</dc:identifier>
+        <dc:title>Discoveries in Australia, Volume 1. / With an Account of the Coasts and Rivers Explored and Surveyed During / The Voyage of H.M.S. Beagle, in the Years 1837-38-39-40-41-42-43. / By Command of the Lords Commissioners of the Admiralty. Also a Narrative / Of Captain Owen Stanley's Visits to the Islands in the Arafura Sea.</dc:title>
+        <dc:creator opf:file-as="Stokes, John Lort" opf:role="aut">John Lort Stokes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12115</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Description and travel</dc:subject>
+        <dc:subject>Australia -- Discovery and exploration</dc:subject>
+        <dc:subject>Natural history -- Australia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Lort Stokes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:04:11.822699+00:00"/>
+        <meta name="calibre:title_sort" content="Discoveries in Australia, Volume 1. / With an Account of the Coasts and Rivers Explored and Surveyed During / The Voyage of H.M.S. Beagle, in the Years 1837-38-39-40-41-42-43. / By Command of the Lords Commissioners of the Admiralty. Also a Narrative / Of Captain Owen Stanley's Visits to the Islands in the Arafura Sea."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

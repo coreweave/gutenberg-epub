@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d353df7-d56e-474e-b349-54c6044abb83</dc:identifier>
+        <dc:title>The Causes of the Corruption of the Traditional Text of the Holy Gospels / Being the Sequel to The Traditional Text of the Holy Gospels</dc:title>
+        <dc:creator opf:file-as="Burgon, John William" opf:role="aut">John William Burgon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Gospels -- Criticism</dc:subject>
+        <dc:subject>Textual</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John William Burgon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:56:01.362499+00:00"/>
+        <meta name="calibre:title_sort" content="Causes of the Corruption of the Traditional Text of the Holy Gospels / Being the Sequel to The Traditional Text of the Holy Gospels, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

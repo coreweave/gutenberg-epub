@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2dcb5032-a5bb-4369-b566-3a14cc56fbee</dc:identifier>
+        <dc:title>The Ocean Wireless Boys and the Lost Liner</dc:title>
+        <dc:creator opf:file-as="Goldfrap, John Henry" opf:role="aut">John Henry Goldfrap</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41265</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Telegraph</dc:subject>
+        <dc:subject>Wireless -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Henry Goldfrap&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:46:49.392605+00:00"/>
+        <meta name="calibre:title_sort" content="Ocean Wireless Boys and the Lost Liner, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7252334a-2d8b-4982-a6e4-8814cca97927</dc:identifier>
+        <dc:title>Memoirs of the Court of St. Cloud (Being secret letters from a gentleman at Paris to a nobleman in London) — Volume 4</dc:title>
+        <dc:creator opf:file-as="Goldsmith, Lewis" opf:role="aut">Lewis Goldsmith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3895</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821</dc:subject>
+        <dc:subject>France -- Court and courtiers</dc:subject>
+        <dc:subject>France -- History -- Consulate and First Empire</dc:subject>
+        <dc:subject>1799-1815</dc:subject>
+        <dc:subject>France -- Kings and rulers -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis Goldsmith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:14:36.447721+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Court of St. Cloud (Being secret letters from a gentleman at Paris to a nobleman in London) — Volume 4"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

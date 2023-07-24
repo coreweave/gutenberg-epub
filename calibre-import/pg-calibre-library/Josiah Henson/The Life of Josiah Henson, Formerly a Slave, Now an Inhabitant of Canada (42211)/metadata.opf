@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e81e577-a31a-4f6b-b19f-2fdded2b0cdc</dc:identifier>
+        <dc:title>The Life of Josiah Henson, Formerly a Slave, Now an Inhabitant of Canada</dc:title>
+        <dc:creator opf:file-as="Henson, Josiah" opf:role="aut">Josiah Henson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53609</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fugitive slaves -- United States -- Biography</dc:subject>
+        <dc:subject>African Americans -- Biography</dc:subject>
+        <dc:subject>Slaves -- United States -- Biography</dc:subject>
+        <dc:subject>Henson</dc:subject>
+        <dc:subject>Josiah</dc:subject>
+        <dc:subject>1789-1883</dc:subject>
+        <dc:subject>Fugitive slaves -- Canada -- Biography</dc:subject>
+        <dc:subject>Black people -- Canada -- Biography</dc:subject>
+        <dc:subject>Clergy -- Canada -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Josiah Henson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:31:13.106350+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Josiah Henson, Formerly a Slave, Now an Inhabitant of Canada, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

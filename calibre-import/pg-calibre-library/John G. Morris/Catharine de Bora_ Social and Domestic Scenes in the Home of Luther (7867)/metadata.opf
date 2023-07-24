@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efdf7d6c-145d-4f0c-abe6-7ba185711462</dc:identifier>
+        <dc:title>Catharine de Bora: Social and Domestic Scenes in the Home of Luther</dc:title>
+        <dc:creator opf:file-as="Morris, John G. (John Gottlieb)" opf:role="aut">John G. Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56084</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Luther</dc:subject>
+        <dc:subject>Katharina von Bora</dc:subject>
+        <dc:subject>1499-1552</dc:subject>
+        <dc:subject>Martin</dc:subject>
+        <dc:subject>1483-1546</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John G. Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:55:02.146177+00:00"/>
+        <meta name="calibre:title_sort" content="Catharine de Bora: Social and Domestic Scenes in the Home of Luther"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

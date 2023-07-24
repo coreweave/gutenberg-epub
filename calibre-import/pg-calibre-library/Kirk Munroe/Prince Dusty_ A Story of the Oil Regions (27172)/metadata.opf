@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb4a033f-0696-4353-b808-8de487f7f891</dc:identifier>
+        <dc:title>Prince Dusty: A Story of the Oil Regions</dc:title>
+        <dc:creator opf:file-as="Munroe, Kirk" opf:role="aut">Kirk Munroe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61969</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Railroad stories</dc:subject>
+        <dc:subject>Family life -- Juvenile fiction</dc:subject>
+        <dc:subject>Virginia -- Juvenile fiction</dc:subject>
+        <dc:subject>Runaways -- Juvenile fiction</dc:subject>
+        <dc:subject>Older African Americans -- Juvenile fiction</dc:subject>
+        <dc:subject>Petroleum workers -- Juvenile fiction</dc:subject>
+        <dc:subject>Oil well drilling -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kirk Munroe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:02:17.222081+00:00"/>
+        <meta name="calibre:title_sort" content="Prince Dusty: A Story of the Oil Regions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

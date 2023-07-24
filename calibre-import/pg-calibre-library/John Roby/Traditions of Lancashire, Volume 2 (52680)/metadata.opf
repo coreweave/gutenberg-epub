@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2fe4326-e6ef-4399-a7f4-bae5f02f7e36</dc:identifier>
+        <dc:title>Traditions of Lancashire, Volume 2</dc:title>
+        <dc:creator opf:file-as="Roby, John" opf:role="aut">John Roby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25256</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legends -- England -- Lancashire</dc:subject>
+        <dc:subject>English literature -- England -- Lancashire</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Roby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:57:41.785510+00:00"/>
+        <meta name="calibre:title_sort" content="Traditions of Lancashire, Volume 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

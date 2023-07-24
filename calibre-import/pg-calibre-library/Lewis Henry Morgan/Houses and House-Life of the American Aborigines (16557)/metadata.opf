@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a81f4b62-f762-4e6e-bd13-da40d1a90fbe</dc:identifier>
+        <dc:title>Houses and House-Life of the American Aborigines</dc:title>
+        <dc:creator opf:file-as="Morgan, Lewis Henry" opf:role="aut">Lewis Henry Morgan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Dwellings</dc:subject>
+        <dc:subject>Indians of North America -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis Henry Morgan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:03:48.550681+00:00"/>
+        <meta name="calibre:title_sort" content="Houses and House-Life of the American Aborigines"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

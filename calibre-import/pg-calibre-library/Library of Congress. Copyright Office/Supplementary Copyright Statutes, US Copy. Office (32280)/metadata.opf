@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84c103ab-5554-4417-8e16-349e2fe37abf</dc:identifier>
+        <dc:title>Supplementary Copyright Statutes, US Copy. Office</dc:title>
+        <dc:creator opf:file-as="Library of Congress. Copyright Office" opf:role="aut">Library of Congress. Copyright Office</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4365</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Copyright -- United States</dc:subject>
+        <dc:subject>Copyright</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Library of Congress. Copyright Office&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:01:34.966336+00:00"/>
+        <meta name="calibre:title_sort" content="Supplementary Copyright Statutes, US Copy. Office"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

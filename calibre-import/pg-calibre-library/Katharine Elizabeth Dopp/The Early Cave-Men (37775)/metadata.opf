@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf0d1c1b-4add-43f8-aac4-9266186c56a8</dc:identifier>
+        <dc:title>The Early Cave-Men</dc:title>
+        <dc:creator opf:file-as="Dopp, Katharine Elizabeth" opf:role="aut">Katharine Elizabeth Dopp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50057</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Archaeology -- Juvenile literature</dc:subject>
+        <dc:subject>Cave dwellers -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Katharine Elizabeth Dopp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:35:01.326377+00:00"/>
+        <meta name="calibre:title_sort" content="Early Cave-Men, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

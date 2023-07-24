@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52905</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1df0ade5-aa9d-4286-b74e-a1f30e2d4fc6</dc:identifier>
+        <dc:title>Trif and Trixy / A story of a dreadfully delightful little girl and her adoring and tormented parents, relations, and friends</dc:title>
+        <dc:creator opf:file-as="Habberton, John" opf:role="aut">John Habberton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51788</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Girls -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Habberton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:12:06.875044+00:00"/>
+        <meta name="calibre:title_sort" content="Trif and Trixy / A story of a dreadfully delightful little girl and her adoring and tormented parents, relations, and friends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

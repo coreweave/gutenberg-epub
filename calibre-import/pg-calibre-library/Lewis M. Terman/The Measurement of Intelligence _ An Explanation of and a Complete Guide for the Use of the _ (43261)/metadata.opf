@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45faff68-fa06-4d26-bc47-1ec23f43c22f</dc:identifier>
+        <dc:title>The Measurement of Intelligence / An Explanation of and a Complete Guide for the Use of the / Stanford Revision and Extension of the Binet-Simon / Intelligence Scale</dc:title>
+        <dc:creator opf:file-as="Terman, Lewis M. (Lewis Madison)" opf:role="aut">Lewis M. Terman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20662</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychophysiology</dc:subject>
+        <dc:subject>Child development</dc:subject>
+        <dc:subject>Intelligence tests</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis M. Terman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:29:32.959020+00:00"/>
+        <meta name="calibre:title_sort" content="Measurement of Intelligence / An Explanation of and a Complete Guide for the Use of the / Stanford Revision and Extension of the Binet-Simon / Intelligence Scale, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

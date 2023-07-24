@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">020a63c9-2c88-42c4-9257-c074ee33f3d8</dc:identifier>
+        <dc:title>The Elements of Perspective / arranged for the use of schools and intended to be read in connection with the first three books of Euclid</dc:title>
+        <dc:creator opf:file-as="Ruskin, John" opf:role="aut">John Ruskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Perspective</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ruskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:40:28.102830+00:00"/>
+        <meta name="calibre:title_sort" content="Elements of Perspective / arranged for the use of schools and intended to be read in connection with the first three books of Euclid, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

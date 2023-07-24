@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa7b8676-4404-4078-b664-70266743f155</dc:identifier>
+        <dc:title>The war against Germany: Europe and adjacent areas</dc:title>
+        <dc:creator opf:file-as="Hunter, Kenneth E." opf:role="aut">Kenneth E. Hunter</dc:creator>
+        <dc:creator opf:file-as="Hunter, Kenneth E." opf:role="aut">United States. Department of the Army. Office of Military History</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69527</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1939-1945 -- Campaigns -- Western Front</dc:subject>
+        <dc:subject>1939-1945 -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kenneth E. Hunter&quot;: &quot;&quot;, &quot;United States. Department of the Army. Office of Military History&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:03:15.089688+00:00"/>
+        <meta name="calibre:title_sort" content="war against Germany: Europe and adjacent areas, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

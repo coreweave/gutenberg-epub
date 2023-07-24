@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54067</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cde4fee2-28e3-47cd-8eab-37b638ab214c</dc:identifier>
+        <dc:title>Wanderings in India, and Other Sketches of Life in Hindostan</dc:title>
+        <dc:creator opf:file-as="Lang, John" opf:role="aut">John Lang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43997</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Description and travel</dc:subject>
+        <dc:subject>India -- Social life and customs -- 19th century</dc:subject>
+        <dc:subject>India -- History -- 19th century</dc:subject>
+        <dc:subject>Lang</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1816-1864 -- Travel -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Lang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:27:10.284908+00:00"/>
+        <meta name="calibre:title_sort" content="Wanderings in India, and Other Sketches of Life in Hindostan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

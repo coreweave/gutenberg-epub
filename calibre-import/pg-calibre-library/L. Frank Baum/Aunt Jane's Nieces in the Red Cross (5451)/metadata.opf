@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24cbf0a7-ac8f-4830-b6f8-c95bd937b7e6</dc:identifier>
+        <dc:title>Aunt Jane's Nieces in the Red Cross</dc:title>
+        <dc:creator opf:file-as="Baum, L. Frank (Lyman Frank)" opf:role="aut">L. Frank Baum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16567</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Family -- Juvenile fiction</dc:subject>
+        <dc:subject>Red Cross and Red Crescent -- Juvenile fiction</dc:subject>
+        <dc:subject>Nurses -- Juvenile fiction</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Medical care -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Frank Baum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:01:20.525204+00:00"/>
+        <meta name="calibre:title_sort" content="Aunt Jane's Nieces in the Red Cross"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

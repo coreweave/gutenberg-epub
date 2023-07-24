@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09ec80ea-aa22-485f-a959-bc100c6c19c2</dc:identifier>
+        <dc:title>Origin of the 'Reorganized' Church and the Question of Succession</dc:title>
+        <dc:creator opf:file-as="Smith, Joseph Fielding" opf:role="aut">Joseph Fielding Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50357</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormon Church -- Government</dc:subject>
+        <dc:subject>Reorganized Church of Jesus Christ of Latter Day Saints -- Government</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Fielding Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:35:15.686834+00:00"/>
+        <meta name="calibre:title_sort" content="Origin of the 'Reorganized' Church and the Question of Succession"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

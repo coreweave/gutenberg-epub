@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e711dba-ea90-4f87-8354-2a4d9a8eb6b2</dc:identifier>
+        <dc:title>A World of Girls: The Story of a School</dc:title>
+        <dc:creator opf:file-as="Meade, L. T." opf:role="aut">L. T. Meade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43147</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Boarding schools -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Students -- Juvenile fiction</dc:subject>
+        <dc:subject>Teachers -- Juvenile fiction</dc:subject>
+        <dc:subject>Pride and vanity -- Juvenile fiction</dc:subject>
+        <dc:subject>Good and evil -- Juvenile fiction</dc:subject>
+        <dc:subject>School principals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. T. Meade&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:16:26.547985+00:00"/>
+        <meta name="calibre:title_sort" content="World of Girls: The Story of a School, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

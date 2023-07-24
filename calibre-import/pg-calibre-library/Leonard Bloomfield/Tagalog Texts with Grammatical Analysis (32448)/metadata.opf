@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5de6423-1408-4e7e-aa42-2c9a4b6ebb9f</dc:identifier>
+        <dc:title>Tagalog Texts with Grammatical Analysis</dc:title>
+        <dc:creator opf:file-as="Bloomfield, Leonard" opf:role="aut">Leonard Bloomfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50797</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tagalog language -- Texts</dc:subject>
+        <dc:subject>Tagalog language -- Grammar</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leonard Bloomfield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:09:35.075425+00:00"/>
+        <meta name="calibre:title_sort" content="Tagalog Texts with Grammatical Analysis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

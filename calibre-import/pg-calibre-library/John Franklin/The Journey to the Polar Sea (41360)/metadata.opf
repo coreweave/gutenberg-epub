@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7123c2d3-09ad-434f-8a7f-1cf0222a79bf</dc:identifier>
+        <dc:title>The Journey to the Polar Sea</dc:title>
+        <dc:creator opf:file-as="Franklin, John" opf:role="aut">John Franklin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13518</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest Passage</dc:subject>
+        <dc:subject>Arctic regions -- Discovery and exploration -- British</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <dc:subject>Northern -- Description and travel</dc:subject>
+        <dc:subject>Franklin</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1786-1847 -- Diaries</dc:subject>
+        <dc:subject>Explorers -- Great Britain -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Franklin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:44:15.626348+00:00"/>
+        <meta name="calibre:title_sort" content="Journey to the Polar Sea, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

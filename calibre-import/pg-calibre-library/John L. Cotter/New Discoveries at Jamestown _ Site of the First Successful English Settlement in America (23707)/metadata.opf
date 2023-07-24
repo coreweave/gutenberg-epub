@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">423cd623-2c14-43ea-a99a-ee55d789c8b4</dc:identifier>
+        <dc:title>New Discoveries at Jamestown / Site of the First Successful English Settlement in America</dc:title>
+        <dc:creator opf:file-as="Cotter, John L." opf:role="aut">John L. Cotter</dc:creator>
+        <dc:creator opf:file-as="Cotter, John L." opf:role="aut">J. Paul Hudson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16277</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jamestown (Va.) -- Social life and customs</dc:subject>
+        <dc:subject>Jamestown (Va.) -- History</dc:subject>
+        <dc:subject>Jamestown (Va.) -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John L. Cotter&quot;: &quot;&quot;, &quot;J. Paul Hudson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:33:35.398699+00:00"/>
+        <meta name="calibre:title_sort" content="New Discoveries at Jamestown / Site of the First Successful English Settlement in America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

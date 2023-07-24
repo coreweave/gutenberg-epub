@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69093b5a-3178-4a97-ba92-6bb9933a6e17</dc:identifier>
+        <dc:title>Charles W. Quantrell / A True Report of His Guerrilla Warfare on the Missouri and Kansas Border During the Civil War of 1861 to 1865</dc:title>
+        <dc:creator opf:file-as="Burch, John P." opf:role="aut">John P. Burch</dc:creator>
+        <dc:creator opf:file-as="Burch, John P." opf:role="aut">Harrison Trow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Guerrilla warfare</dc:subject>
+        <dc:subject>Missouri -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>Kansas -- History -- Civil War</dc:subject>
+        <dc:subject>Quantrill</dc:subject>
+        <dc:subject>William Clarke</dc:subject>
+        <dc:subject>1837-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John P. Burch&quot;: &quot;&quot;, &quot;Harrison Trow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:05:25.051046+00:00"/>
+        <meta name="calibre:title_sort" content="Charles W. Quantrell / A True Report of His Guerrilla Warfare on the Missouri and Kansas Border During the Civil War of 1861 to 1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

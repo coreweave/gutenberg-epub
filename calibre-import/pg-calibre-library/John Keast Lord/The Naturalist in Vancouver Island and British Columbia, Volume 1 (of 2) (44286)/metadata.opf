@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aeb01233-8eac-473e-98fc-5d7646399168</dc:identifier>
+        <dc:title>The Naturalist in Vancouver Island and British Columbia, Volume 1 (of 2)</dc:title>
+        <dc:creator opf:file-as="Lord, John Keast" opf:role="aut">John Keast Lord</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64250</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British Columbia -- Description and travel</dc:subject>
+        <dc:subject>Vancouver Island (B.C.) -- Description and travel</dc:subject>
+        <dc:subject>Natural history -- British Columbia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Keast Lord&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:27:07.216786+00:00"/>
+        <meta name="calibre:title_sort" content="Naturalist in Vancouver Island and British Columbia, Volume 1 (of 2), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

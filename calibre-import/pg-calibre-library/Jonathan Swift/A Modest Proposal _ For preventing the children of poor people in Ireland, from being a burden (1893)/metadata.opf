@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1893</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba5f4cdf-ee2a-4d3e-aaec-93435da73935</dc:identifier>
+        <dc:title>A Modest Proposal / For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick</dc:title>
+        <dc:creator opf:file-as="Swift, Jonathan" opf:role="aut">Jonathan Swift</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1080</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political satire</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Religious satire</dc:subject>
+        <dc:subject>Ireland -- Politics and government -- 18th century -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Swift&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:21.730375+00:00"/>
+        <meta name="calibre:title_sort" content="Modest Proposal / For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

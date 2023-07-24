@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25949</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e3ef050-34e8-4e06-89c0-0b02bfc5b57f</dc:identifier>
+        <dc:title>Peggy from Kerry</dc:title>
+        <dc:creator opf:file-as="Meade, L. T." opf:role="aut">L. T. Meade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61829</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Teenage girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Adopted children -- Juvenile fiction</dc:subject>
+        <dc:subject>Boarding schools -- England -- Fiction</dc:subject>
+        <dc:subject>Irish -- England -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. T. Meade&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:08:37.364016+00:00"/>
+        <meta name="calibre:title_sort" content="Peggy from Kerry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

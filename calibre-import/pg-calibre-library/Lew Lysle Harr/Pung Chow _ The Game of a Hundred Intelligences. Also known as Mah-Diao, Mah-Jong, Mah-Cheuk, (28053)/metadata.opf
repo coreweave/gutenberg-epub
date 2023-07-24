@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77ed3536-0c62-4ea0-bbb6-90dde2565075</dc:identifier>
+        <dc:title>Pung Chow / The Game of a Hundred Intelligences. Also known as Mah-Diao, Mah-Jong, Mah-Cheuk, Mah-Juck and Pe-Ling</dc:title>
+        <dc:creator opf:file-as="Harr, Lew Lysle" opf:role="aut">Lew Lysle Harr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27318</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mah jong</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lew Lysle Harr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:41:07.270110+00:00"/>
+        <meta name="calibre:title_sort" content="Pung Chow / The Game of a Hundred Intelligences. Also known as Mah-Diao, Mah-Jong, Mah-Cheuk, Mah-Juck and Pe-Ling"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

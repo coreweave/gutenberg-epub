@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aefaabc4-876a-4c91-8b88-750b1e1c7210</dc:identifier>
+        <dc:title>The Journal to Eliza and Various letters by Laurence Sterne and Elizabeth Draper</dc:title>
+        <dc:creator opf:file-as="Sterne, Laurence" opf:role="aut">Laurence Sterne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- 18th century -- Correspondence</dc:subject>
+        <dc:subject>Sterne</dc:subject>
+        <dc:subject>Laurence</dc:subject>
+        <dc:subject>1713-1768 -- Correspondence</dc:subject>
+        <dc:subject>Draper</dc:subject>
+        <dc:subject>Elizabeth</dc:subject>
+        <dc:subject>1744-1778</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laurence Sterne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:43:58.765480+00:00"/>
+        <meta name="calibre:title_sort" content="Journal to Eliza and Various letters by Laurence Sterne and Elizabeth Draper, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

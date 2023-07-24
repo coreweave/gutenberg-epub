@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">651d9e1c-26d4-43e7-aad5-898f4b0b3f6a</dc:identifier>
+        <dc:title>Across the Reef: The Marine Assault of Tarawa</dc:title>
+        <dc:creator opf:file-as="Alexander, Joseph H." opf:role="aut">Joseph H. Alexander</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48836</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Marine Corps -- History -- World War</dc:subject>
+        <dc:subject>1939-1945</dc:subject>
+        <dc:subject>Tarawa</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Kiribati</dc:subject>
+        <dc:subject>1943</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph H. Alexander&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:22:41.541779+00:00"/>
+        <meta name="calibre:title_sort" content="Across the Reef: The Marine Assault of Tarawa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

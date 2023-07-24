@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd119d7e-6fce-4afe-b543-2a34e9b1e50b</dc:identifier>
+        <dc:title>Myths and Myth-Makers / Old Tales and Superstitions Interpreted by Comparative Mythology</dc:title>
+        <dc:creator opf:file-as="Fiske, John" opf:role="aut">John Fiske</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Fiske&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:20:55.293885+00:00"/>
+        <meta name="calibre:title_sort" content="Myths and Myth-Makers / Old Tales and Superstitions Interpreted by Comparative Mythology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

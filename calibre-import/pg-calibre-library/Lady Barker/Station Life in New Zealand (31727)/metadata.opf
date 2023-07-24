@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1865bc80-465a-4058-bf30-27b80bc08637</dc:identifier>
+        <dc:title>Station Life in New Zealand</dc:title>
+        <dc:creator opf:file-as="Barker, Lady (Mary Anne)" opf:role="aut">Lady Barker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6104</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Barker</dc:subject>
+        <dc:subject>Lady (Mary Anne)</dc:subject>
+        <dc:subject>1831-1911 -- Correspondence</dc:subject>
+        <dc:subject>Sheep ranches -- New Zealand</dc:subject>
+        <dc:subject>Governors' spouses -- New Zealand -- Correspondence</dc:subject>
+        <dc:subject>Country life -- New Zealand -- History</dc:subject>
+        <dc:subject>New Zealand -- Biography</dc:subject>
+        <dc:subject>New Zealand -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Barker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:34:04.439865+00:00"/>
+        <meta name="calibre:title_sort" content="Station Life in New Zealand"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

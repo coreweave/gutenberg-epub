@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36971</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddbd69a7-3a21-4553-b61a-80693a5b689a</dc:identifier>
+        <dc:title>The Crown of Wild Olive / also Munera Pulveris; Pre-Raphaelitism; Aratra Pentelici; The Ethics of the Dust; Fiction, Fair and Foul; The Elements of Drawing</dc:title>
+        <dc:creator opf:file-as="Ruskin, John" opf:role="aut">John Ruskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26716</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>English literature -- History and criticism</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Work</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Drawing -- Study and teaching</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Ruskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:53:31.412915+00:00"/>
+        <meta name="calibre:title_sort" content="Crown of Wild Olive / also Munera Pulveris; Pre-Raphaelitism; Aratra Pentelici; The Ethics of the Dust; Fiction, Fair and Foul; The Elements of Drawing, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

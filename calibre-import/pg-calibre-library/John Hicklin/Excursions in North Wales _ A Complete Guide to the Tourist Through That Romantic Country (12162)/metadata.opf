@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">084acefa-8f92-4452-8824-0758cc578011</dc:identifier>
+        <dc:title>Excursions in North Wales / A Complete Guide to the Tourist Through That Romantic Country</dc:title>
+        <dc:creator opf:file-as="Hicklin, John" opf:role="aut">John Hicklin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64164</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wales</dc:subject>
+        <dc:subject>North -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Hicklin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:46:49.158206+00:00"/>
+        <meta name="calibre:title_sort" content="Excursions in North Wales / A Complete Guide to the Tourist Through That Romantic Country"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e3b31d6-f972-440c-9e90-4c315485c4c6</dc:identifier>
+        <dc:title>Young Folks' Bible in Words of Easy Reading / The Sweet Stories of God's Word in the Language of Childhood</dc:title>
+        <dc:creator opf:file-as="Pollard, Josephine" opf:role="aut">Josephine Pollard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39431</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile literature</dc:subject>
+        <dc:subject>Bible stories</dc:subject>
+        <dc:subject>English -- Juvenile literature</dc:subject>
+        <dc:subject>Bible -- Paraphrases</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Josephine Pollard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:08:04.836605+00:00"/>
+        <meta name="calibre:title_sort" content="Young Folks' Bible in Words of Easy Reading / The Sweet Stories of God's Word in the Language of Childhood"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

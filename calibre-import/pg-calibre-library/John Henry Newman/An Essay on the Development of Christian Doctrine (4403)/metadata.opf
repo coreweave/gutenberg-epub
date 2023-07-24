@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47b97ace-ba76-433e-8868-97a29e5e94c5</dc:identifier>
+        <dc:title>An Essay on the Development of Christian Doctrine</dc:title>
+        <dc:creator opf:file-as="Newman, John Henry" opf:role="aut">John Henry Newman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Catholic Church -- Doctrines</dc:subject>
+        <dc:subject>Dogma</dc:subject>
+        <dc:subject>Development of</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Henry Newman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:40:28.224069+00:00"/>
+        <meta name="calibre:title_sort" content="Essay on the Development of Christian Doctrine, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

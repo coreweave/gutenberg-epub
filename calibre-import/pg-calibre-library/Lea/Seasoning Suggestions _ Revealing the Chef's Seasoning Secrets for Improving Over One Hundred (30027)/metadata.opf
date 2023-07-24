@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">492e9367-c512-4aaf-8a2c-65eb26ef95f0</dc:identifier>
+        <dc:title>Seasoning Suggestions / Revealing the Chef's Seasoning Secrets for Improving Over One Hundred and Fifty Dishes With Lea &amp; Perrins' Sauce</dc:title>
+        <dc:creator opf:file-as="Lea &amp; Perrins Limited" opf:role="aut">Lea</dc:creator>
+        <dc:creator opf:file-as="Lea &amp; Perrins Limited" opf:role="aut">Perrins Limited</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61678</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking (Worcestershire sauce)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lea&quot;: &quot;&quot;, &quot;Perrins Limited&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:12:00.491122+00:00"/>
+        <meta name="calibre:title_sort" content="Seasoning Suggestions / Revealing the Chef's Seasoning Secrets for Improving Over One Hundred and Fifty Dishes With Lea &amp; Perrins' Sauce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

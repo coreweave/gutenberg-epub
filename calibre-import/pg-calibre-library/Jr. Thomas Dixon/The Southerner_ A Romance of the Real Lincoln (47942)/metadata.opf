@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0b7d0d2-dbeb-463b-83f0-bd35d2ebd5e6</dc:identifier>
+        <dc:title>The Southerner: A Romance of the Real Lincoln</dc:title>
+        <dc:creator opf:file-as="Dixon, Thomas, Jr." opf:role="aut">Jr. Thomas Dixon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19135</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. Thomas Dixon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:59:57.771643+00:00"/>
+        <meta name="calibre:title_sort" content="Southerner: A Romance of the Real Lincoln, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

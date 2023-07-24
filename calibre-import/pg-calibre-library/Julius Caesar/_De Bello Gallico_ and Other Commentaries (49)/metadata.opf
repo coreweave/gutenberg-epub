@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a923608-dd04-4d54-8365-46f8fe874dd3</dc:identifier>
+        <dc:title>"De Bello Gallico" and Other Commentaries</dc:title>
+        <dc:creator opf:file-as="Caesar, Julius" opf:role="aut">Julius Caesar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gaul -- History -- Gallic Wars</dc:subject>
+        <dc:subject>58-51 B.C.</dc:subject>
+        <dc:subject>Rome -- History -- Civil War</dc:subject>
+        <dc:subject>49-48 B.C.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julius Caesar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:51.767973+00:00"/>
+        <meta name="calibre:title_sort" content="De Bello Gallico&quot; and Other Commentaries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

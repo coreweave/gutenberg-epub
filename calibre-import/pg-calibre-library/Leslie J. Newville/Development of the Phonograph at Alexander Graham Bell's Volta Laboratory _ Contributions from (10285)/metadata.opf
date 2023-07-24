@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edc3683e-a710-4a30-a5da-81c09946c8d3</dc:identifier>
+        <dc:title>Development of the Phonograph at Alexander Graham Bell's Volta Laboratory / Contributions from the Museum of History and Technology, United States National Museum Bulletin 218, Paper 5, (pages 69-79)</dc:title>
+        <dc:creator opf:file-as="Newville, Leslie J." opf:role="aut">Leslie J. Newville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Phonograph</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leslie J. Newville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:55:35.704952+00:00"/>
+        <meta name="calibre:title_sort" content="Development of the Phonograph at Alexander Graham Bell's Volta Laboratory / Contributions from the Museum of History and Technology, United States National Museum Bulletin 218, Paper 5, (pages 69-79)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a59f3cc-93ad-4d96-b02d-ccc3348cce44</dc:identifier>
+        <dc:title>The Clevedon Case</dc:title>
+        <dc:creator opf:file-as="Oakley, John" opf:role="aut">John Oakley</dc:creator>
+        <dc:creator opf:file-as="Oakley, John" opf:role="aut">Nancy Oakley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68091</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Murder -- Investigation -- Fiction</dc:subject>
+        <dc:subject>Criminologists -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Oakley&quot;: &quot;&quot;, &quot;Nancy Oakley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:18:54.951313+00:00"/>
+        <meta name="calibre:title_sort" content="Clevedon Case, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

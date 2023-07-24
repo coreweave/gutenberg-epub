@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1ea8286-01f7-47f6-aafe-475041d6e5f6</dc:identifier>
+        <dc:title>Falling in with Fortune; Or, The Experiences of a Young Secretary</dc:title>
+        <dc:creator opf:file-as="Alger, Horatio, Jr." opf:role="aut">Jr. Horatio Alger</dc:creator>
+        <dc:creator opf:file-as="Alger, Horatio, Jr." opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Young men -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Diligence -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Nephews -- Juvenile fiction</dc:subject>
+        <dc:subject>Criminals -- Juvenile fiction</dc:subject>
+        <dc:subject>Chicago (Ill.) -- History -- 19th century -- Juvenile fiction</dc:subject>
+        <dc:subject>Private secretaries -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. Horatio Alger&quot;: &quot;&quot;, &quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:52:48.537143+00:00"/>
+        <meta name="calibre:title_sort" content="Falling in with Fortune; Or, The Experiences of a Young Secretary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

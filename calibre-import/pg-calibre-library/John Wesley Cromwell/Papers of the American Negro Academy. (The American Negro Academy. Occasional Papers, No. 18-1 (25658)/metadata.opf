@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">950ca47a-5fa6-4522-a757-597bd97675b1</dc:identifier>
+        <dc:title>Papers of the American Negro Academy. (The American Negro Academy. Occasional Papers, No. 18-19.)</dc:title>
+        <dc:creator opf:file-as="Cromwell, John Wesley" opf:role="aut">John Wesley Cromwell</dc:creator>
+        <dc:creator opf:file-as="Cromwell, John Wesley" opf:role="aut">Archibald Henry Grimké</dc:creator>
+        <dc:creator opf:file-as="Cromwell, John Wesley" opf:role="aut">Lafayette M. Hershaw</dc:creator>
+        <dc:creator opf:file-as="Cromwell, John Wesley" opf:role="aut">William Pickens</dc:creator>
+        <dc:creator opf:file-as="Cromwell, John Wesley" opf:role="aut">Arthur Alfonso Schomburg</dc:creator>
+        <dc:creator opf:file-as="Cromwell, John Wesley" opf:role="aut">T. G. Steward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35352</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Congresses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Wesley Cromwell&quot;: &quot;&quot;, &quot;Archibald Henry Grimké&quot;: &quot;&quot;, &quot;Lafayette M. Hershaw&quot;: &quot;&quot;, &quot;William Pickens&quot;: &quot;&quot;, &quot;Arthur Alfonso Schomburg&quot;: &quot;&quot;, &quot;T. G. Steward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:56:15.971597+00:00"/>
+        <meta name="calibre:title_sort" content="Papers of the American Negro Academy. (The American Negro Academy. Occasional Papers, No. 18-19.)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

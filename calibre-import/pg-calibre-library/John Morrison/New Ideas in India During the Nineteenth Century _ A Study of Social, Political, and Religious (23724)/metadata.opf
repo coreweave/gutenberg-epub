@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60243ef3-f152-4cf3-aacd-1a8d4c413a0d</dc:identifier>
+        <dc:title>New Ideas in India During the Nineteenth Century / A Study of Social, Political, and Religious Developments</dc:title>
+        <dc:creator opf:file-as="Morrison, John" opf:role="aut">John Morrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14294</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Religion</dc:subject>
+        <dc:subject>Christianity and other religions</dc:subject>
+        <dc:subject>India -- Civilization</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Morrison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:34:17.356121+00:00"/>
+        <meta name="calibre:title_sort" content="New Ideas in India During the Nineteenth Century / A Study of Social, Political, and Religious Developments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

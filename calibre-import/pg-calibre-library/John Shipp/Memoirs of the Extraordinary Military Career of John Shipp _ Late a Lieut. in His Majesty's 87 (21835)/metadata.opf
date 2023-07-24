@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d86db0dd-0bcc-43f5-bac7-13401c4f4845</dc:identifier>
+        <dc:title>Memoirs of the Extraordinary Military Career of John Shipp / Late a Lieut. in His Majesty's 87th Regiment</dc:title>
+        <dc:creator opf:file-as="Shipp, John" opf:role="aut">John Shipp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- British occupation</dc:subject>
+        <dc:subject>1765-1947 -- Biography</dc:subject>
+        <dc:subject>Shipp</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1784-1834</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Shipp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:15:30.394151+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Extraordinary Military Career of John Shipp / Late a Lieut. in His Majesty's 87th Regiment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

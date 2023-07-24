@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2af76e7-ce32-4a25-91e2-97d556f3a1f8</dc:identifier>
+        <dc:title>The Religion of the Samurai / A Study of Zen Philosophy and Discipline in China and Japan</dc:title>
+        <dc:creator opf:file-as="Nukariya, Kaiten" opf:role="aut">Kaiten Nukariya</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5173</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Human beings -- Origin</dc:subject>
+        <dc:subject>Buddhism -- China</dc:subject>
+        <dc:subject>Buddhism -- Japan</dc:subject>
+        <dc:subject>China -- Religion</dc:subject>
+        <dc:subject>Japan -- Religion</dc:subject>
+        <dc:subject>Zen Buddhism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kaiten Nukariya&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:36:15.284600+00:00"/>
+        <meta name="calibre:title_sort" content="Religion of the Samurai / A Study of Zen Philosophy and Discipline in China and Japan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

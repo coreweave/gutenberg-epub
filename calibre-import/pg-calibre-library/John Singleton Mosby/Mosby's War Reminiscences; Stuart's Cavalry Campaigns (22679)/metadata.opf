@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d4e84b9-cc44-44f9-9ef2-384363116a59</dc:identifier>
+        <dc:title>Mosby's War Reminiscences; Stuart's Cavalry Campaigns</dc:title>
+        <dc:creator opf:file-as="Mosby, John Singleton" opf:role="aut">John Singleton Mosby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45436</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Stuart</dc:subject>
+        <dc:subject>Jeb</dc:subject>
+        <dc:subject>1833-1864</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Singleton Mosby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:49:38.549388+00:00"/>
+        <meta name="calibre:title_sort" content="Mosby's War Reminiscences; Stuart's Cavalry Campaigns"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

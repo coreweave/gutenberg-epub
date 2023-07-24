@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16875</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0f26b7b-3ded-4e23-9f0c-3044e384e8c8</dc:identifier>
+        <dc:title>Hymns for Christian Devotion / Especially Adapted to the Universalist Denomination</dc:title>
+        <dc:creator opf:file-as="Adams, John G. (John Greenleaf)" opf:role="aut">John G. Adams</dc:creator>
+        <dc:creator opf:file-as="Adams, John G. (John Greenleaf)" opf:role="aut">E. H. Chapin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20476</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hymns</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Universalist churches -- Hymns</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John G. Adams&quot;: &quot;&quot;, &quot;E. H. Chapin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:14:23.330354+00:00"/>
+        <meta name="calibre:title_sort" content="Hymns for Christian Devotion / Especially Adapted to the Universalist Denomination"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">116dab5d-b81c-403f-b5df-3908d0bc2527</dc:identifier>
+        <dc:title>Quodlibet: containing some annals thereof ...</dc:title>
+        <dc:creator opf:file-as="Kennedy, John Pendleton" opf:role="aut">John Pendleton Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39245</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>City and town life -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>United States -- Politics and government -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Pendleton Kennedy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:47:38.166394+00:00"/>
+        <meta name="calibre:title_sort" content="Quodlibet: containing some annals thereof ..."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

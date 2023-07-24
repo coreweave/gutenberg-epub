@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c5040d7-3f1c-4088-aafb-5dfbd5c65b11</dc:identifier>
+        <dc:title>Motion pictures, 1912-1939: Catalog of Copyright Entries</dc:title>
+        <dc:creator opf:file-as="Library of Congress. Copyright Office" opf:role="aut">Library of Congress. Copyright Office</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51836</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Motion pictures -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Library of Congress. Copyright Office&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:52:29.335199+00:00"/>
+        <meta name="calibre:title_sort" content="Motion pictures, 1912-1939: Catalog of Copyright Entries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

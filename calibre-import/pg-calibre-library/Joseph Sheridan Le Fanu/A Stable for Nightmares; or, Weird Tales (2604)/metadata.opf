@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9561ac72-d39e-481e-8126-0103636973bf</dc:identifier>
+        <dc:title>A Stable for Nightmares; or, Weird Tales</dc:title>
+        <dc:creator opf:file-as="Le Fanu, Joseph Sheridan" opf:role="aut">Joseph Sheridan Le Fanu</dc:creator>
+        <dc:creator opf:file-as="Le Fanu, Joseph Sheridan" opf:role="aut">Sir Charles L. Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26451</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joseph Sheridan Le Fanu&quot;: &quot;&quot;, &quot;Sir Charles L. Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:07:24.422959+00:00"/>
+        <meta name="calibre:title_sort" content="Stable for Nightmares; or, Weird Tales, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10921</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0484f65f-0e37-489f-b30d-7a1e7d7a1875</dc:identifier>
+        <dc:title>Dr. Scudder's Tales for Little Readers, About the Heathen.</dc:title>
+        <dc:creator opf:file-as="Scudder, John" opf:role="aut">John Scudder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13539</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Missions</dc:subject>
+        <dc:subject>Sunday school literature</dc:subject>
+        <dc:subject>Christianity and other religions -- Hinduism</dc:subject>
+        <dc:subject>Hinduism -- Relations -- Christianity</dc:subject>
+        <dc:subject>India -- Religious life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Scudder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:12:38.466118+00:00"/>
+        <meta name="calibre:title_sort" content="Dr. Scudder's Tales for Little Readers, About the Heathen."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

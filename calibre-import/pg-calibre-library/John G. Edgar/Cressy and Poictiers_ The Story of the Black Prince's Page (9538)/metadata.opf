@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed5fe7ca-6f20-483e-a76d-89f1d3262285</dc:identifier>
+        <dc:title>Cressy and Poictiers: The Story of the Black Prince's Page</dc:title>
+        <dc:creator opf:file-as="Edgar, John G. (John George)" opf:role="aut">John G. Edgar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45819</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>Prince of Wales</dc:subject>
+        <dc:subject>1330-1376 -- Fiction</dc:subject>
+        <dc:subject>Crécy</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Crécy-en-Ponthieu</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>1346 -- Fiction</dc:subject>
+        <dc:subject>Poitiers</dc:subject>
+        <dc:subject>1356 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John G. Edgar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:36:12.590650+00:00"/>
+        <meta name="calibre:title_sort" content="Cressy and Poictiers: The Story of the Black Prince's Page"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

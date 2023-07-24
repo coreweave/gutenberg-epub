@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5949</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6345661-7a12-4fbb-91ec-6fa058d83fd4</dc:identifier>
+        <dc:title>Beaver: An Alphabet of Typical Specimens / Together with Notes and a Terminal Essay on the Manners and Customs of Beavering Men</dc:title>
+        <dc:creator opf:file-as="Kettelwell, John" opf:role="aut">John Kettelwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50147</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beards</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Kettelwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:11:48.903933+00:00"/>
+        <meta name="calibre:title_sort" content="Beaver: An Alphabet of Typical Specimens / Together with Notes and a Terminal Essay on the Manners and Customs of Beavering Men"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

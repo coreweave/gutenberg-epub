@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02f29e5b-ee72-40e0-8281-3176f459c31b</dc:identifier>
+        <dc:title>The Blue Dragon: A Tale of Recent Adventure in China</dc:title>
+        <dc:creator opf:file-as="Munroe, Kirk" opf:role="aut">Kirk Munroe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42886</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Prejudices -- Juvenile fiction</dc:subject>
+        <dc:subject>China -- History -- Boxer Rebellion</dc:subject>
+        <dc:subject>1899-1901 -- Juvenile fiction</dc:subject>
+        <dc:subject>China -- Description and travel -- Juvenile fiction</dc:subject>
+        <dc:subject>Chinese Americans -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kirk Munroe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:04:28.849122+00:00"/>
+        <meta name="calibre:title_sort" content="Blue Dragon: A Tale of Recent Adventure in China, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

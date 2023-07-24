@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">882e6353-780b-4e6e-98c4-ff43462bd253</dc:identifier>
+        <dc:title>China Revolutionized</dc:title>
+        <dc:creator opf:file-as="Thomson, John Stuart" opf:role="aut">John Stuart Thomson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57247</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>China</dc:subject>
+        <dc:subject>China -- History -- Revolution</dc:subject>
+        <dc:subject>1911-1912</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Stuart Thomson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:10:05.778502+00:00"/>
+        <meta name="calibre:title_sort" content="China Revolutionized"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

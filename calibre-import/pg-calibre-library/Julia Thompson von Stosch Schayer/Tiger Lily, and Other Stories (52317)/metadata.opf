@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d5afad9-8e2e-471e-9398-387debea34e6</dc:identifier>
+        <dc:title>Tiger Lily, and Other Stories</dc:title>
+        <dc:creator opf:file-as="Schayer, Julia Thompson von Stosch" opf:role="aut">Julia Thompson von Stosch Schayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Julia Thompson von Stosch Schayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:34:38.090877+00:00"/>
+        <meta name="calibre:title_sort" content="Tiger Lily, and Other Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

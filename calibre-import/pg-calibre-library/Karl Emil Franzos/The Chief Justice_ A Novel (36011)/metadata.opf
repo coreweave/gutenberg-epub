@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36011</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c2b2f0b-f072-4b82-8554-e378d3a20f67</dc:identifier>
+        <dc:title>The Chief Justice: A Novel</dc:title>
+        <dc:creator opf:file-as="Franzos, Karl Emil" opf:role="aut">Karl Emil Franzos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36854</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Illegitimate children -- Fiction</dc:subject>
+        <dc:subject>Trials (Murder) -- Fiction</dc:subject>
+        <dc:subject>Austria -- Fiction</dc:subject>
+        <dc:subject>Judges -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Karl Emil Franzos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:05:02.766364+00:00"/>
+        <meta name="calibre:title_sort" content="Chief Justice: A Novel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

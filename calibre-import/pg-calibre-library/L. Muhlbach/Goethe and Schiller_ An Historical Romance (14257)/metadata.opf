@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d785bd01-a4fe-46d6-92de-965c4764e1ba</dc:identifier>
+        <dc:title>Goethe and Schiller: An Historical Romance</dc:title>
+        <dc:creator opf:file-as="Mühlbach, L. (Luise)" opf:role="aut">L. Mühlbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46883</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Goethe</dc:subject>
+        <dc:subject>Johann Wolfgang von</dc:subject>
+        <dc:subject>1749-1832 -- Fiction</dc:subject>
+        <dc:subject>Schiller</dc:subject>
+        <dc:subject>Friedrich</dc:subject>
+        <dc:subject>1759-1805 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. Mühlbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:48:51.294068+00:00"/>
+        <meta name="calibre:title_sort" content="Goethe and Schiller: An Historical Romance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">982aeb54-ffad-4507-8dc3-3a65f73da8dc</dc:identifier>
+        <dc:title>The Manoeuvring Mother (vol. 2 of 3)</dc:title>
+        <dc:creator opf:file-as="Bury, Charlotte Campbell, Lady" opf:role="aut">Lady Charlotte Campbell Bury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56434</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English fiction -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Charlotte Campbell Bury&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:19:11.230427+00:00"/>
+        <meta name="calibre:title_sort" content="Manoeuvring Mother (vol. 2 of 3), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

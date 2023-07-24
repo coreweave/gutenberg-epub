@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06af81a5-f98a-4c5c-8853-fd5f876b0e76</dc:identifier>
+        <dc:title>The Golden Boys at the Haunted Camp</dc:title>
+        <dc:creator opf:file-as="Wyman, L. P. (Levi Parker)" opf:role="aut">L. P. Wyman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62802</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Brothers -- Juvenile fiction</dc:subject>
+        <dc:subject>Maine -- Juvenile fiction</dc:subject>
+        <dc:subject>Haunted places -- Juvenile fiction</dc:subject>
+        <dc:subject>Camp sites</dc:subject>
+        <dc:subject>facilities</dc:subject>
+        <dc:subject>etc. -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. P. Wyman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:01:26.457667+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Boys at the Haunted Camp, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

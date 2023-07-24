@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c374f1d-b655-4aa7-b409-0d360ed9601d</dc:identifier>
+        <dc:title>National Apostasy / Considered in a Sermon Preached in St. Mary's Church, Oxford Before His Majesty's Judges of Assize on Sunday July 14th 1833</dc:title>
+        <dc:creator opf:file-as="Keble, John" opf:role="aut">John Keble</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons</dc:subject>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Church of Ireland -- Sermons</dc:subject>
+        <dc:subject>Church -- Apostolicity -- Sermons</dc:subject>
+        <dc:subject>Church and state -- England</dc:subject>
+        <dc:subject>Church and state -- Ireland</dc:subject>
+        <dc:subject>Anglican Communion -- Sermons</dc:subject>
+        <dc:subject>England -- Church history -- 19th century -- Sermons</dc:subject>
+        <dc:subject>Ireland -- Church history -- 19th century -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Keble&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:27:21.000075+00:00"/>
+        <meta name="calibre:title_sort" content="National Apostasy / Considered in a Sermon Preached in St. Mary's Church, Oxford Before His Majesty's Judges of Assize on Sunday July 14th 1833"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

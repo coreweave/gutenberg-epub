@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57092cf9-f66d-405d-aa73-7c4194f2d319</dc:identifier>
+        <dc:title>History of the English People, Volume VI / Puritan England, 1642-1660; The Revolution, 1660-1683</dc:title>
+        <dc:creator opf:file-as="Green, John Richard" opf:role="aut">John Richard Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Richard Green&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:50:03.351546+00:00"/>
+        <meta name="calibre:title_sort" content="History of the English People, Volume VI / Puritan England, 1642-1660; The Revolution, 1660-1683"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

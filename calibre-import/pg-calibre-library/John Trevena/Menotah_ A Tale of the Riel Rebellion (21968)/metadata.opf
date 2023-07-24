@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dbe42ab-430f-4207-93e5-10e256989504</dc:identifier>
+        <dc:title>Menotah: A Tale of the Riel Rebellion</dc:title>
+        <dc:creator opf:file-as="Trevena, John" opf:role="aut">John Trevena</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35259</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Riel Rebellion</dc:subject>
+        <dc:subject>1885 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Trevena&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:20:48.210902+00:00"/>
+        <meta name="calibre:title_sort" content="Menotah: A Tale of the Riel Rebellion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

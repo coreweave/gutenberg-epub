@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a4a7785-1a60-4d41-bd46-2e5b2462a4f5</dc:identifier>
+        <dc:title>Money: Speech of Hon. John P. Jones, of Nevada, on the Free Coinage of Silver; in the United States Senate, May 12 and 13, 1890</dc:title>
+        <dc:creator opf:file-as="Jones, John P. (John Percival)" opf:role="aut">John P. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Silver question -- Speeches in Congress</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John P. Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:41:57.935634+00:00"/>
+        <meta name="calibre:title_sort" content="Money: Speech of Hon. John P. Jones, of Nevada, on the Free Coinage of Silver; in the United States Senate, May 12 and 13, 1890"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6980a4d2-098e-40be-ac33-641a490f8fa3</dc:identifier>
+        <dc:title>The Aquarian Gospel of Jesus the Christ / The Philosophic and Practical Basis of the Religion of the Aquarian Age of the World and of The Church Universal</dc:title>
+        <dc:creator opf:file-as="Levi" opf:role="aut">Levi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44073</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jesus Christ -- Biography -- Apocryphal and legendary literature</dc:subject>
+        <dc:subject>Akashic records</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Levi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:10:14.657660+00:00"/>
+        <meta name="calibre:title_sort" content="Aquarian Gospel of Jesus the Christ / The Philosophic and Practical Basis of the Religion of the Aquarian Age of the World and of The Church Universal, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

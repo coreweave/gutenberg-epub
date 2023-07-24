@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fa95393-be0f-4747-90b7-2ecb554a91ec</dc:identifier>
+        <dc:title>Bob Burton; or, The Young Ranchman of the Missouri</dc:title>
+        <dc:creator opf:file-as="Alger, Horatio, Jr." opf:role="aut">Jr. Horatio Alger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52194</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Young men -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Ranches -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Families -- Juvenile fiction</dc:subject>
+        <dc:subject>Middle West -- Juvenile fiction</dc:subject>
+        <dc:subject>Real estate agents -- Juvenile fiction</dc:subject>
+        <dc:subject>Conspiracies -- Juvenile fiction</dc:subject>
+        <dc:subject>Extortion -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. Horatio Alger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:13.248688+00:00"/>
+        <meta name="calibre:title_sort" content="Bob Burton; or, The Young Ranchman of the Missouri"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

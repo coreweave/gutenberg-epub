@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19180</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a163a6c-e39c-43d6-8728-6bdca646f431</dc:identifier>
+        <dc:title>Lameness of the Horse / Veterinary Practitioners' Series, No. 1</dc:title>
+        <dc:creator opf:file-as="Lacroix, John Victor" opf:role="aut">John Victor Lacroix</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16370</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horses -- Health</dc:subject>
+        <dc:subject>Lameness in horses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Victor Lacroix&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:34:26.338250+00:00"/>
+        <meta name="calibre:title_sort" content="Lameness of the Horse / Veterinary Practitioners' Series, No. 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

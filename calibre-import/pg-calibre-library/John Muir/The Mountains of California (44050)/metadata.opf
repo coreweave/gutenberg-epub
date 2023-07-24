@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44050</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e855af4-86e7-4719-a329-b0a3200595ea</dc:identifier>
+        <dc:title>The Mountains of California</dc:title>
+        <dc:creator opf:file-as="Muir, John" opf:role="aut">John Muir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10012</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- California</dc:subject>
+        <dc:subject>California -- Description and travel</dc:subject>
+        <dc:subject>Naturalists -- United States -- Biography</dc:subject>
+        <dc:subject>Muir</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1838-1914 -- Travel -- Sierra Nevada (Calif. and Nev.)</dc:subject>
+        <dc:subject>Natural history -- Sierra Nevada (Calif. and Nev.)</dc:subject>
+        <dc:subject>Mountain ecology -- California</dc:subject>
+        <dc:subject>Mountain ecology -- Sierra Nevada (Calif. and Nev.)</dc:subject>
+        <dc:subject>Sierra Nevada (Calif. and Nev.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Muir&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:13:48.344846+00:00"/>
+        <meta name="calibre:title_sort" content="Mountains of California, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

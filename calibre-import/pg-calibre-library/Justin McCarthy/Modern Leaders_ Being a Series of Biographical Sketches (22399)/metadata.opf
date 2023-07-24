@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e16a7614-0f35-4af8-a0c5-07b424c2a4de</dc:identifier>
+        <dc:title>Modern Leaders: Being a Series of Biographical Sketches</dc:title>
+        <dc:creator opf:file-as="McCarthy, Justin" opf:role="aut">Justin McCarthy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39298</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Justin McCarthy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:38:15.440448+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Leaders: Being a Series of Biographical Sketches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

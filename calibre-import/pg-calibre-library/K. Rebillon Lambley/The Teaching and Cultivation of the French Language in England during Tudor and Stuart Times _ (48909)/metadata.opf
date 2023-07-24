@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6914bc6-06a3-40c2-982a-0e0673395972</dc:identifier>
+        <dc:title>The Teaching and Cultivation of the French Language in England during Tudor and Stuart Times / With an Introductory Chapter on the Preceding Period</dc:title>
+        <dc:creator opf:file-as="Lambley, K. Rebillon (Kathleen Rebillon)" opf:role="aut">K. Rebillon Lambley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40617</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>French language -- Study and teaching</dc:subject>
+        <dc:subject>Learning and scholarship -- England</dc:subject>
+        <dc:subject>French language -- Study and teaching -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;K. Rebillon Lambley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:57:48.327162+00:00"/>
+        <meta name="calibre:title_sort" content="Teaching and Cultivation of the French Language in England during Tudor and Stuart Times / With an Introductory Chapter on the Preceding Period, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">315ef7e2-15e9-4567-8f0e-fb5547562786</dc:identifier>
+        <dc:title>Confessio Amantis; Or, Tales of the Seven Deadly Sins</dc:title>
+        <dc:creator opf:file-as="Gower, John" opf:role="aut">John Gower</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/266</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Courtly love -- Poetry</dc:subject>
+        <dc:subject>Christian poetry</dc:subject>
+        <dc:subject>English (Middle)</dc:subject>
+        <dc:subject>Love poetry</dc:subject>
+        <dc:subject>Christian ethics -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Gower&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:27:23.967674+00:00"/>
+        <meta name="calibre:title_sort" content="Confessio Amantis; Or, Tales of the Seven Deadly Sins"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

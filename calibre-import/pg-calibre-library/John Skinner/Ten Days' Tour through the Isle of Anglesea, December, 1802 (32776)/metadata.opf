@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">750634bb-b65d-4bbe-8657-79610eceb954</dc:identifier>
+        <dc:title>Ten Days' Tour through the Isle of Anglesea, December, 1802</dc:title>
+        <dc:creator opf:file-as="Skinner, John" opf:role="aut">John Skinner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64154</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Skinner</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1772-1839</dc:subject>
+        <dc:subject>Celts -- Wales -- Anglesey (Gwynedd)</dc:subject>
+        <dc:subject>Anglesey (Wales) -- Description and travel</dc:subject>
+        <dc:subject>Anglesey (Wales) -- Antiquities</dc:subject>
+        <dc:subject>Wales -- Antiquities</dc:subject>
+        <dc:subject>Celtic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Skinner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:25:19.950557+00:00"/>
+        <meta name="calibre:title_sort" content="Ten Days' Tour through the Isle of Anglesea, December, 1802"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

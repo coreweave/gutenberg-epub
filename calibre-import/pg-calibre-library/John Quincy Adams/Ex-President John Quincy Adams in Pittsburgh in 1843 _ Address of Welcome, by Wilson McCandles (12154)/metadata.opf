@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6ee933e-e844-443e-a46b-906695f42698</dc:identifier>
+        <dc:title>Ex-President John Quincy Adams in Pittsburgh in 1843 / Address of Welcome, by Wilson McCandless, and Mr. Adams' Reply; together with a letter from Mr. Adams Relative to Judge Brackenridge's "Modern Chivalry."</dc:title>
+        <dc:creator opf:file-as="Adams, John Quincy" opf:role="aut">John Quincy Adams</dc:creator>
+        <dc:creator opf:file-as="Adams, John Quincy" opf:role="aut">Wilson McCandless</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38906</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adams</dc:subject>
+        <dc:subject>John Quincy</dc:subject>
+        <dc:subject>1767-1848</dc:subject>
+        <dc:subject>Brackenridge</dc:subject>
+        <dc:subject>Hugh Henry</dc:subject>
+        <dc:subject>1748-1816. Modern chivalry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Quincy Adams&quot;: &quot;&quot;, &quot;Wilson McCandless&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:46:35.379120+00:00"/>
+        <meta name="calibre:title_sort" content="Ex-President John Quincy Adams in Pittsburgh in 1843 / Address of Welcome, by Wilson McCandless, and Mr. Adams' Reply; together with a letter from Mr. Adams Relative to Judge Brackenridge's &quot;Modern Chivalry.&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

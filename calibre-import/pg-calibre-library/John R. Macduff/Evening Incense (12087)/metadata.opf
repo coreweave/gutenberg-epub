@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8bf7715-54b4-4dea-8046-c7f3c000b31c</dc:identifier>
+        <dc:title>Evening Incense</dc:title>
+        <dc:creator opf:file-as="Macduff, John R. (John Ross)" opf:role="aut">John R. Macduff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50916</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Devotional literature</dc:subject>
+        <dc:subject>Devotional exercises</dc:subject>
+        <dc:subject>Spiritual life -- Christianity</dc:subject>
+        <dc:subject>Prayers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John R. Macduff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:44:41.481714+00:00"/>
+        <meta name="calibre:title_sort" content="Evening Incense"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

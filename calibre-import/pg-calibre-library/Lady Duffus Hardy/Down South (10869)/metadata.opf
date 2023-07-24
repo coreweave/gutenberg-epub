@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94a8e52a-44cc-4687-93a4-735b06e3ad41</dc:identifier>
+        <dc:title>Down South</dc:title>
+        <dc:creator opf:file-as="Hardy, Duffus, Lady" opf:role="aut">Lady Duffus Hardy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53758</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southern States -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Duffus Hardy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:11:15.754299+00:00"/>
+        <meta name="calibre:title_sort" content="Down South"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

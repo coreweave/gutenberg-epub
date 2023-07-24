@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3023</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c6e34df-f6b5-43b3-a548-40e4655007bc</dc:identifier>
+        <dc:title>A Week at Waterloo in 1815 / Lady De Lancey's Narrative: Being an Account of How She Nursed Her Husband, Colonel Sir William Howe De Lancey, Quartermaster-General of the Army, Mortally Wounded in the Great Battle</dc:title>
+        <dc:creator opf:file-as="De Lancey, Magdalene, Lady" opf:role="aut">Lady Magdalene De Lancey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31517</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>De Lancey</dc:subject>
+        <dc:subject>William Howe</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1778-1815</dc:subject>
+        <dc:subject>Waterloo</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Belgium</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lady Magdalene De Lancey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:14:54.276553+00:00"/>
+        <meta name="calibre:title_sort" content="Week at Waterloo in 1815 / Lady De Lancey's Narrative: Being an Account of How She Nursed Her Husband, Colonel Sir William Howe De Lancey, Quartermaster-General of the Army, Mortally Wounded in the Great Battle, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

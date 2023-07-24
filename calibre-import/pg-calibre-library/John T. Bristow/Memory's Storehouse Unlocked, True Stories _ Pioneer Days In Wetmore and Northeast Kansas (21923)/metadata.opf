@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09e50cf3-bb6f-4bc4-859c-8a64a6bfb703</dc:identifier>
+        <dc:title>Memory's Storehouse Unlocked, True Stories / Pioneer Days In Wetmore and Northeast Kansas</dc:title>
+        <dc:creator opf:file-as="Bristow, John T." opf:role="aut">John T. Bristow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60844</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wetmore (Kan.) -- History</dc:subject>
+        <dc:subject>Nemaha County (Kan.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John T. Bristow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:19:00.601699+00:00"/>
+        <meta name="calibre:title_sort" content="Memory's Storehouse Unlocked, True Stories / Pioneer Days In Wetmore and Northeast Kansas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

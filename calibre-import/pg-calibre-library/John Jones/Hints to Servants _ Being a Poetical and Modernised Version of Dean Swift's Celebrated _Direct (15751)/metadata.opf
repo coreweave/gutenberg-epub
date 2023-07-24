@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbeb787b-27b3-4a85-9bdc-986cac45ada7</dc:identifier>
+        <dc:title>Hints to Servants / Being a Poetical and Modernised Version of Dean Swift's Celebrated "Directions to Servants"</dc:title>
+        <dc:creator opf:file-as="Jones, John" opf:role="aut">John Jones</dc:creator>
+        <dc:creator opf:file-as="Jones, John" opf:role="aut">Jonathan Swift</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46760</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Swift</dc:subject>
+        <dc:subject>Jonathan</dc:subject>
+        <dc:subject>1667-1745 -- Parodies</dc:subject>
+        <dc:subject>imitations</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Household employees -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Jones&quot;: &quot;&quot;, &quot;Jonathan Swift&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:36:52.178719+00:00"/>
+        <meta name="calibre:title_sort" content="Hints to Servants / Being a Poetical and Modernised Version of Dean Swift's Celebrated &quot;Directions to Servants&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

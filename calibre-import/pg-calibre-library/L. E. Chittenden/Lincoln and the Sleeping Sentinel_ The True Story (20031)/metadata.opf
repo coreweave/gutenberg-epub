@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fa99c2c-759e-4c84-adff-0cd5a058496c</dc:identifier>
+        <dc:title>Lincoln and the Sleeping Sentinel: The True Story</dc:title>
+        <dc:creator opf:file-as="Chittenden, L. E. (Lucius Eugene)" opf:role="aut">L. E. Chittenden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48319</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Anecdotes</dc:subject>
+        <dc:subject>Scott</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1840?-1862</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. E. Chittenden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:05:26.885145+00:00"/>
+        <meta name="calibre:title_sort" content="Lincoln and the Sleeping Sentinel: The True Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

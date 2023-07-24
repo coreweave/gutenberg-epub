@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">673d1264-426b-4d92-bf44-b47ed63d3f1a</dc:identifier>
+        <dc:title>Tin-Types Taken in the Streets of New York / A Series of Stories and Sketches Portraying Many Singular / Phases of Metropolitan Life</dc:title>
+        <dc:creator opf:file-as="Quigg, Lemuel Ely" opf:role="aut">Lemuel Ely Quigg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lemuel Ely Quigg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:37:34.727348+00:00"/>
+        <meta name="calibre:title_sort" content="Tin-Types Taken in the Streets of New York / A Series of Stories and Sketches Portraying Many Singular / Phases of Metropolitan Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

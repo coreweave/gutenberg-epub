@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e66285d-9f3f-4ead-be11-9c85b8d7c883</dc:identifier>
+        <dc:title>Abigail Adams and Her Times</dc:title>
+        <dc:creator opf:file-as="Richards, Laura Elizabeth Howe" opf:role="aut">Laura Elizabeth Howe Richards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adams</dc:subject>
+        <dc:subject>Abigail</dc:subject>
+        <dc:subject>1744-1818</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Laura Elizabeth Howe Richards&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:20:37.793417+00:00"/>
+        <meta name="calibre:title_sort" content="Abigail Adams and Her Times"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

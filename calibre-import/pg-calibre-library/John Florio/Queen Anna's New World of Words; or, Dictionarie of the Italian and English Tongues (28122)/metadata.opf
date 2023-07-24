@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7be77222-da57-4531-995c-6e082a14d0d1</dc:identifier>
+        <dc:title>Queen Anna's New World of Words; or, Dictionarie of the Italian and English Tongues</dc:title>
+        <dc:creator opf:file-as="Florio, John" opf:role="aut">John Florio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56200</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Italian language -- Dictionaries -- English -- Early works to 1800</dc:subject>
+        <dc:subject>English language -- Dictionaries -- Italian -- Early works to 1800</dc:subject>
+        <dc:subject>Italian language -- Grammar -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Florio&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:44:16.818496+00:00"/>
+        <meta name="calibre:title_sort" content="Queen Anna's New World of Words; or, Dictionarie of the Italian and English Tongues"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

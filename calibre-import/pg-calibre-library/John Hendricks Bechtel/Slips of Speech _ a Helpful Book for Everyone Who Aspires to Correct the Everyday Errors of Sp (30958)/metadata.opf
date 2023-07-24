@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30958</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">778b65a6-4eed-466e-8479-df9a41aa1069</dc:identifier>
+        <dc:title>Slips of Speech : a Helpful Book for Everyone Who Aspires to Correct the Everyday Errors of Speaking</dc:title>
+        <dc:creator opf:file-as="Bechtel, John Hendricks" opf:role="aut">John Hendricks Bechtel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4983</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Idioms</dc:subject>
+        <dc:subject>English language -- Errors of usage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Hendricks Bechtel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:57:14.679607+00:00"/>
+        <meta name="calibre:title_sort" content="Slips of Speech : a Helpful Book for Everyone Who Aspires to Correct the Everyday Errors of Speaking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

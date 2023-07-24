@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">982a742f-8ee1-4c2e-951d-0e76812192ae</dc:identifier>
+        <dc:title>With Rimington</dc:title>
+        <dc:creator opf:file-as="Phillipps, L. March (Lisle March)" opf:role="aut">L. March Phillipps</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;L. March Phillipps&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:36:38.240497+00:00"/>
+        <meta name="calibre:title_sort" content="With Rimington"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

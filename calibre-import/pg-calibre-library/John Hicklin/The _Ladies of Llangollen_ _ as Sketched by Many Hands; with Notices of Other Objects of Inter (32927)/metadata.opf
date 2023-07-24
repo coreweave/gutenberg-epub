@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f99f5de-c6ec-4180-aeb8-068760a32581</dc:identifier>
+        <dc:title>The "Ladies of Llangollen" / as Sketched by Many Hands; with Notices of Other Objects of Interest in "That Sweetest of Vales"</dc:title>
+        <dc:creator opf:file-as="Hicklin, John" opf:role="aut">John Hicklin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Butler</dc:subject>
+        <dc:subject>Eleanor</dc:subject>
+        <dc:subject>Lady</dc:subject>
+        <dc:subject>1739-1829</dc:subject>
+        <dc:subject>Ponsonby</dc:subject>
+        <dc:subject>Sarah</dc:subject>
+        <dc:subject>1755-1831</dc:subject>
+        <dc:subject>Llangollen (Wales)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Hicklin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:32:41.975661+00:00"/>
+        <meta name="calibre:title_sort" content="Ladies of Llangollen&quot; / as Sketched by Many Hands; with Notices of Other Objects of Interest in &quot;That Sweetest of Vales&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

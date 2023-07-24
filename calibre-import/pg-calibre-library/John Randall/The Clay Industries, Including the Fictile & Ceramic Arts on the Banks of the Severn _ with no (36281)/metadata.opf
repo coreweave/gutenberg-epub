@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dfe8bb6-88d2-4638-b289-2f5bcc030d71</dc:identifier>
+        <dc:title>The Clay Industries, Including the Fictile &amp; Ceramic Arts on the Banks of the Severn / with notices of the early use of Shropshire clays, the history of pottery, porcelain, &amp;c. in the district</dc:title>
+        <dc:creator opf:file-as="Randall, John" opf:role="aut">John Randall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63771</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Porcelain</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Ceramics -- Great Britain -- History</dc:subject>
+        <dc:subject>Clay industries -- Great Britain -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Randall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:18:36.359465+00:00"/>
+        <meta name="calibre:title_sort" content="Clay Industries, Including the Fictile &amp; Ceramic Arts on the Banks of the Severn / with notices of the early use of Shropshire clays, the history of pottery, porcelain, &amp;c. in the district, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

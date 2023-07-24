@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75d2d17d-2b8a-4772-9c4e-60b83279a5aa</dc:identifier>
+        <dc:title>Canada</dc:title>
+        <dc:creator opf:file-as="Bourinot, John George" opf:role="aut">John George Bourinot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22557</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John George Bourinot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:47:41.031757+00:00"/>
+        <meta name="calibre:title_sort" content="Canada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bfe38de-2732-49d2-ae92-b6558ed16cf7</dc:identifier>
+        <dc:title>Yorktown and the Siege of 1781</dc:title>
+        <dc:creator opf:file-as="Hatch, Charles E., Jr." opf:role="aut">Jr. Charles E. Hatch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54080</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Yorktown (Va.) -- History -- Siege</dc:subject>
+        <dc:subject>1781</dc:subject>
+        <dc:subject>Yorktown (Va.) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. Charles E. Hatch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:05:30.092515+00:00"/>
+        <meta name="calibre:title_sort" content="Yorktown and the Siege of 1781"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

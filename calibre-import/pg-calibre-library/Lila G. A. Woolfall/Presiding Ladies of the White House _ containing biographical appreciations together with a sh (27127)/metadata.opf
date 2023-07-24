@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cc388d0-c90d-453d-b54d-2e5ceac0902c</dc:identifier>
+        <dc:title>Presiding Ladies of the White House / containing biographical appreciations together with a short history of the Executive mansion and a treatise on its etiquette and customs</dc:title>
+        <dc:creator opf:file-as="Woolfall, Lila G. A." opf:role="aut">Lila G. A. Woolfall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55679</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Biography</dc:subject>
+        <dc:subject>United States -- Biography</dc:subject>
+        <dc:subject>White House (Washington</dc:subject>
+        <dc:subject>D.C.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lila G. A. Woolfall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:00:16.264214+00:00"/>
+        <meta name="calibre:title_sort" content="Presiding Ladies of the White House / containing biographical appreciations together with a short history of the Executive mansion and a treatise on its etiquette and customs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

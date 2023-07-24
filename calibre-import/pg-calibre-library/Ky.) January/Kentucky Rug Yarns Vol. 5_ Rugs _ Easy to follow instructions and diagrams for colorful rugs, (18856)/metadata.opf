@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cc57603-a088-49db-8fb7-62c24e1722e7</dc:identifier>
+        <dc:title>Kentucky Rug Yarns Vol. 5: Rugs / Easy to follow instructions and diagrams for colorful rugs, hats, pillows and other items</dc:title>
+        <dc:creator opf:file-as="January &amp; Wood Company (Maysville, Ky.)" opf:role="aut">Ky.) January</dc:creator>
+        <dc:creator opf:file-as="January &amp; Wood Company (Maysville, Ky.)" opf:role="aut">Wood Company (Maysville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65645</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Knitting -- Patterns</dc:subject>
+        <dc:subject>Crocheting -- Patterns</dc:subject>
+        <dc:subject>Rugs</dc:subject>
+        <dc:subject>Afghans (Coverlets)</dc:subject>
+        <dc:subject>Pillows</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ky.) January&quot;: &quot;&quot;, &quot;Wood Company (Maysville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:22:56.555682+00:00"/>
+        <meta name="calibre:title_sort" content="Kentucky Rug Yarns Vol. 5: Rugs / Easy to follow instructions and diagrams for colorful rugs, hats, pillows and other items"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

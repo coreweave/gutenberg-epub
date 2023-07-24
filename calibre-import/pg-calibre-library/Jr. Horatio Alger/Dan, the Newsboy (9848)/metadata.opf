@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f5885f3-ac83-40ec-80a2-dd2a8207ba9f</dc:identifier>
+        <dc:title>Dan, the Newsboy</dc:title>
+        <dc:creator opf:file-as="Alger, Horatio, Jr." opf:role="aut">Jr. Horatio Alger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53345</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Kidnapping -- Juvenile fiction</dc:subject>
+        <dc:subject>Newspaper vendors -- Juvenile fiction</dc:subject>
+        <dc:subject>Poverty -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Diligence -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Courage -- Juvenile fiction</dc:subject>
+        <dc:subject>Fatherless families -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth and death -- Juvenile fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- History -- 1865-1898 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jr. Horatio Alger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:44:09.996239+00:00"/>
+        <meta name="calibre:title_sort" content="Dan, the Newsboy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

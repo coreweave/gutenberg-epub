@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13552352-183c-47b9-8a1d-03178f0dff73</dc:identifier>
+        <dc:title>The Tree-Dwellers</dc:title>
+        <dc:creator opf:file-as="Dopp, Katharine Elizabeth" opf:role="aut">Katharine Elizabeth Dopp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25098</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Readers</dc:subject>
+        <dc:subject>Prehistoric peoples -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Katharine Elizabeth Dopp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:26:44.532834+00:00"/>
+        <meta name="calibre:title_sort" content="Tree-Dwellers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

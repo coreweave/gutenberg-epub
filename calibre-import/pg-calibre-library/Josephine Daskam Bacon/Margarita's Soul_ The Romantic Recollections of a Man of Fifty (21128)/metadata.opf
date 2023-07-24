@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">538356bb-cc7e-4593-b0fe-8e6018d9fb51</dc:identifier>
+        <dc:title>Margarita's Soul: The Romantic Recollections of a Man of Fifty</dc:title>
+        <dc:creator opf:file-as="Bacon, Josephine Daskam" opf:role="aut">Josephine Daskam Bacon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26277</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Josephine Daskam Bacon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:47:17.998885+00:00"/>
+        <meta name="calibre:title_sort" content="Margarita's Soul: The Romantic Recollections of a Man of Fifty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6049ccee-343b-4342-a581-ea0f38bbb18e</dc:identifier>
+        <dc:title>The Fair God; or, The Last of the 'Tzins: A Tale of the Conquest of Mexico</dc:title>
+        <dc:creator opf:file-as="Wallace, Lew" opf:role="aut">Lew Wallace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43340</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Mexico -- History -- Conquest</dc:subject>
+        <dc:subject>1519-1540 -- Fiction</dc:subject>
+        <dc:subject>Aztecs -- Fiction</dc:subject>
+        <dc:subject>Montezuma II</dc:subject>
+        <dc:subject>Emperor of Mexico</dc:subject>
+        <dc:subject>approximately 1480-1520 -- Fiction</dc:subject>
+        <dc:subject>Cortés</dc:subject>
+        <dc:subject>Hernán</dc:subject>
+        <dc:subject>1485-1547 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lew Wallace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:02:55.697133+00:00"/>
+        <meta name="calibre:title_sort" content="Fair God; or, The Last of the 'Tzins: A Tale of the Conquest of Mexico, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

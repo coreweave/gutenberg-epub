@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6afe4809-d3dc-4386-86d7-7d776e2e9e64</dc:identifier>
+        <dc:title>Null-ABC</dc:title>
+        <dc:creator opf:file-as="McGuire, John Joseph" opf:role="aut">John Joseph McGuire</dc:creator>
+        <dc:creator opf:file-as="McGuire, John Joseph" opf:role="aut">H. Beam Piper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Literacy -- Fiction</dc:subject>
+        <dc:subject>Nuclear warfare -- Social aspects -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;John Joseph McGuire&quot;: &quot;&quot;, &quot;H. Beam Piper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:04:24.534558+00:00"/>
+        <meta name="calibre:title_sort" content="Null-ABC"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
