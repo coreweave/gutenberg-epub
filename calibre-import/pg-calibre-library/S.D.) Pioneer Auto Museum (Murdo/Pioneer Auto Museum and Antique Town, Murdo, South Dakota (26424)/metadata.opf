@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf79a029-cc93-4600-977a-f220b7c88392</dc:identifier>
+        <dc:title>Pioneer Auto Museum and Antique Town, Murdo, South Dakota</dc:title>
+        <dc:creator opf:file-as="Pioneer Auto Museum (Murdo, S.D.)" opf:role="aut">S.D.) Pioneer Auto Museum (Murdo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65547</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pioneer Auto Museum (Murdo</dc:subject>
+        <dc:subject>S.D.)</dc:subject>
+        <dc:subject>Antique and classic cars -- South Dakota -- Murdo</dc:subject>
+        <dc:subject>Automobiles -- Museums -- South Dakota -- Murdo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S.D.) Pioneer Auto Museum (Murdo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:30:03.264546+00:00"/>
+        <meta name="calibre:title_sort" content="Pioneer Auto Museum and Antique Town, Murdo, South Dakota"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

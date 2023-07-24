@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e329d1d-a256-4658-bf8d-15f96afcd985</dc:identifier>
+        <dc:title>The Sagas of Olaf Tryggvason and of Harald The Tyrant (Harald Haardraade)</dc:title>
+        <dc:creator opf:file-as="Snorri Sturluson" opf:role="aut">Snorri Sturluson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22093</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sagas -- Translations into English</dc:subject>
+        <dc:subject>Harald III Harðráði</dc:subject>
+        <dc:subject>King of Norway</dc:subject>
+        <dc:subject>1015-1066</dc:subject>
+        <dc:subject>Olav I Trygveson</dc:subject>
+        <dc:subject>968-1000</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Snorri Sturluson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:10:04.535295+00:00"/>
+        <meta name="calibre:title_sort" content="Sagas of Olaf Tryggvason and of Harald The Tyrant (Harald Haardraade), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

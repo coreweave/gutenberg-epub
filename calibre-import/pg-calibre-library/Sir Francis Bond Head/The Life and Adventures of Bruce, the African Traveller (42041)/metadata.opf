@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42041</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65e6a946-b85b-4c90-98e7-e28f83729882</dc:identifier>
+        <dc:title>The Life and Adventures of Bruce, the African Traveller</dc:title>
+        <dc:creator opf:file-as="Head, Francis Bond, Sir" opf:role="aut">Sir Francis Bond Head</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethiopia -- Description and travel</dc:subject>
+        <dc:subject>Bruce</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1730-1794</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Francis Bond Head&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:21:48.776484+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Adventures of Bruce, the African Traveller, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

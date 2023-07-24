@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ded86b7-0ef4-4a0f-93e0-8a8909820e71</dc:identifier>
+        <dc:title>The Pan-Angles / A Consideration of the Federation of the Seven English-Speaking Nations</dc:title>
+        <dc:creator opf:file-as="Kennedy, Sinclair" opf:role="aut">Sinclair Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45080</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Relations -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Relations -- United States</dc:subject>
+        <dc:subject>Anglo-Saxon race</dc:subject>
+        <dc:subject>Great Britain -- Colonies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sinclair Kennedy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:06:56.813735+00:00"/>
+        <meta name="calibre:title_sort" content="Pan-Angles / A Consideration of the Federation of the Seven English-Speaking Nations, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

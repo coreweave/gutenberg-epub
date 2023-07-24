@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8569519c-c47e-450a-8121-d9e842e8a21a</dc:identifier>
+        <dc:title>Notes to Shakespeare — Volume 01: Comedies</dc:title>
+        <dc:creator opf:file-as="Johnson, Samuel" opf:role="aut">Samuel Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7780</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Criticism and interpretation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:02:50.393124+00:00"/>
+        <meta name="calibre:title_sort" content="Notes to Shakespeare — Volume 01: Comedies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

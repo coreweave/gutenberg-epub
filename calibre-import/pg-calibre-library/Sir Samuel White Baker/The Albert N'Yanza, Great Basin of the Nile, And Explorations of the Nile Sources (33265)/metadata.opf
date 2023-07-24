@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">193a905c-1fa5-4591-8d08-b95baec981b9</dc:identifier>
+        <dc:title>The Albert N'Yanza, Great Basin of the Nile, And Explorations of the Nile Sources</dc:title>
+        <dc:creator opf:file-as="Baker, Samuel White, Sir" opf:role="aut">Sir Samuel White Baker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3668</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nile River</dc:subject>
+        <dc:subject>Sudan</dc:subject>
+        <dc:subject>Albert</dc:subject>
+        <dc:subject>Lake (Congo and Uganda)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Samuel White Baker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:49:16.431904+00:00"/>
+        <meta name="calibre:title_sort" content="Albert N'Yanza, Great Basin of the Nile, And Explorations of the Nile Sources, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

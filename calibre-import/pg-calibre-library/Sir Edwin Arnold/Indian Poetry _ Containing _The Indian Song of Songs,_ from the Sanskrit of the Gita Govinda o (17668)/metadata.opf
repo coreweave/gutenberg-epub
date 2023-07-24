@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a25d7244-3fee-489f-a6da-3483bfafd03d</dc:identifier>
+        <dc:title>Indian Poetry / Containing "The Indian Song of Songs," from the Sanskrit of the Gîta Govinda of Jayadeva, Two books from "The Iliad Of India" (Mahábhárata), "Proverbial Wisdom" from the Shlokas of the Hitopadesa, and other Oriental Poems.</dc:title>
+        <dc:creator opf:file-as="Arnold, Edwin, Sir" opf:role="aut">Sir Edwin Arnold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25965</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sanskrit poetry -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Edwin Arnold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:41:24.935365+00:00"/>
+        <meta name="calibre:title_sort" content="Indian Poetry / Containing &quot;The Indian Song of Songs,&quot; from the Sanskrit of the Gîta Govinda of Jayadeva, Two books from &quot;The Iliad Of India&quot; (Mahábhárata), &quot;Proverbial Wisdom&quot; from the Shlokas of the Hitopadesa, and other Oriental Poems."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

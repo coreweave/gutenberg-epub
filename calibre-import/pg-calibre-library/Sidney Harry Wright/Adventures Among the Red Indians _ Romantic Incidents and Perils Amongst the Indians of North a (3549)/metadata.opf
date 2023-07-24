@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc675e4f-0daf-4369-bf8a-2e5baae35cf6</dc:identifier>
+        <dc:title>Adventures Among the Red Indians / Romantic Incidents and Perils Amongst the Indians of North and South America</dc:title>
+        <dc:creator opf:file-as="Wright, Sidney Harry" opf:role="aut">Sidney Harry Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34675</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America</dc:subject>
+        <dc:subject>Indians of South America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sidney Harry Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:24:29.490905+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures Among the Red Indians / Romantic Incidents and Perils Amongst the Indians of North and South America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

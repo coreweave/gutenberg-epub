@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41072</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ab152a4-8157-4df6-89ef-0e54ad9a585a</dc:identifier>
+        <dc:title>The Invention of Printing. / A Collection of Facts and Opinions, Descriptive of Early Prints and Playing Cards, the Block-Books of the Fifteenth Century, the Legend of Lourens Janszoon Coster, of Haarlem, and the Work of John Gutenberg and His Associates</dc:title>
+        <dc:creator opf:file-as="De Vinne, Theodore Low" opf:role="aut">Theodore Low De Vinne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51034</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Printing -- History -- Origin and antecedents</dc:subject>
+        <dc:subject>Incunabula -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore Low De Vinne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:28:25.966337+00:00"/>
+        <meta name="calibre:title_sort" content="Invention of Printing. / A Collection of Facts and Opinions, Descriptive of Early Prints and Playing Cards, the Block-Books of the Fifteenth Century, the Legend of Lourens Janszoon Coster, of Haarlem, and the Work of John Gutenberg and His Associates, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6ce9eed-73bf-4b0e-a4b1-78ffe1b6c817</dc:identifier>
+        <dc:title>Days on the Road: Crossing the Plains in 1865</dc:title>
+        <dc:creator opf:file-as="Herndon, Sarah Raymond" opf:role="aut">Sarah Raymond Herndon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62610</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Overland journeys to the Pacific</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Raymond Herndon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:49:19.871812+00:00"/>
+        <meta name="calibre:title_sort" content="Days on the Road: Crossing the Plains in 1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

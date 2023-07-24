@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f6b28e2-853a-465f-bf26-3b960cef985b</dc:identifier>
+        <dc:title>Quiet Talks on Following the Christ</dc:title>
+        <dc:creator opf:file-as="Gordon, S. D. (Samuel Dickey)" opf:role="aut">S. D. Gordon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18486</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life</dc:subject>
+        <dc:subject>Devotional literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. D. Gordon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:46:40.775540+00:00"/>
+        <meta name="calibre:title_sort" content="Quiet Talks on Following the Christ"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

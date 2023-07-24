@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34671abe-5999-4a66-9084-864e5b25a497</dc:identifier>
+        <dc:title>The Old Man's Bag</dc:title>
+        <dc:creator opf:file-as="Crosland, T. W. H. (Thomas William Hodgson)" opf:role="aut">T. W. H. Crosland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23485</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Older people -- Juvenile fiction</dc:subject>
+        <dc:subject>Police -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. W. H. Crosland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:51:06.782885+00:00"/>
+        <meta name="calibre:title_sort" content="Old Man's Bag, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

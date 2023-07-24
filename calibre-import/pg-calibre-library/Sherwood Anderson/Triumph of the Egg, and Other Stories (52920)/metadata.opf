@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52920</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a040035-afb3-450d-8946-7cb0dcc86dad</dc:identifier>
+        <dc:title>Triumph of the Egg, and Other Stories</dc:title>
+        <dc:creator opf:file-as="Anderson, Sherwood" opf:role="aut">Sherwood Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7048</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ohio -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sherwood Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:13:07.738904+00:00"/>
+        <meta name="calibre:title_sort" content="Triumph of the Egg, and Other Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

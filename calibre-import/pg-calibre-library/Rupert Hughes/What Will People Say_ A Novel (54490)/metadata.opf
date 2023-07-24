@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76b5ef93-1a91-4f44-92f0-83d963eccecc</dc:identifier>
+        <dc:title>What Will People Say? A Novel</dc:title>
+        <dc:creator opf:file-as="Hughes, Rupert" opf:role="aut">Rupert Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38311</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Triangles (Interpersonal relations) -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rupert Hughes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:54:31.113133+00:00"/>
+        <meta name="calibre:title_sort" content="What Will People Say? A Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

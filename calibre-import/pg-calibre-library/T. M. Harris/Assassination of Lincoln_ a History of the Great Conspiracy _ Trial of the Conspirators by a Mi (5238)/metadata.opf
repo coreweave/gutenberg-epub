@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17533aa0-f016-4868-9edb-16456fd64b1b</dc:identifier>
+        <dc:title>Assassination of Lincoln: a History of the Great Conspiracy / Trial of the Conspirators by a Military Commission, and a Review of the Trial of John H. Surratt</dc:title>
+        <dc:creator opf:file-as="Harris, T. M. (Thomas Mealey)" opf:role="aut">T. M. Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42855</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Assassination</dc:subject>
+        <dc:subject>Surratt</dc:subject>
+        <dc:subject>John H. (John Harrison)</dc:subject>
+        <dc:subject>1844-1916</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. M. Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:56:59.623434+00:00"/>
+        <meta name="calibre:title_sort" content="Assassination of Lincoln: a History of the Great Conspiracy / Trial of the Conspirators by a Military Commission, and a Review of the Trial of John H. Surratt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

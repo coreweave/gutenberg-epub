@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dea74ad3-6f07-4a6e-a402-d0cf147442f3</dc:identifier>
+        <dc:title>The Wigmaker in Eighteenth-Century Williamsburg / An Account of His Barbering, Hair-dressing, &amp; Peruke-Making Services, &amp; Some Remarks on Wigs of Various Styles.</dc:title>
+        <dc:creator opf:file-as="Bullock, Thomas K." opf:role="aut">Thomas K. Bullock</dc:creator>
+        <dc:creator opf:file-as="Bullock, Thomas K." opf:role="aut">Maurice B. Tonkin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58384</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wigmakers</dc:subject>
+        <dc:subject>Wigs -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas K. Bullock&quot;: &quot;&quot;, &quot;Maurice B. Tonkin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:24:51.477307+00:00"/>
+        <meta name="calibre:title_sort" content="Wigmaker in Eighteenth-Century Williamsburg / An Account of His Barbering, Hair-dressing, &amp; Peruke-Making Services, &amp; Some Remarks on Wigs of Various Styles., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

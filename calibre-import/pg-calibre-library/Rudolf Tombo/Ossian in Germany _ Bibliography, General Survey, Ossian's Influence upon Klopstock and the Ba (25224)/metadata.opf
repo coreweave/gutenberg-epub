@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b492aae-783a-4e61-9c12-068cfc09eec9</dc:identifier>
+        <dc:title>Ossian in Germany / Bibliography, General Survey, Ossian's Influence upon Klopstock and the Bards</dc:title>
+        <dc:creator opf:file-as="Tombo, Rudolf" opf:role="aut">Rudolf Tombo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary forgeries and mystifications -- History -- 18th century</dc:subject>
+        <dc:subject>Middle Ages in literature</dc:subject>
+        <dc:subject>Macpherson</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1736-1796. Ossian</dc:subject>
+        <dc:subject>Klopstock</dc:subject>
+        <dc:subject>Friedrich Gottlieb</dc:subject>
+        <dc:subject>1724-1803 -- Knowledge -- Literature</dc:subject>
+        <dc:subject>1736-1796 -- Appreciation -- Germany</dc:subject>
+        <dc:subject>1736-1796 -- Influence</dc:subject>
+        <dc:subject>Ossian</dc:subject>
+        <dc:subject>active 3rd century -- In literature</dc:subject>
+        <dc:subject>Medievalism -- Scotland -- History -- 18th century</dc:subject>
+        <dc:subject>German literature -- Celtic influences</dc:subject>
+        <dc:subject>Bards and bardism in literature</dc:subject>
+        <dc:subject>Celts in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rudolf Tombo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:37:51.208482+00:00"/>
+        <meta name="calibre:title_sort" content="Ossian in Germany / Bibliography, General Survey, Ossian's Influence upon Klopstock and the Bards"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3367200-05e5-4266-8b30-1eacd48b0fbf</dc:identifier>
+        <dc:title>The War in the Air; Vol. 1 / The Part played in the Great War by the Royal Air Force</dc:title>
+        <dc:creator opf:file-as="Raleigh, Walter Alexander, Sir" opf:role="aut">Sir Walter Alexander Raleigh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Royal Air Force</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Aerial operations</dc:subject>
+        <dc:subject>British</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Walter Alexander Raleigh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:07:24.256700+00:00"/>
+        <meta name="calibre:title_sort" content="War in the Air; Vol. 1 / The Part played in the Great War by the Royal Air Force, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

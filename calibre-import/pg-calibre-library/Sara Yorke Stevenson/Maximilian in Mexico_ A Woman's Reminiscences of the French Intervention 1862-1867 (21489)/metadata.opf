@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">908bf5ae-6c94-49c8-a110-a3f30705e723</dc:identifier>
+        <dc:title>Maximilian in Mexico: A Woman's Reminiscences of the French Intervention 1862-1867</dc:title>
+        <dc:creator opf:file-as="Stevenson, Sara Yorke" opf:role="aut">Sara Yorke Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5997</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maximilian</dc:subject>
+        <dc:subject>Emperor of Mexico</dc:subject>
+        <dc:subject>1832-1867</dc:subject>
+        <dc:subject>Mexico -- History -- European intervention</dc:subject>
+        <dc:subject>1861-1867</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sara Yorke Stevenson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:01:26.163872+00:00"/>
+        <meta name="calibre:title_sort" content="Maximilian in Mexico: A Woman's Reminiscences of the French Intervention 1862-1867"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

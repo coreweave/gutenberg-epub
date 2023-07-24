@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d538074c-7c5c-48d5-b02a-5f3e6a32c70d</dc:identifier>
+        <dc:title>The American Encyclopedia of History, Biography and Travel / Comprising Ancient and Modern History: the Biography of Eminent Men of Europe and America, and the Lives of Distinguished Travelers.</dc:title>
+        <dc:creator opf:file-as="Prescott, Thomas H." opf:role="aut">Thomas H. Prescott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63912</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography</dc:subject>
+        <dc:subject>World history</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas H. Prescott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:53:50.751729+00:00"/>
+        <meta name="calibre:title_sort" content="American Encyclopedia of History, Biography and Travel / Comprising Ancient and Modern History: the Biography of Eminent Men of Europe and America, and the Lives of Distinguished Travelers., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

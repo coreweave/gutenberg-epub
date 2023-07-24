@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b0a1873-878c-42ef-b451-50f0b3509fab</dc:identifier>
+        <dc:title>Afghanistan and the Anglo-Russian Dispute</dc:title>
+        <dc:creator opf:file-as="Rodenbough, Theophilus F. (Theophilus Francis)" opf:role="aut">Theophilus F. Rodenbough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7320</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Eastern question (Central Asia)</dc:subject>
+        <dc:subject>Russians -- Asia</dc:subject>
+        <dc:subject>Central</dc:subject>
+        <dc:subject>Afghanistan</dc:subject>
+        <dc:subject>India -- Defenses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theophilus F. Rodenbough&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:12.383459+00:00"/>
+        <meta name="calibre:title_sort" content="Afghanistan and the Anglo-Russian Dispute"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

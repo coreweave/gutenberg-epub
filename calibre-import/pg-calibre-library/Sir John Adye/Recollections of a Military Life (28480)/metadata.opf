@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc9a8575-664b-42e1-a426-920e951557dd</dc:identifier>
+        <dc:title>Recollections of a Military Life</dc:title>
+        <dc:creator opf:file-as="Adye, John, Sir" opf:role="aut">Sir John Adye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52473</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Afghan Wars</dc:subject>
+        <dc:subject>India -- History -- Sepoy Rebellion</dc:subject>
+        <dc:subject>1857-1858</dc:subject>
+        <dc:subject>Crimean War</dc:subject>
+        <dc:subject>1853-1856</dc:subject>
+        <dc:subject>Egypt -- History -- British occupation</dc:subject>
+        <dc:subject>1882-1936</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir John Adye&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:00:14.527104+00:00"/>
+        <meta name="calibre:title_sort" content="Recollections of a Military Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

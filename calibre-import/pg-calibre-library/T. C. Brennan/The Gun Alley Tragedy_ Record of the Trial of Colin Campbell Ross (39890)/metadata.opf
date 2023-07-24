@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26618a18-8cbc-4759-b7c1-2c84d2ec4fc2</dc:identifier>
+        <dc:title>The Gun Alley Tragedy: Record of the Trial of Colin Campbell Ross</dc:title>
+        <dc:creator opf:file-as="Brennan, T. C. (Thomas Cornelius)" opf:role="aut">T. C. Brennan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62861</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ross</dc:subject>
+        <dc:subject>Colin Campbell</dc:subject>
+        <dc:subject>1892-1922 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Trials (Murder) -- Australia -- Victoria -- Melbourne</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. C. Brennan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:25:00.843203+00:00"/>
+        <meta name="calibre:title_sort" content="Gun Alley Tragedy: Record of the Trial of Colin Campbell Ross, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

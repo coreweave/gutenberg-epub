@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9042ca02-2531-4de0-b6f8-9881130d4fa5</dc:identifier>
+        <dc:title>William Gilbert, and Terrestial Magnetism in the Time of Queen Elizabeth / A Discourse</dc:title>
+        <dc:creator opf:file-as="Thompson, Silvanus P. (Silvanus Phillips)" opf:role="aut">Silvanus P. Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45893</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gilbert</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1544-1603</dc:subject>
+        <dc:subject>Magnetism -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Silvanus P. Thompson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:21:28.952669+00:00"/>
+        <meta name="calibre:title_sort" content="William Gilbert, and Terrestial Magnetism in the Time of Queen Elizabeth / A Discourse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

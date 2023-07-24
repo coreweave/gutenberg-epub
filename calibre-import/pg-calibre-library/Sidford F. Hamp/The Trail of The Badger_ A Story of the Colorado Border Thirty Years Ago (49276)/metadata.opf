@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b951dd7-6087-4170-b3ef-5361942e4f50</dc:identifier>
+        <dc:title>The Trail of The Badger: A Story of the Colorado Border Thirty Years Ago</dc:title>
+        <dc:creator opf:file-as="Hamp, Sidford F. (Sidford Frederick)" opf:role="aut">Sidford F. Hamp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43989</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teenage boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Guardian and ward -- Juvenile fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Colorado -- Juvenile fiction</dc:subject>
+        <dc:subject>Colorado -- History -- 19th century -- Juvenile fiction</dc:subject>
+        <dc:subject>Desert reclamation -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sidford F. Hamp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:20:54.930486+00:00"/>
+        <meta name="calibre:title_sort" content="Trail of The Badger: A Story of the Colorado Border Thirty Years Ago, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

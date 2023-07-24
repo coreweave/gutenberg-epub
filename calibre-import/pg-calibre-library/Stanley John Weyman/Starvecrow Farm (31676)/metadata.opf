@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f3bb68d-fb3c-4e64-b12c-4acd15c5e085</dc:identifier>
+        <dc:title>Starvecrow Farm</dc:title>
+        <dc:creator opf:file-as="Weyman, Stanley John" opf:role="aut">Stanley John Weyman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39138</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Elopement -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stanley John Weyman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:31:24.989230+00:00"/>
+        <meta name="calibre:title_sort" content="Starvecrow Farm"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

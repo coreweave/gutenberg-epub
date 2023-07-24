@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e23f09ef-9b65-4de5-a684-690137a9b53d</dc:identifier>
+        <dc:title>The Earlier Work of Titian</dc:title>
+        <dc:creator opf:file-as="Phillips, Claude, Sir" opf:role="aut">Sir Claude Phillips</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12626</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Titian</dc:subject>
+        <dc:subject>approximately 1488-1576</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Claude Phillips&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:34:48.736502+00:00"/>
+        <meta name="calibre:title_sort" content="Earlier Work of Titian, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

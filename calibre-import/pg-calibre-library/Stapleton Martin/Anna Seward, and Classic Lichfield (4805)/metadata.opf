@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">706161d1-2aa8-4d21-84de-a2465e9bc338</dc:identifier>
+        <dc:title>Anna Seward, and Classic Lichfield</dc:title>
+        <dc:creator opf:file-as="Martin, Stapleton" opf:role="aut">Stapleton Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- 18th century -- History and criticism</dc:subject>
+        <dc:subject>Women poets -- Biography</dc:subject>
+        <dc:subject>Seward</dc:subject>
+        <dc:subject>Anna</dc:subject>
+        <dc:subject>1742-1809</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stapleton Martin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:48:20.509224+00:00"/>
+        <meta name="calibre:title_sort" content="Anna Seward, and Classic Lichfield"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

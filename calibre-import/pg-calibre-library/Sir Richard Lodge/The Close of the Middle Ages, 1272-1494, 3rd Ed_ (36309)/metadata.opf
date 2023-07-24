@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f07b721d-1b14-4d85-9dd2-14f30a52caad</dc:identifier>
+        <dc:title>The Close of the Middle Ages, 1272-1494, 3rd Ed.</dc:title>
+        <dc:creator opf:file-as="Lodge, Richard, Sir" opf:role="aut">Sir Richard Lodge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62493</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Middle Ages</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Richard Lodge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:20:02.095747+00:00"/>
+        <meta name="calibre:title_sort" content="Close of the Middle Ages, 1272-1494, 3rd Ed., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

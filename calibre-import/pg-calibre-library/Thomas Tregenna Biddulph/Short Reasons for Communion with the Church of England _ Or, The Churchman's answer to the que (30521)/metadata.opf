@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d813601f-d5fc-4a32-969f-b4ff0d3ef8d7</dc:identifier>
+        <dc:title>Short Reasons for Communion with the Church of England / Or, The Churchman's answer to the question, "Why are you a Member of the Established Church?"</dc:title>
+        <dc:creator opf:file-as="Biddulph, Thomas Tregenna" opf:role="aut">Thomas Tregenna Biddulph</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54295</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Apologetic works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Tregenna Biddulph&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:36:36.187008+00:00"/>
+        <meta name="calibre:title_sort" content="Short Reasons for Communion with the Church of England / Or, The Churchman's answer to the question, &quot;Why are you a Member of the Established Church?&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aee15ae-5409-4345-b776-59209b74b5a9</dc:identifier>
+        <dc:title>Between You and Me</dc:title>
+        <dc:creator opf:file-as="Lauder, Harry, Sir" opf:role="aut">Sir Harry Lauder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11765</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lauder</dc:subject>
+        <dc:subject>Harry</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1870-1950</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Harry Lauder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:17:37.258141+00:00"/>
+        <meta name="calibre:title_sort" content="Between You and Me"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5603e479-f49d-4afd-9de6-5599df9e3477</dc:identifier>
+        <dc:title>Watch—Work—Wait / Or, The Orphan's Victory</dc:title>
+        <dc:creator opf:file-as="Myers, Sarah A. (Sarah Ann)" opf:role="aut">Sarah A. Myers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16367</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Temptation -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah A. Myers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:36:25.650255+00:00"/>
+        <meta name="calibre:title_sort" content="Watch—Work—Wait / Or, The Orphan's Victory"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

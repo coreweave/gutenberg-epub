@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">485d8235-a6d5-41e0-8893-b3e6476a0d91</dc:identifier>
+        <dc:title>A Coal From The Altar, To Kindle The Holy Fire of Zeale / In a Sermon Preached at a Generall Visitation at Ipswich</dc:title>
+        <dc:creator opf:file-as="Ward, Samuel" opf:role="aut">Samuel Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16423</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 17th century</dc:subject>
+        <dc:subject>Bible. Revelation III</dc:subject>
+        <dc:subject>19 -- Sermons</dc:subject>
+        <dc:subject>Piety -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Ward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:36:01.156688+00:00"/>
+        <meta name="calibre:title_sort" content="Coal From The Altar, To Kindle The Holy Fire of Zeale / In a Sermon Preached at a Generall Visitation at Ipswich, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

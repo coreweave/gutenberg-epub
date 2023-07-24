@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ea7bda3-bbb4-4101-a463-751d0be84896</dc:identifier>
+        <dc:title>The Home Mission</dc:title>
+        <dc:creator opf:file-as="Arthur, T. S. (Timothy Shay)" opf:role="aut">T. S. Arthur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4630</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Family life -- Fiction</dc:subject>
+        <dc:subject>Marriage -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. S. Arthur&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:01:57.760344+00:00"/>
+        <meta name="calibre:title_sort" content="Home Mission, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

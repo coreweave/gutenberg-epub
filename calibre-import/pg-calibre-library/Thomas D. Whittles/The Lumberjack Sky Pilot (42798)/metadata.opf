@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42798</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65a48b57-23a1-4b81-9c17-2b178d23b502</dc:identifier>
+        <dc:title>The Lumberjack Sky Pilot</dc:title>
+        <dc:creator opf:file-as="Whittles, Thomas D. (Thomas Davis)" opf:role="aut">Thomas D. Whittles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presbyterian Church -- Clergy -- Biography</dc:subject>
+        <dc:subject>Higgins</dc:subject>
+        <dc:subject>Francis Edmund</dc:subject>
+        <dc:subject>1865-1915</dc:subject>
+        <dc:subject>Church work with loggers -- Minnesota</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas D. Whittles&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:03:55.459768+00:00"/>
+        <meta name="calibre:title_sort" content="Lumberjack Sky Pilot, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

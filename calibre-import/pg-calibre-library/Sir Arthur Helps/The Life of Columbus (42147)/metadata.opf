@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f353058-be6d-4c21-a9e8-4b38cca9187a</dc:identifier>
+        <dc:title>The Life of Columbus</dc:title>
+        <dc:creator opf:file-as="Helps, Arthur, Sir" opf:role="aut">Sir Arthur Helps</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15336</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Columbus</dc:subject>
+        <dc:subject>Christopher</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Spanish</dc:subject>
+        <dc:subject>Explorers -- America -- Biography</dc:subject>
+        <dc:subject>Explorers -- Spain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Arthur Helps&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:27:41.170385+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Columbus, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

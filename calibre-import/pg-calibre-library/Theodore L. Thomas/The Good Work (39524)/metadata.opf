@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac379efa-814a-44f2-9644-53965e83a1e1</dc:identifier>
+        <dc:title>The Good Work</dc:title>
+        <dc:creator opf:file-as="Thomas, Theodore L." opf:role="aut">Theodore L. Thomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60682</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Overpopulation -- Fiction</dc:subject>
+        <dc:subject>United States -- Economic conditions -- Fiction</dc:subject>
+        <dc:subject>Work -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore L. Thomas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:05:40.275441+00:00"/>
+        <meta name="calibre:title_sort" content="Good Work, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

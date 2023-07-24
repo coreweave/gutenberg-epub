@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7e65cfb-583c-4533-b63a-f5083d7b11bf</dc:identifier>
+        <dc:title>The Forme of Cury: A Roll of Ancient English Cookery Compiled, about A.D. 1390</dc:title>
+        <dc:creator opf:file-as="Pegge, Samuel" opf:role="aut">Samuel Pegge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8102</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>enm</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>English -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Pegge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:25:41.894675+00:00"/>
+        <meta name="calibre:title_sort" content="Forme of Cury: A Roll of Ancient English Cookery Compiled, about A.D. 1390, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

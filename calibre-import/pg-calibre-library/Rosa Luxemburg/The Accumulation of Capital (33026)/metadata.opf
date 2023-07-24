@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33026</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a04aad37-e80b-40cd-b57f-abd8b753c076</dc:identifier>
+        <dc:title>The Accumulation of Capital</dc:title>
+        <dc:creator opf:file-as="Luxemburg, Rosa" opf:role="aut">Rosa Luxemburg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41405</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Socialism</dc:subject>
+        <dc:subject>Capitalism</dc:subject>
+        <dc:subject>Saving and investment</dc:subject>
+        <dc:subject>Imperialism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rosa Luxemburg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:37:32.261931+00:00"/>
+        <meta name="calibre:title_sort" content="Accumulation of Capital, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1c212c6-326e-44cc-8dd8-8348f16e27ca</dc:identifier>
+        <dc:title>The Fairfax County Courthouse</dc:title>
+        <dc:creator opf:file-as="Netherton, Ross De Witt" opf:role="aut">Ross De Witt Netherton</dc:creator>
+        <dc:creator opf:file-as="Netherton, Ross De Witt" opf:role="aut">Ruby Waldeck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28750</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Law -- Virginia -- Fairfax County -- History</dc:subject>
+        <dc:subject>Courthouses -- Virginia -- Fairfax County -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ross De Witt Netherton&quot;: &quot;&quot;, &quot;Ruby Waldeck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:03:15.034697+00:00"/>
+        <meta name="calibre:title_sort" content="Fairfax County Courthouse, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

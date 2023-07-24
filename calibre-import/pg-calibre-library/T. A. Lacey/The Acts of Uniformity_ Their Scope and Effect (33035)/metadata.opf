@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33035</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb5bf65b-a5d8-46ff-964e-8274382ba30d</dc:identifier>
+        <dc:title>The Acts of Uniformity: Their Scope and Effect</dc:title>
+        <dc:creator opf:file-as="Lacey, T. A. (Thomas Alexander)" opf:role="aut">T. A. Lacey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28659</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England. Book of common prayer</dc:subject>
+        <dc:subject>Church of England -- History</dc:subject>
+        <dc:subject>Ecclesiastical law -- Great Britain -- History</dc:subject>
+        <dc:subject>Dissenters</dc:subject>
+        <dc:subject>Religious -- Great Britain -- History</dc:subject>
+        <dc:subject>Great Britain -- Church history</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. A. Lacey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:37:58.190809+00:00"/>
+        <meta name="calibre:title_sort" content="Acts of Uniformity: Their Scope and Effect, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa975ccd-fdfa-49c3-b23d-97fdfcdce8bd</dc:identifier>
+        <dc:title>Our Village in War-time</dc:title>
+        <dc:creator opf:file-as="Martyn, S. T. (Sarah Towne)" opf:role="aut">S. T. Martyn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sunday school literature</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Juvenile fiction</dc:subject>
+        <dc:subject>Soldiers -- Services for -- United States -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. T. Martyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:45:30.888600+00:00"/>
+        <meta name="calibre:title_sort" content="Our Village in War-time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

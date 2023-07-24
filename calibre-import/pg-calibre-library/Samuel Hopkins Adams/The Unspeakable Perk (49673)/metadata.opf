@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd69530a-4a74-47d8-89b1-83387949b1ee</dc:identifier>
+        <dc:title>The Unspeakable Perk</dc:title>
+        <dc:creator opf:file-as="Adams, Samuel Hopkins" opf:role="aut">Samuel Hopkins Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5009</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Disguise -- Fiction</dc:subject>
+        <dc:subject>Caribbean Area -- Fiction</dc:subject>
+        <dc:subject>Entomologists -- Fiction</dc:subject>
+        <dc:subject>Heiresses -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Hopkins Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:45:47.249151+00:00"/>
+        <meta name="calibre:title_sort" content="Unspeakable Perk, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

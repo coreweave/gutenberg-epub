@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73bdc4e0-9ec2-49c8-8703-f1ede63ee512</dc:identifier>
+        <dc:title>Drainage Modifications and Glaciation in the Danbury Region Connecticut / State of Connecticut State Geological and Natural History Survey Bulletin No. 30</dc:title>
+        <dc:creator opf:file-as="Harvey, Ruth Sawyer" opf:role="aut">Ruth Sawyer Harvey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Glacial epoch</dc:subject>
+        <dc:subject>Geology -- Connecticut</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruth Sawyer Harvey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:13:01.744865+00:00"/>
+        <meta name="calibre:title_sort" content="Drainage Modifications and Glaciation in the Danbury Region Connecticut / State of Connecticut State Geological and Natural History Survey Bulletin No. 30"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

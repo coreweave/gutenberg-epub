@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea0b08c9-d978-473f-8e6f-fcf9e7119c1f</dc:identifier>
+        <dc:title>The Writings of Samuel Adams - Volume 3</dc:title>
+        <dc:creator opf:file-as="Adams, Samuel" opf:role="aut">Samuel Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2093</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1775-1783</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1783-1809</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:03:59.742261+00:00"/>
+        <meta name="calibre:title_sort" content="Writings of Samuel Adams - Volume 3, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

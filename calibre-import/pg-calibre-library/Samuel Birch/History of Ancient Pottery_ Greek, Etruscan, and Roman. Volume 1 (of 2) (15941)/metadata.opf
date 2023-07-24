@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e91d612e-4121-4047-8c80-46bd1bd7ba14</dc:identifier>
+        <dc:title>History of Ancient Pottery: Greek, Etruscan, and Roman. Volume 1 (of 2)</dc:title>
+        <dc:creator opf:file-as="Birch, Samuel" opf:role="aut">Samuel Birch</dc:creator>
+        <dc:creator opf:file-as="Birch, Samuel" opf:role="aut">H. B. Walters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48154</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Classical</dc:subject>
+        <dc:subject>in art</dc:subject>
+        <dc:subject>Pottery</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <dc:subject>Etruscan</dc:subject>
+        <dc:subject>Roman</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Birch&quot;: &quot;&quot;, &quot;H. B. Walters&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:43:12.752046+00:00"/>
+        <meta name="calibre:title_sort" content="History of Ancient Pottery: Greek, Etruscan, and Roman. Volume 1 (of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

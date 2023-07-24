@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5061</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b15f792d-1fca-4f55-8690-6c9fa07f3bf7</dc:identifier>
+        <dc:title>Aristotle and Ancient Educational Ideals</dc:title>
+        <dc:creator opf:file-as="Davidson, Thomas" opf:role="aut">Thomas Davidson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40552</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aristotle</dc:subject>
+        <dc:subject>384 BC-322 BC</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Davidson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:53:28.342063+00:00"/>
+        <meta name="calibre:title_sort" content="Aristotle and Ancient Educational Ideals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12827</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51ce4e9c-ed37-4a2b-b376-6fff934a4aec</dc:identifier>
+        <dc:title>Five Men and Pompey: A Series of Dramatic Portraits</dc:title>
+        <dc:creator opf:file-as="Benét, Stephen Vincent" opf:role="aut">Stephen Vincent Benét</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62494</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pompey</dc:subject>
+        <dc:subject>the Great</dc:subject>
+        <dc:subject>106 B.C.-48 B.C. -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Vincent Benét&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:05:46.572265+00:00"/>
+        <meta name="calibre:title_sort" content="Five Men and Pompey: A Series of Dramatic Portraits"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

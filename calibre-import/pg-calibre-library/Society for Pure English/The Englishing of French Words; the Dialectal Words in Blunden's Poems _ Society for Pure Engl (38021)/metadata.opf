@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38021</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ae052ed-3164-4648-ae14-62f7135ee98d</dc:identifier>
+        <dc:title>The Englishing of French Words; the Dialectal Words in Blunden's Poems / Society for Pure English, Tract 05</dc:title>
+        <dc:creator opf:file-as="Society for Pure English" opf:role="aut">Society for Pure English</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12524</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Dialects</dc:subject>
+        <dc:subject>English language -- Gallicisms</dc:subject>
+        <dc:subject>English language -- Foreign elements -- French</dc:subject>
+        <dc:subject>French language -- Influence on English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Society for Pure English&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:47:39.958940+00:00"/>
+        <meta name="calibre:title_sort" content="Englishing of French Words; the Dialectal Words in Blunden's Poems / Society for Pure English, Tract 05, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

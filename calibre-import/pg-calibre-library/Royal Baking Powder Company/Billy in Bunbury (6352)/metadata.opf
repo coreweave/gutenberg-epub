@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">071128f9-4f07-457c-932f-2ddf453bf1c3</dc:identifier>
+        <dc:title>Billy in Bunbury</dc:title>
+        <dc:creator opf:file-as="Royal Baking Powder Company" opf:role="aut">Royal Baking Powder Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51224</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Baking -- Juvenile literature</dc:subject>
+        <dc:subject>Baking powder -- Juvenile literature</dc:subject>
+        <dc:subject>Advertising -- Baking powder</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Royal Baking Powder Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:20:31.158523+00:00"/>
+        <meta name="calibre:title_sort" content="Billy in Bunbury"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

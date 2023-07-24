@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72a90531-6a1b-4055-9ce8-84daeef8a198</dc:identifier>
+        <dc:title>Platform Monologues</dc:title>
+        <dc:creator opf:file-as="Tucker, T. G. (Thomas George)" opf:role="aut">T. G. Tucker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18969</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. G. Tucker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:34:08.938260+00:00"/>
+        <meta name="calibre:title_sort" content="Platform Monologues"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47050</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b3308b7-fb4c-4e66-b596-6fc0dac310cb</dc:identifier>
+        <dc:title>The Russian Campaign, April to August, 1915 / Being the Second Volume of "Field Notes from the Russian Front"</dc:title>
+        <dc:creator opf:file-as="Washburn, Stanley" opf:role="aut">Stanley Washburn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51551</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Personal narratives</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- Eastern Front</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stanley Washburn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:07:10.905390+00:00"/>
+        <meta name="calibre:title_sort" content="Russian Campaign, April to August, 1915 / Being the Second Volume of &quot;Field Notes from the Russian Front&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

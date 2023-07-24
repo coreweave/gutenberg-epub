@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da95241f-17ca-4834-82f0-802bd57d4a40</dc:identifier>
+        <dc:title>Fort Ticonderoga: A Short History</dc:title>
+        <dc:creator opf:file-as="Pell, Stephen H. P." opf:role="aut">Stephen H. P. Pell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55561</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fort Ticonderoga (N.Y.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen H. P. Pell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:15:22.587950+00:00"/>
+        <meta name="calibre:title_sort" content="Fort Ticonderoga: A Short History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

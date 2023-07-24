@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6f3776c-f994-4a99-84a4-92dc8e7b3da6</dc:identifier>
+        <dc:title>Mrs. Hale's Receipts for the Million / Containing Four Thousand Five Hundred and Forty-five Receipts, Facts, Directions, etc. in the Useful, Ornamental, and Domestic Arts</dc:title>
+        <dc:creator opf:file-as="Hale, Sarah Josepha Buell" opf:role="aut">Sarah Josepha Buell Hale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Home economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Josepha Buell Hale&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:02:34.502036+00:00"/>
+        <meta name="calibre:title_sort" content="Mrs. Hale's Receipts for the Million / Containing Four Thousand Five Hundred and Forty-five Receipts, Facts, Directions, etc. in the Useful, Ornamental, and Domestic Arts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

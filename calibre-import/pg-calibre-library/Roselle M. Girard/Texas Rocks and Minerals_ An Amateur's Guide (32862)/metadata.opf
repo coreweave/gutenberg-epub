@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32862</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e66fbfcb-01f8-4903-ba48-21e59c7a6f26</dc:identifier>
+        <dc:title>Texas Rocks and Minerals: An Amateur's Guide</dc:title>
+        <dc:creator opf:file-as="Girard, Roselle M." opf:role="aut">Roselle M. Girard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52839</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Petrology</dc:subject>
+        <dc:subject>Petrology -- Texas</dc:subject>
+        <dc:subject>Mineralogy -- Texas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roselle M. Girard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:29:36.569139+00:00"/>
+        <meta name="calibre:title_sort" content="Texas Rocks and Minerals: An Amateur's Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b536d572-ddd6-449f-aca5-78a2e6681e57</dc:identifier>
+        <dc:title>The Great American Fraud / The Patent Medicine Evil</dc:title>
+        <dc:creator opf:file-as="Adams, Samuel Hopkins" opf:role="aut">Samuel Hopkins Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44325</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Patent medicines</dc:subject>
+        <dc:subject>Quacks and quackery</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Hopkins Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:10:00.436711+00:00"/>
+        <meta name="calibre:title_sort" content="Great American Fraud / The Patent Medicine Evil, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

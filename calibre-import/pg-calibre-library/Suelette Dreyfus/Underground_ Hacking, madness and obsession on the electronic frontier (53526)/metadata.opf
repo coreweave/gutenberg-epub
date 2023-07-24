@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23521c6a-2a62-430b-b07e-2fb8a555394b</dc:identifier>
+        <dc:title>Underground: Hacking, madness and obsession on the electronic frontier</dc:title>
+        <dc:creator opf:file-as="Dreyfus, Suelette" opf:role="aut">Suelette Dreyfus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer hackers -- Australia -- Biography</dc:subject>
+        <dc:subject>Computer crimes -- Australia</dc:subject>
+        <dc:subject>Computer security -- Australia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Suelette Dreyfus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:52:13.231365+00:00"/>
+        <meta name="calibre:title_sort" content="Underground: Hacking, madness and obsession on the electronic frontier"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

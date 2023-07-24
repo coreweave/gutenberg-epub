@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5317b029-a273-48ca-ab8d-1294708d93c4</dc:identifier>
+        <dc:title>Lady Into Hell-Cat</dc:title>
+        <dc:creator opf:file-as="Mullen, Stanley" opf:role="aut">Stanley Mullen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64624</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Ganymede (Satellite) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stanley Mullen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:33:04.400735+00:00"/>
+        <meta name="calibre:title_sort" content="Lady Into Hell-Cat"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

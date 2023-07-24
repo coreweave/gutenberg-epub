@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f31536ec-ae11-4107-ba4e-6b297b1877a1</dc:identifier>
+        <dc:title>Spanish America, Vol. 1 (of 2)</dc:title>
+        <dc:creator opf:file-as="Bonnycastle, Richard Henry, Sir" opf:role="aut">Sir Richard Henry Bonnycastle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49255</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Latin America -- History</dc:subject>
+        <dc:subject>Latin America -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Richard Henry Bonnycastle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:18:19.976170+00:00"/>
+        <meta name="calibre:title_sort" content="Spanish America, Vol. 1 (of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70dbf01d-12b9-4143-aa18-af54bee6037d</dc:identifier>
+        <dc:title>Seattle Car &amp; Foundry Company, Catalogue No. 3, December, 1913</dc:title>
+        <dc:creator opf:file-as="Seattle Car and Foundry Company" opf:role="aut">Seattle Car</dc:creator>
+        <dc:creator opf:file-as="Seattle Car and Foundry Company" opf:role="aut">Foundry Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49341</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seattle Car and Foundry Company</dc:subject>
+        <dc:subject>Railroad cars -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Seattle Car&quot;: &quot;&quot;, &quot;Foundry Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:12:09.334776+00:00"/>
+        <meta name="calibre:title_sort" content="Seattle Car &amp; Foundry Company, Catalogue No. 3, December, 1913"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

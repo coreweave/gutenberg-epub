@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cc00958-5b09-4439-94a6-055725246877</dc:identifier>
+        <dc:title>The Life of St. Teresa of Jesus, of the Order of Our Lady of Carmel</dc:title>
+        <dc:creator opf:file-as="Teresa, of Avila, Saint" opf:role="aut">Saint of Avila Teresa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8120</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teresa</dc:subject>
+        <dc:subject>of Avila</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1515-1582</dc:subject>
+        <dc:subject>Christian saints -- Spain -- Avila -- Biography</dc:subject>
+        <dc:subject>Avila (Spain) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Saint of Avila Teresa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:34:56.219366+00:00"/>
+        <meta name="calibre:title_sort" content="Life of St. Teresa of Jesus, of the Order of Our Lady of Carmel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

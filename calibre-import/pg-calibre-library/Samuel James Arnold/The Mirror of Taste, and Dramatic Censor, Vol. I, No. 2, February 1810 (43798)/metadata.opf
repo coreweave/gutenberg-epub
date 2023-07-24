@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43798</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7ef6328-427f-4e1d-a6b6-3f0bff244758</dc:identifier>
+        <dc:title>The Mirror of Taste, and Dramatic Censor, Vol. I, No. 2, February 1810</dc:title>
+        <dc:creator opf:file-as="Arnold, Samuel James" opf:role="aut">Samuel James Arnold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26628</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theater -- Periodicals</dc:subject>
+        <dc:subject>Drama -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel James Arnold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:59:37.731292+00:00"/>
+        <meta name="calibre:title_sort" content="Mirror of Taste, and Dramatic Censor, Vol. I, No. 2, February 1810, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

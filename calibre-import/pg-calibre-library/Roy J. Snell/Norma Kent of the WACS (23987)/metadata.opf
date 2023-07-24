@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ae3c92b-9dd4-4534-85b4-6f1d03c91b9b</dc:identifier>
+        <dc:title>Norma Kent of the WACS</dc:title>
+        <dc:creator opf:file-as="Snell, Roy J. (Roy Judson)" opf:role="aut">Roy J. Snell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48599</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Spies -- Juvenile fiction</dc:subject>
+        <dc:subject>Young women -- Social life and customs -- Juvenile fiction</dc:subject>
+        <dc:subject>United States. Army -- Military life -- Juvenile fiction</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1939-1945 -- Juvenile fiction</dc:subject>
+        <dc:subject>1939-1945 -- Participation</dc:subject>
+        <dc:subject>Female -- Juvenile fiction</dc:subject>
+        <dc:subject>United States. Army. Women's Army Corps -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy J. Snell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:45:35.895533+00:00"/>
+        <meta name="calibre:title_sort" content="Norma Kent of the WACS"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

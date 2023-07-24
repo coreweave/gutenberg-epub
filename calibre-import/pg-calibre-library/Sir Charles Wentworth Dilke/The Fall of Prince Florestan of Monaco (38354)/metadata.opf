@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">229b819f-7765-4bbb-8e5a-fe08edc056a8</dc:identifier>
+        <dc:title>The Fall of Prince Florestan of Monaco</dc:title>
+        <dc:creator opf:file-as="Dilke, Charles Wentworth, Sir" opf:role="aut">Sir Charles Wentworth Dilke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kings and rulers -- Fiction</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Monaco -- Politics and government -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Charles Wentworth Dilke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:04:52.940909+00:00"/>
+        <meta name="calibre:title_sort" content="Fall of Prince Florestan of Monaco, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

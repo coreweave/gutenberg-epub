@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd0ad94b-46f4-4ad8-86bd-5a5b0a8dca49</dc:identifier>
+        <dc:title>The Monitor and the Merrimac / Both sides of the story</dc:title>
+        <dc:creator opf:file-as="Greene, Samuel Dana" opf:role="aut">Samuel Dana Greene</dc:creator>
+        <dc:creator opf:file-as="Greene, Samuel Dana" opf:role="aut">H. Ashton Ramsay</dc:creator>
+        <dc:creator opf:file-as="Greene, Samuel Dana" opf:role="aut">Eugene Winslow Watson</dc:creator>
+        <dc:creator opf:file-as="Greene, Samuel Dana" opf:role="aut">John Lorimer Worden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24612</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Naval battles</dc:subject>
+        <dc:subject>Merrimack (Frigate)</dc:subject>
+        <dc:subject>Monitor (Ironclad)</dc:subject>
+        <dc:subject>Hampton Roads</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Va.</dc:subject>
+        <dc:subject>1862</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Naval operations</dc:subject>
+        <dc:subject>Virginia (Ironclad)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Dana Greene&quot;: &quot;&quot;, &quot;H. Ashton Ramsay&quot;: &quot;&quot;, &quot;Eugene Winslow Watson&quot;: &quot;&quot;, &quot;John Lorimer Worden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:05:15.644452+00:00"/>
+        <meta name="calibre:title_sort" content="Monitor and the Merrimac / Both sides of the story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

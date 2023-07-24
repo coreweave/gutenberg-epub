@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbf4f6ad-e9eb-4621-b6a2-d1c28c305fb5</dc:identifier>
+        <dc:title>Lively plays for live people</dc:title>
+        <dc:creator opf:file-as="Denison, Thomas S. (Thomas Stewart)" opf:role="aut">Thomas S. Denison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70635</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>American drama -- 19th century</dc:subject>
+        <dc:subject>Farces</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas S. Denison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:17:00.861843+00:00"/>
+        <meta name="calibre:title_sort" content="Lively plays for live people"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

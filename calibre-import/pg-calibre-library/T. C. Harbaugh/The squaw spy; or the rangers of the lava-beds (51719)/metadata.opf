@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5dee08b-f264-408e-aaee-6a89341e8825</dc:identifier>
+        <dc:title>The squaw spy; or the rangers of the lava-beds</dc:title>
+        <dc:creator opf:file-as="Harbaugh, T. C. (Thomas Chalmers)" opf:role="aut">T. C. Harbaugh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68102</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Fiction</dc:subject>
+        <dc:subject>Oregon -- Fiction</dc:subject>
+        <dc:subject>Soldiers -- Fiction</dc:subject>
+        <dc:subject>Indian women -- Fiction</dc:subject>
+        <dc:subject>California -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Modoc War</dc:subject>
+        <dc:subject>1872-1873 -- Fiction</dc:subject>
+        <dc:subject>Lava tubes -- Fiction</dc:subject>
+        <dc:subject>Women spies -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. C. Harbaugh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:56:37.007102+00:00"/>
+        <meta name="calibre:title_sort" content="squaw spy; or the rangers of the lava-beds, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

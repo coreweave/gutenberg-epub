@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff6e74f9-86a9-46d2-9e80-c79519141c80</dc:identifier>
+        <dc:title>Bomba the jungle boy</dc:title>
+        <dc:creator opf:file-as="Rockwood, Roy" opf:role="aut">Roy Rockwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70572</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>South America -- Juvenile fiction</dc:subject>
+        <dc:subject>Naturalists -- Juvenile fiction</dc:subject>
+        <dc:subject>Jungles -- Juvenile fiction</dc:subject>
+        <dc:subject>Jungle survival -- Juvenile fiction</dc:subject>
+        <dc:subject>Amazon River Region -- Juvenile fiction</dc:subject>
+        <dc:subject>Identity (Psychology) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy Rockwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:30:23.355613+00:00"/>
+        <meta name="calibre:title_sort" content="Bomba the jungle boy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

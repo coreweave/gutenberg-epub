@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b1df41d-3201-499f-9764-d8f340f0f0d4</dc:identifier>
+        <dc:title>Barbers' Manual (Part 1); Text Book on Taxidermy (Part 2)</dc:title>
+        <dc:creator opf:file-as="McConnaughay, T. J." opf:role="aut">T. J. McConnaughay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52850</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Taxidermy</dc:subject>
+        <dc:subject>Barbering</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. J. McConnaughay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:07:32.831706+00:00"/>
+        <meta name="calibre:title_sort" content="Barbers' Manual (Part 1); Text Book on Taxidermy (Part 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

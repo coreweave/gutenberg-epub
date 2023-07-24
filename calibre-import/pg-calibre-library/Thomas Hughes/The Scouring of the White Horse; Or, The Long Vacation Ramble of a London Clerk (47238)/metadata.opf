@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a439ff5-0116-4d57-9594-dff040ab90a3</dc:identifier>
+        <dc:title>The Scouring of the White Horse; Or, The Long Vacation Ramble of a London Clerk</dc:title>
+        <dc:creator opf:file-as="Hughes, Thomas" opf:role="aut">Thomas Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>White Horse</dc:subject>
+        <dc:subject>Vale of (England)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Hughes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:18:15.628377+00:00"/>
+        <meta name="calibre:title_sort" content="Scouring of the White Horse; Or, The Long Vacation Ramble of a London Clerk, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

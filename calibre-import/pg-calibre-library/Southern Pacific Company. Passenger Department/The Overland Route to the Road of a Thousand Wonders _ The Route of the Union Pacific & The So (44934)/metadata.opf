@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f28373a6-52a1-4b93-843d-e7a277b77772</dc:identifier>
+        <dc:title>The Overland Route to the Road of a Thousand Wonders / The Route of the Union Pacific &amp; The Southern Pacific Railroads from Omaha to San Francisco, a Journey of Eighteen Hundred Miles Where Once the Bison &amp; the Indian Reigned</dc:title>
+        <dc:creator opf:file-as="Southern Pacific Company. Passenger Department" opf:role="aut">Southern Pacific Company. Passenger Department</dc:creator>
+        <dc:creator opf:file-as="Southern Pacific Company. Passenger Department" opf:role="aut">Union Pacific Railroad Company. Passenger Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51849</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Union Pacific Railroad Company</dc:subject>
+        <dc:subject>Southern Pacific Company</dc:subject>
+        <dc:subject>Railroad travel -- West (U.S.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Southern Pacific Company. Passenger Department&quot;: &quot;&quot;, &quot;Union Pacific Railroad Company. Passenger Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:03:56.172036+00:00"/>
+        <meta name="calibre:title_sort" content="Overland Route to the Road of a Thousand Wonders / The Route of the Union Pacific &amp; The Southern Pacific Railroads from Omaha to San Francisco, a Journey of Eighteen Hundred Miles Where Once the Bison &amp; the Indian Reigned, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

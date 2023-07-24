@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb23cc2f-fa3b-4bf1-8e6d-c3c62c9003c5</dc:identifier>
+        <dc:title>The Norwegian account of Haco's expedition against Scotland, A.D. MCCLXIII.</dc:title>
+        <dc:creator opf:file-as="Sturla Þórðarson" opf:role="aut">Sturla Þórðarson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Norway -- History -- 1030-1397</dc:subject>
+        <dc:subject>Haakon IV Haakonsson</dc:subject>
+        <dc:subject>King of Norway</dc:subject>
+        <dc:subject>1204-1263</dc:subject>
+        <dc:subject>Scandinavians</dc:subject>
+        <dc:subject>Scotland -- History -- To 1603</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sturla Þórðarson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:41:03.454606+00:00"/>
+        <meta name="calibre:title_sort" content="Norwegian account of Haco's expedition against Scotland, A.D. MCCLXIII., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

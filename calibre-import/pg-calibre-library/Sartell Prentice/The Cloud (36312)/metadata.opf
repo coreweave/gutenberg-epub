@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2eeb4ded-31b7-4e69-923f-a072dc23bc8d</dc:identifier>
+        <dc:title>The Cloud</dc:title>
+        <dc:creator opf:file-as="Prentice, Sartell" opf:role="aut">Sartell Prentice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41867</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sartell Prentice&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:20:10.332497+00:00"/>
+        <meta name="calibre:title_sort" content="Cloud, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

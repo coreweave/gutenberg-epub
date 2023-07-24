@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7044</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab220aa8-a79c-47b9-88ca-af4d59c69e48</dc:identifier>
+        <dc:title>Brief Records of the Independent Church at Beccles, Suffolk / Including biographical notices of its ministers,and some account of the rise of nonconformity in the East Anglian counties</dc:title>
+        <dc:creator opf:file-as="Rix, S. Wilton (Samuel Wilton)" opf:role="aut">S. Wilton Rix</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51667</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dissenters</dc:subject>
+        <dc:subject>Religious -- England -- East Anglia</dc:subject>
+        <dc:subject>Beccles (England) -- Independent church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. Wilton Rix&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:36:01.192704+00:00"/>
+        <meta name="calibre:title_sort" content="Brief Records of the Independent Church at Beccles, Suffolk / Including biographical notices of its ministers,and some account of the rise of nonconformity in the East Anglian counties"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

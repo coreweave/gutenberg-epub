@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6873066c-0b16-4d1d-95aa-1d15ac0f4b3e</dc:identifier>
+        <dc:title>Nobody</dc:title>
+        <dc:creator opf:file-as="Warner, Susan" opf:role="aut">Susan Warner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28524</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Courtship -- Juvenile fiction</dc:subject>
+        <dc:subject>Happiness -- Juvenile fiction</dc:subject>
+        <dc:subject>Gardens -- Juvenile fiction</dc:subject>
+        <dc:subject>Social status -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Susan Warner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:44:02.998614+00:00"/>
+        <meta name="calibre:title_sort" content="Nobody"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

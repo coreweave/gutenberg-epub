@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08230a81-830e-4ff0-b904-78cdd0f184aa</dc:identifier>
+        <dc:title>The Theories of Darwin and Their Relation to Philosophy, Religion, and Morality</dc:title>
+        <dc:creator opf:file-as="Schmid, Rudolf" opf:role="aut">Rudolf Schmid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22150</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion and science</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rudolf Schmid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:02:31.657035+00:00"/>
+        <meta name="calibre:title_sort" content="Theories of Darwin and Their Relation to Philosophy, Religion, and Morality, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41048</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65aab13a-9b8f-462d-9000-a5dd9863cd2d</dc:identifier>
+        <dc:title>The Interpretation of Dreams</dc:title>
+        <dc:creator opf:file-as="Freud, Sigmund" opf:role="aut">Sigmund Freud</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66048</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dream interpretation</dc:subject>
+        <dc:subject>Psychoanalysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sigmund Freud&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:27:07.426477+00:00"/>
+        <meta name="calibre:title_sort" content="Interpretation of Dreams, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

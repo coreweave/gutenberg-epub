@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f02e930e-99b8-48e1-b3b6-a65642d852ef</dc:identifier>
+        <dc:title>St. Dionysius of Alexandria: Letters and Treatises</dc:title>
+        <dc:creator opf:file-as="Dionysius, of Alexandria, Saint" opf:role="aut">Saint of Alexandria Dionysius</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36539</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church history -- Primitive and early church</dc:subject>
+        <dc:subject>ca. 30-600 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Saint of Alexandria Dionysius&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:25:49.769609+00:00"/>
+        <meta name="calibre:title_sort" content="St. Dionysius of Alexandria: Letters and Treatises"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

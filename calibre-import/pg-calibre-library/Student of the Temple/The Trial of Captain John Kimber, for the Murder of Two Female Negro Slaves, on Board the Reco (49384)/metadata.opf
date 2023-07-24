@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fa350a9-7fa6-423e-bfa0-7b2d7082c105</dc:identifier>
+        <dc:title>The Trial of Captain John Kimber, for the Murder of Two Female Negro Slaves, on Board the Recovery, African Slave Ship / Tried at the Admiralty Sessions, Held at the Old Baily, the 7th of June, 1792</dc:title>
+        <dc:creator opf:file-as="Student of the Temple" opf:role="aut">Student of the Temple</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60538</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trials (Murder) -- England -- London</dc:subject>
+        <dc:subject>Kimber</dc:subject>
+        <dc:subject>John -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Women slaves -- Africa</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Student of the Temple&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:28:06.543720+00:00"/>
+        <meta name="calibre:title_sort" content="Trial of Captain John Kimber, for the Murder of Two Female Negro Slaves, on Board the Recovery, African Slave Ship / Tried at the Admiralty Sessions, Held at the Old Baily, the 7th of June, 1792, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

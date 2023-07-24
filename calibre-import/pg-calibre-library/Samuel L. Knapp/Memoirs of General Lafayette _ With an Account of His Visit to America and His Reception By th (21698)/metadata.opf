@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">270521fe-627a-465e-a786-c99a836c185e</dc:identifier>
+        <dc:title>Memoirs of General Lafayette / With an Account of His Visit to America and His Reception By the People of the United States; From His Arrival, August 15th, to the Celebration at Yorktown, October 19th, 1824.</dc:title>
+        <dc:creator opf:file-as="Knapp, Samuel L. (Samuel Lorenzo)" opf:role="aut">Samuel L. Knapp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7449</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>Lafayette</dc:subject>
+        <dc:subject>Marie Joseph Paul Yves Roch Gilbert Du Motier</dc:subject>
+        <dc:subject>marquis de</dc:subject>
+        <dc:subject>1757-1834</dc:subject>
+        <dc:subject>France -- History -- 1789-1900</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel L. Knapp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:09:57.697454+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of General Lafayette / With an Account of His Visit to America and His Reception By the People of the United States; From His Arrival, August 15th, to the Celebration at Yorktown, October 19th, 1824."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

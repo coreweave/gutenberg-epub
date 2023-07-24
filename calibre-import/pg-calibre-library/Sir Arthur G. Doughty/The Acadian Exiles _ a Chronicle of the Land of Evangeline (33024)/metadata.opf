@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33024</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24b3261c-1dcb-4e14-97e3-9740074304ce</dc:identifier>
+        <dc:title>The Acadian Exiles : a Chronicle of the Land of Evangeline</dc:title>
+        <dc:creator opf:file-as="Doughty, Arthur G. (Arthur George), Sir" opf:role="aut">Sir Arthur G. Doughty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6502</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nova Scotia -- History</dc:subject>
+        <dc:subject>Acadia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Arthur G. Doughty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:37:26.821439+00:00"/>
+        <meta name="calibre:title_sort" content="Acadian Exiles : a Chronicle of the Land of Evangeline, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

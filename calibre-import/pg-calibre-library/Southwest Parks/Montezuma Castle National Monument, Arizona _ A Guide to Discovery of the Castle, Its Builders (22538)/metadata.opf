@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ebe12c6-7c24-4f24-baad-70d14da0ccc4</dc:identifier>
+        <dc:title>Montezuma Castle National Monument, Arizona / A Guide to Discovery of the Castle, Its Builders, and Neighbors.</dc:title>
+        <dc:creator opf:file-as="Southwest Parks and Monuments Association" opf:role="aut">Southwest Parks</dc:creator>
+        <dc:creator opf:file-as="Southwest Parks and Monuments Association" opf:role="aut">Monuments Association</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60573</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cliff-dwellings -- Arizona</dc:subject>
+        <dc:subject>Montezuma Castle National Monument (Ariz.)</dc:subject>
+        <dc:subject>Indians of North America -- Arizona -- Antiquities</dc:subject>
+        <dc:subject>Montezuma Castle (Ariz.)</dc:subject>
+        <dc:subject>Sinagua culture -- Arizona</dc:subject>
+        <dc:subject>Indians of North America -- Arizona -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Southwest Parks&quot;: &quot;&quot;, &quot;Monuments Association&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:43:52.955330+00:00"/>
+        <meta name="calibre:title_sort" content="Montezuma Castle National Monument, Arizona / A Guide to Discovery of the Castle, Its Builders, and Neighbors."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

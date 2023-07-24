@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70e83cb5-e9b9-46d8-97d5-fb26a04ab755</dc:identifier>
+        <dc:title>An Address to the People of New-England / Representing the very great importance of attaching the Indians to their interest, not only by treating them justly and kindly, but by using proper endeavours to settle Christianity among them</dc:title>
+        <dc:creator opf:file-as="Hopkins, Samuel" opf:role="aut">Samuel Hopkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66230</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Missions</dc:subject>
+        <dc:subject>Indians of North America -- Government relations</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1754-1763</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Hopkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:36:44.042946+00:00"/>
+        <meta name="calibre:title_sort" content="Address to the People of New-England / Representing the very great importance of attaching the Indians to their interest, not only by treating them justly and kindly, but by using proper endeavours to settle Christianity among them, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

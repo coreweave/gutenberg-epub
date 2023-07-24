@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52838</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e59a8cc-aad6-4c5f-a0fc-77dc11f75567</dc:identifier>
+        <dc:title>Treatise on Poisons / In relation to medical jurisprudence, physiology, and the practice of physic</dc:title>
+        <dc:creator opf:file-as="Christison, Robert, Sir" opf:role="aut">Sir Robert Christison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65341</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medical jurisprudence</dc:subject>
+        <dc:subject>Toxicology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Robert Christison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:07:50.416290+00:00"/>
+        <meta name="calibre:title_sort" content="Treatise on Poisons / In relation to medical jurisprudence, physiology, and the practice of physic"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

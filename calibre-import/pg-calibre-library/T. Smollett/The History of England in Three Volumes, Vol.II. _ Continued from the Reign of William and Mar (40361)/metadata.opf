@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c57c6a8b-279a-48a1-bd59-bea6edd23e7b</dc:identifier>
+        <dc:title>The History of England in Three Volumes, Vol.II. / Continued from the Reign of William and Mary to the Death of George II.</dc:title>
+        <dc:creator opf:file-as="Smollett, T. (Tobias)" opf:role="aut">T. Smollett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- William and Mary</dc:subject>
+        <dc:subject>1689-1702</dc:subject>
+        <dc:subject>Great Britain -- History -- Anne</dc:subject>
+        <dc:subject>1702-1714</dc:subject>
+        <dc:subject>Great Britain -- History -- George I</dc:subject>
+        <dc:subject>1714-1727</dc:subject>
+        <dc:subject>Great Britain -- History -- George II</dc:subject>
+        <dc:subject>1727-1760</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. Smollett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:49:54.065694+00:00"/>
+        <meta name="calibre:title_sort" content="History of England in Three Volumes, Vol.II. / Continued from the Reign of William and Mary to the Death of George II., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

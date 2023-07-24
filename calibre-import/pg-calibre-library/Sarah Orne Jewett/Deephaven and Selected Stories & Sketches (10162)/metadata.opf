@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8af16cc3-8ae2-4910-ae26-48ee919cea62</dc:identifier>
+        <dc:title>Deephaven and Selected Stories &amp; Sketches</dc:title>
+        <dc:creator opf:file-as="Jewett, Sarah Orne" opf:role="aut">Sarah Orne Jewett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15985</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Maine -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Orne Jewett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:52:21.158153+00:00"/>
+        <meta name="calibre:title_sort" content="Deephaven and Selected Stories &amp; Sketches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

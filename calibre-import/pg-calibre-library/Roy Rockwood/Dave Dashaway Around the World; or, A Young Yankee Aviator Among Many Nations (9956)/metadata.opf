@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9956</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82ca97c9-4af4-44f3-8239-7854e1ea44ee</dc:identifier>
+        <dc:title>Dave Dashaway Around the World; or, A Young Yankee Aviator Among Many Nations</dc:title>
+        <dc:creator opf:file-as="Rockwood, Roy" opf:role="aut">Roy Rockwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50323</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aeronautics -- Juvenile fiction</dc:subject>
+        <dc:subject>Flights around the world -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy Rockwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:46:57.647508+00:00"/>
+        <meta name="calibre:title_sort" content="Dave Dashaway Around the World; or, A Young Yankee Aviator Among Many Nations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

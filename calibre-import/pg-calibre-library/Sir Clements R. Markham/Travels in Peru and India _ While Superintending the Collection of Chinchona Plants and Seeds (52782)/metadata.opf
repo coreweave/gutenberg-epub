@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66aefa97-3623-45e2-bdf7-fa898b8b610f</dc:identifier>
+        <dc:title>Travels in Peru and India / While Superintending the Collection of Chinchona Plants and Seeds in South America, and Their Introduction into India.</dc:title>
+        <dc:creator opf:file-as="Markham, Clements R. (Clements Robert), Sir" opf:role="aut">Sir Clements R. Markham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55593</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Description and travel</dc:subject>
+        <dc:subject>Peru -- Description and travel</dc:subject>
+        <dc:subject>Cinchona</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Clements R. Markham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:04:21.527748+00:00"/>
+        <meta name="calibre:title_sort" content="Travels in Peru and India / While Superintending the Collection of Chinchona Plants and Seeds in South America, and Their Introduction into India."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

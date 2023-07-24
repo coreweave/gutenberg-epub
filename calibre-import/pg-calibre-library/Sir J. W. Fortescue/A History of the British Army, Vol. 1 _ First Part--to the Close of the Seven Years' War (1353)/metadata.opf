@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b90149cb-c1d4-4b41-a4f9-731056bba345</dc:identifier>
+        <dc:title>A History of the British Army, Vol. 1 / First Part—to the Close of the Seven Years' War</dc:title>
+        <dc:creator opf:file-as="Fortescue, J. W. (John William), Sir" opf:role="aut">Sir J. W. Fortescue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55968</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army -- History</dc:subject>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir J. W. Fortescue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:46:39.183330+00:00"/>
+        <meta name="calibre:title_sort" content="History of the British Army, Vol. 1 / First Part—to the Close of the Seven Years' War, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

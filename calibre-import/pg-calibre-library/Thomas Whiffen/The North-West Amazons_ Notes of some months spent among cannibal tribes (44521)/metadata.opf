@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a34c7567-99c6-4153-b41f-d78a1eedcc18</dc:identifier>
+        <dc:title>The North-West Amazons: Notes of some months spent among cannibal tribes</dc:title>
+        <dc:creator opf:file-as="Whiffen, Thomas" opf:role="aut">Thomas Whiffen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55540</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of South America -- Amazon River Valley</dc:subject>
+        <dc:subject>Bora Indians</dc:subject>
+        <dc:subject>Witoto Indians</dc:subject>
+        <dc:subject>Putumayo River Valley</dc:subject>
+        <dc:subject>Japurá River Valley (Colombia and Brazil)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Whiffen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:40:32.501878+00:00"/>
+        <meta name="calibre:title_sort" content="North-West Amazons: Notes of some months spent among cannibal tribes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

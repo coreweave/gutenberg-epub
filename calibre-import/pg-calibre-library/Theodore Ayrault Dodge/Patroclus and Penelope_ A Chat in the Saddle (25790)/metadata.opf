@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25790</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e00d813f-c1bd-48fa-926a-f837bd15ac3d</dc:identifier>
+        <dc:title>Patroclus and Penelope: A Chat in the Saddle</dc:title>
+        <dc:creator opf:file-as="Dodge, Theodore Ayrault" opf:role="aut">Theodore Ayrault Dodge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39244</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horsemanship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore Ayrault Dodge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:01:49.624573+00:00"/>
+        <meta name="calibre:title_sort" content="Patroclus and Penelope: A Chat in the Saddle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

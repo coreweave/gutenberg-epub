@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9048c63c-c0cf-4606-adcb-5f460f7bdcfb</dc:identifier>
+        <dc:title>Supply and Demand</dc:title>
+        <dc:creator opf:file-as="Henderson, Hubert Douglas, Sir" opf:role="aut">Sir Hubert Douglas Henderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10612</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Supply and demand</dc:subject>
+        <dc:subject>Consumption (Economics)</dc:subject>
+        <dc:subject>Prices</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Hubert Douglas Henderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:01:36.809131+00:00"/>
+        <meta name="calibre:title_sort" content="Supply and Demand"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1a394b6-ee0b-4185-9268-aba974d0ae48</dc:identifier>
+        <dc:title>Hertzian Wave Wireless Telegraphy</dc:title>
+        <dc:creator opf:file-as="Fleming, J. A. (John Ambrose), Sir" opf:role="aut">Sir J. A. Fleming</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38526</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Telegraph</dc:subject>
+        <dc:subject>Wireless</dc:subject>
+        <dc:subject>Electric waves</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir J. A. Fleming&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:32:52.792648+00:00"/>
+        <meta name="calibre:title_sort" content="Hertzian Wave Wireless Telegraphy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

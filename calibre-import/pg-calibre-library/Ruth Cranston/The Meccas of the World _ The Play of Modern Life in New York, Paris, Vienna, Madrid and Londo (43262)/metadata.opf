@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">955de2b0-d3a7-4e3d-ab84-5cb83e3cd25f</dc:identifier>
+        <dc:title>The Meccas of the World / The Play of Modern Life in New York, Paris, Vienna, Madrid and London</dc:title>
+        <dc:creator opf:file-as="Cranston, Ruth" opf:role="aut">Ruth Cranston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paris (France) -- Social life and customs</dc:subject>
+        <dc:subject>London (England) -- Social life and customs</dc:subject>
+        <dc:subject>Madrid (Spain) -- Social life and customs</dc:subject>
+        <dc:subject>New York (N.Y.) -- Social life and customs</dc:subject>
+        <dc:subject>Vienna (Austria) -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruth Cranston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:29:35.217896+00:00"/>
+        <meta name="calibre:title_sort" content="Meccas of the World / The Play of Modern Life in New York, Paris, Vienna, Madrid and London, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

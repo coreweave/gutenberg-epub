@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b32834a-1ebb-44fd-bb7b-b7c0e22047ee</dc:identifier>
+        <dc:title>The Younger Edda; Also called Snorre's Edda, or The Prose Edda</dc:title>
+        <dc:creator opf:file-as="Snorri Sturluson" opf:role="aut">Snorri Sturluson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18947</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Norse</dc:subject>
+        <dc:subject>Scalds and scaldic poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Snorri Sturluson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:16:34.577470+00:00"/>
+        <meta name="calibre:title_sort" content="Younger Edda; Also called Snorre's Edda, or The Prose Edda, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

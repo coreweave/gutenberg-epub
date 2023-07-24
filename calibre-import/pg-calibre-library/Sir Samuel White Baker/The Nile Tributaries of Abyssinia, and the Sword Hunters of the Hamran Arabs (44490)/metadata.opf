@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb6f5bf7-53cb-4bad-b449-4b70b0cee3fb</dc:identifier>
+        <dc:title>The Nile Tributaries of Abyssinia, and the Sword Hunters of the Hamran Arabs</dc:title>
+        <dc:creator opf:file-as="Baker, Samuel White, Sir" opf:role="aut">Sir Samuel White Baker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2125</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nile River</dc:subject>
+        <dc:subject>Ethiopia -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Samuel White Baker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:38:46.551369+00:00"/>
+        <meta name="calibre:title_sort" content="Nile Tributaries of Abyssinia, and the Sword Hunters of the Hamran Arabs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

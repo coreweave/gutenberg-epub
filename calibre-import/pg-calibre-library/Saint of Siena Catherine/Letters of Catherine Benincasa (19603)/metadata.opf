@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3e796f5-55a5-4a7f-bc29-18fad103238d</dc:identifier>
+        <dc:title>Letters of Catherine Benincasa</dc:title>
+        <dc:creator opf:file-as="Catherine, of Siena, Saint" opf:role="aut">Saint of Siena Catherine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Catherine</dc:subject>
+        <dc:subject>of Siena</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1347-1380 -- Correspondence</dc:subject>
+        <dc:subject>Christian women saints -- Italy -- Siena -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Saint of Siena Catherine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:49:49.792518+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Catherine Benincasa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

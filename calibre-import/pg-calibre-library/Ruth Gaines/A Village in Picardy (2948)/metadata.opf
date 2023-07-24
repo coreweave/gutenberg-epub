@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15276d54-699a-4082-98f9-64f08a29933f</dc:identifier>
+        <dc:title>A Village in Picardy</dc:title>
+        <dc:creator opf:file-as="Gaines, Ruth" opf:role="aut">Ruth Gaines</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63637</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Personal narratives</dc:subject>
+        <dc:subject>1914-1918 -- Hospitals</dc:subject>
+        <dc:subject>Smith College Relief Unit</dc:subject>
+        <dc:subject>1914-1918 -- Civilian relief -- France</dc:subject>
+        <dc:subject>Reconstruction (1914-1939) -- France</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruth Gaines&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:13:36.805781+00:00"/>
+        <meta name="calibre:title_sort" content="Village in Picardy, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

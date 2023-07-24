@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6d10aff-dc20-40ca-b1d9-38a2417daf1d</dc:identifier>
+        <dc:title>Henry VIII and His Court / 6th edition</dc:title>
+        <dc:creator opf:file-as="Tree, Herbert Beerbohm, Sir" opf:role="aut">Sir Herbert Beerbohm Tree</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Henry VIII</dc:subject>
+        <dc:subject>1509-1547</dc:subject>
+        <dc:subject>Great Britain -- Kings and rulers -- Biography</dc:subject>
+        <dc:subject>Great Britain -- Court and courtiers -- History -- 16th century</dc:subject>
+        <dc:subject>Henry VIII</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1491-1547 -- Relations with courts and courtiers</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616. King Henry VIII</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Herbert Beerbohm Tree&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:29:18.106364+00:00"/>
+        <meta name="calibre:title_sort" content="Henry VIII and His Court / 6th edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

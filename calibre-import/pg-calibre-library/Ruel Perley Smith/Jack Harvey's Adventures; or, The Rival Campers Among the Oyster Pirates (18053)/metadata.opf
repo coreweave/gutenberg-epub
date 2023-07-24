@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f039bc2c-75d2-4a0c-8ce0-802223e260b2</dc:identifier>
+        <dc:title>Jack Harvey's Adventures; or, The Rival Campers Among the Oyster Pirates</dc:title>
+        <dc:creator opf:file-as="Smith, Ruel Perley" opf:role="aut">Ruel Perley Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40396</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pirates -- Juvenile fiction</dc:subject>
+        <dc:subject>Chesapeake Bay Region (Md. and Va.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Oyster fisheries -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruel Perley Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:54:39.502756+00:00"/>
+        <meta name="calibre:title_sort" content="Jack Harvey's Adventures; or, The Rival Campers Among the Oyster Pirates"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac32a167-6b45-47d7-9d6b-8d7f9f48e302</dc:identifier>
+        <dc:title>The Philosophy of Beards / A Lecture Physiological, Artistic &amp; Historical</dc:title>
+        <dc:creator opf:file-as="Gowing, Thomas S." opf:role="aut">Thomas S. Gowing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60009</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beards</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas S. Gowing&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:26:31.193300+00:00"/>
+        <meta name="calibre:title_sort" content="Philosophy of Beards / A Lecture Physiological, Artistic &amp; Historical, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

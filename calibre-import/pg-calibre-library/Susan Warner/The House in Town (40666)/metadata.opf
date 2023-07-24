@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e70bb60e-f3b7-4264-bd87-cd75c56a8733</dc:identifier>
+        <dc:title>The House in Town</dc:title>
+        <dc:creator opf:file-as="Warner, Susan" opf:role="aut">Susan Warner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30148</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Family -- Juvenile fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Cousins -- Juvenile fiction</dc:subject>
+        <dc:subject>Aunts -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Susan Warner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:06:33.475768+00:00"/>
+        <meta name="calibre:title_sort" content="House in Town, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98c3431d-14ad-455f-9438-986762722f58</dc:identifier>
+        <dc:title>Encyclopedia of Needlework</dc:title>
+        <dc:creator opf:file-as="Dillmont, Thérèse de" opf:role="aut">Thérèse de Dillmont</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20776</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Needlework</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thérèse de Dillmont&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:32:54.255733+00:00"/>
+        <meta name="calibre:title_sort" content="Encyclopedia of Needlework"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e331758c-35ed-474a-9321-6aeb6ed912e4</dc:identifier>
+        <dc:title>Your 1952 Champion Owner's Guide</dc:title>
+        <dc:creator opf:file-as="Studebaker Corporation" opf:role="aut">Studebaker Corporation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Studebaker automobile -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Studebaker Corporation&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:10:39.754471+00:00"/>
+        <meta name="calibre:title_sort" content="Your 1952 Champion Owner's Guide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

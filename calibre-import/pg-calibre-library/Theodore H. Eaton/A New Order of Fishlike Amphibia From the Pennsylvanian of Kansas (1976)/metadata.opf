@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e546c86-218e-481e-b8c5-426f5e29d56e</dc:identifier>
+        <dc:title>A New Order of Fishlike Amphibia From the Pennsylvanian of Kansas</dc:title>
+        <dc:creator opf:file-as="Eaton, Theodore H. (Theodore Hildreth)" opf:role="aut">Theodore H. Eaton</dc:creator>
+        <dc:creator opf:file-as="Eaton, Theodore H. (Theodore Hildreth)" opf:role="aut">Peggy Lou Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amphibians</dc:subject>
+        <dc:subject>Fossil</dc:subject>
+        <dc:subject>Paleontology -- Pennsylvanian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore H. Eaton&quot;: &quot;&quot;, &quot;Peggy Lou Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:45.196260+00:00"/>
+        <meta name="calibre:title_sort" content="New Order of Fishlike Amphibia From the Pennsylvanian of Kansas, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

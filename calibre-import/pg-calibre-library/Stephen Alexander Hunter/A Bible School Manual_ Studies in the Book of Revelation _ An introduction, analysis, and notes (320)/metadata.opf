@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90541cbd-8cd6-424c-bf8e-60fdb74f9c46</dc:identifier>
+        <dc:title>A Bible School Manual: Studies in the Book of Revelation / An introduction, analysis, and notes, containing a concise interpretation according to the symbolic view, numerous references to authorities, and general mention of other interpretations, with the text of the American revised version edited in paragraphs, for the use of Bible students</dc:title>
+        <dc:creator opf:file-as="Hunter, Stephen Alexander" opf:role="aut">Stephen Alexander Hunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53775</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Revelation -- Commentaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Alexander Hunter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:30:47.620219+00:00"/>
+        <meta name="calibre:title_sort" content="Bible School Manual: Studies in the Book of Revelation / An introduction, analysis, and notes, containing a concise interpretation according to the symbolic view, numerous references to authorities, and general mention of other interpretations, with the text of the American revised version edited in paragraphs, for the use of Bible students, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">548358d1-c620-47d9-a45a-b202f78c4de0</dc:identifier>
+        <dc:title>Brotherly Love / Shewing That as Merely Human It May Not Always Be Depended Upon</dc:title>
+        <dc:creator opf:file-as="Kelly, Sophia" opf:role="aut">Sophia Kelly</dc:creator>
+        <dc:creator opf:file-as="Kelly, Sophia" opf:role="aut">Mary Martha Sherwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11213</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile literature</dc:subject>
+        <dc:subject>Brothers -- Juvenile literature</dc:subject>
+        <dc:subject>Boys -- Conduct of life -- Juvenile literature</dc:subject>
+        <dc:subject>Pride and vanity -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sophia Kelly&quot;: &quot;&quot;, &quot;Mary Martha Sherwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:38:00.949141+00:00"/>
+        <meta name="calibre:title_sort" content="Brotherly Love / Shewing That as Merely Human It May Not Always Be Depended Upon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

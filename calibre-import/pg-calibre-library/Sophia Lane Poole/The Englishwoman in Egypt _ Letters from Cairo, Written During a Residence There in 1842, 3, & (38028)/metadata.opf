@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a450a4f2-7030-47d6-a666-7338d912c3c4</dc:identifier>
+        <dc:title>The Englishwoman in Egypt / Letters from Cairo, Written During a Residence There in 1842, 3, &amp; 4</dc:title>
+        <dc:creator opf:file-as="Poole, Sophia Lane" opf:role="aut">Sophia Lane Poole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59526</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egypt -- Description and travel</dc:subject>
+        <dc:subject>Poole</dc:subject>
+        <dc:subject>Sophia Lane</dc:subject>
+        <dc:subject>1804-1891 -- Travel -- Egypt</dc:subject>
+        <dc:subject>Egypt -- Social life and customs -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sophia Lane Poole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:48:02.366738+00:00"/>
+        <meta name="calibre:title_sort" content="Englishwoman in Egypt / Letters from Cairo, Written During a Residence There in 1842, 3, &amp; 4, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c151c78d-ce50-4064-9e03-e49e0f0ab058</dc:identifier>
+        <dc:title>The Making of the Great West, 1512-1883</dc:title>
+        <dc:creator opf:file-as="Drake, Samuel Adams" opf:role="aut">Samuel Adams Drake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57528</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- History</dc:subject>
+        <dc:subject>America -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Adams Drake&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:11:40.039344+00:00"/>
+        <meta name="calibre:title_sort" content="Making of the Great West, 1512-1883, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

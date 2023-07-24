@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5ecee6d-d315-4b40-bfaf-6be87175e988</dc:identifier>
+        <dc:title>The Poetry Of Robert Browning</dc:title>
+        <dc:creator opf:file-as="Brooke, Stopford A. (Stopford Augustus)" opf:role="aut">Stopford A. Brooke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14316</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Browning</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1812-1889 -- Criticism and interpretation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stopford A. Brooke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:44:11.108251+00:00"/>
+        <meta name="calibre:title_sort" content="Poetry Of Robert Browning, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

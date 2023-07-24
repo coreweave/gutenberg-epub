@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">070fa2f3-2245-40ff-8307-7ac7e982c5d6</dc:identifier>
+        <dc:title>Songs of the Common Day, and, Ave!: An Ode for the Shelley Centenary</dc:title>
+        <dc:creator opf:file-as="Roberts, Charles G. D., Sir" opf:role="aut">Sir Charles G. D. Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57102</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian poetry -- 19th century</dc:subject>
+        <dc:subject>Shelley</dc:subject>
+        <dc:subject>Percy Bysshe</dc:subject>
+        <dc:subject>1792-1822 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Charles G. D. Roberts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:11:17.997349+00:00"/>
+        <meta name="calibre:title_sort" content="Songs of the Common Day, and, Ave!: An Ode for the Shelley Centenary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

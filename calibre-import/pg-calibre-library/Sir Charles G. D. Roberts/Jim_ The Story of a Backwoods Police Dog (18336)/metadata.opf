@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18336</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b9646b4-e162-4089-8bdf-35acb108d2cb</dc:identifier>
+        <dc:title>Jim: The Story of a Backwoods Police Dog</dc:title>
+        <dc:creator opf:file-as="Roberts, Charles G. D., Sir" opf:role="aut">Sir Charles G. D. Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Charles G. D. Roberts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:04:32.398678+00:00"/>
+        <meta name="calibre:title_sort" content="Jim: The Story of a Backwoods Police Dog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

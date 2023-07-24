@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">795a4ba1-303d-439a-87b1-4a5fa8c53ccd</dc:identifier>
+        <dc:title>Peter Parley's Tales About America and Australia</dc:title>
+        <dc:creator opf:file-as="Goodrich, Samuel G. (Samuel Griswold)" opf:role="aut">Samuel G. Goodrich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16891</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>America -- History -- Juvenile literature</dc:subject>
+        <dc:subject>Australia -- History -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel G. Goodrich&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:17:11.007911+00:00"/>
+        <meta name="calibre:title_sort" content="Peter Parley's Tales About America and Australia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

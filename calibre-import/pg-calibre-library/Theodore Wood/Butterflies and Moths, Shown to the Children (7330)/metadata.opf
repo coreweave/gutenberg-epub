@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f27422d8-2313-4d71-bfde-7c57d2fb2a08</dc:identifier>
+        <dc:title>Butterflies and Moths, Shown to the Children</dc:title>
+        <dc:creator opf:file-as="Wood, Theodore" opf:role="aut">Theodore Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66668</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Butterflies -- Juvenile literature</dc:subject>
+        <dc:subject>Moths -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:42:31.749972+00:00"/>
+        <meta name="calibre:title_sort" content="Butterflies and Moths, Shown to the Children"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

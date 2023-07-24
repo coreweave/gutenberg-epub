@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d86784fe-bc2d-4610-b000-bfc806104f2d</dc:identifier>
+        <dc:title>The Sex Worship and Symbolism of Primitive Races: An Interpretation</dc:title>
+        <dc:creator opf:file-as="Brown, Sanger" opf:role="aut">Sanger Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30750</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sex -- Religious aspects</dc:subject>
+        <dc:subject>Symbolism</dc:subject>
+        <dc:subject>Phallicism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sanger Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:34:10.338919+00:00"/>
+        <meta name="calibre:title_sort" content="Sex Worship and Symbolism of Primitive Races: An Interpretation, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a080b78-1dac-4dfd-91ce-19e03318f796</dc:identifier>
+        <dc:title>The Relief of Chitral</dc:title>
+        <dc:creator opf:file-as="Younghusband, Francis Edward, Sir" opf:role="aut">Sir Francis Edward Younghusband</dc:creator>
+        <dc:creator opf:file-as="Younghusband, Francis Edward, Sir" opf:role="aut">G. J. Younghusband</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47611</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- Chitral Campaign</dc:subject>
+        <dc:subject>1895</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Francis Edward Younghusband&quot;: &quot;&quot;, &quot;G. J. Younghusband&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:35:27.444964+00:00"/>
+        <meta name="calibre:title_sort" content="Relief of Chitral, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

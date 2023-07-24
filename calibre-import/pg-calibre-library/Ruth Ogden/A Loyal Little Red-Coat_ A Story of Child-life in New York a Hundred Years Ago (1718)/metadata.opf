@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84ee715a-be19-48b6-9ec3-c152daa2be98</dc:identifier>
+        <dc:title>A Loyal Little Red-Coat: A Story of Child-life in New York a Hundred Years Ago</dc:title>
+        <dc:creator opf:file-as="Ogden, Ruth" opf:role="aut">Ruth Ogden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54132</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailing -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Ship captains -- Juvenile fiction</dc:subject>
+        <dc:subject>Aunts -- Juvenile fiction</dc:subject>
+        <dc:subject>Circus -- Juvenile fiction</dc:subject>
+        <dc:subject>Letters -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruth Ogden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:52:30.997160+00:00"/>
+        <meta name="calibre:title_sort" content="Loyal Little Red-Coat: A Story of Child-life in New York a Hundred Years Ago, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

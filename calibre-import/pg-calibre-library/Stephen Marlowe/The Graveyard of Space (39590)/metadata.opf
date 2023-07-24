@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b037e398-d7e2-4356-8d6c-4ccd2228f1c9</dc:identifier>
+        <dc:title>The Graveyard of Space</dc:title>
+        <dc:creator opf:file-as="Marlowe, Stephen" opf:role="aut">Stephen Marlowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32133</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Married people -- Fiction</dc:subject>
+        <dc:subject>Space flight -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Marlowe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:09:01.165072+00:00"/>
+        <meta name="calibre:title_sort" content="Graveyard of Space, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

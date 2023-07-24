@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdd5a3d5-f3c7-4b62-86f4-d3d6680acf69</dc:identifier>
+        <dc:title>Life of Charles T. Walker, D.D. / ("The Black Spurgeon") Pastor Mt. Olivet Baptist Church, New York City</dc:title>
+        <dc:creator opf:file-as="Floyd, Silas Xavier" opf:role="aut">Silas Xavier Floyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65081</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Biography</dc:subject>
+        <dc:subject>Slaves -- Georgia -- Biography</dc:subject>
+        <dc:subject>African Americans -- Religion</dc:subject>
+        <dc:subject>Slavery -- Georgia -- History -- 19th century</dc:subject>
+        <dc:subject>Walker</dc:subject>
+        <dc:subject>Charles T. (Charles Thomas)</dc:subject>
+        <dc:subject>1858-1921</dc:subject>
+        <dc:subject>Mount Olivet Baptist Church (New York</dc:subject>
+        <dc:subject>N.Y.)</dc:subject>
+        <dc:subject>Young Men's Christian Association of the City of New York. Colored Men’s Branch</dc:subject>
+        <dc:subject>African American Baptists -- Biography</dc:subject>
+        <dc:subject>African American clergy -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Silas Xavier Floyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:59:17.357400+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Charles T. Walker, D.D. / (&quot;The Black Spurgeon&quot;) Pastor Mt. Olivet Baptist Church, New York City"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

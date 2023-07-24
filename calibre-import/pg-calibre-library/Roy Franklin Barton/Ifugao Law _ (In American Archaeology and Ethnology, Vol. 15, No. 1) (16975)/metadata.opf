@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">566c9a3e-83a6-493a-900d-55c28aec9e07</dc:identifier>
+        <dc:title>Ifugao Law / (In American Archaeology and Ethnology, Vol. 15, No. 1)</dc:title>
+        <dc:creator opf:file-as="Barton, Roy Franklin" opf:role="aut">Roy Franklin Barton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40807</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethnology -- Philippines</dc:subject>
+        <dc:subject>Ifugao (Philippine people)</dc:subject>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>Primitive -- Philippines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy Franklin Barton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:17:48.325695+00:00"/>
+        <meta name="calibre:title_sort" content="Ifugao Law / (In American Archaeology and Ethnology, Vol. 15, No. 1)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

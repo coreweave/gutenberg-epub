@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ed6ea2e-571d-4cea-801b-fd3b3ffcb9ea</dc:identifier>
+        <dc:title>Three Voyages for the Discovery of a Northwest Passage from the Atlantic to the Pacific, and Narrative of an Attempt to Reach the North Pole, Volume 1</dc:title>
+        <dc:creator opf:file-as="Parry, William Edward, Sir" opf:role="aut">Sir William Edward Parry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13512</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest Passage</dc:subject>
+        <dc:subject>Arctic regions</dc:subject>
+        <dc:subject>Parry</dc:subject>
+        <dc:subject>William Edward</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1790-1855</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir William Edward Parry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:25:19.215986+00:00"/>
+        <meta name="calibre:title_sort" content="Three Voyages for the Discovery of a Northwest Passage from the Atlantic to the Pacific, and Narrative of an Attempt to Reach the North Pole, Volume 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

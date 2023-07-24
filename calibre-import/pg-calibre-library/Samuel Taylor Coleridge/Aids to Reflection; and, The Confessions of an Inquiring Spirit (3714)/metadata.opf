@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3714</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83ed1f0d-94d3-4613-94ff-e290f278babd</dc:identifier>
+        <dc:title>Aids to Reflection; and, The Confessions of an Inquiring Spirit</dc:title>
+        <dc:creator opf:file-as="Coleridge, Samuel Taylor" opf:role="aut">Samuel Taylor Coleridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44795</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life</dc:subject>
+        <dc:subject>Bible -- Inspiration</dc:subject>
+        <dc:subject>Aphorisms and apothegms</dc:subject>
+        <dc:subject>Faith</dc:subject>
+        <dc:subject>Bible -- History</dc:subject>
+        <dc:subject>Coleridge</dc:subject>
+        <dc:subject>Samuel Taylor</dc:subject>
+        <dc:subject>1772-1834 -- Religion</dc:subject>
+        <dc:subject>Religion -- Quotations</dc:subject>
+        <dc:subject>maxims</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Taylor Coleridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:27:30.345226+00:00"/>
+        <meta name="calibre:title_sort" content="Aids to Reflection; and, The Confessions of an Inquiring Spirit"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

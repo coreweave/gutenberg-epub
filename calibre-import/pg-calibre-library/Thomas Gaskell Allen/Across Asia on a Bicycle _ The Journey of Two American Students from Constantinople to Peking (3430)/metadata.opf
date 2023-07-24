@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9309564d-e083-4b5e-bec7-a82ef4864986</dc:identifier>
+        <dc:title>Across Asia on a Bicycle / The Journey of Two American Students from Constantinople to Peking</dc:title>
+        <dc:creator opf:file-as="Allen, Thomas Gaskell" opf:role="aut">Thomas Gaskell Allen</dc:creator>
+        <dc:creator opf:file-as="Allen, Thomas Gaskell" opf:role="aut">William Lewis Sachtleben</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31111</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Asia -- Description and travel</dc:subject>
+        <dc:subject>Allen</dc:subject>
+        <dc:subject>Thomas Gaskell -- Travel -- Asia</dc:subject>
+        <dc:subject>Sachtleben</dc:subject>
+        <dc:subject>William Lewis -- Travel -- Asia</dc:subject>
+        <dc:subject>Bicycle touring -- Asia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Gaskell Allen&quot;: &quot;&quot;, &quot;William Lewis Sachtleben&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:22:20.237164+00:00"/>
+        <meta name="calibre:title_sort" content="Across Asia on a Bicycle / The Journey of Two American Students from Constantinople to Peking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

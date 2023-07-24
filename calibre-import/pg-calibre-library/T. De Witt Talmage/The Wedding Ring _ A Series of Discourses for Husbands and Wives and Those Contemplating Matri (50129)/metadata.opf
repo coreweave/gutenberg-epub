@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd46a877-066c-4bf0-8e0f-f7f241ad3290</dc:identifier>
+        <dc:title>The Wedding Ring / A Series of Discourses for Husbands and Wives and Those Contemplating Matrimony</dc:title>
+        <dc:creator opf:file-as="Talmage, T. De Witt (Thomas De Witt)" opf:role="aut">T. De Witt Talmage</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22343</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marriage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. De Witt Talmage&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:14:22.299418+00:00"/>
+        <meta name="calibre:title_sort" content="Wedding Ring / A Series of Discourses for Husbands and Wives and Those Contemplating Matrimony, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

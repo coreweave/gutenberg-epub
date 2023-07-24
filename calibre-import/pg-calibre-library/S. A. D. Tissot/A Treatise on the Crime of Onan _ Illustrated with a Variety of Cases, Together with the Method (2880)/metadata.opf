@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2880</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6e7ca9d-dd48-4232-8197-d1acd2bcc198</dc:identifier>
+        <dc:title>A Treatise on the Crime of Onan / Illustrated with a Variety of Cases, Together with the Method of Cure</dc:title>
+        <dc:creator opf:file-as="Tissot, S. A. D. (Samuel Auguste David)" opf:role="aut">S. A. D. Tissot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61621</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Masturbation -- Early works to 1800</dc:subject>
+        <dc:subject>Sexual ethics -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. A. D. Tissot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:15.856524+00:00"/>
+        <meta name="calibre:title_sort" content="Treatise on the Crime of Onan / Illustrated with a Variety of Cases, Together with the Method of Cure, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

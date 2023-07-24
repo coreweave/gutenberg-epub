@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">999aba31-e872-4758-9ee2-7daf3c3428b4</dc:identifier>
+        <dc:title>Maggie: A Girl of the Streets</dc:title>
+        <dc:creator opf:file-as="Crane, Stephen" opf:role="aut">Stephen Crane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/447</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Poor families -- Fiction</dc:subject>
+        <dc:subject>Poor women -- Fiction</dc:subject>
+        <dc:subject>Prostitutes -- Fiction</dc:subject>
+        <dc:subject>Suicide victims -- Fiction</dc:subject>
+        <dc:subject>Slums -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Crane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:37:34.735719+00:00"/>
+        <meta name="calibre:title_sort" content="Maggie: A Girl of the Streets"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

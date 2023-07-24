@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aae4b894-3dc6-4551-96fb-cf08843dfb18</dc:identifier>
+        <dc:title>Along the Shore</dc:title>
+        <dc:creator opf:file-as="Lathrop, Rose Hawthorne" opf:role="aut">Rose Hawthorne Lathrop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7056</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rose Hawthorne Lathrop&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:31:32.759723+00:00"/>
+        <meta name="calibre:title_sort" content="Along the Shore"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

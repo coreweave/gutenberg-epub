@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0fd5c81f-44be-4b57-9d8c-61cc65f11d3d</dc:identifier>
+        <dc:title>Memoirs of the Life and Labours of the Rev. Samuel Marsden, of Paramatta, Senior Chaplain of New South Wales; and of His Early Connexion with the Missions to New Zealand and Tahiti</dc:title>
+        <dc:creator opf:file-as="Marsden, Samuel" opf:role="aut">Samuel Marsden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41258</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maori (New Zealand people)</dc:subject>
+        <dc:subject>Marsden</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1765-1838</dc:subject>
+        <dc:subject>Missions -- New Zealand</dc:subject>
+        <dc:subject>Missions -- French Polynesia -- Tahiti (Island)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Marsden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:15:48.846432+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Life and Labours of the Rev. Samuel Marsden, of Paramatta, Senior Chaplain of New South Wales; and of His Early Connexion with the Missions to New Zealand and Tahiti"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

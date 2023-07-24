@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d4d87cb-b4cf-4e18-bf3c-46b90335cea1</dc:identifier>
+        <dc:title>The Book of Hallowe'en</dc:title>
+        <dc:creator opf:file-as="Kelley, Ruth Edna" opf:role="aut">Ruth Edna Kelley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Halloween</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruth Edna Kelley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:09:47.117695+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Hallowe'en, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

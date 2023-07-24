@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d00f8cc6-8581-4505-b048-a876c2195c06</dc:identifier>
+        <dc:title>Contemporary American Composers / Being a Study of the Music of This Country, Its Present / Conditions and Its Future, with Critical Estimates and / Biographies of the Principal Living Composers; and an / Abundance of Portraits, Fac-simile Musical Autographs, and / Compositions</dc:title>
+        <dc:creator opf:file-as="Hughes, Rupert" opf:role="aut">Rupert Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23800</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Composers -- United States -- Biography</dc:subject>
+        <dc:subject>Music -- United States -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rupert Hughes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:30:02.452396+00:00"/>
+        <meta name="calibre:title_sort" content="Contemporary American Composers / Being a Study of the Music of This Country, Its Present / Conditions and Its Future, with Critical Estimates and / Biographies of the Principal Living Composers; and an / Abundance of Portraits, Fac-simile Musical Autographs, and / Compositions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d37d63f-0f95-4164-ac82-9caec279fe8d</dc:identifier>
+        <dc:title>Two Wars: An Autobiography of General Samuel G. French / Mexican War; War between the States, a Diary; Reconstruction Period, His Experience; Incidents, Reminiscences, etc.</dc:title>
+        <dc:creator opf:file-as="French, Samuel Gibbs" opf:role="aut">Samuel Gibbs French</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45603</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>Reconstruction (U.S. history</dc:subject>
+        <dc:subject>1865-1877)</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Mexican War</dc:subject>
+        <dc:subject>1846-1848</dc:subject>
+        <dc:subject>Sherman's March to the Sea</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Gibbs French&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:32:30.694506+00:00"/>
+        <meta name="calibre:title_sort" content="Two Wars: An Autobiography of General Samuel G. French / Mexican War; War between the States, a Diary; Reconstruction Period, His Experience; Incidents, Reminiscences, etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

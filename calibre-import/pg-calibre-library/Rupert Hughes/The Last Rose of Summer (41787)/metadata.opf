@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02507fc4-93ec-48b7-988a-d48ab9bfb3ab</dc:identifier>
+        <dc:title>The Last Rose of Summer</dc:title>
+        <dc:creator opf:file-as="Hughes, Rupert" opf:role="aut">Rupert Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Single women -- Fiction</dc:subject>
+        <dc:subject>Older women -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rupert Hughes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:07:49.117513+00:00"/>
+        <meta name="calibre:title_sort" content="Last Rose of Summer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

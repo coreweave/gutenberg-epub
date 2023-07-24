@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49904</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">222cf950-0e92-4c7a-ba69-7e0107000250</dc:identifier>
+        <dc:title>The Voiage and Travayle of Sir John Maundeville Knight / Which treateth of the way towards Hierusalem and of marvayles of Inde with other ilands and countreys</dc:title>
+        <dc:creator opf:file-as="Mandeville, John, Sir" opf:role="aut">Sir John Mandeville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54281</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir John Mandeville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:00:25.918859+00:00"/>
+        <meta name="calibre:title_sort" content="Voiage and Travayle of Sir John Maundeville Knight / Which treateth of the way towards Hierusalem and of marvayles of Inde with other ilands and countreys, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

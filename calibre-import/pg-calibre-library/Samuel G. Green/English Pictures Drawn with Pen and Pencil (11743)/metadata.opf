@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e55e34a-519f-43da-a12e-68dc7a9000d3</dc:identifier>
+        <dc:title>English Pictures Drawn with Pen and Pencil</dc:title>
+        <dc:creator opf:file-as="Green, Samuel G. (Samuel Gosnell)" opf:role="aut">Samuel G. Green</dc:creator>
+        <dc:creator opf:file-as="Green, Samuel G. (Samuel Gosnell)" opf:role="aut">Samuel Manning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45065</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel G. Green&quot;: &quot;&quot;, &quot;Samuel Manning&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:35:13.362806+00:00"/>
+        <meta name="calibre:title_sort" content="English Pictures Drawn with Pen and Pencil"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

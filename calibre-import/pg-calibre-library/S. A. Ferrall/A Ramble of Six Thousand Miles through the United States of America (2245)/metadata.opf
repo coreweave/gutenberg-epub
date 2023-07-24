@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">235368ea-bd23-4000-b1a3-de6686b92a20</dc:identifier>
+        <dc:title>A Ramble of Six Thousand Miles through the United States of America</dc:title>
+        <dc:creator opf:file-as="Ferrall, S. A. (Simon Ansley)" opf:role="aut">S. A. Ferrall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11725</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. A. Ferrall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:16.126984+00:00"/>
+        <meta name="calibre:title_sort" content="Ramble of Six Thousand Miles through the United States of America, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

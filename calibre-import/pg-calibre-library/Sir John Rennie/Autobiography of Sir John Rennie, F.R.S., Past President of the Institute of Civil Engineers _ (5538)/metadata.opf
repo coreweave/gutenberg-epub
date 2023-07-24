@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b473475-fb15-41f1-9a65-bda0088423a6</dc:identifier>
+        <dc:title>Autobiography of Sir John Rennie, F.R.S., Past President of the Institute of Civil Engineers / Comprising the history of his professional life, together with reminiscences dating from the commencement of the century to the present time.</dc:title>
+        <dc:creator opf:file-as="Rennie, John, Sir" opf:role="aut">Sir John Rennie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54347</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civil engineers -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Rennie</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1794-1874</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir John Rennie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:03:10.729532+00:00"/>
+        <meta name="calibre:title_sort" content="Autobiography of Sir John Rennie, F.R.S., Past President of the Institute of Civil Engineers / Comprising the history of his professional life, together with reminiscences dating from the commencement of the century to the present time."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

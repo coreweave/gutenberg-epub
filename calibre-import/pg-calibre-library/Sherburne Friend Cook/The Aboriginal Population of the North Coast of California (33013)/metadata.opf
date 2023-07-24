@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44ccc359-6bb2-4111-8ad5-e73210489682</dc:identifier>
+        <dc:title>The Aboriginal Population of the North Coast of California</dc:title>
+        <dc:creator opf:file-as="Cook, Sherburne Friend" opf:role="aut">Sherburne Friend Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33812</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- California</dc:subject>
+        <dc:subject>Indians of North America -- Statistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sherburne Friend Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:36:53.237962+00:00"/>
+        <meta name="calibre:title_sort" content="Aboriginal Population of the North Coast of California, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

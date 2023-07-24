@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b430777-4b63-42bb-b07a-3fec5a65b6ec</dc:identifier>
+        <dc:title>Campfire and Battlefield / An Illustrated History of the Campaigns and Conflicts of the Great Civil War</dc:title>
+        <dc:creator opf:file-as="Connor, Selden" opf:role="aut">Selden Connor</dc:creator>
+        <dc:creator opf:file-as="Connor, Selden" opf:role="aut">John Brown Gordon</dc:creator>
+        <dc:creator opf:file-as="Connor, Selden" opf:role="aut">Henry W. B. Howard</dc:creator>
+        <dc:creator opf:file-as="Connor, Selden" opf:role="aut">O. O. Howard</dc:creator>
+        <dc:creator opf:file-as="Connor, Selden" opf:role="aut">Rossiter Johnson</dc:creator>
+        <dc:creator opf:file-as="Connor, Selden" opf:role="aut">John Tyler Morgan</dc:creator>
+        <dc:creator opf:file-as="Connor, Selden" opf:role="aut">John Clark Ridpath</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47746</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>1861-1865 -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Selden Connor&quot;: &quot;&quot;, &quot;John Brown Gordon&quot;: &quot;&quot;, &quot;Henry W. B. Howard&quot;: &quot;&quot;, &quot;O. O. Howard&quot;: &quot;&quot;, &quot;Rossiter Johnson&quot;: &quot;&quot;, &quot;John Tyler Morgan&quot;: &quot;&quot;, &quot;John Clark Ridpath&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:46:54.630030+00:00"/>
+        <meta name="calibre:title_sort" content="Campfire and Battlefield / An Illustrated History of the Campaigns and Conflicts of the Great Civil War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

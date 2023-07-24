@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">817e0a81-73d1-4f2a-9054-6f0b40ca43da</dc:identifier>
+        <dc:title>An Architect's Note-Book in Spain / principally illustrating the domestic architecture of that country.</dc:title>
+        <dc:creator opf:file-as="Wyatt, M. Digby (Matthew Digby), Sir" opf:role="aut">Sir M. Digby Wyatt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33820</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture -- Spain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir M. Digby Wyatt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:38:01.759012+00:00"/>
+        <meta name="calibre:title_sort" content="Architect's Note-Book in Spain / principally illustrating the domestic architecture of that country., An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

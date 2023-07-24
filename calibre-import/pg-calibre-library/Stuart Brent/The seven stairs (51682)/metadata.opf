@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa693a95-cc40-4d10-8126-9a76dce3cbc8</dc:identifier>
+        <dc:title>The seven stairs</dc:title>
+        <dc:creator opf:file-as="Brent, Stuart" opf:role="aut">Stuart Brent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69175</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brent</dc:subject>
+        <dc:subject>Stuart</dc:subject>
+        <dc:subject>Booksellers and bookselling -- Illinois -- Chicago -- History -- 20th century</dc:subject>
+        <dc:subject>Booksellers and bookselling -- United States -- Biography</dc:subject>
+        <dc:subject>Chicago (Ill.) -- Intellectual life -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stuart Brent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:54:11.641940+00:00"/>
+        <meta name="calibre:title_sort" content="seven stairs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

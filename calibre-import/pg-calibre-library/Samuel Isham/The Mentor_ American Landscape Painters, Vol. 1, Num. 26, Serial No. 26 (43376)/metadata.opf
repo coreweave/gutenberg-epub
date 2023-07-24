@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43376</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2120390b-6673-4885-bb36-d5fcc6f62750</dc:identifier>
+        <dc:title>The Mentor: American Landscape Painters, Vol. 1, Num. 26, Serial No. 26</dc:title>
+        <dc:creator opf:file-as="Isham, Samuel" opf:role="aut">Samuel Isham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49890</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Landscape painting</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Landscape painters -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Isham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:35:57.812426+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: American Landscape Painters, Vol. 1, Num. 26, Serial No. 26, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

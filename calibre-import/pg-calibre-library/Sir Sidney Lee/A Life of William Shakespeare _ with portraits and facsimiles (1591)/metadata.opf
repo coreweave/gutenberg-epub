@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6816c4a1-2007-4658-ad1f-6f01f93781f0</dc:identifier>
+        <dc:title>A Life of William Shakespeare / with portraits and facsimiles</dc:title>
+        <dc:creator opf:file-as="Lee, Sidney, Sir" opf:role="aut">Sir Sidney Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23464</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dramatists</dc:subject>
+        <dc:subject>English -- Early modern</dc:subject>
+        <dc:subject>1500-1700 -- Biography</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Biography</dc:subject>
+        <dc:subject>1564-1616 -- Bibliography</dc:subject>
+        <dc:subject>Stratford-upon-Avon (England) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Sidney Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:50:29.288950+00:00"/>
+        <meta name="calibre:title_sort" content="Life of William Shakespeare / with portraits and facsimiles, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

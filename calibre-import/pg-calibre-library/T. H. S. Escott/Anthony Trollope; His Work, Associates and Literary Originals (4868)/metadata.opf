@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b225522-68d3-4904-a4ee-3e2d2b867bcf</dc:identifier>
+        <dc:title>Anthony Trollope; His Work, Associates and Literary Originals</dc:title>
+        <dc:creator opf:file-as="Escott, T. H. S. (Thomas Hay Sweet)" opf:role="aut">T. H. S. Escott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trollope</dc:subject>
+        <dc:subject>Anthony</dc:subject>
+        <dc:subject>1815-1882</dc:subject>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. H. S. Escott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:49:35.955446+00:00"/>
+        <meta name="calibre:title_sort" content="Anthony Trollope; His Work, Associates and Literary Originals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

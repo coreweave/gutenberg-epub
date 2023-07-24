@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3c21b7b-e825-42a0-8b12-69726dbf6998</dc:identifier>
+        <dc:title>A Practical Manual of the Collodion Process, Giving in Detail a Method For Producing Positive and Negative Pictures on Glass and Paper.</dc:title>
+        <dc:creator opf:file-as="Humphrey, S. D. (Samuel Dwight)" opf:role="aut">S. D. Humphrey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63517</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Photography</dc:subject>
+        <dc:subject>Ambrotype</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. D. Humphrey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:00:06.071770+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Manual of the Collodion Process, Giving in Detail a Method For Producing Positive and Negative Pictures on Glass and Paper., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

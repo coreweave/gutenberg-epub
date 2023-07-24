@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b091ddfa-d217-468e-8032-ecf1c0d782fc</dc:identifier>
+        <dc:title>In the Arctic Seas / A Narrative of the Discovery of the Fate of Sir John Franklin and his Companions</dc:title>
+        <dc:creator opf:file-as="M'Clintock, Francis Leopold, Sir" opf:role="aut">Sir Francis Leopold M'Clintock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37669</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest Passage</dc:subject>
+        <dc:subject>Arctic regions</dc:subject>
+        <dc:subject>Franklin</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1786-1847</dc:subject>
+        <dc:subject>Fox (Ship)</dc:subject>
+        <dc:subject>M'Clintock</dc:subject>
+        <dc:subject>Francis Leopold</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1819-1907 -- Diaries</dc:subject>
+        <dc:subject>1819-1907 -- Travel -- Arctic regions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Francis Leopold M'Clintock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:26:53.972173+00:00"/>
+        <meta name="calibre:title_sort" content="In the Arctic Seas / A Narrative of the Discovery of the Fate of Sir John Franklin and his Companions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

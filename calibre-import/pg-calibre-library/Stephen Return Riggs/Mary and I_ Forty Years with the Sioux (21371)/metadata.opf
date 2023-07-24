@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b2f84d0-3a8b-4aee-b981-157ac19b953b</dc:identifier>
+        <dc:title>Mary and I: Forty Years with the Sioux</dc:title>
+        <dc:creator opf:file-as="Riggs, Stephen Return" opf:role="aut">Stephen Return Riggs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42806</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dakota Indians -- Missions</dc:subject>
+        <dc:subject>Riggs</dc:subject>
+        <dc:subject>Stephen Return</dc:subject>
+        <dc:subject>1812-1883</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Return Riggs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:56:47.794749+00:00"/>
+        <meta name="calibre:title_sort" content="Mary and I: Forty Years with the Sioux"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

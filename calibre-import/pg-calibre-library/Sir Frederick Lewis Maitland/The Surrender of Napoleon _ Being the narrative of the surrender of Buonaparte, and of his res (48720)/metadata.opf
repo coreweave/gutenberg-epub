@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4b09bc9-e659-4616-94c0-6667d1bf0069</dc:identifier>
+        <dc:title>The Surrender of Napoleon / Being the narrative of the surrender of Buonaparte, and of his residence on board H.M.S. Bellerophon, with a detail of the principal events that occurred in that ship between the 24th of May and the 8th of August 1815</dc:title>
+        <dc:creator opf:file-as="Maitland, Frederick Lewis, Sir" opf:role="aut">Sir Frederick Lewis Maitland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28934</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Contemporaries</dc:subject>
+        <dc:subject>1769-1821 -- Captivity</dc:subject>
+        <dc:subject>1815-1821</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Frederick Lewis Maitland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:46:33.979858+00:00"/>
+        <meta name="calibre:title_sort" content="Surrender of Napoleon / Being the narrative of the surrender of Buonaparte, and of his residence on board H.M.S. Bellerophon, with a detail of the principal events that occurred in that ship between the 24th of May and the 8th of August 1815, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

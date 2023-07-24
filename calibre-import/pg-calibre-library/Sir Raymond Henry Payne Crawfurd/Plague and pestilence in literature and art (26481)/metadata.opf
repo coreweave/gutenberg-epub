@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60e8a281-bed9-42ee-8952-dd8e0e5ba25f</dc:identifier>
+        <dc:title>Plague and pestilence in literature and art</dc:title>
+        <dc:creator opf:file-as="Crawfurd, Raymond Henry Payne, Sir" opf:role="aut">Sir Raymond Henry Payne Crawfurd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64547</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medicine in literature</dc:subject>
+        <dc:subject>Plague</dc:subject>
+        <dc:subject>Plague -- History</dc:subject>
+        <dc:subject>Medicine in art</dc:subject>
+        <dc:subject>Plague in literature</dc:subject>
+        <dc:subject>Epidemics in literature</dc:subject>
+        <dc:subject>Plague in art</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Raymond Henry Payne Crawfurd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:32:30.855564+00:00"/>
+        <meta name="calibre:title_sort" content="Plague and pestilence in literature and art"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

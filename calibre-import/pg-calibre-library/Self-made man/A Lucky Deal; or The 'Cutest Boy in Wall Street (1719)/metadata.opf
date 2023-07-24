@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3a169d0-d1f4-4cb9-845d-48d632338e62</dc:identifier>
+        <dc:title>A Lucky Deal; or The 'Cutest Boy in Wall Street</dc:title>
+        <dc:creator opf:file-as="Self-made man" opf:role="aut">Self-made man</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67380</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Wall Street (New York</dc:subject>
+        <dc:subject>N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Deals -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Self-made man&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:52:32.018071+00:00"/>
+        <meta name="calibre:title_sort" content="Lucky Deal; or The 'Cutest Boy in Wall Street, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">790de010-5e33-4406-9ce1-506c420b1e71</dc:identifier>
+        <dc:title>Life's Dawn on Earth / Being the history of the oldest known fossil remains, and their relations to geological time and to the development of the animal kingdom</dc:title>
+        <dc:creator opf:file-as="Dawson, John William, Sir" opf:role="aut">Sir John William Dawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50767</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Life -- Origin</dc:subject>
+        <dc:subject>Paleontology -- Precambrian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir John William Dawson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:03:15.398468+00:00"/>
+        <meta name="calibre:title_sort" content="Life's Dawn on Earth / Being the history of the oldest known fossil remains, and their relations to geological time and to the development of the animal kingdom"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

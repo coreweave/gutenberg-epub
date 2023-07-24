@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db097252-a166-42c1-ab1b-04a3c3776b5b</dc:identifier>
+        <dc:title>The Mechanical Properties of Wood / Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing</dc:title>
+        <dc:creator opf:file-as="Record, Samuel J. (Samuel James)" opf:role="aut">Samuel J. Record</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wood</dc:subject>
+        <dc:subject>Wood -- Testing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel J. Record&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:29:38.375973+00:00"/>
+        <meta name="calibre:title_sort" content="Mechanical Properties of Wood / Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

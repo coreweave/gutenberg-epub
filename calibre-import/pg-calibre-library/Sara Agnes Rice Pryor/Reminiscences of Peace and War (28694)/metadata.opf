@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4aa9b4e8-228b-485f-947f-0f49e4145338</dc:identifier>
+        <dc:title>Reminiscences of Peace and War</dc:title>
+        <dc:creator opf:file-as="Pryor, Sara Agnes Rice" opf:role="aut">Sara Agnes Rice Pryor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58523</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1849-1861</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Washington (D.C.) -- Social life and customs</dc:subject>
+        <dc:subject>Pryor</dc:subject>
+        <dc:subject>Roger A. (Roger Atkinson)</dc:subject>
+        <dc:subject>1828-1919</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sara Agnes Rice Pryor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:10:06.715454+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of Peace and War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

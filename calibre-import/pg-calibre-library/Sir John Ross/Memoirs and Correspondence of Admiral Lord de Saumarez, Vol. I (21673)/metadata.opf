@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a77c260c-1a6a-4ae5-805b-cfa2ad8162da</dc:identifier>
+        <dc:title>Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I</dc:title>
+        <dc:creator opf:file-as="Ross, John, Sir" opf:role="aut">Sir John Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26031</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Saumarez</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1757-1836</dc:subject>
+        <dc:subject>Admirals -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir John Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:08:58.039543+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

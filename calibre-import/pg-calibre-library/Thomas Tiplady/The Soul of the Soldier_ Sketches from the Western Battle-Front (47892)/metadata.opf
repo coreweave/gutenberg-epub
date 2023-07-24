@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b167595-8c13-446b-9656-ce376f7ef450</dc:identifier>
+        <dc:title>The Soul of the Soldier: Sketches from the Western Battle-Front</dc:title>
+        <dc:creator opf:file-as="Tiplady, Thomas" opf:role="aut">Thomas Tiplady</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46323</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Personal narratives</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Tiplady&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:57:02.902421+00:00"/>
+        <meta name="calibre:title_sort" content="Soul of the Soldier: Sketches from the Western Battle-Front, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

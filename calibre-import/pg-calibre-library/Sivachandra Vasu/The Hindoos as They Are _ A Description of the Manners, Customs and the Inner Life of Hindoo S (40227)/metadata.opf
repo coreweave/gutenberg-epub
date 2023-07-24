@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaabd99d-25f7-406c-9fb7-0993b626cd2c</dc:identifier>
+        <dc:title>The Hindoos as They Are / A Description of the Manners, Customs and the Inner Life of Hindoo Society in Bengal</dc:title>
+        <dc:creator opf:file-as="Sivachandra Vasu" opf:role="aut">Sivachandra Vasu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37722</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Social life and customs</dc:subject>
+        <dc:subject>Women -- India</dc:subject>
+        <dc:subject>Hindus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sivachandra Vasu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:42:48.325630+00:00"/>
+        <meta name="calibre:title_sort" content="Hindoos as They Are / A Description of the Manners, Customs and the Inner Life of Hindoo Society in Bengal, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

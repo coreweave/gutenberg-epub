@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02765e84-8769-4269-8c39-852221d83b7a</dc:identifier>
+        <dc:title>Ancient Law: Its Connection to the History of Early Society</dc:title>
+        <dc:creator opf:file-as="Maine, Henry Sumner, Sir" opf:role="aut">Sir Henry Sumner Maine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Law -- History</dc:subject>
+        <dc:subject>Comparative law</dc:subject>
+        <dc:subject>Primitive societies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Henry Sumner Maine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:45:22.762324+00:00"/>
+        <meta name="calibre:title_sort" content="Ancient Law: Its Connection to the History of Early Society"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e634c5c0-72d2-41e3-94c3-6751d2471c41</dc:identifier>
+        <dc:title>Shakespeare's Roman plays and their background</dc:title>
+        <dc:creator opf:file-as="MacCallum, Mungo William, Sir" opf:role="aut">Sir Mungo William MacCallum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69937</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Criticism and interpretation</dc:subject>
+        <dc:subject>1564-1616 -- Sources</dc:subject>
+        <dc:subject>Rome -- Historiography</dc:subject>
+        <dc:subject>Rome -- In literature</dc:subject>
+        <dc:subject>1564-1616 -- Knowledge and learning</dc:subject>
+        <dc:subject>Historical drama</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <dc:subject>English drama -- Roman influences</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Mungo William MacCallum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:31:03.597595+00:00"/>
+        <meta name="calibre:title_sort" content="Shakespeare's Roman plays and their background"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

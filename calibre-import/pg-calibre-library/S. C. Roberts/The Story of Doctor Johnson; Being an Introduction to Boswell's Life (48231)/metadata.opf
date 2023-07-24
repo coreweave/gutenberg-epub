@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02d641e1-dd1a-4920-89b9-8b0ff309b448</dc:identifier>
+        <dc:title>The Story of Doctor Johnson; Being an Introduction to Boswell's Life</dc:title>
+        <dc:creator opf:file-as="Roberts, S. C. (Sydney Castle)" opf:role="aut">S. C. Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45869</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Johnson</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1709-1784</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 18th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. C. Roberts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:17:10.099817+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Doctor Johnson; Being an Introduction to Boswell's Life, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

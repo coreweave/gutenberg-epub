@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17998</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62a464cf-6015-463a-a372-431efc64d840</dc:identifier>
+        <dc:title>It's Fun to Sew Aprons and Skirts</dc:title>
+        <dc:creator opf:file-as="Johnson, Theta" opf:role="aut">Theta Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61260</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sewing -- Juvenile literature</dc:subject>
+        <dc:subject>Machine sewing -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theta Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:52:44.305563+00:00"/>
+        <meta name="calibre:title_sort" content="It's Fun to Sew Aprons and Skirts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

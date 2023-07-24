@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0057abe-2309-49f5-8758-6184f63e2343</dc:identifier>
+        <dc:title>Hints to Travellers, Scientific and General, Vol. 2 / Tenth edition, revised and corrected</dc:title>
+        <dc:creator opf:file-as="Royal Geographical Society (Great Britain)" opf:role="aut">Royal Geographical Society</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67668</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Topographical surveying</dc:subject>
+        <dc:subject>Scientific expeditions -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Spherical astronomy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Royal Geographical Society&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:36:54.229840+00:00"/>
+        <meta name="calibre:title_sort" content="Hints to Travellers, Scientific and General, Vol. 2 / Tenth edition, revised and corrected"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5d5d445-01a4-410b-bf94-13a806bb17cd</dc:identifier>
+        <dc:title>Forty Years of 'Spy'</dc:title>
+        <dc:creator opf:file-as="Ward, Leslie, Sir" opf:role="aut">Sir Leslie Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35466</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artists -- Correspondence</dc:subject>
+        <dc:subject>reminiscences</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Ward</dc:subject>
+        <dc:subject>Leslie</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1851-1922</dc:subject>
+        <dc:subject>Painters -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Leslie Ward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:15:45.768676+00:00"/>
+        <meta name="calibre:title_sort" content="Forty Years of 'Spy'"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

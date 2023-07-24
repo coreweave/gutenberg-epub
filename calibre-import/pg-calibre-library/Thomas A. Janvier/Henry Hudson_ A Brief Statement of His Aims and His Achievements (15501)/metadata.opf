@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19a0f1c2-4814-416e-9741-d3152dec62bc</dc:identifier>
+        <dc:title>Henry Hudson: A Brief Statement of His Aims and His Achievements</dc:title>
+        <dc:creator opf:file-as="Janvier, Thomas A. (Thomas Allibone)" opf:role="aut">Thomas A. Janvier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13442</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Explorers -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Hudson</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>-1611</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas A. Janvier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:28:45.019369+00:00"/>
+        <meta name="calibre:title_sort" content="Henry Hudson: A Brief Statement of His Aims and His Achievements"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

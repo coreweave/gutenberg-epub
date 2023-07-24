@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55091</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">908f69f3-874a-40da-91ce-77bad591f5da</dc:identifier>
+        <dc:title>With Fire and Sword</dc:title>
+        <dc:creator opf:file-as="Byers, S. H. M. (Samuel Hawkins Marshall)" opf:role="aut">S. H. M. Byers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40477</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Prisoners and prisons</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>Byers</dc:subject>
+        <dc:subject>S. H. M. (Samuel Hawkins Marshall)</dc:subject>
+        <dc:subject>1838-1933</dc:subject>
+        <dc:subject>United States. Army. Iowa Infantry Regiment</dc:subject>
+        <dc:subject>5th (1861-1864) -- Biography</dc:subject>
+        <dc:subject>Soldiers -- Iowa -- Biography</dc:subject>
+        <dc:subject>Sherman's March to the Sea</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. H. M. Byers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:34:31.073588+00:00"/>
+        <meta name="calibre:title_sort" content="With Fire and Sword"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e2a9f81-19dd-4d5a-9105-683f736b4149</dc:identifier>
+        <dc:title>Among the Wild Tribes of the Afghan Frontier / A Record of Sixteen Years' Close Intercourse with the Natives of the Indian Marches</dc:title>
+        <dc:creator opf:file-as="Pennell, T. L. (Theodore Leighton)" opf:role="aut">T. L. Pennell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32231</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Afghans</dc:subject>
+        <dc:subject>Missions -- Asia</dc:subject>
+        <dc:subject>Central</dc:subject>
+        <dc:subject>Punjab (India) -- Social life and customs</dc:subject>
+        <dc:subject>Afghanistan -- Social life and customs</dc:subject>
+        <dc:subject>Pennell</dc:subject>
+        <dc:subject>T. L. (Theodore Leighton)</dc:subject>
+        <dc:subject>1867-1912</dc:subject>
+        <dc:subject>Pushtuns</dc:subject>
+        <dc:subject>Missions</dc:subject>
+        <dc:subject>Medical -- Pakistan -- North-West Frontier Province</dc:subject>
+        <dc:subject>Khyber Pakhtunkhwa (Pakistan) -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. L. Pennell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:35:27.511444+00:00"/>
+        <meta name="calibre:title_sort" content="Among the Wild Tribes of the Afghan Frontier / A Record of Sixteen Years' Close Intercourse with the Natives of the Indian Marches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

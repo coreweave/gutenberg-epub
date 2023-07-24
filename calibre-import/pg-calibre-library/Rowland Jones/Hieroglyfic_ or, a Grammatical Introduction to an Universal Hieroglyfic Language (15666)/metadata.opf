@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34847ec1-0930-43c2-943a-d279550ae6fa</dc:identifier>
+        <dc:title>Hieroglyfic: or, a Grammatical Introduction to an Universal Hieroglyfic Language</dc:title>
+        <dc:creator opf:file-as="Jones, Rowland" opf:role="aut">Rowland Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Language and languages -- Early works to 1800</dc:subject>
+        <dc:subject>Grammar</dc:subject>
+        <dc:subject>Comparative and general -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rowland Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:34:03.299444+00:00"/>
+        <meta name="calibre:title_sort" content="Hieroglyfic: or, a Grammatical Introduction to an Universal Hieroglyfic Language"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

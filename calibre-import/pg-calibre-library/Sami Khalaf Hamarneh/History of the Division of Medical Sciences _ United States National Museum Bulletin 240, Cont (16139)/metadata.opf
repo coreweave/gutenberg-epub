@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91682ff0-2d01-433f-b3db-ec6fa47ac97a</dc:identifier>
+        <dc:title>History of the Division of Medical Sciences / United States National Museum Bulletin 240, Contributions from the Museum of History and Technology, paper 43, 1964</dc:title>
+        <dc:creator opf:file-as="Hamarneh, Sami Khalaf" opf:role="aut">Sami Khalaf Hamarneh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27932</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Museum of History and Technology (U.S.). Division of Medical Sciences</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sami Khalaf Hamarneh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:49:44.301951+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Division of Medical Sciences / United States National Museum Bulletin 240, Contributions from the Museum of History and Technology, paper 43, 1964"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

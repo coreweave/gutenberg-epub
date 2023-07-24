@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a939709b-e265-4566-a211-54d106c9d0d0</dc:identifier>
+        <dc:title>Abuse, Torture, and Trauma and their Consequences and Effects</dc:title>
+        <dc:creator opf:file-as="Vaknin, Samuel" opf:role="aut">Samuel Vaknin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30153</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Narcissism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Vaknin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:21:44.536907+00:00"/>
+        <meta name="calibre:title_sort" content="Abuse, Torture, and Trauma and their Consequences and Effects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33557dd3-a38e-4955-ad4a-8435540ee0b6</dc:identifier>
+        <dc:title>The End of a Coil</dc:title>
+        <dc:creator opf:file-as="Warner, Susan" opf:role="aut">Susan Warner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27618</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>Aunts -- Juvenile fiction</dc:subject>
+        <dc:subject>Courtship -- Juvenile fiction</dc:subject>
+        <dc:subject>Parent and child -- Juvenile fiction</dc:subject>
+        <dc:subject>Sick -- Juvenile fiction</dc:subject>
+        <dc:subject>Education -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Susan Warner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:44:56.239736+00:00"/>
+        <meta name="calibre:title_sort" content="End of a Coil, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

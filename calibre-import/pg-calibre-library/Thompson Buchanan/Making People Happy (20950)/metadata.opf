@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4710bb8d-0bcd-4656-ba64-2356221ee59d</dc:identifier>
+        <dc:title>Making People Happy</dc:title>
+        <dc:creator opf:file-as="Buchanan, Thompson" opf:role="aut">Thompson Buchanan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27888</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Married women -- Fiction</dc:subject>
+        <dc:subject>Rich people -- Fiction</dc:subject>
+        <dc:subject>Women -- Societies and clubs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thompson Buchanan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:40:23.653300+00:00"/>
+        <meta name="calibre:title_sort" content="Making People Happy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

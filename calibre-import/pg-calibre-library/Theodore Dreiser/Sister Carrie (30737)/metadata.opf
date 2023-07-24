@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d88c4d48-c9d5-4cde-93a5-28fb38c5343a</dc:identifier>
+        <dc:title>Sister Carrie</dc:title>
+        <dc:creator opf:file-as="Dreiser, Theodore" opf:role="aut">Theodore Dreiser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5267</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Chicago (Ill.) -- Fiction</dc:subject>
+        <dc:subject>Mistresses -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore Dreiser&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:46:38.675216+00:00"/>
+        <meta name="calibre:title_sort" content="Sister Carrie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

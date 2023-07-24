@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebf3f933-2573-4b57-9efa-07d45323cd76</dc:identifier>
+        <dc:title>The Youth of Washington: Told in the Form of an Autobiography</dc:title>
+        <dc:creator opf:file-as="Mitchell, S. Weir (Silas Weir)" opf:role="aut">S. Weir Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799 -- Childhood and youth</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. Weir Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:17:24.609935+00:00"/>
+        <meta name="calibre:title_sort" content="Youth of Washington: Told in the Form of an Autobiography, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

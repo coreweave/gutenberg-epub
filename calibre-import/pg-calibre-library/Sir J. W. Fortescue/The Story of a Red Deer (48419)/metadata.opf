@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50598afa-571a-4632-b041-b440c0bb6a19</dc:identifier>
+        <dc:title>The Story of a Red Deer</dc:title>
+        <dc:creator opf:file-as="Fortescue, J. W. (John William), Sir" opf:role="aut">Sir J. W. Fortescue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33384</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Death -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunting -- Juvenile fiction</dc:subject>
+        <dc:subject>Red deer -- Juvenile fiction</dc:subject>
+        <dc:subject>Fox hunting -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir J. W. Fortescue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:28:27.702902+00:00"/>
+        <meta name="calibre:title_sort" content="Story of a Red Deer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

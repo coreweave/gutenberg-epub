@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e13ff30-c8b7-4a90-a40b-5c7924405940</dc:identifier>
+        <dc:title>The Sheep and Lamb</dc:title>
+        <dc:creator opf:file-as="Miller, Thomas" opf:role="aut">Thomas Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38995</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Country life -- Juvenile fiction</dc:subject>
+        <dc:subject>Pets -- Juvenile fiction</dc:subject>
+        <dc:subject>Ducks -- Juvenile fiction</dc:subject>
+        <dc:subject>Benevolence -- Juvenile fiction</dc:subject>
+        <dc:subject>Sheep -- Juvenile fiction</dc:subject>
+        <dc:subject>Slaughtering and slaughter-houses -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:37:02.002527+00:00"/>
+        <meta name="calibre:title_sort" content="Sheep and Lamb, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

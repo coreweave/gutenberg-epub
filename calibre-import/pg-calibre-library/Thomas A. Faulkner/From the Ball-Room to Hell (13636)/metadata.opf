@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e8f3e0c-5796-49e8-ba80-cf38cd13c402</dc:identifier>
+        <dc:title>From the Ball-Room to Hell</dc:title>
+        <dc:creator opf:file-as="Faulkner, Thomas A." opf:role="aut">Thomas A. Faulkner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas A. Faulkner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:29:46.287929+00:00"/>
+        <meta name="calibre:title_sort" content="From the Ball-Room to Hell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

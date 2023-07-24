@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16d96403-d646-43ec-8dc8-6a52cf6d3b07</dc:identifier>
+        <dc:title>The Legends of King Arthur and His Knights</dc:title>
+        <dc:creator opf:file-as="Knowles, James, Sir" opf:role="aut">Sir James Knowles</dc:creator>
+        <dc:creator opf:file-as="Knowles, James, Sir" opf:role="aut">Sir Thomas Malory</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12753</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- England</dc:subject>
+        <dc:subject>Arthur</dc:subject>
+        <dc:subject>King -- Legends</dc:subject>
+        <dc:subject>Arthurian romances -- Adaptations</dc:subject>
+        <dc:subject>Knights and knighthood -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir James Knowles&quot;: &quot;&quot;, &quot;Sir Thomas Malory&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:16:03.465374+00:00"/>
+        <meta name="calibre:title_sort" content="Legends of King Arthur and His Knights, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

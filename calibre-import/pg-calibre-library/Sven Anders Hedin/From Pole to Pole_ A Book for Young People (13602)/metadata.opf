@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58c812ec-8f7a-4bb1-b0b5-446650067a8b</dc:identifier>
+        <dc:title>From Pole to Pole: A Book for Young People</dc:title>
+        <dc:creator opf:file-as="Hedin, Sven Anders" opf:role="aut">Sven Anders Hedin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Juvenile literature</dc:subject>
+        <dc:subject>Geography -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sven Anders Hedin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:28:43.381695+00:00"/>
+        <meta name="calibre:title_sort" content="From Pole to Pole: A Book for Young People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

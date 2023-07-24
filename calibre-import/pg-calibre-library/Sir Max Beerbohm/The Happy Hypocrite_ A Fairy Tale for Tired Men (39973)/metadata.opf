@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f238acc9-6925-4b7c-942e-422d8a8c68fd</dc:identifier>
+        <dc:title>The Happy Hypocrite: A Fairy Tale for Tired Men</dc:title>
+        <dc:creator opf:file-as="Beerbohm, Max, Sir" opf:role="aut">Sir Max Beerbohm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36497</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Masks -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Max Beerbohm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:29:21.153354+00:00"/>
+        <meta name="calibre:title_sort" content="Happy Hypocrite: A Fairy Tale for Tired Men, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

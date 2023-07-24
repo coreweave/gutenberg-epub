@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7334417-be30-4efe-a941-2ff343f40072</dc:identifier>
+        <dc:title>Historic Tales: The Romance of Reality. Vol. 13 (of 15), King Arthur (1)</dc:title>
+        <dc:creator opf:file-as="Malory, Thomas, Sir" opf:role="aut">Sir Thomas Malory</dc:creator>
+        <dc:creator opf:file-as="Malory, Thomas, Sir" opf:role="aut">Charles Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arthurian romances</dc:subject>
+        <dc:subject>Malory</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>active 15th century. Morte d'Arthur -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Thomas Malory&quot;: &quot;&quot;, &quot;Charles Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:39:44.754390+00:00"/>
+        <meta name="calibre:title_sort" content="Historic Tales: The Romance of Reality. Vol. 13 (of 15), King Arthur (1)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

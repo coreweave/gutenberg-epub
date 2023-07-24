@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f2d6bf5-b389-48eb-a6a5-7f5adb37e818</dc:identifier>
+        <dc:title>Betty Leicester's Christmas</dc:title>
+        <dc:creator opf:file-as="Jewett, Sarah Orne" opf:role="aut">Sarah Orne Jewett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41831</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Vacations -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Christmas -- Juvenile fiction</dc:subject>
+        <dc:subject>Aunts -- Juvenile fiction</dc:subject>
+        <dc:subject>Fathers and daughters -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Nieces -- Juvenile fiction</dc:subject>
+        <dc:subject>England -- Social life and customs -- Juvenile fiction</dc:subject>
+        <dc:subject>Nephews -- Juvenile fiction</dc:subject>
+        <dc:subject>Mothers -- Death -- Juvenile fiction</dc:subject>
+        <dc:subject>Sharing -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Orne Jewett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:17:09.131403+00:00"/>
+        <meta name="calibre:title_sort" content="Betty Leicester's Christmas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

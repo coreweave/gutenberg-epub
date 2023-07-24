@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9dae7dc8-cb64-46b9-b28d-5e3ae0d9972d</dc:identifier>
+        <dc:title>Americanism</dc:title>
+        <dc:creator opf:file-as="Roosevelt, Theodore" opf:role="aut">Theodore Roosevelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68152</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speeches</dc:subject>
+        <dc:subject>addresses</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Americanization</dc:subject>
+        <dc:subject>Citizenship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore Roosevelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:34.676880+00:00"/>
+        <meta name="calibre:title_sort" content="Americanism"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

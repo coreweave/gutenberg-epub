@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1f62c04-3ff8-428f-95e8-9b0664b08788</dc:identifier>
+        <dc:title>Rocky Mountain Boys; Or, Camping in the Big Game Country</dc:title>
+        <dc:creator opf:file-as="Rathborne, St. George" opf:role="aut">St. George Rathborne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37803</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Camping -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunting stories</dc:subject>
+        <dc:subject>Rocky Mountains -- Juvenile fiction</dc:subject>
+        <dc:subject>Wyoming -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;St. George Rathborne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:30:25.831706+00:00"/>
+        <meta name="calibre:title_sort" content="Rocky Mountain Boys; Or, Camping in the Big Game Country"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

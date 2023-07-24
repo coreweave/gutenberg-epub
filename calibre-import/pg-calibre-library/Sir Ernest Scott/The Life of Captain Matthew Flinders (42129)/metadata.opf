@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a9b765d-bd29-456e-9590-ac1db6af9569</dc:identifier>
+        <dc:title>The Life of Captain Matthew Flinders</dc:title>
+        <dc:creator opf:file-as="Scott, Ernest, Sir" opf:role="aut">Sir Ernest Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Discovery and exploration</dc:subject>
+        <dc:subject>Flinders</dc:subject>
+        <dc:subject>Matthew</dc:subject>
+        <dc:subject>1774-1814</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Ernest Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:26:41.900949+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Captain Matthew Flinders, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

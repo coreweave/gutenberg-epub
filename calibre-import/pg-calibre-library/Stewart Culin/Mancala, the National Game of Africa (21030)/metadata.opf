@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0a4720f-0934-4b8e-b313-89f54f8f224d</dc:identifier>
+        <dc:title>Mancala, the National Game of Africa</dc:title>
+        <dc:creator opf:file-as="Culin, Stewart" opf:role="aut">Stewart Culin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66220</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Games -- Africa</dc:subject>
+        <dc:subject>Mancala (Game)</dc:subject>
+        <dc:subject>Board games -- Africa</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stewart Culin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:43:29.872500+00:00"/>
+        <meta name="calibre:title_sort" content="Mancala, the National Game of Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

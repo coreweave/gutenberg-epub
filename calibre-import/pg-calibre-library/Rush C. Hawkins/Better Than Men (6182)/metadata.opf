@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46295b5c-814a-4e83-a94e-a1ad27174e5a</dc:identifier>
+        <dc:title>Better Than Men</dc:title>
+        <dc:creator opf:file-as="Hawkins, Rush C. (Rush Christopher)" opf:role="aut">Rush C. Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53423</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rush C. Hawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:16:47.407654+00:00"/>
+        <meta name="calibre:title_sort" content="Better Than Men"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">913abe87-8be9-4332-8946-663c2e3408c1</dc:identifier>
+        <dc:title>A briefe discription of New England and the severall townes therein / together with the present government thereof</dc:title>
+        <dc:creator opf:file-as="Maverick, Samuel" opf:role="aut">Samuel Maverick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33904</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New England -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>New England -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Maverick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:17:31.461882+00:00"/>
+        <meta name="calibre:title_sort" content="briefe discription of New England and the severall townes therein / together with the present government thereof, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

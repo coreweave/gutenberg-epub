@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5b22f55-ba08-4ad1-8664-979b11a0221d</dc:identifier>
+        <dc:title>The Book of Herbs</dc:title>
+        <dc:creator opf:file-as="Northcote, Rosalind" opf:role="aut">Rosalind Northcote</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Herbs</dc:subject>
+        <dc:subject>Plants -- Folklore</dc:subject>
+        <dc:subject>Herbs -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rosalind Northcote&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:09:50.117124+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Herbs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

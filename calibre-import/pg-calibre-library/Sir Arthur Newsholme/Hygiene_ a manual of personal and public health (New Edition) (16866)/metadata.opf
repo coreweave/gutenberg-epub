@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77ca0f3b-d1da-4f99-bf30-69f5ab2ac593</dc:identifier>
+        <dc:title>Hygiene: a manual of personal and public health (New Edition)</dc:title>
+        <dc:creator opf:file-as="Newsholme, Arthur, Sir" opf:role="aut">Sir Arthur Newsholme</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58591</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hygiene</dc:subject>
+        <dc:subject>Sanitation</dc:subject>
+        <dc:subject>Public health -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Arthur Newsholme&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:14:04.847079+00:00"/>
+        <meta name="calibre:title_sort" content="Hygiene: a manual of personal and public health (New Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

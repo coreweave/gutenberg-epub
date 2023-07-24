@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8fefb24-5318-4f4d-a79d-43ee2070c9f4</dc:identifier>
+        <dc:title>Shelley at Oxford</dc:title>
+        <dc:creator opf:file-as="Hogg, Thomas Jefferson" opf:role="aut">Thomas Jefferson Hogg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34525</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Shelley</dc:subject>
+        <dc:subject>Percy Bysshe</dc:subject>
+        <dc:subject>1792-1822 -- Homes and haunts -- England -- Oxford</dc:subject>
+        <dc:subject>1792-1822 -- Childhood and youth</dc:subject>
+        <dc:subject>University of Oxford -- Biography</dc:subject>
+        <dc:subject>Oxford (England) -- Intellectual life -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Jefferson Hogg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:34:19.185537+00:00"/>
+        <meta name="calibre:title_sort" content="Shelley at Oxford"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

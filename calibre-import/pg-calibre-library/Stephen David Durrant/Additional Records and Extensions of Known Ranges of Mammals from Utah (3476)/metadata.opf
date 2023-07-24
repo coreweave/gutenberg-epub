@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ca41dd7-7a24-437f-9d99-a440166f5e11</dc:identifier>
+        <dc:title>Additional Records and Extensions of Known Ranges of Mammals from Utah</dc:title>
+        <dc:creator opf:file-as="Durrant, Stephen David" opf:role="aut">Stephen David Durrant</dc:creator>
+        <dc:creator opf:file-as="Durrant, Stephen David" opf:role="aut">Richard M. Hansen</dc:creator>
+        <dc:creator opf:file-as="Durrant, Stephen David" opf:role="aut">M. Raymond Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31458</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mammals -- Utah</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen David Durrant&quot;: &quot;&quot;, &quot;Richard M. Hansen&quot;: &quot;&quot;, &quot;M. Raymond Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:23:09.812353+00:00"/>
+        <meta name="calibre:title_sort" content="Additional Records and Extensions of Known Ranges of Mammals from Utah"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd57453f-d247-471c-ba2a-c539ec61ca78</dc:identifier>
+        <dc:title>Watson Refuted / Being an Answer to the Apology for the Bible, in a Series of Letters to the Bishop Of Llandaff</dc:title>
+        <dc:creator opf:file-as="Francis, Samuel W. (Samuel Ward)" opf:role="aut">Samuel W. Francis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40978</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rationalism</dc:subject>
+        <dc:subject>Paine</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1737-1809. Age of reason</dc:subject>
+        <dc:subject>Watson</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1737-1816. Apology for the Bible</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel W. Francis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:37:40.597121+00:00"/>
+        <meta name="calibre:title_sort" content="Watson Refuted / Being an Answer to the Apology for the Bible, in a Series of Letters to the Bishop Of Llandaff"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

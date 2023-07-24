@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9f213b6-c12d-4245-a8d2-606e7c0000f6</dc:identifier>
+        <dc:title>Oedipus King of Thebes / Translated into English Rhyming Verse with Explanatory Notes</dc:title>
+        <dc:creator opf:file-as="Sophocles" opf:role="aut">Sophocles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Oedipus (Greek mythological figure) -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sophocles&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:09:18.581789+00:00"/>
+        <meta name="calibre:title_sort" content="Oedipus King of Thebes / Translated into English Rhyming Verse with Explanatory Notes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

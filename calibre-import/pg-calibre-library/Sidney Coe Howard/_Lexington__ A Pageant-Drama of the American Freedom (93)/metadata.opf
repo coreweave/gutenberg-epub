@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff86b2c9-cfb3-4a72-8330-2620f2e683ac</dc:identifier>
+        <dc:title>"Lexington": A Pageant-Drama of the American Freedom</dc:title>
+        <dc:creator opf:file-as="Howard, Sidney Coe" opf:role="aut">Sidney Coe Howard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65048</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lexington</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Mass.</dc:subject>
+        <dc:subject>1775 -- Drama</dc:subject>
+        <dc:subject>Pageants -- Massachusetts -- Lexington</dc:subject>
+        <dc:subject>United States -- History -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sidney Coe Howard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:27:30.349662+00:00"/>
+        <meta name="calibre:title_sort" content="Lexington&quot;: A Pageant-Drama of the American Freedom"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

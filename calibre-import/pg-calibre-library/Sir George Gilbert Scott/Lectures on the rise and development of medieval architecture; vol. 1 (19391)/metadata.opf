@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac98f745-a273-4a64-a329-ba1ae1a1aace</dc:identifier>
+        <dc:title>Lectures on the rise and development of medieval architecture; vol. 1</dc:title>
+        <dc:creator opf:file-as="Scott, George Gilbert, Sir" opf:role="aut">Sir George Gilbert Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61255</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Gothic</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir George Gilbert Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:42:04.153874+00:00"/>
+        <meta name="calibre:title_sort" content="Lectures on the rise and development of medieval architecture; vol. 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

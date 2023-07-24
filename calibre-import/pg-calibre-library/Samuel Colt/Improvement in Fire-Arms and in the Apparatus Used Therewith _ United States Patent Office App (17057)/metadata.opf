@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17057</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79f792ee-c732-4b24-8579-689eb04f3c18</dc:identifier>
+        <dc:title>Improvement in Fire-Arms and in the Apparatus Used Therewith / United States Patent Office Application</dc:title>
+        <dc:creator opf:file-as="Colt, Samuel" opf:role="aut">Samuel Colt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49532</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Patents -- United States</dc:subject>
+        <dc:subject>Firearms -- Patents</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Colt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:20:36.556208+00:00"/>
+        <meta name="calibre:title_sort" content="Improvement in Fire-Arms and in the Apparatus Used Therewith / United States Patent Office Application"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

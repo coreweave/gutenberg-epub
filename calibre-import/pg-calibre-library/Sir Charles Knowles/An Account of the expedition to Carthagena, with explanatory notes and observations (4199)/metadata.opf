@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1820f4c7-7a67-40b1-8543-4f81259e3964</dc:identifier>
+        <dc:title>An Account of the expedition to Carthagena, with explanatory notes and observations</dc:title>
+        <dc:creator opf:file-as="Knowles, Charles, Sir" opf:role="aut">Sir Charles Knowles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27173</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vernon</dc:subject>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>1684-1757</dc:subject>
+        <dc:subject>Wentworth</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>active 1741</dc:subject>
+        <dc:subject>Cartagena (Colombia) -- History -- Siege</dc:subject>
+        <dc:subject>1741</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Charles Knowles&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:36:32.960090+00:00"/>
+        <meta name="calibre:title_sort" content="Account of the expedition to Carthagena, with explanatory notes and observations, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

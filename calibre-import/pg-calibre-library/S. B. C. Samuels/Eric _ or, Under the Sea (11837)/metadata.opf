@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e848bef-335f-4cf2-a7a8-8ee5a6f37f3b</dc:identifier>
+        <dc:title>Eric / or, Under the Sea</dc:title>
+        <dc:creator opf:file-as="Samuels, S. B. C. (Susan Blagge Caldwell)" opf:role="aut">S. B. C. Samuels</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26952</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Deep diving -- Juvenile literature</dc:subject>
+        <dc:subject>Europe -- Description and travel -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. B. C. Samuels&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:37:45.874825+00:00"/>
+        <meta name="calibre:title_sort" content="Eric / or, Under the Sea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

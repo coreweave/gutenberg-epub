@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d44d3db5-3d09-4a04-91ae-2d47f669cde0</dc:identifier>
+        <dc:title>Famous European Artists</dc:title>
+        <dc:creator opf:file-as="Bolton, Sarah Knowles" opf:role="aut">Sarah Knowles Bolton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39380</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artists -- Europe</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Knowles Bolton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:53:50.401552+00:00"/>
+        <meta name="calibre:title_sort" content="Famous European Artists"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

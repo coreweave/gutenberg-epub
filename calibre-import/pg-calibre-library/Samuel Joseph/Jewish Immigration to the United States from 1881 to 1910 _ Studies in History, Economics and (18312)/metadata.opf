@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a37bd205-5363-4130-9af0-9a6b846ad815</dc:identifier>
+        <dc:title>Jewish Immigration to the United States from 1881 to 1910 / Studies in History, Economics and Public Law, Vol. LIX, No. 4, 1914</dc:title>
+        <dc:creator opf:file-as="Joseph, Samuel" opf:role="aut">Samuel Joseph</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35415</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jews -- Europe</dc:subject>
+        <dc:subject>Jews -- United States</dc:subject>
+        <dc:subject>United States -- Emigration and immigration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Joseph&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:03:42.682870+00:00"/>
+        <meta name="calibre:title_sort" content="Jewish Immigration to the United States from 1881 to 1910 / Studies in History, Economics and Public Law, Vol. LIX, No. 4, 1914"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

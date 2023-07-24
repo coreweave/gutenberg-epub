@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d30a7413-6c52-4e79-9fed-c9cc3e42bf60</dc:identifier>
+        <dc:title>The Dare Boys in Vincennes</dc:title>
+        <dc:creator opf:file-as="Cox, Stephen Angus Douglas" opf:role="aut">Stephen Angus Douglas Cox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64017</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Angus Douglas Cox&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:02:31.432071+00:00"/>
+        <meta name="calibre:title_sort" content="Dare Boys in Vincennes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

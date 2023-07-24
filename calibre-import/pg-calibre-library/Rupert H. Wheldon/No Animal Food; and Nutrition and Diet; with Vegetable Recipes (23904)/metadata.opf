@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23904</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5e11dce-696c-4b6c-8513-5fe0fe3ddd5f</dc:identifier>
+        <dc:title>No Animal Food; and Nutrition and Diet; with Vegetable Recipes</dc:title>
+        <dc:creator opf:file-as="Wheldon, Rupert H." opf:role="aut">Rupert H. Wheldon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22829</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vegetarian cooking</dc:subject>
+        <dc:subject>Diet</dc:subject>
+        <dc:subject>Vegetarianism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rupert H. Wheldon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:41:52.378502+00:00"/>
+        <meta name="calibre:title_sort" content="No Animal Food; and Nutrition and Diet; with Vegetable Recipes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

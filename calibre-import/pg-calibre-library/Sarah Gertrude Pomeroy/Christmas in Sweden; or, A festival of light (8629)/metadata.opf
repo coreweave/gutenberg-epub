@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">affaac96-fbd8-4972-b177-5e977d1c7c41</dc:identifier>
+        <dc:title>Christmas in Sweden; or, A festival of light</dc:title>
+        <dc:creator opf:file-as="Pomeroy, Sarah Gertrude" opf:role="aut">Sarah Gertrude Pomeroy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64107</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <dc:subject>Americans -- Sweden -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Gertrude Pomeroy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:13:27.248931+00:00"/>
+        <meta name="calibre:title_sort" content="Christmas in Sweden; or, A festival of light"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

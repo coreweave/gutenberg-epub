@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46b99e6e-ab8c-4005-a3ee-8ae6848ffc95</dc:identifier>
+        <dc:title>Recollections of Thirty-nine Years in the Army / Gwalior and the Battle of Maharajpore, 1843; the Gold Coast of Africa, 1847-48; the Indian Mutiny, 1857-58; the expedition to China, 1860-61; the Siege of Paris, 1870-71; etc.</dc:title>
+        <dc:creator opf:file-as="Gordon, Charles Alexander, Sir" opf:role="aut">Sir Charles Alexander Gordon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47380</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- British occupation</dc:subject>
+        <dc:subject>1765-1947 -- Biography</dc:subject>
+        <dc:subject>Paris (France) -- History -- Siege</dc:subject>
+        <dc:subject>1870-1871 -- Personal narratives</dc:subject>
+        <dc:subject>Gordon</dc:subject>
+        <dc:subject>Charles Alexander</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1821-1899</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Charles Alexander Gordon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:59:55.962678+00:00"/>
+        <meta name="calibre:title_sort" content="Recollections of Thirty-nine Years in the Army / Gwalior and the Battle of Maharajpore, 1843; the Gold Coast of Africa, 1847-48; the Indian Mutiny, 1857-58; the expedition to China, 1860-61; the Siege of Paris, 1870-71; etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

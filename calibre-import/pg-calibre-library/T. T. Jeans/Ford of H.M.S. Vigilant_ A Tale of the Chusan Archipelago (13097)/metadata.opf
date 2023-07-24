@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13097</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c45fbe4-44a5-4d02-b631-02e6e93733e8</dc:identifier>
+        <dc:title>Ford of H.M.S. Vigilant: A Tale of the Chusan Archipelago</dc:title>
+        <dc:creator opf:file-as="Jeans, T. T. (Thomas Tendron)" opf:role="aut">T. T. Jeans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46500</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Sailors -- Fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Fiction</dc:subject>
+        <dc:subject>Zhoushan Archipelago (China) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. T. Jeans&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:13:38.063564+00:00"/>
+        <meta name="calibre:title_sort" content="Ford of H.M.S. Vigilant: A Tale of the Chusan Archipelago"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

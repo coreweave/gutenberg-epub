@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c01c78c-c8f1-497e-bb1e-1a32547b5a37</dc:identifier>
+        <dc:title>The White Plumes of Navarre: A Romance of the Wars of Religion</dc:title>
+        <dc:creator opf:file-as="Crockett, S. R. (Samuel Rutherford)" opf:role="aut">S. R. Crockett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33215</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Wars of the Huguenots</dc:subject>
+        <dc:subject>1562-1598 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. R. Crockett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:21:15.875614+00:00"/>
+        <meta name="calibre:title_sort" content="White Plumes of Navarre: A Romance of the Wars of Religion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17880</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aba15e9f-2949-4ca5-9f11-95bba84668a6</dc:identifier>
+        <dc:title>Ireland In The New Century</dc:title>
+        <dc:creator opf:file-as="Plunkett, Horace Curzon, Sir" opf:role="aut">Sir Horace Curzon Plunkett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14342</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- Economic conditions</dc:subject>
+        <dc:subject>Irish question</dc:subject>
+        <dc:subject>Ireland -- Politics and government -- 1901-1910</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Horace Curzon Plunkett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:48:39.264418+00:00"/>
+        <meta name="calibre:title_sort" content="Ireland In The New Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

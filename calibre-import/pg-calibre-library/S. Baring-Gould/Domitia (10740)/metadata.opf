@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15d7f081-10fa-4357-a0af-11f214192231</dc:identifier>
+        <dc:title>Domitia</dc:title>
+        <dc:creator opf:file-as="Baring-Gould, S. (Sabine)" opf:role="aut">S. Baring-Gould</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43985</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rome -- History -- Nero</dc:subject>
+        <dc:subject>54-68 -- Fiction</dc:subject>
+        <dc:subject>Rome -- History -- Domitian</dc:subject>
+        <dc:subject>81-96 -- Fiction</dc:subject>
+        <dc:subject>Domitia Longina</dc:subject>
+        <dc:subject>Empress</dc:subject>
+        <dc:subject>consort of Domitian</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>approximately 54-approximately 128 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. Baring-Gould&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:07:47.423864+00:00"/>
+        <meta name="calibre:title_sort" content="Domitia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

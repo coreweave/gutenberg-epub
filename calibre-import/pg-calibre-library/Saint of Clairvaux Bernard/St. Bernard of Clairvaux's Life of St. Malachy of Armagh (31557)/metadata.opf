@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e56b0b1-8a28-4b01-aa36-8c0060e633bc</dc:identifier>
+        <dc:title>St. Bernard of Clairvaux's Life of St. Malachy of Armagh</dc:title>
+        <dc:creator opf:file-as="Bernard, of Clairvaux, Saint" opf:role="aut">Saint of Clairvaux Bernard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25761</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Malachy</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1094?-1148</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Saint of Clairvaux Bernard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:25:36.299845+00:00"/>
+        <meta name="calibre:title_sort" content="St. Bernard of Clairvaux's Life of St. Malachy of Armagh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

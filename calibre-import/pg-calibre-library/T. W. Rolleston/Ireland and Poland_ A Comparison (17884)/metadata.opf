@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b3dde76-f563-412d-bb08-e9574b737e86</dc:identifier>
+        <dc:title>Ireland and Poland: A Comparison</dc:title>
+        <dc:creator opf:file-as="Rolleston, T. W. (Thomas William)" opf:role="aut">T. W. Rolleston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27057</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Irish question</dc:subject>
+        <dc:subject>Polish question</dc:subject>
+        <dc:subject>Ireland -- Politics and government -- 1837-1901</dc:subject>
+        <dc:subject>Poland -- Politics and government -- 1796-1918</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. W. Rolleston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:48:48.047359+00:00"/>
+        <meta name="calibre:title_sort" content="Ireland and Poland: A Comparison"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

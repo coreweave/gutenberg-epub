@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">629f9ce4-ec2f-4bf8-be05-3059b2e369db</dc:identifier>
+        <dc:title>The Bloody Theatre, or Martyrs Mirror of the Defenseless Christians / who baptized only upon confession of faith, and who suffered and died for the testimony of Jesus, their savior, from the time of Christ to the year A.D. 1660</dc:title>
+        <dc:creator opf:file-as="Braght, Thieleman J. van (Thieleman Janszoon)" opf:role="aut">Thieleman J. van Braght</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65855</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Persecution</dc:subject>
+        <dc:subject>Christian martyrs -- Biography</dc:subject>
+        <dc:subject>Anabaptists -- Europe -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thieleman J. van Braght&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:03:44.194523+00:00"/>
+        <meta name="calibre:title_sort" content="Bloody Theatre, or Martyrs Mirror of the Defenseless Christians / who baptized only upon confession of faith, and who suffered and died for the testimony of Jesus, their savior, from the time of Christ to the year A.D. 1660, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

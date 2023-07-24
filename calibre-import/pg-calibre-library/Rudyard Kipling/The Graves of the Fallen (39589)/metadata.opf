@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a176f382-734f-4880-994b-b7307c5af7cf</dc:identifier>
+        <dc:title>The Graves of the Fallen</dc:title>
+        <dc:creator opf:file-as="Kipling, Rudyard" opf:role="aut">Rudyard Kipling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soldiers' monuments</dc:subject>
+        <dc:subject>National cemeteries</dc:subject>
+        <dc:subject>British -- France</dc:subject>
+        <dc:subject>British -- Belgium</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rudyard Kipling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:08:57.940415+00:00"/>
+        <meta name="calibre:title_sort" content="Graves of the Fallen, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

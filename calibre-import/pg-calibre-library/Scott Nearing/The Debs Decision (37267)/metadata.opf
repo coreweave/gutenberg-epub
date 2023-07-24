@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f36a88d-f205-41bd-96a1-beb0f3b88719</dc:identifier>
+        <dc:title>The Debs Decision</dc:title>
+        <dc:creator opf:file-as="Nearing, Scott" opf:role="aut">Scott Nearing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20666</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Supreme Court</dc:subject>
+        <dc:subject>Debs</dc:subject>
+        <dc:subject>Eugene V. (Eugene Victor)</dc:subject>
+        <dc:subject>1855-1926</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Scott Nearing&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:08:41.088234+00:00"/>
+        <meta name="calibre:title_sort" content="Debs Decision, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

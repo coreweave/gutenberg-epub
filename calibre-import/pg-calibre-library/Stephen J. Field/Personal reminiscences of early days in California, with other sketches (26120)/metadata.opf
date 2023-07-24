@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54209fbf-94a1-4b19-811e-f0549b31256a</dc:identifier>
+        <dc:title>Personal reminiscences of early days in California, with other sketches</dc:title>
+        <dc:creator opf:file-as="Field, Stephen J. (Stephen Johnson)" opf:role="aut">Stephen J. Field</dc:creator>
+        <dc:creator opf:file-as="Field, Stephen J. (Stephen Johnson)" opf:role="aut">George C. Gorham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Law -- Political aspects -- California</dc:subject>
+        <dc:subject>Mines and mineral resources -- California</dc:subject>
+        <dc:subject>Field</dc:subject>
+        <dc:subject>Stephen J. (Stephen Johnson)</dc:subject>
+        <dc:subject>1816-1899</dc:subject>
+        <dc:subject>Judges -- California -- Biography</dc:subject>
+        <dc:subject>Lawyers -- California -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen J. Field&quot;: &quot;&quot;, &quot;George C. Gorham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:15:54.997287+00:00"/>
+        <meta name="calibre:title_sort" content="Personal reminiscences of early days in California, with other sketches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

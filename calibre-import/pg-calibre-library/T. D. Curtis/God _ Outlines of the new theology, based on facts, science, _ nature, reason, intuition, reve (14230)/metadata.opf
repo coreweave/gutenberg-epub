@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79fc40d1-0caf-444a-8ffa-d6d77120d0e8</dc:identifier>
+        <dc:title>God / Outlines of the new theology, based on facts, science, / nature, reason, intuition, revelation and common sense</dc:title>
+        <dc:creator opf:file-as="Curtis, T. D. (Thomas Day)" opf:role="aut">T. D. Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>God -- Poetry</dc:subject>
+        <dc:subject>Religious poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. D. Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:48:03.199585+00:00"/>
+        <meta name="calibre:title_sort" content="God / Outlines of the new theology, based on facts, science, / nature, reason, intuition, revelation and common sense"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

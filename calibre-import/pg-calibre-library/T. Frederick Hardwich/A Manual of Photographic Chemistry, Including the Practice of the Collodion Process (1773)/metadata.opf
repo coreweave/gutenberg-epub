@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67b035e5-6b21-44c8-a90c-e3a58057e8dd</dc:identifier>
+        <dc:title>A Manual of Photographic Chemistry, Including the Practice of the Collodion Process</dc:title>
+        <dc:creator opf:file-as="Hardwich, T. Frederick" opf:role="aut">T. Frederick Hardwich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63710</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Photography</dc:subject>
+        <dc:subject>Photographic chemistry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. Frederick Hardwich&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:53:25.096192+00:00"/>
+        <meta name="calibre:title_sort" content="Manual of Photographic Chemistry, Including the Practice of the Collodion Process, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

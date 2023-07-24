@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e397cb47-0c6a-49ea-9765-da39a056b715</dc:identifier>
+        <dc:title>William Shakespeare: His Homes and Haunts</dc:title>
+        <dc:creator opf:file-as="Bensusan, S. L. (Samuel Levy)" opf:role="aut">S. L. Bensusan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29611</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Homes and haunts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. L. Bensusan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:23:02.489375+00:00"/>
+        <meta name="calibre:title_sort" content="William Shakespeare: His Homes and Haunts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

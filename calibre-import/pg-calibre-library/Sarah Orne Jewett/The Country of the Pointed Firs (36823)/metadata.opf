@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36823</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cef2d78-8874-4fb8-91b1-3eccbafe47a7</dc:identifier>
+        <dc:title>The Country of the Pointed Firs</dc:title>
+        <dc:creator opf:file-as="Jewett, Sarah Orne" opf:role="aut">Sarah Orne Jewett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/367</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maine -- Fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Pastoral fiction</dc:subject>
+        <dc:subject>Women authors -- Fiction</dc:subject>
+        <dc:subject>Authorship -- Fiction</dc:subject>
+        <dc:subject>Country life -- Fiction</dc:subject>
+        <dc:subject>Seaside resorts -- Fiction</dc:subject>
+        <dc:subject>Summer resorts -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah Orne Jewett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:46:03.483498+00:00"/>
+        <meta name="calibre:title_sort" content="Country of the Pointed Firs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

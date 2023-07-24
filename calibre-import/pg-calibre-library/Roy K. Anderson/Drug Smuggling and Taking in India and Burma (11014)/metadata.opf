@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da8e229c-e61d-4488-b7a4-ee6e0b9918dd</dc:identifier>
+        <dc:title>Drug Smuggling and Taking in India and Burma</dc:title>
+        <dc:creator opf:file-as="Anderson, Roy K." opf:role="aut">Roy K. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61362</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drug addiction -- India</dc:subject>
+        <dc:subject>Drug addiction -- Burma</dc:subject>
+        <dc:subject>Drug traffic -- India</dc:subject>
+        <dc:subject>Drug traffic -- Burma</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy K. Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:15:09.140458+00:00"/>
+        <meta name="calibre:title_sort" content="Drug Smuggling and Taking in India and Burma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

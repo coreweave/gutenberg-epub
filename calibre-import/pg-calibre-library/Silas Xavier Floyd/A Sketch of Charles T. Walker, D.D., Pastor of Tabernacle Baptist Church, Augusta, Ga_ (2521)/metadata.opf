@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd07e4ff-ef01-4629-ab22-9057a0635505</dc:identifier>
+        <dc:title>A Sketch of Charles T. Walker, D.D., Pastor of Tabernacle Baptist Church, Augusta, Ga.</dc:title>
+        <dc:creator opf:file-as="Floyd, Silas Xavier" opf:role="aut">Silas Xavier Floyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65480</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Walker</dc:subject>
+        <dc:subject>Charles T. (Charles Thomas)</dc:subject>
+        <dc:subject>1858-1921</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Silas Xavier Floyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:06:00.379053+00:00"/>
+        <meta name="calibre:title_sort" content="Sketch of Charles T. Walker, D.D., Pastor of Tabernacle Baptist Church, Augusta, Ga., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

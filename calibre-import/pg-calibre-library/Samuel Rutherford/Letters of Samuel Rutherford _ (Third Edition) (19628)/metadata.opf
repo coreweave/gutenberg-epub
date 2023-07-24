@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0a763e2-bf51-455f-8f52-4a3a0a59b0ae</dc:identifier>
+        <dc:title>Letters of Samuel Rutherford / (Third Edition)</dc:title>
+        <dc:creator opf:file-as="Rutherford, Samuel" opf:role="aut">Samuel Rutherford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42557</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rutherford</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1600?-1661 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Rutherford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:50:44.785450+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Samuel Rutherford / (Third Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cce36637-36e2-4e45-b5b9-e720a1b4d87b</dc:identifier>
+        <dc:title>Object Lessons on the Human Body / A Transcript of Lessons Given in the Primary Department of School No. 49, New York City</dc:title>
+        <dc:creator opf:file-as="Buckelew, Sarah F. (Sarah Frances)" opf:role="aut">Sarah F. Buckelew</dc:creator>
+        <dc:creator opf:file-as="Buckelew, Sarah F. (Sarah Frances)" opf:role="aut">Margaret W. Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15435</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physiology</dc:subject>
+        <dc:subject>Hygiene -- Popular works</dc:subject>
+        <dc:subject>Physiology -- Popular works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sarah F. Buckelew&quot;: &quot;&quot;, &quot;Margaret W. Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:06:23.458526+00:00"/>
+        <meta name="calibre:title_sort" content="Object Lessons on the Human Body / A Transcript of Lessons Given in the Primary Department of School No. 49, New York City"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

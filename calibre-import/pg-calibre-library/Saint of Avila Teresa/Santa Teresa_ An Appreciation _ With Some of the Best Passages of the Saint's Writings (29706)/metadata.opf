@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ade6b217-17a4-44e5-ac54-c9f00a02e8c8</dc:identifier>
+        <dc:title>Santa Teresa: An Appreciation / With Some of the Best Passages of the Saint's Writings</dc:title>
+        <dc:creator opf:file-as="Teresa, of Avila, Saint" opf:role="aut">Saint of Avila Teresa</dc:creator>
+        <dc:creator opf:file-as="Teresa, of Avila, Saint" opf:role="aut">Alexander Whyte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19185</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teresa</dc:subject>
+        <dc:subject>of Avila</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1515-1582</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Saint of Avila Teresa&quot;: &quot;&quot;, &quot;Alexander Whyte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:56:37.804288+00:00"/>
+        <meta name="calibre:title_sort" content="Santa Teresa: An Appreciation / With Some of the Best Passages of the Saint's Writings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

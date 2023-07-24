@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db4aebdd-d2be-4702-bfef-5e4a9007d5f7</dc:identifier>
+        <dc:title>Thirty Years From Home; or, a Voice From the Main Deck / Being the Experience of Samuel Leech</dc:title>
+        <dc:creator opf:file-as="Leech, Samuel" opf:role="aut">Samuel Leech</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63273</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure and adventurers</dc:subject>
+        <dc:subject>United States -- History -- War of 1812 -- Personal narratives</dc:subject>
+        <dc:subject>Sailors</dc:subject>
+        <dc:subject>Leech</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1798-1848</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Leech&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:13:31.370454+00:00"/>
+        <meta name="calibre:title_sort" content="Thirty Years From Home; or, a Voice From the Main Deck / Being the Experience of Samuel Leech"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

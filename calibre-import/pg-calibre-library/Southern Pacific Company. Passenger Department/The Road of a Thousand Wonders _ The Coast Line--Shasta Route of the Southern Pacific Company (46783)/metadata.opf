@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2492578-a073-4d4b-9ab5-31627b0889c8</dc:identifier>
+        <dc:title>The Road of a Thousand Wonders / The Coast Line—Shasta Route of the Southern Pacific Company from Los Angeles Through San Francisco, to Portland, a Journey of Over One Thousand Three Hundred Miles</dc:title>
+        <dc:creator opf:file-as="Southern Pacific Company. Passenger Department" opf:role="aut">Southern Pacific Company. Passenger Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48407</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>California -- Description and travel</dc:subject>
+        <dc:subject>Oregon -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Southern Pacific Company. Passenger Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:51:26.827383+00:00"/>
+        <meta name="calibre:title_sort" content="Road of a Thousand Wonders / The Coast Line—Shasta Route of the Southern Pacific Company from Los Angeles Through San Francisco, to Portland, a Journey of Over One Thousand Three Hundred Miles, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ebfbe2c-211a-4d51-a1d9-80d8e00b29c3</dc:identifier>
+        <dc:title>The Plunderer</dc:title>
+        <dc:creator opf:file-as="Norton, Roy" opf:role="aut">Roy Norton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29818</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Miners -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy Norton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:37:59.829970+00:00"/>
+        <meta name="calibre:title_sort" content="Plunderer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

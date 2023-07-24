@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8618e067-1e68-4d61-a217-8df10849a924</dc:identifier>
+        <dc:title>"Captains Courageous": A Story of the Grand Banks</dc:title>
+        <dc:creator opf:file-as="Kipling, Rudyard" opf:role="aut">Rudyard Kipling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2186</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Children of the rich -- Fiction</dc:subject>
+        <dc:subject>Saltwater fishing -- Fiction</dc:subject>
+        <dc:subject>Fishing boats -- Fiction</dc:subject>
+        <dc:subject>Teenage boys -- Fiction</dc:subject>
+        <dc:subject>Rescues -- Fiction</dc:subject>
+        <dc:subject>Fishers -- Fiction</dc:subject>
+        <dc:subject>Grand Banks of Newfoundland -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rudyard Kipling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:42.104814+00:00"/>
+        <meta name="calibre:title_sort" content="Captains Courageous&quot;: A Story of the Grand Banks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

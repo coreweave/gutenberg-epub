@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb82ca7e-bd5f-4aa0-ad9e-24149c8200aa</dc:identifier>
+        <dc:title>Vikram and the Vampire; or, Tales of Hindu Devilry</dc:title>
+        <dc:creator opf:file-as="Burton, Richard Francis, Sir" opf:role="aut">Sir Richard Francis Burton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48511</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tales -- India</dc:subject>
+        <dc:subject>Vampires -- India -- Folklore</dc:subject>
+        <dc:subject>Hindus -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Richard Francis Burton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:12:42.509404+00:00"/>
+        <meta name="calibre:title_sort" content="Vikram and the Vampire; or, Tales of Hindu Devilry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

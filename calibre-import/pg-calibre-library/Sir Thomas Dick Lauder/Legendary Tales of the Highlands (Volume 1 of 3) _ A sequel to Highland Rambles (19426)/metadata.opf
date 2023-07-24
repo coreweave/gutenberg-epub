@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25f0ec64-e23d-4c5e-8e42-ae18753e2c3e</dc:identifier>
+        <dc:title>Legendary Tales of the Highlands (Volume 1 of 3) / A sequel to Highland Rambles</dc:title>
+        <dc:creator opf:file-as="Lauder, Thomas Dick, Sir" opf:role="aut">Sir Thomas Dick Lauder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58913</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legends -- Scotland</dc:subject>
+        <dc:subject>Highlands (Scotland) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Thomas Dick Lauder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:43:20.180086+00:00"/>
+        <meta name="calibre:title_sort" content="Legendary Tales of the Highlands (Volume 1 of 3) / A sequel to Highland Rambles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

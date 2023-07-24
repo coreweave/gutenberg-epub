@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6efd1852-4bd4-41eb-befe-4c3f1410e4be</dc:identifier>
+        <dc:title>The Mentor: Belgium the Brave, Vol. 8, Num. 3, Serial No. 199, March 15, 1920</dc:title>
+        <dc:creator opf:file-as="Wood, Ruth Kedzie" opf:role="aut">Ruth Kedzie Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49645</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Belgium -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruth Kedzie Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:36:28.452547+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: Belgium the Brave, Vol. 8, Num. 3, Serial No. 199, March 15, 1920, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

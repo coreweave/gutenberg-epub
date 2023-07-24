@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">821e3227-37d8-4277-b54b-3fde0e6da16d</dc:identifier>
+        <dc:title>The Home of the Blizzard / Being the Story of the Australasian Antarctic Expedition, 1911-1914</dc:title>
+        <dc:creator opf:file-as="Mawson, Douglas, Sir" opf:role="aut">Sir Douglas Mawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6137</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Antarctica -- Discovery and exploration</dc:subject>
+        <dc:subject>Australasian Antarctic Expedition (1911-1914)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Douglas Mawson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:02:12.218590+00:00"/>
+        <meta name="calibre:title_sort" content="Home of the Blizzard / Being the Story of the Australasian Antarctic Expedition, 1911-1914, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

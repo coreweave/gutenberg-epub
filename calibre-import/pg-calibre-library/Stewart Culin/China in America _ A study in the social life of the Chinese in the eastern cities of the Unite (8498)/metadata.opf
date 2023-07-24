@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da79f144-3085-48d1-aabd-33e1d7560724</dc:identifier>
+        <dc:title>China in America / A study in the social life of the Chinese in the eastern cities of the United States</dc:title>
+        <dc:creator opf:file-as="Culin, Stewart" opf:role="aut">Stewart Culin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43421</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chinese -- United States -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stewart Culin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:10:13.227866+00:00"/>
+        <meta name="calibre:title_sort" content="China in America / A study in the social life of the Chinese in the eastern cities of the United States"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

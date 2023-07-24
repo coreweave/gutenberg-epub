@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">914</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8f2f84a-f4cd-4af5-803b-5a8b76bd50e6</dc:identifier>
+        <dc:title>A Diplomatic Adventure</dc:title>
+        <dc:creator opf:file-as="Mitchell, S. Weir (Silas Weir)" opf:role="aut">S. Weir Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30585</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <dc:subject>France -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;S. Weir Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:44.998228+00:00"/>
+        <meta name="calibre:title_sort" content="Diplomatic Adventure, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

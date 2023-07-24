@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">063a041c-4982-4ce4-a50b-c99374cc82e2</dc:identifier>
+        <dc:title>Chitta Ranjan</dc:title>
+        <dc:creator opf:file-as="Das, Sukumar Ranjan" opf:role="aut">Sukumar Ranjan Das</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41897</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Das</dc:subject>
+        <dc:subject>Chitta Ranjan</dc:subject>
+        <dc:subject>1870-1925</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sukumar Ranjan Das&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:10:59.591341+00:00"/>
+        <meta name="calibre:title_sort" content="Chitta Ranjan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

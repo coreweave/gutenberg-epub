@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b4e48d0-b229-49a7-846e-615ba17a72f3</dc:identifier>
+        <dc:title>Bob: The Story of Our Mocking-bird</dc:title>
+        <dc:creator opf:file-as="Lanier, Sidney" opf:role="aut">Sidney Lanier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47924</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mockingbirds</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sidney Lanier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:32.315111+00:00"/>
+        <meta name="calibre:title_sort" content="Bob: The Story of Our Mocking-bird"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

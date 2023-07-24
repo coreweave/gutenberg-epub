@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57c7ffee-f5ec-43e1-94c6-8ae4296c4b5f</dc:identifier>
+        <dc:title>Babbitt</dc:title>
+        <dc:creator opf:file-as="Lewis, Sinclair" opf:role="aut">Sinclair Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1156</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Businessmen -- Fiction</dc:subject>
+        <dc:subject>Middle-aged men -- Fiction</dc:subject>
+        <dc:subject>Conformity -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sinclair Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:04:25.724591+00:00"/>
+        <meta name="calibre:title_sort" content="Babbitt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

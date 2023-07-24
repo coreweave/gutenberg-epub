@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b084491-5057-4cdd-a0c7-00e95bff4d71</dc:identifier>
+        <dc:title>Every Man His Own University</dc:title>
+        <dc:creator opf:file-as="Conwell, Russell H." opf:role="aut">Russell H. Conwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36955</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Self-culture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Russell H. Conwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:45:12.110009+00:00"/>
+        <meta name="calibre:title_sort" content="Every Man His Own University"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

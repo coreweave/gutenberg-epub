@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7b75e95-e418-4e10-9075-e73b8e8507f1</dc:identifier>
+        <dc:title>Camps and Trails in China / A Narrative of Exploration, Adventure, and Sport in Little-Known China</dc:title>
+        <dc:creator opf:file-as="Andrews, Roy Chapman" opf:role="aut">Roy Chapman Andrews</dc:creator>
+        <dc:creator opf:file-as="Andrews, Roy Chapman" opf:role="aut">Yvette Borup Andrews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12296</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>China -- Description and travel</dc:subject>
+        <dc:subject>Andrews</dc:subject>
+        <dc:subject>Roy Chapman</dc:subject>
+        <dc:subject>1884-1960</dc:subject>
+        <dc:subject>Yvette Borup</dc:subject>
+        <dc:subject>Heller</dc:subject>
+        <dc:subject>Edmund</dc:subject>
+        <dc:subject>1875-1939</dc:subject>
+        <dc:subject>Asiatic Zoölogical Expedition (1916-1917)</dc:subject>
+        <dc:subject>Natural history -- China -- Yunnan Sheng</dc:subject>
+        <dc:subject>Zoology -- China -- Yunnan Sheng</dc:subject>
+        <dc:subject>Hunting -- China -- Yunnan Sheng</dc:subject>
+        <dc:subject>Yunnan Sheng (China) -- Description and travel</dc:subject>
+        <dc:subject>China -- Social life and customs -- 1912-1949</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy Chapman Andrews&quot;: &quot;&quot;, &quot;Yvette Borup Andrews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:47:10.255839+00:00"/>
+        <meta name="calibre:title_sort" content="Camps and Trails in China / A Narrative of Exploration, Adventure, and Sport in Little-Known China"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

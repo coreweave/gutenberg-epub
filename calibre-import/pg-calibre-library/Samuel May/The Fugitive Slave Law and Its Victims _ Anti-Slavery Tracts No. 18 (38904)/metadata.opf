@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38904</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee0e0fba-9bdd-4460-85ca-a1f1da0757d3</dc:identifier>
+        <dc:title>The Fugitive Slave Law and Its Victims / Anti-Slavery Tracts No. 18</dc:title>
+        <dc:creator opf:file-as="May, Samuel" opf:role="aut">Samuel May</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13990</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Fugitive slave law (1850)</dc:subject>
+        <dc:subject>Fugitive slaves -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel May&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:33:22.560394+00:00"/>
+        <meta name="calibre:title_sort" content="Fugitive Slave Law and Its Victims / Anti-Slavery Tracts No. 18, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

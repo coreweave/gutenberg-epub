@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4ff9703-f0e3-451e-9540-c7ad92e337b0</dc:identifier>
+        <dc:title>God the Known and God the Unknown</dc:title>
+        <dc:creator opf:file-as="Butler, Samuel" opf:role="aut">Samuel Butler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>God</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Butler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:47:45.721899+00:00"/>
+        <meta name="calibre:title_sort" content="God the Known and God the Unknown"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

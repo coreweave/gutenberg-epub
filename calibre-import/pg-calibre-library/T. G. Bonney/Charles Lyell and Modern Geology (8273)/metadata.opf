@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">146445a5-2513-4caa-9a98-85bbeb180751</dc:identifier>
+        <dc:title>Charles Lyell and Modern Geology</dc:title>
+        <dc:creator opf:file-as="Bonney, T. G. (Thomas George)" opf:role="aut">T. G. Bonney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34502</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lyell</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1797-1875</dc:subject>
+        <dc:subject>Geology -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. G. Bonney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:04:40.286020+00:00"/>
+        <meta name="calibre:title_sort" content="Charles Lyell and Modern Geology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

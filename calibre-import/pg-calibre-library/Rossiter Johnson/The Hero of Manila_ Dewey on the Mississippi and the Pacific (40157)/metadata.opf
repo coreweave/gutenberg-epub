@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cc6f8ef-2cf2-4d7f-8c85-7e076c955ac2</dc:identifier>
+        <dc:title>The Hero of Manila: Dewey on the Mississippi and the Pacific</dc:title>
+        <dc:creator opf:file-as="Johnson, Rossiter" opf:role="aut">Rossiter Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48404</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Naval operations</dc:subject>
+        <dc:subject>Dewey</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1837-1917</dc:subject>
+        <dc:subject>Manila Bay</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Philippines</dc:subject>
+        <dc:subject>1898</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rossiter Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:39:03.617024+00:00"/>
+        <meta name="calibre:title_sort" content="Hero of Manila: Dewey on the Mississippi and the Pacific, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

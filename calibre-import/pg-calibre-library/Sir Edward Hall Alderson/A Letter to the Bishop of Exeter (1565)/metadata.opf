@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1565</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5737ca82-59f2-4714-ac9b-1a6c2feb17c4</dc:identifier>
+        <dc:title>A Letter to the Bishop of Exeter</dc:title>
+        <dc:creator opf:file-as="Alderson, Edward Hall, Sir" opf:role="aut">Sir Edward Hall Alderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58105</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Privy Council. Judicial Committee</dc:subject>
+        <dc:subject>Gorham</dc:subject>
+        <dc:subject>George Cornelius -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Phillpotts</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1778-1869 -- Trials</dc:subject>
+        <dc:subject>Baptism -- Law and legislation -- England -- History -- 19th century</dc:subject>
+        <dc:subject>Baptism -- Church of England -- History of doctrines -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Edward Hall Alderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:50:04.074644+00:00"/>
+        <meta name="calibre:title_sort" content="Letter to the Bishop of Exeter, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

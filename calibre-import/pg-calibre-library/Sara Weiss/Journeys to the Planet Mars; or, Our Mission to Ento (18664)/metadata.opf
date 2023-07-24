@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">598a0b9e-5600-45cc-93b8-77f9f2d52473</dc:identifier>
+        <dc:title>Journeys to the Planet Mars; or, Our Mission to Ento</dc:title>
+        <dc:creator opf:file-as="Weiss, Sara" opf:role="aut">Sara Weiss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mars (Planet) -- Miscellanea</dc:subject>
+        <dc:subject>Spirit writings</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sara Weiss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:16:04.638595+00:00"/>
+        <meta name="calibre:title_sort" content="Journeys to the Planet Mars; or, Our Mission to Ento"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

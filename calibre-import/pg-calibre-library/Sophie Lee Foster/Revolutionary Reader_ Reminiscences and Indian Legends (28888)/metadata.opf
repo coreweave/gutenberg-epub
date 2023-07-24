@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dabf73ac-de71-4f5a-8fcc-05229d6a724a</dc:identifier>
+        <dc:title>Revolutionary Reader: Reminiscences and Indian Legends</dc:title>
+        <dc:creator opf:file-as="Foster, Sophie Lee" opf:role="aut">Sophie Lee Foster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46400</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America</dc:subject>
+        <dc:subject>Georgia -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sophie Lee Foster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:19:13.228695+00:00"/>
+        <meta name="calibre:title_sort" content="Revolutionary Reader: Reminiscences and Indian Legends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

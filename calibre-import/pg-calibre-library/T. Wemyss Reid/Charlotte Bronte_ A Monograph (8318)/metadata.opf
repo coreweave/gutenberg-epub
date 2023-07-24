@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fedf3fe3-e6d3-4324-93ca-91996e51d5f2</dc:identifier>
+        <dc:title>Charlotte Brontë: A Monograph</dc:title>
+        <dc:creator opf:file-as="Reid, T. Wemyss (Thomas Wemyss)" opf:role="aut">T. Wemyss Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37888</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brontë family</dc:subject>
+        <dc:subject>Brontë</dc:subject>
+        <dc:subject>Charlotte</dc:subject>
+        <dc:subject>1816-1855</dc:subject>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. Wemyss Reid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:05:46.296393+00:00"/>
+        <meta name="calibre:title_sort" content="Charlotte Brontë: A Monograph"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31039</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">601450c7-0896-4cef-9153-7b7e69237eac</dc:identifier>
+        <dc:title>Social Transformations of the Victorian Age: A Survey of Court and Country</dc:title>
+        <dc:creator opf:file-as="Escott, T. H. S. (Thomas Hay Sweet)" opf:role="aut">T. H. S. Escott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Social life and customs -- 19th century</dc:subject>
+        <dc:subject>Great Britain -- Civilization -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. H. S. Escott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:01:04.605504+00:00"/>
+        <meta name="calibre:title_sort" content="Social Transformations of the Victorian Age: A Survey of Court and Country"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

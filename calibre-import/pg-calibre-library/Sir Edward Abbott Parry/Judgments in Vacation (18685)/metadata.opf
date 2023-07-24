@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e100b6a5-0289-4390-9d17-f6d49de993cf</dc:identifier>
+        <dc:title>Judgments in Vacation</dc:title>
+        <dc:creator opf:file-as="Parry, Edward Abbott, Sir" opf:role="aut">Sir Edward Abbott Parry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64898</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Law -- Great Britain -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Edward Abbott Parry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:16:49.888376+00:00"/>
+        <meta name="calibre:title_sort" content="Judgments in Vacation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

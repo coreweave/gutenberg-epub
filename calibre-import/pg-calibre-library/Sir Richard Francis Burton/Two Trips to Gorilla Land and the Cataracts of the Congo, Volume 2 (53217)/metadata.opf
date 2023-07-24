@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1e5401a-4c3c-4a29-8bc2-0c0edcf6e285</dc:identifier>
+        <dc:title>Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2</dc:title>
+        <dc:creator opf:file-as="Burton, Richard Francis, Sir" opf:role="aut">Sir Richard Francis Burton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5761</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Africa</dc:subject>
+        <dc:subject>West -- Description and travel</dc:subject>
+        <dc:subject>Ethnology -- Africa</dc:subject>
+        <dc:subject>West</dc:subject>
+        <dc:subject>Congo River -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Richard Francis Burton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:32:17.995062+00:00"/>
+        <meta name="calibre:title_sort" content="Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

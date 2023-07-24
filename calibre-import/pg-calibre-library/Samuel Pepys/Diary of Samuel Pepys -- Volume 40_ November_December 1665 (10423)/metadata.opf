@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d21da176-f0fb-467e-99e4-e41ffcb65f34</dc:identifier>
+        <dc:title>Diary of Samuel Pepys — Volume 40: November/December 1665</dc:title>
+        <dc:creator opf:file-as="Pepys, Samuel" opf:role="aut">Samuel Pepys</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4161</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pepys</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1633-1703 -- Diaries</dc:subject>
+        <dc:subject>Cabinet officers -- Great Britain -- Diaries</dc:subject>
+        <dc:subject>Diarists -- Great Britain -- Diaries</dc:subject>
+        <dc:subject>Great Britain -- Social life and customs -- 17th century -- Sources</dc:subject>
+        <dc:subject>Great Britain -- History -- Charles II</dc:subject>
+        <dc:subject>1660-1685 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Samuel Pepys&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:59:15.453021+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of Samuel Pepys — Volume 40: November/December 1665"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

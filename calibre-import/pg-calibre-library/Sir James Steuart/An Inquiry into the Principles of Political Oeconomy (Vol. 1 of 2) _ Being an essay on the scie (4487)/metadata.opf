@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a373b24-cda5-49e6-8da4-32aa9f044ce7</dc:identifier>
+        <dc:title>An Inquiry into the Principles of Political Oeconomy (Vol. 1 of 2) / Being an essay on the science of domestic policy in free nations. In which are particularly considered population, agriculture, trade, industry, money, coin, interest, circulation, banks, exchange, public credit, and taxes</dc:title>
+        <dc:creator opf:file-as="Steuart, James, Sir" opf:role="aut">Sir James Steuart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60411</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir James Steuart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:42:04.811618+00:00"/>
+        <meta name="calibre:title_sort" content="Inquiry into the Principles of Political Oeconomy (Vol. 1 of 2) / Being an essay on the science of domestic policy in free nations. In which are particularly considered population, agriculture, trade, industry, money, coin, interest, circulation, banks, exchange, public credit, and taxes, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

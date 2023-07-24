@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79e397af-7e0a-4078-a6b7-a70060cfac49</dc:identifier>
+        <dc:title>Builders of United Italy</dc:title>
+        <dc:creator opf:file-as="Holland, Rupert Sargent" opf:role="aut">Rupert Sargent Holland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43607</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Garibaldi</dc:subject>
+        <dc:subject>Giuseppe</dc:subject>
+        <dc:subject>1807-1882</dc:subject>
+        <dc:subject>Italy -- History -- 1849-1870</dc:subject>
+        <dc:subject>Cavour</dc:subject>
+        <dc:subject>Camillo Benso</dc:subject>
+        <dc:subject>conte di</dc:subject>
+        <dc:subject>1810-1861</dc:subject>
+        <dc:subject>Manzoni</dc:subject>
+        <dc:subject>Alessandro</dc:subject>
+        <dc:subject>1785-1873</dc:subject>
+        <dc:subject>Manin</dc:subject>
+        <dc:subject>Daniele</dc:subject>
+        <dc:subject>1804-1857</dc:subject>
+        <dc:subject>Mazzini</dc:subject>
+        <dc:subject>1805-1872</dc:subject>
+        <dc:subject>Alfieri</dc:subject>
+        <dc:subject>Vittorio</dc:subject>
+        <dc:subject>1749-1803</dc:subject>
+        <dc:subject>Victor Emmanuel II</dc:subject>
+        <dc:subject>King of Italy</dc:subject>
+        <dc:subject>1820-1878</dc:subject>
+        <dc:subject>Gioberti</dc:subject>
+        <dc:subject>Vincenzo</dc:subject>
+        <dc:subject>1801-1852</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rupert Sargent Holland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:40:15.179494+00:00"/>
+        <meta name="calibre:title_sort" content="Builders of United Italy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f15e0e8-6c53-43ee-98c8-72b449707530</dc:identifier>
+        <dc:title>Two Months in the Camp of Big Bear</dc:title>
+        <dc:creator opf:file-as="Delaney, Theresa" opf:role="aut">Theresa Delaney</dc:creator>
+        <dc:creator opf:file-as="Delaney, Theresa" opf:role="aut">Theresa Gowanlock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6604</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gowanlock</dc:subject>
+        <dc:subject>Theresa</dc:subject>
+        <dc:subject>1863-1899 -- Captivity</dc:subject>
+        <dc:subject>Delaney</dc:subject>
+        <dc:subject>1849-1913 -- Captivity</dc:subject>
+        <dc:subject>Big Bear</dc:subject>
+        <dc:subject>(Cree chief)</dc:subject>
+        <dc:subject>Cree Indians -- Alberta -- History -- 19th century</dc:subject>
+        <dc:subject>Riel Rebellion</dc:subject>
+        <dc:subject>1885</dc:subject>
+        <dc:subject>Frog Lake (Alta.) -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theresa Delaney&quot;: &quot;&quot;, &quot;Theresa Gowanlock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:30:27.611093+00:00"/>
+        <meta name="calibre:title_sort" content="Two Months in the Camp of Big Bear"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

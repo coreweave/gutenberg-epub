@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38963</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de380e69-a4ef-4f5f-a38d-6dd78e1a2fa3</dc:identifier>
+        <dc:title>The Galloping Ghost / A Mystery Story for Boys</dc:title>
+        <dc:creator opf:file-as="Snell, Roy J. (Roy Judson)" opf:role="aut">Roy J. Snell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43853</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kidnapping -- Juvenile fiction</dc:subject>
+        <dc:subject>Escapes -- Juvenile fiction</dc:subject>
+        <dc:subject>Ghosts -- Juvenile fiction</dc:subject>
+        <dc:subject>Football stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy J. Snell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:36:23.858103+00:00"/>
+        <meta name="calibre:title_sort" content="Galloping Ghost / A Mystery Story for Boys, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

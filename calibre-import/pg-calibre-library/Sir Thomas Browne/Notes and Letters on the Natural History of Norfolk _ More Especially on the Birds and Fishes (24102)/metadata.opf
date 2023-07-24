@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94db2d0c-9b4f-499f-9492-26adf45fe729</dc:identifier>
+        <dc:title>Notes and Letters on the Natural History of Norfolk / More Especially on the Birds and Fishes</dc:title>
+        <dc:creator opf:file-as="Browne, Thomas, Sir" opf:role="aut">Sir Thomas Browne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35888</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- England -- Norfolk</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Thomas Browne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:50:41.080742+00:00"/>
+        <meta name="calibre:title_sort" content="Notes and Letters on the Natural History of Norfolk / More Especially on the Birds and Fishes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

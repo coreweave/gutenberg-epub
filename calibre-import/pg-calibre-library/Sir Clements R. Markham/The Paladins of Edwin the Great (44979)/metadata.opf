@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44979</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b59066f7-3d9b-46b4-b803-06e2698752df</dc:identifier>
+        <dc:title>The Paladins of Edwin the Great</dc:title>
+        <dc:creator opf:file-as="Markham, Clements R. (Clements Robert), Sir" opf:role="aut">Sir Clements R. Markham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45543</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Anglo-Saxon period</dc:subject>
+        <dc:subject>449-1066 -- Fiction</dc:subject>
+        <dc:subject>Edwin</dc:subject>
+        <dc:subject>King of Northumbria</dc:subject>
+        <dc:subject>585?-633 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Clements R. Markham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:06:35.902744+00:00"/>
+        <meta name="calibre:title_sort" content="Paladins of Edwin the Great, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e440ea99-328f-47c5-8544-a65ae522694f</dc:identifier>
+        <dc:title>The Home Life of Poe</dc:title>
+        <dc:creator opf:file-as="Weiss, Susan Archer Talley" opf:role="aut">Susan Archer Talley Weiss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33930</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poe</dc:subject>
+        <dc:subject>Edgar Allan</dc:subject>
+        <dc:subject>1809-1849</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>1809-1849 -- Homes and haunts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Susan Archer Talley Weiss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:01:40.753180+00:00"/>
+        <meta name="calibre:title_sort" content="Home Life of Poe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74c55135-56fd-4644-8cf4-c48b1d84046f</dc:identifier>
+        <dc:title>The Messenger of the Black Prince</dc:title>
+        <dc:creator opf:file-as="Mawhinney, Thomas A. H." opf:role="aut">Thomas A. H. Mawhinney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50193</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>Prince of Wales</dc:subject>
+        <dc:subject>1330-1376 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas A. H. Mawhinney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:41:53.819268+00:00"/>
+        <meta name="calibre:title_sort" content="Messenger of the Black Prince, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

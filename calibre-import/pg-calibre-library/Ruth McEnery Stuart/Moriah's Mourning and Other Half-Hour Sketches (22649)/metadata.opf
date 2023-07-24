@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">366c66a2-85e8-414f-b27e-091cf681fa2f</dc:identifier>
+        <dc:title>Moriah's Mourning and Other Half-Hour Sketches</dc:title>
+        <dc:creator opf:file-as="Stuart, Ruth McEnery" opf:role="aut">Ruth McEnery Stuart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louisiana -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Plantation life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruth McEnery Stuart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:48:25.977464+00:00"/>
+        <meta name="calibre:title_sort" content="Moriah's Mourning and Other Half-Hour Sketches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

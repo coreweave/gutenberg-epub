@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfe09d03-0ea4-412f-9835-c0bf42ce5657</dc:identifier>
+        <dc:title>George Du Maurier, the Satirist of the Victorians</dc:title>
+        <dc:creator opf:file-as="Wood, T. Martin" opf:role="aut">T. Martin Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14392</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Du Maurier</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1834-1896</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. Martin Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:39:41.572071+00:00"/>
+        <meta name="calibre:title_sort" content="George Du Maurier, the Satirist of the Victorians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30362</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31f9d00b-e715-4f61-90b7-a3b077a8b5b5</dc:identifier>
+        <dc:title>Shackleton in the Antarctic: Being the story of the British Antarctic expedition, 1907-1909</dc:title>
+        <dc:creator opf:file-as="Shackleton, Ernest Henry, Sir" opf:role="aut">Sir Ernest Henry Shackleton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69138</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British Antarctic Expedition (1907-1909)</dc:subject>
+        <dc:subject>Antarctica -- Discovery and exploration -- British</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Ernest Henry Shackleton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:29:11.068427+00:00"/>
+        <meta name="calibre:title_sort" content="Shackleton in the Antarctic: Being the story of the British Antarctic expedition, 1907-1909"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

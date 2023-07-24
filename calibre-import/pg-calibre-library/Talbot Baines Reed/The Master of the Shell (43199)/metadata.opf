@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">110c7047-7fb7-44ce-91fa-a60a93162627</dc:identifier>
+        <dc:title>The Master of the Shell</dc:title>
+        <dc:creator opf:file-as="Reed, Talbot Baines" opf:role="aut">Talbot Baines Reed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boarding schools -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>Rowing -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Boats and boating -- Juvenile fiction</dc:subject>
+        <dc:subject>Students -- Juvenile fiction</dc:subject>
+        <dc:subject>Teachers -- Juvenile fiction</dc:subject>
+        <dc:subject>Oxford and Cambridge Boat Race</dc:subject>
+        <dc:subject>England -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Talbot Baines Reed&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:26:04.039554+00:00"/>
+        <meta name="calibre:title_sort" content="Master of the Shell, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

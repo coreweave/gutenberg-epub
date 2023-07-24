@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2566e397-a7a5-4916-9670-3b9eac2e1571</dc:identifier>
+        <dc:title>A Literary Pilgrimage Among the Haunts of Famous British Authors</dc:title>
+        <dc:creator opf:file-as="Wolfe, Theodore F. (Theodore Frelinghuysen)" opf:role="aut">Theodore F. Wolfe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38890</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- Homes and haunts -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Intellectual life</dc:subject>
+        <dc:subject>Literary landmarks -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Theodore F. Wolfe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:50:50.314077+00:00"/>
+        <meta name="calibre:title_sort" content="Literary Pilgrimage Among the Haunts of Famous British Authors, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

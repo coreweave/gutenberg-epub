@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81632d96-c964-4f90-a51b-657e4a548a67</dc:identifier>
+        <dc:title>Travels in France during the years 1814-15 / Comprising a residence at Paris, during the stay of the allied armies, and at Aix, at the period of the landing of Bonaparte, in two volumes.</dc:title>
+        <dc:creator opf:file-as="Alison, Archibald, Sir" opf:role="aut">Sir Archibald Alison</dc:creator>
+        <dc:creator opf:file-as="Alison, Archibald, Sir" opf:role="aut">Patrick Fraser Tytler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27410</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Description and travel</dc:subject>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Elba and the Hundred Days</dc:subject>
+        <dc:subject>1814-1815</dc:subject>
+        <dc:subject>Alison</dc:subject>
+        <dc:subject>Archibald</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1792-1867</dc:subject>
+        <dc:subject>Paris (France) -- History -- Capitulation</dc:subject>
+        <dc:subject>1814 -- Personal narratives</dc:subject>
+        <dc:subject>France -- History -- 1789-1815</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Archibald Alison&quot;: &quot;&quot;, &quot;Patrick Fraser Tytler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:03:51.041142+00:00"/>
+        <meta name="calibre:title_sort" content="Travels in France during the years 1814-15 / Comprising a residence at Paris, during the stay of the allied armies, and at Aix, at the period of the landing of Bonaparte, in two volumes."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

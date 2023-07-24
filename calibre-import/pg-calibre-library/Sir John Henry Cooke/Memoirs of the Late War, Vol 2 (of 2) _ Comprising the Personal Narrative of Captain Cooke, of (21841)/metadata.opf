@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">036e6b0e-1284-4475-8f41-c2c7cf727e12</dc:identifier>
+        <dc:title>Memoirs of the Late War, Vol 2 (of 2) / Comprising the Personal Narrative of Captain Cooke, of the 43rd Regiment Light Infantry; the History of the Campaign of 1809 in Portugal, by the Earl of Munster; and a Narrative of the Campaign of 1814 in Holland, by Lieut. T. W. D. Moodie, H. P. 21st Fusileers</dc:title>
+        <dc:creator opf:file-as="Cooke, John Henry, Sir" opf:role="aut">Sir John Henry Cooke</dc:creator>
+        <dc:creator opf:file-as="Cooke, John Henry, Sir" opf:role="aut">J. W. Dunbar Moodie</dc:creator>
+        <dc:creator opf:file-as="Cooke, John Henry, Sir" opf:role="aut">Earl of George Augustus Frederick FitzClarence Munster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55953</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- History -- 1789-1815</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir John Henry Cooke&quot;: &quot;&quot;, &quot;J. W. Dunbar Moodie&quot;: &quot;&quot;, &quot;Earl of George Augustus Frederick FitzClarence Munster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:15:43.905817+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Late War, Vol 2 (of 2) / Comprising the Personal Narrative of Captain Cooke, of the 43rd Regiment Light Infantry; the History of the Campaign of 1809 in Portugal, by the Earl of Munster; and a Narrative of the Campaign of 1814 in Holland, by Lieut. T. W. D. Moodie, H. P. 21st Fusileers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

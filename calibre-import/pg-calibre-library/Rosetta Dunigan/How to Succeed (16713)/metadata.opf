@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1622b148-8600-46b6-8037-dcfb93cc31b8</dc:identifier>
+        <dc:title>How to Succeed</dc:title>
+        <dc:creator opf:file-as="Dunigan, Rosetta" opf:role="aut">Rosetta Dunigan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60200</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Success</dc:subject>
+        <dc:subject>Conduct of life</dc:subject>
+        <dc:subject>African Americans -- Conduct of life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rosetta Dunigan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:08:56.652205+00:00"/>
+        <meta name="calibre:title_sort" content="How to Succeed"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

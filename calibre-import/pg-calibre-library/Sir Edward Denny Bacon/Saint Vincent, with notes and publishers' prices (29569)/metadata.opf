@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5056501b-46c7-49b6-9221-4b90925901e0</dc:identifier>
+        <dc:title>Saint Vincent, with notes and publishers' prices</dc:title>
+        <dc:creator opf:file-as="Bacon, Edward Denny, Sir" opf:role="aut">Sir Edward Denny Bacon</dc:creator>
+        <dc:creator opf:file-as="Bacon, Edward Denny, Sir" opf:role="aut">Francis John Hamilton Scott Napier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58472</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postage stamps -- Saint Vincent and the Grenadines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Edward Denny Bacon&quot;: &quot;&quot;, &quot;Francis John Hamilton Scott Napier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:50:15.273851+00:00"/>
+        <meta name="calibre:title_sort" content="Saint Vincent, with notes and publishers' prices"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

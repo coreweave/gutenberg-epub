@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf4472a2-a367-4806-b4bf-9ef52e29c9f3</dc:identifier>
+        <dc:title>The Adventures of Chatterer the Red Squirrel</dc:title>
+        <dc:creator opf:file-as="Burgess, Thornton W. (Thornton Waldo)" opf:role="aut">Thornton W. Burgess</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37952</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Squirrels -- Juvenile fiction</dc:subject>
+        <dc:subject>Cowardice -- Juvenile fiction</dc:subject>
+        <dc:subject>Trust -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thornton W. Burgess&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:40:32.912301+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Chatterer the Red Squirrel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

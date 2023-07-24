@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7c708a9-e990-41f5-bca4-632c665b7783</dc:identifier>
+        <dc:title>Buenos Ayres and the Provinces of the Rio de La Plata / Their Present State, Trade, and Debt</dc:title>
+        <dc:creator opf:file-as="Parish, Woodbine, Sir" opf:role="aut">Sir Woodbine Parish</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47169</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Argentina -- Description and travel</dc:subject>
+        <dc:subject>Argentina -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Woodbine Parish&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:39:34.542234+00:00"/>
+        <meta name="calibre:title_sort" content="Buenos Ayres and the Provinces of the Rio de La Plata / Their Present State, Trade, and Debt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8d49479-d55a-4bf4-8e43-423b80259fcd</dc:identifier>
+        <dc:title>The Open Secret of Ireland</dc:title>
+        <dc:creator opf:file-as="Kettle, Tom" opf:role="aut">Tom Kettle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15277</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home rule -- Ireland</dc:subject>
+        <dc:subject>Unionism (Irish politics)</dc:subject>
+        <dc:subject>Ulster (Northern Ireland and Ireland) -- Politics and government</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tom Kettle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:55:27.959275+00:00"/>
+        <meta name="calibre:title_sort" content="Open Secret of Ireland, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

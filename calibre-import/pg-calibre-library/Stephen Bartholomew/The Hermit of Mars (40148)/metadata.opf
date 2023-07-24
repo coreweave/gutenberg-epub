@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e4b14a7-9bb3-4736-8a35-c3b380172c2c</dc:identifier>
+        <dc:title>The Hermit of Mars</dc:title>
+        <dc:creator opf:file-as="Bartholomew, Stephen" opf:role="aut">Stephen Bartholomew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53048</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Mars (Planet) -- Fiction</dc:subject>
+        <dc:subject>Archaeologists -- Fiction</dc:subject>
+        <dc:subject>Weapons -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen Bartholomew&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:38:35.974646+00:00"/>
+        <meta name="calibre:title_sort" content="Hermit of Mars, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

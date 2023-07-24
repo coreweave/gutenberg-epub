@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9945</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">651de991-d858-4922-8586-0ee5fd7e23ad</dc:identifier>
+        <dc:title>Daughters of the Puritans: A Group of Brief Biographies</dc:title>
+        <dc:creator opf:file-as="Beach, Seth Curtis" opf:role="aut">Seth Curtis Beach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25582</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sedgwick</dc:subject>
+        <dc:subject>Catharine Maria</dc:subject>
+        <dc:subject>1789-1867</dc:subject>
+        <dc:subject>Ware</dc:subject>
+        <dc:subject>Mary L. (Mary Lovell)</dc:subject>
+        <dc:subject>1798-1849</dc:subject>
+        <dc:subject>Child</dc:subject>
+        <dc:subject>Lydia Maria Francis</dc:subject>
+        <dc:subject>1802-1880</dc:subject>
+        <dc:subject>Dix</dc:subject>
+        <dc:subject>Dorothea Lynde</dc:subject>
+        <dc:subject>1802-1887</dc:subject>
+        <dc:subject>Fuller</dc:subject>
+        <dc:subject>Margaret</dc:subject>
+        <dc:subject>1810-1850</dc:subject>
+        <dc:subject>Stowe</dc:subject>
+        <dc:subject>Harriet Beecher</dc:subject>
+        <dc:subject>1811-1896</dc:subject>
+        <dc:subject>Alcott</dc:subject>
+        <dc:subject>Louisa May</dc:subject>
+        <dc:subject>1832-1888</dc:subject>
+        <dc:subject>Women -- New England -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Seth Curtis Beach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:46:40.421552+00:00"/>
+        <meta name="calibre:title_sort" content="Daughters of the Puritans: A Group of Brief Biographies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fef023bb-542a-40b0-a91b-c72d210660e7</dc:identifier>
+        <dc:title>Friday, the Thirteenth: A Novel</dc:title>
+        <dc:creator opf:file-as="Lawson, Thomas William" opf:role="aut">Thomas William Lawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12345</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Financial crises -- Fiction</dc:subject>
+        <dc:subject>Stock exchanges -- United States -- Fiction</dc:subject>
+        <dc:subject>National banks (United States) -- Fiction</dc:subject>
+        <dc:subject>Banks and banking</dc:subject>
+        <dc:subject>International -- Fiction</dc:subject>
+        <dc:subject>American -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas William Lawson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:25:47.036831+00:00"/>
+        <meta name="calibre:title_sort" content="Friday, the Thirteenth: A Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

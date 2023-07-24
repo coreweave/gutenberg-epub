@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dde65b8-2825-4da1-86ee-e0a90df22953</dc:identifier>
+        <dc:title>Biographical Memorials of James Oglethorpe / Founder of the Colony of Georgia, in North America.</dc:title>
+        <dc:creator opf:file-as="Harris, Thaddeus Mason" opf:role="aut">Thaddeus Mason Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10677</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Oglethorpe</dc:subject>
+        <dc:subject>James Edward</dc:subject>
+        <dc:subject>1696-1785</dc:subject>
+        <dc:subject>Georgia -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thaddeus Mason Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:20:48.892605+00:00"/>
+        <meta name="calibre:title_sort" content="Biographical Memorials of James Oglethorpe / Founder of the Colony of Georgia, in North America."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

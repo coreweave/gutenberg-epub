@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c280bba2-3a56-47a7-86be-adef283d1862</dc:identifier>
+        <dc:title>The Preaching of Islam: A History of the Propagation of the Muslim Faith</dc:title>
+        <dc:creator opf:file-as="Arnold, Thomas Walker, Sir" opf:role="aut">Sir Thomas Walker Arnold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66960</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Islam -- Relations</dc:subject>
+        <dc:subject>Islam -- History</dc:subject>
+        <dc:subject>Islam -- Missions -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sir Thomas Walker Arnold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:54:03.414634+00:00"/>
+        <meta name="calibre:title_sort" content="Preaching of Islam: A History of the Propagation of the Muslim Faith, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

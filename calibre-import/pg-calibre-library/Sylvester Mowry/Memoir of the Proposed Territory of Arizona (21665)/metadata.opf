@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d88f784-d7b9-4124-9fe4-44fac75a66b3</dc:identifier>
+        <dc:title>Memoir of the Proposed Territory of Arizona</dc:title>
+        <dc:creator opf:file-as="Mowry, Sylvester" opf:role="aut">Sylvester Mowry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2382</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gadsden Purchase</dc:subject>
+        <dc:subject>Arizona -- Politics and government</dc:subject>
+        <dc:subject>Arizona -- History -- To 1912</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sylvester Mowry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:08:38.599748+00:00"/>
+        <meta name="calibre:title_sort" content="Memoir of the Proposed Territory of Arizona"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

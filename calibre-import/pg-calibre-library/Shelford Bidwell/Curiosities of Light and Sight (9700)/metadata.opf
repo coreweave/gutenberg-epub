@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0bb6453-d5ba-4db7-ae73-87857cf4577b</dc:identifier>
+        <dc:title>Curiosities of Light and Sight</dc:title>
+        <dc:creator opf:file-as="Bidwell, Shelford" opf:role="aut">Shelford Bidwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40119</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Light</dc:subject>
+        <dc:subject>Vision</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shelford Bidwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:40:22.489606+00:00"/>
+        <meta name="calibre:title_sort" content="Curiosities of Light and Sight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

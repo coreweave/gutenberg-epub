@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14a4da38-6e9a-43ff-af39-ed8bba428021</dc:identifier>
+        <dc:title>The Goat-gland Transplantation / As Originated and Successfully Performed by J. R. Brinkley, M. D., of Milford, Kansas, U. S. A., in Over 600 Operations Upon Men and Women</dc:title>
+        <dc:creator opf:file-as="Flower, Sydney Blanshard" opf:role="aut">Sydney Blanshard Flower</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29362</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brinkley</dc:subject>
+        <dc:subject>John Richard</dc:subject>
+        <dc:subject>1885-1942</dc:subject>
+        <dc:subject>Transplantation of organs</dc:subject>
+        <dc:subject>tissues</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sydney Blanshard Flower&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:57:44.827508+00:00"/>
+        <meta name="calibre:title_sort" content="Goat-gland Transplantation / As Originated and Successfully Performed by J. R. Brinkley, M. D., of Milford, Kansas, U. S. A., in Over 600 Operations Upon Men and Women, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

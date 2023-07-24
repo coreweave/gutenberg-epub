@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5b20114-71ce-4ece-9c0c-e7d0b280031b</dc:identifier>
+        <dc:title>Outlook Odes</dc:title>
+        <dc:creator opf:file-as="Crosland, T. W. H. (Thomas William Hodgson)" opf:role="aut">T. W. H. Crosland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37085</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. W. H. Crosland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:48:59.531286+00:00"/>
+        <meta name="calibre:title_sort" content="Outlook Odes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

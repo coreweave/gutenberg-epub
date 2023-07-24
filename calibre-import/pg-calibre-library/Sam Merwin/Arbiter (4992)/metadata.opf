@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd548d7c-4c3e-49ea-b123-965e360d5446</dc:identifier>
+        <dc:title>Arbiter</dc:title>
+        <dc:creator opf:file-as="Merwin, Sam" opf:role="aut">Sam Merwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70173</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Conspiracies -- Fiction</dc:subject>
+        <dc:subject>Space colonies -- Fiction</dc:subject>
+        <dc:subject>Diplomats -- Fiction</dc:subject>
+        <dc:subject>Detective and mystery stories -- Appreciation -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sam Merwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:52:03.857728+00:00"/>
+        <meta name="calibre:title_sort" content="Arbiter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efd30fb5-e7d2-49ed-9fa4-5b0f3448419d</dc:identifier>
+        <dc:title>Helen in the Editor's Chair</dc:title>
+        <dc:creator opf:file-as="Wheeler, Ruthe S." opf:role="aut">Ruthe S. Wheeler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42015</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>High school students -- Juvenile fiction</dc:subject>
+        <dc:subject>Family -- Juvenile fiction</dc:subject>
+        <dc:subject>Businesswomen -- Juvenile fiction</dc:subject>
+        <dc:subject>Women in journalism -- Juvenile fiction</dc:subject>
+        <dc:subject>Women in the mass media industry -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ruthe S. Wheeler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:27:09.098884+00:00"/>
+        <meta name="calibre:title_sort" content="Helen in the Editor's Chair"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

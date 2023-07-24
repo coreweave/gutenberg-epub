@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b918f88-9571-4c7c-9207-4d7f60842313</dc:identifier>
+        <dc:title>Fiue Hundred Pointes of Good Husbandrie</dc:title>
+        <dc:creator opf:file-as="Tusser, Thomas" opf:role="aut">Thomas Tusser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51764</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home economics</dc:subject>
+        <dc:subject>Agriculture -- Early works to 1800</dc:subject>
+        <dc:subject>English language -- Terms and phrases -- Early works to 1800</dc:subject>
+        <dc:subject>English language -- Provincialisms -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Tusser&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:05:11.205449+00:00"/>
+        <meta name="calibre:title_sort" content="Fiue Hundred Pointes of Good Husbandrie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

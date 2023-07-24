@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61fd5a0d-5456-46fb-b2d5-7d64144a29b1</dc:identifier>
+        <dc:title>Select Books Published by Mr. T. Fisher Unwin</dc:title>
+        <dc:creator opf:file-as="T. Fisher Unwin (Firm)" opf:role="aut">T. Fisher Unwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Publishers' catalogs -- England -- London</dc:subject>
+        <dc:subject>T. Fisher Unwin (Firm) -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;T. Fisher Unwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:17:31.220335+00:00"/>
+        <meta name="calibre:title_sort" content="Select Books Published by Mr. T. Fisher Unwin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
