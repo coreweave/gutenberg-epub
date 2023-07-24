@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18a49a91-1691-417e-82f8-00df4031c757</dc:identifier>
+        <dc:title>Report of the Committee Appointed to Investigate the Railroad Riots in July, 1877 / Read in the Senate and House of Representatives May 23, 1878</dc:title>
+        <dc:creator opf:file-as="Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July, 1877" opf:role="aut">1877 Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42766</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pennsylvania Railroad</dc:subject>
+        <dc:subject>Railroad Strike</dc:subject>
+        <dc:subject>U.S.</dc:subject>
+        <dc:subject>1877</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;1877 Pennsylvania. General Assembly. Committee Appointed to Investigate the Railroad Riots in July&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:13:21.051037+00:00"/>
+        <meta name="calibre:title_sort" content="Report of the Committee Appointed to Investigate the Railroad Riots in July, 1877 / Read in the Senate and House of Representatives May 23, 1878"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

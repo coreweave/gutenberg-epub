@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47e403cd-dabf-46e0-b663-9aa981159d75</dc:identifier>
+        <dc:title>West Virginia Trees</dc:title>
+        <dc:creator opf:file-as="Brooks, A. B. (Alonzo Beecher)" opf:role="aut">A. B. Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53433</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trees -- Identification</dc:subject>
+        <dc:subject>Trees -- West Virginia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. B. Brooks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:45:42.119679+00:00"/>
+        <meta name="calibre:title_sort" content="West Virginia Trees"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

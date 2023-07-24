@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d78c07e8-4d8b-488f-bf09-04265afb302d</dc:identifier>
+        <dc:title>In and Out of Rebel Prisons</dc:title>
+        <dc:creator opf:file-as="Cooper, A. (Alonzo)" opf:role="aut">A. Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31895</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Prisoners and prisons</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Soldiers -- New York (State) -- Biography</dc:subject>
+        <dc:subject>New York (State) -- Biography</dc:subject>
+        <dc:subject>Cooper</dc:subject>
+        <dc:subject>A. (Alonzo)</dc:subject>
+        <dc:subject>1830-1919</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Cooper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:26:31.663659+00:00"/>
+        <meta name="calibre:title_sort" content="In and Out of Rebel Prisons"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

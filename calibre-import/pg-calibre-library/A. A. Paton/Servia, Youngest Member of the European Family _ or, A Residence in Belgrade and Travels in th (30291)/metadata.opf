@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">562df417-84d6-42a4-82ea-06952d66408f</dc:identifier>
+        <dc:title>Servia, Youngest Member of the European Family / or, A Residence in Belgrade and Travels in the Highlands and Woodlands of the Interior, during the years 1843 and 1844.</dc:title>
+        <dc:creator opf:file-as="Paton, A. A. (Andrew Archibald)" opf:role="aut">A. A. Paton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16999</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Serbia -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. A. Paton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:25:36.542560+00:00"/>
+        <meta name="calibre:title_sort" content="Servia, Youngest Member of the European Family / or, A Residence in Belgrade and Travels in the Highlands and Woodlands of the Interior, during the years 1843 and 1844."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

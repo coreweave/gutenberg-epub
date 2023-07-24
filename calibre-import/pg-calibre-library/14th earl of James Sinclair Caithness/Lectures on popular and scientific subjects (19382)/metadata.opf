@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53e7b66c-dac0-46f1-8d1c-1087fc257267</dc:identifier>
+        <dc:title>Lectures on popular and scientific subjects</dc:title>
+        <dc:creator opf:file-as="Caithness, James Sinclair, 14th earl of" opf:role="aut">14th earl of James Sinclair Caithness</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Industrial arts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;14th earl of James Sinclair Caithness&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:41:45.591403+00:00"/>
+        <meta name="calibre:title_sort" content="Lectures on popular and scientific subjects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

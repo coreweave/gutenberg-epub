@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77d23c88-3db1-4c71-b43f-40f7a848056d</dc:identifier>
+        <dc:title>"The Flu": a brief history of influenza in U.S. America, Europe, Hawaii</dc:title>
+        <dc:creator opf:file-as="Mouritz, A. A. St. M. (Arthur Albert St. M.)" opf:role="aut">A. A. St. M. Mouritz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61607</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Influenza</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. A. St. M. Mouritz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:28:30.510239+00:00"/>
+        <meta name="calibre:title_sort" content="Flu&quot;: a brief history of influenza in U.S. America, Europe, Hawaii, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

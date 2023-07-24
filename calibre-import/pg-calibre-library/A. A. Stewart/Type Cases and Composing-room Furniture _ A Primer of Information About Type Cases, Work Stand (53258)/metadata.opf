@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ab16e20-c022-4437-9c11-e8bce20a31e2</dc:identifier>
+        <dc:title>Type Cases and Composing-room Furniture / A Primer of Information About Type Cases, Work Stands, Cabinets, Case Racks, Galley Racks, Standing Galleys, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Stewart, A. A. (Alexander A.)" opf:role="aut">A. A. Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31704</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Printers' furniture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. A. Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:34:54.437463+00:00"/>
+        <meta name="calibre:title_sort" content="Type Cases and Composing-room Furniture / A Primer of Information About Type Cases, Work Stands, Cabinets, Case Racks, Galley Racks, Standing Galleys, &amp;c."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

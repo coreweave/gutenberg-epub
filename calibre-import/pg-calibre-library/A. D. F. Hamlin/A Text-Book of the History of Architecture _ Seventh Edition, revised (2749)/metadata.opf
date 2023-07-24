@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f24d621-9856-4725-aa1b-1a3f6973d4d2</dc:identifier>
+        <dc:title>A Text-Book of the History of Architecture / Seventh Edition, revised</dc:title>
+        <dc:creator opf:file-as="Hamlin, A. D. F. (Alfred Dwight Foster)" opf:role="aut">A. D. F. Hamlin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26319</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. D. F. Hamlin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:09:56.673081+00:00"/>
+        <meta name="calibre:title_sort" content="Text-Book of the History of Architecture / Seventh Edition, revised, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

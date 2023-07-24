@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69a5e621-062b-41b5-ad2f-0bd87fcd6499</dc:identifier>
+        <dc:title>Survival at Altitude for Heavy and Very Heavy Bomber Crews</dc:title>
+        <dc:creator opf:file-as="United States. Army Air Forces. Air Force, 2nd. Altitude Indoctrination Unit" opf:role="aut">2nd. Altitude Indoctrination Unit United States. Army Air Forces. Air Force</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66809</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Army Air Forces -- Equipment -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Airplanes -- Oxygen equipment -- Handbooks</dc:subject>
+        <dc:subject>Bombers -- Equipment -- Handbooks</dc:subject>
+        <dc:subject>Breathing apparatus -- Handbooks</dc:subject>
+        <dc:subject>Soldiers -- United States -- Handbooks</dc:subject>
+        <dc:subject>Aeronautics -- Safety measures</dc:subject>
+        <dc:subject>B-17 bomber</dc:subject>
+        <dc:subject>B-24 (Bomber)</dc:subject>
+        <dc:subject>B-29 (Bomber)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;2nd. Altitude Indoctrination Unit United States. Army Air Forces. Air Force&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:02:30.506439+00:00"/>
+        <meta name="calibre:title_sort" content="Survival at Altitude for Heavy and Very Heavy Bomber Crews"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
