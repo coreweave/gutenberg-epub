@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44cc1352-9ebc-4ee6-b810-b8e81e7a901a</dc:identifier>
+        <dc:title>Europe in the Sixteenth Century, 1494-1598, Fifth Edition / Period 4 (of 8), Periods of European History</dc:title>
+        <dc:creator opf:file-as="Johnson, A. H. (Arthur Henry)" opf:role="aut">A. H. Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42025</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- History -- 1492-1648</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. H. Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:43:42.294363+00:00"/>
+        <meta name="calibre:title_sort" content="Europe in the Sixteenth Century, 1494-1598, Fifth Edition / Period 4 (of 8), Periods of European History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

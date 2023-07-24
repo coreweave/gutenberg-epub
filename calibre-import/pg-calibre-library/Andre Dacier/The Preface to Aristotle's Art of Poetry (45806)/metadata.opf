@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5973a09-0599-47ee-83b3-b01035cb1eec</dc:identifier>
+        <dc:title>The Preface to Aristotle's Art of Poetry</dc:title>
+        <dc:creator opf:file-as="Dacier, André" opf:role="aut">André Dacier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29547</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aristotle</dc:subject>
+        <dc:subject>384 BC-322 BC. Poetics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;André Dacier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:54:16.354730+00:00"/>
+        <meta name="calibre:title_sort" content="Preface to Aristotle's Art of Poetry, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

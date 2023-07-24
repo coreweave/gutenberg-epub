@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9e7f43f-f545-4677-aa94-13ed864bfddc</dc:identifier>
+        <dc:title>Soyer's Culinary Campaign: Being Historical Reminiscences of the Late War. / With The Plain Art of Cookery for Military and Civil Institutions</dc:title>
+        <dc:creator opf:file-as="Soyer, Alexis" opf:role="aut">Alexis Soyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42544</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crimean War</dc:subject>
+        <dc:subject>1853-1856</dc:subject>
+        <dc:subject>Cooking for military personnel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexis Soyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:16:33.147512+00:00"/>
+        <meta name="calibre:title_sort" content="Soyer's Culinary Campaign: Being Historical Reminiscences of the Late War. / With The Plain Art of Cookery for Military and Civil Institutions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b40bb436-c565-4df8-b293-6e80a552bb07</dc:identifier>
+        <dc:title>Recollections of Captain Wilkie: A Story of an Old Offender</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66088</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Physicians -- Fiction</dc:subject>
+        <dc:subject>Criminals -- Fiction</dc:subject>
+        <dc:subject>Storytelling -- Fiction</dc:subject>
+        <dc:subject>Railroad travel -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:59:32.049444+00:00"/>
+        <meta name="calibre:title_sort" content="Recollections of Captain Wilkie: A Story of an Old Offender"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ef463a2-61b9-4848-a8cc-056b34ce323b</dc:identifier>
+        <dc:title>The Expressman and the Detective</dc:title>
+        <dc:creator opf:file-as="Pinkerton, Allan" opf:role="aut">Allan Pinkerton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22155</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pinkerton</dc:subject>
+        <dc:subject>Allan</dc:subject>
+        <dc:subject>1819-1884</dc:subject>
+        <dc:subject>Detectives -- United States -- Biography</dc:subject>
+        <dc:subject>Robbery -- United States -- Case studies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Allan Pinkerton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:00:56.352735+00:00"/>
+        <meta name="calibre:title_sort" content="Expressman and the Detective, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

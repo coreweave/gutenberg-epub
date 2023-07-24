@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af89522e-b017-4d00-9c5d-5e4980dbc178</dc:identifier>
+        <dc:title>Fromont and Risler — Volume 3</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3978</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paris (France) -- Fiction</dc:subject>
+        <dc:subject>French fiction -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:30:45.457105+00:00"/>
+        <meta name="calibre:title_sort" content="Fromont and Risler — Volume 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

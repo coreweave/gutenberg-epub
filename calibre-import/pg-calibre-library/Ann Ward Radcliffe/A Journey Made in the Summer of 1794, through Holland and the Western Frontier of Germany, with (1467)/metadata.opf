@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe58ffdf-f1a1-4aef-83ca-d292d1fdf30c</dc:identifier>
+        <dc:title>A Journey Made in the Summer of 1794, through Holland and the Western Frontier of Germany, with a Return Down the Rhine, Vol. 2 (of 2) / To Which Are Added Observations during a Tour to the Lakes of Lancashire, Westmoreland, and Cumberland; Second Edition</dc:title>
+        <dc:creator opf:file-as="Radcliffe, Ann Ward" opf:role="aut">Ann Ward Radcliffe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64218</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel -- Early works to 1800</dc:subject>
+        <dc:subject>Radcliffe</dc:subject>
+        <dc:subject>Ann Ward</dc:subject>
+        <dc:subject>1764-1823 -- Travel -- Europe</dc:subject>
+        <dc:subject>Lake District (England) -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ann Ward Radcliffe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:48:30.021272+00:00"/>
+        <meta name="calibre:title_sort" content="Journey Made in the Summer of 1794, through Holland and the Western Frontier of Germany, with a Return Down the Rhine, Vol. 2 (of 2) / To Which Are Added Observations during a Tour to the Lakes of Lancashire, Westmoreland, and Cumberland; Second Edition, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

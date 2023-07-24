@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a26de638-3246-4af1-b4df-a40a33cc0ca3</dc:identifier>
+        <dc:title>The Practice of the Presence of God</dc:title>
+        <dc:creator opf:file-as="Lawrence, of the Resurrection, Brother" opf:role="aut">Brother of the Resurrection Lawrence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Catholic authors</dc:subject>
+        <dc:subject>Spiritual life -- Catholic Church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brother of the Resurrection Lawrence&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:52:34.872479+00:00"/>
+        <meta name="calibre:title_sort" content="Practice of the Presence of God, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

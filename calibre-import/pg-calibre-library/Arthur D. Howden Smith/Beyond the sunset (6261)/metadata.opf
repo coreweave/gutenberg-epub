@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e2cedf0-a20b-451b-abfe-4383dc7bcfe1</dc:identifier>
+        <dc:title>Beyond the sunset</dc:title>
+        <dc:creator opf:file-as="Smith, Arthur D. Howden (Arthur Douglas Howden)" opf:role="aut">Arthur D. Howden Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70077</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Race relations -- Fiction</dc:subject>
+        <dc:subject>Grief -- Fiction</dc:subject>
+        <dc:subject>Indian mythology -- North America -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur D. Howden Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:18:29.217389+00:00"/>
+        <meta name="calibre:title_sort" content="Beyond the sunset"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

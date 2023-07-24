@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89c1018b-72de-4cd9-a04a-cb8a0500c58c</dc:identifier>
+        <dc:title>Turkey: a Past and a Future</dc:title>
+        <dc:creator opf:file-as="Toynbee, Arnold" opf:role="aut">Arnold Toynbee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Eastern question</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Turkey</dc:subject>
+        <dc:subject>Turkey -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arnold Toynbee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:19:47.158282+00:00"/>
+        <meta name="calibre:title_sort" content="Turkey: a Past and a Future"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

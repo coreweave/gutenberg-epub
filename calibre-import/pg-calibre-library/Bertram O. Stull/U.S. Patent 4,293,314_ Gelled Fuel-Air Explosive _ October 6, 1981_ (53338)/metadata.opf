@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47b1f31a-76ab-4414-ae24-7de8876387ee</dc:identifier>
+        <dc:title>U.S. Patent 4,293,314: Gelled Fuel-Air Explosive / October 6, 1981.</dc:title>
+        <dc:creator opf:file-as="Stull, Bertram O." opf:role="aut">Bertram O. Stull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26106</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Explosives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bertram O. Stull&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:40:04.758770+00:00"/>
+        <meta name="calibre:title_sort" content="U.S. Patent 4,293,314: Gelled Fuel-Air Explosive / October 6, 1981."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

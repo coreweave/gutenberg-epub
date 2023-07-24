@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4b458b7-5a11-41c4-a773-979d6f1071f8</dc:identifier>
+        <dc:title>Narrative of the Overland Expedition of the Messrs. Jardine from Rockhampton to Cape York, Northern Queensland</dc:title>
+        <dc:creator opf:file-as="Jardine, Alexander" opf:role="aut">Alexander Jardine</dc:creator>
+        <dc:creator opf:file-as="Jardine, Alexander" opf:role="aut">Frank Lascelles Jardine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4521</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Queensland -- Discovery and exploration</dc:subject>
+        <dc:subject>Jardine</dc:subject>
+        <dc:subject>Frank Lascelles -- Travel -- Australia -- Queensland</dc:subject>
+        <dc:subject>Alexander -- Travel -- Australia -- Queensland</dc:subject>
+        <dc:subject>Queensland -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Jardine&quot;: &quot;&quot;, &quot;Frank Lascelles Jardine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:26:07.389176+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Overland Expedition of the Messrs. Jardine from Rockhampton to Cape York, Northern Queensland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

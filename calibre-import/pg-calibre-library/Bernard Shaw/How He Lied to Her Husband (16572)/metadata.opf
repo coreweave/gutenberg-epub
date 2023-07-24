@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b51c4dc-abe2-47b6-be6f-cfb2f28c7849</dc:identifier>
+        <dc:title>How He Lied to Her Husband</dc:title>
+        <dc:creator opf:file-as="Shaw, Bernard" opf:role="aut">Bernard Shaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3544</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English drama (Comedy)</dc:subject>
+        <dc:subject>Marriage -- Drama</dc:subject>
+        <dc:subject>Triangles (Interpersonal relations) -- Drama</dc:subject>
+        <dc:subject>London (England) -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernard Shaw&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:04:18.571424+00:00"/>
+        <meta name="calibre:title_sort" content="How He Lied to Her Husband"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

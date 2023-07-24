@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21023</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7eb11e52-72c7-480c-9cf3-af861542acf3</dc:identifier>
+        <dc:title>Man, Past and Present</dc:title>
+        <dc:creator opf:file-as="Keane, A. H. (Augustus Henry)" opf:role="aut">A. H. Keane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35685</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethnology</dc:subject>
+        <dc:subject>Anthropology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. H. Keane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:43:13.860115+00:00"/>
+        <meta name="calibre:title_sort" content="Man, Past and Present"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

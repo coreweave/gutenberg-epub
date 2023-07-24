@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a9b45b9-ad5f-49ac-a2f5-a921bebfcf29</dc:identifier>
+        <dc:title>The Life of John Marshall, Volume 4: The building of the nation, 1815-1835</dc:title>
+        <dc:creator opf:file-as="Beveridge, Albert J. (Albert Jeremiah)" opf:role="aut">Albert J. Beveridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40533</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Statesmen -- United States -- Biography</dc:subject>
+        <dc:subject>Marshall</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1755-1835</dc:subject>
+        <dc:subject>United States. Supreme Court -- Biography</dc:subject>
+        <dc:subject>Judges -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert J. Beveridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:30:53.279838+00:00"/>
+        <meta name="calibre:title_sort" content="Life of John Marshall, Volume 4: The building of the nation, 1815-1835, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">700d81f6-5845-4ef6-80ec-316926030b90</dc:identifier>
+        <dc:title>Simla Village Tales; Or, Folk Tales from the Himalayas</dc:title>
+        <dc:creator opf:file-as="Dracott, Alice" opf:role="aut">Alice Dracott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tales -- India</dc:subject>
+        <dc:subject>Folklore -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alice Dracott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:41:34.473944+00:00"/>
+        <meta name="calibre:title_sort" content="Simla Village Tales; Or, Folk Tales from the Himalayas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

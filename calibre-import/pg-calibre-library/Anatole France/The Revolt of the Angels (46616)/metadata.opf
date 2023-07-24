@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46616</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5c53cda-16f7-44f1-ad56-5276451df321</dc:identifier>
+        <dc:title>The Revolt of the Angels</dc:title>
+        <dc:creator opf:file-as="France, Anatole" opf:role="aut">Anatole France</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32596</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>French fiction -- Translations into English</dc:subject>
+        <dc:subject>Angels -- Fiction</dc:subject>
+        <dc:subject>French wit and humor -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anatole France&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:41:30.360178+00:00"/>
+        <meta name="calibre:title_sort" content="Revolt of the Angels, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

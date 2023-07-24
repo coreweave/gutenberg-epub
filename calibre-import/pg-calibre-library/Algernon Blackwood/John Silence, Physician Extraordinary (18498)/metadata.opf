@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c1022a7-4b62-4dd0-ab31-00649fc03132</dc:identifier>
+        <dc:title>John Silence, Physician Extraordinary</dc:title>
+        <dc:creator opf:file-as="Blackwood, Algernon" opf:role="aut">Algernon Blackwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49222</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horror tales</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Ghost stories</dc:subject>
+        <dc:subject>Silence</dc:subject>
+        <dc:subject>John (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Psychics -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Algernon Blackwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:10:12.849801+00:00"/>
+        <meta name="calibre:title_sort" content="John Silence, Physician Extraordinary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

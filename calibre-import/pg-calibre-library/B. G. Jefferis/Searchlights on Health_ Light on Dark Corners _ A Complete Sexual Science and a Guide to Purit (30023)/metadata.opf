@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30023</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afbd16f5-b6b2-4e16-a555-3fcf94fcf481</dc:identifier>
+        <dc:title>Searchlights on Health: Light on Dark Corners / A Complete Sexual Science and a Guide to Purity and Physical Manhood, Advice To Maiden, Wife, And Mother, Love, Courtship, And Marriage</dc:title>
+        <dc:creator opf:file-as="Jefferis, B. G. (Benjamin Grant)" opf:role="aut">B. G. Jefferis</dc:creator>
+        <dc:creator opf:file-as="Jefferis, B. G. (Benjamin Grant)" opf:role="aut">J. L. Nichols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23609</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marriage</dc:subject>
+        <dc:subject>Medicine</dc:subject>
+        <dc:subject>Popular</dc:subject>
+        <dc:subject>Sexual ethics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. G. Jefferis&quot;: &quot;&quot;, &quot;J. L. Nichols&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:11:48.150517+00:00"/>
+        <meta name="calibre:title_sort" content="Searchlights on Health: Light on Dark Corners / A Complete Sexual Science and a Guide to Purity and Physical Manhood, Advice To Maiden, Wife, And Mother, Love, Courtship, And Marriage"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

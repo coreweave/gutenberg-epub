@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">836e7c3d-19fb-4e28-946b-6b30a2f1309c</dc:identifier>
+        <dc:title>The Stephens Family: A Genealogy of the Descendants of Joshua Stevens</dc:title>
+        <dc:creator opf:file-as="Stephens, Bascom Asbury Cecil" opf:role="aut">Bascom Asbury Cecil Stephens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26173</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stevens family</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bascom Asbury Cecil Stephens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:11:48.662501+00:00"/>
+        <meta name="calibre:title_sort" content="Stephens Family: A Genealogy of the Descendants of Joshua Stevens, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

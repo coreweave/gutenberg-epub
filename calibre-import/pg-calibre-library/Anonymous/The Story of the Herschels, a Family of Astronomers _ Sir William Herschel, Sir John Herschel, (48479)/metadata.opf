@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">000cf8e8-10b0-4494-a430-dbb014ea7e1d</dc:identifier>
+        <dc:title>The Story of the Herschels, a Family of Astronomers / Sir William Herschel, Sir John Herschel, Caroline Herschel</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12340</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Herschel</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1738-1822</dc:subject>
+        <dc:subject>John F. W. (John Frederick William)</dc:subject>
+        <dc:subject>1792-1871</dc:subject>
+        <dc:subject>Caroline Lucretia</dc:subject>
+        <dc:subject>1750-1848</dc:subject>
+        <dc:subject>Astronomers -- England -- Biography -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:32:00.249426+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the Herschels, a Family of Astronomers / Sir William Herschel, Sir John Herschel, Caroline Herschel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77ad6cb4-3649-4642-be6c-74f076d129e3</dc:identifier>
+        <dc:title>Green Bays. Verses and Parodies</dc:title>
+        <dc:creator opf:file-as="Quiller-Couch, Arthur" opf:role="aut">Arthur Quiller-Couch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16898</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Parodies</dc:subject>
+        <dc:subject>Omar Khayyam -- Parodies</dc:subject>
+        <dc:subject>imitations</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>University of Oxford -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Quiller-Couch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:59:57.511630+00:00"/>
+        <meta name="calibre:title_sort" content="Green Bays. Verses and Parodies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

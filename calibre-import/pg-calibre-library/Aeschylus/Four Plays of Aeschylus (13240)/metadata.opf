@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03fd1a2c-1cd2-4f05-b431-8ee09f757343</dc:identifier>
+        <dc:title>Four Plays of Aeschylus</dc:title>
+        <dc:creator opf:file-as="Aeschylus" opf:role="aut">Aeschylus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8714</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Greek -- Drama</dc:subject>
+        <dc:subject>Aeschylus -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aeschylus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:17:50.854658+00:00"/>
+        <meta name="calibre:title_sort" content="Four Plays of Aeschylus"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

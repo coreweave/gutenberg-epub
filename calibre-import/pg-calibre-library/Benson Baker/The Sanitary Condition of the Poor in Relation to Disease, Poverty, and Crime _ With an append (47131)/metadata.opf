@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01e8fdb4-1c3a-47c7-93eb-61c3f9a93230</dc:identifier>
+        <dc:title>The Sanitary Condition of the Poor in Relation to Disease, Poverty, and Crime / With an appendix on the control and prevention of infectious diseases</dc:title>
+        <dc:creator opf:file-as="Baker, Benson" opf:role="aut">Benson Baker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53877</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sanitation</dc:subject>
+        <dc:subject>Household</dc:subject>
+        <dc:subject>Poor -- Health and hygiene -- Great Britain</dc:subject>
+        <dc:subject>Sanitation -- Great Britain</dc:subject>
+        <dc:subject>Communicable diseases -- Prevention</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benson Baker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:11:55.160707+00:00"/>
+        <meta name="calibre:title_sort" content="Sanitary Condition of the Poor in Relation to Disease, Poverty, and Crime / With an appendix on the control and prevention of infectious diseases, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

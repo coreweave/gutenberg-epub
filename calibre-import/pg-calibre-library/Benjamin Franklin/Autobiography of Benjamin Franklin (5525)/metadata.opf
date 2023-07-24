@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcb1cf2d-3ffa-44bc-9996-ef7488f8a4fb</dc:identifier>
+        <dc:title>Autobiography of Benjamin Franklin</dc:title>
+        <dc:creator opf:file-as="Franklin, Benjamin" opf:role="aut">Benjamin Franklin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Franklin</dc:subject>
+        <dc:subject>Benjamin</dc:subject>
+        <dc:subject>1706-1790</dc:subject>
+        <dc:subject>Statesmen -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin Franklin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:02:54.682757+00:00"/>
+        <meta name="calibre:title_sort" content="Autobiography of Benjamin Franklin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

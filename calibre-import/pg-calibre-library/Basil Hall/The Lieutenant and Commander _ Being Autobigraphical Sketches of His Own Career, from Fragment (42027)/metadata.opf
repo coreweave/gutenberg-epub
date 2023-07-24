@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec64d431-b1b8-4c3e-8dc8-1ac5cd1afd3d</dc:identifier>
+        <dc:title>The Lieutenant and Commander / Being Autobigraphical Sketches of His Own Career, from Fragments of Voyages and Travels</dc:title>
+        <dc:creator opf:file-as="Hall, Basil" opf:role="aut">Basil Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17032</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels</dc:subject>
+        <dc:subject>Great Britain. Royal Navy -- Biography</dc:subject>
+        <dc:subject>Hall</dc:subject>
+        <dc:subject>Basil</dc:subject>
+        <dc:subject>1788-1844</dc:subject>
+        <dc:subject>Seafaring life -- Biography</dc:subject>
+        <dc:subject>Sailors -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Basil Hall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:20:59.405719+00:00"/>
+        <meta name="calibre:title_sort" content="Lieutenant and Commander / Being Autobigraphical Sketches of His Own Career, from Fragments of Voyages and Travels, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

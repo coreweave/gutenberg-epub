@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7743482-b427-418c-a5ca-7db7e4cae7bd</dc:identifier>
+        <dc:title>By Trench and Trail in Song and Story</dc:title>
+        <dc:creator opf:file-as="Mackay, Angus" opf:role="aut">Angus Mackay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37510</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Angus Mackay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:43:16.616626+00:00"/>
+        <meta name="calibre:title_sort" content="By Trench and Trail in Song and Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

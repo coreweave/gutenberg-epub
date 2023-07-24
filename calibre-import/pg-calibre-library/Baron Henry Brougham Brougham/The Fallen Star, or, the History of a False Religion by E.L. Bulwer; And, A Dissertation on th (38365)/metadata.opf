@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8981f129-4783-47b0-84b0-5aee22e64e2b</dc:identifier>
+        <dc:title>The Fallen Star, or, the History of a False Religion by E.L. Bulwer; And, A Dissertation on the Origin of Evil by Lord Brougham</dc:title>
+        <dc:creator opf:file-as="Brougham and Vaux, Henry Brougham, Baron" opf:role="aut">Baron Henry Brougham Brougham</dc:creator>
+        <dc:creator opf:file-as="Brougham and Vaux, Henry Brougham, Baron" opf:role="aut">Vaux</dc:creator>
+        <dc:creator opf:file-as="Brougham and Vaux, Henry Brougham, Baron" opf:role="aut">Baron Edward Bulwer Lytton Lytton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8654</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Free thought</dc:subject>
+        <dc:subject>Good and evil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron Henry Brougham Brougham&quot;: &quot;&quot;, &quot;Vaux&quot;: &quot;&quot;, &quot;Baron Edward Bulwer Lytton Lytton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:05:26.195148+00:00"/>
+        <meta name="calibre:title_sort" content="Fallen Star, or, the History of a False Religion by E.L. Bulwer; And, A Dissertation on the Origin of Evil by Lord Brougham, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7280e993-7237-4a36-b38a-1b80267dac15</dc:identifier>
+        <dc:title>Early Days in Fort Worth, Much of Which I saw and Part of Which I Was</dc:title>
+        <dc:creator opf:file-as="Paddock, B. B. (Buckley B.)" opf:role="aut">B. B. Paddock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57801</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Texas -- Fort Worth</dc:subject>
+        <dc:subject>Fort Worth (Tex.) -- History</dc:subject>
+        <dc:subject>Fort Worth (Tex.) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. B. Paddock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:17:33.462701+00:00"/>
+        <meta name="calibre:title_sort" content="Early Days in Fort Worth, Much of Which I saw and Part of Which I Was"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

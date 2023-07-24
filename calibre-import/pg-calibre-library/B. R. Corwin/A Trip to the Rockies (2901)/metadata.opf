@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aea579bf-ff50-497b-a0a8-ac5ae9c960f2</dc:identifier>
+        <dc:title>A Trip to the Rockies</dc:title>
+        <dc:creator opf:file-as="Corwin, B. R." opf:role="aut">B. R. Corwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62398</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. R. Corwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:39.591393+00:00"/>
+        <meta name="calibre:title_sort" content="Trip to the Rockies, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

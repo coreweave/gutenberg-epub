@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf1da6ea-0b58-4e7b-b96c-f60e53f8fa13</dc:identifier>
+        <dc:title>The two kinds of fear</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62310</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Honesty -- Juvenile fiction</dc:subject>
+        <dc:subject>Sin -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:01:32.459514+00:00"/>
+        <meta name="calibre:title_sort" content="two kinds of fear, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

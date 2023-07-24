@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f1e5129-a2ed-4f69-a214-3bb6048b5c53</dc:identifier>
+        <dc:title>An Account of the Customs and Manners of the Micmakis and Maricheets Savage Nations, Now Dependent on the Government of Cape-Breton</dc:title>
+        <dc:creator opf:file-as="Maillard, Antoine Simon" opf:role="aut">Antoine Simon Maillard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15567</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nova Scotia -- Description and travel</dc:subject>
+        <dc:subject>Micmac Indians</dc:subject>
+        <dc:subject>Malecite Indians</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Antoine Simon Maillard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:36:13.828829+00:00"/>
+        <meta name="calibre:title_sort" content="Account of the Customs and Manners of the Micmakis and Maricheets Savage Nations, Now Dependent on the Government of Cape-Breton, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

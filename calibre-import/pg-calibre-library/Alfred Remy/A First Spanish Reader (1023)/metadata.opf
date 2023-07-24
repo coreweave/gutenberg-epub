@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1023</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1bae75c6-9a56-4851-97a2-c54db76bf425</dc:identifier>
+        <dc:title>A First Spanish Reader</dc:title>
+        <dc:creator opf:file-as="Remy, Alfred" opf:role="aut">Alfred Remy</dc:creator>
+        <dc:creator opf:file-as="Remy, Alfred" opf:role="aut">Erwin W. Roessler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15353</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>spa</dc:language>
+        <dc:subject>Spanish language -- Readers</dc:subject>
+        <dc:subject>Spanish language -- Textbooks for foreign speakers -- English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Remy&quot;: &quot;&quot;, &quot;Erwin W. Roessler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:41:23.369734+00:00"/>
+        <meta name="calibre:title_sort" content="First Spanish Reader, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

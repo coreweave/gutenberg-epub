@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52023</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12d72dc1-4163-4072-a5bb-213df54da77e</dc:identifier>
+        <dc:title>Thomas D'Arcy McGee</dc:title>
+        <dc:creator opf:file-as="Brady, Alexander" opf:role="aut">Alexander Brady</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69431</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>McGee</dc:subject>
+        <dc:subject>Thomas D'Arcy</dc:subject>
+        <dc:subject>1825-1868</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Brady&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:16:19.045932+00:00"/>
+        <meta name="calibre:title_sort" content="Thomas D'Arcy McGee"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

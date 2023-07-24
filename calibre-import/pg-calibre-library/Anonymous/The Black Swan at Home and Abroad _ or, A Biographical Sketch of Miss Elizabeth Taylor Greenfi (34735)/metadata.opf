@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4964c6c-43df-4d55-8990-c38d9a8f0d88</dc:identifier>
+        <dc:title>The Black Swan at Home and Abroad / or, A Biographical Sketch of Miss Elizabeth Taylor Greenfield, the American Vocalist</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46526</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Greenfield</dc:subject>
+        <dc:subject>Elizabeth Taylor</dc:subject>
+        <dc:subject>approximately 1819-1876</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:01:30.061102+00:00"/>
+        <meta name="calibre:title_sort" content="Black Swan at Home and Abroad / or, A Biographical Sketch of Miss Elizabeth Taylor Greenfield, the American Vocalist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

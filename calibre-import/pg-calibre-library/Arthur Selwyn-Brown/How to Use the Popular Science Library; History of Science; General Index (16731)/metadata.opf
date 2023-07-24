@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c102d58-971d-4c7c-9383-4d161ea68960</dc:identifier>
+        <dc:title>How to Use the Popular Science Library; History of Science; General Index</dc:title>
+        <dc:creator opf:file-as="Selwyn-Brown, Arthur" opf:role="aut">Arthur Selwyn-Brown</dc:creator>
+        <dc:creator opf:file-as="Selwyn-Brown, Arthur" opf:role="aut">Garrett Putman Serviss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51133</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- History</dc:subject>
+        <dc:subject>Popular science library</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Selwyn-Brown&quot;: &quot;&quot;, &quot;Garrett Putman Serviss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:09:31.444486+00:00"/>
+        <meta name="calibre:title_sort" content="How to Use the Popular Science Library; History of Science; General Index"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

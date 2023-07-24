@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f80140b3-d11f-4f36-a1b4-8b692890bdc3</dc:identifier>
+        <dc:title>The History of Trade Unionism / (Revised edition, extended to 1920)</dc:title>
+        <dc:creator opf:file-as="Webb, Beatrice" opf:role="aut">Beatrice Webb</dc:creator>
+        <dc:creator opf:file-as="Webb, Beatrice" opf:role="aut">Sidney Webb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Labor unions -- Great Britain -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Beatrice Webb&quot;: &quot;&quot;, &quot;Sidney Webb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:55:01.839621+00:00"/>
+        <meta name="calibre:title_sort" content="History of Trade Unionism / (Revised edition, extended to 1920), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

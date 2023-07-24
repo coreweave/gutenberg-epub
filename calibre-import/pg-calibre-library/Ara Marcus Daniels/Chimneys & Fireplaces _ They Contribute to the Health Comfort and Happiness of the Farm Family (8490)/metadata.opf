@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d949991-10fe-43ce-a67a-fd23dd161e04</dc:identifier>
+        <dc:title>Chimneys &amp; Fireplaces / They Contribute to the Health Comfort and Happiness of the Farm Family - How to Build Them</dc:title>
+        <dc:creator opf:file-as="Daniels, Ara Marcus" opf:role="aut">Ara Marcus Daniels</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48360</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fireplaces</dc:subject>
+        <dc:subject>Chimneys</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ara Marcus Daniels&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:10:01.228496+00:00"/>
+        <meta name="calibre:title_sort" content="Chimneys &amp; Fireplaces / They Contribute to the Health Comfort and Happiness of the Farm Family - How to Build Them"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

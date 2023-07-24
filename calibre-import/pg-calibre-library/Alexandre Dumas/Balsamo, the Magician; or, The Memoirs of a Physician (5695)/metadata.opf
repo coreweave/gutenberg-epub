@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">225dde0b-3cda-4ff9-bc78-2de7c4a96c71</dc:identifier>
+        <dc:title>Balsamo, the Magician; or, The Memoirs of a Physician</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45822</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marie Antoinette</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Louis XVI</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1755-1793 -- Fiction</dc:subject>
+        <dc:subject>Cagliostro</dc:subject>
+        <dc:subject>Alessandro</dc:subject>
+        <dc:subject>conte di</dc:subject>
+        <dc:subject>1743-1795 -- Fiction</dc:subject>
+        <dc:subject>Du Barry</dc:subject>
+        <dc:subject>Jeanne Bécu</dc:subject>
+        <dc:subject>comtesse</dc:subject>
+        <dc:subject>1743-1793 -- Fiction</dc:subject>
+        <dc:subject>France -- History -- Louis XV</dc:subject>
+        <dc:subject>1715-1774 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:06:26.962633+00:00"/>
+        <meta name="calibre:title_sort" content="Balsamo, the Magician; or, The Memoirs of a Physician"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

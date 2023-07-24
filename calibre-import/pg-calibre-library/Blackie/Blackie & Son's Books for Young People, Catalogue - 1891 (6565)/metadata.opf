@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6565</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77cb37d0-89a5-4a94-a57e-224988ff7ec4</dc:identifier>
+        <dc:title>Blackie &amp; Son's Books for Young People, Catalogue - 1891</dc:title>
+        <dc:creator opf:file-as="Blackie &amp; Son" opf:role="aut">Blackie</dc:creator>
+        <dc:creator opf:file-as="Blackie &amp; Son" opf:role="aut">Son</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37460</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Publishers' catalogs -- England -- London</dc:subject>
+        <dc:subject>Blackie &amp; Son -- Catalogs</dc:subject>
+        <dc:subject>Children's literature -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Blackie&quot;: &quot;&quot;, &quot;Son&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:25:13.784626+00:00"/>
+        <meta name="calibre:title_sort" content="Blackie &amp; Son's Books for Young People, Catalogue - 1891"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

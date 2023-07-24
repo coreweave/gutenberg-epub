@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f635958f-d6bb-4bf6-b4d7-78ca5f92f3a6</dc:identifier>
+        <dc:title>Plet: A Christmas Tale of the Wasatch</dc:title>
+        <dc:creator opf:file-as="Lambourne, Alfred" opf:role="aut">Alfred Lambourne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66961</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas poetry</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Poetry</dc:subject>
+        <dc:subject>Miners -- Poetry</dc:subject>
+        <dc:subject>Wasatch Range (Utah and Idaho) -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Lambourne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:36:32.141748+00:00"/>
+        <meta name="calibre:title_sort" content="Plet: A Christmas Tale of the Wasatch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

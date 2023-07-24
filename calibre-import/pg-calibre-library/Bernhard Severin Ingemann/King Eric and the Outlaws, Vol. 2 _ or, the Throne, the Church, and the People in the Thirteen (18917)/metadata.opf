@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16ba3c05-8753-4755-ba14-65e4b5f79236</dc:identifier>
+        <dc:title>King Eric and the Outlaws, Vol. 2 / or, the Throne, the Church, and the People in the Thirteenth Century.</dc:title>
+        <dc:creator opf:file-as="Ingemann, Bernhard Severin" opf:role="aut">Bernhard Severin Ingemann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36632</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Denmark -- History -- Erik Menved</dc:subject>
+        <dc:subject>1286-1319 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernhard Severin Ingemann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:25:05.958479+00:00"/>
+        <meta name="calibre:title_sort" content="King Eric and the Outlaws, Vol. 2 / or, the Throne, the Church, and the People in the Thirteenth Century."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

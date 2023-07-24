@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b96a654-0bf4-4e32-94f1-413a89b7dee9</dc:identifier>
+        <dc:title>Nursing as Caring: A Model for Transforming Practice</dc:title>
+        <dc:creator opf:file-as="Boykin, Anne" opf:role="aut">Anne Boykin</dc:creator>
+        <dc:creator opf:file-as="Boykin, Anne" opf:role="aut">Savina O'Bryan Schoenhofer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42988</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nursing -- Philosophy</dc:subject>
+        <dc:subject>Caring</dc:subject>
+        <dc:subject>Empathy</dc:subject>
+        <dc:subject>Nursing models</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anne Boykin&quot;: &quot;&quot;, &quot;Savina O'Bryan Schoenhofer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:05:01.458268+00:00"/>
+        <meta name="calibre:title_sort" content="Nursing as Caring: A Model for Transforming Practice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

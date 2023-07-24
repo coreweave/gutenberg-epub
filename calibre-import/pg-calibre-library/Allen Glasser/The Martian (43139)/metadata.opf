@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42e72a89-d4ef-4328-afa1-12fa13c7d4d8</dc:identifier>
+        <dc:title>The Martian</dc:title>
+        <dc:creator opf:file-as="Glasser, Allen" opf:role="aut">Allen Glasser</dc:creator>
+        <dc:creator opf:file-as="Glasser, Allen" opf:role="aut">A. R. Hilliard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40992</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Martians -- Fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Allen Glasser&quot;: &quot;&quot;, &quot;A. R. Hilliard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:22:38.634270+00:00"/>
+        <meta name="calibre:title_sort" content="Martian, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

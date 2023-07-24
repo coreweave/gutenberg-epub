@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73df2249-6ccb-40fa-b7b3-c90b7d6c3938</dc:identifier>
+        <dc:title>The Recreations of a Country Parson</dc:title>
+        <dc:creator opf:file-as="Boyd, Andrew Kennedy Hutchison" opf:role="aut">Andrew Kennedy Hutchison Boyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5407</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Country life -- England</dc:subject>
+        <dc:subject>Rural clergy -- England</dc:subject>
+        <dc:subject>Clergy -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew Kennedy Hutchison Boyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:27:47.633669+00:00"/>
+        <meta name="calibre:title_sort" content="Recreations of a Country Parson, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

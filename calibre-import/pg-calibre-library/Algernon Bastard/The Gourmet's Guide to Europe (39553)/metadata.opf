@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">945e0c47-bf88-4b54-905a-ba448a16c723</dc:identifier>
+        <dc:title>The Gourmet's Guide to Europe</dc:title>
+        <dc:creator opf:file-as="Bastard, Algernon" opf:role="aut">Algernon Bastard</dc:creator>
+        <dc:creator opf:file-as="Bastard, Algernon" opf:role="aut">Lieut.-Col. Newnham-Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18854</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dinners and dining -- Europe</dc:subject>
+        <dc:subject>Restaurants -- Europe</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Algernon Bastard&quot;: &quot;&quot;, &quot;Lieut.-Col. Newnham-Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:07:10.758826+00:00"/>
+        <meta name="calibre:title_sort" content="Gourmet's Guide to Europe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

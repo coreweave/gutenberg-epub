@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">527e98dc-949a-46ea-8545-ec1a211f26b0</dc:identifier>
+        <dc:title>We're Civilized!</dc:title>
+        <dc:creator opf:file-as="Apostolides, Alex" opf:role="aut">Alex Apostolides</dc:creator>
+        <dc:creator opf:file-as="Apostolides, Alex" opf:role="aut">Mark Clifton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38287</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Martians -- Fiction</dc:subject>
+        <dc:subject>Mars (Planet) -- Fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alex Apostolides&quot;: &quot;&quot;, &quot;Mark Clifton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:40:57.583068+00:00"/>
+        <meta name="calibre:title_sort" content="We're Civilized!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

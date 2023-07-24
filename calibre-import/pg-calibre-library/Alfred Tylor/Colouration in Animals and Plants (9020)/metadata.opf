@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">664088ba-b837-4f33-8add-c5f5ddca249e</dc:identifier>
+        <dc:title>Colouration in Animals and Plants</dc:title>
+        <dc:creator opf:file-as="Tylor, Alfred" opf:role="aut">Alfred Tylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44849</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animal behavior</dc:subject>
+        <dc:subject>Animals -- Color</dc:subject>
+        <dc:subject>Plants -- Color</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Tylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:23:09.721738+00:00"/>
+        <meta name="calibre:title_sort" content="Colouration in Animals and Plants"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

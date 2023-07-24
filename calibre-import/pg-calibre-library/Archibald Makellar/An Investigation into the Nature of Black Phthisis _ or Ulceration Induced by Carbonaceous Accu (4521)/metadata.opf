@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">955a2ba1-7a0e-4d75-9af4-2b804905a000</dc:identifier>
+        <dc:title>An Investigation into the Nature of Black Phthisis / or Ulceration Induced by Carbonaceous Accumulation in the Lungs of Coal Miners</dc:title>
+        <dc:creator opf:file-as="Makellar, Archibald" opf:role="aut">Archibald Makellar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21907</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Miners' phthisis</dc:subject>
+        <dc:subject>Lungs -- Dust diseases</dc:subject>
+        <dc:subject>Coal miners -- Diseases</dc:subject>
+        <dc:subject>Miners -- Diseases</dc:subject>
+        <dc:subject>Occupational diseases</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Archibald Makellar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:42:44.875288+00:00"/>
+        <meta name="calibre:title_sort" content="Investigation into the Nature of Black Phthisis / or Ulceration Induced by Carbonaceous Accumulation in the Lungs of Coal Miners, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

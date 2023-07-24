@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f620dc30-6ed8-4c53-ad54-e0ef1f35703b</dc:identifier>
+        <dc:title>The Greatest Plague of Life: or, the Adventures of a Lady in Search of a Good Servant.</dc:title>
+        <dc:creator opf:file-as="Mayhew, Augustus" opf:role="aut">Augustus Mayhew</dc:creator>
+        <dc:creator opf:file-as="Mayhew, Augustus" opf:role="aut">Henry Mayhew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Household employees</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augustus Mayhew&quot;: &quot;&quot;, &quot;Henry Mayhew&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:19:32.171632+00:00"/>
+        <meta name="calibre:title_sort" content="Greatest Plague of Life: or, the Adventures of a Lady in Search of a Good Servant., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

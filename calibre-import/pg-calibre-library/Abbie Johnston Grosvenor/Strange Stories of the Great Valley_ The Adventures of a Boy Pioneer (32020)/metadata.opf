@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0349684d-c7b6-4a15-89ff-1d5e5387e1c1</dc:identifier>
+        <dc:title>Strange Stories of the Great Valley: The Adventures of a Boy Pioneer</dc:title>
+        <dc:creator opf:file-as="Grosvenor, Abbie Johnston" opf:role="aut">Abbie Johnston Grosvenor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48291</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Ohio River Valley -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abbie Johnston Grosvenor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:49:02.169400+00:00"/>
+        <meta name="calibre:title_sort" content="Strange Stories of the Great Valley: The Adventures of a Boy Pioneer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

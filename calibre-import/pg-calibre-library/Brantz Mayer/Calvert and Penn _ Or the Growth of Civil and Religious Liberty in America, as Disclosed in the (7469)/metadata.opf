@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1941c720-5699-4b24-9bd4-b5ab995f2881</dc:identifier>
+        <dc:title>Calvert and Penn / Or the Growth of Civil and Religious Liberty in America, as Disclosed in the Planting of Maryland and Pennsylvania</dc:title>
+        <dc:creator opf:file-as="Mayer, Brantz" opf:role="aut">Brantz Mayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32454</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pennsylvania -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>Penn</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1644-1718</dc:subject>
+        <dc:subject>Maryland -- History -- Colonial period</dc:subject>
+        <dc:subject>Baltimore</dc:subject>
+        <dc:subject>George Calvert</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1580?-1632</dc:subject>
+        <dc:subject>Toleration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brantz Mayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:45:45.205385+00:00"/>
+        <meta name="calibre:title_sort" content="Calvert and Penn / Or the Growth of Civil and Religious Liberty in America, as Disclosed in the Planting of Maryland and Pennsylvania"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

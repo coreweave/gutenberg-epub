@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2182607-888c-4fb9-9c05-5195852d7754</dc:identifier>
+        <dc:title>Bedouin Love</dc:title>
+        <dc:creator opf:file-as="Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)" opf:role="aut">Arthur E. P. Brome Weigall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60185</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>British -- Egypt -- Fiction</dc:subject>
+        <dc:subject>Murder -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur E. P. Brome Weigall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:11:52.913818+00:00"/>
+        <meta name="calibre:title_sort" content="Bedouin Love"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

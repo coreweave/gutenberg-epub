@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75b04c1a-826f-4357-8a6e-4d96e6115fce</dc:identifier>
+        <dc:title>The Marvellous History of the Shadowless Man, and The Cold Heart</dc:title>
+        <dc:creator opf:file-as="Chamisso, Adelbert von" opf:role="aut">Adelbert von Chamisso</dc:creator>
+        <dc:creator opf:file-as="Chamisso, Adelbert von" opf:role="aut">Wilhelm Hauff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Fiction</dc:subject>
+        <dc:subject>Fairy tales -- Germany</dc:subject>
+        <dc:subject>Shades and shadows -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adelbert von Chamisso&quot;: &quot;&quot;, &quot;Wilhelm Hauff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:23:19.705000+00:00"/>
+        <meta name="calibre:title_sort" content="Marvellous History of the Shadowless Man, and The Cold Heart, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

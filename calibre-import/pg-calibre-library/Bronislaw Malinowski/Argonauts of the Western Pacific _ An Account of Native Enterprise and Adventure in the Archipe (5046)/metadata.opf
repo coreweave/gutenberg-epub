@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5046</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3b8d5e4-7f79-4ca8-ba99-1974ae59bb16</dc:identifier>
+        <dc:title>Argonauts of the Western Pacific / An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea</dc:title>
+        <dc:creator opf:file-as="Malinowski, Bronislaw" opf:role="aut">Bronislaw Malinowski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55822</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kula exchange -- Papua New Guinea -- Trobriand Islands</dc:subject>
+        <dc:subject>Massim (Papua New Guinean people) -- Rites and ceremonies</dc:subject>
+        <dc:subject>Ethnology -- Papua New Guinea -- Trobriand Islands</dc:subject>
+        <dc:subject>Folklore -- Papua New Guinea -- Trobriand Islands</dc:subject>
+        <dc:subject>Barter -- Papua New Guinea -- Trobriand Islands</dc:subject>
+        <dc:subject>Trobriand Islands (Papua New Guinea) -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bronislaw Malinowski&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:53:09.836847+00:00"/>
+        <meta name="calibre:title_sort" content="Argonauts of the Western Pacific / An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

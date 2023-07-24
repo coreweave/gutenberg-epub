@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51511822-3a02-4638-ab64-d070b7e11dd6</dc:identifier>
+        <dc:title>The Glebe 1913/09 (Vol. 1, No. 1): Songs, Sighs and Curses</dc:title>
+        <dc:creator opf:file-as="Wolff, Adolf" opf:role="aut">Adolf Wolff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60606</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry -- 20th century</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Modern -- 20th century -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adolf Wolff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:56:08.033667+00:00"/>
+        <meta name="calibre:title_sort" content="Glebe 1913/09 (Vol. 1, No. 1): Songs, Sighs and Curses, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

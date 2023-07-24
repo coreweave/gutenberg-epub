@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b7b56dc-f724-4d66-a0bf-6991dcf50d5a</dc:identifier>
+        <dc:title>The German Element in Brazil / Colonies and Dialect</dc:title>
+        <dc:creator opf:file-as="Schappelle, Benjamin Franklin" opf:role="aut">Benjamin Franklin Schappelle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17361</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>German language -- Dialects -- Brazil</dc:subject>
+        <dc:subject>Germans -- Brazil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin Franklin Schappelle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:43:35.141830+00:00"/>
+        <meta name="calibre:title_sort" content="German Element in Brazil / Colonies and Dialect, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

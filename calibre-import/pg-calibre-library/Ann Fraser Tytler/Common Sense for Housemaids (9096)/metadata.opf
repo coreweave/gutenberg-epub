@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9096</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f1686d7-8501-4e41-ba92-85e4053dd74e</dc:identifier>
+        <dc:title>Common Sense for Housemaids</dc:title>
+        <dc:creator opf:file-as="Tytler, Ann Fraser" opf:role="aut">Ann Fraser Tytler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59166</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home economics</dc:subject>
+        <dc:subject>Household employees</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ann Fraser Tytler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:25:03.141417+00:00"/>
+        <meta name="calibre:title_sort" content="Common Sense for Housemaids"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

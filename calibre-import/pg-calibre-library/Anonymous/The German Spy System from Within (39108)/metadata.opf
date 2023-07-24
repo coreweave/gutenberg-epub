@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f640503-5f09-4350-9269-76eb98aee23a</dc:identifier>
+        <dc:title>The German Spy System from Within</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41457</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Secret service -- Germany</dc:subject>
+        <dc:subject>Spies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:44:01.143446+00:00"/>
+        <meta name="calibre:title_sort" content="German Spy System from Within, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

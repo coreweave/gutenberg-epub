@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f018e4e2-5645-407b-9643-963405b7278d</dc:identifier>
+        <dc:title>A Short History of Monks and Monasteries</dc:title>
+        <dc:creator opf:file-as="Wishart, Alfred Wesley" opf:role="aut">Alfred Wesley Wishart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Monasteries -- History</dc:subject>
+        <dc:subject>Monasticism and religious orders -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Wesley Wishart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:05:06.781075+00:00"/>
+        <meta name="calibre:title_sort" content="Short History of Monks and Monasteries, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

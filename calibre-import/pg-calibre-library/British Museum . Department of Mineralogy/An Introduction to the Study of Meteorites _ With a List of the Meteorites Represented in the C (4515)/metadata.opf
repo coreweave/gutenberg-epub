@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34854d0c-0b81-4433-bdde-54fe59b178a5</dc:identifier>
+        <dc:title>An Introduction to the Study of Meteorites / With a List of the Meteorites Represented in the Collection</dc:title>
+        <dc:creator opf:file-as="British Museum (Natural History). Department of Mineralogy" opf:role="aut">British Museum . Department of Mineralogy</dc:creator>
+        <dc:creator opf:file-as="British Museum (Natural History). Department of Mineralogy" opf:role="aut">L. Fletcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47147</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Meteorites</dc:subject>
+        <dc:subject>British Museum (Natural History). Department of Mineralogy</dc:subject>
+        <dc:subject>Meteorites -- Catalogs and collections</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;British Museum . Department of Mineralogy&quot;: &quot;&quot;, &quot;L. Fletcher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:42:37.527273+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to the Study of Meteorites / With a List of the Meteorites Represented in the Collection, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

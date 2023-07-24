@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ecca1bd-f2ba-4d90-8f36-fe9ae82cab1d</dc:identifier>
+        <dc:title>Seaside Studies in Natural History. Marine Animals of Massachusetts Bay. Radiates.</dc:title>
+        <dc:creator opf:file-as="Agassiz, Alexander" opf:role="aut">Alexander Agassiz</dc:creator>
+        <dc:creator opf:file-as="Agassiz, Alexander" opf:role="aut">Elizabeth Cabot Cary Agassiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35490</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marine animals -- Massachusetts -- Massachusetts Bay</dc:subject>
+        <dc:subject>Seashore biology -- Massachusetts -- Massachusetts Bay</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Agassiz&quot;: &quot;&quot;, &quot;Elizabeth Cabot Cary Agassiz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:11:54.086077+00:00"/>
+        <meta name="calibre:title_sort" content="Seaside Studies in Natural History. Marine Animals of Massachusetts Bay. Radiates."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

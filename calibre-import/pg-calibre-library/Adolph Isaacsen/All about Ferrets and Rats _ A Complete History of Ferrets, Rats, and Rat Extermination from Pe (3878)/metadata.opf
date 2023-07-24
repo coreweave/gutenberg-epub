@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bc6c1b3-2c42-4d09-a854-13f737c67767</dc:identifier>
+        <dc:title>All about Ferrets and Rats / A Complete History of Ferrets, Rats, and Rat Extermination from Personal Experiences and Study. Also a Practical Hand-Book on the Ferret.</dc:title>
+        <dc:creator opf:file-as="Isaacsen, Adolph" opf:role="aut">Adolph Isaacsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42305</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rats</dc:subject>
+        <dc:subject>Ferret</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adolph Isaacsen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:30:32.680713+00:00"/>
+        <meta name="calibre:title_sort" content="All about Ferrets and Rats / A Complete History of Ferrets, Rats, and Rat Extermination from Personal Experiences and Study. Also a Practical Hand-Book on the Ferret."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

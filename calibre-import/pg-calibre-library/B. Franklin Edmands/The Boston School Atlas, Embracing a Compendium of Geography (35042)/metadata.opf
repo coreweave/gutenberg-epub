@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35042</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e6fed57-5e18-4a2b-bdc9-aa2c4297f05e</dc:identifier>
+        <dc:title>The Boston School Atlas, Embracing a Compendium of Geography</dc:title>
+        <dc:creator opf:file-as="Edmands, B. Franklin (Benjamin Franklin)" opf:role="aut">B. Franklin Edmands</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57971</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Atlases</dc:subject>
+        <dc:subject>Geography -- Textbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. Franklin Edmands&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:16:51.577840+00:00"/>
+        <meta name="calibre:title_sort" content="Boston School Atlas, Embracing a Compendium of Geography, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

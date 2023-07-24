@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54789</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c844075-8eb2-49f9-968f-831a46ff2941</dc:identifier>
+        <dc:title>Widger's Quotes and Images from Cinq Mars by Alfred de Vigny / The French Immortals: Quotes and Images</dc:title>
+        <dc:creator opf:file-as="Vigny, Alfred de" opf:role="aut">Alfred de Vigny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7574</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Quotations</dc:subject>
+        <dc:subject>French -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred de Vigny&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:14:04.354055+00:00"/>
+        <meta name="calibre:title_sort" content="Widger's Quotes and Images from Cinq Mars by Alfred de Vigny / The French Immortals: Quotes and Images"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

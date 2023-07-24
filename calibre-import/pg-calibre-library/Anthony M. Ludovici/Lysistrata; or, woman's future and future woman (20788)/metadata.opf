@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e796cc68-e89f-498a-9ef5-ccb67923fb56</dc:identifier>
+        <dc:title>Lysistrata; or, woman's future and future woman</dc:title>
+        <dc:creator opf:file-as="Ludovici, Anthony M. (Anthony Mario)" opf:role="aut">Anthony M. Ludovici</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69734</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women</dc:subject>
+        <dc:subject>Women -- Social and moral questions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony M. Ludovici&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:34:04.708274+00:00"/>
+        <meta name="calibre:title_sort" content="Lysistrata; or, woman's future and future woman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

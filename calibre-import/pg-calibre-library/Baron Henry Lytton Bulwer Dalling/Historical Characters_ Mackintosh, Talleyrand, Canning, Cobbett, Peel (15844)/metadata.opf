@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43979f68-d156-4822-97f5-2510ae1f5e2e</dc:identifier>
+        <dc:title>Historical Characters: Mackintosh, Talleyrand, Canning, Cobbett, Peel</dc:title>
+        <dc:creator opf:file-as="Dalling and Bulwer, Henry Lytton Bulwer, Baron" opf:role="aut">Baron Henry Lytton Bulwer Dalling</dc:creator>
+        <dc:creator opf:file-as="Dalling and Bulwer, Henry Lytton Bulwer, Baron" opf:role="aut">Bulwer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Talleyrand-Périgord</dc:subject>
+        <dc:subject>Charles Maurice de</dc:subject>
+        <dc:subject>prince de Bénévent</dc:subject>
+        <dc:subject>1754-1838</dc:subject>
+        <dc:subject>Cobbett</dc:subject>
+        <dc:subject>William 1763-1835</dc:subject>
+        <dc:subject>Mackintosh</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1765-1832</dc:subject>
+        <dc:subject>Canning</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1770-1827</dc:subject>
+        <dc:subject>Peel</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1788-1850</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron Henry Lytton Bulwer Dalling&quot;: &quot;&quot;, &quot;Bulwer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:39:59.041913+00:00"/>
+        <meta name="calibre:title_sort" content="Historical Characters: Mackintosh, Talleyrand, Canning, Cobbett, Peel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

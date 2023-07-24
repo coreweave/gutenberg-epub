@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42945</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68b7fe35-b132-4b3c-8d89-2d444526414d</dc:identifier>
+        <dc:title>The Malay Archipelago, Volume 1 / The Land of the Orang-utan and the Bird of Paradise; A Narrative of Travel, with Studies of Man and Nature</dc:title>
+        <dc:creator opf:file-as="Wallace, Alfred Russel" opf:role="aut">Alfred Russel Wallace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2530</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- Malay Archipelago</dc:subject>
+        <dc:subject>Ethnology -- Malay Archipelago</dc:subject>
+        <dc:subject>Malay Archipelago -- Description and travel</dc:subject>
+        <dc:subject>Wallace</dc:subject>
+        <dc:subject>Alfred Russel</dc:subject>
+        <dc:subject>1823-1913 -- Travel -- Malay Archipelago</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Russel Wallace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:11:48.735639+00:00"/>
+        <meta name="calibre:title_sort" content="Malay Archipelago, Volume 1 / The Land of the Orang-utan and the Bird of Paradise; A Narrative of Travel, with Studies of Man and Nature, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5497e839-8b85-403f-9302-0bd444f51e4d</dc:identifier>
+        <dc:title>The Scottish Reformation / Its Epochs, Episodes, Leaders, and Distinctive Characteristics</dc:title>
+        <dc:creator opf:file-as="Mitchell, Alexander F. (Alexander Ferrier)" opf:role="aut">Alexander F. Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22023</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reformation -- Scotland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander F. Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:18:06.970502+00:00"/>
+        <meta name="calibre:title_sort" content="Scottish Reformation / Its Epochs, Episodes, Leaders, and Distinctive Characteristics, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

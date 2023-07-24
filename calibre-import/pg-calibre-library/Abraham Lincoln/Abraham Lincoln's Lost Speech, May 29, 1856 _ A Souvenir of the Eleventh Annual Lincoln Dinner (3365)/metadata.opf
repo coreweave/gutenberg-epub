@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e496710-7f76-4326-b33c-4dfd79053d0f</dc:identifier>
+        <dc:title>Abraham Lincoln's Lost Speech, May 29, 1856 / A Souvenir of the Eleventh Annual Lincoln Dinner of the Republican Club of the City of New York, at the Waldorf, February 12, 1897</dc:title>
+        <dc:creator opf:file-as="Lincoln, Abraham" opf:role="aut">Abraham Lincoln</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61966</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- Kansas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abraham Lincoln&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:21:09.265141+00:00"/>
+        <meta name="calibre:title_sort" content="Abraham Lincoln's Lost Speech, May 29, 1856 / A Souvenir of the Eleventh Annual Lincoln Dinner of the Republican Club of the City of New York, at the Waldorf, February 12, 1897"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9ba4bbb-97f2-4377-8f8f-e5f9ba7df595</dc:identifier>
+        <dc:title>Travels in Central Asia / Being the Account of a Journey from Teheran Across the Turkoman Desert on the Eastern Shore of the Caspian to Khiva, Bokhara, and Samarcand</dc:title>
+        <dc:creator opf:file-as="Vámbéry, Ármin" opf:role="aut">Ármin Vámbéry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41751</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Asia</dc:subject>
+        <dc:subject>Central -- Description and travel</dc:subject>
+        <dc:subject>Vámbéry</dc:subject>
+        <dc:subject>Ármin</dc:subject>
+        <dc:subject>1832-1913 -- Travel -- Asia</dc:subject>
+        <dc:subject>Central</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ármin Vámbéry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:03:36.033184+00:00"/>
+        <meta name="calibre:title_sort" content="Travels in Central Asia / Being the Account of a Journey from Teheran Across the Turkoman Desert on the Eastern Shore of the Caspian to Khiva, Bokhara, and Samarcand"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

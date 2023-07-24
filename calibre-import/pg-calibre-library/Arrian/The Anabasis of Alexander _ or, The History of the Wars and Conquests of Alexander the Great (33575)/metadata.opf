@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9186936-02e2-4f96-8a87-dcafc1cdf9d5</dc:identifier>
+        <dc:title>The Anabasis of Alexander / or, The History of the Wars and Conquests of Alexander the Great</dc:title>
+        <dc:creator opf:file-as="Arrian" opf:role="aut">Arrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46976</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alexander</dc:subject>
+        <dc:subject>the Great</dc:subject>
+        <dc:subject>356 B.C.-323 B.C.</dc:subject>
+        <dc:subject>Iran -- History -- To 640</dc:subject>
+        <dc:subject>India -- History -- To 324 B.C.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arrian&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:04:18.348497+00:00"/>
+        <meta name="calibre:title_sort" content="Anabasis of Alexander / or, The History of the Wars and Conquests of Alexander the Great, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

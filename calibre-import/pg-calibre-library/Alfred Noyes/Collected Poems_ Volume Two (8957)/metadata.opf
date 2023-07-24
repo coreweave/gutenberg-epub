@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">728a967c-dbda-4b2e-856b-6fad66446dae</dc:identifier>
+        <dc:title>Collected Poems: Volume Two</dc:title>
+        <dc:creator opf:file-as="Noyes, Alfred" opf:role="aut">Alfred Noyes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30599</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Noyes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:21:35.178664+00:00"/>
+        <meta name="calibre:title_sort" content="Collected Poems: Volume Two"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

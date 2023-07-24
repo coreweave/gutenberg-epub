@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cea5d853-2e4d-44f2-be3d-449dad959dc7</dc:identifier>
+        <dc:title>Bell's Cathedrals: The Cathedral Church of Lincoln / A History and Description of its Fabric and a List of the Bishops</dc:title>
+        <dc:creator opf:file-as="Kendrick, A. F. (Albert Frank)" opf:role="aut">A. F. Kendrick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43477</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln Cathedral</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. F. Kendrick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:13:56.256173+00:00"/>
+        <meta name="calibre:title_sort" content="Bell's Cathedrals: The Cathedral Church of Lincoln / A History and Description of its Fabric and a List of the Bishops"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

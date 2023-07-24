@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fe1843d-cf76-4b39-9828-ec7bbe454a9e</dc:identifier>
+        <dc:title>The Game of Go: The National Game of Japan</dc:title>
+        <dc:creator opf:file-as="Smith, Arthur" opf:role="aut">Arthur Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66632</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Go (Game)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:36:42.095149+00:00"/>
+        <meta name="calibre:title_sort" content="Game of Go: The National Game of Japan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

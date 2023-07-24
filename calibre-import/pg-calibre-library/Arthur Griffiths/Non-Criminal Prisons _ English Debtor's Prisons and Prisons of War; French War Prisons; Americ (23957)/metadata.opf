@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d17551c-29d1-4191-877c-d68ff0c2717d</dc:identifier>
+        <dc:title>Non-Criminal Prisons / English Debtor's Prisons and Prisons of War; French War Prisons; American War Prisons with References to Those of Other Lands</dc:title>
+        <dc:creator opf:file-as="Griffiths, Arthur" opf:role="aut">Arthur Griffiths</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48792</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Military prisons</dc:subject>
+        <dc:subject>United States -- History -- War of 1812 -- Prisoners and prisons</dc:subject>
+        <dc:subject>Prisons -- Great Britain -- History</dc:subject>
+        <dc:subject>Prisons -- United States -- History</dc:subject>
+        <dc:subject>Prisons -- France -- History</dc:subject>
+        <dc:subject>Prisoners of war -- History</dc:subject>
+        <dc:subject>Debt</dc:subject>
+        <dc:subject>Imprisonment for</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Griffiths&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:44:17.129507+00:00"/>
+        <meta name="calibre:title_sort" content="Non-Criminal Prisons / English Debtor's Prisons and Prisons of War; French War Prisons; American War Prisons with References to Those of Other Lands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

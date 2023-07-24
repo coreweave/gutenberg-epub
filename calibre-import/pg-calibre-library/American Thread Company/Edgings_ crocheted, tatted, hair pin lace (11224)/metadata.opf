@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2860e3c0-46d2-4c62-bf64-5256b07850f1</dc:identifier>
+        <dc:title>Edgings: crocheted, tatted, hair pin lace</dc:title>
+        <dc:creator opf:file-as="American Thread Company" opf:role="aut">American Thread Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62485</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crocheting -- Patterns</dc:subject>
+        <dc:subject>Tatting -- Patterns</dc:subject>
+        <dc:subject>Hairpin lace -- Patterns</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Thread Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:20:48.129795+00:00"/>
+        <meta name="calibre:title_sort" content="Edgings: crocheted, tatted, hair pin lace"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

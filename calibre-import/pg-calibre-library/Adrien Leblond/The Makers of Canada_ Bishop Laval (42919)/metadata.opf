@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdb01706-24a5-48b4-9412-4bbf0a6776f3</dc:identifier>
+        <dc:title>The Makers of Canada: Bishop Laval</dc:title>
+        <dc:creator opf:file-as="Leblond, Adrien" opf:role="aut">Adrien Leblond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17174</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- History -- To 1763 (New France)</dc:subject>
+        <dc:subject>Laval</dc:subject>
+        <dc:subject>François de</dc:subject>
+        <dc:subject>1623-1708</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adrien Leblond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:10:24.987297+00:00"/>
+        <meta name="calibre:title_sort" content="Makers of Canada: Bishop Laval, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

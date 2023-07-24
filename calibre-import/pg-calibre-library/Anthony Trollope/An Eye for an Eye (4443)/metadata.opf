@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fa3abda-eb1f-4383-b0bd-ecdd83d127e0</dc:identifier>
+        <dc:title>An Eye for an Eye</dc:title>
+        <dc:creator opf:file-as="Trollope, Anthony" opf:role="aut">Anthony Trollope</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16804</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Revenge -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Mothers and daughters -- Fiction</dc:subject>
+        <dc:subject>Ireland -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony Trollope&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:41:14.706867+00:00"/>
+        <meta name="calibre:title_sort" content="Eye for an Eye, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

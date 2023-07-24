@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51429</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31ffa537-79e2-45c7-83f0-89f76a499eed</dc:identifier>
+        <dc:title>The immigration offices and statistics from 1857 to 1903 / Information for the Universal Exhibition of St. Louis (U.S.A.)</dc:title>
+        <dc:creator opf:file-as="Argentina. Ministerio de Agricultura" opf:role="aut">Argentina. Ministerio de Agricultura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39230</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louisiana Purchase Exposition (1904 : Saint Louis</dc:subject>
+        <dc:subject>Mo.)</dc:subject>
+        <dc:subject>Emigration and immigration law -- Argentina</dc:subject>
+        <dc:subject>Argentina -- Emigration and immigration -- Statistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Argentina. Ministerio de Agricultura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:38:02.959642+00:00"/>
+        <meta name="calibre:title_sort" content="immigration offices and statistics from 1857 to 1903 / Information for the Universal Exhibition of St. Louis (U.S.A.), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17e17717-a325-4a2a-a2df-ad88be216b4d</dc:identifier>
+        <dc:title>The English Housekeeper: Or, Manual of Domestic Management / Containing advice on the conduct of household affairs and practical instructions concerning the store-room, the pantry, the larder, the kitchen, the cellar, the dairy; the whole being intended for the use of young ladies who undertake the superintendence of their own housekeeping</dc:title>
+        <dc:creator opf:file-as="Cobbett, Anne" opf:role="aut">Anne Cobbett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55314</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Housekeeping -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anne Cobbett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:45:58.814620+00:00"/>
+        <meta name="calibre:title_sort" content="English Housekeeper: Or, Manual of Domestic Management / Containing advice on the conduct of household affairs and practical instructions concerning the store-room, the pantry, the larder, the kitchen, the cellar, the dairy; the whole being intended for the use of young ladies who undertake the superintendence of their own housekeeping, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

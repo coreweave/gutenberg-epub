@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e03f4a7a-1c18-4aa1-aab7-1ad499b51967</dc:identifier>
+        <dc:title>Golden Lads</dc:title>
+        <dc:creator opf:file-as="Gleason, Arthur" opf:role="aut">Arthur Gleason</dc:creator>
+        <dc:creator opf:file-as="Gleason, Arthur" opf:role="aut">Helen Hayes Gleason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Gleason&quot;: &quot;&quot;, &quot;Helen Hayes Gleason&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:49:49.183676+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Lads"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

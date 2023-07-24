@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b696e98-1230-47fc-aee1-dee9da72a28e</dc:identifier>
+        <dc:title>Choice Recipes and Menus Using Canned Foods</dc:title>
+        <dc:creator opf:file-as="American Can Company. Home Economics Department" opf:role="aut">American Can Company. Home Economics Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66069</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cookbooks</dc:subject>
+        <dc:subject>Canned foods</dc:subject>
+        <dc:subject>Cooking (Canned foods)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Can Company. Home Economics Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:11:12.786190+00:00"/>
+        <meta name="calibre:title_sort" content="Choice Recipes and Menus Using Canned Foods"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

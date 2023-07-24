@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e02e40f-6b62-4722-9f4a-6f60e9f60ed6</dc:identifier>
+        <dc:title>The little country theater</dc:title>
+        <dc:creator opf:file-as="Arvold, Alfred G. (Alfred Gilmeiden)" opf:role="aut">Alfred G. Arvold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68514</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Little Country Theater (Fargo</dc:subject>
+        <dc:subject>N.D.)</dc:subject>
+        <dc:subject>Theater -- North Dakota -- Fargo</dc:subject>
+        <dc:subject>Little theater movement</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred G. Arvold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:42:06.183039+00:00"/>
+        <meta name="calibre:title_sort" content="little country theater, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

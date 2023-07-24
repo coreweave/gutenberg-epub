@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">915a0494-3184-475a-9c8e-1d65e3292f72</dc:identifier>
+        <dc:title>The Inns and Taverns of "Pickwick" / With Some Observations on Their Other Associations</dc:title>
+        <dc:creator opf:file-as="Matz, B. W. (Bertram Waldrom)" opf:role="aut">B. W. Matz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5204</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dickens</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1812-1870. Pickwick papers</dc:subject>
+        <dc:subject>Taverns (Inns) -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. W. Matz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:23:54.367275+00:00"/>
+        <meta name="calibre:title_sort" content="Inns and Taverns of &quot;Pickwick&quot; / With Some Observations on Their Other Associations, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

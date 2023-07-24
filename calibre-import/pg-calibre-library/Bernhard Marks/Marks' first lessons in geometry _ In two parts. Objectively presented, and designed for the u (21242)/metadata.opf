@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">addea20a-41f6-4210-8e27-c2f13a5999ae</dc:identifier>
+        <dc:title>Marks' first lessons in geometry / In two parts. Objectively presented, and designed for the use of primary classes in grammar schools, academies, etc.</dc:title>
+        <dc:creator opf:file-as="Marks, Bernhard" opf:role="aut">Bernhard Marks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54300</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Geometry -- Study and teaching</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernhard Marks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:51:43.746692+00:00"/>
+        <meta name="calibre:title_sort" content="Marks' first lessons in geometry / In two parts. Objectively presented, and designed for the use of primary classes in grammar schools, academies, etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

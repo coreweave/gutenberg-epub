@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b922c0ae-1655-4d89-84b3-643debfe50ae</dc:identifier>
+        <dc:title>Geofroy Tory / Painter and engraver; first royal printer; reformer of orthography and typography under François I.</dc:title>
+        <dc:creator opf:file-as="Bernard, Auguste" opf:role="aut">Auguste Bernard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60542</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tory</dc:subject>
+        <dc:subject>Geoffroy</dc:subject>
+        <dc:subject>approximately 1480-approximately 1533</dc:subject>
+        <dc:subject>Printers -- France -- Biography</dc:subject>
+        <dc:subject>Printing -- France -- History -- 16th century</dc:subject>
+        <dc:subject>Early printed books -- France -- 16th century -- Bibliography</dc:subject>
+        <dc:subject>Artists -- France -- Biography</dc:subject>
+        <dc:subject>French language -- Reform</dc:subject>
+        <dc:subject>France -- Imprints</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Auguste Bernard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:38:23.075025+00:00"/>
+        <meta name="calibre:title_sort" content="Geofroy Tory / Painter and engraver; first royal printer; reformer of orthography and typography under François I."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

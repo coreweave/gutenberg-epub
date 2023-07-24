@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a998d50-4dd1-4434-a5f2-9e445d4b4ae9</dc:identifier>
+        <dc:title>A Letter From a Clergyman to his Friend, / with an Account of the Travels of Captain Lemuel Gulliver</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29189</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Swift</dc:subject>
+        <dc:subject>Jonathan</dc:subject>
+        <dc:subject>1667-1745. Gulliver's travels</dc:subject>
+        <dc:subject>Voyages</dc:subject>
+        <dc:subject>Imaginary -- History and criticism</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <dc:subject>Travelers in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:41.824719+00:00"/>
+        <meta name="calibre:title_sort" content="Letter From a Clergyman to his Friend, / with an Account of the Travels of Captain Lemuel Gulliver, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

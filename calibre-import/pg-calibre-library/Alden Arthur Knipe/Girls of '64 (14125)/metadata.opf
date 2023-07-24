@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2399d367-5ef6-4d00-9df5-ce5798fa8f86</dc:identifier>
+        <dc:title>Girls of '64</dc:title>
+        <dc:creator opf:file-as="Knipe, Alden Arthur" opf:role="aut">Alden Arthur Knipe</dc:creator>
+        <dc:creator opf:file-as="Knipe, Alden Arthur" opf:role="aut">Emilie Benson Knipe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alden Arthur Knipe&quot;: &quot;&quot;, &quot;Emilie Benson Knipe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:44:46.949295+00:00"/>
+        <meta name="calibre:title_sort" content="Girls of '64"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

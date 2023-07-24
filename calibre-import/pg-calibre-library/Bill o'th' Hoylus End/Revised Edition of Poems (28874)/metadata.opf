@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28874</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24ba3d47-02c0-4a97-b434-8fe9e1cbe792</dc:identifier>
+        <dc:title>Revised Edition of Poems</dc:title>
+        <dc:creator opf:file-as="Bill o'th' Hoylus End" opf:role="aut">Bill o'th' Hoylus End</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27781</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Dialect poetry</dc:subject>
+        <dc:subject>English -- England -- Yorkshire</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bill o'th' Hoylus End&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:18:34.142891+00:00"/>
+        <meta name="calibre:title_sort" content="Revised Edition of Poems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

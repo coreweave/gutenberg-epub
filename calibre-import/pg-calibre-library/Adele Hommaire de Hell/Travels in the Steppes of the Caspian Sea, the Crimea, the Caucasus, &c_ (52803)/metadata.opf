@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">261aea5b-7191-46e0-8c0d-030152ed92e1</dc:identifier>
+        <dc:title>Travels in the Steppes of the Caspian Sea, the Crimea, the Caucasus, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Hommaire de Hell, Adèle" opf:role="aut">Adèle Hommaire de Hell</dc:creator>
+        <dc:creator opf:file-as="Hommaire de Hell, Adèle" opf:role="aut">Xavier Hommaire de Hell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36505</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caucasus -- Description and travel</dc:subject>
+        <dc:subject>Crimea (Ukraine) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adèle Hommaire de Hell&quot;: &quot;&quot;, &quot;Xavier Hommaire de Hell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:05:39.993746+00:00"/>
+        <meta name="calibre:title_sort" content="Travels in the Steppes of the Caspian Sea, the Crimea, the Caucasus, &amp;c."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

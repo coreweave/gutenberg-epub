@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b9f2b11-ae88-4470-9307-7d6f52d37128</dc:identifier>
+        <dc:title>The Mystery of the Downs</dc:title>
+        <dc:creator opf:file-as="Rees, Arthur J. (Arthur John)" opf:role="aut">Arthur J. Rees</dc:creator>
+        <dc:creator opf:file-as="Rees, Arthur J. (Arthur John)" opf:role="aut">John R. Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45658</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur J. Rees&quot;: &quot;&quot;, &quot;John R. Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:20:57.930405+00:00"/>
+        <meta name="calibre:title_sort" content="Mystery of the Downs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

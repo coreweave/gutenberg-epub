@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9ae38ab-95a4-43d4-9029-fdb7e4971ff7</dc:identifier>
+        <dc:title>Aesop, in Rhyme: Old Friends in a New Dress</dc:title>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Aesop</dc:creator>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Marmaduke Park</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21189</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fables</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aesop&quot;: &quot;&quot;, &quot;Marmaduke Park&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:01.638866+00:00"/>
+        <meta name="calibre:title_sort" content="Aesop, in Rhyme: Old Friends in a New Dress"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

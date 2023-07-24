@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c10f4052-8d76-4f90-a2bb-a3c4054802ca</dc:identifier>
+        <dc:title>The Coming of the King</dc:title>
+        <dc:creator opf:file-as="Babcock, Bernie" opf:role="aut">Bernie Babcock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20367</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jesus Christ -- Fiction</dc:subject>
+        <dc:subject>Christian fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernie Babcock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:27:09.746344+00:00"/>
+        <meta name="calibre:title_sort" content="Coming of the King, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

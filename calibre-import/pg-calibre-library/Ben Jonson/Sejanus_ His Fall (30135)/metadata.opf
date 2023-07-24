@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">418a56d3-2d04-4c54-8b76-67041622dac1</dc:identifier>
+        <dc:title>Sejanus: His Fall</dc:title>
+        <dc:creator opf:file-as="Jonson, Ben" opf:role="aut">Ben Jonson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5232</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Sejanus</dc:subject>
+        <dc:subject>Lucius Aelius</dc:subject>
+        <dc:subject>-31 -- Drama</dc:subject>
+        <dc:subject>Rome -- History -- Tiberius</dc:subject>
+        <dc:subject>14-37 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ben Jonson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:17:21.819845+00:00"/>
+        <meta name="calibre:title_sort" content="Sejanus: His Fall"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

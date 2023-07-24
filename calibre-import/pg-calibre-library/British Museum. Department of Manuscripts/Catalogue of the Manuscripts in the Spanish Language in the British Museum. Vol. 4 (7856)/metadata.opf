@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf64c9a1-def2-4507-93bf-54fac960833b</dc:identifier>
+        <dc:title>Catalogue of the Manuscripts in the Spanish Language in the British Museum. Vol. 4</dc:title>
+        <dc:creator opf:file-as="British Museum. Department of Manuscripts" opf:role="aut">British Museum. Department of Manuscripts</dc:creator>
+        <dc:creator opf:file-as="British Museum. Department of Manuscripts" opf:role="aut">Pascual de Gayangos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52230</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Manuscripts -- Great Britain -- Catalogs</dc:subject>
+        <dc:subject>Manuscripts</dc:subject>
+        <dc:subject>Spanish -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;British Museum. Department of Manuscripts&quot;: &quot;&quot;, &quot;Pascual de Gayangos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:54:46.574301+00:00"/>
+        <meta name="calibre:title_sort" content="Catalogue of the Manuscripts in the Spanish Language in the British Museum. Vol. 4"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

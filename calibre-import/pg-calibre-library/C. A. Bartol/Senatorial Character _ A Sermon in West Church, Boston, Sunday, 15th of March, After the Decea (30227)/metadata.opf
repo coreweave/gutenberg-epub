@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7c5b5b4-38c9-4003-84bf-a9489392e765</dc:identifier>
+        <dc:title>Senatorial Character / A Sermon in West Church, Boston, Sunday, 15th of March, After the Decease of Charles Sumner.</dc:title>
+        <dc:creator opf:file-as="Bartol, C. A. (Cyrus Augustus)" opf:role="aut">C. A. Bartol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Sermons</dc:subject>
+        <dc:subject>Sumner</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1811-1874</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. A. Bartol&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:22:13.549687+00:00"/>
+        <meta name="calibre:title_sort" content="Senatorial Character / A Sermon in West Church, Boston, Sunday, 15th of March, After the Decease of Charles Sumner."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a137c6af-fa47-4ae6-a0b0-e7555841a5c8</dc:identifier>
+        <dc:title>Aeschylus' Prometheus Bound and the Seven Against Thebes</dc:title>
+        <dc:creator opf:file-as="Aeschylus" opf:role="aut">Aeschylus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27458</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Prometheus (Greek deity) -- Drama</dc:subject>
+        <dc:subject>Seven against Thebes (Greek mythology) -- Drama</dc:subject>
+        <dc:subject>Polynices (Greek mythological figure) -- Drama</dc:subject>
+        <dc:subject>Eteocles</dc:subject>
+        <dc:subject>King of Thebes (Mythological character) -- Drama</dc:subject>
+        <dc:subject>Thebes (Greece) -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aeschylus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:25:55.733095+00:00"/>
+        <meta name="calibre:title_sort" content="Aeschylus' Prometheus Bound and the Seven Against Thebes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

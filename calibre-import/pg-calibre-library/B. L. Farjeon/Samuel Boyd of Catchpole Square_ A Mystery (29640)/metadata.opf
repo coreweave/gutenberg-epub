@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51e4a2bf-93c0-4b2b-aca0-41a09a72cf63</dc:identifier>
+        <dc:title>Samuel Boyd of Catchpole Square: A Mystery</dc:title>
+        <dc:creator opf:file-as="Farjeon, B. L. (Benjamin Leopold)" opf:role="aut">B. L. Farjeon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43198</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. L. Farjeon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:53:33.299855+00:00"/>
+        <meta name="calibre:title_sort" content="Samuel Boyd of Catchpole Square: A Mystery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

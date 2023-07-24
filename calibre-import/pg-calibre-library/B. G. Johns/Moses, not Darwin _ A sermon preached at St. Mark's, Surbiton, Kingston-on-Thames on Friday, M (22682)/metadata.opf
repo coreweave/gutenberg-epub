@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ea7cdfe-e1cf-4485-a0c7-7bf1af007022</dc:identifier>
+        <dc:title>Moses, not Darwin / A sermon preached at St. Mark's, Surbiton, Kingston-on-Thames on Friday, March 31, 1871</dc:title>
+        <dc:creator opf:file-as="Johns, B. G. (Bennett George)" opf:role="aut">B. G. Johns</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64496</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Creation</dc:subject>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 19th century</dc:subject>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Bible. Genesis</dc:subject>
+        <dc:subject>II</dc:subject>
+        <dc:subject>7 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. G. Johns&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:49:46.206454+00:00"/>
+        <meta name="calibre:title_sort" content="Moses, not Darwin / A sermon preached at St. Mark's, Surbiton, Kingston-on-Thames on Friday, March 31, 1871"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

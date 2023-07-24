@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a471f4e-ea0d-41b3-b7e6-7a197e962c46</dc:identifier>
+        <dc:title>The Manual of the Botany of the Northern United States / Including the District East of the Mississippi and North of North Carolina and Tennessee</dc:title>
+        <dc:creator opf:file-as="Gray, Asa" opf:role="aut">Asa Gray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39423</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plants -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Asa Gray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:19:45.904912+00:00"/>
+        <meta name="calibre:title_sort" content="Manual of the Botany of the Northern United States / Including the District East of the Mississippi and North of North Carolina and Tennessee, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93fa9eca-4a3c-489d-ad3d-19528868ad01</dc:identifier>
+        <dc:title>Christian Gellert's Last Christmas / From "German Tales" Published by the American Publishers' Corporation</dc:title>
+        <dc:creator opf:file-as="Auerbach, Berthold" opf:role="aut">Berthold Auerbach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22665</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <dc:subject>Gellert</dc:subject>
+        <dc:subject>Christian Fürchtegott</dc:subject>
+        <dc:subject>1715-1769</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Berthold Auerbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:11:40.662498+00:00"/>
+        <meta name="calibre:title_sort" content="Christian Gellert's Last Christmas / From &quot;German Tales&quot; Published by the American Publishers' Corporation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

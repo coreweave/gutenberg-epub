@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a3caa5a-543f-4036-91a4-38624e426f08</dc:identifier>
+        <dc:title>If Winter Don't / A.B.C.D.E.F. Notsomuchinson</dc:title>
+        <dc:creator opf:file-as="Pain, Barry" opf:role="aut">Barry Pain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27375</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Parodies</dc:subject>
+        <dc:subject>Hutchinson</dc:subject>
+        <dc:subject>A. S. M. (Arthur Stuart-Menteth)</dc:subject>
+        <dc:subject>1880-1971. If winter comes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Barry Pain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:17:25.318307+00:00"/>
+        <meta name="calibre:title_sort" content="If Winter Don't / A.B.C.D.E.F. Notsomuchinson"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

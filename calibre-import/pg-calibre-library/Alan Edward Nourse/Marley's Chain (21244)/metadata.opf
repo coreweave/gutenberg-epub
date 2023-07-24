@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56f681f7-4bbd-48ff-96c9-323f53232d54</dc:identifier>
+        <dc:title>Marley's Chain</dc:title>
+        <dc:creator opf:file-as="Nourse, Alan Edward" opf:role="aut">Alan Edward Nourse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32142</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Race relations -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Edward Nourse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:51:48.661734+00:00"/>
+        <meta name="calibre:title_sort" content="Marley's Chain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

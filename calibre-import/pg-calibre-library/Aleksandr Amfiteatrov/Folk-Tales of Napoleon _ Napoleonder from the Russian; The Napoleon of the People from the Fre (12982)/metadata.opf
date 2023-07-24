@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12982</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a270d5f3-0588-43c4-9a95-6a8624570149</dc:identifier>
+        <dc:title>Folk-Tales of Napoleon / Napoleonder from the Russian; The Napoleon of the People from the French of Honoré De Balzac</dc:title>
+        <dc:creator opf:file-as="Amfiteatrov, Aleksandr" opf:role="aut">Aleksandr Amfiteatrov</dc:creator>
+        <dc:creator opf:file-as="Amfiteatrov, Aleksandr" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11278</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aleksandr Amfiteatrov&quot;: &quot;&quot;, &quot;Honoré de Balzac&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:10:14.054002+00:00"/>
+        <meta name="calibre:title_sort" content="Folk-Tales of Napoleon / Napoleonder from the Russian; The Napoleon of the People from the French of Honoré De Balzac"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

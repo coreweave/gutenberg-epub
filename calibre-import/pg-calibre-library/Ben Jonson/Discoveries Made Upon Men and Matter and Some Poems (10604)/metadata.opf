@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1be6357-f2bf-4b38-b972-e7e43a48d3ab</dc:identifier>
+        <dc:title>Discoveries Made Upon Men and Matter and Some Poems</dc:title>
+        <dc:creator opf:file-as="Jonson, Ben" opf:role="aut">Ben Jonson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5134</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- Early modern</dc:subject>
+        <dc:subject>1500-1700</dc:subject>
+        <dc:subject>Commonplace books</dc:subject>
+        <dc:subject>Miscellanea</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ben Jonson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:04:06.836651+00:00"/>
+        <meta name="calibre:title_sort" content="Discoveries Made Upon Men and Matter and Some Poems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

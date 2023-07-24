@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28d077f2-af73-4b23-96b5-dcd2c762d7eb</dc:identifier>
+        <dc:title>Buried Treasure of Casco Bay: A Guide for the Modern Hunter</dc:title>
+        <dc:creator opf:file-as="Kennedy, Ben F." opf:role="aut">Ben F. Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58609</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Treasure troves -- Maine -- Casco Bay</dc:subject>
+        <dc:subject>Casco Bay (Me.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ben F. Kennedy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:41:41.278668+00:00"/>
+        <meta name="calibre:title_sort" content="Buried Treasure of Casco Bay: A Guide for the Modern Hunter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

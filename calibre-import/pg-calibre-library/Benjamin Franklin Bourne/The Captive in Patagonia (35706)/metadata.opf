@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08c279af-6ec7-48fb-9c21-ba13c2e1d415</dc:identifier>
+        <dc:title>The Captive in Patagonia</dc:title>
+        <dc:creator opf:file-as="Bourne, Benjamin Franklin" opf:role="aut">Benjamin Franklin Bourne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of South America -- Patagonia (Argentina and Chile)</dc:subject>
+        <dc:subject>Patagonia (Argentina and Chile) -- Description and travel</dc:subject>
+        <dc:subject>Bourne</dc:subject>
+        <dc:subject>Benjamin Franklin</dc:subject>
+        <dc:subject>1816-1874</dc:subject>
+        <dc:subject>Tehuelche Indians -- Social life and customs</dc:subject>
+        <dc:subject>Indian captivities -- Argentina</dc:subject>
+        <dc:subject>Indian captivities -- Patagonia (Argentina and Chile)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin Franklin Bourne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:49:42.854764+00:00"/>
+        <meta name="calibre:title_sort" content="Captive in Patagonia, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

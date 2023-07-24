@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce58ab2d-2098-4d16-ac8d-8148e45d9947</dc:identifier>
+        <dc:title>Creative Intelligence: Essays in the Pragmatic Attitude</dc:title>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">Boyd Henry Bode</dc:creator>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">Harold Chapman Brown</dc:creator>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">John Dewey</dc:creator>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">Horace Meyer Kallen</dc:creator>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">George H. Mead</dc:creator>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">Addison Webster Moore</dc:creator>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">Henry Waldgrave Stuart</dc:creator>
+        <dc:creator opf:file-as="Bode, Boyd Henry" opf:role="aut">James Hayden Tufts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33727</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Pragmatism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Boyd Henry Bode&quot;: &quot;&quot;, &quot;Harold Chapman Brown&quot;: &quot;&quot;, &quot;John Dewey&quot;: &quot;&quot;, &quot;Horace Meyer Kallen&quot;: &quot;&quot;, &quot;George H. Mead&quot;: &quot;&quot;, &quot;Addison Webster Moore&quot;: &quot;&quot;, &quot;Henry Waldgrave Stuart&quot;: &quot;&quot;, &quot;James Hayden Tufts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:35:54.340892+00:00"/>
+        <meta name="calibre:title_sort" content="Creative Intelligence: Essays in the Pragmatic Attitude"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

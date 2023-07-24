@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21a39349-264d-4b75-9301-50cc719e3011</dc:identifier>
+        <dc:title>Three Sides of Paradise Green</dc:title>
+        <dc:creator opf:file-as="Seaman, Augusta Huiell" opf:role="aut">Augusta Huiell Seaman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52946</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Diary fiction</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <dc:subject>New England -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augusta Huiell Seaman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:24:30.410368+00:00"/>
+        <meta name="calibre:title_sort" content="Three Sides of Paradise Green"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

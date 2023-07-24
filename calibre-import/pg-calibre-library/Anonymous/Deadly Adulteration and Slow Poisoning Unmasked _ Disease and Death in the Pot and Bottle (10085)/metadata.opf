@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cddfc24b-6cd9-448e-877e-9a44109f9c7b</dc:identifier>
+        <dc:title>Deadly Adulteration and Slow Poisoning Unmasked / Disease and Death in the Pot and Bottle</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52434</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Food adulteration and inspection</dc:subject>
+        <dc:subject>Drug adulteration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:50:20.706053+00:00"/>
+        <meta name="calibre:title_sort" content="Deadly Adulteration and Slow Poisoning Unmasked / Disease and Death in the Pot and Bottle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

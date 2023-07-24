@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31887</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49cf35a8-a77e-4972-9559-e241174a482b</dc:identifier>
+        <dc:title>Stories from Le Morte D'Arthur and the Mabinogion</dc:title>
+        <dc:creator opf:file-as="Clay, Beatrice E. (Beatrice Elizabeth)" opf:role="aut">Beatrice E. Clay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15551</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- England</dc:subject>
+        <dc:subject>Arthur</dc:subject>
+        <dc:subject>King -- Legends</dc:subject>
+        <dc:subject>Arthurian romances -- Juvenile literature</dc:subject>
+        <dc:subject>Knights and knighthood -- Folklore</dc:subject>
+        <dc:subject>Folklore -- Wales</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Beatrice E. Clay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:42:37.948385+00:00"/>
+        <meta name="calibre:title_sort" content="Stories from Le Morte D'Arthur and the Mabinogion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

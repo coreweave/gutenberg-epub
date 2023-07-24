@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f2dee88-5189-4443-b3aa-a3a18b059f13</dc:identifier>
+        <dc:title>The Life of That Wonderful and Extraordinarily Heavy Man, Daniel Lambert / From His Birth to the Moment of His Dissolution; With an Account of Men Noted for Their Corpulency, and Other Interesting Matter</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67328</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Obesity</dc:subject>
+        <dc:subject>Chapbooks</dc:subject>
+        <dc:subject>Lambert</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1770-1809</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:35:02.883560+00:00"/>
+        <meta name="calibre:title_sort" content="Life of That Wonderful and Extraordinarily Heavy Man, Daniel Lambert / From His Birth to the Moment of His Dissolution; With an Account of Men Noted for Their Corpulency, and Other Interesting Matter, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

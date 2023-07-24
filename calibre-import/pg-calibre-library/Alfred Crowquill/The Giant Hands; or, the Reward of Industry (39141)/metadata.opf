@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e8e88c7-2d3d-45b5-a7e1-ac6f02fd646b</dc:identifier>
+        <dc:title>The Giant Hands; or, the Reward of Industry</dc:title>
+        <dc:creator opf:file-as="Crowquill, Alfred" opf:role="aut">Alfred Crowquill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Mothers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Work ethic -- Juvenile fiction</dc:subject>
+        <dc:subject>Ghouls and ogres -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Crowquill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:45:47.031857+00:00"/>
+        <meta name="calibre:title_sort" content="Giant Hands; or, the Reward of Industry, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

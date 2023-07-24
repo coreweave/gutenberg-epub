@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a30de17b-8a1a-46d9-9c45-44d06c343659</dc:identifier>
+        <dc:title>Cinq Mars — Volume 5</dc:title>
+        <dc:creator opf:file-as="Vigny, Alfred de" opf:role="aut">Alfred de Vigny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3951</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cinq-Mars</dc:subject>
+        <dc:subject>Henri Coiffier Ruzé d'Effiat</dc:subject>
+        <dc:subject>marquis de</dc:subject>
+        <dc:subject>1620-1642 -- Fiction</dc:subject>
+        <dc:subject>Richelieu</dc:subject>
+        <dc:subject>Armand Jean du Plessis</dc:subject>
+        <dc:subject>duc de</dc:subject>
+        <dc:subject>1585-1642 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred de Vigny&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:16:29.828651+00:00"/>
+        <meta name="calibre:title_sort" content="Cinq Mars — Volume 5"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

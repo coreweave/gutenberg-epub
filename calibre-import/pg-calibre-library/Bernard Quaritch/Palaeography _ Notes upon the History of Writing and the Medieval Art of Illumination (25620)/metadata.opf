@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18776676-b2e7-494e-b421-a4853d8c73f5</dc:identifier>
+        <dc:title>Palæography / Notes upon the History of Writing and the Medieval Art of Illumination</dc:title>
+        <dc:creator opf:file-as="Quaritch, Bernard" opf:role="aut">Bernard Quaritch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45170</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Illumination of books and manuscripts</dc:subject>
+        <dc:subject>Paleography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernard Quaritch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:54:40.099463+00:00"/>
+        <meta name="calibre:title_sort" content="Palæography / Notes upon the History of Writing and the Medieval Art of Illumination"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

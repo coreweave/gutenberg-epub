@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">117adb13-7b68-49ba-b900-78cdd67bf1a4</dc:identifier>
+        <dc:title>The American National Red Cross Bulletin (Vol. I, No. 3, July 1906)</dc:title>
+        <dc:creator opf:file-as="American National Red Cross" opf:role="aut">American National Red Cross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American National Red Cross -- Periodicals</dc:subject>
+        <dc:subject>Red Cross and Red Crescent -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American National Red Cross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:01:53.446603+00:00"/>
+        <meta name="calibre:title_sort" content="American National Red Cross Bulletin (Vol. I, No. 3, July 1906), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b52c1d4-5d99-46f8-92dd-d73e9edaad5c</dc:identifier>
+        <dc:title>The Autobiography of Benvenuto Cellini</dc:title>
+        <dc:creator opf:file-as="Cellini, Benvenuto" opf:role="aut">Benvenuto Cellini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4028</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cellini</dc:subject>
+        <dc:subject>Benvenuto</dc:subject>
+        <dc:subject>1500-1571</dc:subject>
+        <dc:subject>Sculptors -- Italy -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benvenuto Cellini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:27:42.573338+00:00"/>
+        <meta name="calibre:title_sort" content="Autobiography of Benvenuto Cellini, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

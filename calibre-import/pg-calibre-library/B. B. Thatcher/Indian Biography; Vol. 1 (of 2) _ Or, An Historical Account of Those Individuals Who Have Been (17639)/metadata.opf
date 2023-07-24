@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91394530-172c-4fa7-9cd4-5ddd21b9062c</dc:identifier>
+        <dc:title>Indian Biography; Vol. 1 (of 2) / Or, An Historical Account of Those Individuals Who Have Been Distinguished among the North American Natives as Orators, Warriors, Statesmen, and Other Remarkable Characters</dc:title>
+        <dc:creator opf:file-as="Thatcher, B. B. (Benjamin Bussey)" opf:role="aut">B. B. Thatcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54898</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Biography</dc:subject>
+        <dc:subject>Indians of North America -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. B. Thatcher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:40:26.254812+00:00"/>
+        <meta name="calibre:title_sort" content="Indian Biography; Vol. 1 (of 2) / Or, An Historical Account of Those Individuals Who Have Been Distinguished among the North American Natives as Orators, Warriors, Statesmen, and Other Remarkable Characters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dad350e5-0083-43dd-8e3a-9b701cbfdd0f</dc:identifier>
+        <dc:title>Under Three Flags: A Story of Mystery</dc:title>
+        <dc:creator opf:file-as="Taylor, Bert Leston" opf:role="aut">Bert Leston Taylor</dc:creator>
+        <dc:creator opf:file-as="Taylor, Bert Leston" opf:role="aut">Alvin T. Thoits</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65345</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Murder -- Investigation -- Fiction</dc:subject>
+        <dc:subject>Elopement -- Fiction</dc:subject>
+        <dc:subject>Men -- Conduct of life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bert Leston Taylor&quot;: &quot;&quot;, &quot;Alvin T. Thoits&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:48:22.386785+00:00"/>
+        <meta name="calibre:title_sort" content="Under Three Flags: A Story of Mystery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

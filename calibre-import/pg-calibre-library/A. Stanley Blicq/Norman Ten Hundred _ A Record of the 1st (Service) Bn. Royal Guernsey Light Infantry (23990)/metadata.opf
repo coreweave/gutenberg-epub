@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23990</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fdb5a36e-61c1-4462-b898-0fd8005e97b9</dc:identifier>
+        <dc:title>Norman Ten Hundred / A Record of the 1st (Service) Bn. Royal Guernsey Light Infantry</dc:title>
+        <dc:creator opf:file-as="Blicq, A. Stanley" opf:role="aut">A. Stanley Blicq</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26713</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Regimental histories -- Channel Islands -- Guernsey</dc:subject>
+        <dc:subject>Guernsey (Channel Islands) -- Militia -- History</dc:subject>
+        <dc:subject>Cambrai</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>1917</dc:subject>
+        <dc:subject>Guernsey (Channel Islands) -- Regimental histories -- 1st (Service) Bn. Royal Guernsey Light Infantry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Stanley Blicq&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:45:43.947593+00:00"/>
+        <meta name="calibre:title_sort" content="Norman Ten Hundred / A Record of the 1st (Service) Bn. Royal Guernsey Light Infantry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

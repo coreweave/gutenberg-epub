@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78201e79-92a6-4640-8513-6641fb8e9704</dc:identifier>
+        <dc:title>A Hind Let Loose / Or, An Historical Representation of the Testimonies of the Church of Scotland for the Interest of Christ. With the True State Thereof in All Its Periods</dc:title>
+        <dc:creator opf:file-as="Shields, Alexander" opf:role="aut">Alexander Shields</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37137</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of Scotland -- History</dc:subject>
+        <dc:subject>Covenanters</dc:subject>
+        <dc:subject>Scotland -- Church history</dc:subject>
+        <dc:subject>Church of Scotland -- Controversial literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Shields&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:44:50.287511+00:00"/>
+        <meta name="calibre:title_sort" content="Hind Let Loose / Or, An Historical Representation of the Testimonies of the Church of Scotland for the Interest of Christ. With the True State Thereof in All Its Periods, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

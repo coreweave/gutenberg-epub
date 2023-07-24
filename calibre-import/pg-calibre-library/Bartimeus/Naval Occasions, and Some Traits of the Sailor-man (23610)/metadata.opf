@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ca1e764-bb22-408e-95b5-4d5c1f239541</dc:identifier>
+        <dc:title>Naval Occasions, and Some Traits of the Sailor-man</dc:title>
+        <dc:creator opf:file-as="Bartimeus" opf:role="aut">Bartimeus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46730</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sailors -- Fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Great Britain. Royal Navy -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Naval -- 20th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bartimeus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:29:41.220667+00:00"/>
+        <meta name="calibre:title_sort" content="Naval Occasions, and Some Traits of the Sailor-man"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

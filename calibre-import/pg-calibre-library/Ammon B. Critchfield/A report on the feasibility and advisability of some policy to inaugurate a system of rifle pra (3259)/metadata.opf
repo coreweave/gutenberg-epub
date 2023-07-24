@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a43c774-d6b8-4fe5-9db3-3828f5fade2e</dc:identifier>
+        <dc:title>A report on the feasibility and advisability of some policy to inaugurate a system of rifle practice throughout the public schools of the country</dc:title>
+        <dc:creator opf:file-as="Critchfield, Ammon B." opf:role="aut">Ammon B. Critchfield</dc:creator>
+        <dc:creator opf:file-as="Critchfield, Ammon B." opf:role="aut">National Board for the Promotion of Rifle Practice</dc:creator>
+        <dc:creator opf:file-as="Critchfield, Ammon B." opf:role="aut">George Wood Wingate</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25662</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rifle practice</dc:subject>
+        <dc:subject>Shooting -- Study and teaching</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ammon B. Critchfield&quot;: &quot;&quot;, &quot;National Board for the Promotion of Rifle Practice&quot;: &quot;&quot;, &quot;George Wood Wingate&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:13.339700+00:00"/>
+        <meta name="calibre:title_sort" content="report on the feasibility and advisability of some policy to inaugurate a system of rifle practice throughout the public schools of the country, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

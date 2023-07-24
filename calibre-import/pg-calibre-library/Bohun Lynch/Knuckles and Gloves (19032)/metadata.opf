@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19032</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f0d3702-10a8-455d-a9d8-c1affb3a764f</dc:identifier>
+        <dc:title>Knuckles and Gloves</dc:title>
+        <dc:creator opf:file-as="Lynch, Bohun" opf:role="aut">Bohun Lynch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57329</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boxing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bohun Lynch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:29:11.419182+00:00"/>
+        <meta name="calibre:title_sort" content="Knuckles and Gloves"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

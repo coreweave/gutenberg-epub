@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32888</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a1483f1-5965-4c82-9aea-f6e8290a52e5</dc:identifier>
+        <dc:title>Thankful Rest</dc:title>
+        <dc:creator opf:file-as="Swan, Annie S." opf:role="aut">Annie S. Swan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12998</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Aunts -- Juvenile fiction</dc:subject>
+        <dc:subject>Connecticut -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie S. Swan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:30:49.026918+00:00"/>
+        <meta name="calibre:title_sort" content="Thankful Rest"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cec38905-1333-4965-8ee5-582caa1d06e8</dc:identifier>
+        <dc:title>The Most Extraordinary Trial of William Palmer, for the Rugeley Poisonings, which lasted Twelve Days</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51135</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trials (Murder) -- England -- London</dc:subject>
+        <dc:subject>Cook</dc:subject>
+        <dc:subject>John Parsons</dc:subject>
+        <dc:subject>-1855</dc:subject>
+        <dc:subject>Palmer</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1824-1856 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Trials (Poisoning) -- England -- London</dc:subject>
+        <dc:subject>Poisoning -- England -- Rugeley</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:09:07.119893+00:00"/>
+        <meta name="calibre:title_sort" content="Most Extraordinary Trial of William Palmer, for the Rugeley Poisonings, which lasted Twelve Days, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

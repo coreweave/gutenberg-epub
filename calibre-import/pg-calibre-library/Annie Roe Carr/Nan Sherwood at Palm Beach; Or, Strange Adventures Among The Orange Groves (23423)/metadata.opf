@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a60d277-e5fe-4a74-9ae8-e667e4df7f19</dc:identifier>
+        <dc:title>Nan Sherwood at Palm Beach; Or, Strange Adventures Among The Orange Groves</dc:title>
+        <dc:creator opf:file-as="Carr, Annie Roe" opf:role="aut">Annie Roe Carr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Florida -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie Roe Carr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:22:00.664967+00:00"/>
+        <meta name="calibre:title_sort" content="Nan Sherwood at Palm Beach; Or, Strange Adventures Among The Orange Groves"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

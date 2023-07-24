@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54061</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37aae0f2-edba-4bcd-9442-c7bc6db3b9f2</dc:identifier>
+        <dc:title>Wandering Heath</dc:title>
+        <dc:creator opf:file-as="Quiller-Couch, Arthur" opf:role="aut">Arthur Quiller-Couch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18750</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Cornwall (England : County) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Quiller-Couch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:26:45.930867+00:00"/>
+        <meta name="calibre:title_sort" content="Wandering Heath"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

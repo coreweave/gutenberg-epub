@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b325e83e-8753-4b35-a771-fe7cd11249c6</dc:identifier>
+        <dc:title>Australia, The Dairy Country</dc:title>
+        <dc:creator opf:file-as="Australia. Department of External Affairs" opf:role="aut">Australia. Department of External Affairs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25527</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dairying -- Australia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Australia. Department of External Affairs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:02:20.867831+00:00"/>
+        <meta name="calibre:title_sort" content="Australia, The Dairy Country"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

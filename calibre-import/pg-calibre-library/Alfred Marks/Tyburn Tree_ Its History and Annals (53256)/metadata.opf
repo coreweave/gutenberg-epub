@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b695e50-2a4f-46de-96be-03c51b94f706</dc:identifier>
+        <dc:title>Tyburn Tree: Its History and Annals</dc:title>
+        <dc:creator opf:file-as="Marks, Alfred" opf:role="aut">Alfred Marks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56503</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crime -- Great Britain</dc:subject>
+        <dc:subject>Criminals -- Great Britain</dc:subject>
+        <dc:subject>Tyburn gallows (London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>Executions and executioners</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Marks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:34:48.089873+00:00"/>
+        <meta name="calibre:title_sort" content="Tyburn Tree: Its History and Annals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

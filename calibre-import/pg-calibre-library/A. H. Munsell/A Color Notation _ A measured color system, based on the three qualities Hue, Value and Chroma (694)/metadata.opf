@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd030530-e6c0-4d0e-88d4-e7afc1d4293e</dc:identifier>
+        <dc:title>A Color Notation / A measured color system, based on the three qualities Hue, Value and Chroma</dc:title>
+        <dc:creator opf:file-as="Munsell, A. H. (Albert Henry)" opf:role="aut">A. H. Munsell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26054</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Color</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. H. Munsell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:36:24.730402+00:00"/>
+        <meta name="calibre:title_sort" content="Color Notation / A measured color system, based on the three qualities Hue, Value and Chroma, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

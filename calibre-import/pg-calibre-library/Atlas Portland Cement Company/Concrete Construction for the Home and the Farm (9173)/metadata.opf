@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30126668-c716-49d5-acf3-da3efb180db2</dc:identifier>
+        <dc:title>Concrete Construction for the Home and the Farm</dc:title>
+        <dc:creator opf:file-as="Atlas Portland Cement Company" opf:role="aut">Atlas Portland Cement Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62312</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Concrete construction</dc:subject>
+        <dc:subject>Farm buildings</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Atlas Portland Cement Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:26:59.180089+00:00"/>
+        <meta name="calibre:title_sort" content="Concrete Construction for the Home and the Farm"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

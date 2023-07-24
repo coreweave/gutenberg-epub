@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6da19fd8-c80a-4296-8ce2-e645c192bac2</dc:identifier>
+        <dc:title>Martyria; or, Andersonville Prison</dc:title>
+        <dc:creator opf:file-as="Hamlin, Augustus C. (Augustus Choate)" opf:role="aut">Augustus C. Hamlin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37813</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Andersonville Prison</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Prisoners and prisons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augustus C. Hamlin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:54:19.553095+00:00"/>
+        <meta name="calibre:title_sort" content="Martyria; or, Andersonville Prison"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

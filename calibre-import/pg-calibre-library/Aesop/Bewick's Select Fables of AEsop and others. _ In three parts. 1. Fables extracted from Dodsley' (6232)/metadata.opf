@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88744d3e-c80c-4228-89ea-b7606fe977fa</dc:identifier>
+        <dc:title>Bewick's Select Fables of Æsop and others. / In three parts. 1. Fables extracted from Dodsley's. 2. Fables with reflections in prose and verse. 3. Fables in verse.</dc:title>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Aesop</dc:creator>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Robert Dodsley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60874</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fables</dc:subject>
+        <dc:subject>Greek -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aesop&quot;: &quot;&quot;, &quot;Robert Dodsley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:17:51.966696+00:00"/>
+        <meta name="calibre:title_sort" content="Bewick's Select Fables of Æsop and others. / In three parts. 1. Fables extracted from Dodsley's. 2. Fables with reflections in prose and verse. 3. Fables in verse."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

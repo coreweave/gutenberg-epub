@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a61147f8-8e75-4460-a82a-f9d7a3536d58</dc:identifier>
+        <dc:title>The Herriges Horror in Philadelphia / A Full History of the Whole Affair. A Man Kept in a Dark Cage Like a Wild Beast for Twenty Years, As Alleged, in His Own Mother's and Brother's House</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38282</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mentally ill -- Commitment and detention</dc:subject>
+        <dc:subject>Mentally ill -- Care</dc:subject>
+        <dc:subject>Herriges</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>Mentally ill -- Family relationships</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:39:52.241696+00:00"/>
+        <meta name="calibre:title_sort" content="Herriges Horror in Philadelphia / A Full History of the Whole Affair. A Man Kept in a Dark Cage Like a Wild Beast for Twenty Years, As Alleged, in His Own Mother's and Brother's House, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

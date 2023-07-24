@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e7d3b7f-6f13-47df-8432-5b2f7163fede</dc:identifier>
+        <dc:title>Frank Merriwell at Yale; Or, Freshman Against Freshman</dc:title>
+        <dc:creator opf:file-as="Standish, Burt L." opf:role="aut">Burt L. Standish</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11115</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>College students -- Juvenile fiction</dc:subject>
+        <dc:subject>Yale University -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Burt L. Standish&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:20:31.697707+00:00"/>
+        <meta name="calibre:title_sort" content="Frank Merriwell at Yale; Or, Freshman Against Freshman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

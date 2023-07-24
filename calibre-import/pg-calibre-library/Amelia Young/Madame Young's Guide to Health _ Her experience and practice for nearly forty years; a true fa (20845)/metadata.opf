@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc10a548-dbe2-4124-be15-eaa84891fb18</dc:identifier>
+        <dc:title>Madame Young's Guide to Health / Her experience and practice for nearly forty years; a true family herbal, wherein is displayed the true properties and medical virtues of all the roots, herbs, &amp;c., indigenous to the United States, and their combination in all the diseases the human body is heir to; also, an explanation of the human body, its liability to injuries through ignorance of its structure. Dedicated exclusively to her sex.</dc:title>
+        <dc:creator opf:file-as="Young, Amelia" opf:role="aut">Amelia Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53875</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Botany</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Medicine</dc:subject>
+        <dc:subject>Popular</dc:subject>
+        <dc:subject>Materia medica</dc:subject>
+        <dc:subject>Vegetable</dc:subject>
+        <dc:subject>Women physicians</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amelia Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:36:19.867026+00:00"/>
+        <meta name="calibre:title_sort" content="Madame Young's Guide to Health / Her experience and practice for nearly forty years; a true family herbal, wherein is displayed the true properties and medical virtues of all the roots, herbs, &amp;c., indigenous to the United States, and their combination in all the diseases the human body is heir to; also, an explanation of the human body, its liability to injuries through ignorance of its structure. Dedicated exclusively to her sex."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

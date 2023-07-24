@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89c9855d-8657-448d-9606-3ce8dba99b58</dc:identifier>
+        <dc:title>The Lady of the Shroud</dc:title>
+        <dc:creator opf:file-as="Stoker, Bram" opf:role="aut">Bram Stoker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3095</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horror tales</dc:subject>
+        <dc:subject>Imaginary places -- Europe</dc:subject>
+        <dc:subject>Eastern -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bram Stoker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:59:07.966567+00:00"/>
+        <meta name="calibre:title_sort" content="Lady of the Shroud, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52e35afc-2e3c-4c17-b6b6-60c675266b83</dc:identifier>
+        <dc:title>A Knight of the Nets</dc:title>
+        <dc:creator opf:file-as="Barr, Amelia E." opf:role="aut">Amelia E. Barr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9374</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Fishers -- Fiction</dc:subject>
+        <dc:subject>Scotland -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amelia E. Barr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:01.655062+00:00"/>
+        <meta name="calibre:title_sort" content="Knight of the Nets, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3391232-030d-49f6-80e5-4fb38aee5dfc</dc:identifier>
+        <dc:title>The Thunder Bird</dc:title>
+        <dc:creator opf:file-as="Bower, B. M." opf:role="aut">B. M. Bower</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14486</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Air pilots -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. M. Bower&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:12:07.706696+00:00"/>
+        <meta name="calibre:title_sort" content="Thunder Bird, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17764</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30b25ec6-595a-4b45-b8cf-d5e69dd4035b</dc:identifier>
+        <dc:title>Installation and Operation Instructions For Custom Mark III CP Series Oil Fired Unit</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28166</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boilers</dc:subject>
+        <dc:subject>Hot-water heating</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:44:41.022034+00:00"/>
+        <meta name="calibre:title_sort" content="Installation and Operation Instructions For Custom Mark III CP Series Oil Fired Unit"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

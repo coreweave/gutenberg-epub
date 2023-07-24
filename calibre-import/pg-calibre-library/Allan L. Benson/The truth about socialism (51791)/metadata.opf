@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f5cfeb2-922a-473e-afd4-0b1761867ce2</dc:identifier>
+        <dc:title>The truth about socialism</dc:title>
+        <dc:creator opf:file-as="Benson, Allan L. (Allan Louis)" opf:role="aut">Allan L. Benson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69480</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Socialism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Allan L. Benson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:01:22.011324+00:00"/>
+        <meta name="calibre:title_sort" content="truth about socialism, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

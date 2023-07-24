@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74caf3fb-9bfd-41a8-ae3a-e03d18cbdd9a</dc:identifier>
+        <dc:title>Captain Mansana &amp; Mother's Hands</dc:title>
+        <dc:creator opf:file-as="Bjørnson, Bjørnstjerne" opf:role="aut">Bjørnstjerne Bjørnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20291</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bjørnstjerne Bjørnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:50:38.759627+00:00"/>
+        <meta name="calibre:title_sort" content="Captain Mansana &amp; Mother's Hands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

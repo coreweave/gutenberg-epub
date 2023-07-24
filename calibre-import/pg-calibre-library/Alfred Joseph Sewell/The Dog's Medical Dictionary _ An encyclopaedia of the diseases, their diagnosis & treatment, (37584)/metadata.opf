@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88fb6312-0d07-440b-ae1c-8c411cf827d5</dc:identifier>
+        <dc:title>The Dog's Medical Dictionary / An encyclopædia of the diseases, their diagnosis &amp; treatment, and the physical development of the dog</dc:title>
+        <dc:creator opf:file-as="Sewell, Alfred Joseph" opf:role="aut">Alfred Joseph Sewell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66458</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Diseases -- Dictionaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Joseph Sewell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:25:05.308450+00:00"/>
+        <meta name="calibre:title_sort" content="Dog's Medical Dictionary / An encyclopædia of the diseases, their diagnosis &amp; treatment, and the physical development of the dog, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbe80562-14f1-4247-a23c-779a842e201f</dc:identifier>
+        <dc:title>Southern Spain, Painted by Trevor Haddon, Described by A. F. Calvert</dc:title>
+        <dc:creator opf:file-as="Calvert, Albert Frederick" opf:role="aut">Albert Frederick Calvert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37944</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spain -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Frederick Calvert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:15:51.562141+00:00"/>
+        <meta name="calibre:title_sort" content="Southern Spain, Painted by Trevor Haddon, Described by A. F. Calvert"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

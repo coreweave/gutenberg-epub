@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31462</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">daa6f74a-5788-474a-8123-1a5533938799</dc:identifier>
+        <dc:title>Speeches &amp; Letters of Abraham Lincoln, 1832-1865</dc:title>
+        <dc:creator opf:file-as="Lincoln, Abraham" opf:role="aut">Abraham Lincoln</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14721</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speeches</dc:subject>
+        <dc:subject>addresses</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Oratory</dc:subject>
+        <dc:subject>1809-1865 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abraham Lincoln&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:21:08.130743+00:00"/>
+        <meta name="calibre:title_sort" content="Speeches &amp; Letters of Abraham Lincoln, 1832-1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

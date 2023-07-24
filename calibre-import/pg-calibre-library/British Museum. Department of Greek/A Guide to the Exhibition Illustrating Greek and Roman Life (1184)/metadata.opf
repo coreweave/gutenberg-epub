@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4afa6c68-5727-45bb-8dc4-79513b1589ff</dc:identifier>
+        <dc:title>A Guide to the Exhibition Illustrating Greek and Roman Life</dc:title>
+        <dc:creator opf:file-as="British Museum. Department of Greek and Roman Antiquities" opf:role="aut">British Museum. Department of Greek</dc:creator>
+        <dc:creator opf:file-as="British Museum. Department of Greek and Roman Antiquities" opf:role="aut">Roman Antiquities</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52081</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rome -- Antiquities</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Greco-Roman</dc:subject>
+        <dc:subject>Greece -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;British Museum. Department of Greek&quot;: &quot;&quot;, &quot;Roman Antiquities&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:43:56.140132+00:00"/>
+        <meta name="calibre:title_sort" content="Guide to the Exhibition Illustrating Greek and Roman Life, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

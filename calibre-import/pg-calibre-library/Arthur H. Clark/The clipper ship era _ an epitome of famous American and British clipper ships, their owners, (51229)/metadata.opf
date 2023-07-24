@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46d267c5-c493-409b-85bc-0fc02851d850</dc:identifier>
+        <dc:title>The clipper ship era / an epitome of famous American and British clipper ships, their owners, builders, commanders, and crews, 1843-1869</dc:title>
+        <dc:creator opf:file-as="Clark, Arthur H." opf:role="aut">Arthur H. Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69154</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clipper ships -- United States</dc:subject>
+        <dc:subject>Clipper ships -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur H. Clark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:24:47.526459+00:00"/>
+        <meta name="calibre:title_sort" content="clipper ship era / an epitome of famous American and British clipper ships, their owners, builders, commanders, and crews, 1843-1869, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

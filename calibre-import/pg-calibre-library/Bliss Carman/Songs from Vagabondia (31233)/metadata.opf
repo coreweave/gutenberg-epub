@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a91d17d-3c11-4a64-b179-402e1a32dbd5</dc:identifier>
+        <dc:title>Songs from Vagabondia</dc:title>
+        <dc:creator opf:file-as="Carman, Bliss" opf:role="aut">Bliss Carman</dc:creator>
+        <dc:creator opf:file-as="Carman, Bliss" opf:role="aut">Richard Hovey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bliss Carman&quot;: &quot;&quot;, &quot;Richard Hovey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:10:15.558662+00:00"/>
+        <meta name="calibre:title_sort" content="Songs from Vagabondia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

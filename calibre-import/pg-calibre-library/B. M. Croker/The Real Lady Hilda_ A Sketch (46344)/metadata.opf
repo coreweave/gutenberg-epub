@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47656146-6b65-46f2-a9b4-619337b8ec80</dc:identifier>
+        <dc:title>The Real Lady Hilda: A Sketch</dc:title>
+        <dc:creator opf:file-as="Croker, B. M. (Bithia Mary)" opf:role="aut">B. M. Croker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64892</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Stepdaughters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. M. Croker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:25:34.933256+00:00"/>
+        <meta name="calibre:title_sort" content="Real Lady Hilda: A Sketch, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

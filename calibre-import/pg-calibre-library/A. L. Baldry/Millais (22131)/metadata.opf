@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a822af8-d3c4-4d92-8fe2-dd92b6744159</dc:identifier>
+        <dc:title>Millais</dc:title>
+        <dc:creator opf:file-as="Baldry, A. L. (Alfred Lys)" opf:role="aut">A. L. Baldry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41648</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Millais</dc:subject>
+        <dc:subject>John Everett</dc:subject>
+        <dc:subject>1829-1896</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. L. Baldry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:27:32.795539+00:00"/>
+        <meta name="calibre:title_sort" content="Millais"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">158d71f0-d4a6-4144-a6e7-382f7ae5a2ec</dc:identifier>
+        <dc:title>The Women of the French Salons</dc:title>
+        <dc:creator opf:file-as="Mason, Amelia Gere" opf:role="aut">Amelia Gere Mason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2528</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Salons -- France</dc:subject>
+        <dc:subject>Women authors</dc:subject>
+        <dc:subject>French -- Biography</dc:subject>
+        <dc:subject>French literature -- Women authors -- History and criticism</dc:subject>
+        <dc:subject>Women and literature -- France</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amelia Gere Mason&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:36:07.155765+00:00"/>
+        <meta name="calibre:title_sort" content="Women of the French Salons, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

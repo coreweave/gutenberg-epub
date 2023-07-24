@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6134d16-700c-46fa-9ebf-5947ae68f5f5</dc:identifier>
+        <dc:title>Emily Brontë</dc:title>
+        <dc:creator opf:file-as="Robinson, A. Mary F. (Agnes Mary Frances)" opf:role="aut">A. Mary F. Robinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25789</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Brontë</dc:subject>
+        <dc:subject>Emily</dc:subject>
+        <dc:subject>1818-1848</dc:subject>
+        <dc:subject>Women and literature -- England -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Mary F. Robinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:28:16.251507+00:00"/>
+        <meta name="calibre:title_sort" content="Emily Brontë"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

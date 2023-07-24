@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54614911-ae43-4561-a562-ea175f7429c1</dc:identifier>
+        <dc:title>On the Edge of the Primeval Forest / Experiences and Observations of a Doctor in Equatorial Africa</dc:title>
+        <dc:creator opf:file-as="Schweitzer, Albert" opf:role="aut">Albert Schweitzer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50015</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Schweitzer</dc:subject>
+        <dc:subject>Albert</dc:subject>
+        <dc:subject>1875-1965</dc:subject>
+        <dc:subject>Missions -- Gabon</dc:subject>
+        <dc:subject>Missions</dc:subject>
+        <dc:subject>Medical -- Gabon</dc:subject>
+        <dc:subject>Missionaries</dc:subject>
+        <dc:subject>Medical -- Gabon -- Biography</dc:subject>
+        <dc:subject>Lambaréné (Moyen-Ogooué</dc:subject>
+        <dc:subject>Gabon)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Schweitzer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:24:00.806159+00:00"/>
+        <meta name="calibre:title_sort" content="On the Edge of the Primeval Forest / Experiences and Observations of a Doctor in Equatorial Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

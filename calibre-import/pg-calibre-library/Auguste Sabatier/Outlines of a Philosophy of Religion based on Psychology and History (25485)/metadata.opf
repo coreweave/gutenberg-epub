@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfbdbf11-8e80-49de-931c-0e24918e199c</dc:identifier>
+        <dc:title>Outlines of a Philosophy of Religion based on Psychology and History</dc:title>
+        <dc:creator opf:file-as="Sabatier, Auguste" opf:role="aut">Auguste Sabatier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38446</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion -- Philosophy</dc:subject>
+        <dc:subject>Christianity -- Philosophy</dc:subject>
+        <dc:subject>Dogma</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Auguste Sabatier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:48:53.372151+00:00"/>
+        <meta name="calibre:title_sort" content="Outlines of a Philosophy of Religion based on Psychology and History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f368aa04-d70b-419a-b779-7da8a4de5c90</dc:identifier>
+        <dc:title>The Flower Princess</dc:title>
+        <dc:creator opf:file-as="Brown, Abbie Farwell" opf:role="aut">Abbie Farwell Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Princesses -- Juvenile fiction</dc:subject>
+        <dc:subject>Courtship -- Juvenile fiction</dc:subject>
+        <dc:subject>Mermaids -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abbie Farwell Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:20:01.269175+00:00"/>
+        <meta name="calibre:title_sort" content="Flower Princess, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

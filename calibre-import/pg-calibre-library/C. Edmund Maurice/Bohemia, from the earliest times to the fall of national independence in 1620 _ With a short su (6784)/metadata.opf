@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">512c3a5d-17aa-4030-9eb5-e9159f43b5d5</dc:identifier>
+        <dc:title>Bohemia, from the earliest times to the fall of national independence in 1620 / With a short summary of later events</dc:title>
+        <dc:creator opf:file-as="Maurice, C. Edmund (Charles Edmund)" opf:role="aut">C. Edmund Maurice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49955</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bohemia (Czech Republic) -- History -- To 1526</dc:subject>
+        <dc:subject>Bohemia (Czech Republic) -- History -- 1526-1618</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. Edmund Maurice&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:30:01.331170+00:00"/>
+        <meta name="calibre:title_sort" content="Bohemia, from the earliest times to the fall of national independence in 1620 / With a short summary of later events"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9acc538d-5854-4fd2-b2b6-c34d36eabcf5</dc:identifier>
+        <dc:title>A Dialogue Between Dean Swift and Tho. Prior, Esq. / In the Isles of St. Patrick's Church, Dublin, On that / Memorable Day, October 9th, 1753</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25235</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- Politics and government -- 18th century</dc:subject>
+        <dc:subject>Ireland -- History -- 18th century</dc:subject>
+        <dc:subject>Ireland -- Social conditions -- 18th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:29.638538+00:00"/>
+        <meta name="calibre:title_sort" content="Dialogue Between Dean Swift and Tho. Prior, Esq. / In the Isles of St. Patrick's Church, Dublin, On that / Memorable Day, October 9th, 1753, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

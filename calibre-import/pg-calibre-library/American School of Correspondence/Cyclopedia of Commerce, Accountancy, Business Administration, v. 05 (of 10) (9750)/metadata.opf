@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2fb350b-cdc3-4f92-b3ad-35a6a0060245</dc:identifier>
+        <dc:title>Cyclopedia of Commerce, Accountancy, Business Administration, v. 05 (of 10)</dc:title>
+        <dc:creator opf:file-as="American School of Correspondence" opf:role="aut">American School of Correspondence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51676</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business</dc:subject>
+        <dc:subject>Commerce</dc:subject>
+        <dc:subject>Accounting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American School of Correspondence&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:41:41.028849+00:00"/>
+        <meta name="calibre:title_sort" content="Cyclopedia of Commerce, Accountancy, Business Administration, v. 05 (of 10)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

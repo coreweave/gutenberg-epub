@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be59c01e-3325-4d99-a594-09d9fa1c56c8</dc:identifier>
+        <dc:title>The Priceless Pearl</dc:title>
+        <dc:creator opf:file-as="Miller, Alice Duer" opf:role="aut">Alice Duer Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64192</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Governesses -- Fiction</dc:subject>
+        <dc:subject>Impostors and imposture -- Fiction</dc:subject>
+        <dc:subject>Families -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alice Duer Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:56:11.840931+00:00"/>
+        <meta name="calibre:title_sort" content="Priceless Pearl, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

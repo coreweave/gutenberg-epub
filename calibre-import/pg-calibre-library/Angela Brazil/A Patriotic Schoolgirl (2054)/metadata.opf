@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2054</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d161005e-60c8-4aed-86d7-b32ebc8b9c95</dc:identifier>
+        <dc:title>A Patriotic Schoolgirl</dc:title>
+        <dc:creator opf:file-as="Brazil, Angela" opf:role="aut">Angela Brazil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boarding schools -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- England -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Angela Brazil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:58:03.014967+00:00"/>
+        <meta name="calibre:title_sort" content="Patriotic Schoolgirl, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6176077f-1d6b-45be-b392-1331c32b43b8</dc:identifier>
+        <dc:title>The Tragedy of the Korosko</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12555</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>East and West -- Fiction</dc:subject>
+        <dc:subject>Hostages -- Fiction</dc:subject>
+        <dc:subject>Egypt -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:19:43.931201+00:00"/>
+        <meta name="calibre:title_sort" content="Tragedy of the Korosko, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

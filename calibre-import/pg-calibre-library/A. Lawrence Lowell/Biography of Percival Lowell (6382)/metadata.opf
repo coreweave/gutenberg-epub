@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12bbe7c7-2bd4-455f-8471-848ac255c25d</dc:identifier>
+        <dc:title>Biography of Percival Lowell</dc:title>
+        <dc:creator opf:file-as="Lowell, A. Lawrence (Abbott Lawrence)" opf:role="aut">A. Lawrence Lowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lowell</dc:subject>
+        <dc:subject>Percival</dc:subject>
+        <dc:subject>1855-1916</dc:subject>
+        <dc:subject>Astronomy -- Observations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Lawrence Lowell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:21:10.297664+00:00"/>
+        <meta name="calibre:title_sort" content="Biography of Percival Lowell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19811</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f52551bb-bf0c-4c87-bd85-e13274f4e892</dc:identifier>
+        <dc:title>Life and Times of Washington, Volume 2 / Revised, Enlarged, and Enriched</dc:title>
+        <dc:creator opf:file-as="Lossing, Benson John" opf:role="aut">Benson John Lossing</dc:creator>
+        <dc:creator opf:file-as="Lossing, Benson John" opf:role="aut">John Frederick Schroeder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benson John Lossing&quot;: &quot;&quot;, &quot;John Frederick Schroeder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:57:17.735068+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Times of Washington, Volume 2 / Revised, Enlarged, and Enriched"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a810848-0bfc-4068-90da-5158491651e9</dc:identifier>
+        <dc:title>Wolfville</dc:title>
+        <dc:creator opf:file-as="Lewis, Alfred Henry" opf:role="aut">Alfred Henry Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Cowboys -- Fiction</dc:subject>
+        <dc:subject>Ranch life -- Fiction</dc:subject>
+        <dc:subject>Arizona -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Henry Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:44:09.587105+00:00"/>
+        <meta name="calibre:title_sort" content="Wolfville"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

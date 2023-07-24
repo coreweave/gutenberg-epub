@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c371be7f-22b8-4b48-a2e5-445b16b47846</dc:identifier>
+        <dc:title>The Pilgrims of the Rhine</dc:title>
+        <dc:creator opf:file-as="Lytton, Edward Bulwer Lytton, Baron" opf:role="aut">Baron Edward Bulwer Lytton Lytton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Fairies -- Fiction</dc:subject>
+        <dc:subject>Rhine River Valley -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron Edward Bulwer Lytton Lytton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:31:02.572880+00:00"/>
+        <meta name="calibre:title_sort" content="Pilgrims of the Rhine, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f3c9221-22fe-46ea-8d49-51e73d25a180</dc:identifier>
+        <dc:title>Guy Garrick</dc:title>
+        <dc:creator opf:file-as="Reeve, Arthur B. (Arthur Benjamin)" opf:role="aut">Arthur B. Reeve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5163</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Criminal investigation -- Fiction</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Kidnapping -- Fiction</dc:subject>
+        <dc:subject>Gambling -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur B. Reeve&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:04:05.521513+00:00"/>
+        <meta name="calibre:title_sort" content="Guy Garrick"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

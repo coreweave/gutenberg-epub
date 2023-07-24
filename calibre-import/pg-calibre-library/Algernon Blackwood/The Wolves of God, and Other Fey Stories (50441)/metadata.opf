@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37a75df4-217b-48bf-bb86-732d9e042a12</dc:identifier>
+        <dc:title>The Wolves of God, and Other Fey Stories</dc:title>
+        <dc:creator opf:file-as="Blackwood, Algernon" opf:role="aut">Algernon Blackwood</dc:creator>
+        <dc:creator opf:file-as="Blackwood, Algernon" opf:role="aut">Wilfred Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38310</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Algernon Blackwood&quot;: &quot;&quot;, &quot;Wilfred Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:33:46.283136+00:00"/>
+        <meta name="calibre:title_sort" content="Wolves of God, and Other Fey Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

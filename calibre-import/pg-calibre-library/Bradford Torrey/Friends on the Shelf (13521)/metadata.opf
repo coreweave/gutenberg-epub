@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ce26107-4f0f-46d5-bdb5-f7408c1e87df</dc:identifier>
+        <dc:title>Friends on the Shelf</dc:title>
+        <dc:creator opf:file-as="Torrey, Bradford" opf:role="aut">Bradford Torrey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stevenson</dc:subject>
+        <dc:subject>Robert Louis</dc:subject>
+        <dc:subject>1850-1894</dc:subject>
+        <dc:subject>Thoreau</dc:subject>
+        <dc:subject>Henry David</dc:subject>
+        <dc:subject>1817-1862</dc:subject>
+        <dc:subject>Keats</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1795-1821</dc:subject>
+        <dc:subject>FitzGerald</dc:subject>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>1809-1883</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Modern -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>Anatole</dc:subject>
+        <dc:subject>1844-1924</dc:subject>
+        <dc:subject>Readability (Literary style)</dc:subject>
+        <dc:subject>Hazlitt</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1778-1830</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bradford Torrey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:26:19.984155+00:00"/>
+        <meta name="calibre:title_sort" content="Friends on the Shelf"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10ff48d9-92cf-44bc-9dc0-05fd15e07a14</dc:identifier>
+        <dc:title>The Juvenile Bible: Being a brief concordance of the Holy Scriptures, in verse. / Containing a summary of all the chapters in the books of the Old and New Testament, from Genesis to the Revelation, alphabetically arranged, and admirably adapted to the comprehension and retention of young readers.</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52146</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:46:55.618506+00:00"/>
+        <meta name="calibre:title_sort" content="Juvenile Bible: Being a brief concordance of the Holy Scriptures, in verse. / Containing a summary of all the chapters in the books of the Old and New Testament, from Genesis to the Revelation, alphabetically arranged, and admirably adapted to the comprehension and retention of young readers., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

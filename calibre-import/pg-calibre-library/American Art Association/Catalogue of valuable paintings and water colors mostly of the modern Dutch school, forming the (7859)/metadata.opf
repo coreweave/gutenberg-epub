@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2a8a9a8-19a1-4f1f-aa01-6600a2b70912</dc:identifier>
+        <dc:title>Catalogue of valuable paintings and water colors mostly of the modern Dutch school, forming the private collection of A. Augustus Healy, Esq., Brooklyn</dc:title>
+        <dc:creator opf:file-as="American Art Association" opf:role="aut">American Art Association</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70649</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Healy</dc:subject>
+        <dc:subject>A. Augustus (Aaron Augustus)</dc:subject>
+        <dc:subject>1850-1921 -- Art collections -- Catalogs</dc:subject>
+        <dc:subject>Art -- Private collections</dc:subject>
+        <dc:subject>Auction catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Art Association&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:54:50.942321+00:00"/>
+        <meta name="calibre:title_sort" content="Catalogue of valuable paintings and water colors mostly of the modern Dutch school, forming the private collection of A. Augustus Healy, Esq., Brooklyn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

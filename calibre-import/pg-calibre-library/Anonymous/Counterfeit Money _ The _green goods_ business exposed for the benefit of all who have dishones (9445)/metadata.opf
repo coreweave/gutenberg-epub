@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b23a6fde-78bd-4475-86ee-dcad64bc2011</dc:identifier>
+        <dc:title>Counterfeit Money / The "green goods" business exposed for the benefit of all who have dishonest inclinations.</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55350</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Counterfeits and counterfeiting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:33:51.424835+00:00"/>
+        <meta name="calibre:title_sort" content="Counterfeit Money / The &quot;green goods&quot; business exposed for the benefit of all who have dishonest inclinations."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

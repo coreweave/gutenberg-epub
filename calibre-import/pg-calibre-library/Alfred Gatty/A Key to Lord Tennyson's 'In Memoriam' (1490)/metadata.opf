@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39950686-3854-4ebc-a527-63048e4ec83f</dc:identifier>
+        <dc:title>A Key to Lord Tennyson's 'In Memoriam'</dc:title>
+        <dc:creator opf:file-as="Gatty, Alfred" opf:role="aut">Alfred Gatty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36637</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tennyson</dc:subject>
+        <dc:subject>Alfred Tennyson</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1809-1892. In memoriam</dc:subject>
+        <dc:subject>Hallam</dc:subject>
+        <dc:subject>Arthur Henry</dc:subject>
+        <dc:subject>1811-1833 -- In literature</dc:subject>
+        <dc:subject>Elegiac poetry</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Gatty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:48:52.138923+00:00"/>
+        <meta name="calibre:title_sort" content="Key to Lord Tennyson's 'In Memoriam', A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

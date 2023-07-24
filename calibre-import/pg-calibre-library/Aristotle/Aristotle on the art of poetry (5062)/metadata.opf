@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5062</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbf8261b-431b-4df1-ba84-a898d8cf1bce</dc:identifier>
+        <dc:title>Aristotle on the art of poetry</dc:title>
+        <dc:creator opf:file-as="Aristotle" opf:role="aut">Aristotle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6763</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry -- Early works to 1800</dc:subject>
+        <dc:subject>Aesthetics -- Early works to 1800</dc:subject>
+        <dc:subject>Music -- Philosophy and aesthetics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aristotle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:53:29.390469+00:00"/>
+        <meta name="calibre:title_sort" content="Aristotle on the art of poetry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

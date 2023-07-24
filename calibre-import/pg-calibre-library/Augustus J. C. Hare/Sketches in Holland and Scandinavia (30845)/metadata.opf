@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3d1ce9f-ce8d-4f75-b6e0-5fe6d976abcb</dc:identifier>
+        <dc:title>Sketches in Holland and Scandinavia</dc:title>
+        <dc:creator opf:file-as="Hare, Augustus J. C. (Augustus John Cuthbert)" opf:role="aut">Augustus J. C. Hare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scandinavia -- Description and travel</dc:subject>
+        <dc:subject>Netherlands -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augustus J. C. Hare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:51:49.573899+00:00"/>
+        <meta name="calibre:title_sort" content="Sketches in Holland and Scandinavia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

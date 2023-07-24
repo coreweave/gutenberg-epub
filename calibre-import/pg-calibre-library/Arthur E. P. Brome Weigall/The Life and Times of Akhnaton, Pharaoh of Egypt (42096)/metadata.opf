@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42096</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c05f6a3-72d6-4e73-8291-e5fea109a8c8</dc:identifier>
+        <dc:title>The Life and Times of Akhnaton, Pharaoh of Egypt</dc:title>
+        <dc:creator opf:file-as="Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)" opf:role="aut">Arthur E. P. Brome Weigall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62434</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egypt -- History -- To 332 B.C.</dc:subject>
+        <dc:subject>Egypt -- Religion</dc:subject>
+        <dc:subject>Akhenaton</dc:subject>
+        <dc:subject>King of Egypt</dc:subject>
+        <dc:subject>Pharaohs -- Biography</dc:subject>
+        <dc:subject>Egypt -- History -- Eighteenth dynasty</dc:subject>
+        <dc:subject>ca. 1570-1320 B.C.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur E. P. Brome Weigall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:24:50.654235+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Times of Akhnaton, Pharaoh of Egypt, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

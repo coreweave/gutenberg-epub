@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed13b638-8e2e-44af-8f72-3956bac5b3a1</dc:identifier>
+        <dc:title>Half a Hero: A Novel</dc:title>
+        <dc:creator opf:file-as="Hope, Anthony" opf:role="aut">Anthony Hope</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony Hope&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:05:54.008372+00:00"/>
+        <meta name="calibre:title_sort" content="Half a Hero: A Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

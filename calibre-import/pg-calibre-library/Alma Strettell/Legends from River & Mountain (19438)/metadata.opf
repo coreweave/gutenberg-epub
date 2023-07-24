@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db2f156e-bf99-4550-a974-97133802d629</dc:identifier>
+        <dc:title>Legends from River &amp; Mountain</dc:title>
+        <dc:creator opf:file-as="Strettell, Alma" opf:role="aut">Alma Strettell</dc:creator>
+        <dc:creator opf:file-as="Strettell, Alma" opf:role="aut">Carmen Sylva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52417</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legends -- Germany</dc:subject>
+        <dc:subject>Legends -- Romania</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alma Strettell&quot;: &quot;&quot;, &quot;Carmen Sylva&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:43:47.007125+00:00"/>
+        <meta name="calibre:title_sort" content="Legends from River &amp; Mountain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

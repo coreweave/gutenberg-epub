@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d25d905e-3cc6-4dec-a7e5-e3d2679be305</dc:identifier>
+        <dc:title>The Carpenter's Daughter</dc:title>
+        <dc:creator opf:file-as="Warner, Anna Bartlett" opf:role="aut">Anna Bartlett Warner</dc:creator>
+        <dc:creator opf:file-as="Warner, Anna Bartlett" opf:role="aut">Susan Warner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Death -- Juvenile fiction</dc:subject>
+        <dc:subject>Daughters -- Juvenile fiction</dc:subject>
+        <dc:subject>Poverty -- Juvenile fiction</dc:subject>
+        <dc:subject>Children of alcoholics -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anna Bartlett Warner&quot;: &quot;&quot;, &quot;Susan Warner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:50:48.648519+00:00"/>
+        <meta name="calibre:title_sort" content="Carpenter's Daughter, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

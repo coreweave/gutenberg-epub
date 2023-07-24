@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad81fa3a-a60a-4fbb-ba54-1094e301b8bb</dc:identifier>
+        <dc:title>A Book About the Theater</dc:title>
+        <dc:creator opf:file-as="Matthews, Brander" opf:role="aut">Brander Matthews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36790</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theater -- History</dc:subject>
+        <dc:subject>Theater</dc:subject>
+        <dc:subject>Drama -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brander Matthews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:31:26.726493+00:00"/>
+        <meta name="calibre:title_sort" content="Book About the Theater, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

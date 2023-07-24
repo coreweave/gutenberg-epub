@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18954</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6358a3d6-2529-4696-b044-52facde9c8ef</dc:identifier>
+        <dc:title>King Robert the Bruce</dc:title>
+        <dc:creator opf:file-as="Murison, Alexander Falconer" opf:role="aut">Alexander Falconer Murison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44695</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Robert I</dc:subject>
+        <dc:subject>King of Scots</dc:subject>
+        <dc:subject>1274-1329</dc:subject>
+        <dc:subject>Scotland -- Kings and rulers -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Falconer Murison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:26:25.907612+00:00"/>
+        <meta name="calibre:title_sort" content="King Robert the Bruce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

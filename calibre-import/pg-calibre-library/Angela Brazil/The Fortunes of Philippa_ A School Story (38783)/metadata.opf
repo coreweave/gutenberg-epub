@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51343db4-0ba9-4e88-a2bc-553fbfc60deb</dc:identifier>
+        <dc:title>The Fortunes of Philippa: A School Story</dc:title>
+        <dc:creator opf:file-as="Brazil, Angela" opf:role="aut">Angela Brazil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33387</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Schools -- England -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Angela Brazil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:27:03.157111+00:00"/>
+        <meta name="calibre:title_sort" content="Fortunes of Philippa: A School Story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

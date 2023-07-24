@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd69ce06-8d1b-47bb-800d-e61fba5a48fd</dc:identifier>
+        <dc:title>Six Days on the Hurricane Deck of a Mule / An account of a journey made on mule back in Honduras, / C.A. in August, 1891</dc:title>
+        <dc:creator opf:file-as="Cole, Almira Stillwell" opf:role="aut">Almira Stillwell Cole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27136</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Honduras -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Almira Stillwell Cole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:47:19.586713+00:00"/>
+        <meta name="calibre:title_sort" content="Six Days on the Hurricane Deck of a Mule / An account of a journey made on mule back in Honduras, / C.A. in August, 1891"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

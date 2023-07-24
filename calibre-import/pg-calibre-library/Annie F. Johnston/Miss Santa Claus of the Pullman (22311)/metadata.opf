@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7390de86-5f9e-4c94-8bf6-ad0aebedfc3d</dc:identifier>
+        <dc:title>Miss Santa Claus of the Pullman</dc:title>
+        <dc:creator opf:file-as="Johnston, Annie F. (Annie Fellows)" opf:role="aut">Annie F. Johnston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41604</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <dc:subject>Siblings -- Fiction</dc:subject>
+        <dc:subject>Children -- Fiction</dc:subject>
+        <dc:subject>Railroad travel -- Fiction</dc:subject>
+        <dc:subject>Pullman cars -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie F. Johnston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:34:51.151873+00:00"/>
+        <meta name="calibre:title_sort" content="Miss Santa Claus of the Pullman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

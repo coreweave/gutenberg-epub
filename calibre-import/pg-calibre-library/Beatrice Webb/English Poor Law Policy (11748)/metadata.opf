@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9c92bdd-574c-429f-8b81-8a277f54bf88</dc:identifier>
+        <dc:title>English Poor Law Policy</dc:title>
+        <dc:creator opf:file-as="Webb, Beatrice" opf:role="aut">Beatrice Webb</dc:creator>
+        <dc:creator opf:file-as="Webb, Beatrice" opf:role="aut">Sidney Webb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43472</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poor -- Great Britain</dc:subject>
+        <dc:subject>Poor laws -- Great Britain</dc:subject>
+        <dc:subject>Great Britain. Royal Commission on Poor Laws and Relief of Distress</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Beatrice Webb&quot;: &quot;&quot;, &quot;Sidney Webb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:35:22.159067+00:00"/>
+        <meta name="calibre:title_sort" content="English Poor Law Policy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

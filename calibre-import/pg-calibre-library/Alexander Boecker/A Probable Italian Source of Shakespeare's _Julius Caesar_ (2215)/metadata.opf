@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5078dcb-b69f-45c1-8228-38adfa68a064</dc:identifier>
+        <dc:title>A Probable Italian Source of Shakespeare's "Julius Cæsar"</dc:title>
+        <dc:creator opf:file-as="Boecker, Alexander" opf:role="aut">Alexander Boecker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56256</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thesis (Ph. D.)</dc:subject>
+        <dc:subject>Rome -- In literature</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616. Julius Caesar -- Sources</dc:subject>
+        <dc:subject>Pescetti</dc:subject>
+        <dc:subject>Orlando</dc:subject>
+        <dc:subject>approximately 1556-approximately 1624. Cesare</dc:subject>
+        <dc:subject>Caesar</dc:subject>
+        <dc:subject>Julius -- In literature</dc:subject>
+        <dc:subject>English drama -- Italian influences</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Boecker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:00:46.297892+00:00"/>
+        <meta name="calibre:title_sort" content="Probable Italian Source of Shakespeare's &quot;Julius Cæsar&quot;, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

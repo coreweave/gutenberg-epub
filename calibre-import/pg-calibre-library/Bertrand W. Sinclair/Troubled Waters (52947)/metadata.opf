@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52947</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bff5f1f-8434-44f0-b1ab-9d5041388d92</dc:identifier>
+        <dc:title>Troubled Waters</dc:title>
+        <dc:creator opf:file-as="Sinclair, Bertrand W." opf:role="aut">Bertrand W. Sinclair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67550</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Triangles (Interpersonal relations) -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>British Columbia -- Fiction</dc:subject>
+        <dc:subject>Loggers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bertrand W. Sinclair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:14:52.624930+00:00"/>
+        <meta name="calibre:title_sort" content="Troubled Waters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

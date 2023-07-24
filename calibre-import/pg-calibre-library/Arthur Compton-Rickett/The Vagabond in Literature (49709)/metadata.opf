@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d15dee67-d26d-4d0d-b548-4a5e3ef11baa</dc:identifier>
+        <dc:title>The Vagabond in Literature</dc:title>
+        <dc:creator opf:file-as="Compton-Rickett, Arthur" opf:role="aut">Arthur Compton-Rickett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33356</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English literature -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Bohemianism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Compton-Rickett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:48:02.933794+00:00"/>
+        <meta name="calibre:title_sort" content="Vagabond in Literature, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

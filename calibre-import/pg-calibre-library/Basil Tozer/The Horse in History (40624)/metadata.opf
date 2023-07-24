@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">905bd519-41e2-4181-a3c1-bc83923930a0</dc:identifier>
+        <dc:title>The Horse in History</dc:title>
+        <dc:creator opf:file-as="Tozer, Basil" opf:role="aut">Basil Tozer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55658</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horses -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Basil Tozer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:04:18.563723+00:00"/>
+        <meta name="calibre:title_sort" content="Horse in History, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

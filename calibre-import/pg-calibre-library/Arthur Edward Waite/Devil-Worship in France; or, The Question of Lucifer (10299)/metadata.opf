@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b447976-4c6a-48a6-93db-9388d2dbf225</dc:identifier>
+        <dc:title>Devil-Worship in France; or, The Question of Lucifer</dc:title>
+        <dc:creator opf:file-as="Waite, Arthur Edward" opf:role="aut">Arthur Edward Waite</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21258</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satanism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Edward Waite&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:55:57.339946+00:00"/>
+        <meta name="calibre:title_sort" content="Devil-Worship in France; or, The Question of Lucifer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

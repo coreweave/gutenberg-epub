@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ccd11c9-bb61-45a4-9abb-f1296c2201b5</dc:identifier>
+        <dc:title>Radio Shack TRS-80 Expansion Interface: Operator's Manual / Catalog Numbers: 26-1140, 26-1141, 26-1142</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27469</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>TRS-80 computers -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:50:40.582911+00:00"/>
+        <meta name="calibre:title_sort" content="Radio Shack TRS-80 Expansion Interface: Operator's Manual / Catalog Numbers: 26-1140, 26-1141, 26-1142"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

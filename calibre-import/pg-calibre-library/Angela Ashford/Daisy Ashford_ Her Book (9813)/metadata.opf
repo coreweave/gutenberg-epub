@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f89faf60-197f-4245-8e63-b1b002986c5b</dc:identifier>
+        <dc:title>Daisy Ashford: Her Book</dc:title>
+        <dc:creator opf:file-as="Ashford, Angela" opf:role="aut">Angela Ashford</dc:creator>
+        <dc:creator opf:file-as="Ashford, Angela" opf:role="aut">Daisy Ashford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25658</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Angela Ashford&quot;: &quot;&quot;, &quot;Daisy Ashford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:43:16.783294+00:00"/>
+        <meta name="calibre:title_sort" content="Daisy Ashford: Her Book"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

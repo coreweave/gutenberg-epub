@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49871</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c0b5d30-7dd6-4351-b6ef-f771337ba38c</dc:identifier>
+        <dc:title>The Virgin-Birth of Our Lord / A paper read (in substance) before the confraternity of the Holy Trinity at Cambridge</dc:title>
+        <dc:creator opf:file-as="Randolph, B.  W. (Berkeley William)" opf:role="aut">B. W. Randolph</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15412</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Virgin birth</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. W. Randolph&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:58:13.334492+00:00"/>
+        <meta name="calibre:title_sort" content="Virgin-Birth of Our Lord / A paper read (in substance) before the confraternity of the Holy Trinity at Cambridge, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

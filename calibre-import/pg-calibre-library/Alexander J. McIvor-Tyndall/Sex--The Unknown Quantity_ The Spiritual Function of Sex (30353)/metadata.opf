@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">042180a3-9d2e-4f98-9577-b188d61edabc</dc:identifier>
+        <dc:title>Sex--The Unknown Quantity: The Spiritual Function of Sex</dc:title>
+        <dc:creator opf:file-as="McIvor-Tyndall, Alexander J. (Alexander James)" opf:role="aut">Alexander J. McIvor-Tyndall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29896</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sex</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander J. McIvor-Tyndall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:28:43.550158+00:00"/>
+        <meta name="calibre:title_sort" content="Sex--The Unknown Quantity: The Spiritual Function of Sex"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6f8b76e-6388-4111-9b4a-df452ecc2132</dc:identifier>
+        <dc:title>The Story of My Life, volumes 1-3</dc:title>
+        <dc:creator opf:file-as="Hare, Augustus J. C. (Augustus John Cuthbert)" opf:role="aut">Augustus J. C. Hare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35589</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>1837-1901 -- Biography</dc:subject>
+        <dc:subject>Hare</dc:subject>
+        <dc:subject>Augustus J. C. (Augustus John Cuthbert)</dc:subject>
+        <dc:subject>1834-1903</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augustus J. C. Hare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:21:50.675667+00:00"/>
+        <meta name="calibre:title_sort" content="Story of My Life, volumes 1-3, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

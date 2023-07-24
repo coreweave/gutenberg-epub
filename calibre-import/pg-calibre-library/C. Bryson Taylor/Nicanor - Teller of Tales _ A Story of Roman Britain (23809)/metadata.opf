@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f76a1abf-076c-45d5-852a-d31693280955</dc:identifier>
+        <dc:title>Nicanor - Teller of Tales : A Story of Roman Britain</dc:title>
+        <dc:creator opf:file-as="Taylor, C. Bryson" opf:role="aut">C. Bryson Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Roman period</dc:subject>
+        <dc:subject>55 B.C.-449 A.D. -- Fiction</dc:subject>
+        <dc:subject>Britons -- Fiction</dc:subject>
+        <dc:subject>Romans -- Great Britain -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. Bryson Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:38:02.238879+00:00"/>
+        <meta name="calibre:title_sort" content="Nicanor - Teller of Tales : A Story of Roman Britain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

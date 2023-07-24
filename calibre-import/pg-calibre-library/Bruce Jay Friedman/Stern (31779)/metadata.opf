@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6598260-f339-4f70-9a11-0ff01eb53e86</dc:identifier>
+        <dc:title>Stern</dc:title>
+        <dc:creator opf:file-as="Friedman, Bruce Jay" opf:role="aut">Bruce Jay Friedman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66477</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Suburban life -- Fiction</dc:subject>
+        <dc:subject>Jewish fiction</dc:subject>
+        <dc:subject>Jewish families -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bruce Jay Friedman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:36:51.718218+00:00"/>
+        <meta name="calibre:title_sort" content="Stern"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

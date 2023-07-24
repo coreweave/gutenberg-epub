@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38024</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a959bbe3-619b-46c1-91c9-1c2d87b1c7e2</dc:identifier>
+        <dc:title>The Englishman in China During the Victorian Era, Vol. 1 (of 2) / As Illustrated in the Career of Sir Rutherford Alcock, K.C.B., D.C.L., Many Years Consul and Minister in China and Japan</dc:title>
+        <dc:creator opf:file-as="Michie, Alexander" opf:role="aut">Alexander Michie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alcock</dc:subject>
+        <dc:subject>Rutherford</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1809-1897</dc:subject>
+        <dc:subject>China -- Foreign relations -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Foreign relations -- China</dc:subject>
+        <dc:subject>Japan -- Foreign relations -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Foreign relations -- Japan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Michie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:47:49.558034+00:00"/>
+        <meta name="calibre:title_sort" content="Englishman in China During the Victorian Era, Vol. 1 (of 2) / As Illustrated in the Career of Sir Rutherford Alcock, K.C.B., D.C.L., Many Years Consul and Minister in China and Japan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

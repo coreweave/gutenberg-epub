@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e86f51c3-a23e-45ce-a0fc-88fec83bf2d4</dc:identifier>
+        <dc:title>Cloud Studies</dc:title>
+        <dc:creator opf:file-as="Clayden, Arthur William" opf:role="aut">Arthur William Clayden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55126</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clouds</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur William Clayden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:20:05.246283+00:00"/>
+        <meta name="calibre:title_sort" content="Cloud Studies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

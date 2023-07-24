@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43dce4e3-7ddf-4e23-8de6-9fc7ef7ed74a</dc:identifier>
+        <dc:title>The Summer Holidays: A Story for Children</dc:title>
+        <dc:creator opf:file-as="Amerel" opf:role="aut">Amerel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Family -- Juvenile fiction</dc:subject>
+        <dc:subject>Uncles -- Juvenile fiction</dc:subject>
+        <dc:subject>Domestic animals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amerel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:43:16.571293+00:00"/>
+        <meta name="calibre:title_sort" content="Summer Holidays: A Story for Children, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

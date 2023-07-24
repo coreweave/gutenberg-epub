@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0413fa94-3d0c-44aa-a108-236b71184a2c</dc:identifier>
+        <dc:title>From Newton to Einstein: Changing Conceptions of the Universe</dc:title>
+        <dc:creator opf:file-as="Harrow, Benjamin" opf:role="aut">Benjamin Harrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60271</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Relativity (Physics)</dc:subject>
+        <dc:subject>Ether (Space)</dc:subject>
+        <dc:subject>Gravitation</dc:subject>
+        <dc:subject>Einstein</dc:subject>
+        <dc:subject>Albert</dc:subject>
+        <dc:subject>1879-1955</dc:subject>
+        <dc:subject>Newton</dc:subject>
+        <dc:subject>Isaac</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1642-1727</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin Harrow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:28:12.045791+00:00"/>
+        <meta name="calibre:title_sort" content="From Newton to Einstein: Changing Conceptions of the Universe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

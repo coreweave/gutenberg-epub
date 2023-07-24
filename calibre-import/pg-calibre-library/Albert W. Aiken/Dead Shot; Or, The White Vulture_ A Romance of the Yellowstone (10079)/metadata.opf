@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0e90b6c-ac10-4e6b-a819-edf2da882d37</dc:identifier>
+        <dc:title>Dead Shot; Or, The White Vulture: A Romance of the Yellowstone</dc:title>
+        <dc:creator opf:file-as="Aiken, Albert W." opf:role="aut">Albert W. Aiken</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65527</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Dakota Indians -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Wagon trains -- Fiction</dc:subject>
+        <dc:subject>Fort Benton (Fort Benton</dc:subject>
+        <dc:subject>Mont. : Fort) -- Fiction</dc:subject>
+        <dc:subject>Yellowstone River -- Fiction</dc:subject>
+        <dc:subject>Overland Trails -- Fiction</dc:subject>
+        <dc:subject>Mandan Indians -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert W. Aiken&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:50:11.313888+00:00"/>
+        <meta name="calibre:title_sort" content="Dead Shot; Or, The White Vulture: A Romance of the Yellowstone"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

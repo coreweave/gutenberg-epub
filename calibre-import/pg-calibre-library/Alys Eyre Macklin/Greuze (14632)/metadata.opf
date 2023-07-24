@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d3965c2-1a99-4dad-b162-2d40928fd6e5</dc:identifier>
+        <dc:title>Greuze</dc:title>
+        <dc:creator opf:file-as="Macklin, Alys Eyre" opf:role="aut">Alys Eyre Macklin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42140</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Greuze</dc:subject>
+        <dc:subject>Jean-Baptiste</dc:subject>
+        <dc:subject>1725-1805</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alys Eyre Macklin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:00:49.751124+00:00"/>
+        <meta name="calibre:title_sort" content="Greuze"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

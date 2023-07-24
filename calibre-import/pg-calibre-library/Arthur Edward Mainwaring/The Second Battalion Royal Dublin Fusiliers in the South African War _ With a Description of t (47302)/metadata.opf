@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47302</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11218b70-18cf-4736-8d06-6b0ae611697a</dc:identifier>
+        <dc:title>The Second Battalion Royal Dublin Fusiliers in the South African War / With a Description of the Operations in the Aden Hinterland</dc:title>
+        <dc:creator opf:file-as="Mainwaring, Arthur Edward" opf:role="aut">Arthur Edward Mainwaring</dc:creator>
+        <dc:creator opf:file-as="Mainwaring, Arthur Edward" opf:role="aut">Cecil Francis Romer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25618</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army. Royal Dublin Fusiliers. 2nd Battalion</dc:subject>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902 -- Regimental histories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Edward Mainwaring&quot;: &quot;&quot;, &quot;Cecil Francis Romer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:22:04.248093+00:00"/>
+        <meta name="calibre:title_sort" content="Second Battalion Royal Dublin Fusiliers in the South African War / With a Description of the Operations in the Aden Hinterland, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

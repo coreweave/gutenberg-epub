@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">364954ff-070d-41f6-a9b6-1aab971c4efa</dc:identifier>
+        <dc:title>A Short Treatise on Head Wear, Ancient and Modern</dc:title>
+        <dc:creator opf:file-as="Goater, Anne C." opf:role="aut">Anne C. Goater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65624</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hats -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anne C. Goater&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:05:37.984213+00:00"/>
+        <meta name="calibre:title_sort" content="Short Treatise on Head Wear, Ancient and Modern, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

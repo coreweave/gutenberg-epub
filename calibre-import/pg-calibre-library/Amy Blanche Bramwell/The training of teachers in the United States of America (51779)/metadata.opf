@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c92fe269-8d6e-4971-bb88-29cbaae86985</dc:identifier>
+        <dc:title>The training of teachers in the United States of America</dc:title>
+        <dc:creator opf:file-as="Bramwell, Amy Blanche" opf:role="aut">Amy Blanche Bramwell</dc:creator>
+        <dc:creator opf:file-as="Bramwell, Amy Blanche" opf:role="aut">H. Millicent Hughes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69766</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teachers -- Training of -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amy Blanche Bramwell&quot;: &quot;&quot;, &quot;H. Millicent Hughes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:00:34.649368+00:00"/>
+        <meta name="calibre:title_sort" content="training of teachers in the United States of America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

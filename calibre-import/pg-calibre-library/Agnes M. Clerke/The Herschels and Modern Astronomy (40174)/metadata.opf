@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a922c7c8-f396-4189-8031-989afbf92a3e</dc:identifier>
+        <dc:title>The Herschels and Modern Astronomy</dc:title>
+        <dc:creator opf:file-as="Clerke, Agnes M. (Agnes Mary)" opf:role="aut">Agnes M. Clerke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64649</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astronomy -- History</dc:subject>
+        <dc:subject>Herschel</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1738-1822</dc:subject>
+        <dc:subject>John F. W. (John Frederick William)</dc:subject>
+        <dc:subject>1792-1871</dc:subject>
+        <dc:subject>Caroline Lucretia</dc:subject>
+        <dc:subject>1750-1848</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Agnes M. Clerke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:39:55.563927+00:00"/>
+        <meta name="calibre:title_sort" content="Herschels and Modern Astronomy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

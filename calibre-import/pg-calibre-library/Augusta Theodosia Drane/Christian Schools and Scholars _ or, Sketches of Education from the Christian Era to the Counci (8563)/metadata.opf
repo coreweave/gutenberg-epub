@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d600045-8c3e-4240-9465-bc1d2b0dc2e9</dc:identifier>
+        <dc:title>Christian Schools and Scholars / or, Sketches of Education from the Christian Era to the Council of Trent</dc:title>
+        <dc:creator opf:file-as="Drane, Augusta Theodosia" opf:role="aut">Augusta Theodosia Drane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63929</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Renaissance</dc:subject>
+        <dc:subject>Church and education</dc:subject>
+        <dc:subject>Education -- Europe -- History</dc:subject>
+        <dc:subject>Scholasticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augusta Theodosia Drane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:11:50.595376+00:00"/>
+        <meta name="calibre:title_sort" content="Christian Schools and Scholars / or, Sketches of Education from the Christian Era to the Council of Trent"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

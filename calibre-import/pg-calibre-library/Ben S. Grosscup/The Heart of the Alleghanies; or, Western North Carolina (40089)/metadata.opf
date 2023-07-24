@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">762bd95d-8fd2-48c7-a35d-7edf49b3236d</dc:identifier>
+        <dc:title>The Heart of the Alleghanies; or, Western North Carolina</dc:title>
+        <dc:creator opf:file-as="Grosscup, Ben S." opf:role="aut">Ben S. Grosscup</dc:creator>
+        <dc:creator opf:file-as="Grosscup, Ben S." opf:role="aut">Wilbur Gleason Zeigler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50952</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>North Carolina -- Description and travel</dc:subject>
+        <dc:subject>Allegheny Mountains</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ben S. Grosscup&quot;: &quot;&quot;, &quot;Wilbur Gleason Zeigler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:35:29.916781+00:00"/>
+        <meta name="calibre:title_sort" content="Heart of the Alleghanies; or, Western North Carolina, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af56f441-922a-446f-a1ad-613d7bd6d03e</dc:identifier>
+        <dc:title>Bulkies [Sweaters to Knit and Crochet]</dc:title>
+        <dc:creator opf:file-as="American Thread Company" opf:role="aut">American Thread Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66271</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Knitting -- Patterns</dc:subject>
+        <dc:subject>Crocheting -- Patterns</dc:subject>
+        <dc:subject>Sweaters</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Thread Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:40:30.702748+00:00"/>
+        <meta name="calibre:title_sort" content="Bulkies [Sweaters to Knit and Crochet]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

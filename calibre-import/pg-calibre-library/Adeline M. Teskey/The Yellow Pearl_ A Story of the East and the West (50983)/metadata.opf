@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a836cc25-f7c4-46da-9b4d-93ef2d300f03</dc:identifier>
+        <dc:title>The Yellow Pearl: A Story of the East and the West</dc:title>
+        <dc:creator opf:file-as="Teskey, Adeline M. (Adeline Margaret)" opf:role="aut">Adeline M. Teskey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57473</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Diary fiction</dc:subject>
+        <dc:subject>Racially mixed people -- Fiction</dc:subject>
+        <dc:subject>Families -- Fiction</dc:subject>
+        <dc:subject>East and West -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adeline M. Teskey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:08:32.609394+00:00"/>
+        <meta name="calibre:title_sort" content="Yellow Pearl: A Story of the East and the West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

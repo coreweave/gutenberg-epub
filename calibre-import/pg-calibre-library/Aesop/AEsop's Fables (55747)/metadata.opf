@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90dce22a-1db8-4bbb-9a5c-f98aab7898c8</dc:identifier>
+        <dc:title>Æsop's Fables</dc:title>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Aesop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53103</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fables</dc:subject>
+        <dc:subject>Aesop's fables -- Adaptations</dc:subject>
+        <dc:subject>Greek -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aesop&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:18:34.128195+00:00"/>
+        <meta name="calibre:title_sort" content="Æsop's Fables"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

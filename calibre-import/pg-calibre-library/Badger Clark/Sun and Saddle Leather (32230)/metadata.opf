@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f85de8e3-d122-436b-84da-61288d37d0a1</dc:identifier>
+        <dc:title>Sun and Saddle Leather</dc:title>
+        <dc:creator opf:file-as="Clark, Badger" opf:role="aut">Badger Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36770</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cowboys -- Poetry</dc:subject>
+        <dc:subject>West (U.S.) -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Badger Clark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:59:09.128870+00:00"/>
+        <meta name="calibre:title_sort" content="Sun and Saddle Leather"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

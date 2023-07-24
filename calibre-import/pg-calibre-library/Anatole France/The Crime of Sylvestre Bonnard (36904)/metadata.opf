@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36904</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">713ab60c-919d-4b5f-9cb1-9dff66e60b88</dc:identifier>
+        <dc:title>The Crime of Sylvestre Bonnard</dc:title>
+        <dc:creator opf:file-as="France, Anatole" opf:role="aut">Anatole France</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2123</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>France -- Fiction</dc:subject>
+        <dc:subject>Book collectors -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anatole France&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:50:11.453659+00:00"/>
+        <meta name="calibre:title_sort" content="Crime of Sylvestre Bonnard, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

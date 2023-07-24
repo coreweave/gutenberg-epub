@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e81e34e9-fcab-4298-a210-c27fc9a02289</dc:identifier>
+        <dc:title>Community Property</dc:title>
+        <dc:creator opf:file-as="Coppel, Alfred" opf:role="aut">Alfred Coppel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58802</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Extraterrestrial beings -- Fiction</dc:subject>
+        <dc:subject>Legal stories</dc:subject>
+        <dc:subject>Divorce -- Fiction</dc:subject>
+        <dc:subject>Lawyers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Coppel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:25:19.355422+00:00"/>
+        <meta name="calibre:title_sort" content="Community Property"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

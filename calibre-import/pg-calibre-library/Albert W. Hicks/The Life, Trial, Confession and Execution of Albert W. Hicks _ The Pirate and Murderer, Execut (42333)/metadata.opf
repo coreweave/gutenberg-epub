@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0c656fc-b72a-464b-80e3-271b666c8a56</dc:identifier>
+        <dc:title>The Life, Trial, Confession and Execution of Albert W. Hicks / The Pirate and Murderer, Executed on Bedloe's Island, New York Bay, on the 13th of July, 1860, for the Murder of Capt. Burr, Smith and Oliver Watts, on Board the Oyster Sloop E. A. Johnson. Containing the History of His Life (Written by Himself) from Childhood Up to the Time of His Arrest. With a Full Account of His Piracies, Murders, Mutinies, High-way Robberies, etc., Comprising the Particulars of Nearly One Hundred Murders! to which is added the Account of His Arrest, Imprisonment, Trial and Execution. Also, His Phrenological Character, as described by L. N. Fowler.</dc:title>
+        <dc:creator opf:file-as="Hicks, Albert W." opf:role="aut">Albert W. Hicks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66941</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hicks</dc:subject>
+        <dc:subject>Albert W.</dc:subject>
+        <dc:subject>approximately 1820-1860 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Burr</dc:subject>
+        <dc:subject>Capt. (George H.)</dc:subject>
+        <dc:subject>-1860</dc:subject>
+        <dc:subject>Watts</dc:subject>
+        <dc:subject>Oliver</dc:subject>
+        <dc:subject>Smith</dc:subject>
+        <dc:subject>Trials (Piracy) -- New York (State) -- New York</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert W. Hicks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:38:04.348630+00:00"/>
+        <meta name="calibre:title_sort" content="Life, Trial, Confession and Execution of Albert W. Hicks / The Pirate and Murderer, Executed on Bedloe's Island, New York Bay, on the 13th of July, 1860, for the Murder of Capt. Burr, Smith and Oliver Watts, on Board the Oyster Sloop E. A. Johnson. Containing the History of His Life (Written by Himself) from Childhood Up to the Time of His Arrest. With a Full Account of His Piracies, Murders, Mutinies, High-way Robberies, etc., Comprising the Particulars of Nearly One Hundred Murders! to which is added the Account of His Arrest, Imprisonment, Trial and Execution. Also, His Phrenological Character, as described by L. N. Fowler., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

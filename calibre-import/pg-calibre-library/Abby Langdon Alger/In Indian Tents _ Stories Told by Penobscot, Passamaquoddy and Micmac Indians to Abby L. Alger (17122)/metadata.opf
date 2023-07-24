@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">753544b8-93ca-4829-96a6-718ca5993986</dc:identifier>
+        <dc:title>In Indian Tents / Stories Told by Penobscot, Passamaquoddy and Micmac Indians to Abby L. Alger</dc:title>
+        <dc:creator opf:file-as="Alger, Abby Langdon" opf:role="aut">Abby Langdon Alger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Passamaquoddy Indians -- Folklore</dc:subject>
+        <dc:subject>Penobscot Indians -- Folklore</dc:subject>
+        <dc:subject>Micmac Indians -- Folklore</dc:subject>
+        <dc:subject>Tales -- New England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abby Langdon Alger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:22:49.133086+00:00"/>
+        <meta name="calibre:title_sort" content="In Indian Tents / Stories Told by Penobscot, Passamaquoddy and Micmac Indians to Abby L. Alger"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

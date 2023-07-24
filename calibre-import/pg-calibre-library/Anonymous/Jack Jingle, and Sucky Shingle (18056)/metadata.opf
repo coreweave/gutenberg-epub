@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18056</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28402a6b-a2be-4bf0-9c22-25747215b562</dc:identifier>
+        <dc:title>Jack Jingle, and Sucky Shingle</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58763</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stories in rhyme</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile poetry</dc:subject>
+        <dc:subject>Courtship -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:54:45.477325+00:00"/>
+        <meta name="calibre:title_sort" content="Jack Jingle, and Sucky Shingle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

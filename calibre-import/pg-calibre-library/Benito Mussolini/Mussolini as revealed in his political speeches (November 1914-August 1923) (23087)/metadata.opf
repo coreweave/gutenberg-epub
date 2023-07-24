@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec21a576-daf7-4906-9a97-5849214946f7</dc:identifier>
+        <dc:title>Mussolini as revealed in his political speeches (November 1914-August 1923)</dc:title>
+        <dc:creator opf:file-as="Mussolini, Benito" opf:role="aut">Benito Mussolini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Italy -- Politics and government -- 1914-1945</dc:subject>
+        <dc:subject>Mussolini</dc:subject>
+        <dc:subject>Benito</dc:subject>
+        <dc:subject>1883-1945</dc:subject>
+        <dc:subject>Fascism -- Italy</dc:subject>
+        <dc:subject>Partito nazionale fascista (Italy)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benito Mussolini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:07:13.374184+00:00"/>
+        <meta name="calibre:title_sort" content="Mussolini as revealed in his political speeches (November 1914-August 1923)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

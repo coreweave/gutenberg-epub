@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6aa6c0ea-94c3-4310-99b6-19ea01fd4882</dc:identifier>
+        <dc:title>Memoirs of Lady Fanshawe / Wife of Sir Richard Fanshawe, Bt., Ambassador from Charles II to the Courts of Portugal and Madrid.</dc:title>
+        <dc:creator opf:file-as="Fanshawe, Ann" opf:role="aut">Ann Fanshawe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6064</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spain -- Court and courtiers</dc:subject>
+        <dc:subject>Fanshawe</dc:subject>
+        <dc:subject>Anne Harrison</dc:subject>
+        <dc:subject>Lady</dc:subject>
+        <dc:subject>1625-1680</dc:subject>
+        <dc:subject>Portugal -- Court and courtiers</dc:subject>
+        <dc:subject>Great Britain -- History -- Charles II</dc:subject>
+        <dc:subject>1660-1685 -- Sources</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1608-1666</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ann Fanshawe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:10:47.624338+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Lady Fanshawe / Wife of Sir Richard Fanshawe, Bt., Ambassador from Charles II to the Courts of Portugal and Madrid."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

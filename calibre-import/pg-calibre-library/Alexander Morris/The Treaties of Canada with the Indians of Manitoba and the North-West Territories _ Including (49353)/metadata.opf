@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49353</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b384e400-3979-4dbe-8866-778d5939d1c3</dc:identifier>
+        <dc:title>The Treaties of Canada with the Indians of Manitoba and the North-West Territories / Including the Negotiations on Which They Were Based, and Other Information Relating Thereto</dc:title>
+        <dc:creator opf:file-as="Morris, Alexander" opf:role="aut">Alexander Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7126</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Canada -- Treaties</dc:subject>
+        <dc:subject>Indians of North America -- Legal status</dc:subject>
+        <dc:subject>laws</dc:subject>
+        <dc:subject>etc. -- Northwest</dc:subject>
+        <dc:subject>Canadian</dc:subject>
+        <dc:subject>Indians of North America -- Canada -- Government relations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:26:01.409762+00:00"/>
+        <meta name="calibre:title_sort" content="Treaties of Canada with the Indians of Manitoba and the North-West Territories / Including the Negotiations on Which They Were Based, and Other Information Relating Thereto, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb0a6b2d-3b39-45f4-8fbb-6b7aadbeb17f</dc:identifier>
+        <dc:title>Joel: A Boy of Galilee</dc:title>
+        <dc:creator opf:file-as="Johnston, Annie F. (Annie Fellows)" opf:role="aut">Annie F. Johnston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39231</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Conversion -- Juvenile fiction</dc:subject>
+        <dc:subject>Jesus Christ -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conversion to Christianity -- Juvenile fiction</dc:subject>
+        <dc:subject>Galilee (Israel) -- Juvenile fiction</dc:subject>
+        <dc:subject>Martyrs -- Juvenile fiction</dc:subject>
+        <dc:subject>Preaching -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie F. Johnston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:06:19.221200+00:00"/>
+        <meta name="calibre:title_sort" content="Joel: A Boy of Galilee"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

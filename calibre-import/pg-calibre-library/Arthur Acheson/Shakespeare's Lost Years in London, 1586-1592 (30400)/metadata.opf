@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dd42be6-24e9-4863-a540-16f6c58151e2</dc:identifier>
+        <dc:title>Shakespeare's Lost Years in London, 1586-1592</dc:title>
+        <dc:creator opf:file-as="Acheson, Arthur" opf:role="aut">Arthur Acheson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24500</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Homes and haunts -- England -- London</dc:subject>
+        <dc:subject>Southampton</dc:subject>
+        <dc:subject>Henry Wriothesley</dc:subject>
+        <dc:subject>Earl of</dc:subject>
+        <dc:subject>1573-1624 -- Friends and associates</dc:subject>
+        <dc:subject>Florio</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1553?-1625 -- Friends and associates</dc:subject>
+        <dc:subject>1564-1616 -- Characters -- Falstaff</dc:subject>
+        <dc:subject>Dramatists</dc:subject>
+        <dc:subject>English -- Homes and haunts -- England -- London</dc:subject>
+        <dc:subject>English -- Early modern</dc:subject>
+        <dc:subject>1500-1700 -- Biography</dc:subject>
+        <dc:subject>Falstaff</dc:subject>
+        <dc:subject>Sir (Fictitious character)</dc:subject>
+        <dc:subject>London (England) -- Intellectual life -- 16th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Acheson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:31:01.022506+00:00"/>
+        <meta name="calibre:title_sort" content="Shakespeare's Lost Years in London, 1586-1592"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

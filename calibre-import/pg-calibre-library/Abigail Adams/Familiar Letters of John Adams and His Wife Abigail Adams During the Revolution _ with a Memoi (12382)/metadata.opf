@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">156e8de1-5a02-48d1-a2a2-4f18fcf5082d</dc:identifier>
+        <dc:title>Familiar Letters of John Adams and His Wife Abigail Adams During the Revolution / with a Memoir of Mrs. Adams</dc:title>
+        <dc:creator opf:file-as="Adams, Abigail" opf:role="aut">Abigail Adams</dc:creator>
+        <dc:creator opf:file-as="Adams, Abigail" opf:role="aut">John Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34123</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Correspondence</dc:subject>
+        <dc:subject>Adams</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1735-1826 -- Correspondence</dc:subject>
+        <dc:subject>Abigail</dc:subject>
+        <dc:subject>1744-1818 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abigail Adams&quot;: &quot;&quot;, &quot;John Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:53:01.519058+00:00"/>
+        <meta name="calibre:title_sort" content="Familiar Letters of John Adams and His Wife Abigail Adams During the Revolution / with a Memoir of Mrs. Adams"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

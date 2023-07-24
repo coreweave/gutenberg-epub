@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6442260e-0393-4829-9947-b3f3eb51fc37</dc:identifier>
+        <dc:title>Lectures on the Origin and Growth of Religion as Illustrated by the Native Religions of Mexico and Peru</dc:title>
+        <dc:creator opf:file-as="Réville, Albert" opf:role="aut">Albert Réville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34804</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indian mythology -- Mexico</dc:subject>
+        <dc:subject>Indian mythology -- Peru</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Réville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:41:52.061439+00:00"/>
+        <meta name="calibre:title_sort" content="Lectures on the Origin and Growth of Religion as Illustrated by the Native Religions of Mexico and Peru"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4e93b0e-7fda-43de-93f1-9e4a567adfec</dc:identifier>
+        <dc:title>The Emancipation of South America</dc:title>
+        <dc:creator opf:file-as="Mitre, Bartolomé" opf:role="aut">Bartolomé Mitre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48856</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Argentina -- History -- War of Independence</dc:subject>
+        <dc:subject>1810-1817</dc:subject>
+        <dc:subject>South America -- History -- Wars of Independence</dc:subject>
+        <dc:subject>1806-1830</dc:subject>
+        <dc:subject>San Martín</dc:subject>
+        <dc:subject>José de</dc:subject>
+        <dc:subject>1778-1850</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bartolomé Mitre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:41:52.588544+00:00"/>
+        <meta name="calibre:title_sort" content="Emancipation of South America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

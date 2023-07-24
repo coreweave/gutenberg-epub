@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17b23416-ff28-4e37-bb4e-0f97779a0f13</dc:identifier>
+        <dc:title>Some Experiences of a New Guinea Resident Magistrate</dc:title>
+        <dc:creator opf:file-as="Monckton, C. A. W. (Charles Arthur Whitmore)" opf:role="aut">C. A. W. Monckton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58500</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Papuans</dc:subject>
+        <dc:subject>Monckton</dc:subject>
+        <dc:subject>C. A. W. (Charles Arthur Whitmore)</dc:subject>
+        <dc:subject>1872-1936 -- Travel -- Papua New Guinea</dc:subject>
+        <dc:subject>Judges -- Papua New Guinea -- Biography</dc:subject>
+        <dc:subject>Papua New Guinea -- Social life and customs</dc:subject>
+        <dc:subject>Papua New Guinea -- Description and travel</dc:subject>
+        <dc:subject>1872-1936</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. A. W. Monckton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:05:16.332027+00:00"/>
+        <meta name="calibre:title_sort" content="Some Experiences of a New Guinea Resident Magistrate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

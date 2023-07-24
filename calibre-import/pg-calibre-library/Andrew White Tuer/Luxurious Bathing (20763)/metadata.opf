@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33c3f7b0-c503-453b-a176-21d6a91dec1c</dc:identifier>
+        <dc:title>Luxurious Bathing</dc:title>
+        <dc:creator opf:file-as="Tuer, Andrew White" opf:role="aut">Andrew White Tuer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62531</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Baths</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew White Tuer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:33:07.365287+00:00"/>
+        <meta name="calibre:title_sort" content="Luxurious Bathing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

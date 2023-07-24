@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d2630a7-51e9-456d-ad09-ed4c090ad372</dc:identifier>
+        <dc:title>The Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career</dc:title>
+        <dc:creator opf:file-as="Casas, Bartolomé de las" opf:role="aut">Bartolomé de las Casas</dc:creator>
+        <dc:creator opf:file-as="Casas, Bartolomé de las" opf:role="aut">Christopher Columbus</dc:creator>
+        <dc:creator opf:file-as="Casas, Bartolomé de las" opf:role="aut">Amerigo Vespucci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36924</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ojeda</dc:subject>
+        <dc:subject>Alonso de</dc:subject>
+        <dc:subject>approximately 1466-approximately 1515</dc:subject>
+        <dc:subject>Pinzón</dc:subject>
+        <dc:subject>Vicente Yáñez</dc:subject>
+        <dc:subject>1461 or 1462-approximately 1524</dc:subject>
+        <dc:subject>Díaz de Solís</dc:subject>
+        <dc:subject>Juan</dc:subject>
+        <dc:subject>1471?-1516?</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bartolomé de las Casas&quot;: &quot;&quot;, &quot;Christopher Columbus&quot;: &quot;&quot;, &quot;Amerigo Vespucci&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:17:32.882955+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6574eb7-70e9-4ce0-9688-7fd89edf0aa9</dc:identifier>
+        <dc:title>The Art of Graining: How Acquired and How Produced. / With the description of colors and their applications.</dc:title>
+        <dc:creator opf:file-as="Metcalf, A." opf:role="aut">A. Metcalf</dc:creator>
+        <dc:creator opf:file-as="Metcalf, A." opf:role="aut">Charles Pickert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45079</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Graining</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Metcalf&quot;: &quot;&quot;, &quot;Charles Pickert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:15:29.765721+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Graining: How Acquired and How Produced. / With the description of colors and their applications., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

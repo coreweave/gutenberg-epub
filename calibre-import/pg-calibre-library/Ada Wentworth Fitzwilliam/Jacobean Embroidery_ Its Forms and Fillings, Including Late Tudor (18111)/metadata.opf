@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5be3f283-8427-4857-ab97-8194606f2006</dc:identifier>
+        <dc:title>Jacobean Embroidery: Its Forms and Fillings, Including Late Tudor</dc:title>
+        <dc:creator opf:file-as="Fitzwilliam, Ada Wentworth" opf:role="aut">Ada Wentworth Fitzwilliam</dc:creator>
+        <dc:creator opf:file-as="Fitzwilliam, Ada Wentworth" opf:role="aut">A. F. Morris Hands</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18971</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Embroidery</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ada Wentworth Fitzwilliam&quot;: &quot;&quot;, &quot;A. F. Morris Hands&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:56:42.028188+00:00"/>
+        <meta name="calibre:title_sort" content="Jacobean Embroidery: Its Forms and Fillings, Including Late Tudor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

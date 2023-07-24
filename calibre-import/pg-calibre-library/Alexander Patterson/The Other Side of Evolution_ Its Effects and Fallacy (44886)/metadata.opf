@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90547df5-38d0-43c4-aec9-40096662422f</dc:identifier>
+        <dc:title>The Other Side of Evolution: Its Effects and Fallacy</dc:title>
+        <dc:creator opf:file-as="Patterson, Alexander" opf:role="aut">Alexander Patterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44479</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Bible and science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Patterson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:01:09.166579+00:00"/>
+        <meta name="calibre:title_sort" content="Other Side of Evolution: Its Effects and Fallacy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b82f1987-bc3f-481b-ad38-c27c8409e69c</dc:identifier>
+        <dc:title>Bunyan Characters (1st Series)</dc:title>
+        <dc:creator opf:file-as="Whyte, Alexander" opf:role="aut">Alexander Whyte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1885</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bunyan</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1628-1688. Pilgrim's progress</dc:subject>
+        <dc:subject>1628-1688 -- Criticism and interpretation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Whyte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:41:14.765483+00:00"/>
+        <meta name="calibre:title_sort" content="Bunyan Characters (1st Series)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

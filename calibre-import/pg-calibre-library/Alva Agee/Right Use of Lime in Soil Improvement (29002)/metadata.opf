@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29002</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b5cdf45-72a4-435e-9017-6e2404eaea71</dc:identifier>
+        <dc:title>Right Use of Lime in Soil Improvement</dc:title>
+        <dc:creator opf:file-as="Agee, Alva" opf:role="aut">Alva Agee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25389</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lime</dc:subject>
+        <dc:subject>Liming of soils</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alva Agee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:24:24.084447+00:00"/>
+        <meta name="calibre:title_sort" content="Right Use of Lime in Soil Improvement"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

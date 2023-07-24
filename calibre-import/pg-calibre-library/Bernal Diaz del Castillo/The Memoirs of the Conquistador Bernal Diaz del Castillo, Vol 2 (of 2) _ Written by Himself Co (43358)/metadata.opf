@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0444778e-e56e-4328-a33e-735c8c9b420a</dc:identifier>
+        <dc:title>The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 2 (of 2) / Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain.</dc:title>
+        <dc:creator opf:file-as="Díaz del Castillo, Bernal" opf:role="aut">Bernal Díaz del Castillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32475</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mexico -- History -- Conquest</dc:subject>
+        <dc:subject>1519-1540</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernal Díaz del Castillo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:34:56.928399+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 2 (of 2) / Written by Himself Containing a True and Full Account of the Discovery and Conquest of Mexico and New Spain., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

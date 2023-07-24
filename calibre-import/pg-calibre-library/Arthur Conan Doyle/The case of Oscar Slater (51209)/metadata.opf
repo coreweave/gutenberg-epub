@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99397934-1ec7-42b7-9a31-760eb2db2a58</dc:identifier>
+        <dc:title>The case of Oscar Slater</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69704</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trials (Murder) -- Scotland</dc:subject>
+        <dc:subject>Slater</dc:subject>
+        <dc:subject>Oscar</dc:subject>
+        <dc:subject>1872-1948</dc:subject>
+        <dc:subject>1872-1948 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Murder -- Scotland -- Glasgow</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:23:29.799193+00:00"/>
+        <meta name="calibre:title_sort" content="case of Oscar Slater, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

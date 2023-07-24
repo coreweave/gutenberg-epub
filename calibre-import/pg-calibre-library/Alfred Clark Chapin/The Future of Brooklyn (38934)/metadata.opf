@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a45c9bf6-77c5-4982-9ba4-b9163d2b6b6f</dc:identifier>
+        <dc:title>The Future of Brooklyn</dc:title>
+        <dc:creator opf:file-as="Chapin, Alfred Clark" opf:role="aut">Alfred Clark Chapin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36994</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brooklyn (New York</dc:subject>
+        <dc:subject>N.Y.) -- Statistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Clark Chapin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:34:53.986290+00:00"/>
+        <meta name="calibre:title_sort" content="Future of Brooklyn, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37d6ebce-bebd-424e-a460-eb9a13f29a3c</dc:identifier>
+        <dc:title>Mediæval Wales / Chiefly in the Twelfth and Thirteenth Centuries: Six Popular Lectures</dc:title>
+        <dc:creator opf:file-as="Little, A. G. (Andrew George)" opf:role="aut">A. G. Little</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24947</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wales -- History</dc:subject>
+        <dc:subject>Monasteries -- Wales</dc:subject>
+        <dc:subject>Geoffrey</dc:subject>
+        <dc:subject>of Monmouth</dc:subject>
+        <dc:subject>Bishop of St. Asaph</dc:subject>
+        <dc:subject>1100?-1154</dc:subject>
+        <dc:subject>Giraldus</dc:subject>
+        <dc:subject>Cambrensis</dc:subject>
+        <dc:subject>1146?-1223?</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. G. Little&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:06:42.569433+00:00"/>
+        <meta name="calibre:title_sort" content="Mediæval Wales / Chiefly in the Twelfth and Thirteenth Centuries: Six Popular Lectures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

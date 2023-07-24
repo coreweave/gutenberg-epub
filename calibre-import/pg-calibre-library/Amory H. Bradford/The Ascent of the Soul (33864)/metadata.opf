@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33864</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b7cb1c4-966c-45f2-9667-6b1f88b2e98a</dc:identifier>
+        <dc:title>The Ascent of the Soul</dc:title>
+        <dc:creator opf:file-as="Bradford, Amory H. (Amory Howe)" opf:role="aut">Amory H. Bradford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soul</dc:subject>
+        <dc:subject>Ascension of the soul</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amory H. Bradford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:18:34.994015+00:00"/>
+        <meta name="calibre:title_sort" content="Ascent of the Soul, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

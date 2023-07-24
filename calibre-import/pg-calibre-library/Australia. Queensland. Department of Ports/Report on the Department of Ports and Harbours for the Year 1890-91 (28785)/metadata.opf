@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28785</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8167a5c3-810f-42aa-990c-f8c8605c233e</dc:identifier>
+        <dc:title>Report on the Department of Ports and Harbours for the Year 1890-91</dc:title>
+        <dc:creator opf:file-as="Australia. Queensland. Department of Ports and Harbours" opf:role="aut">Australia. Queensland. Department of Ports</dc:creator>
+        <dc:creator opf:file-as="Australia. Queensland. Department of Ports and Harbours" opf:role="aut">Harbours</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24442</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harbors -- Australia -- Queensland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Australia. Queensland. Department of Ports&quot;: &quot;&quot;, &quot;Harbours&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:14:18.765617+00:00"/>
+        <meta name="calibre:title_sort" content="Report on the Department of Ports and Harbours for the Year 1890-91"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

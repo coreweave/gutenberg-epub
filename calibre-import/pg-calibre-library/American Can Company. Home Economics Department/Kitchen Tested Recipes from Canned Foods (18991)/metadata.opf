@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18991</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a3f2174-d146-4dcc-b62a-850377cf62b3</dc:identifier>
+        <dc:title>Kitchen Tested Recipes from Canned Foods</dc:title>
+        <dc:creator opf:file-as="American Can Company. Home Economics Department" opf:role="aut">American Can Company. Home Economics Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62230</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canned foods</dc:subject>
+        <dc:subject>Cooking (Canned foods)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Can Company. Home Economics Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:27:43.931987+00:00"/>
+        <meta name="calibre:title_sort" content="Kitchen Tested Recipes from Canned Foods"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

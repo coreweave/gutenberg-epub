@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae653212-cbe1-48e1-b32a-8749ed47f968</dc:identifier>
+        <dc:title>The Book of Husbandry</dc:title>
+        <dc:creator opf:file-as="Fitzherbert, Anthony" opf:role="aut">Anthony Fitzherbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57457</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life</dc:subject>
+        <dc:subject>Agriculture -- England</dc:subject>
+        <dc:subject>Home economics</dc:subject>
+        <dc:subject>Rural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony Fitzherbert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:10:01.104324+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Husbandry, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

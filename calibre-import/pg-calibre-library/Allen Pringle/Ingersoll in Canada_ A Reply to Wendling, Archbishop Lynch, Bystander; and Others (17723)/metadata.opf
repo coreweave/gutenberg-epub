@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5ffa16d-49f6-43c7-a7ec-8e8119e55d63</dc:identifier>
+        <dc:title>Ingersoll in Canada: A Reply to Wendling, Archbishop Lynch, Bystander; and Others</dc:title>
+        <dc:creator opf:file-as="Pringle, Allen" opf:role="aut">Allen Pringle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38303</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christianity -- Controversial literature</dc:subject>
+        <dc:subject>Ingersoll</dc:subject>
+        <dc:subject>Robert Green</dc:subject>
+        <dc:subject>1833-1899</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Allen Pringle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:43:16.106469+00:00"/>
+        <meta name="calibre:title_sort" content="Ingersoll in Canada: A Reply to Wendling, Archbishop Lynch, Bystander; and Others"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

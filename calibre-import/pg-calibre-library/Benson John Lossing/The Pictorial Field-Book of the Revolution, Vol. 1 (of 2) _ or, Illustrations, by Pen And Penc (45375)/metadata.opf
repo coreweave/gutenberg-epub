@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1b4a0d7-bcd8-4409-8fc1-1b1c2781ed21</dc:identifier>
+        <dc:title>The Pictorial Field-Book of the Revolution, Vol. 1 (of 2) / or, Illustrations, by Pen And Pencil, of the History, Biography, Scenery, Relics, and Traditions of the War for Independence</dc:title>
+        <dc:creator opf:file-as="Lossing, Benson John" opf:role="aut">Benson John Lossing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benson John Lossing&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:29:18.897985+00:00"/>
+        <meta name="calibre:title_sort" content="Pictorial Field-Book of the Revolution, Vol. 1 (of 2) / or, Illustrations, by Pen And Pencil, of the History, Biography, Scenery, Relics, and Traditions of the War for Independence, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

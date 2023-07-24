@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7adf2eb-4f23-4ce4-b2bf-5eb4b626048a</dc:identifier>
+        <dc:title>On the Art of Writing / Lectures delivered in the University of Cambridge 1913-1914</dc:title>
+        <dc:creator opf:file-as="Quiller-Couch, Arthur" opf:role="aut">Arthur Quiller-Couch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17470</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Rhetoric</dc:subject>
+        <dc:subject>English language -- Style</dc:subject>
+        <dc:subject>English language -- Rhetoric -- Study and teaching -- England -- Cambridge</dc:subject>
+        <dc:subject>Creative writing (Higher education) -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Quiller-Couch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:23:16.867204+00:00"/>
+        <meta name="calibre:title_sort" content="On the Art of Writing / Lectures delivered in the University of Cambridge 1913-1914"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

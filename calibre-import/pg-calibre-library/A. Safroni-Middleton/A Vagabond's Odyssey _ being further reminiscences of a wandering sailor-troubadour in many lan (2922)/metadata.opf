@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2922</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcc278fc-11f1-49a9-9a6c-2b1340957d3b</dc:identifier>
+        <dc:title>A Vagabond's Odyssey / being further reminiscences of a wandering sailor-troubadour in many lands</dc:title>
+        <dc:creator opf:file-as="Safroni-Middleton, A. (Arnold)" opf:role="aut">A. Safroni-Middleton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59303</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels</dc:subject>
+        <dc:subject>Oceania -- Description and travel</dc:subject>
+        <dc:subject>Safroni-Middleton</dc:subject>
+        <dc:subject>A. (Arnold)</dc:subject>
+        <dc:subject>1873-1950</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Safroni-Middleton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:13:06.934848+00:00"/>
+        <meta name="calibre:title_sort" content="Vagabond's Odyssey / being further reminiscences of a wandering sailor-troubadour in many lands, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

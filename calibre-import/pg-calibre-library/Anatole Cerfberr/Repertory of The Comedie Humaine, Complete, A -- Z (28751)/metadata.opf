@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8d67255-0a23-4b25-bae0-aaa8ab377586</dc:identifier>
+        <dc:title>Repertory of The Comedie Humaine, Complete, A — Z</dc:title>
+        <dc:creator opf:file-as="Cerfberr, Anatole" opf:role="aut">Anatole Cerfberr</dc:creator>
+        <dc:creator opf:file-as="Cerfberr, Anatole" opf:role="aut">Jules François Christophe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17635</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Balzac</dc:subject>
+        <dc:subject>Honoré de</dc:subject>
+        <dc:subject>1799-1850. Comédie humaine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anatole Cerfberr&quot;: &quot;&quot;, &quot;Jules François Christophe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:12:47.271181+00:00"/>
+        <meta name="calibre:title_sort" content="Repertory of The Comedie Humaine, Complete, A — Z"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

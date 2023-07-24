@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9087b3cd-1ed8-4a32-aa4f-8660f5c76144</dc:identifier>
+        <dc:title>The Papers and Writings of Abraham Lincoln, Complete</dc:title>
+        <dc:creator opf:file-as="Lincoln, Abraham" opf:role="aut">Abraham Lincoln</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>Illinois -- Politics and government -- To 1865</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1861-1865</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1837-1841</dc:subject>
+        <dc:subject>Lincoln-Douglas Debates</dc:subject>
+        <dc:subject>Ill.</dc:subject>
+        <dc:subject>1858</dc:subject>
+        <dc:subject>1809-1865 -- Correspondence</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1829-1837</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1841-1845</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1845-1861</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Abraham Lincoln&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:08:50.111701+00:00"/>
+        <meta name="calibre:title_sort" content="Papers and Writings of Abraham Lincoln, Complete, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

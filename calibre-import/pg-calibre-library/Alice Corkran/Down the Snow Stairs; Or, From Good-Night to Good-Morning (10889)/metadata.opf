@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05a91783-fcd7-4d43-8b39-3960a6d24565</dc:identifier>
+        <dc:title>Down the Snow Stairs; Or, From Good-Night to Good-Morning</dc:title>
+        <dc:creator opf:file-as="Corkran, Alice" opf:role="aut">Alice Corkran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Toys -- Juvenile fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Christmas -- Juvenile fiction</dc:subject>
+        <dc:subject>Obedience -- Juvenile fiction</dc:subject>
+        <dc:subject>Elves -- Juvenile fiction</dc:subject>
+        <dc:subject>Dreams -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alice Corkran&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:11:47.874508+00:00"/>
+        <meta name="calibre:title_sort" content="Down the Snow Stairs; Or, From Good-Night to Good-Morning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

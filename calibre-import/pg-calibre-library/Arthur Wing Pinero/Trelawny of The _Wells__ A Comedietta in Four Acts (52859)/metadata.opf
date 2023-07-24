@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2adaaea1-ee1d-4fde-ab10-1d728da04a81</dc:identifier>
+        <dc:title>Trelawny of The "Wells": A Comedietta in Four Acts</dc:title>
+        <dc:creator opf:file-as="Pinero, Arthur Wing" opf:role="aut">Arthur Wing Pinero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47561</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Married people -- Drama</dc:subject>
+        <dc:subject>English drama -- 19th century</dc:subject>
+        <dc:subject>Theater -- England -- History -- 19th century -- Drama</dc:subject>
+        <dc:subject>Actresses -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Wing Pinero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:09:07.393744+00:00"/>
+        <meta name="calibre:title_sort" content="Trelawny of The &quot;Wells&quot;: A Comedietta in Four Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

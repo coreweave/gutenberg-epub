@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b043bc3-bf52-4ec2-be06-1d83e7779c36</dc:identifier>
+        <dc:title>Rambles in the Mammoth Cave, during the Year 1844 / By a Visiter</dc:title>
+        <dc:creator opf:file-as="Bullitt, Alexander Clark" opf:role="aut">Alexander Clark Bullitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16220</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bullitt</dc:subject>
+        <dc:subject>Alexander Clark</dc:subject>
+        <dc:subject>1807-1868</dc:subject>
+        <dc:subject>Mammoth Cave (Ky.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander Clark Bullitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:54:18.603588+00:00"/>
+        <meta name="calibre:title_sort" content="Rambles in the Mammoth Cave, during the Year 1844 / By a Visiter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

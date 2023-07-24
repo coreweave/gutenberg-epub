@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2661cc4-4342-425a-9d28-ccddcab2da8e</dc:identifier>
+        <dc:title>Temptress of Planet Delight</dc:title>
+        <dc:creator opf:file-as="Curtis, Betsy" opf:role="aut">Betsy Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64516</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Life on other planets -- Fiction</dc:subject>
+        <dc:subject>Traveling sales personnel -- Fiction</dc:subject>
+        <dc:subject>Revolutions -- Fiction</dc:subject>
+        <dc:subject>Bureaucracy -- Fiction</dc:subject>
+        <dc:subject>Human evolution -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Betsy Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:24:59.721602+00:00"/>
+        <meta name="calibre:title_sort" content="Temptress of Planet Delight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

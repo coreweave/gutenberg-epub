@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ad06a06-15f3-4c46-8e09-233c5273a2d1</dc:identifier>
+        <dc:title>Nietzsche and Art</dc:title>
+        <dc:creator opf:file-as="Ludovici, Anthony M. (Anthony Mario)" opf:role="aut">Anthony M. Ludovici</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53369</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nietzsche</dc:subject>
+        <dc:subject>Friedrich Wilhelm</dc:subject>
+        <dc:subject>1844-1900 -- Aesthetics</dc:subject>
+        <dc:subject>Aesthetics</dc:subject>
+        <dc:subject>German -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony M. Ludovici&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:39:55.835403+00:00"/>
+        <meta name="calibre:title_sort" content="Nietzsche and Art"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

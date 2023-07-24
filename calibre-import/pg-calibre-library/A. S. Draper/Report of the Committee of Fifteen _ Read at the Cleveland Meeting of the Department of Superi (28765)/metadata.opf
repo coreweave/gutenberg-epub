@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0685314-f4c7-4218-b846-c1b2ea776a99</dc:identifier>
+        <dc:title>Report of the Committee of Fifteen / Read at the Cleveland Meeting of the Department of Superintendence, February 19-21, 1884, with the Debate</dc:title>
+        <dc:creator opf:file-as="Draper, A. S. (Andrew Sloan)" opf:role="aut">A. S. Draper</dc:creator>
+        <dc:creator opf:file-as="Draper, A. S. (Andrew Sloan)" opf:role="aut">William Torrey Harris</dc:creator>
+        <dc:creator opf:file-as="Draper, A. S. (Andrew Sloan)" opf:role="aut">H. S. Tarbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52292</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teachers -- Training of -- United States</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Elementary -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. S. Draper&quot;: &quot;&quot;, &quot;William Torrey Harris&quot;: &quot;&quot;, &quot;H. S. Tarbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:13:23.503320+00:00"/>
+        <meta name="calibre:title_sort" content="Report of the Committee of Fifteen / Read at the Cleveland Meeting of the Department of Superintendence, February 19-21, 1884, with the Debate"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

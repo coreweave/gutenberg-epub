@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecf8aaf5-4d1b-4b4d-b8a4-b22fc3672380</dc:identifier>
+        <dc:title>Narrative of a Voyage to Senegal in 1816 / Undertaken by Order of the French Government, Comprising an Account of the Shipwreck of the Medusa, the Sufferings of the Crew, and the Various Occurrences on Board the Raft, in the Desert of Zaara, at St. Louis, and at the Camp of Daccard. to Which Are Subjoined Observations Respecting the Agriculture of the Western Coast of Africa, from Cape Blanco to the Mouth of the Gambia.</dc:title>
+        <dc:creator opf:file-as="Corréard, Alexandre" opf:role="aut">Alexandre Corréard</dc:creator>
+        <dc:creator opf:file-as="Corréard, Alexandre" opf:role="aut">Jean Baptiste Henri Savigny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11772</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Méduse (Ship)</dc:subject>
+        <dc:subject>Shipwrecks -- Senegal</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexandre Corréard&quot;: &quot;&quot;, &quot;Jean Baptiste Henri Savigny&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:25:11.039917+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of a Voyage to Senegal in 1816 / Undertaken by Order of the French Government, Comprising an Account of the Shipwreck of the Medusa, the Sufferings of the Crew, and the Various Occurrences on Board the Raft, in the Desert of Zaara, at St. Louis, and at the Camp of Daccard. to Which Are Subjoined Observations Respecting the Agriculture of the Western Coast of Africa, from Cape Blanco to the Mouth of the Gambia."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

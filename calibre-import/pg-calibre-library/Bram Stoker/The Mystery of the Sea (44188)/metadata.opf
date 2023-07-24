@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63e11c28-1e72-43e4-b2e5-daf6d7fd8b73</dc:identifier>
+        <dc:title>The Mystery of the Sea</dc:title>
+        <dc:creator opf:file-as="Stoker, Bram" opf:role="aut">Bram Stoker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42455</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scotland -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Visions -- Fiction</dc:subject>
+        <dc:subject>Prophecies -- Fiction</dc:subject>
+        <dc:subject>Omens -- Fiction</dc:subject>
+        <dc:subject>Code and cipher stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bram Stoker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:21:37.471723+00:00"/>
+        <meta name="calibre:title_sort" content="Mystery of the Sea, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

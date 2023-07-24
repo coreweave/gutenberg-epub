@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d30efce0-53a0-4b74-8806-0dc5e4dc77dc</dc:identifier>
+        <dc:title>Twenty-Two Years a Slave, and Forty Years a Freeman / Embracing a Correspondence of Several Years, While President of Wilberforce Colony, London, Canada West</dc:title>
+        <dc:creator opf:file-as="Steward, Austin" opf:role="aut">Austin Steward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11137</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Steward</dc:subject>
+        <dc:subject>Austin</dc:subject>
+        <dc:subject>1794-1860</dc:subject>
+        <dc:subject>Fugitive slaves -- Biography</dc:subject>
+        <dc:subject>Slavery -- Virginia</dc:subject>
+        <dc:subject>Wilberforce Colony</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Austin Steward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:25:53.596119+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty-Two Years a Slave, and Forty Years a Freeman / Embracing a Correspondence of Several Years, While President of Wilberforce Colony, London, Canada West"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

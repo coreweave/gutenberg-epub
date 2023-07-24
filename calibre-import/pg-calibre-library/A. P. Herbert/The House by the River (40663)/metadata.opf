@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe43cd8f-8d87-4f8d-9f2e-d8772add5ddf</dc:identifier>
+        <dc:title>The House by the River</dc:title>
+        <dc:creator opf:file-as="Herbert, A. P. (Alan Patrick)" opf:role="aut">A. P. Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41791</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Murder -- Fiction</dc:subject>
+        <dc:subject>Poets -- Fiction</dc:subject>
+        <dc:subject>London (England) -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. P. Herbert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:06:23.987949+00:00"/>
+        <meta name="calibre:title_sort" content="House by the River, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

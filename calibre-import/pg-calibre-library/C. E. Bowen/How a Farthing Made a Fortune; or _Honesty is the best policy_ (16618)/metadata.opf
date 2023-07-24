@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52145b9f-d8de-467d-bc36-c7ae47d80d52</dc:identifier>
+        <dc:title>How a Farthing Made a Fortune; or "Honesty is the best policy"</dc:title>
+        <dc:creator opf:file-as="Bowen, C. E. (Charlotte Elizabeth)" opf:role="aut">C. E. Bowen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54961</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Honesty -- Juvenile fiction</dc:subject>
+        <dc:subject>Kindness -- Juvenile fiction</dc:subject>
+        <dc:subject>Poverty -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Religious life -- Juvenile fiction</dc:subject>
+        <dc:subject>Theft -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. E. Bowen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:05:47.421947+00:00"/>
+        <meta name="calibre:title_sort" content="How a Farthing Made a Fortune; or &quot;Honesty is the best policy&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

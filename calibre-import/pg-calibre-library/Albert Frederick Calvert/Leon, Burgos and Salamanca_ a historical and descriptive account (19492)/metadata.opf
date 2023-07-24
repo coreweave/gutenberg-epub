@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76093858-4cdd-4f6d-af07-cac37a3bb2fb</dc:identifier>
+        <dc:title>Leon, Burgos and Salamanca: a historical and descriptive account</dc:title>
+        <dc:creator opf:file-as="Calvert, Albert Frederick" opf:role="aut">Albert Frederick Calvert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63255</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture -- Spain</dc:subject>
+        <dc:subject>León (Spain)</dc:subject>
+        <dc:subject>Burgos (Spain)</dc:subject>
+        <dc:subject>Salamanca (Spain)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Frederick Calvert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:45:43.430116+00:00"/>
+        <meta name="calibre:title_sort" content="Leon, Burgos and Salamanca: a historical and descriptive account"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

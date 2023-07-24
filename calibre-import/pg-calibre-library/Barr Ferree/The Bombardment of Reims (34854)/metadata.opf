@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34854</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78265a66-842d-49a9-81c9-05e62808c9cd</dc:identifier>
+        <dc:title>The Bombardment of Reims</dc:title>
+        <dc:creator opf:file-as="Ferree, Barr" opf:role="aut">Barr Ferree</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49649</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- France -- Reims</dc:subject>
+        <dc:subject>Reims (France) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Barr Ferree&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:07:24.573196+00:00"/>
+        <meta name="calibre:title_sort" content="Bombardment of Reims, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6edecfdf-e790-46fd-a751-c6cb084f87bf</dc:identifier>
+        <dc:title>The Business of Mining / A brief non-technical exposition of the principles involved in the profitable operation of mines</dc:title>
+        <dc:creator opf:file-as="Hoskin, Arthur J. (Arthur Joseph)" opf:role="aut">Arthur J. Hoskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38903</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mines and mineral resources</dc:subject>
+        <dc:subject>Mineral industries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur J. Hoskin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:41:35.189493+00:00"/>
+        <meta name="calibre:title_sort" content="Business of Mining / A brief non-technical exposition of the principles involved in the profitable operation of mines, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

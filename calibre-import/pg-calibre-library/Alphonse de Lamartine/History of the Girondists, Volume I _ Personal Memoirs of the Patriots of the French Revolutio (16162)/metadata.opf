@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26f2c79a-bd3c-41cb-a832-725e7a0f9934</dc:identifier>
+        <dc:title>History of the Girondists, Volume I / Personal Memoirs of the Patriots of the French Revolution</dc:title>
+        <dc:creator opf:file-as="Lamartine, Alphonse de" opf:role="aut">Alphonse de Lamartine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18094</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Revolution</dc:subject>
+        <dc:subject>1789-1799</dc:subject>
+        <dc:subject>Girondists</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alphonse de Lamartine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:50:29.108350+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Girondists, Volume I / Personal Memoirs of the Patriots of the French Revolution"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

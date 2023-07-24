@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">569c3ebf-1c46-43a5-8504-878dda1f441f</dc:identifier>
+        <dc:title>Odette's Marriage / A Novel, from the French of Albert Delpit, Translated from the "Revue des Deux Mondes," by Emily Prescott</dc:title>
+        <dc:creator opf:file-as="Delpit, Albert" opf:role="aut">Albert Delpit</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47697</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Delpit&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:09:10.730898+00:00"/>
+        <meta name="calibre:title_sort" content="Odette's Marriage / A Novel, from the French of Albert Delpit, Translated from the &quot;Revue des Deux Mondes,&quot; by Emily Prescott"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

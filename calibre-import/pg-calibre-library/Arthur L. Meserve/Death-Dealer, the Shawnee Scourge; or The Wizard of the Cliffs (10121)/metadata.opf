@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2287d97-e012-4d16-82d4-18b57fd17bbb</dc:identifier>
+        <dc:title>Death-Dealer, the Shawnee Scourge; or The Wizard of the Cliffs</dc:title>
+        <dc:creator opf:file-as="Meserve, Arthur L. (Arthur Livermore)" opf:role="aut">Arthur L. Meserve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Fiction</dc:subject>
+        <dc:subject>Revenge -- Fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Fiction</dc:subject>
+        <dc:subject>Rescues -- Fiction</dc:subject>
+        <dc:subject>Murder -- Fiction</dc:subject>
+        <dc:subject>Indian captivities -- Fiction</dc:subject>
+        <dc:subject>Scouts (Reconnaissance) -- West (U.S.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur L. Meserve&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:51:15.729489+00:00"/>
+        <meta name="calibre:title_sort" content="Death-Dealer, the Shawnee Scourge; or The Wizard of the Cliffs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

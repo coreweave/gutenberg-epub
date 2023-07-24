@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58b4dc04-81f6-4783-a633-579c82c6212c</dc:identifier>
+        <dc:title>The old paths, or the Talmud tested by Scripture / Being a comparison of the principles and doctrines of modern Judaism with the religion of Moses and the prophets</dc:title>
+        <dc:creator opf:file-as="McCaul, Alexander" opf:role="aut">Alexander McCaul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68214</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Judaism -- Works to 1900</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander McCaul&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:47:26.907120+00:00"/>
+        <meta name="calibre:title_sort" content="old paths, or the Talmud tested by Scripture / Being a comparison of the principles and doctrines of modern Judaism with the religion of Moses and the prophets, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

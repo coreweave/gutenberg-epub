@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46336</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">403d8ffe-24d3-4bf5-9a49-0a3c78f4ca68</dc:identifier>
+        <dc:title>The Real Cyberpunk Fakebook</dc:title>
+        <dc:creator opf:file-as="Nagel, Bart" opf:role="aut">Bart Nagel</dc:creator>
+        <dc:creator opf:file-as="Nagel, Bart" opf:role="aut">R. U. Sirius</dc:creator>
+        <dc:creator opf:file-as="Nagel, Bart" opf:role="aut">St. Jude</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/929</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computer hackers</dc:subject>
+        <dc:subject>Computers and civilization</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bart Nagel&quot;: &quot;&quot;, &quot;R. U. Sirius&quot;: &quot;&quot;, &quot;St. Jude&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:25:10.352596+00:00"/>
+        <meta name="calibre:title_sort" content="Real Cyberpunk Fakebook, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

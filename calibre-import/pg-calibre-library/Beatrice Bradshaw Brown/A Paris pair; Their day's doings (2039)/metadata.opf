@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2039</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">390ec24c-1645-48d8-8955-4e43ac5937d7</dc:identifier>
+        <dc:title>A Paris pair; Their day's doings</dc:title>
+        <dc:creator opf:file-as="Brown, Beatrice Bradshaw" opf:role="aut">Beatrice Bradshaw Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Children -- Juvenile poetry</dc:subject>
+        <dc:subject>Paris (France) -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Beatrice Bradshaw Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:57:47.658092+00:00"/>
+        <meta name="calibre:title_sort" content="Paris pair; Their day's doings, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

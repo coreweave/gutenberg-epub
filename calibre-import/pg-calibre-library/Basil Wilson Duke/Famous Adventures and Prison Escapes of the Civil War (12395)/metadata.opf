@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c77d0a50-c37b-4099-83dc-544089b39963</dc:identifier>
+        <dc:title>Famous Adventures and Prison Escapes of the Civil War</dc:title>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">Basil Wilson Duke</dc:creator>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">Thomas Henry Hines</dc:creator>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">Frank E. Moran</dc:creator>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">William Pittenger</dc:creator>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">A. E. Richards</dc:creator>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">W. H. Shelton</dc:creator>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">Orlando B. Willcox</dc:creator>
+        <dc:creator opf:file-as="Duke, Basil Wilson" opf:role="aut">John Taylor Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18765</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Chattanooga Railroad Expedition</dc:subject>
+        <dc:subject>1862</dc:subject>
+        <dc:subject>Mosby</dc:subject>
+        <dc:subject>John Singleton</dc:subject>
+        <dc:subject>1833-1916</dc:subject>
+        <dc:subject>Breckinridge</dc:subject>
+        <dc:subject>John C. (John Cabell)</dc:subject>
+        <dc:subject>1821-1875</dc:subject>
+        <dc:subject>Libby Prison</dc:subject>
+        <dc:subject>Morgan's Ohio Raid</dc:subject>
+        <dc:subject>1863</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Basil Wilson Duke&quot;: &quot;&quot;, &quot;Thomas Henry Hines&quot;: &quot;&quot;, &quot;Frank E. Moran&quot;: &quot;&quot;, &quot;William Pittenger&quot;: &quot;&quot;, &quot;A. E. Richards&quot;: &quot;&quot;, &quot;W. H. Shelton&quot;: &quot;&quot;, &quot;Orlando B. Willcox&quot;: &quot;&quot;, &quot;John Taylor Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:53:23.377622+00:00"/>
+        <meta name="calibre:title_sort" content="Famous Adventures and Prison Escapes of the Civil War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

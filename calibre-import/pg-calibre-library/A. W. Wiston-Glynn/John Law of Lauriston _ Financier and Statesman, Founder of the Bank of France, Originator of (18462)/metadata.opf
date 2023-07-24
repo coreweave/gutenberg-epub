@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18462</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c725e9e7-0784-4e62-8d0c-9883986efdb5</dc:identifier>
+        <dc:title>John Law of Lauriston / Financier and Statesman, Founder of the Bank of France, Originator of the Mississippi Scheme, Etc.</dc:title>
+        <dc:creator opf:file-as="Wiston-Glynn, A. W." opf:role="aut">A. W. Wiston-Glynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63453</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1671-1729</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. W. Wiston-Glynn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:08:57.613789+00:00"/>
+        <meta name="calibre:title_sort" content="John Law of Lauriston / Financier and Statesman, Founder of the Bank of France, Originator of the Mississippi Scheme, Etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85fb0a88-a060-4898-930d-9cdbb7bdcc95</dc:identifier>
+        <dc:title>The Blocking of Zeebrugge</dc:title>
+        <dc:creator opf:file-as="Carpenter, Alfred Francis Blakeney" opf:role="aut">Alfred Francis Blakeney Carpenter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Naval operations</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Zeebrugge-Ostend Raids</dc:subject>
+        <dc:subject>1918</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Francis Blakeney Carpenter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:03:17.708811+00:00"/>
+        <meta name="calibre:title_sort" content="Blocking of Zeebrugge, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

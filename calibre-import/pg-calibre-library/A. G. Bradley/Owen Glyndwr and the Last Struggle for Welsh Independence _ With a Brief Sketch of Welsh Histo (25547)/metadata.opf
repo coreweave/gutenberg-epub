@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63fd8a21-7357-4689-a618-af369c8bd85c</dc:identifier>
+        <dc:title>Owen Glyndwr and the Last Struggle for Welsh Independence / With a Brief Sketch of Welsh History</dc:title>
+        <dc:creator opf:file-as="Bradley, A. G. (Arthur Granville)" opf:role="aut">A. G. Bradley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42457</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Glendower</dc:subject>
+        <dc:subject>Owen</dc:subject>
+        <dc:subject>approximately 1354-1416</dc:subject>
+        <dc:subject>Revolutionaries -- Wales -- Biography</dc:subject>
+        <dc:subject>Nationalism -- Wales -- History</dc:subject>
+        <dc:subject>Princes -- Wales -- Biography</dc:subject>
+        <dc:subject>Wales -- History -- 1284-1536</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. G. Bradley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:51:31.274725+00:00"/>
+        <meta name="calibre:title_sort" content="Owen Glyndwr and the Last Struggle for Welsh Independence / With a Brief Sketch of Welsh History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

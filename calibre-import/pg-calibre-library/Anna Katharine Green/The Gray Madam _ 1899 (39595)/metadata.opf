@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">929b1950-8c74-4c64-bc5e-5bf0005cf393</dc:identifier>
+        <dc:title>The Gray Madam / 1899</dc:title>
+        <dc:creator opf:file-as="Green, Anna Katharine" opf:role="aut">Anna Katharine Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22808</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anna Katharine Green&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:09:17.194374+00:00"/>
+        <meta name="calibre:title_sort" content="Gray Madam / 1899, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

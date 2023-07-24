@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">371848cf-f2f6-430a-aadf-f966f7081fb8</dc:identifier>
+        <dc:title>A History of Rome During the Later Republic and Early Principate</dc:title>
+        <dc:creator opf:file-as="Greenidge, A. H. J. (Abel Hendy Jones)" opf:role="aut">A. H. J. Greenidge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9781</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rome -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. H. J. Greenidge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:46:13.788790+00:00"/>
+        <meta name="calibre:title_sort" content="History of Rome During the Later Republic and Early Principate, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

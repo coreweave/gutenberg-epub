@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc3ceb3a-f73a-4941-a538-f562b3876159</dc:identifier>
+        <dc:title>The Great Miss Driver</dc:title>
+        <dc:creator opf:file-as="Hope, Anthony" opf:role="aut">Anthony Hope</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33293</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inheritance and succession -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Elopement -- Fiction</dc:subject>
+        <dc:subject>Private secretaries -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anthony Hope&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:13:57.006613+00:00"/>
+        <meta name="calibre:title_sort" content="Great Miss Driver, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">008b743f-0c3d-46a9-93ea-1639f2054d58</dc:identifier>
+        <dc:title>The Gilded Man (El Dorado) and other pictures of the Spanish occupancy of America</dc:title>
+        <dc:creator opf:file-as="Bandelier, Adolph Francis Alphonse" opf:role="aut">Adolph Francis Alphonse Bandelier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56596</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>El Dorado</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Spanish</dc:subject>
+        <dc:subject>Mexico -- History -- Conquest</dc:subject>
+        <dc:subject>1519-1540</dc:subject>
+        <dc:subject>L'Archévèque</dc:subject>
+        <dc:subject>Jean</dc:subject>
+        <dc:subject>1671-1720</dc:subject>
+        <dc:subject>New Mexico -- History -- To 1848</dc:subject>
+        <dc:subject>Cibola</dc:subject>
+        <dc:subject>Seven Cities of</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adolph Francis Alphonse Bandelier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:46:55.831349+00:00"/>
+        <meta name="calibre:title_sort" content="Gilded Man (El Dorado) and other pictures of the Spanish occupancy of America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

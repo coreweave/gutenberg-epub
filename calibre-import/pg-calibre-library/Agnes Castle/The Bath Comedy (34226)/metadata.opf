@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16f4b2a3-da3d-427d-a60e-510b01ab5782</dc:identifier>
+        <dc:title>The Bath Comedy</dc:title>
+        <dc:creator opf:file-as="Castle, Agnes" opf:role="aut">Agnes Castle</dc:creator>
+        <dc:creator opf:file-as="Castle, Agnes" opf:role="aut">Egerton Castle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56227</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bath (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Agnes Castle&quot;: &quot;&quot;, &quot;Egerton Castle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:36:21.510781+00:00"/>
+        <meta name="calibre:title_sort" content="Bath Comedy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

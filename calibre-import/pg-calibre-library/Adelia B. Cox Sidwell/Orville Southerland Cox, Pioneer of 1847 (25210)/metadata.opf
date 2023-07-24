@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">234f51d2-0b81-448b-ac98-d00be71bf4c9</dc:identifier>
+        <dc:title>Orville Southerland Cox, Pioneer of 1847</dc:title>
+        <dc:creator opf:file-as="Sidwell, Adelia B. Cox" opf:role="aut">Adelia B. Cox Sidwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50322</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cox</dc:subject>
+        <dc:subject>Orville Southerland</dc:subject>
+        <dc:subject>1814-1888</dc:subject>
+        <dc:subject>Pioneers -- Utah -- Manti -- Biography</dc:subject>
+        <dc:subject>Mormon pioneers -- Utah -- Manti -- Biography</dc:subject>
+        <dc:subject>Manti (Utah) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adelia B. Cox Sidwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:37:13.845791+00:00"/>
+        <meta name="calibre:title_sort" content="Orville Southerland Cox, Pioneer of 1847"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f65aca8e-3a18-495d-a3bb-92e7d0c28a18</dc:identifier>
+        <dc:title>50 Wonderful Ways to Use Lucerne Sour Cream, From Appetizers to Desserts / Recipes from the Test Kitchen of the American Dairy Association</dc:title>
+        <dc:creator opf:file-as="American Dairy Association" opf:role="aut">American Dairy Association</dc:creator>
+        <dc:creator opf:file-as="American Dairy Association" opf:role="aut">Lucerne Foods</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63670</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Cookbooks</dc:subject>
+        <dc:subject>Cooking (Dairy products)</dc:subject>
+        <dc:subject>Cooking (Sour cream and milk)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Dairy Association&quot;: &quot;&quot;, &quot;Lucerne Foods&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:30:08.221993+00:00"/>
+        <meta name="calibre:title_sort" content="50 Wonderful Ways to Use Lucerne Sour Cream, From Appetizers to Desserts / Recipes from the Test Kitchen of the American Dairy Association"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

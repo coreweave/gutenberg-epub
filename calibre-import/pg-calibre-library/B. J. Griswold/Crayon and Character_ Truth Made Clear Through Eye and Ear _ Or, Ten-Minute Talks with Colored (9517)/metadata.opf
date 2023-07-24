@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ff82836-222b-49d1-bff8-4064cacce1f9</dc:identifier>
+        <dc:title>Crayon and Character: Truth Made Clear Through Eye and Ear / Or, Ten-Minute Talks with Colored Chalks</dc:title>
+        <dc:creator opf:file-as="Griswold, B. J. (Bert Joseph)" opf:role="aut">B. J. Griswold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16305</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religious education</dc:subject>
+        <dc:subject>Moral education</dc:subject>
+        <dc:subject>Chalk-talks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. J. Griswold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:35:40.362671+00:00"/>
+        <meta name="calibre:title_sort" content="Crayon and Character: Truth Made Clear Through Eye and Ear / Or, Ten-Minute Talks with Colored Chalks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

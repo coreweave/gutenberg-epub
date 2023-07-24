@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a2d9775-0e91-468b-84dc-1d7992f127bc</dc:identifier>
+        <dc:title>A Voyage Round the World, from 1806 to 1812 / In Which Japan, Kamschatka, the Aleutian islands, and the Sandwich Islands were Visited; Including a Narrative of the Author's Shipwreck on the Island of Sannack, and His Subsequent Wreck in the Ship's Long-Boat; with an Account of the Present State of the Sandwich Islands, and a Vocabulary of Their Language.</dc:title>
+        <dc:creator opf:file-as="Campbell, Archibald" opf:role="aut">Archibald Campbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hawaii -- Description and travel</dc:subject>
+        <dc:subject>Voyages around the world -- History -- 19th century</dc:subject>
+        <dc:subject>Campbell</dc:subject>
+        <dc:subject>Archibald</dc:subject>
+        <dc:subject>1787- -- Travel</dc:subject>
+        <dc:subject>Hawaiian language</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Archibald Campbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:14:14.190138+00:00"/>
+        <meta name="calibre:title_sort" content="Voyage Round the World, from 1806 to 1812 / In Which Japan, Kamschatka, the Aleutian islands, and the Sandwich Islands were Visited; Including a Narrative of the Author's Shipwreck on the Island of Sannack, and His Subsequent Wreck in the Ship's Long-Boat; with an Account of the Present State of the Sandwich Islands, and a Vocabulary of Their Language., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

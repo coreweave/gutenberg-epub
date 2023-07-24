@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f43cdff-335b-4c38-ad96-01005cb4afa8</dc:identifier>
+        <dc:title>American Red Cross Text-Book on Home Hygiene and Care of the Sick</dc:title>
+        <dc:creator opf:file-as="American National Red Cross" opf:role="aut">American National Red Cross</dc:creator>
+        <dc:creator opf:file-as="American National Red Cross" opf:role="aut">Jane A. Delano</dc:creator>
+        <dc:creator opf:file-as="American National Red Cross" opf:role="aut">Isabel McIsaac</dc:creator>
+        <dc:creator opf:file-as="American National Red Cross" opf:role="aut">Anne Hervey Strong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32250</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hygiene</dc:subject>
+        <dc:subject>Nursing</dc:subject>
+        <dc:subject>Nurses</dc:subject>
+        <dc:subject>Home nursing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American National Red Cross&quot;: &quot;&quot;, &quot;Jane A. Delano&quot;: &quot;&quot;, &quot;Isabel McIsaac&quot;: &quot;&quot;, &quot;Anne Hervey Strong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:11.819521+00:00"/>
+        <meta name="calibre:title_sort" content="American Red Cross Text-Book on Home Hygiene and Care of the Sick"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

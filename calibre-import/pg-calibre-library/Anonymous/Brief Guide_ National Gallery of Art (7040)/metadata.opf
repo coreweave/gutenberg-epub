@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a1d31d0-ef5e-41e8-9c80-1b89bc7a5747</dc:identifier>
+        <dc:title>Brief Guide: National Gallery of Art</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66746</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>National Gallery of Art (U.S.)</dc:subject>
+        <dc:subject>Art museums -- Washington (D.C.) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:35:55.178257+00:00"/>
+        <meta name="calibre:title_sort" content="Brief Guide: National Gallery of Art"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

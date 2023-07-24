@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff48d964-6bdf-4128-b802-3e6390fbf98d</dc:identifier>
+        <dc:title>Shakespeare at the Globe, 1599-1609</dc:title>
+        <dc:creator opf:file-as="Beckerman, Bernard" opf:role="aut">Bernard Beckerman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66536</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Stage history -- To 1625</dc:subject>
+        <dc:subject>1564-1616 -- Stage history -- England -- London</dc:subject>
+        <dc:subject>1564-1616 -- Dramatic production</dc:subject>
+        <dc:subject>Globe Theatre (London</dc:subject>
+        <dc:subject>England : 1599-1644)</dc:subject>
+        <dc:subject>Theaters -- England -- London -- History -- 17th century</dc:subject>
+        <dc:subject>Theater -- England -- London -- History -- 17th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernard Beckerman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:30:32.780810+00:00"/>
+        <meta name="calibre:title_sort" content="Shakespeare at the Globe, 1599-1609"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

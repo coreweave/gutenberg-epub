@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2242999-d57d-418f-95ad-5b1c66bf8e7d</dc:identifier>
+        <dc:title>The True History of the State Prisoner, commonly called the Iron Mask / Extracted from Documents in the French Archives</dc:title>
+        <dc:creator opf:file-as="Dover, George Agar Ellis, Baron" opf:role="aut">Baron George Agar Ellis Dover</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42419</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mattioli</dc:subject>
+        <dc:subject>Ercole Antonio</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>1640-1703</dc:subject>
+        <dc:subject>Prisoners -- France -- 17th century</dc:subject>
+        <dc:subject>Man in the Iron Mask</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron George Agar Ellis Dover&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:32:06.794615+00:00"/>
+        <meta name="calibre:title_sort" content="True History of the State Prisoner, commonly called the Iron Mask / Extracted from Documents in the French Archives, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

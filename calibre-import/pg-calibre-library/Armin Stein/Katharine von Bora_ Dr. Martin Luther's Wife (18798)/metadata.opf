@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18798</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e33a1e9-10a7-4677-8a7a-a054a68485bf</dc:identifier>
+        <dc:title>Katharine von Bora: Dr. Martin Luther's Wife</dc:title>
+        <dc:creator opf:file-as="Stein, Armin" opf:role="aut">Armin Stein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63985</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Luther</dc:subject>
+        <dc:subject>Katharina von Bora</dc:subject>
+        <dc:subject>1499-1552</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Armin Stein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:20:49.737440+00:00"/>
+        <meta name="calibre:title_sort" content="Katharine von Bora: Dr. Martin Luther's Wife"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

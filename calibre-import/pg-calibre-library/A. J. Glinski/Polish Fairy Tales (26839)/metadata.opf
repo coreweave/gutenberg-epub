@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66debbfc-fe8c-447a-ab9f-bd060598f638</dc:identifier>
+        <dc:title>Polish Fairy Tales</dc:title>
+        <dc:creator opf:file-as="Gliński, A. J. (Antoni Józef)" opf:role="aut">A. J. Gliński</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36668</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales -- Poland</dc:subject>
+        <dc:subject>Polish people -- Belarus -- Folklore</dc:subject>
+        <dc:subject>Fairy tales -- Belarus</dc:subject>
+        <dc:subject>Folklore -- Poland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. J. Gliński&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:47:49.572528+00:00"/>
+        <meta name="calibre:title_sort" content="Polish Fairy Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

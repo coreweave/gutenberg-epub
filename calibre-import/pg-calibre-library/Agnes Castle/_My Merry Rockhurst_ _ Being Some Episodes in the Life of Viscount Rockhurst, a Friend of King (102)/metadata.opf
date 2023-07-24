@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26affc3c-65fc-4e62-9586-ed9f97e0c3ed</dc:identifier>
+        <dc:title>"My Merry Rockhurst" / Being Some Episodes in the Life of Viscount Rockhurst, a Friend of King Charles the Second, and at One Time Constable of His Majesty's Tower of London</dc:title>
+        <dc:creator opf:file-as="Castle, Agnes" opf:role="aut">Agnes Castle</dc:creator>
+        <dc:creator opf:file-as="Castle, Agnes" opf:role="aut">Egerton Castle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57407</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Charles II</dc:subject>
+        <dc:subject>1660-1685 -- Fiction</dc:subject>
+        <dc:subject>Tower of London (London</dc:subject>
+        <dc:subject>England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Agnes Castle&quot;: &quot;&quot;, &quot;Egerton Castle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:27:38.286369+00:00"/>
+        <meta name="calibre:title_sort" content="My Merry Rockhurst&quot; / Being Some Episodes in the Life of Viscount Rockhurst, a Friend of King Charles the Second, and at One Time Constable of His Majesty's Tower of London"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40380cf2-523a-4348-a342-7f952ffe45fb</dc:identifier>
+        <dc:title>The Fables of Aesop / Selected, Told Anew, and Their History Traced</dc:title>
+        <dc:creator opf:file-as="Aesop" opf:role="aut">Aesop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aesop's fables -- Adaptations</dc:subject>
+        <dc:subject>Fables</dc:subject>
+        <dc:subject>Greek -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aesop&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:01:55.343873+00:00"/>
+        <meta name="calibre:title_sort" content="Fables of Aesop / Selected, Told Anew, and Their History Traced, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

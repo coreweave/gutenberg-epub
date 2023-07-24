@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55601</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c02be04-d376-4eb4-bdd9-f47990e79320</dc:identifier>
+        <dc:title>Young Jack Harkaway Fighting the Pirates of the Red Sea</dc:title>
+        <dc:creator opf:file-as="Hemyng, Bracebridge" opf:role="aut">Bracebridge Hemyng</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59012</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Pirates -- Juvenile fiction</dc:subject>
+        <dc:subject>Sea monsters -- Juvenile fiction</dc:subject>
+        <dc:subject>Arabs -- Juvenile fiction</dc:subject>
+        <dc:subject>Red Sea -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bracebridge Hemyng&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:08:57.263794+00:00"/>
+        <meta name="calibre:title_sort" content="Young Jack Harkaway Fighting the Pirates of the Red Sea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

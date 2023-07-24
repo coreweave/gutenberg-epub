@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">881f9d18-b7c3-41be-bfdd-395e279c6612</dc:identifier>
+        <dc:title>Valladolid, Oviedo, Segovia, Zamora, Avila &amp; Zaragoza / An Historical &amp; Descriptive Account</dc:title>
+        <dc:creator opf:file-as="Calvert, Albert Frederick" opf:role="aut">Albert Frederick Calvert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64970</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture -- Spain</dc:subject>
+        <dc:subject>Art -- Spain</dc:subject>
+        <dc:subject>Valladolid (Spain) -- Description and travel</dc:subject>
+        <dc:subject>Oviedo (Spain) -- Description and travel</dc:subject>
+        <dc:subject>Segovia (Spain) -- Description and travel</dc:subject>
+        <dc:subject>Zamora (Spain) -- Description and travel</dc:subject>
+        <dc:subject>Avila (Spain) -- Description and travel</dc:subject>
+        <dc:subject>Zaragoza (Spain) -- Description and travel</dc:subject>
+        <dc:subject>Spain -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Frederick Calvert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:01:06.342799+00:00"/>
+        <meta name="calibre:title_sort" content="Valladolid, Oviedo, Segovia, Zamora, Avila &amp; Zaragoza / An Historical &amp; Descriptive Account"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

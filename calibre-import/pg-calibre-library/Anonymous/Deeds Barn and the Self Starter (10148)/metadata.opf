@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05b15984-0383-4807-92f2-dd976b8b28df</dc:identifier>
+        <dc:title>Deeds Barn and the Self Starter</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64831</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Carillon Historical Park (Dayton</dc:subject>
+        <dc:subject>Ohio)</dc:subject>
+        <dc:subject>Automobiles -- Starting devices</dc:subject>
+        <dc:subject>Deeds</dc:subject>
+        <dc:subject>E. A. (Edward Andrew)</dc:subject>
+        <dc:subject>1874-1960</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:51:58.794561+00:00"/>
+        <meta name="calibre:title_sort" content="Deeds Barn and the Self Starter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

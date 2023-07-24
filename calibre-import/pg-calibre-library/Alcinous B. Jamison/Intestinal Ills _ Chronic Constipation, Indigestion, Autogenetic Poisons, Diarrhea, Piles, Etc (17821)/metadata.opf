@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4c101e5-0e6e-409d-8fe3-2a60d97e2277</dc:identifier>
+        <dc:title>Intestinal Ills / Chronic Constipation, Indigestion, Autogenetic Poisons, Diarrhea, Piles, Etc. Also Auto-Infection, Auto-Intoxication, Anemia, Emaciation, Etc. Due to Proctitis and Colitis</dc:title>
+        <dc:creator opf:file-as="Jamison, Alcinous B. (Alcinous Burton)" opf:role="aut">Alcinous B. Jamison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26365</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Intestines -- Diseases</dc:subject>
+        <dc:subject>Rectum -- Diseases</dc:subject>
+        <dc:subject>Constipation</dc:subject>
+        <dc:subject>Gastroenterology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alcinous B. Jamison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:46:38.709453+00:00"/>
+        <meta name="calibre:title_sort" content="Intestinal Ills / Chronic Constipation, Indigestion, Autogenetic Poisons, Diarrhea, Piles, Etc. Also Auto-Infection, Auto-Intoxication, Anemia, Emaciation, Etc. Due to Proctitis and Colitis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

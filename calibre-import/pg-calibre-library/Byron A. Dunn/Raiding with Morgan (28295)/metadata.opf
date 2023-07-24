@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ede4096-8c14-4a10-9e40-3c75f3096ee5</dc:identifier>
+        <dc:title>Raiding with Morgan</dc:title>
+        <dc:creator opf:file-as="Dunn, Byron A. (Byron Archibald)" opf:role="aut">Byron A. Dunn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29786</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <dc:subject>Morgan</dc:subject>
+        <dc:subject>John Hunt</dc:subject>
+        <dc:subject>1825-1864 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Byron A. Dunn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:51:56.935060+00:00"/>
+        <meta name="calibre:title_sort" content="Raiding with Morgan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a19f6cc-2c64-40c4-a999-6d9aa249f7f6</dc:identifier>
+        <dc:title>The New England Cook Book, or Young Housekeeper's Guide / Being a Collection of the Most Valuable Receipts; Embracing all the Various Branches of Cookery, and Written in a Minute and Methodical Manner</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36689</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home economics</dc:subject>
+        <dc:subject>Formulas</dc:subject>
+        <dc:subject>recipes</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American -- New England style</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:31:34.084715+00:00"/>
+        <meta name="calibre:title_sort" content="New England Cook Book, or Young Housekeeper's Guide / Being a Collection of the Most Valuable Receipts; Embracing all the Various Branches of Cookery, and Written in a Minute and Methodical Manner, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

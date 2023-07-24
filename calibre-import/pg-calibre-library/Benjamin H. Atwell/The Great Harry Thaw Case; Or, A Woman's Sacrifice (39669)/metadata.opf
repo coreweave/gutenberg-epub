@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e28a6b66-b9eb-4119-92eb-41a9a38c981c</dc:identifier>
+        <dc:title>The Great Harry Thaw Case; Or, A Woman's Sacrifice</dc:title>
+        <dc:creator opf:file-as="Atwell, Benjamin H." opf:role="aut">Benjamin H. Atwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66056</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thaw</dc:subject>
+        <dc:subject>Harry Kendall</dc:subject>
+        <dc:subject>1871-1947 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Nesbit</dc:subject>
+        <dc:subject>Evelyn</dc:subject>
+        <dc:subject>1884-1967</dc:subject>
+        <dc:subject>White</dc:subject>
+        <dc:subject>Stanford</dc:subject>
+        <dc:subject>1853-1906</dc:subject>
+        <dc:subject>Trials (Murder) -- New York (State) -- New York</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin H. Atwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:13:15.810973+00:00"/>
+        <meta name="calibre:title_sort" content="Great Harry Thaw Case; Or, A Woman's Sacrifice, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

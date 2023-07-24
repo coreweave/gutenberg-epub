@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58af18b7-6dc2-4427-84ef-df4c896802e6</dc:identifier>
+        <dc:title>Colin Campbell, Lord Clyde</dc:title>
+        <dc:creator opf:file-as="Forbes, Archibald" opf:role="aut">Archibald Forbes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48577</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clyde</dc:subject>
+        <dc:subject>Colin Campbell</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1792-1863</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Archibald Forbes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:21:12.626332+00:00"/>
+        <meta name="calibre:title_sort" content="Colin Campbell, Lord Clyde"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8031ba33-ef52-48d2-b19a-c333bda602a0</dc:identifier>
+        <dc:title>A Yankee Girl at Antietam</dc:title>
+        <dc:creator opf:file-as="Curtis, Alice Turner" opf:role="aut">Alice Turner Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62026</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Juvenile fiction</dc:subject>
+        <dc:subject>African Americans -- History -- To 1863 -- Juvenile fiction</dc:subject>
+        <dc:subject>Antietam</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Md.</dc:subject>
+        <dc:subject>1862 -- Juvenile fiction</dc:subject>
+        <dc:subject>Maryland -- History -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alice Turner Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:16:40.416093+00:00"/>
+        <meta name="calibre:title_sort" content="Yankee Girl at Antietam, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

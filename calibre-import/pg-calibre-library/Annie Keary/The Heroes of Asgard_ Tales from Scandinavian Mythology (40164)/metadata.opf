@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84b19c8d-67ff-4e11-ba58-612f2344f416</dc:identifier>
+        <dc:title>The Heroes of Asgard: Tales from Scandinavian Mythology</dc:title>
+        <dc:creator opf:file-as="Keary, Annie" opf:role="aut">Annie Keary</dc:creator>
+        <dc:creator opf:file-as="Keary, Annie" opf:role="aut">Eliza Keary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41283</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Norse -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie Keary&quot;: &quot;&quot;, &quot;Eliza Keary&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:39:23.901376+00:00"/>
+        <meta name="calibre:title_sort" content="Heroes of Asgard: Tales from Scandinavian Mythology, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

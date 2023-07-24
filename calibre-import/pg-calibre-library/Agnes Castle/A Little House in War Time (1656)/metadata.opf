@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91ebc8ca-a1e7-478d-b617-75681dcc6a47</dc:identifier>
+        <dc:title>A Little House in War Time</dc:title>
+        <dc:creator opf:file-as="Castle, Agnes" opf:role="aut">Agnes Castle</dc:creator>
+        <dc:creator opf:file-as="Castle, Agnes" opf:role="aut">Egerton Castle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63618</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Agnes Castle&quot;: &quot;&quot;, &quot;Egerton Castle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:51:30.729132+00:00"/>
+        <meta name="calibre:title_sort" content="Little House in War Time, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

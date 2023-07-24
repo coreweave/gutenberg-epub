@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fdc5c97-f220-4f39-9294-6331521f7a40</dc:identifier>
+        <dc:title>Inaugural Presidential Address, Official Transcript</dc:title>
+        <dc:creator opf:file-as="Obama, Barack" opf:role="aut">Barack Obama</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Inaugural addresses</dc:subject>
+        <dc:subject>Obama</dc:subject>
+        <dc:subject>Barack</dc:subject>
+        <dc:subject>1961- -- Inauguration</dc:subject>
+        <dc:subject>2009</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Barack Obama&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:33:06.427274+00:00"/>
+        <meta name="calibre:title_sort" content="Inaugural Presidential Address, Official Transcript"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

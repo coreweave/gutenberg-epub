@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa0a694f-24ff-44f6-9db7-15e3387c4558</dc:identifier>
+        <dc:title>The attaché at Peking</dc:title>
+        <dc:creator opf:file-as="Redesdale, Algernon Bertram Freeman-Mitford, Baron" opf:role="aut">Baron Algernon Bertram Freeman-Mitford Redesdale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70467</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>China -- Description and travel</dc:subject>
+        <dc:subject>Redesdale</dc:subject>
+        <dc:subject>Algernon Bertram Freeman-Mitford</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1837-1916 -- Travel -- China</dc:subject>
+        <dc:subject>China -- Politics and government -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron Algernon Bertram Freeman-Mitford Redesdale&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:20:11.447624+00:00"/>
+        <meta name="calibre:title_sort" content="attaché at Peking, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

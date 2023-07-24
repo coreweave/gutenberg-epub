@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cc5993e-af10-4a32-b708-a2a604be704d</dc:identifier>
+        <dc:title>Asa Holmes; or, At the Cross-Roads</dc:title>
+        <dc:creator opf:file-as="Johnston, Annie F. (Annie Fellows)" opf:role="aut">Annie F. Johnston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39598</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Conduct of life -- Fiction</dc:subject>
+        <dc:subject>Villages -- Fiction</dc:subject>
+        <dc:subject>Conversation -- Fiction</dc:subject>
+        <dc:subject>Older men -- Fiction</dc:subject>
+        <dc:subject>General stores -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie F. Johnston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:56:25.089966+00:00"/>
+        <meta name="calibre:title_sort" content="Asa Holmes; or, At the Cross-Roads"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

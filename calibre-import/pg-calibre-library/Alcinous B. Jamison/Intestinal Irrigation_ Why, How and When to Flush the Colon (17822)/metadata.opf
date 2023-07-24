@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17822</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b2a56d4-f170-45c6-9ccb-5e27f9e94599</dc:identifier>
+        <dc:title>Intestinal Irrigation: Why, How and When to Flush the Colon</dc:title>
+        <dc:creator opf:file-as="Jamison, Alcinous B. (Alcinous Burton)" opf:role="aut">Alcinous B. Jamison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53836</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Enema</dc:subject>
+        <dc:subject>Intestines -- Diseases</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alcinous B. Jamison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:46:40.875890+00:00"/>
+        <meta name="calibre:title_sort" content="Intestinal Irrigation: Why, How and When to Flush the Colon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

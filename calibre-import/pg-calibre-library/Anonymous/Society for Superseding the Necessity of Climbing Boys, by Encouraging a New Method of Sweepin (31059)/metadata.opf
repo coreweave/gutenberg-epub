@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">923a0848-9e9a-4d0f-a295-6355f2b8bd0c</dc:identifier>
+        <dc:title>Society for Superseding the Necessity of Climbing Boys, by Encouraging a New Method of Sweeping Chimneys: Twenty-First Report, May 1, 1837</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67132</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Child labor -- Great Britain</dc:subject>
+        <dc:subject>Chimney sweeps -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:02:02.015567+00:00"/>
+        <meta name="calibre:title_sort" content="Society for Superseding the Necessity of Climbing Boys, by Encouraging a New Method of Sweeping Chimneys: Twenty-First Report, May 1, 1837"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

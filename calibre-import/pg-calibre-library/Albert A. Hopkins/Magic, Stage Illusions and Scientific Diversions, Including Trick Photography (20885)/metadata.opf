@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cad6312a-1ae0-411f-ab3e-381c1d546d2a</dc:identifier>
+        <dc:title>Magic, Stage Illusions and Scientific Diversions, Including Trick Photography</dc:title>
+        <dc:creator opf:file-as="Hopkins, Albert A. (Albert Allis)" opf:role="aut">Albert A. Hopkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45235</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Magic tricks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert A. Hopkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:37:54.410619+00:00"/>
+        <meta name="calibre:title_sort" content="Magic, Stage Illusions and Scientific Diversions, Including Trick Photography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

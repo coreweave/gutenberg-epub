@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be73594e-057f-4d26-a72b-7936ea754b0b</dc:identifier>
+        <dc:title>Explorations in Australia / 1.-Explorations in search of Dr. Leichardt and party. 2.-From Perth to Adelaide, around the great Australian bight. 3.-From Champion Bay, across the desert to the telegraph and to Adelaide. With an appendix on the condition of Western Australia.</dc:title>
+        <dc:creator opf:file-as="Forrest, John Forrest, Baron" opf:role="aut">Baron John Forrest Forrest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9958</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Description and travel</dc:subject>
+        <dc:subject>Australia -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron John Forrest Forrest&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:48:24.429518+00:00"/>
+        <meta name="calibre:title_sort" content="Explorations in Australia / 1.-Explorations in search of Dr. Leichardt and party. 2.-From Perth to Adelaide, around the great Australian bight. 3.-From Champion Bay, across the desert to the telegraph and to Adelaide. With an appendix on the condition of Western Australia."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

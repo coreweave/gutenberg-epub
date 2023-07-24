@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d9cd274-f681-4159-9cd5-3250b42c90e7</dc:identifier>
+        <dc:title>Christianity and Greek Philosophy / or, the relation between spontaneous and reflective thought in Greece and the positive teaching of Christ and His Apostles</dc:title>
+        <dc:creator opf:file-as="Cocker, B. F. (Benjamin Franklin)" opf:role="aut">B. F. Cocker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27571</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christianity</dc:subject>
+        <dc:subject>Church history -- Primitive and early church</dc:subject>
+        <dc:subject>ca. 30-600</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. F. Cocker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:12:01.490287+00:00"/>
+        <meta name="calibre:title_sort" content="Christianity and Greek Philosophy / or, the relation between spontaneous and reflective thought in Greece and the positive teaching of Christ and His Apostles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

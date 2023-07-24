@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcfff013-3191-4ac3-be77-93d0fd74241a</dc:identifier>
+        <dc:title>The After-glow of a Great Reign / Four Addresses Delivered in St. Paul's Cathedral</dc:title>
+        <dc:creator opf:file-as="Winnington Ingram, Arthur F. (Arthur Foley)" opf:role="aut">Arthur F. Winnington Ingram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20430</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Victoria</dc:subject>
+        <dc:subject>Queen of Great Britain</dc:subject>
+        <dc:subject>1819-1901</dc:subject>
+        <dc:subject>Church of England -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur F. Winnington Ingram&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:47:18.008272+00:00"/>
+        <meta name="calibre:title_sort" content="After-glow of a Great Reign / Four Addresses Delivered in St. Paul's Cathedral, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

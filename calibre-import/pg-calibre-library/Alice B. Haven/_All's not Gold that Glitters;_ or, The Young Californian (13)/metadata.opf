@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9ae057c-dcb6-4c2e-9bdc-62b89e239b71</dc:identifier>
+        <dc:title>"All's not Gold that Glitters;" or, The Young Californian</dc:title>
+        <dc:creator opf:file-as="Haven, Alice B. (Alice Bradley)" opf:role="aut">Alice B. Haven</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>California -- Gold discoveries -- Juvenile fiction</dc:subject>
+        <dc:subject>Fathers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Mothers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Families -- Juvenile fiction</dc:subject>
+        <dc:subject>San Francisco (Calif.) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alice B. Haven&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:21.228009+00:00"/>
+        <meta name="calibre:title_sort" content="All's not Gold that Glitters;&quot; or, The Young Californian"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

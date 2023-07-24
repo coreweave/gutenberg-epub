@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ddccef4-d2d9-45a3-b8a0-13d5dd092866</dc:identifier>
+        <dc:title>Fresh Light from the Ancient Monuments / A Sketch of the Most Striking Confirmations of the Bible, From Recent Discoveries in Egypt, Palestine, Assyria, Babylonia, Asia Minor</dc:title>
+        <dc:creator opf:file-as="Sayce, A. H. (Archibald Henry)" opf:role="aut">A. H. Sayce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32883</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible -- Evidences</dc:subject>
+        <dc:subject>authority</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Bible -- Antiquities</dc:subject>
+        <dc:subject>Cuneiform inscriptions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. H. Sayce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:25:29.272367+00:00"/>
+        <meta name="calibre:title_sort" content="Fresh Light from the Ancient Monuments / A Sketch of the Most Striking Confirmations of the Bible, From Recent Discoveries in Egypt, Palestine, Assyria, Babylonia, Asia Minor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

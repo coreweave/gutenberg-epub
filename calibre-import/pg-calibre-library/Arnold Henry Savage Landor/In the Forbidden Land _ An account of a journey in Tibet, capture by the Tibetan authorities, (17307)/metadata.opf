@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5a5b2d8-c73c-4d61-b6a1-5a063eaf2043</dc:identifier>
+        <dc:title>In the Forbidden Land / An account of a journey in Tibet, capture by the Tibetan authorities, imprisonment, torture and ultimate release</dc:title>
+        <dc:creator opf:file-as="Landor, Arnold Henry Savage" opf:role="aut">Arnold Henry Savage Landor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22210</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tibet Autonomous Region (China) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arnold Henry Savage Landor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:29:04.970357+00:00"/>
+        <meta name="calibre:title_sort" content="In the Forbidden Land / An account of a journey in Tibet, capture by the Tibetan authorities, imprisonment, torture and ultimate release"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

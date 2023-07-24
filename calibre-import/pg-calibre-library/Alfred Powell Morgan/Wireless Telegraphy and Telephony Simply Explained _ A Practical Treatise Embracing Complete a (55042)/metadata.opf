@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55042</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49dbc3ea-fe63-46c4-bae6-3eb3eea983fb</dc:identifier>
+        <dc:title>Wireless Telegraphy and Telephony Simply Explained / A Practical Treatise Embracing Complete and Detailed Explanations of the Theory and Practice of Modern Radio Apparatus and Its Present Day Applications, Together With a Chapter on the Possibilities of Its Future Development</dc:title>
+        <dc:creator opf:file-as="Morgan, Alfred Powell" opf:role="aut">Alfred Powell Morgan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66702</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Radio</dc:subject>
+        <dc:subject>Telegraph</dc:subject>
+        <dc:subject>Wireless</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Powell Morgan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:31:14.173046+00:00"/>
+        <meta name="calibre:title_sort" content="Wireless Telegraphy and Telephony Simply Explained / A Practical Treatise Embracing Complete and Detailed Explanations of the Theory and Practice of Modern Radio Apparatus and Its Present Day Applications, Together With a Chapter on the Possibilities of Its Future Development"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

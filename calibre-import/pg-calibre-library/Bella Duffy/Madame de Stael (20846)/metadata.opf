@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c33f9cb-c3ae-4bc5-80f9-bf60ea522e78</dc:identifier>
+        <dc:title>Madame de Staël</dc:title>
+        <dc:creator opf:file-as="Duffy, Bella" opf:role="aut">Bella Duffy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Staël</dc:subject>
+        <dc:subject>Madame de (Anne-Louise-Germaine)</dc:subject>
+        <dc:subject>1766-1817</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bella Duffy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:36:22.262202+00:00"/>
+        <meta name="calibre:title_sort" content="Madame de Staël"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

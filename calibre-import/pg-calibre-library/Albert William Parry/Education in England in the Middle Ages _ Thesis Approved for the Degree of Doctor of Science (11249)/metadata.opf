@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed2f67f9-8706-4e06-8c9d-c039a3d9d072</dc:identifier>
+        <dc:title>Education in England in the Middle Ages / Thesis Approved for the Degree of Doctor of Science in the University of London</dc:title>
+        <dc:creator opf:file-as="Parry, Albert William" opf:role="aut">Albert William Parry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36553</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>Education -- England -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert William Parry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:21:30.024880+00:00"/>
+        <meta name="calibre:title_sort" content="Education in England in the Middle Ages / Thesis Approved for the Degree of Doctor of Science in the University of London"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

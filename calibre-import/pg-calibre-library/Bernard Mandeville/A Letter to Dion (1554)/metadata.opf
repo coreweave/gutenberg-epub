@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cd2b7d5-e736-447b-ab29-c3f5e4dc403a</dc:identifier>
+        <dc:title>A Letter to Dion</dc:title>
+        <dc:creator opf:file-as="Mandeville, Bernard" opf:role="aut">Bernard Mandeville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29478</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Berkeley</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1685-1753. Alciphron</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernard Mandeville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:53.616162+00:00"/>
+        <meta name="calibre:title_sort" content="Letter to Dion, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

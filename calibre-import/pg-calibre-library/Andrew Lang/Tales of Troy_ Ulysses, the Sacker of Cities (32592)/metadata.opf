@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32592</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eee1803c-2ca0-494c-9ea3-b7a2d7de1d91</dc:identifier>
+        <dc:title>Tales of Troy: Ulysses, the Sacker of Cities</dc:title>
+        <dc:creator opf:file-as="Lang, Andrew" opf:role="aut">Andrew Lang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1973</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Greek -- Juvenile literature</dc:subject>
+        <dc:subject>Trojan War -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew Lang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:16:34.156034+00:00"/>
+        <meta name="calibre:title_sort" content="Tales of Troy: Ulysses, the Sacker of Cities"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a8044b6-5537-473a-a7ed-711469e8bce5</dc:identifier>
+        <dc:title>The Voyage of Governor Phillip to Botany Bay / With an Account of the Establishment of the Colonies of Port Jackson and Norfolk Island (1789)</dc:title>
+        <dc:creator opf:file-as="Phillip, Arthur" opf:role="aut">Arthur Phillip</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New South Wales -- Discovery and exploration</dc:subject>
+        <dc:subject>Natural history -- Australia -- New South Wales</dc:subject>
+        <dc:subject>Norfolk Island</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Phillip&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:01:51.989171+00:00"/>
+        <meta name="calibre:title_sort" content="Voyage of Governor Phillip to Botany Bay / With an Account of the Establishment of the Colonies of Port Jackson and Norfolk Island (1789), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

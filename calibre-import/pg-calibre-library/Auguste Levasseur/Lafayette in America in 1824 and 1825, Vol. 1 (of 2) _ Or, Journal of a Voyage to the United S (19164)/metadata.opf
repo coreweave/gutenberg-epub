@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bbb0a564-6122-4701-ba3e-73cf1db0e929</dc:identifier>
+        <dc:title>Lafayette in America in 1824 and 1825, Vol. 1 (of 2) / Or, Journal of a Voyage to the United States</dc:title>
+        <dc:creator opf:file-as="Levasseur, Auguste" opf:role="aut">Auguste Levasseur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61518</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 19th century</dc:subject>
+        <dc:subject>United States -- Relations -- France</dc:subject>
+        <dc:subject>France -- Relations -- United States</dc:subject>
+        <dc:subject>Lafayette</dc:subject>
+        <dc:subject>Marie Joseph Paul Yves Roch Gilbert Du Motier</dc:subject>
+        <dc:subject>marquis de</dc:subject>
+        <dc:subject>1757-1834 -- Travel -- United States</dc:subject>
+        <dc:subject>1757-1834 -- Friends and associates</dc:subject>
+        <dc:subject>Levasseur</dc:subject>
+        <dc:subject>Auguste</dc:subject>
+        <dc:subject>1795-1878 -- Diaries</dc:subject>
+        <dc:subject>1795-1878 -- Travel -- United States</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Anniversaries</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Auguste Levasseur&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:33:52.765166+00:00"/>
+        <meta name="calibre:title_sort" content="Lafayette in America in 1824 and 1825, Vol. 1 (of 2) / Or, Journal of a Voyage to the United States"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

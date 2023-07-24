@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19768</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62740994-def4-46c7-910f-a586f7ed4a54</dc:identifier>
+        <dc:title>Life and Confession of Ann Walters, the Female Murderess!! / Also the Execution of Enos G. Dudley, at Haverhill, N. H., May 23, 1849. To Which Is Added the Confession of Mary Runkle, Who Was Executed for Murder.</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Walters</dc:subject>
+        <dc:subject>Ann Smith</dc:subject>
+        <dc:subject>1812-1844</dc:subject>
+        <dc:subject>Dudley</dc:subject>
+        <dc:subject>Enos G.</dc:subject>
+        <dc:subject>-1849</dc:subject>
+        <dc:subject>Runkle</dc:subject>
+        <dc:subject>Mary</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:55:43.828151+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Confession of Ann Walters, the Female Murderess!! / Also the Execution of Enos G. Dudley, at Haverhill, N. H., May 23, 1849. To Which Is Added the Confession of Mary Runkle, Who Was Executed for Murder."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

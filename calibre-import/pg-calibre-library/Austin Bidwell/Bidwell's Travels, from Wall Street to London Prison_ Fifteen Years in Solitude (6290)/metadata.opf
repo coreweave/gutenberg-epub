@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f8b2c84-bfd2-4a8d-b875-45e50d08ac8b</dc:identifier>
+        <dc:title>Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude</dc:title>
+        <dc:creator opf:file-as="Bidwell, Austin" opf:role="aut">Austin Bidwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24739</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Criminals -- Biography</dc:subject>
+        <dc:subject>Bidwell</dc:subject>
+        <dc:subject>Austin</dc:subject>
+        <dc:subject>Bank fraud -- England</dc:subject>
+        <dc:subject>Bank of England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Austin Bidwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:19:07.809330+00:00"/>
+        <meta name="calibre:title_sort" content="Bidwell's Travels, from Wall Street to London Prison: Fifteen Years in Solitude"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81cec57f-335c-4589-abb9-721b79f19bce</dc:identifier>
+        <dc:title>The Door of Heaven: A Manual for Holy Communion</dc:title>
+        <dc:creator opf:file-as="Burgett, Arthur Edward" opf:role="aut">Arthur Edward Burgett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33290</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anglican Communion -- Prayers and devotions</dc:subject>
+        <dc:subject>Anglican Communion -- Liturgy</dc:subject>
+        <dc:subject>Eucharistic prayers -- Anglican Communion</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Edward Burgett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:26:41.498364+00:00"/>
+        <meta name="calibre:title_sort" content="Door of Heaven: A Manual for Holy Communion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

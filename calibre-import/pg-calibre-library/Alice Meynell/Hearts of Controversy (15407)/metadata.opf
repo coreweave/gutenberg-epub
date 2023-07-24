@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7fc6695-ff3e-4abd-993f-b2a0c696d866</dc:identifier>
+        <dc:title>Hearts of Controversy</dc:title>
+        <dc:creator opf:file-as="Meynell, Alice" opf:role="aut">Alice Meynell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1243</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dickens</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1812-1870</dc:subject>
+        <dc:subject>English literature -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Tennyson</dc:subject>
+        <dc:subject>Alfred Tennyson</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1809-1892</dc:subject>
+        <dc:subject>Swinburne</dc:subject>
+        <dc:subject>Algernon Charles</dc:subject>
+        <dc:subject>1837-1909</dc:subject>
+        <dc:subject>Brontë</dc:subject>
+        <dc:subject>Charlotte</dc:subject>
+        <dc:subject>1816-1855</dc:subject>
+        <dc:subject>Emily</dc:subject>
+        <dc:subject>1818-1848</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alice Meynell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:25:40.341028+00:00"/>
+        <meta name="calibre:title_sort" content="Hearts of Controversy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

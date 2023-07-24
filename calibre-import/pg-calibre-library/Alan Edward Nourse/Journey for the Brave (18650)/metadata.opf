@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9a4104e-b85c-4b30-8adf-b0d47c36d860</dc:identifier>
+        <dc:title>Journey for the Brave</dc:title>
+        <dc:creator opf:file-as="Nourse, Alan Edward" opf:role="aut">Alan Edward Nourse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66313</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Space flight to the moon -- Fiction</dc:subject>
+        <dc:subject>Cowardice -- Fiction</dc:subject>
+        <dc:subject>Courage -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan Edward Nourse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:15:35.675262+00:00"/>
+        <meta name="calibre:title_sort" content="Journey for the Brave"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

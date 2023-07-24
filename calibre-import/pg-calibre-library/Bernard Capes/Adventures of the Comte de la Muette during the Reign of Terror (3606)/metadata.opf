@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f52c3ed0-e36e-41fb-b6a3-5c00288748de</dc:identifier>
+        <dc:title>Adventures of the Comte de la Muette during the Reign of Terror</dc:title>
+        <dc:creator opf:file-as="Capes, Bernard" opf:role="aut">Bernard Capes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69579</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Revolution</dc:subject>
+        <dc:subject>1789-1799 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernard Capes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:25:32.248776+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of the Comte de la Muette during the Reign of Terror"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

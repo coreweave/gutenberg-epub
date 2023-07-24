@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c380e67d-05bb-4698-93c8-49199e307bd8</dc:identifier>
+        <dc:title>Sandburrs</dc:title>
+        <dc:creator opf:file-as="Lewis, Alfred Henry" opf:role="aut">Alfred Henry Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51981</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Cowboys -- Fiction</dc:subject>
+        <dc:subject>Ranch life -- Fiction</dc:subject>
+        <dc:subject>Arizona -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Henry Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:54:56.493780+00:00"/>
+        <meta name="calibre:title_sort" content="Sandburrs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

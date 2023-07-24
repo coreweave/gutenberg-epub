@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aae8732e-6a97-4d57-ad0c-2ecd1bf05c67</dc:identifier>
+        <dc:title>The Dragon's Secret</dc:title>
+        <dc:creator opf:file-as="Seaman, Augusta Huiell" opf:role="aut">Augusta Huiell Seaman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25770</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Augusta Huiell Seaman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:28:48.237364+00:00"/>
+        <meta name="calibre:title_sort" content="Dragon's Secret, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

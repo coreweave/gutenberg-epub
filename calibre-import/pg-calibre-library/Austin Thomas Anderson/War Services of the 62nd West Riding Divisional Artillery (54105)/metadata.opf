@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36b5d00f-e7b8-4b7c-81ef-cfb6f5747358</dc:identifier>
+        <dc:title>War Services of the 62nd West Riding Divisional Artillery</dc:title>
+        <dc:creator opf:file-as="Anderson, Austin Thomas" opf:role="aut">Austin Thomas Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50066</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Regimental histories -- Great Britain</dc:subject>
+        <dc:subject>Great Britain. Army. Division</dc:subject>
+        <dc:subject>62nd</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Austin Thomas Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:29:39.457348+00:00"/>
+        <meta name="calibre:title_sort" content="War Services of the 62nd West Riding Divisional Artillery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

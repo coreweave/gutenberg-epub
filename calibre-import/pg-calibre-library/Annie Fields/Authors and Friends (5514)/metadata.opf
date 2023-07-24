@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2646bc9-f201-4b6a-9ba2-b831955a7730</dc:identifier>
+        <dc:title>Authors and Friends</dc:title>
+        <dc:creator opf:file-as="Fields, Annie" opf:role="aut">Annie Fields</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8777</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tennyson</dc:subject>
+        <dc:subject>Alfred Tennyson</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1809-1892</dc:subject>
+        <dc:subject>Emerson</dc:subject>
+        <dc:subject>Ralph Waldo</dc:subject>
+        <dc:subject>1803-1882</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Stowe</dc:subject>
+        <dc:subject>Harriet Beecher</dc:subject>
+        <dc:subject>1811-1896</dc:subject>
+        <dc:subject>Longfellow</dc:subject>
+        <dc:subject>Henry Wadsworth</dc:subject>
+        <dc:subject>1807-1882</dc:subject>
+        <dc:subject>Holmes</dc:subject>
+        <dc:subject>Oliver Wendell</dc:subject>
+        <dc:subject>1809-1894</dc:subject>
+        <dc:subject>Thaxter</dc:subject>
+        <dc:subject>Celia</dc:subject>
+        <dc:subject>1835-1894</dc:subject>
+        <dc:subject>Whittier</dc:subject>
+        <dc:subject>John Greenleaf</dc:subject>
+        <dc:subject>1807-1892</dc:subject>
+        <dc:subject>Emily Sellwood Tennyson</dc:subject>
+        <dc:subject>Baroness</dc:subject>
+        <dc:subject>1813-1896</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annie Fields&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:02:40.615197+00:00"/>
+        <meta name="calibre:title_sort" content="Authors and Friends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

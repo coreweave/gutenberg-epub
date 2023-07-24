@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4730742-a832-4551-9763-d461211fc22e</dc:identifier>
+        <dc:title>Wyn's Camping Days; Or, The Outing of the Go-Ahead Club</dc:title>
+        <dc:creator opf:file-as="Marlowe, Amy Bell" opf:role="aut">Amy Bell Marlowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31419</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Camping -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Societies and clubs -- Juvenile fiction</dc:subject>
+        <dc:subject>Campers (Persons) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amy Bell Marlowe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:00:05.995707+00:00"/>
+        <meta name="calibre:title_sort" content="Wyn's Camping Days; Or, The Outing of the Go-Ahead Club"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

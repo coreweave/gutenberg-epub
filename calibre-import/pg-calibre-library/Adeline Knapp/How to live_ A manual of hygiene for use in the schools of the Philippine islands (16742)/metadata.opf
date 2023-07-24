@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5272932d-cda8-46b8-9fd6-0343f0136f31</dc:identifier>
+        <dc:title>How to live: A manual of hygiene for use in the schools of the Philippine islands</dc:title>
+        <dc:creator opf:file-as="Knapp, Adeline" opf:role="aut">Adeline Knapp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65192</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hygiene -- Popular works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adeline Knapp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:09:53.754592+00:00"/>
+        <meta name="calibre:title_sort" content="How to live: A manual of hygiene for use in the schools of the Philippine islands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

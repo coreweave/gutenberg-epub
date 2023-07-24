@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aba3695-dc81-4f2b-b569-5e4da264e9ce</dc:identifier>
+        <dc:title>Talks with Tolstoi</dc:title>
+        <dc:creator opf:file-as="Golʹdenveĭzer, Aleksandr Borisovich" opf:role="aut">Aleksandr Borisovich Golʹdenveĭzer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65159</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tolstoy</dc:subject>
+        <dc:subject>Leo</dc:subject>
+        <dc:subject>graf</dc:subject>
+        <dc:subject>1828-1910</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aleksandr Borisovich Golʹdenveĭzer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:19:31.335430+00:00"/>
+        <meta name="calibre:title_sort" content="Talks with Tolstoi"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

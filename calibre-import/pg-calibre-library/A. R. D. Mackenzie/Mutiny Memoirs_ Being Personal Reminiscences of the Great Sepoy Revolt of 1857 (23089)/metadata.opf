@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c4d721e-216a-4f98-a82d-1e5b5e181c50</dc:identifier>
+        <dc:title>Mutiny Memoirs: Being Personal Reminiscences of the Great Sepoy Revolt of 1857</dc:title>
+        <dc:creator opf:file-as="Mackenzie, A. R. D. (Alfred Robert Davidson)" opf:role="aut">A. R. D. Mackenzie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49544</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mackenzie</dc:subject>
+        <dc:subject>A. R. D. (Alfred Robert Davidson)</dc:subject>
+        <dc:subject>1835-</dc:subject>
+        <dc:subject>India -- History -- Sepoy Rebellion</dc:subject>
+        <dc:subject>1857-1858 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. R. D. Mackenzie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:07:18.491345+00:00"/>
+        <meta name="calibre:title_sort" content="Mutiny Memoirs: Being Personal Reminiscences of the Great Sepoy Revolt of 1857"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

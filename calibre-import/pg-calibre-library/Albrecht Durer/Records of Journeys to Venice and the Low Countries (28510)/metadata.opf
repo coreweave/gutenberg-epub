@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2e9d43b-2b5c-47a2-a0ea-7a828abfdf64</dc:identifier>
+        <dc:title>Records of Journeys to Venice and the Low Countries</dc:title>
+        <dc:creator opf:file-as="Dürer, Albrecht" opf:role="aut">Albrecht Dürer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3226</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artists -- Germany -- Correspondence</dc:subject>
+        <dc:subject>Artists -- Germany -- Diaries</dc:subject>
+        <dc:subject>Venice (Italy) -- Description and travel</dc:subject>
+        <dc:subject>Netherlands -- Description and travel</dc:subject>
+        <dc:subject>Dürer</dc:subject>
+        <dc:subject>Albrecht</dc:subject>
+        <dc:subject>1471-1528 -- Travel</dc:subject>
+        <dc:subject>1471-1528 -- Diaries</dc:subject>
+        <dc:subject>1471-1528 -- Correspondence</dc:subject>
+        <dc:subject>Pirckheimer</dc:subject>
+        <dc:subject>Willibald</dc:subject>
+        <dc:subject>1470-1530 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albrecht Dürer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:01:38.108009+00:00"/>
+        <meta name="calibre:title_sort" content="Records of Journeys to Venice and the Low Countries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

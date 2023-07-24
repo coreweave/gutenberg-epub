@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01cca1a9-b7ee-4c04-a0d5-0b38dd4e7329</dc:identifier>
+        <dc:title>Scouting for Boys</dc:title>
+        <dc:creator opf:file-as="Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron" opf:role="aut">Baron Robert Stephenson Smyth Baden-Powell Baden-Powell of Gilwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65993</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boy Scouts</dc:subject>
+        <dc:subject>Citizenship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron Robert Stephenson Smyth Baden-Powell Baden-Powell of Gilwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:09:26.777851+00:00"/>
+        <meta name="calibre:title_sort" content="Scouting for Boys"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

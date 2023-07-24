@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22041</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34543481-542c-41a9-befd-7e5495fd930c</dc:identifier>
+        <dc:title>Mexico, Aztec, Spanish and Republican, Vol. 2 of 2 / A Historical, Geographical, Political, Statistical and Social Account of that Country from the Period of the Invasion by the Spaniards to the Present Time.</dc:title>
+        <dc:creator opf:file-as="Mayer, Brantz" opf:role="aut">Brantz Mayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49538</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mexico -- Description and travel</dc:subject>
+        <dc:subject>Mexico -- History</dc:subject>
+        <dc:subject>Mexico -- Statistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brantz Mayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:23:50.661580+00:00"/>
+        <meta name="calibre:title_sort" content="Mexico, Aztec, Spanish and Republican, Vol. 2 of 2 / A Historical, Geographical, Political, Statistical and Social Account of that Country from the Period of the Invasion by the Spaniards to the Present Time."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

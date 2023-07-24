@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32875</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">649f6f81-2828-436d-9be9-04aec6e973b9</dc:identifier>
+        <dc:title>Th' History o' Haworth Railway / fra' th' beginnin' to th' end, wi' an ackaant o' th' oppnin' serrimony</dc:title>
+        <dc:creator opf:file-as="Bill o'th' Hoylus End" opf:role="aut">Bill o'th' Hoylus End</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27849</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dialect poetry</dc:subject>
+        <dc:subject>English -- England -- Yorkshire</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bill o'th' Hoylus End&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:30:13.088795+00:00"/>
+        <meta name="calibre:title_sort" content="Th' History o' Haworth Railway / fra' th' beginnin' to th' end, wi' an ackaant o' th' oppnin' serrimony"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

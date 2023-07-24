@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32a5bf14-a183-4fb9-aed5-6043ee920556</dc:identifier>
+        <dc:title>Critical, Historical, and Miscellaneous Essays; Vol. 3 / With a Memoir and Index</dc:title>
+        <dc:creator opf:file-as="Macaulay, Thomas Babington Macaulay, Baron" opf:role="aut">Baron Thomas Babington Macaulay Macaulay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55903</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>English literature -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron Thomas Babington Macaulay Macaulay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:37:39.072022+00:00"/>
+        <meta name="calibre:title_sort" content="Critical, Historical, and Miscellaneous Essays; Vol. 3 / With a Memoir and Index"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

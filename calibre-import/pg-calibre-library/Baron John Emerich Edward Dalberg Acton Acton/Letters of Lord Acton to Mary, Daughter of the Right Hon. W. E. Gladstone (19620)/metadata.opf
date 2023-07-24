@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55d0e364-7e3a-4aa0-9a94-1878e5d09517</dc:identifier>
+        <dc:title>Letters of Lord Acton to Mary, Daughter of the Right Hon. W. E. Gladstone</dc:title>
+        <dc:creator opf:file-as="Acton, John Emerich Edward Dalberg Acton, Baron" opf:role="aut">Baron John Emerich Edward Dalberg Acton Acton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38214</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Acton</dc:subject>
+        <dc:subject>John Emerich Edward Dalberg Acton</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1834-1902 -- Correspondence</dc:subject>
+        <dc:subject>Drew</dc:subject>
+        <dc:subject>Mary Gladstone</dc:subject>
+        <dc:subject>1847-1927 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron John Emerich Edward Dalberg Acton Acton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:50:27.888174+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Lord Acton to Mary, Daughter of the Right Hon. W. E. Gladstone"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

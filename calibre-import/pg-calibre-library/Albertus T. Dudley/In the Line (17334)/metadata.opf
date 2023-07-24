@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f45cde1-3a4b-4494-bee3-f0b7ccf75597</dc:identifier>
+        <dc:title>In the Line</dc:title>
+        <dc:creator opf:file-as="Dudley, Albertus T. (Albertus True)" opf:role="aut">Albertus T. Dudley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56259</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Football -- Juvenile fiction</dc:subject>
+        <dc:subject>Phillips Exeter Academy -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albertus T. Dudley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:30:00.258828+00:00"/>
+        <meta name="calibre:title_sort" content="In the Line"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

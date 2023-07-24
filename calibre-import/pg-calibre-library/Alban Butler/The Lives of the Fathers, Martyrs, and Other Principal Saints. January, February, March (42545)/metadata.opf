@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26b731d0-6481-482b-9c1a-5b4a815fb344</dc:identifier>
+        <dc:title>The Lives of the Fathers, Martyrs, and Other Principal Saints. January, February, March</dc:title>
+        <dc:creator opf:file-as="Butler, Alban" opf:role="aut">Alban Butler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20450</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian saints -- Biography</dc:subject>
+        <dc:subject>Christian patron saints -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alban Butler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:49:55.122086+00:00"/>
+        <meta name="calibre:title_sort" content="Lives of the Fathers, Martyrs, and Other Principal Saints. January, February, March, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

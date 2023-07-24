@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26afcfb9-ad17-4d18-8176-7da22cb6c084</dc:identifier>
+        <dc:title>How to Observe in Archaeology / Suggestions for Travellers in the Near and Middle East</dc:title>
+        <dc:creator opf:file-as="British Museum" opf:role="aut">British Museum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13575</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Archaeology</dc:subject>
+        <dc:subject>Oriental antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;British Museum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:08:08.096323+00:00"/>
+        <meta name="calibre:title_sort" content="How to Observe in Archaeology / Suggestions for Travellers in the Near and Middle East"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

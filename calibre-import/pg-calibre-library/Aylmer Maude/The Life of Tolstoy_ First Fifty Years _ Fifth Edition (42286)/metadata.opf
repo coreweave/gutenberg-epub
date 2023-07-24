@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d8e43cb-7c9b-435e-8698-0e5c04ae78c5</dc:identifier>
+        <dc:title>The Life of Tolstoy: First Fifty Years / Fifth Edition</dc:title>
+        <dc:creator opf:file-as="Maude, Aylmer" opf:role="aut">Aylmer Maude</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52242</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tolstoy</dc:subject>
+        <dc:subject>Leo</dc:subject>
+        <dc:subject>graf</dc:subject>
+        <dc:subject>1828-1910</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aylmer Maude&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:35:27.116796+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Tolstoy: First Fifty Years / Fifth Edition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

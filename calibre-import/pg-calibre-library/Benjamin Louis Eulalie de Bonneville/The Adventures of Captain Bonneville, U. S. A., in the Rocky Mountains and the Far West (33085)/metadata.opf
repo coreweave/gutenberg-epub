@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbed07c7-7c9a-411f-a4f0-68967c95a102</dc:identifier>
+        <dc:title>The Adventures of Captain Bonneville, U. S. A., in the Rocky Mountains and the Far West</dc:title>
+        <dc:creator opf:file-as="Bonneville, Benjamin Louis Eulalie de" opf:role="aut">Benjamin Louis Eulalie de Bonneville</dc:creator>
+        <dc:creator opf:file-as="Bonneville, Benjamin Louis Eulalie de" opf:role="aut">Washington Irving</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1372</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Northwestern States -- Description and travel</dc:subject>
+        <dc:subject>West (U.S.) -- History -- To 1848</dc:subject>
+        <dc:subject>Bonneville</dc:subject>
+        <dc:subject>Benjamin Louis Eulalie de</dc:subject>
+        <dc:subject>1796-1878</dc:subject>
+        <dc:subject>Fur trade -- West (U.S.) -- History -- 19th century</dc:subject>
+        <dc:subject>Explorers -- West (U.S.) -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Benjamin Louis Eulalie de Bonneville&quot;: &quot;&quot;, &quot;Washington Irving&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:40:23.257731+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Captain Bonneville, U. S. A., in the Rocky Mountains and the Far West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

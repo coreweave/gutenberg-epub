@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1c13280-667d-48dd-8fad-06f891f452bd</dc:identifier>
+        <dc:title>The Soul of Ann Rutledge: Abraham Lincoln's Romance</dc:title>
+        <dc:creator opf:file-as="Babcock, Bernie" opf:role="aut">Bernie Babcock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62028</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Fiction</dc:subject>
+        <dc:subject>Rutledge</dc:subject>
+        <dc:subject>Ann</dc:subject>
+        <dc:subject>-1835 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernie Babcock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:56:14.537733+00:00"/>
+        <meta name="calibre:title_sort" content="Soul of Ann Rutledge: Abraham Lincoln's Romance, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

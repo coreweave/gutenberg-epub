@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ce62517-d260-4ba9-9fe1-17de5b745c6d</dc:identifier>
+        <dc:title>Peggy O'Neal</dc:title>
+        <dc:creator opf:file-as="Lewis, Alfred Henry" opf:role="aut">Alfred Henry Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53992</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Eaton</dc:subject>
+        <dc:subject>Peggy</dc:subject>
+        <dc:subject>1799?-1879 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Henry Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:08:08.191805+00:00"/>
+        <meta name="calibre:title_sort" content="Peggy O'Neal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

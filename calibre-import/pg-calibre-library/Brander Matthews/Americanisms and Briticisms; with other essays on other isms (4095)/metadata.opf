@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">073995b2-7135-4a26-81e1-e43297d49d68</dc:identifier>
+        <dc:title>Americanisms and Briticisms; with other essays on other isms</dc:title>
+        <dc:creator opf:file-as="Matthews, Brander" opf:role="aut">Brander Matthews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37029</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American literature -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Modern -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Americanisms</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brander Matthews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:35.668194+00:00"/>
+        <meta name="calibre:title_sort" content="Americanisms and Briticisms; with other essays on other isms"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

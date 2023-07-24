@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13b98d0c-38d7-410c-90e0-5540916a5f43</dc:identifier>
+        <dc:title>Cherry &amp; Violet: A Tale of the Great Plague</dc:title>
+        <dc:creator opf:file-as="Manning, Anne" opf:role="aut">Anne Manning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61080</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Restoration</dc:subject>
+        <dc:subject>1660-1688 -- Fiction</dc:subject>
+        <dc:subject>Great Plague</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>1664-1666 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anne Manning&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:07:31.961962+00:00"/>
+        <meta name="calibre:title_sort" content="Cherry &amp; Violet: A Tale of the Great Plague"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

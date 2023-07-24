@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92950eab-2268-420c-8773-bb163ec76c11</dc:identifier>
+        <dc:title>All the Days of My Life: An Autobiography / The Red Leaves of a Human Heart</dc:title>
+        <dc:creator opf:file-as="Barr, Amelia E." opf:role="aut">Amelia E. Barr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35706</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Barr</dc:subject>
+        <dc:subject>Amelia E.</dc:subject>
+        <dc:subject>1831-1919</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Amelia E. Barr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:30:47.812695+00:00"/>
+        <meta name="calibre:title_sort" content="All the Days of My Life: An Autobiography / The Red Leaves of a Human Heart"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

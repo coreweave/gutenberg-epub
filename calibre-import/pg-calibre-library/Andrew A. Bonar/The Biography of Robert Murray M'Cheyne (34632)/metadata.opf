@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33d2ad1d-940f-4db1-b8d0-f591cbc7d262</dc:identifier>
+        <dc:title>The Biography of Robert Murray M'Cheyne</dc:title>
+        <dc:creator opf:file-as="Bonar, Andrew A. (Andrew Alexander)" opf:role="aut">Andrew A. Bonar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15251</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of Scotland -- Clergy -- Biography</dc:subject>
+        <dc:subject>M'Cheyne</dc:subject>
+        <dc:subject>Robert Murray</dc:subject>
+        <dc:subject>1813-1843</dc:subject>
+        <dc:subject>Presbyterian Church -- Scotland -- Clergy -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew A. Bonar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:56:26.133215+00:00"/>
+        <meta name="calibre:title_sort" content="Biography of Robert Murray M'Cheyne, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

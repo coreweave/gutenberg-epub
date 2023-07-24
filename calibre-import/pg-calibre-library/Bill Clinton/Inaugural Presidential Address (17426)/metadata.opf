@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1dde4bdf-0e91-4eb8-b76f-5914fac1e731</dc:identifier>
+        <dc:title>Inaugural Presidential Address</dc:title>
+        <dc:creator opf:file-as="Clinton, Bill" opf:role="aut">Bill Clinton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10510</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Inaugural addresses</dc:subject>
+        <dc:subject>Clinton</dc:subject>
+        <dc:subject>Bill</dc:subject>
+        <dc:subject>1946- -- Inauguration</dc:subject>
+        <dc:subject>1993</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bill Clinton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:33:08.547419+00:00"/>
+        <meta name="calibre:title_sort" content="Inaugural Presidential Address"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

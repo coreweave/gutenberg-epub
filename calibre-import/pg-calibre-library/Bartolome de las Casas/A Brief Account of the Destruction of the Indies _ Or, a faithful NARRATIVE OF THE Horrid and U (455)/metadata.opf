@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">820aa8da-c117-4355-822d-e55d20851089</dc:identifier>
+        <dc:title>A Brief Account of the Destruction of the Indies / Or, a faithful NARRATIVE OF THE Horrid and Unexampled Massacres, Butcheries, and all manner of Cruelties, that Hell and Malice could invent, committed by the Popish Spanish Party on the inhabitants of West-India, TOGETHER With the Devastations of several Kingdoms in America by Fire and Sword, for the space of Forty and Two Years, from the time of its first Discovery by them.</dc:title>
+        <dc:creator opf:file-as="Casas, Bartolomé de las" opf:role="aut">Bartolomé de las Casas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20321</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians</dc:subject>
+        <dc:subject>Treatment of -- Latin America</dc:subject>
+        <dc:subject>Spain -- Colonies -- America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bartolomé de las Casas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:32:48.551474+00:00"/>
+        <meta name="calibre:title_sort" content="Brief Account of the Destruction of the Indies / Or, a faithful NARRATIVE OF THE Horrid and Unexampled Massacres, Butcheries, and all manner of Cruelties, that Hell and Malice could invent, committed by the Popish Spanish Party on the inhabitants of West-India, TOGETHER With the Devastations of several Kingdoms in America by Fire and Sword, for the space of Forty and Two Years, from the time of its first Discovery by them., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb3711bc-989a-409e-a4e9-970c593d24aa</dc:identifier>
+        <dc:title>Notes on the New Testament, Explanatory and Practical: Revelation</dc:title>
+        <dc:creator opf:file-as="Barnes, Albert" opf:role="aut">Albert Barnes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55228</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Revelation -- Commentaries</dc:subject>
+        <dc:subject>Bible. New Testament -- Commentaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert Barnes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:02:45.123778+00:00"/>
+        <meta name="calibre:title_sort" content="Notes on the New Testament, Explanatory and Practical: Revelation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

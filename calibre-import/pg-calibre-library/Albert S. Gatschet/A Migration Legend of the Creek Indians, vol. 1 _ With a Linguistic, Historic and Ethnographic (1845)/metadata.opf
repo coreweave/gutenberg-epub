@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c64a8914-68d8-432a-ae00-49b855a3846c</dc:identifier>
+        <dc:title>A Migration Legend of the Creek Indians, vol. 1 / With a Linguistic, Historic and Ethnographic Introduction</dc:title>
+        <dc:creator opf:file-as="Gatschet, Albert S. (Albert Samuel)" opf:role="aut">Albert S. Gatschet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49031</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Folklore</dc:subject>
+        <dc:subject>Creek Indians</dc:subject>
+        <dc:subject>Indians of North America -- Southern States</dc:subject>
+        <dc:subject>Creek language</dc:subject>
+        <dc:subject>Creek language -- Texts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert S. Gatschet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:54:34.826846+00:00"/>
+        <meta name="calibre:title_sort" content="Migration Legend of the Creek Indians, vol. 1 / With a Linguistic, Historic and Ethnographic Introduction, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

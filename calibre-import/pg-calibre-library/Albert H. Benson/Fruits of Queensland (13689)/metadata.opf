@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef15bae3-5b2e-46fe-aa79-929b12825627</dc:identifier>
+        <dc:title>Fruits of Queensland</dc:title>
+        <dc:creator opf:file-as="Benson, Albert H." opf:role="aut">Albert H. Benson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26552</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fruit-culture -- Queensland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert H. Benson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:31:23.928700+00:00"/>
+        <meta name="calibre:title_sort" content="Fruits of Queensland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

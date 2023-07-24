@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df09a845-5533-4c3f-a19a-f9c3335f9c53</dc:identifier>
+        <dc:title>Catalogue of books on philately in the Public Library of the city of Boston</dc:title>
+        <dc:creator opf:file-as="Boston Philatelic Society" opf:role="aut">Boston Philatelic Society</dc:creator>
+        <dc:creator opf:file-as="Boston Philatelic Society" opf:role="aut">Boston Public Library</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43857</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postage stamps -- Bibliography</dc:subject>
+        <dc:subject>Stamp collecting -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Boston Philatelic Society&quot;: &quot;&quot;, &quot;Boston Public Library&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:54:42.400288+00:00"/>
+        <meta name="calibre:title_sort" content="Catalogue of books on philately in the Public Library of the city of Boston"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

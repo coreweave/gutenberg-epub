@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43c35e3f-806d-44e1-9372-a05471e6461a</dc:identifier>
+        <dc:title>Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1</dc:title>
+        <dc:creator opf:file-as="Humboldt, Alexander von" opf:role="aut">Alexander von Humboldt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14565</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- History</dc:subject>
+        <dc:subject>Astronomy</dc:subject>
+        <dc:subject>Physical geography</dc:subject>
+        <dc:subject>Cosmography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alexander von Humboldt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:33:03.547266+00:00"/>
+        <meta name="calibre:title_sort" content="Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

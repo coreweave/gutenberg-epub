@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a16ac6b5-7a3e-4ad1-aaf8-1742f01976ee</dc:identifier>
+        <dc:title>A Waif of the Plains</dc:title>
+        <dc:creator opf:file-as="Harte, Bret" opf:role="aut">Bret Harte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2279</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- United States -- Fiction</dc:subject>
+        <dc:subject>Overland journeys to the Pacific -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bret Harte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:14:33.435825+00:00"/>
+        <meta name="calibre:title_sort" content="Waif of the Plains, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

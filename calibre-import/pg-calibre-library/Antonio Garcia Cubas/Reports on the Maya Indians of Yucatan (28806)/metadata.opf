@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5499147-8c00-4190-9613-776ca9a77482</dc:identifier>
+        <dc:title>Reports on the Maya Indians of Yucatan</dc:title>
+        <dc:creator opf:file-as="García Cubas, Antonio" opf:role="aut">Antonio García Cubas</dc:creator>
+        <dc:creator opf:file-as="García Cubas, Antonio" opf:role="aut">Francisco Hernández</dc:creator>
+        <dc:creator opf:file-as="García Cubas, Antonio" opf:role="aut">Santiago Mendez</dc:creator>
+        <dc:creator opf:file-as="García Cubas, Antonio" opf:role="aut">Pedro Sánchez de Aguilar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39914</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mayas</dc:subject>
+        <dc:subject>Indians of Mexico -- Mexico -- Yucatán (State)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Antonio García Cubas&quot;: &quot;&quot;, &quot;Francisco Hernández&quot;: &quot;&quot;, &quot;Santiago Mendez&quot;: &quot;&quot;, &quot;Pedro Sánchez de Aguilar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:15:14.413368+00:00"/>
+        <meta name="calibre:title_sort" content="Reports on the Maya Indians of Yucatan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

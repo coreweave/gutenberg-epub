@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cb5da68-e715-435f-b105-a152c2abaaa0</dc:identifier>
+        <dc:title>Milestones in the Mighty Age of Steam: The Grasshopper and the Corliss</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Carillon Historical Park (Dayton</dc:subject>
+        <dc:subject>Ohio)</dc:subject>
+        <dc:subject>Davis</dc:subject>
+        <dc:subject>Phineas</dc:subject>
+        <dc:subject>1800-1835</dc:subject>
+        <dc:subject>Corliss</dc:subject>
+        <dc:subject>George H. (George Henry)</dc:subject>
+        <dc:subject>1817-1888</dc:subject>
+        <dc:subject>John Quincy Adams (Steam locomotive) -- History</dc:subject>
+        <dc:subject>Steam-engines -- United States -- History</dc:subject>
+        <dc:subject>Steam locomotives -- United States -- History</dc:subject>
+        <dc:subject>Corliss steam-engine -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anonymous&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:26:52.747672+00:00"/>
+        <meta name="calibre:title_sort" content="Milestones in the Mighty Age of Steam: The Grasshopper and the Corliss"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

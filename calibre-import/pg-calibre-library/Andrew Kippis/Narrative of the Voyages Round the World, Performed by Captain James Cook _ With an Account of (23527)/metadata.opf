@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d4e40c9-a045-4ab9-a198-dc74facf691d</dc:identifier>
+        <dc:title>Narrative of the Voyages Round the World, Performed by Captain James Cook / With an Account of His Life During the Previous and Intervening Periods</dc:title>
+        <dc:creator opf:file-as="Kippis, Andrew" opf:role="aut">Andrew Kippis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7777</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages around the world -- Early works to 1800</dc:subject>
+        <dc:subject>Cook</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1728-1779 -- Travel</dc:subject>
+        <dc:subject>Explorers -- Great Britain -- Biography -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew Kippis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:26:17.726043+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Voyages Round the World, Performed by Captain James Cook / With an Account of His Life During the Previous and Intervening Periods"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

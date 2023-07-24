@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20592</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e62ef5bd-0d9b-4085-b819-3e320e7252ee</dc:identifier>
+        <dc:title>Louis XIV and La Grande Mademoiselle, 1652-1693</dc:title>
+        <dc:creator opf:file-as="Barine, Arvède" opf:role="aut">Arvède Barine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37409</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louis XIV</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1638-1715</dc:subject>
+        <dc:subject>Montpensier</dc:subject>
+        <dc:subject>Anne-Marie-Louise d'Orléans</dc:subject>
+        <dc:subject>duchesse de</dc:subject>
+        <dc:subject>1627-1693</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arvède Barine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:26:39.022264+00:00"/>
+        <meta name="calibre:title_sort" content="Louis XIV and La Grande Mademoiselle, 1652-1693"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

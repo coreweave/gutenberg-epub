@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19760183-dbef-4e85-8412-e6d086b0415d</dc:identifier>
+        <dc:title>The Building of Castello de San Marcos / National Park Service Interpretive Series, History No. 1</dc:title>
+        <dc:creator opf:file-as="Manucy, Albert C." opf:role="aut">Albert C. Manucy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47216</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Florida -- History -- Spanish colony</dc:subject>
+        <dc:subject>1565-1763</dc:subject>
+        <dc:subject>Castillo de San Marcos (Saint Augustine</dc:subject>
+        <dc:subject>Fla.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Albert C. Manucy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:39:17.421967+00:00"/>
+        <meta name="calibre:title_sort" content="Building of Castello de San Marcos / National Park Service Interpretive Series, History No. 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

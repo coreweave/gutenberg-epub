@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85febbd5-1092-4aae-abce-21614764088e</dc:identifier>
+        <dc:title>Frank Reynolds, R.I.</dc:title>
+        <dc:creator opf:file-as="Johnson, A. E. (Alfred Edwin)" opf:role="aut">A. E. Johnson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reynolds</dc:subject>
+        <dc:subject>Frank</dc:subject>
+        <dc:subject>1876-1953</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. E. Johnson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:22:04.384192+00:00"/>
+        <meta name="calibre:title_sort" content="Frank Reynolds, R.I."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

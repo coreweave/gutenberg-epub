@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da7d0d1c-3b63-4059-a493-3dcf6dfe6bdb</dc:identifier>
+        <dc:title>The Homeric Hymns / A New Prose Translation; and Essays, Literary and Mythological</dc:title>
+        <dc:creator opf:file-as="Lang, Andrew" opf:role="aut">Andrew Lang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16338</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gods</dc:subject>
+        <dc:subject>Greek -- Poetry</dc:subject>
+        <dc:subject>Hymns</dc:subject>
+        <dc:subject>Greek (Classical) -- Translations into English</dc:subject>
+        <dc:subject>Homeric hymns</dc:subject>
+        <dc:subject>Homeric hymns -- Translations into English</dc:subject>
+        <dc:subject>Greek (Classical) -- History and criticism</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <dc:subject>in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Andrew Lang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:02:17.671197+00:00"/>
+        <meta name="calibre:title_sort" content="Homeric Hymns / A New Prose Translation; and Essays, Literary and Mythological, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

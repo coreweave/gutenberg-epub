@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">711848d3-42f6-4e82-b58d-f2152e277a57</dc:identifier>
+        <dc:title>The Ground Plan of the English Parish Church</dc:title>
+        <dc:creator opf:file-as="Thompson, A. Hamilton (Alexander Hamilton)" opf:role="aut">A. Hamilton Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27102</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church architecture -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Hamilton Thompson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:23:30.383650+00:00"/>
+        <meta name="calibre:title_sort" content="Ground Plan of the English Parish Church, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6dac583f-6908-4575-af00-2505bd47f3e6</dc:identifier>
+        <dc:title>Kensington, Notting Hill, and Paddington / With Remembrances of the Locality 38 Years Ago</dc:title>
+        <dc:creator opf:file-as="An Old Inhabitant" opf:role="aut">An Old Inhabitant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;An Old Inhabitant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:22:50.038567+00:00"/>
+        <meta name="calibre:title_sort" content="Kensington, Notting Hill, and Paddington / With Remembrances of the Locality 38 Years Ago"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

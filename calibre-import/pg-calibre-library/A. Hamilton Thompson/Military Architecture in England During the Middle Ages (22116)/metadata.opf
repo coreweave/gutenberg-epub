@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">010b45c6-afe7-45d3-aafb-1576f14d831d</dc:identifier>
+        <dc:title>Military Architecture in England During the Middle Ages</dc:title>
+        <dc:creator opf:file-as="Thompson, A. Hamilton (Alexander Hamilton)" opf:role="aut">A. Hamilton Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60518</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Military architecture -- England</dc:subject>
+        <dc:subject>Castles -- England -- History -- To 1500</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Medieval -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Hamilton Thompson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:26:55.340661+00:00"/>
+        <meta name="calibre:title_sort" content="Military Architecture in England During the Middle Ages"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

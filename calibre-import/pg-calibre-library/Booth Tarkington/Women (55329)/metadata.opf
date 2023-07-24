@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a024113-e4e7-4669-8a38-303f24744a37</dc:identifier>
+        <dc:title>Women</dc:title>
+        <dc:creator opf:file-as="Tarkington, Booth" opf:role="aut">Booth Tarkington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65207</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Married people -- Fiction</dc:subject>
+        <dc:subject>Women -- Fiction</dc:subject>
+        <dc:subject>Suburban life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Booth Tarkington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:50:20.857929+00:00"/>
+        <meta name="calibre:title_sort" content="Women"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

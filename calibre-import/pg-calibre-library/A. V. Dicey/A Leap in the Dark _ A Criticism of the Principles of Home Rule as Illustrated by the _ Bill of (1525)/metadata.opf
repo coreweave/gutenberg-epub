@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a76a6ffe-462b-4321-97a1-53365b1019df</dc:identifier>
+        <dc:title>A Leap in the Dark / A Criticism of the Principles of Home Rule as Illustrated by the / Bill of 1893</dc:title>
+        <dc:creator opf:file-as="Dicey, A. V. (Albert Venn)" opf:role="aut">A. V. Dicey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15572</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home rule -- Ireland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. V. Dicey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:25.482343+00:00"/>
+        <meta name="calibre:title_sort" content="Leap in the Dark / A Criticism of the Principles of Home Rule as Illustrated by the / Bill of 1893, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

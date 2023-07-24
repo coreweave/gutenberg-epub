@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88e601e2-ad98-4de0-aad4-fc7aca7b9218</dc:identifier>
+        <dc:title>Paul and Virginia</dc:title>
+        <dc:creator opf:file-as="Saint-Pierre, Bernardin de" opf:role="aut">Bernardin de Saint-Pierre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2127</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Friendship -- Fiction</dc:subject>
+        <dc:subject>Shipwrecks -- Fiction</dc:subject>
+        <dc:subject>Mauritius -- Fiction</dc:subject>
+        <dc:subject>Death -- Fiction</dc:subject>
+        <dc:subject>Charity -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Bernardin de Saint-Pierre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:03:58.955199+00:00"/>
+        <meta name="calibre:title_sort" content="Paul and Virginia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

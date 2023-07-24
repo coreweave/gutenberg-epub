@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4653</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4a22110-5d2e-4481-b83f-67cf52fcdf79</dc:identifier>
+        <dc:title>Ancient Egypt</dc:title>
+        <dc:creator opf:file-as="Gilman, Arthur" opf:role="aut">Arthur Gilman</dc:creator>
+        <dc:creator opf:file-as="Gilman, Arthur" opf:role="aut">George Rawlinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15663</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egypt -- History</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Gilman&quot;: &quot;&quot;, &quot;George Rawlinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:45:16.633846+00:00"/>
+        <meta name="calibre:title_sort" content="Ancient Egypt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

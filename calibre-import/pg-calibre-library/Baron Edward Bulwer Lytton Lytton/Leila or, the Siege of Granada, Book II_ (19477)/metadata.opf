@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c084cf5a-b666-4a42-9c9e-a83698e43803</dc:identifier>
+        <dc:title>Leila or, the Siege of Granada, Book II.</dc:title>
+        <dc:creator opf:file-as="Lytton, Edward Bulwer Lytton, Baron" opf:role="aut">Baron Edward Bulwer Lytton Lytton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9757</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sieges -- Fiction</dc:subject>
+        <dc:subject>Granada (Spain) -- History -- Siege</dc:subject>
+        <dc:subject>1491-1492 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron Edward Bulwer Lytton Lytton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:45:10.734036+00:00"/>
+        <meta name="calibre:title_sort" content="Leila or, the Siege of Granada, Book II."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

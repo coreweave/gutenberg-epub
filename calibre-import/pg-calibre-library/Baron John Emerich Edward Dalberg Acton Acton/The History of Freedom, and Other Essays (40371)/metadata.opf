@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5486da4f-b8fe-408d-b3d6-57f92f2ca490</dc:identifier>
+        <dc:title>The History of Freedom, and Other Essays</dc:title>
+        <dc:creator opf:file-as="Acton, John Emerich Edward Dalberg Acton, Baron" opf:role="aut">Baron John Emerich Edward Dalberg Acton Acton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31278</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>History -- Philosophy</dc:subject>
+        <dc:subject>Liberty -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Baron John Emerich Edward Dalberg Acton Acton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:50:27.579998+00:00"/>
+        <meta name="calibre:title_sort" content="History of Freedom, and Other Essays, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1df8c98c-d34d-49bc-a332-6d3ffef709b6</dc:identifier>
+        <dc:title>Lineage, Life and Labors of José Rizal, Philippine Patriot</dc:title>
+        <dc:creator opf:file-as="Craig, Austin" opf:role="aut">Austin Craig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6867</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rizal</dc:subject>
+        <dc:subject>José</dc:subject>
+        <dc:subject>1861-1896</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Austin Craig&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:06:15.473372+00:00"/>
+        <meta name="calibre:title_sort" content="Lineage, Life and Labors of José Rizal, Philippine Patriot"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

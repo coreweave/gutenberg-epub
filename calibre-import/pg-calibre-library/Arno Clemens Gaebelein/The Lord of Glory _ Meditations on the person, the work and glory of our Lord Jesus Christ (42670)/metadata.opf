@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30be0617-90ed-4d0a-94cf-e460d539973e</dc:identifier>
+        <dc:title>The Lord of Glory / Meditations on the person, the work and glory of our Lord Jesus Christ</dc:title>
+        <dc:creator opf:file-as="Gaebelein, Arno Clemens" opf:role="aut">Arno Clemens Gaebelein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29557</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jesus Christ -- Person and offices</dc:subject>
+        <dc:subject>Jesus Christ -- Meditations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arno Clemens Gaebelein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:56:49.515785+00:00"/>
+        <meta name="calibre:title_sort" content="Lord of Glory / Meditations on the person, the work and glory of our Lord Jesus Christ, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

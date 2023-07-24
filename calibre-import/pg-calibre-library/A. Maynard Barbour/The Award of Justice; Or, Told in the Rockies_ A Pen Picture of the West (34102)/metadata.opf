@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9dfb481-0462-4f2b-ab89-a67a947797a5</dc:identifier>
+        <dc:title>The Award of Justice; Or, Told in the Rockies: A Pen Picture of the West</dc:title>
+        <dc:creator opf:file-as="Barbour, A. Maynard (Anna Maynard)" opf:role="aut">A. Maynard Barbour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30028</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mountain life -- Fiction</dc:subject>
+        <dc:subject>Rocky Mountains -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Maynard Barbour&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:30:20.493174+00:00"/>
+        <meta name="calibre:title_sort" content="Award of Justice; Or, Told in the Rockies: A Pen Picture of the West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

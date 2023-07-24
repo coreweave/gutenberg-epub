@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32061</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83b2d798-1477-4643-8f68-eaf42f530aaf</dc:identifier>
+        <dc:title>Structure and Functions of the Body / A Hand-Book of Anatomy and Physiology for Nurses and Others Desiring a Practical Knowledge of the Subject</dc:title>
+        <dc:creator opf:file-as="Fiske, Annette" opf:role="aut">Annette Fiske</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physiology</dc:subject>
+        <dc:subject>Human anatomy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Annette Fiske&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:51:00.041071+00:00"/>
+        <meta name="calibre:title_sort" content="Structure and Functions of the Body / A Hand-Book of Anatomy and Physiology for Nurses and Others Desiring a Practical Knowledge of the Subject"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67e6a9f9-a46a-4ece-b0e5-bf020d76b4cd</dc:identifier>
+        <dc:title>A Pictorial Guide to Mesa Verde National Park</dc:title>
+        <dc:creator opf:file-as="Hall, Ansel F. (Ansel Franklin)" opf:role="aut">Ansel F. Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65321</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mesa Verde National Park (Colo.) -- Guidebooks</dc:subject>
+        <dc:subject>Mesa Verde National Park (Colo.) -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ansel F. Hall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:58:37.690075+00:00"/>
+        <meta name="calibre:title_sort" content="Pictorial Guide to Mesa Verde National Park, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

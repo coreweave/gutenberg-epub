@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edc109d6-ea1c-4bcc-b88f-e16ddd581506</dc:identifier>
+        <dc:title>The Loss of the Australia / A narrative of the loss of the brig Australia by fire on her voyage from Leith to Sydney</dc:title>
+        <dc:creator opf:file-as="Yule, Adam" opf:role="aut">Adam Yule</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44480</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwrecks -- South Atlantic Ocean</dc:subject>
+        <dc:subject>Australia (Brig)</dc:subject>
+        <dc:subject>Shipwreck survival -- South Atlantic Ocean</dc:subject>
+        <dc:subject>Castaways -- Atlantic Ocean</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Adam Yule&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:57:23.017783+00:00"/>
+        <meta name="calibre:title_sort" content="Loss of the Australia / A narrative of the loss of the brig Australia by fire on her voyage from Leith to Sydney, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

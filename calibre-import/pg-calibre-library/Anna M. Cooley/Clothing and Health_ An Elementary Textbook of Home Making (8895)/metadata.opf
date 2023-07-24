@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3db90d0c-b2bf-4f19-aec1-1677eb951be9</dc:identifier>
+        <dc:title>Clothing and Health: An Elementary Textbook of Home Making</dc:title>
+        <dc:creator opf:file-as="Cooley, Anna M. (Anna Maria)" opf:role="aut">Anna M. Cooley</dc:creator>
+        <dc:creator opf:file-as="Cooley, Anna M. (Anna Maria)" opf:role="aut">Helen Kinne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47585</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clothing and dress</dc:subject>
+        <dc:subject>Sewing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anna M. Cooley&quot;: &quot;&quot;, &quot;Helen Kinne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:20:02.350950+00:00"/>
+        <meta name="calibre:title_sort" content="Clothing and Health: An Elementary Textbook of Home Making"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

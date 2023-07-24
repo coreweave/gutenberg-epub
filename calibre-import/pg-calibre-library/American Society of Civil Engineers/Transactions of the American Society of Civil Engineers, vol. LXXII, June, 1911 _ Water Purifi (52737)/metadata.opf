@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77aa36e9-af7f-4367-957c-494b68f18623</dc:identifier>
+        <dc:title>Transactions of the American Society of Civil Engineers, vol. LXXII, June, 1911 / Water Purification Plant, Washington, D. C. Results of Operation.</dc:title>
+        <dc:creator opf:file-as="American Society of Civil Engineers" opf:role="aut">American Society of Civil Engineers</dc:creator>
+        <dc:creator opf:file-as="American Society of Civil Engineers" opf:role="aut">E. D. Hardy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27632</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civil engineering -- Periodicals</dc:subject>
+        <dc:subject>Water treatment plants</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Society of Civil Engineers&quot;: &quot;&quot;, &quot;E. D. Hardy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:01:22.887889+00:00"/>
+        <meta name="calibre:title_sort" content="Transactions of the American Society of Civil Engineers, vol. LXXII, June, 1911 / Water Purification Plant, Washington, D. C. Results of Operation."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

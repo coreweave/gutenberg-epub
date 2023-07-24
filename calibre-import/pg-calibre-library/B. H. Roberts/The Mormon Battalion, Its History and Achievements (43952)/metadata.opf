@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d848855a-f3db-4e77-a527-b393c3f22f4c</dc:identifier>
+        <dc:title>The Mormon Battalion, Its History and Achievements</dc:title>
+        <dc:creator opf:file-as="Roberts, B. H. (Brigham Henry)" opf:role="aut">B. H. Roberts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42152</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Army. Mormon Battalion</dc:subject>
+        <dc:subject>Mexican War</dc:subject>
+        <dc:subject>1846-1848 -- Regimental histories -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. H. Roberts&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:08:07.833636+00:00"/>
+        <meta name="calibre:title_sort" content="Mormon Battalion, Its History and Achievements, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

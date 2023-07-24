@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f390753-addd-43db-935a-bd07700d93a4</dc:identifier>
+        <dc:title>Reflections on Dr. Swift's Letter to Harley (1712) and The British Academy (1712)</dc:title>
+        <dc:creator opf:file-as="Maynwaring, Arthur" opf:role="aut">Arthur Maynwaring</dc:creator>
+        <dc:creator opf:file-as="Maynwaring, Arthur" opf:role="aut">Mr. Oldmixon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25091</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Swift</dc:subject>
+        <dc:subject>Jonathan</dc:subject>
+        <dc:subject>1667-1745. Proposal for correcting</dc:subject>
+        <dc:subject>improving</dc:subject>
+        <dc:subject>and ascertaining the English tongue</dc:subject>
+        <dc:subject>British Academy</dc:subject>
+        <dc:subject>London (Founded ca. 1712)</dc:subject>
+        <dc:subject>Académie française</dc:subject>
+        <dc:subject>English language -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Maynwaring&quot;: &quot;&quot;, &quot;Mr. Oldmixon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:05:16.762864+00:00"/>
+        <meta name="calibre:title_sort" content="Reflections on Dr. Swift's Letter to Harley (1712) and The British Academy (1712)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

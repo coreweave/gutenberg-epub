@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1156cf41-21d2-4d87-afe2-79f507c14dfc</dc:identifier>
+        <dc:title>The Accomplished Muskrat Trapper: A Book on Trapping for Amateurs</dc:title>
+        <dc:creator opf:file-as="Schmidt, Arno Erdman" opf:role="aut">Arno Erdman Schmidt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34228</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trapping</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arno Erdman Schmidt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:37:29.713333+00:00"/>
+        <meta name="calibre:title_sort" content="Accomplished Muskrat Trapper: A Book on Trapping for Amateurs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d64e2d7-c6ee-461e-9322-5bdf161b7fb6</dc:identifier>
+        <dc:title>The Fight for the Republic in China</dc:title>
+        <dc:creator opf:file-as="Putnam Weale, B. L. (Bertram Lenox)" opf:role="aut">B. L. Putnam Weale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4522</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>China -- History -- Republic</dc:subject>
+        <dc:subject>1912-1949</dc:subject>
+        <dc:subject>China -- Politics and government</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;B. L. Putnam Weale&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:11:58.965511+00:00"/>
+        <meta name="calibre:title_sort" content="Fight for the Republic in China, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

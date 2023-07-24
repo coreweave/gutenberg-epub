@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54bf901f-1992-4b07-9e35-c0ecf6593bb2</dc:identifier>
+        <dc:title>The Interest of America in Sea Power, Present and Future</dc:title>
+        <dc:creator opf:file-as="Mahan, A. T. (Alfred Thayer)" opf:role="aut">A. T. Mahan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15749</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea-power</dc:subject>
+        <dc:subject>United States. Navy</dc:subject>
+        <dc:subject>United States -- Defenses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. T. Mahan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:25:31.441995+00:00"/>
+        <meta name="calibre:title_sort" content="Interest of America in Sea Power, Present and Future, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d979bd0-2a79-460e-9970-8b6ee2ec7ee5</dc:identifier>
+        <dc:title>The Waif of the "Cynthia"</dc:title>
+        <dc:creator opf:file-as="Laurie, André" opf:role="aut">André Laurie</dc:creator>
+        <dc:creator opf:file-as="Laurie, André" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16344</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arctic regions -- Discovery and exploration -- Fiction</dc:subject>
+        <dc:subject>Foundlings -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;André Laurie&quot;: &quot;&quot;, &quot;Jules Verne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:03:28.540048+00:00"/>
+        <meta name="calibre:title_sort" content="Waif of the &quot;Cynthia&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

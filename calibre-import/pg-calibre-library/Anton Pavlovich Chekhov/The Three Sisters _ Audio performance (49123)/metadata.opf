@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f283804e-cb51-4a75-aa14-49fa757c5049</dc:identifier>
+        <dc:title>The Three Sisters / Audio performance</dc:title>
+        <dc:creator opf:file-as="Chekhov, Anton Pavlovich" opf:role="aut">Anton Pavlovich Chekhov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/ebooks/55351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Anton Pavlovich Chekhov&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:10:59.460063+00:00"/>
+        <meta name="calibre:title_sort" content="Three Sisters / Audio performance, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

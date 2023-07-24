@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d7a695f-3f0f-46b7-bb08-15e780b77197</dc:identifier>
+        <dc:title>Rembrandt, With a Complete List of His Etchings</dc:title>
+        <dc:creator opf:file-as="Hind, Arthur Mayger" opf:role="aut">Arthur Mayger Hind</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31183</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rembrandt Harmenszoon van Rijn</dc:subject>
+        <dc:subject>1606-1669 -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Mayger Hind&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:09:18.355386+00:00"/>
+        <meta name="calibre:title_sort" content="Rembrandt, With a Complete List of His Etchings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

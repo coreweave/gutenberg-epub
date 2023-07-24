@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd851c85-6cf4-488a-8566-b39dcf455879</dc:identifier>
+        <dc:title>Shen of the Sea: A Book for Children</dc:title>
+        <dc:creator opf:file-as="Chrisman, Arthur Bowie" opf:role="aut">Arthur Bowie Chrisman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>China -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Bowie Chrisman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:34:36.479811+00:00"/>
+        <meta name="calibre:title_sort" content="Shen of the Sea: A Book for Children"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

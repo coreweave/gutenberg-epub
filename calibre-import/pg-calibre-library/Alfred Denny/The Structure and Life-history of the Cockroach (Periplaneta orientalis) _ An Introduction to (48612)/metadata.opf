@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">095e75fb-18a2-475a-b81b-c311f1601c43</dc:identifier>
+        <dc:title>The Structure and Life-history of the Cockroach (Periplaneta orientalis) / An Introduction to the Study of Insects</dc:title>
+        <dc:creator opf:file-as="Denny, Alfred" opf:role="aut">Alfred Denny</dc:creator>
+        <dc:creator opf:file-as="Denny, Alfred" opf:role="aut">L. C. Miall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52172</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cockroaches</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Denny&quot;: &quot;&quot;, &quot;L. C. Miall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:40:04.732018+00:00"/>
+        <meta name="calibre:title_sort" content="Structure and Life-history of the Cockroach (Periplaneta orientalis) / An Introduction to the Study of Insects, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

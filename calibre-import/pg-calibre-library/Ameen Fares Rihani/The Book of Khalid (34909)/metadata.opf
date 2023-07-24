@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64e45af9-8c7f-4139-9e37-6f4ce00fd3b4</dc:identifier>
+        <dc:title>The Book of Khalid</dc:title>
+        <dc:creator opf:file-as="Rihani, Ameen Fares" opf:role="aut">Ameen Fares Rihani</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Immigrants -- New York (State) -- New York -- Fiction</dc:subject>
+        <dc:subject>Arab Americans -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ameen Fares Rihani&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:10:09.589742+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Khalid, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

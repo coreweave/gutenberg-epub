@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1302</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05924907-e4bd-4676-9c97-1c5a47a2e2d7</dc:identifier>
+        <dc:title>A History of Kansas</dc:title>
+        <dc:creator opf:file-as="Arnold, Anna E. (Anna Estelle)" opf:role="aut">Anna E. Arnold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65593</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kansas -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anna E. Arnold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:45:49.201153+00:00"/>
+        <meta name="calibre:title_sort" content="History of Kansas, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

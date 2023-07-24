@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffb3e88f-dd55-447a-8aab-02715835534c</dc:identifier>
+        <dc:title>The Pathless Trail</dc:title>
+        <dc:creator opf:file-as="Friel, Arthur O. (Arthur Olney)" opf:role="aut">Arthur O. Friel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30324</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy literature</dc:subject>
+        <dc:subject>Jungles -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Brazil -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur O. Friel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:14:14.035301+00:00"/>
+        <meta name="calibre:title_sort" content="Pathless Trail, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

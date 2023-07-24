@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17440</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">180ecc46-afa1-426b-86f6-f984e7bd7cde</dc:identifier>
+        <dc:title>Incidents of the War: Humorous, Pathetic, and Descriptive</dc:title>
+        <dc:creator opf:file-as="Burnett, Alfred" opf:role="aut">Alfred Burnett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23733</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Burnett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:33:37.795566+00:00"/>
+        <meta name="calibre:title_sort" content="Incidents of the War: Humorous, Pathetic, and Descriptive"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

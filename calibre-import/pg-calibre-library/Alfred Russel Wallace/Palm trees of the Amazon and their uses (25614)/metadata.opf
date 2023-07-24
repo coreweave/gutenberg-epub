@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b2d189d-030f-42da-a592-7dabacc5a008</dc:identifier>
+        <dc:title>Palm trees of the Amazon and their uses</dc:title>
+        <dc:creator opf:file-as="Wallace, Alfred Russel" opf:role="aut">Alfred Russel Wallace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70075</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Palms -- Amazon River Valley</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alfred Russel Wallace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:54:25.857860+00:00"/>
+        <meta name="calibre:title_sort" content="Palm trees of the Amazon and their uses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61e07ed8-a8c5-4366-af78-b3e677f0bddd</dc:identifier>
+        <dc:title>The master of St. Benedict's, Vol. 2 (of 2)</dc:title>
+        <dc:creator opf:file-as="St. Aubyn, Alan" opf:role="aut">Alan St. Aubyn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>School principals -- Fiction</dc:subject>
+        <dc:subject>Cambridge (England) -- Fiction</dc:subject>
+        <dc:subject>Students -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Alan St. Aubyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:44:21.985656+00:00"/>
+        <meta name="calibre:title_sort" content="master of St. Benedict's, Vol. 2 (of 2), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

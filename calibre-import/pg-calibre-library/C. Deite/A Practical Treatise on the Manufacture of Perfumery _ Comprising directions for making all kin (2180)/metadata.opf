@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2180</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9012e192-91a3-4012-a8a8-bf400cec1227</dc:identifier>
+        <dc:title>A Practical Treatise on the Manufacture of Perfumery / Comprising directions for making all kinds of perfumes, sachet powders, fumigating materials, dentrifices, cosmetics, etc., etc., with a full account of the volatile oils, balsams, resins, and other natural and artificial perfume-substances, including the manufacture of fruit ethers, and tests of their purity</dc:title>
+        <dc:creator opf:file-as="Deite, C. (Carl)" opf:role="aut">C. Deite</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50139</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cosmetics</dc:subject>
+        <dc:subject>Perfumes</dc:subject>
+        <dc:subject>Perfumes industry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. Deite&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:00:11.309375+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Treatise on the Manufacture of Perfumery / Comprising directions for making all kinds of perfumes, sachet powders, fumigating materials, dentrifices, cosmetics, etc., etc., with a full account of the volatile oils, balsams, resins, and other natural and artificial perfume-substances, including the manufacture of fruit ethers, and tests of their purity, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

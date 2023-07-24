@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8345b7f4-50b0-4460-833c-3e04d5a059bb</dc:identifier>
+        <dc:title>Assyrian Historiography: A Source Study</dc:title>
+        <dc:creator opf:file-as="Olmstead, A. T. (Albert Ten Eyck)" opf:role="aut">A. T. Olmstead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6559</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Assyria -- History -- Historiography</dc:subject>
+        <dc:subject>Assyria -- History -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. T. Olmstead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:57:10.562213+00:00"/>
+        <meta name="calibre:title_sort" content="Assyrian Historiography: A Source Study"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

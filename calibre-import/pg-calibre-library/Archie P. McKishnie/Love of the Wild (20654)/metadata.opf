@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14398078-ab3d-459b-820c-5a291c74dbcb</dc:identifier>
+        <dc:title>Love of the Wild</dc:title>
+        <dc:creator opf:file-as="McKishnie, Archie P." opf:role="aut">Archie P. McKishnie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49553</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Archie P. McKishnie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:28:58.176436+00:00"/>
+        <meta name="calibre:title_sort" content="Love of the Wild"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

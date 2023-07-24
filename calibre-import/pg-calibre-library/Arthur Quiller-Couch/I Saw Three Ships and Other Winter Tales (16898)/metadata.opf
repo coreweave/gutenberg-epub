@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ccd316a-99a7-4e2f-aa84-c687e5fc53b8</dc:identifier>
+        <dc:title>I Saw Three Ships and Other Winter Tales</dc:title>
+        <dc:creator opf:file-as="Quiller-Couch, Arthur" opf:role="aut">Arthur Quiller-Couch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Manners and customs -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Arthur Quiller-Couch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:15:10.532324+00:00"/>
+        <meta name="calibre:title_sort" content="I Saw Three Ships and Other Winter Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

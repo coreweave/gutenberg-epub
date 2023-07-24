@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3064385a-f84e-4a9f-afad-32f282645aa9</dc:identifier>
+        <dc:title>Standard methods for the examination of water and sewage</dc:title>
+        <dc:creator opf:file-as="American Chemical Society" opf:role="aut">American Chemical Society</dc:creator>
+        <dc:creator opf:file-as="American Chemical Society" opf:role="aut">American Public Health Association. Laboratory Section</dc:creator>
+        <dc:creator opf:file-as="American Chemical Society" opf:role="aut">Association of Official Agricultural Chemists</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61462</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Water -- Analysis</dc:subject>
+        <dc:subject>Sewage -- Analysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;American Chemical Society&quot;: &quot;&quot;, &quot;American Public Health Association. Laboratory Section&quot;: &quot;&quot;, &quot;Association of Official Agricultural Chemists&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:29:50.228814+00:00"/>
+        <meta name="calibre:title_sort" content="Standard methods for the examination of water and sewage"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

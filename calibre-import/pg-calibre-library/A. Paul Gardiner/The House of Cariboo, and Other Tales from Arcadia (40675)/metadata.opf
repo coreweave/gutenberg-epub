@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44659382-d58c-430e-904f-68f3f940bfdb</dc:identifier>
+        <dc:title>The House of Cariboo, and Other Tales from Arcadia</dc:title>
+        <dc:creator opf:file-as="Gardiner, A. Paul" opf:role="aut">A. Paul Gardiner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53220</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. Paul Gardiner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:07:04.679181+00:00"/>
+        <meta name="calibre:title_sort" content="House of Cariboo, and Other Tales from Arcadia, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
