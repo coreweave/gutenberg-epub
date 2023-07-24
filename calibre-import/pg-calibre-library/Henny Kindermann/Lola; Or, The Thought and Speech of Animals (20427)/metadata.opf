@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20427</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b87de07d-ca77-4d88-a4f3-4ec807bcfb77</dc:identifier>
+        <dc:title>Lola; Or, The Thought and Speech of Animals</dc:title>
+        <dc:creator opf:file-as="Kindermann, Henny" opf:role="aut">Henny Kindermann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Folklore</dc:subject>
+        <dc:subject>Animal intelligence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henny Kindermann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:20:17.904546+00:00"/>
+        <meta name="calibre:title_sort" content="Lola; Or, The Thought and Speech of Animals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

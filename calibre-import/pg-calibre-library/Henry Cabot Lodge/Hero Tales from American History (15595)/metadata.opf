@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78982f45-23eb-46de-a5f4-c0a19c4e7f9c</dc:identifier>
+        <dc:title>Hero Tales from American History</dc:title>
+        <dc:creator opf:file-as="Lodge, Henry Cabot" opf:role="aut">Henry Cabot Lodge</dc:creator>
+        <dc:creator opf:file-as="Lodge, Henry Cabot" opf:role="aut">Theodore Roosevelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History</dc:subject>
+        <dc:subject>United States -- Biography</dc:subject>
+        <dc:subject>National characteristics</dc:subject>
+        <dc:subject>American -- Anecdotes</dc:subject>
+        <dc:subject>Heroes -- United States -- Biography -- Anecdotes</dc:subject>
+        <dc:subject>Generals -- United States -- Biography -- Anecdotes</dc:subject>
+        <dc:subject>Pioneers -- United States -- Biography -- Anecdotes</dc:subject>
+        <dc:subject>United States -- History -- Anecdotes</dc:subject>
+        <dc:subject>United States -- Biography -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Cabot Lodge&quot;: &quot;&quot;, &quot;Theodore Roosevelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:31:45.939205+00:00"/>
+        <meta name="calibre:title_sort" content="Hero Tales from American History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

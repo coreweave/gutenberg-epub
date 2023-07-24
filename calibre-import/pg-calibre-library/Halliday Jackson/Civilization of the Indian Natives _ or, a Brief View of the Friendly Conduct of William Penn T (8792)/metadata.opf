@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9013058-31a9-43af-b425-a33d69a10914</dc:identifier>
+        <dc:title>Civilization of the Indian Natives / or, a Brief View of the Friendly Conduct of William Penn Towards Them in the Early Settlement of Pennsylvania</dc:title>
+        <dc:creator opf:file-as="Jackson, Halliday" opf:role="aut">Halliday Jackson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55063</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Missions</dc:subject>
+        <dc:subject>Indians of North America -- Pennsylvania</dc:subject>
+        <dc:subject>Seneca language -- Glossaries</dc:subject>
+        <dc:subject>vocabularies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Seneca Indians -- Missions</dc:subject>
+        <dc:subject>Society of Friends -- Missions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Halliday Jackson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:17:28.631625+00:00"/>
+        <meta name="calibre:title_sort" content="Civilization of the Indian Natives / or, a Brief View of the Friendly Conduct of William Penn Towards Them in the Early Settlement of Pennsylvania"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

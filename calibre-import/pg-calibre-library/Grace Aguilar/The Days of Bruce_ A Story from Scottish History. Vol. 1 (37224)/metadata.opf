@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9824ef68-00a9-433a-93c1-7f79d4c48abf</dc:identifier>
+        <dc:title>The Days of Bruce: A Story from Scottish History. Vol. 1</dc:title>
+        <dc:creator opf:file-as="Aguilar, Grace" opf:role="aut">Grace Aguilar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18387</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Robert I</dc:subject>
+        <dc:subject>King of Scots</dc:subject>
+        <dc:subject>1274-1329 -- Fiction</dc:subject>
+        <dc:subject>Scotland -- History -- Robert I</dc:subject>
+        <dc:subject>1306-1329 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Aguilar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:06:33.122348+00:00"/>
+        <meta name="calibre:title_sort" content="Days of Bruce: A Story from Scottish History. Vol. 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

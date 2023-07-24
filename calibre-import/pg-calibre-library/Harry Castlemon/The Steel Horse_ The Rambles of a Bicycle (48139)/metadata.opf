@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5916f206-efbb-4bf1-8f06-422cdc6513f7</dc:identifier>
+        <dc:title>The Steel Horse: The Rambles of a Bicycle</dc:title>
+        <dc:creator opf:file-as="Castlemon, Harry" opf:role="aut">Harry Castlemon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61486</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailing -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Ship captains -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>Cousins -- Juvenile fiction</dc:subject>
+        <dc:subject>Duty -- Juvenile fiction</dc:subject>
+        <dc:subject>Robbery -- Juvenile fiction</dc:subject>
+        <dc:subject>Bicycles -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Castlemon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:11:42.293460+00:00"/>
+        <meta name="calibre:title_sort" content="Steel Horse: The Rambles of a Bicycle, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

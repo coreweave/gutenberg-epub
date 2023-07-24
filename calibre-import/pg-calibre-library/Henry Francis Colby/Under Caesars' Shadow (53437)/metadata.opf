@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a4dce39-7e9a-4eb9-ab68-557dd27aaad1</dc:identifier>
+        <dc:title>Under Cæsars' Shadow</dc:title>
+        <dc:creator opf:file-as="Colby, Henry Francis" opf:role="aut">Henry Francis Colby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47806</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Emperors -- Rome -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Francis Colby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:46:24.090466+00:00"/>
+        <meta name="calibre:title_sort" content="Under Cæsars' Shadow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

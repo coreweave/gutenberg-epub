@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d13d7431-c67a-4dd3-8515-49d6ceb118fe</dc:identifier>
+        <dc:title>Charles Bradlaugh: a Record of His Life and Work, Volume 2 (of 2) / With an Account of his Parliamentary Struggle, Politics and Teachings. Seventh Edition</dc:title>
+        <dc:creator opf:file-as="Bonner, Hypatia Bradlaugh" opf:role="aut">Hypatia Bradlaugh Bonner</dc:creator>
+        <dc:creator opf:file-as="Bonner, Hypatia Bradlaugh" opf:role="aut">J. M. Robertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bradlaugh</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1833-1891</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hypatia Bradlaugh Bonner&quot;: &quot;&quot;, &quot;J. M. Robertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:04:06.325501+00:00"/>
+        <meta name="calibre:title_sort" content="Charles Bradlaugh: a Record of His Life and Work, Volume 2 (of 2) / With an Account of his Parliamentary Struggle, Politics and Teachings. Seventh Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

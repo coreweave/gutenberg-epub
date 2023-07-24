@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abef8dce-9264-4c5d-93f1-f877755789f5</dc:identifier>
+        <dc:title>My Memory of Gladstone</dc:title>
+        <dc:creator opf:file-as="Smith, Goldwin" opf:role="aut">Goldwin Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gladstone</dc:subject>
+        <dc:subject>W. E. (William Ewart)</dc:subject>
+        <dc:subject>1809-1898</dc:subject>
+        <dc:subject>Prime ministers -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Statesmen -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Goldwin Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:13:32.646481+00:00"/>
+        <meta name="calibre:title_sort" content="My Memory of Gladstone"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

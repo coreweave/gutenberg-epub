@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dca2bc93-baf0-4eaa-bb5a-c60bf87bb80e</dc:identifier>
+        <dc:title>Luther, vol. 2 of 6</dc:title>
+        <dc:creator opf:file-as="Grisar, Hartmann" opf:role="aut">Hartmann Grisar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49065</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Luther</dc:subject>
+        <dc:subject>Martin</dc:subject>
+        <dc:subject>1483-1546</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hartmann Grisar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:32:51.913375+00:00"/>
+        <meta name="calibre:title_sort" content="Luther, vol. 2 of 6"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36867</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">282a81fa-8470-426d-bd8d-5669e1f35295</dc:identifier>
+        <dc:title>The Craft of Athenian Pottery / An Investigation of the Technique of Black-Figured and Red-Figured Athenian Vases</dc:title>
+        <dc:creator opf:file-as="Richter, Gisela M. A. (Gisela Marie Augusta)" opf:role="aut">Gisela M. A. Richter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63091</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vases</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gisela M. A. Richter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:48:21.573921+00:00"/>
+        <meta name="calibre:title_sort" content="Craft of Athenian Pottery / An Investigation of the Technique of Black-Figured and Red-Figured Athenian Vases, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

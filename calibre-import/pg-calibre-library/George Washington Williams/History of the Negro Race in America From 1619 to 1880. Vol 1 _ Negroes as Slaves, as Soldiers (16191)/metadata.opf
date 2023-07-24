@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7661cc5e-4d08-4921-8558-7de9ef077b7a</dc:identifier>
+        <dc:title>History of the Negro Race in America From 1619 to 1880. Vol 1 / Negroes as Slaves, as Soldiers, and as Citizens</dc:title>
+        <dc:creator opf:file-as="Williams, George Washington" opf:role="aut">George Washington Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15735</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- History</dc:subject>
+        <dc:subject>Liberia</dc:subject>
+        <dc:subject>Sierra Leone</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Washington Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:51:27.362559+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Negro Race in America From 1619 to 1880. Vol 1 / Negroes as Slaves, as Soldiers, and as Citizens"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

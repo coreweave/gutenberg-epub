@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4915d2c5-8056-4ecd-aef9-ec2d7ec62eab</dc:identifier>
+        <dc:title>Narrative of an Expedition Through the Upper Mississippi to Itasca Lake, the Actual Source of This River / Embracing an Exploratory Trip Through the St. Croix and Burntwood (or Broule) Rivers</dc:title>
+        <dc:creator opf:file-as="Schoolcraft, Henry Rowe" opf:role="aut">Henry Rowe Schoolcraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64866</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dakota Indians</dc:subject>
+        <dc:subject>Minnesota -- Description and travel</dc:subject>
+        <dc:subject>Ojibwa Indians</dc:subject>
+        <dc:subject>Indians of North America -- Government relations</dc:subject>
+        <dc:subject>United States -- Discovery and exploration</dc:subject>
+        <dc:subject>Mississippi River -- Discovery and exploration</dc:subject>
+        <dc:subject>Natural history -- Minnesota</dc:subject>
+        <dc:subject>Ojibwa language</dc:subject>
+        <dc:subject>Saint Croix River (Wis. and Minn.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Rowe Schoolcraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:25:18.733294+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of an Expedition Through the Upper Mississippi to Itasca Lake, the Actual Source of This River / Embracing an Exploratory Trip Through the St. Croix and Burntwood (or Broule) Rivers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

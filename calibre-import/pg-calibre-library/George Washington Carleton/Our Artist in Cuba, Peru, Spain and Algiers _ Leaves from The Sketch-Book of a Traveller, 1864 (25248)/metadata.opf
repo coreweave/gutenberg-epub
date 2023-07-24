@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbc67262-11a9-4650-9880-b8284aae6671</dc:identifier>
+        <dc:title>Our Artist in Cuba, Peru, Spain and Algiers / Leaves from The Sketch-Book of a Traveller, 1864-1868</dc:title>
+        <dc:creator opf:file-as="Carleton, George Washington" opf:role="aut">George Washington Carleton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36348</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Algeria -- Social life and customs -- Pictorial works</dc:subject>
+        <dc:subject>American wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Cuba -- Social life and customs -- Pictorial works</dc:subject>
+        <dc:subject>Peru -- Social life and customs -- Pictorial works</dc:subject>
+        <dc:subject>Spain -- Social life and customs -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Washington Carleton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:38:50.640194+00:00"/>
+        <meta name="calibre:title_sort" content="Our Artist in Cuba, Peru, Spain and Algiers / Leaves from The Sketch-Book of a Traveller, 1864-1868"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

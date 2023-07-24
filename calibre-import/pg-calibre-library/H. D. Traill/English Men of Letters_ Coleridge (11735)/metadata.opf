@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e58c1c68-2c48-41d9-aa69-06842fa18cf3</dc:identifier>
+        <dc:title>English Men of Letters: Coleridge</dc:title>
+        <dc:creator opf:file-as="Traill, H. D. (Henry Duff)" opf:role="aut">H. D. Traill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6916</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Critics -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Coleridge</dc:subject>
+        <dc:subject>Samuel Taylor</dc:subject>
+        <dc:subject>1772-1834</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. D. Traill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:34:59.530837+00:00"/>
+        <meta name="calibre:title_sort" content="English Men of Letters: Coleridge"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef8ea626-486c-4d35-b04c-2f3c0ab29361</dc:identifier>
+        <dc:title>Track's End / Being the Narrative of Judson Pitcher's Strange Winter Spent There as Told by Himself and Edited by Hayden Carruth Including an Accurate Account of His Numerous Adventures, and the Facts Concerning His Several Surprising Escapes from Death Now First Printed in Full</dc:title>
+        <dc:creator opf:file-as="Carruth, Hayden" opf:role="aut">Hayden Carruth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28873</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Dakota Territory -- Fiction</dc:subject>
+        <dc:subject>Winter -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hayden Carruth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:56:28.282915+00:00"/>
+        <meta name="calibre:title_sort" content="Track's End / Being the Narrative of Judson Pitcher's Strange Winter Spent There as Told by Himself and Edited by Hayden Carruth Including an Accurate Account of His Numerous Adventures, and the Facts Concerning His Several Surprising Escapes from Death Now First Printed in Full"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

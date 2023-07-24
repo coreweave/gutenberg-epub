@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51940</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10cea776-d89c-457f-84b9-e0158dd2d931</dc:identifier>
+        <dc:title>They of the High Trails</dc:title>
+        <dc:creator opf:file-as="Garland, Hamlin" opf:role="aut">Hamlin Garland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29119</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamlin Garland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:11:07.191355+00:00"/>
+        <meta name="calibre:title_sort" content="They of the High Trails"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

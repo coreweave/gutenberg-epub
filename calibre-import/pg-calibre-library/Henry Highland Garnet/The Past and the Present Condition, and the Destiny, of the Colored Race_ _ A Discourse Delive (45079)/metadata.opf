@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f05b13c4-a921-4e6b-b60c-58aa4682e598</dc:identifier>
+        <dc:title>The Past and the Present Condition, and the Destiny, of the Colored Race: / A Discourse Delivered at the Fifteenth Anniversary of the Female Benevolent Society of Troy, N. Y., Feb. 14, 1848</dc:title>
+        <dc:creator opf:file-as="Garnet, Henry Highland" opf:role="aut">Henry Highland Garnet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58943</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans</dc:subject>
+        <dc:subject>United States -- Race relations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Highland Garnet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:12:12.965402+00:00"/>
+        <meta name="calibre:title_sort" content="Past and the Present Condition, and the Destiny, of the Colored Race: / A Discourse Delivered at the Fifteenth Anniversary of the Female Benevolent Society of Troy, N. Y., Feb. 14, 1848, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

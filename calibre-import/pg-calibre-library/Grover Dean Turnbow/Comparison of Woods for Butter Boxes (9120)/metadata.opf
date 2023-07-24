@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19fb4a56-42b0-428e-b884-77bdd63fc176</dc:identifier>
+        <dc:title>Comparison of Woods for Butter Boxes</dc:title>
+        <dc:creator opf:file-as="Turnbow, Grover Dean" opf:role="aut">Grover Dean Turnbow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67359</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Butter -- Preservation</dc:subject>
+        <dc:subject>Wooden boxes</dc:subject>
+        <dc:subject>Butter -- Packaging</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grover Dean Turnbow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:25:38.767137+00:00"/>
+        <meta name="calibre:title_sort" content="Comparison of Woods for Butter Boxes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

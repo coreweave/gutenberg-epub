@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8ff08be-2523-4b62-9dce-dac7c4c5c2c9</dc:identifier>
+        <dc:title>Ann Veronica: A Modern Love Story</dc:title>
+        <dc:creator opf:file-as="Wells, H. G. (Herbert George)" opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/524</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Feminism -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Sex role -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- Social conditions -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. G. Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:48:15.600793+00:00"/>
+        <meta name="calibre:title_sort" content="Ann Veronica: A Modern Love Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

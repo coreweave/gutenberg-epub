@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fc25c40-d728-4cb6-a32f-972448dcb0fc</dc:identifier>
+        <dc:title>To Infidelity and Back</dc:title>
+        <dc:creator opf:file-as="Lutz, Henry F. (Henry Frey)" opf:role="aut">Henry F. Lutz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7495</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lutz</dc:subject>
+        <dc:subject>Henry Frey</dc:subject>
+        <dc:subject>1868-1926 -- Biography</dc:subject>
+        <dc:subject>Restoration movement (Christianity)</dc:subject>
+        <dc:subject>Christian Churches and Churches of Christ</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry F. Lutz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:39:55.754181+00:00"/>
+        <meta name="calibre:title_sort" content="To Infidelity and Back"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74518cb6-bbae-4047-8a89-47225823eda8</dc:identifier>
+        <dc:title>A treatise on foreign teas / Abstracted from an ingenious work, lately published, entitled An essay on the nerves</dc:title>
+        <dc:creator opf:file-as="Smith, Hugh" opf:role="aut">Hugh Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tea -- Health aspects -- China</dc:subject>
+        <dc:subject>Tea -- Health aspects -- India</dc:subject>
+        <dc:subject>Tea -- Health aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugh Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:45.314753+00:00"/>
+        <meta name="calibre:title_sort" content="treatise on foreign teas / Abstracted from an ingenious work, lately published, entitled An essay on the nerves, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

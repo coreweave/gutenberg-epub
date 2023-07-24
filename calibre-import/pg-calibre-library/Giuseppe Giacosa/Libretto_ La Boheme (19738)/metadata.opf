@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">050bf0f0-f89b-4c92-89c3-ddca9fc0ff67</dc:identifier>
+        <dc:title>Libretto: La Bohème</dc:title>
+        <dc:creator opf:file-as="Giacosa, Giuseppe" opf:role="aut">Giuseppe Giacosa</dc:creator>
+        <dc:creator opf:file-as="Giacosa, Giuseppe" opf:role="aut">Luigi Illica</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13843</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Operas -- Librettos</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Giuseppe Giacosa&quot;: &quot;&quot;, &quot;Luigi Illica&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:54:41.170142+00:00"/>
+        <meta name="calibre:title_sort" content="Libretto: La Bohème"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

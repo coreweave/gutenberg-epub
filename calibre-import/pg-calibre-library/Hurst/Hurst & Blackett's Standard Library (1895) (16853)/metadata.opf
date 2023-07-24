@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ae15d95-954b-4c03-8cfc-b0bf6b7aa12e</dc:identifier>
+        <dc:title>Hurst &amp; Blackett's Standard Library (1895)</dc:title>
+        <dc:creator opf:file-as="Hurst &amp; Blackett" opf:role="aut">Hurst</dc:creator>
+        <dc:creator opf:file-as="Hurst &amp; Blackett" opf:role="aut">Blackett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57436</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Publishers' catalogs -- England -- London</dc:subject>
+        <dc:subject>Hurst &amp; Blackett -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hurst&quot;: &quot;&quot;, &quot;Blackett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:13:38.446067+00:00"/>
+        <meta name="calibre:title_sort" content="Hurst &amp; Blackett's Standard Library (1895)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

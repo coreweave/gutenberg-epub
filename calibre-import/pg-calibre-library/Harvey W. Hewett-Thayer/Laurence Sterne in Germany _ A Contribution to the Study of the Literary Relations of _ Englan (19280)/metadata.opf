@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78ebc102-7829-416d-9534-18d3db959bcf</dc:identifier>
+        <dc:title>Laurence Sterne in Germany / A Contribution to the Study of the Literary Relations of / England and Germany in the Eighteenth Century</dc:title>
+        <dc:creator opf:file-as="Hewett-Thayer, Harvey W. (Harvey Waterman)" opf:role="aut">Harvey W. Hewett-Thayer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26183</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sterne</dc:subject>
+        <dc:subject>Laurence</dc:subject>
+        <dc:subject>1713-1768 -- Appreciation -- Germany</dc:subject>
+        <dc:subject>Comparative literature -- English and German</dc:subject>
+        <dc:subject>Comparative literature -- German and English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvey W. Hewett-Thayer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:37:59.675799+00:00"/>
+        <meta name="calibre:title_sort" content="Laurence Sterne in Germany / A Contribution to the Study of the Literary Relations of / England and Germany in the Eighteenth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af9d7203-ea15-4d75-b87a-10539c75255d</dc:identifier>
+        <dc:title>The Colonization of North America, 1492-1783</dc:title>
+        <dc:creator opf:file-as="Bolton, Herbert Eugene" opf:role="aut">Herbert Eugene Bolton</dc:creator>
+        <dc:creator opf:file-as="Bolton, Herbert Eugene" opf:role="aut">Thomas Maitland Marshall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36619</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Colonies -- America</dc:subject>
+        <dc:subject>Spain -- Colonies -- America</dc:subject>
+        <dc:subject>France -- Colonies -- America</dc:subject>
+        <dc:subject>North America -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Eugene Bolton&quot;: &quot;&quot;, &quot;Thomas Maitland Marshall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:24:24.004946+00:00"/>
+        <meta name="calibre:title_sort" content="Colonization of North America, 1492-1783, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

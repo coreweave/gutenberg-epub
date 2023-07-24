@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b555393-2418-43ec-8724-c9b20e2e91bf</dc:identifier>
+        <dc:title>Red Pepper's Patients / With an Account of Anne Linton's Case in Particular</dc:title>
+        <dc:creator opf:file-as="Richmond, Grace S. (Grace Smith)" opf:role="aut">Grace S. Richmond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16115</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physicians -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace S. Richmond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:03:29.166655+00:00"/>
+        <meta name="calibre:title_sort" content="Red Pepper's Patients / With an Account of Anne Linton's Case in Particular"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

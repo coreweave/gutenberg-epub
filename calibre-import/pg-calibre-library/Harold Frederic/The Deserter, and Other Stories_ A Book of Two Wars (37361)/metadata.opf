@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8c3a3ec-51ca-47a8-b4b3-27d13cf19a5c</dc:identifier>
+        <dc:title>The Deserter, and Other Stories: A Book of Two Wars</dc:title>
+        <dc:creator opf:file-as="Frederic, Harold" opf:role="aut">Harold Frederic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44304</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Wars of the Roses</dc:subject>
+        <dc:subject>1455-1485 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Frederic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:13:34.518460+00:00"/>
+        <meta name="calibre:title_sort" content="Deserter, and Other Stories: A Book of Two Wars, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

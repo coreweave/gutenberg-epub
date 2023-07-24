@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">409b6242-16b2-4d0c-a8e1-d9533553f896</dc:identifier>
+        <dc:title>The Construction of the Small House / A Simple and Useful Source of Information of the Methods of Building Small American Homes, for Anyone Planning to Build</dc:title>
+        <dc:creator opf:file-as="Walsh, H. Vandervoort (Harold Vandervoort)" opf:role="aut">H. Vandervoort Walsh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61880</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dwellings</dc:subject>
+        <dc:subject>Building</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Vandervoort Walsh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:37:51.140443+00:00"/>
+        <meta name="calibre:title_sort" content="Construction of the Small House / A Simple and Useful Source of Information of the Methods of Building Small American Homes, for Anyone Planning to Build, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

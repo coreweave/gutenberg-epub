@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d32cc66-5457-42e5-9cff-8f037253cd9b</dc:identifier>
+        <dc:title>Rose O'Paradise</dc:title>
+        <dc:creator opf:file-as="White, Grace Miller" opf:role="aut">Grace Miller White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28462</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Poor -- Fiction</dc:subject>
+        <dc:subject>Violinists -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Miller White&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:36:41.934712+00:00"/>
+        <meta name="calibre:title_sort" content="Rose O'Paradise"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

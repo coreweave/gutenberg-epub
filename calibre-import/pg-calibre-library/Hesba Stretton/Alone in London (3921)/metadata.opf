@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3921</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">389a0118-04b5-4d5e-bdc7-8455440dfab2</dc:identifier>
+        <dc:title>Alone in London</dc:title>
+        <dc:creator opf:file-as="Stretton, Hesba" opf:role="aut">Hesba Stretton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61455</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Poor -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Death -- Juvenile fiction</dc:subject>
+        <dc:subject>Poverty -- Juvenile fiction</dc:subject>
+        <dc:subject>Grandfathers -- Juvenile fiction</dc:subject>
+        <dc:subject>Homeless children -- Juvenile fiction</dc:subject>
+        <dc:subject>Reconciliation -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Hospitals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hesba Stretton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:31:20.659340+00:00"/>
+        <meta name="calibre:title_sort" content="Alone in London"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

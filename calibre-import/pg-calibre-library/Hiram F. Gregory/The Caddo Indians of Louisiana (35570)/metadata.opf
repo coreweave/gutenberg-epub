@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f59d3e33-ac97-4028-b51d-36d99552a10a</dc:identifier>
+        <dc:title>The Caddo Indians of Louisiana</dc:title>
+        <dc:creator opf:file-as="Gregory, Hiram F." opf:role="aut">Hiram F. Gregory</dc:creator>
+        <dc:creator opf:file-as="Gregory, Hiram F." opf:role="aut">Clarence H. Webb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67235</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louisiana -- Antiquities</dc:subject>
+        <dc:subject>Caddoan Indians -- History</dc:subject>
+        <dc:subject>Caddoan Indians -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiram F. Gregory&quot;: &quot;&quot;, &quot;Clarence H. Webb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:43:02.038525+00:00"/>
+        <meta name="calibre:title_sort" content="Caddo Indians of Louisiana, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

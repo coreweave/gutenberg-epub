@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96a3c89d-7d0f-4102-996f-e58b597c3ea9</dc:identifier>
+        <dc:title>Species and Varieties, Their Origin by Mutation</dc:title>
+        <dc:creator opf:file-as="Vries, Hugo de" opf:role="aut">Hugo de Vries</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7234</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Plants -- Variation</dc:subject>
+        <dc:subject>Plant mutation</dc:subject>
+        <dc:subject>Plant hybridization</dc:subject>
+        <dc:subject>Plants -- Evolution</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugo de Vries&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:20:14.224069+00:00"/>
+        <meta name="calibre:title_sort" content="Species and Varieties, Their Origin by Mutation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

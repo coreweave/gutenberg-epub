@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e73e425d-3073-4225-bb27-03c6068ffb4f</dc:identifier>
+        <dc:title>Tactics and Duties for Trench Fighting</dc:title>
+        <dc:creator opf:file-as="Bertrand, Georges Etienne" opf:role="aut">Georges Etienne Bertrand</dc:creator>
+        <dc:creator opf:file-as="Bertrand, Georges Etienne" opf:role="aut">Oscar N. Solbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Intrenchments</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Georges Etienne Bertrand&quot;: &quot;&quot;, &quot;Oscar N. Solbert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:09:20.488379+00:00"/>
+        <meta name="calibre:title_sort" content="Tactics and Duties for Trench Fighting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">672f404b-16cb-4c58-9ba5-9fbb7fd6c866</dc:identifier>
+        <dc:title>A Succinct View of the Importance and Practicability of Forming a Ship Canal across the Isthmus of Panama</dc:title>
+        <dc:creator opf:file-as="Hill, H. R." opf:role="aut">H. R. Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29269</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Panama Canal (Panama)</dc:subject>
+        <dc:subject>Canals</dc:subject>
+        <dc:subject>Interoceanic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. R. Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:08:33.677774+00:00"/>
+        <meta name="calibre:title_sort" content="Succinct View of the Importance and Practicability of Forming a Ship Canal across the Isthmus of Panama, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

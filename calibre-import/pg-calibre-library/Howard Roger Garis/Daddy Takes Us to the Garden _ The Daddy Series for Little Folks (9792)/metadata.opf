@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb12f4ff-a0ee-4ecd-9218-33a5b9d81058</dc:identifier>
+        <dc:title>Daddy Takes Us to the Garden / The Daddy Series for Little Folks</dc:title>
+        <dc:creator opf:file-as="Garis, Howard Roger" opf:role="aut">Howard Roger Garis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14859</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fathers -- Juvenile fiction</dc:subject>
+        <dc:subject>Gardens -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Howard Roger Garis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:46.831894+00:00"/>
+        <meta name="calibre:title_sort" content="Daddy Takes Us to the Garden / The Daddy Series for Little Folks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

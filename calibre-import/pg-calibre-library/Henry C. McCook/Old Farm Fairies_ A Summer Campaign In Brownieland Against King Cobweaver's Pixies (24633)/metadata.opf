@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ae8cb96-3c93-4b36-ac21-65344ae4fe61</dc:identifier>
+        <dc:title>Old Farm Fairies: A Summer Campaign In Brownieland Against King Cobweaver's Pixies</dc:title>
+        <dc:creator opf:file-as="McCook, Henry C. (Henry Christopher)" opf:role="aut">Henry C. McCook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33994</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Insects -- Juvenile literature</dc:subject>
+        <dc:subject>Spiders -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry C. McCook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:13:09.140019+00:00"/>
+        <meta name="calibre:title_sort" content="Old Farm Fairies: A Summer Campaign In Brownieland Against King Cobweaver's Pixies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

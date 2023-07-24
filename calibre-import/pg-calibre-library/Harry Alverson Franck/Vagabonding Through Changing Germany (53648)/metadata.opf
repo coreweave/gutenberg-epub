@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd47aad9-101e-44f2-9f7f-50451f271e75</dc:identifier>
+        <dc:title>Vagabonding Through Changing Germany</dc:title>
+        <dc:creator opf:file-as="Franck, Harry Alverson" opf:role="aut">Harry Alverson Franck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58139</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germany -- Description and travel</dc:subject>
+        <dc:subject>Germany -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Alverson Franck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:59:54.452675+00:00"/>
+        <meta name="calibre:title_sort" content="Vagabonding Through Changing Germany"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

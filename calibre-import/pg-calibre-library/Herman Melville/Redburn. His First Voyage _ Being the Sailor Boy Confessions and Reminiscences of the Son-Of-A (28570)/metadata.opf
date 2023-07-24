@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">188a2637-6e72-4cbf-bf0b-7c0e8cf6c522</dc:identifier>
+        <dc:title>Redburn. His First Voyage / Being the Sailor Boy Confessions and Reminiscences of the Son-Of-A-Gentleman in the Merchant Navy</dc:title>
+        <dc:creator opf:file-as="Melville, Herman" opf:role="aut">Herman Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Autobiographical fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Americans -- England -- Fiction</dc:subject>
+        <dc:subject>Sailors -- Fiction</dc:subject>
+        <dc:subject>Seafaring life -- Fiction</dc:subject>
+        <dc:subject>Merchant mariners -- Fiction</dc:subject>
+        <dc:subject>Liverpool (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herman Melville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:04:33.964859+00:00"/>
+        <meta name="calibre:title_sort" content="Redburn. His First Voyage / Being the Sailor Boy Confessions and Reminiscences of the Son-Of-A-Gentleman in the Merchant Navy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

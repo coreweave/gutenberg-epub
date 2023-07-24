@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d974e59-8f6a-4063-8681-915a25125f00</dc:identifier>
+        <dc:title>Mardi: and A Voyage Thither, Vol. I</dc:title>
+        <dc:creator opf:file-as="Melville, Herman" opf:role="aut">Herman Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13720</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Polynesia -- Description and travel -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herman Melville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:46:33.614624+00:00"/>
+        <meta name="calibre:title_sort" content="Mardi: and A Voyage Thither, Vol. I"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">402a0e4e-ae0c-4991-8765-c83960692bd3</dc:identifier>
+        <dc:title>Lost Farm Camp</dc:title>
+        <dc:creator opf:file-as="Knibbs, Henry Herbert" opf:role="aut">Henry Herbert Knibbs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35034</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maine -- Fiction</dc:subject>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Logging -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Herbert Knibbs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:25:14.439208+00:00"/>
+        <meta name="calibre:title_sort" content="Lost Farm Camp"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

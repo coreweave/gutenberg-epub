@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e90bada-dc39-4a86-87d9-3d7bc4264485</dc:identifier>
+        <dc:title>The Girls of Central High on Track and Field / Or, The Champions of the School League</dc:title>
+        <dc:creator opf:file-as="Morrison, Gertrude W." opf:role="aut">Gertrude W. Morrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34749</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>High school students -- Juvenile fiction</dc:subject>
+        <dc:subject>Mystery and detective stories</dc:subject>
+        <dc:subject>Romanies -- Juvenile fiction</dc:subject>
+        <dc:subject>Competition -- Juvenile fiction</dc:subject>
+        <dc:subject>Track and field for women -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gertrude W. Morrison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:54:54.869067+00:00"/>
+        <meta name="calibre:title_sort" content="Girls of Central High on Track and Field / Or, The Champions of the School League, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

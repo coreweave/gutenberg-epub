@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d513bec-d302-42e5-ab9f-934e3a1f5cc7</dc:identifier>
+        <dc:title>The Boys' Nelson</dc:title>
+        <dc:creator opf:file-as="Wheeler, Harold" opf:role="aut">Harold Wheeler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nelson</dc:subject>
+        <dc:subject>Horatio Nelson</dc:subject>
+        <dc:subject>Viscount</dc:subject>
+        <dc:subject>1758-1805</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Wheeler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:28:41.845064+00:00"/>
+        <meta name="calibre:title_sort" content="Boys' Nelson, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

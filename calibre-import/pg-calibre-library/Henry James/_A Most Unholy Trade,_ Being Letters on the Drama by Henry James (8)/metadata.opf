@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b8e4498-c6ce-4605-b79f-09c5d6086d6f</dc:identifier>
+        <dc:title>"A Most Unholy Trade," Being Letters on the Drama by Henry James</dc:title>
+        <dc:creator opf:file-as="James, Henry" opf:role="aut">Henry James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Correspondence</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1843-1916 -- Correspondence</dc:subject>
+        <dc:subject>Ibsen</dc:subject>
+        <dc:subject>Henrik</dc:subject>
+        <dc:subject>1828-1906. Lille Eyolf</dc:subject>
+        <dc:subject>Heinemann</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1863-1920 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:26:16.879365+00:00"/>
+        <meta name="calibre:title_sort" content="Most Unholy Trade,&quot; Being Letters on the Drama by Henry James, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

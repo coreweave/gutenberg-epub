@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f21a6f3-5713-4114-bf39-9e707e702458</dc:identifier>
+        <dc:title>Journal of my journey over the mountains / while surveying for Lord Thomas Fairfax, baron of Cameron, in the northern neck of Virginia, beyond the Blue Ridge, in 1747-8.</dc:title>
+        <dc:creator opf:file-as="Washington, George" opf:role="aut">George Washington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52395</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Virginia -- Description and travel -- Early works to 1800</dc:subject>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799 -- Travel -- Shenandoah River Valley (Va. and W. Va.)</dc:subject>
+        <dc:subject>1732-1799 -- Diaries</dc:subject>
+        <dc:subject>Shenandoah River Valley (Va. and W. Va.) -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Washington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:15:03.605692+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of my journey over the mountains / while surveying for Lord Thomas Fairfax, baron of Cameron, in the northern neck of Virginia, beyond the Blue Ridge, in 1747-8."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

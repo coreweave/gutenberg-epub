@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5a87fb3-833c-44b3-9aff-ad12b8f6bcbe</dc:identifier>
+        <dc:title>Hocus Pocus; or The Whole Art of Legerdemain, in Perfection. / By which the meanest capacity may perform the whole without the help of a teacher. Together with the Use of all the Instruments belonging thereto.</dc:title>
+        <dc:creator opf:file-as="Dean, Henry" opf:role="aut">Henry Dean</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Magic tricks -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Dean&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:56:44.794241+00:00"/>
+        <meta name="calibre:title_sort" content="Hocus Pocus; or The Whole Art of Legerdemain, in Perfection. / By which the meanest capacity may perform the whole without the help of a teacher. Together with the Use of all the Instruments belonging thereto."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

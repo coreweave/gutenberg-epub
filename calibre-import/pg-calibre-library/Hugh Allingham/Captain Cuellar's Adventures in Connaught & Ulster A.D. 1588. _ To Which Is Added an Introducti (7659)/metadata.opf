@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8701ca4-4251-4d52-857d-72587a936c0d</dc:identifier>
+        <dc:title>Captain Cuellar's Adventures in Connaught &amp; Ulster A.D. 1588. / To Which Is Added an Introduction and Complete Translation of Captain Cuellar's Narrative of the Spanish Armada and His Adventures in Ireland</dc:title>
+        <dc:creator opf:file-as="Allingham, Hugh" opf:role="aut">Hugh Allingham</dc:creator>
+        <dc:creator opf:file-as="Allingham, Hugh" opf:role="aut">active 16th century Francisco de Cuellar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52472</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Armada</dc:subject>
+        <dc:subject>1588</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugh Allingham&quot;: &quot;&quot;, &quot;active 16th century Francisco de Cuellar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:50:09.414206+00:00"/>
+        <meta name="calibre:title_sort" content="Captain Cuellar's Adventures in Connaught &amp; Ulster A.D. 1588. / To Which Is Added an Introduction and Complete Translation of Captain Cuellar's Narrative of the Spanish Armada and His Adventures in Ireland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

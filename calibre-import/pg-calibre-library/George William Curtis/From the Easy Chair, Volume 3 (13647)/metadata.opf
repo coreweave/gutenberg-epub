@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a0c0adf-6e87-4a1e-8721-fa4b138e0562</dc:identifier>
+        <dc:title>From the Easy Chair, Volume 3</dc:title>
+        <dc:creator opf:file-as="Curtis, George William" opf:role="aut">George William Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36090</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American essays</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George William Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:30:06.535772+00:00"/>
+        <meta name="calibre:title_sort" content="From the Easy Chair, Volume 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

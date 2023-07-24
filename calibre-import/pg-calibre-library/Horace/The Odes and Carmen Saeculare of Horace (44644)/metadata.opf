@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f74eedd-35af-4105-a4ea-81644ba7a4fe</dc:identifier>
+        <dc:title>The Odes and Carmen Saeculare of Horace</dc:title>
+        <dc:creator opf:file-as="Horace" opf:role="aut">Horace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5432</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horace -- Translations into English</dc:subject>
+        <dc:subject>Laudatory poetry</dc:subject>
+        <dc:subject>Latin -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Horace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:47:31.270151+00:00"/>
+        <meta name="calibre:title_sort" content="Odes and Carmen Saeculare of Horace, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

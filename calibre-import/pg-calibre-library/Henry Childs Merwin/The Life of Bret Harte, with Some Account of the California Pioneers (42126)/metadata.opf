@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5ca1d6a-6c4a-482a-b6c1-b7756397507b</dc:identifier>
+        <dc:title>The Life of Bret Harte, with Some Account of the California Pioneers</dc:title>
+        <dc:creator opf:file-as="Merwin, Henry Childs" opf:role="aut">Henry Childs Merwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34940</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harte</dc:subject>
+        <dc:subject>Bret</dc:subject>
+        <dc:subject>1836-1902</dc:subject>
+        <dc:subject>Frontier and pioneer life -- California</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Western stories -- Authorship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Childs Merwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:26:31.111273+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Bret Harte, with Some Account of the California Pioneers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37951</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">986e1502-0899-40bc-9190-a3258e092526</dc:identifier>
+        <dc:title>The Empty Sleeve / or, The Life and Hardships of Henry H. Meacham, in the Union Army</dc:title>
+        <dc:creator opf:file-as="Meacham, Henry H." opf:role="aut">Henry H. Meacham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35578</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry H. Meacham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:44:02.322190+00:00"/>
+        <meta name="calibre:title_sort" content="Empty Sleeve / or, The Life and Hardships of Henry H. Meacham, in the Union Army, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

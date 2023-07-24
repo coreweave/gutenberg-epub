@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e4abe62-5c47-4f45-96f4-383cff9379c4</dc:identifier>
+        <dc:title>Joseph Andrews, Vol. 1</dc:title>
+        <dc:creator opf:file-as="Fielding, Henry" opf:role="aut">Henry Fielding</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9611</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Clergy -- Fiction</dc:subject>
+        <dc:subject>Male friendship -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <dc:subject>Household employees -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Fielding&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:12:01.613685+00:00"/>
+        <meta name="calibre:title_sort" content="Joseph Andrews, Vol. 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ace46af3-bc92-4fd6-bd15-f0666e4a07f5</dc:identifier>
+        <dc:title>A manual on the origin and development of Washington</dc:title>
+        <dc:creator opf:file-as="Caemmerer, H. Paul (Hans Paul)" opf:role="aut">H. Paul Caemmerer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69827</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Washington (D.C.) -- History</dc:subject>
+        <dc:subject>Washington (D.C.) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Paul Caemmerer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:50.516950+00:00"/>
+        <meta name="calibre:title_sort" content="manual on the origin and development of Washington, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

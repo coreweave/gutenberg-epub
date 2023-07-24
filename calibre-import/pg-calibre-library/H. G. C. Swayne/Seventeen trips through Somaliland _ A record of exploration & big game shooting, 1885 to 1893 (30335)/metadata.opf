@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a641c103-f490-440d-ba8f-f4480cbd7186</dc:identifier>
+        <dc:title>Seventeen trips through Somáliland / A record of exploration &amp; big game shooting, 1885 to 1893</dc:title>
+        <dc:creator opf:file-as="Swayne, H. G. C. (Harald G. C.)" opf:role="aut">H. G. C. Swayne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57907</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethiopia -- Description and travel</dc:subject>
+        <dc:subject>Horn of Africa -- Description and travel</dc:subject>
+        <dc:subject>Hunting -- Horn of Africa</dc:subject>
+        <dc:subject>Swayne</dc:subject>
+        <dc:subject>H. G. C. (Harald G. C.)</dc:subject>
+        <dc:subject>1860-1940</dc:subject>
+        <dc:subject>Ethnology -- Horn of Africa</dc:subject>
+        <dc:subject>Zoology -- Horn of Africa</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. G. C. Swayne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:27:49.441799+00:00"/>
+        <meta name="calibre:title_sort" content="Seventeen trips through Somáliland / A record of exploration &amp; big game shooting, 1885 to 1893"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25880</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4248607-98c3-48b3-964a-d5278f42843a</dc:identifier>
+        <dc:title>Pearl-Maiden: A Tale of the Fall of Jerusalem</dc:title>
+        <dc:creator opf:file-as="Haggard, H. Rider (Henry Rider)" opf:role="aut">H. Rider Haggard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5175</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Jerusalem -- History -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Rider Haggard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:05:42.389690+00:00"/>
+        <meta name="calibre:title_sort" content="Pearl-Maiden: A Tale of the Fall of Jerusalem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">383db56e-b1ae-47c2-b0f1-008d46692c87</dc:identifier>
+        <dc:title>Jean Cabot at Ashton</dc:title>
+        <dc:creator opf:file-as="Scott, Gertrude Fisher" opf:role="aut">Gertrude Fisher Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53548</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>College stories</dc:subject>
+        <dc:subject>Women college students -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gertrude Fisher Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:00:50.144050+00:00"/>
+        <meta name="calibre:title_sort" content="Jean Cabot at Ashton"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">829f7292-49f6-4e62-bcaa-6ee60cc19a50</dc:identifier>
+        <dc:title>My Life: or the Adventures of Geo. Thompson / Being the Auto-Biography of an Author. Written by Himself.</dc:title>
+        <dc:creator opf:file-as="Thompson, George" opf:role="aut">George Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28635</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Thompson</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1823-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Thompson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:12:34.424160+00:00"/>
+        <meta name="calibre:title_sort" content="My Life: or the Adventures of Geo. Thompson / Being the Auto-Biography of an Author. Written by Himself."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

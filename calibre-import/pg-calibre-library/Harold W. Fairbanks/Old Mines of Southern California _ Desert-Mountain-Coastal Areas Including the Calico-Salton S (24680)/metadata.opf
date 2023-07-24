@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14fbf2d7-c7d5-42d3-a61c-bb9c31c6438e</dc:identifier>
+        <dc:title>Old Mines of Southern California / Desert-Mountain-Coastal Areas Including the Calico-Salton Sea Colorado River Districts and Southern Counties</dc:title>
+        <dc:creator opf:file-as="Fairbanks, Harold W. (Harold Wellman)" opf:role="aut">Harold W. Fairbanks</dc:creator>
+        <dc:creator opf:file-as="Fairbanks, Harold W. (Harold Wellman)" opf:role="aut">William H. Storms</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56478</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mines and mineral resources -- California</dc:subject>
+        <dc:subject>Southern</dc:subject>
+        <dc:subject>Geology -- California</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold W. Fairbanks&quot;: &quot;&quot;, &quot;William H. Storms&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:15:05.557215+00:00"/>
+        <meta name="calibre:title_sort" content="Old Mines of Southern California / Desert-Mountain-Coastal Areas Including the Calico-Salton Sea Colorado River Districts and Southern Counties"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

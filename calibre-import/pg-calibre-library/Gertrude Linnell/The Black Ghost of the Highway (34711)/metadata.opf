@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d24536e-1e6d-4016-8de2-9b1f72b4e874</dc:identifier>
+        <dc:title>The Black Ghost of the Highway</dc:title>
+        <dc:creator opf:file-as="Linnell, Gertrude" opf:role="aut">Gertrude Linnell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55242</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Kings and rulers -- Fiction</dc:subject>
+        <dc:subject>Americans -- Europe -- Fiction</dc:subject>
+        <dc:subject>Automobile travel -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gertrude Linnell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:00:17.749465+00:00"/>
+        <meta name="calibre:title_sort" content="Black Ghost of the Highway, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

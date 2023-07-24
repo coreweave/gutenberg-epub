@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">805db080-bcbe-46dd-a5b4-8a76900b7989</dc:identifier>
+        <dc:title>The Grateful Dead: The History of a Folk Story</dc:title>
+        <dc:creator opf:file-as="Gerould, Gordon Hall" opf:role="aut">Gordon Hall Gerould</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Grateful dead (Tale)</dc:subject>
+        <dc:subject>Dead -- Folklore</dc:subject>
+        <dc:subject>Folk literature -- Themes</dc:subject>
+        <dc:subject>motives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gordon Hall Gerould&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:08:48.698482+00:00"/>
+        <meta name="calibre:title_sort" content="Grateful Dead: The History of a Folk Story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

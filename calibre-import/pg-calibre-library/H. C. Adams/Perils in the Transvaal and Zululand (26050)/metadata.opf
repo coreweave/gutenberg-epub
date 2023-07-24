@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26050</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3b8cbb6-a96d-4a35-bd47-0d6a34534389</dc:identifier>
+        <dc:title>Perils in the Transvaal and Zululand</dc:title>
+        <dc:creator opf:file-as="Adams, H. C. (Henry Cadwallader)" opf:role="aut">H. C. Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38175</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zulu War</dc:subject>
+        <dc:subject>1879 -- Juvenile fiction</dc:subject>
+        <dc:subject>British -- South Africa -- Juvenile fiction</dc:subject>
+        <dc:subject>South Africa -- Description and travel -- Juvenile fiction</dc:subject>
+        <dc:subject>South Africa -- English-Afrikaner relations -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. C. Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:12:51.785055+00:00"/>
+        <meta name="calibre:title_sort" content="Perils in the Transvaal and Zululand"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

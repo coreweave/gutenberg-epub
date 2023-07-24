@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40abbb19-19e7-4ba6-a549-d443184f6c1b</dc:identifier>
+        <dc:title>Slim Evans and His Horse Lightning</dc:title>
+        <dc:creator opf:file-as="Dean, Graham M." opf:role="aut">Graham M. Dean</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Horses -- Juvenile fiction</dc:subject>
+        <dc:subject>Cowboys -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Graham M. Dean&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:57:05.694393+00:00"/>
+        <meta name="calibre:title_sort" content="Slim Evans and His Horse Lightning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

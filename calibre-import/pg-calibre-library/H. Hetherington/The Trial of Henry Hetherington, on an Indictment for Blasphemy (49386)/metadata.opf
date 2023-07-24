@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a635130-710e-4076-ab3a-d2c3843d2eb4</dc:identifier>
+        <dc:title>The Trial of Henry Hetherington, on an Indictment for Blasphemy</dc:title>
+        <dc:creator opf:file-as="Hetherington, H. (Henry)" opf:role="aut">H. Hetherington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hetherington</dc:subject>
+        <dc:subject>H. (Henry)</dc:subject>
+        <dc:subject>1792-1849 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Trials (Blasphemy) -- England -- London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Hetherington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:28:14.005555+00:00"/>
+        <meta name="calibre:title_sort" content="Trial of Henry Hetherington, on an Indictment for Blasphemy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

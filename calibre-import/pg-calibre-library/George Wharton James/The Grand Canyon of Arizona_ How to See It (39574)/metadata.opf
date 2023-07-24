@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39574</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3d403b9-8f42-40ce-94c7-9e06f276c9c0</dc:identifier>
+        <dc:title>The Grand Canyon of Arizona: How to See It</dc:title>
+        <dc:creator opf:file-as="James, George Wharton" opf:role="aut">George Wharton James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2394</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Grand Canyon (Ariz.) -- Description and travel</dc:subject>
+        <dc:subject>Arizona -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Wharton James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:08:12.364370+00:00"/>
+        <meta name="calibre:title_sort" content="Grand Canyon of Arizona: How to See It, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

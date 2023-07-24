@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a12d0ddf-67ed-4abc-b439-d009f861ae37</dc:identifier>
+        <dc:title>The Story of Wellington</dc:title>
+        <dc:creator opf:file-as="Wheeler, Harold" opf:role="aut">Harold Wheeler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50434</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Military -- 19th century</dc:subject>
+        <dc:subject>Wellington</dc:subject>
+        <dc:subject>Arthur Wellesley</dc:subject>
+        <dc:subject>Duke of</dc:subject>
+        <dc:subject>1769-1852</dc:subject>
+        <dc:subject>Statesmen -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Wheeler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:25:46.242176+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Wellington, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

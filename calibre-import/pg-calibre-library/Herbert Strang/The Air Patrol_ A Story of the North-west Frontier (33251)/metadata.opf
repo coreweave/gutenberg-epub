@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf5f6e51-2b08-457a-abff-dd61f42c744c</dc:identifier>
+        <dc:title>The Air Patrol: A Story of the North-west Frontier</dc:title>
+        <dc:creator opf:file-as="Strang, Herbert" opf:role="aut">Herbert Strang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42417</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>British -- India -- Juvenile fiction</dc:subject>
+        <dc:subject>Airplanes -- Juvenile fiction</dc:subject>
+        <dc:subject>Imaginary wars and battles -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Strang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:48:34.929325+00:00"/>
+        <meta name="calibre:title_sort" content="Air Patrol: A Story of the North-west Frontier, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

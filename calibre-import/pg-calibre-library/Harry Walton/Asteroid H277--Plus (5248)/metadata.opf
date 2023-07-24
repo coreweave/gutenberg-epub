@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74f76b02-349b-41bb-bff3-35f23cde1df7</dc:identifier>
+        <dc:title>Asteroid H277—Plus</dc:title>
+        <dc:creator opf:file-as="Walton, Harry" opf:role="aut">Harry Walton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61766</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Space ships -- Fiction</dc:subject>
+        <dc:subject>Asteroids -- Fiction</dc:subject>
+        <dc:subject>Space pirates -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Walton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:57:11.829013+00:00"/>
+        <meta name="calibre:title_sort" content="Asteroid H277—Plus"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

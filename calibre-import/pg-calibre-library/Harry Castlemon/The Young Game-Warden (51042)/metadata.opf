@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51042</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f43a9b44-5d21-434e-9290-0bc2356326cf</dc:identifier>
+        <dc:title>The Young Game-Warden</dc:title>
+        <dc:creator opf:file-as="Castlemon, Harry" opf:role="aut">Harry Castlemon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62866</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Brothers -- Juvenile fiction</dc:subject>
+        <dc:subject>Fathers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Diligence -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunters -- Juvenile fiction</dc:subject>
+        <dc:subject>Theft -- Juvenile fiction</dc:subject>
+        <dc:subject>Poachers -- Juvenile fiction</dc:subject>
+        <dc:subject>Laziness -- Juvenile fiction</dc:subject>
+        <dc:subject>Game wardens -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Castlemon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:12:17.233532+00:00"/>
+        <meta name="calibre:title_sort" content="Young Game-Warden, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

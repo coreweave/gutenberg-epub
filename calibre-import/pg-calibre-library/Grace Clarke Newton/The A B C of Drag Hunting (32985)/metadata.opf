@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7e88b90-e37f-4b44-a6b6-088f0b3140c0</dc:identifier>
+        <dc:title>The A B C of Drag Hunting</dc:title>
+        <dc:creator opf:file-as="Newton, Grace Clarke" opf:role="aut">Grace Clarke Newton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34159</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alphabet rhymes</dc:subject>
+        <dc:subject>Hunt riding -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Clarke Newton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:35:31.290505+00:00"/>
+        <meta name="calibre:title_sort" content="A B C of Drag Hunting, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

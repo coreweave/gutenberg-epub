@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42272</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9ab996b-7a87-4052-8ce7-c34fa58b2243</dc:identifier>
+        <dc:title>The Life of Sophia Jex-Blake</dc:title>
+        <dc:creator opf:file-as="Travers, Graham" opf:role="aut">Graham Travers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54215</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jex-Blake</dc:subject>
+        <dc:subject>Sophia</dc:subject>
+        <dc:subject>1840-1912</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Graham Travers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:34:37.817739+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Sophia Jex-Blake, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

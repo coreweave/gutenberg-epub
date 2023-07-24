@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">922a9fd8-9566-45ad-b522-03b3fd6fd9ca</dc:identifier>
+        <dc:title>Letters from a Cat / Published by Her Mistress for the Benefit of All Cats and the Amusement of Little Children</dc:title>
+        <dc:creator opf:file-as="Jackson, Helen Hunt" opf:role="aut">Helen Hunt Jackson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32069</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pets -- Juvenile literature</dc:subject>
+        <dc:subject>Cats -- Juvenile literature</dc:subject>
+        <dc:subject>Euthanasia of animals -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen Hunt Jackson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:49:07.217180+00:00"/>
+        <meta name="calibre:title_sort" content="Letters from a Cat / Published by Her Mistress for the Benefit of All Cats and the Amusement of Little Children"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

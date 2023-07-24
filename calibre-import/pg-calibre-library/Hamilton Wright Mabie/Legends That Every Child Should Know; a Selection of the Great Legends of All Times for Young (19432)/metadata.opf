@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cbd62a3-d7a2-4dae-b685-401c5be5b18b</dc:identifier>
+        <dc:title>Legends That Every Child Should Know; a Selection of the Great Legends of All Times for Young People</dc:title>
+        <dc:creator opf:file-as="Mabie, Hamilton Wright" opf:role="aut">Hamilton Wright Mabie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6622</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- England</dc:subject>
+        <dc:subject>Folklore -- Germany</dc:subject>
+        <dc:subject>Folklore -- Scandinavia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamilton Wright Mabie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:43:33.825138+00:00"/>
+        <meta name="calibre:title_sort" content="Legends That Every Child Should Know; a Selection of the Great Legends of All Times for Young People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

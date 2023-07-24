@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12220e29-2c0e-41cd-be7a-4bb5a0e9e0a6</dc:identifier>
+        <dc:title>The Duke Of Chimney Butte</dc:title>
+        <dc:creator opf:file-as="Ogden, George W. (George Washington)" opf:role="aut">George W. Ogden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29748</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Cowboys -- Fiction</dc:subject>
+        <dc:subject>Badlands (S.D. and Neb.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George W. Ogden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:32:05.243089+00:00"/>
+        <meta name="calibre:title_sort" content="Duke Of Chimney Butte, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

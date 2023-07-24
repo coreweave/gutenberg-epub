@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">865e253b-7e34-49d3-a4c2-09715fc845ca</dc:identifier>
+        <dc:title>Ten Thousand Dreams Interpreted; Or, What's in a Dream / A Scientific and Practical Exposition</dc:title>
+        <dc:creator opf:file-as="Miller, Gustavus Hindman" opf:role="aut">Gustavus Hindman Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/926</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dreams -- Dictionaries</dc:subject>
+        <dc:subject>Dream interpretation</dc:subject>
+        <dc:subject>Dreams</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gustavus Hindman Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:26:06.965500+00:00"/>
+        <meta name="calibre:title_sort" content="Ten Thousand Dreams Interpreted; Or, What's in a Dream / A Scientific and Practical Exposition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

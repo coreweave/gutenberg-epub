@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e047ef6f-02c9-4f56-a8d2-b3c2adb6f34e</dc:identifier>
+        <dc:title>Boon, The Mind of the Race, The Wild Asses of the Devil, and The Last Trump; / Being a First Selection from the Literary Remains of George Boon, Appropriate to the Times</dc:title>
+        <dc:creator opf:file-as="Wells, H. G. (Herbert George)" opf:role="aut">H. G. Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34962</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>English fiction -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. G. Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:31:33.878469+00:00"/>
+        <meta name="calibre:title_sort" content="Boon, The Mind of the Race, The Wild Asses of the Devil, and The Last Trump; / Being a First Selection from the Literary Remains of George Boon, Appropriate to the Times"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

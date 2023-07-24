@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65349a1a-424d-4c80-bd1a-d7662fa668ae</dc:identifier>
+        <dc:title>Ecological Observations on the Woodrat, Neotoma floridana</dc:title>
+        <dc:creator opf:file-as="Fitch, Henry S. (Henry Sheldon)" opf:role="aut">Henry S. Fitch</dc:creator>
+        <dc:creator opf:file-as="Fitch, Henry S. (Henry Sheldon)" opf:role="aut">Dennis G. Rainey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33566</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wood rats</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry S. Fitch&quot;: &quot;&quot;, &quot;Dennis G. Rainey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:20:22.589546+00:00"/>
+        <meta name="calibre:title_sort" content="Ecological Observations on the Woodrat, Neotoma floridana"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

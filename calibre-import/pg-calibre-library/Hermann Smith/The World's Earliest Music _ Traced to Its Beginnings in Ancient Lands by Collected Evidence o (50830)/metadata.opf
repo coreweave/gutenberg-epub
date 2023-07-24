@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50830</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">866280fc-2233-4feb-b947-1df0d7c423b1</dc:identifier>
+        <dc:title>The World's Earliest Music / Traced to Its Beginnings in Ancient Lands by Collected Evidence of Relics, Records, History, and Musical Instruments from Greece, Etruria, Egypt, China, Through Asyria and Babylonia, to the Primitive Home, the Land of Akkad and Sumer</dc:title>
+        <dc:creator opf:file-as="Smith, Hermann" opf:role="aut">Hermann Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53039</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music -- To 500 -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hermann Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:58:57.578392+00:00"/>
+        <meta name="calibre:title_sort" content="World's Earliest Music / Traced to Its Beginnings in Ancient Lands by Collected Evidence of Relics, Records, History, and Musical Instruments from Greece, Etruria, Egypt, China, Through Asyria and Babylonia, to the Primitive Home, the Land of Akkad and Sumer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

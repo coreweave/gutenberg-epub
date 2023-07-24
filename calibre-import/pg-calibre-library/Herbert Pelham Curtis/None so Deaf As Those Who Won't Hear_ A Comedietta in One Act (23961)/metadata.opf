@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ee02209-f313-44fe-88a6-78bf49f21ed0</dc:identifier>
+        <dc:title>None so Deaf As Those Who Won't Hear: A Comedietta in One Act</dc:title>
+        <dc:creator opf:file-as="Curtis, Herbert Pelham" opf:role="aut">Herbert Pelham Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43536</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American drama -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Pelham Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:44:27.374558+00:00"/>
+        <meta name="calibre:title_sort" content="None so Deaf As Those Who Won't Hear: A Comedietta in One Act"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

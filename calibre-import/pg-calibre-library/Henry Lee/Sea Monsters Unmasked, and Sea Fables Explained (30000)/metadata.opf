@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30000</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02f88c49-ac91-4d33-9325-afa94a6ee639</dc:identifier>
+        <dc:title>Sea Monsters Unmasked, and Sea Fables Explained</dc:title>
+        <dc:creator opf:file-as="Lee, Henry" opf:role="aut">Henry Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36677</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marine animals</dc:subject>
+        <dc:subject>Cephalopoda</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:10:40.831231+00:00"/>
+        <meta name="calibre:title_sort" content="Sea Monsters Unmasked, and Sea Fables Explained"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

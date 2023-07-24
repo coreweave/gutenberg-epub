@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11c68383-a727-4aeb-bb47-88c082bf873d</dc:identifier>
+        <dc:title>The Radio Boys Rescue the Lost Alaska Expedition</dc:title>
+        <dc:creator opf:file-as="Breckenridge, Gerald" opf:role="aut">Gerald Breckenridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36314</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Radio -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gerald Breckenridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:18:41.900257+00:00"/>
+        <meta name="calibre:title_sort" content="Radio Boys Rescue the Lost Alaska Expedition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20629bd6-9923-4fc0-b8e3-8728e406ff53</dc:identifier>
+        <dc:title>The Fall of the Moghul Empire of Hindustan</dc:title>
+        <dc:creator opf:file-as="Keene, H. G. (Henry George)" opf:role="aut">H. G. Keene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1470</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- 18th century</dc:subject>
+        <dc:subject>Mogul Empire -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. G. Keene&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:05:13.213947+00:00"/>
+        <meta name="calibre:title_sort" content="Fall of the Moghul Empire of Hindustan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

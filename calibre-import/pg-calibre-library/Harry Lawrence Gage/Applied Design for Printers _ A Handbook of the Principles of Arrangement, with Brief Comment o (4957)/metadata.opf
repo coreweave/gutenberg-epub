@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62344871-567e-4883-bd6b-c9c550b79fbe</dc:identifier>
+        <dc:title>Applied Design for Printers / A Handbook of the Principles of Arrangement, with Brief Comment on the Periods of Design Which Have Most Strongly Influenced Printing</dc:title>
+        <dc:creator opf:file-as="Gage, Harry Lawrence" opf:role="aut">Harry Lawrence Gage</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30804</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Book ornamentation</dc:subject>
+        <dc:subject>Graphic design (Typography)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Lawrence Gage&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:51:21.709362+00:00"/>
+        <meta name="calibre:title_sort" content="Applied Design for Printers / A Handbook of the Principles of Arrangement, with Brief Comment on the Periods of Design Which Have Most Strongly Influenced Printing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

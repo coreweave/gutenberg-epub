@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6745403e-261e-4b5e-a83e-120abe09703b</dc:identifier>
+        <dc:title>President Heber C. Kimball's Journal / Seventh Book of the Faith-Promoting Series. Designed for the Instruction and Encouragement of Young Latter-day Saints</dc:title>
+        <dc:creator opf:file-as="Kimball, Heber C. (Heber Chase)" opf:role="aut">Heber C. Kimball</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47519</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormon Church -- Missions -- Great Britain</dc:subject>
+        <dc:subject>Kimball</dc:subject>
+        <dc:subject>Heber C. (Heber Chase)</dc:subject>
+        <dc:subject>1801-1868 -- Diaries</dc:subject>
+        <dc:subject>Mormons -- Great Britain</dc:subject>
+        <dc:subject>Mormons -- Missionary experiences</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Heber C. Kimball&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:00:05.360842+00:00"/>
+        <meta name="calibre:title_sort" content="President Heber C. Kimball's Journal / Seventh Book of the Faith-Promoting Series. Designed for the Instruction and Encouragement of Young Latter-day Saints"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

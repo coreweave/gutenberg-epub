@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">906435e4-7eda-4c81-b194-8f1198ef85be</dc:identifier>
+        <dc:title>Randolph Caldecott: A Personal Memoir of His Early Art Career</dc:title>
+        <dc:creator opf:file-as="Blackburn, Henry" opf:role="aut">Henry Blackburn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caldecott</dc:subject>
+        <dc:subject>Randolph</dc:subject>
+        <dc:subject>1846-1886</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Blackburn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:55:09.969855+00:00"/>
+        <meta name="calibre:title_sort" content="Randolph Caldecott: A Personal Memoir of His Early Art Career"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

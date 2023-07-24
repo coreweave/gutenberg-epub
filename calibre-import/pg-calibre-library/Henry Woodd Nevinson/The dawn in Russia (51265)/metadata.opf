@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9fa5ea4-d537-46b8-a17a-a8a005108742</dc:identifier>
+        <dc:title>The dawn in Russia</dc:title>
+        <dc:creator opf:file-as="Nevinson, Henry Woodd" opf:role="aut">Henry Woodd Nevinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69996</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Russia -- History -- Nicholas II</dc:subject>
+        <dc:subject>1894-1917</dc:subject>
+        <dc:subject>Russia -- Politics and government -- 1894-1917</dc:subject>
+        <dc:subject>Russia -- Social conditions -- 1801-1917</dc:subject>
+        <dc:subject>Russia -- History -- Revolution</dc:subject>
+        <dc:subject>1905-1907</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Woodd Nevinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:27:13.593014+00:00"/>
+        <meta name="calibre:title_sort" content="dawn in Russia, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

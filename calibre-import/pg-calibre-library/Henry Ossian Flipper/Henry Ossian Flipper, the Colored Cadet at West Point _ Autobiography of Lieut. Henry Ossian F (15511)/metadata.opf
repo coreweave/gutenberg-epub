@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68fc983e-33f6-4514-870b-b40933331e6a</dc:identifier>
+        <dc:title>Henry Ossian Flipper, the Colored Cadet at West Point / Autobiography of Lieut. Henry Ossian Flipper, U.S.A., First Graduate of Color from the U.S. Military Academy</dc:title>
+        <dc:creator opf:file-as="Flipper, Henry Ossian" opf:role="aut">Henry Ossian Flipper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2448</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States Military Academy</dc:subject>
+        <dc:subject>Soldiers -- United States -- Biography</dc:subject>
+        <dc:subject>Flipper</dc:subject>
+        <dc:subject>Henry Ossian</dc:subject>
+        <dc:subject>1856-1940</dc:subject>
+        <dc:subject>African American military cadets -- New York (State) -- West Point -- Biography</dc:subject>
+        <dc:subject>Military cadets -- United States -- Biography</dc:subject>
+        <dc:subject>African American soldiers -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Ossian Flipper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:29:04.378442+00:00"/>
+        <meta name="calibre:title_sort" content="Henry Ossian Flipper, the Colored Cadet at West Point / Autobiography of Lieut. Henry Ossian Flipper, U.S.A., First Graduate of Color from the U.S. Military Academy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

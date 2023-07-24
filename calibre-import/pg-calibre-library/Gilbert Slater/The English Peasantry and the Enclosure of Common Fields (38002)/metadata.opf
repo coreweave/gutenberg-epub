@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38002</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aae25445-9fd4-44a9-aae0-67ee5cdd0e37</dc:identifier>
+        <dc:title>The English Peasantry and the Enclosure of Common Fields</dc:title>
+        <dc:creator opf:file-as="Slater, Gilbert" opf:role="aut">Gilbert Slater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55643</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inclosures</dc:subject>
+        <dc:subject>Village communities -- Great Britain</dc:subject>
+        <dc:subject>Peasants -- England</dc:subject>
+        <dc:subject>Agriculture -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gilbert Slater&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:46:40.800431+00:00"/>
+        <meta name="calibre:title_sort" content="English Peasantry and the Enclosure of Common Fields, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

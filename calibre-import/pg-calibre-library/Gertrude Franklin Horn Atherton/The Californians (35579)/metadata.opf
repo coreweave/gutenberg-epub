@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35579</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e94e7475-a20b-4268-874b-1cbf853f7a98</dc:identifier>
+        <dc:title>The Californians</dc:title>
+        <dc:creator opf:file-as="Atherton, Gertrude Franklin Horn" opf:role="aut">Gertrude Franklin Horn Atherton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21903</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Upper class -- Fiction</dc:subject>
+        <dc:subject>California -- Fiction</dc:subject>
+        <dc:subject>San Francisco (Calif.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gertrude Franklin Horn Atherton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:43:26.809773+00:00"/>
+        <meta name="calibre:title_sort" content="Californians, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

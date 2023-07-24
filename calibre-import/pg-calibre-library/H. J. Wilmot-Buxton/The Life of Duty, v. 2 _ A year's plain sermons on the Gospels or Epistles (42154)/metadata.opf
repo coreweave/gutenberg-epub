@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b39b2ebb-8e99-4a6f-8b0d-ced68d3b87af</dc:identifier>
+        <dc:title>The Life of Duty, v. 2 / A year's plain sermons on the Gospels or Epistles</dc:title>
+        <dc:creator opf:file-as="Wilmot-Buxton, H. J. (Harry John)" opf:role="aut">H. J. Wilmot-Buxton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22075</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Bible. Epistles -- Commentaries</dc:subject>
+        <dc:subject>Bible. Gospels -- Commentaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. J. Wilmot-Buxton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:28:03.913555+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Duty, v. 2 / A year's plain sermons on the Gospels or Epistles, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

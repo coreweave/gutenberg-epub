@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b36b095f-08ab-41a1-8785-f6bcaa26104f</dc:identifier>
+        <dc:title>Alhalla, or the Lord of Talladega: A Tale of the Creek War. / With Some Selected Miscellanies, Chiefly of Early Date.</dc:title>
+        <dc:creator opf:file-as="Schoolcraft, Henry Rowe" opf:role="aut">Henry Rowe Schoolcraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56368</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry -- 19th century</dc:subject>
+        <dc:subject>Creek War</dc:subject>
+        <dc:subject>1813-1814 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Rowe Schoolcraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:29:04.734001+00:00"/>
+        <meta name="calibre:title_sort" content="Alhalla, or the Lord of Talladega: A Tale of the Creek War. / With Some Selected Miscellanies, Chiefly of Early Date."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

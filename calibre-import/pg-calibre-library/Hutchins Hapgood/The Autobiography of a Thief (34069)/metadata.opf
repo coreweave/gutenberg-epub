@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9c56784-b934-47a5-a3d2-8900ba6fcab6</dc:identifier>
+        <dc:title>The Autobiography of a Thief</dc:title>
+        <dc:creator opf:file-as="Hapgood, Hutchins" opf:role="aut">Hutchins Hapgood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45169</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thieves</dc:subject>
+        <dc:subject>Hapgood</dc:subject>
+        <dc:subject>Hutchins</dc:subject>
+        <dc:subject>1869-1944</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hutchins Hapgood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:28:44.028471+00:00"/>
+        <meta name="calibre:title_sort" content="Autobiography of a Thief, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

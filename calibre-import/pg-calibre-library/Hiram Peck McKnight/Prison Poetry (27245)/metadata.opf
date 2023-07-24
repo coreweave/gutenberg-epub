@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72e2c392-a16c-43a3-a113-c84f5904f49e</dc:identifier>
+        <dc:title>Prison Poetry</dc:title>
+        <dc:creator opf:file-as="McKnight, Hiram Peck" opf:role="aut">Hiram Peck McKnight</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45674</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Imprisonment -- Poetry</dc:subject>
+        <dc:subject>Prisoners -- Poetry</dc:subject>
+        <dc:subject>Prisons -- Poetry</dc:subject>
+        <dc:subject>Prisoners' writings</dc:subject>
+        <dc:subject>American -- Ohio -- Columbus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiram Peck McKnight&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:05:23.812179+00:00"/>
+        <meta name="calibre:title_sort" content="Prison Poetry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

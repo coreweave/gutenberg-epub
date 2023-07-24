@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66d53eda-5feb-4f7b-a2ab-dff87712f3f9</dc:identifier>
+        <dc:title>Cyrus Hall McCormick: His Life and Work</dc:title>
+        <dc:creator opf:file-as="Casson, Herbert Newton" opf:role="aut">Herbert Newton Casson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41953</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harvesting machinery</dc:subject>
+        <dc:subject>McCormick</dc:subject>
+        <dc:subject>Cyrus Hall</dc:subject>
+        <dc:subject>1809-1884</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Newton Casson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:10.397075+00:00"/>
+        <meta name="calibre:title_sort" content="Cyrus Hall McCormick: His Life and Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

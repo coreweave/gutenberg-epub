@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2289e694-3515-46bc-bfc2-3d6c10a15e4e</dc:identifier>
+        <dc:title>Chapters of Opera / Being historical and critical observations and records concerning the lyric drama in New York from its earliest days down to the present time</dc:title>
+        <dc:creator opf:file-as="Krehbiel, Henry Edward" opf:role="aut">Henry Edward Krehbiel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5995</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Opera -- New York (State) -- New York</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Edward Krehbiel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:03:21.199916+00:00"/>
+        <meta name="calibre:title_sort" content="Chapters of Opera / Being historical and critical observations and records concerning the lyric drama in New York from its earliest days down to the present time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

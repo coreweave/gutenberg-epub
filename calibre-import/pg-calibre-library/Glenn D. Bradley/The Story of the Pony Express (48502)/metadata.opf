@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28cdd3a9-6e66-4f1d-a062-a3bc989949da</dc:identifier>
+        <dc:title>The Story of the Pony Express</dc:title>
+        <dc:creator opf:file-as="Bradley, Glenn D. (Glenn Danford)" opf:role="aut">Glenn D. Bradley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4671</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pony express</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Glenn D. Bradley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:33:22.913603+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the Pony Express, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

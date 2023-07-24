@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1826166-e2a2-4938-bd2c-b8ac52f2db38</dc:identifier>
+        <dc:title>Zigzag Journeys in Northern Lands; / The Rhine to the Arctic; A Summer Trip of the Zigzag Club Through Holland, Germany, Denmark, Norway, and Sweden</dc:title>
+        <dc:creator opf:file-as="Butterworth, Hezekiah" opf:role="aut">Hezekiah Butterworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28915</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Clubs -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hezekiah Butterworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:15:38.247223+00:00"/>
+        <meta name="calibre:title_sort" content="Zigzag Journeys in Northern Lands; / The Rhine to the Arctic; A Summer Trip of the Zigzag Club Through Holland, Germany, Denmark, Norway, and Sweden"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

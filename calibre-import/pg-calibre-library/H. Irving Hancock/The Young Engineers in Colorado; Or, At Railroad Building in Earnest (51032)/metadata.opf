@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51032</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78c73cb2-8330-4b6d-862a-71b268218215</dc:identifier>
+        <dc:title>The Young Engineers in Colorado; Or, At Railroad Building in Earnest</dc:title>
+        <dc:creator opf:file-as="Hancock, H. Irving (Harrie Irving)" opf:role="aut">H. Irving Hancock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12734</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Colorado -- Juvenile fiction</dc:subject>
+        <dc:subject>Civil engineers -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Irving Hancock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:11:37.765512+00:00"/>
+        <meta name="calibre:title_sort" content="Young Engineers in Colorado; Or, At Railroad Building in Earnest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

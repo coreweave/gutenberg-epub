@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed3d93a8-0387-4d75-bcf1-b5974adb172e</dc:identifier>
+        <dc:title>The Better Germany in War Time: Being Some Facts Towards Fellowship</dc:title>
+        <dc:creator opf:file-as="Picton, Harold W. (Harold Williams)" opf:role="aut">Harold W. Picton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Hospitals</dc:subject>
+        <dc:subject>charities</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>1914-1918 -- Prisoners and prisons</dc:subject>
+        <dc:subject>German</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold W. Picton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:46:43.271379+00:00"/>
+        <meta name="calibre:title_sort" content="Better Germany in War Time: Being Some Facts Towards Fellowship, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

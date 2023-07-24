@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6340be8-c69d-49bb-9ae7-77e21ac4ef9d</dc:identifier>
+        <dc:title>The Real Diary of a Real Boy</dc:title>
+        <dc:creator opf:file-as="Shute, Henry A. (Henry Augustus)" opf:role="aut">Henry A. Shute</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5111</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Diary fiction</dc:subject>
+        <dc:subject>Boys -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry A. Shute&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:25:12.735224+00:00"/>
+        <meta name="calibre:title_sort" content="Real Diary of a Real Boy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

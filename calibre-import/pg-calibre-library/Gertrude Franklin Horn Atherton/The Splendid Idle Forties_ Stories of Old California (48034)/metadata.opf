@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48034</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">526a6788-abf4-4508-8827-d6ea133f7b0f</dc:identifier>
+        <dc:title>The Splendid Idle Forties: Stories of Old California</dc:title>
+        <dc:creator opf:file-as="Atherton, Gertrude Franklin Horn" opf:role="aut">Gertrude Franklin Horn Atherton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12697</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>California -- History -- To 1846 -- Fiction</dc:subject>
+        <dc:subject>Spaniards -- California -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gertrude Franklin Horn Atherton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:05:21.199748+00:00"/>
+        <meta name="calibre:title_sort" content="Splendid Idle Forties: Stories of Old California, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44944</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">254481be-1e02-41f0-a8f7-2dd87fb4c215</dc:identifier>
+        <dc:title>The Oxford Circus: A Novel of Oxford and Youth</dc:title>
+        <dc:creator opf:file-as="Miles, Hamish" opf:role="aut">Hamish Miles</dc:creator>
+        <dc:creator opf:file-as="Miles, Hamish" opf:role="aut">Raymond Mortimer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50358</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>College stories</dc:subject>
+        <dc:subject>University of Oxford -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamish Miles&quot;: &quot;&quot;, &quot;Raymond Mortimer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:04:30.532972+00:00"/>
+        <meta name="calibre:title_sort" content="Oxford Circus: A Novel of Oxford and Youth, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

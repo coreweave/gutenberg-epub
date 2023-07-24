@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97bd95d6-2b2a-4835-ba6e-a79afa8bc00f</dc:identifier>
+        <dc:title>The Sea and the Jungle</dc:title>
+        <dc:creator opf:file-as="Tomlinson, H. M. (Henry Major)" opf:role="aut">H. M. Tomlinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37205</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amazon River -- Description and travel</dc:subject>
+        <dc:subject>Tomlinson</dc:subject>
+        <dc:subject>H. M. (Henry Major)</dc:subject>
+        <dc:subject>1873-1958 -- Travel -- Amazon River Region</dc:subject>
+        <dc:subject>1873-1958 -- Diaries</dc:subject>
+        <dc:subject>Capella (Ship)</dc:subject>
+        <dc:subject>Wilderness areas -- Amazon River Region</dc:subject>
+        <dc:subject>Ocean travel -- History -- 20th century</dc:subject>
+        <dc:subject>Amazon River Region -- Description and travel</dc:subject>
+        <dc:subject>Madeira River (Brazil and Bolivia) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. M. Tomlinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:20:02.530039+00:00"/>
+        <meta name="calibre:title_sort" content="Sea and the Jungle, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

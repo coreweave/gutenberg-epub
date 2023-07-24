@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e059f5c7-b23b-4dfe-b2e9-ed4c4a99f1eb</dc:identifier>
+        <dc:title>The Boy Traders; Or, The Sportsman's Club Among the Boers</dc:title>
+        <dc:creator opf:file-as="Castlemon, Harry" opf:role="aut">Harry Castlemon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56868</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Ships -- Juvenile fiction</dc:subject>
+        <dc:subject>Afrikaners -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Castlemon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:25:34.323506+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Traders; Or, The Sportsman's Club Among the Boers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92aaebc1-1ac0-4b08-bc68-c887808f9664</dc:identifier>
+        <dc:title>The Campaign of Marengo, With Comments</dc:title>
+        <dc:creator opf:file-as="Sargent, Herbert H. (Herbert Howland)" opf:role="aut">Herbert H. Sargent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61320</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marengo</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Italy</dc:subject>
+        <dc:subject>1800</dc:subject>
+        <dc:subject>Napoleonic Wars</dc:subject>
+        <dc:subject>1800-1815 -- Campaigns -- Italy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert H. Sargent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:47:06.492742+00:00"/>
+        <meta name="calibre:title_sort" content="Campaign of Marengo, With Comments, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

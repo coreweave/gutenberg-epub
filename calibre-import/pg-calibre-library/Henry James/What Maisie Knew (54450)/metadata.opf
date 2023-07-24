@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68fa365b-0b22-41fb-82d9-7e57545e5775</dc:identifier>
+        <dc:title>What Maisie Knew</dc:title>
+        <dc:creator opf:file-as="James, Henry" opf:role="aut">Henry James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Governesses -- Fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Girls -- Fiction</dc:subject>
+        <dc:subject>Remarried people -- Fiction</dc:subject>
+        <dc:subject>Children of divorced parents -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:51:51.281309+00:00"/>
+        <meta name="calibre:title_sort" content="What Maisie Knew"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

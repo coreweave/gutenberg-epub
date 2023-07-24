@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4790eb71-2be8-42a0-8911-cfdebb281a90</dc:identifier>
+        <dc:title>Working North from Patagonia / Being the Narrative of a Journey, Earned on the Way, Through Southern and Eastern South America</dc:title>
+        <dc:creator opf:file-as="Franck, Harry Alverson" opf:role="aut">Harry Alverson Franck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55455</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South America -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Alverson Franck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:55:15.546269+00:00"/>
+        <meta name="calibre:title_sort" content="Working North from Patagonia / Being the Narrative of a Journey, Earned on the Way, Through Southern and Eastern South America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

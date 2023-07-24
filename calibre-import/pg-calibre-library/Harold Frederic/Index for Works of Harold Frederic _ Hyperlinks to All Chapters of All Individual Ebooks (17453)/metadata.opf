@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">078b9757-4dcc-4f98-8d1f-9b5a5d2cd868</dc:identifier>
+        <dc:title>Index for Works of Harold Frederic / Hyperlinks to All Chapters of All Individual Ebooks</dc:title>
+        <dc:creator opf:file-as="Frederic, Harold" opf:role="aut">Harold Frederic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57537</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indexes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Frederic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:34:05.114607+00:00"/>
+        <meta name="calibre:title_sort" content="Index for Works of Harold Frederic / Hyperlinks to All Chapters of All Individual Ebooks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

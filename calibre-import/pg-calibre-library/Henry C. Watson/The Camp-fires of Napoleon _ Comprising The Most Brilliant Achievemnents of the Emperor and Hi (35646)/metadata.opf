@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cec3d398-eb06-49c0-ba5e-976acbcb3cc3</dc:identifier>
+        <dc:title>The Camp-fires of Napoleon / Comprising The Most Brilliant Achievemnents of the Emperor and His Marshals</dc:title>
+        <dc:creator opf:file-as="Watson, Henry C. (Henry Clay)" opf:role="aut">Henry C. Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- 1789-1815</dc:subject>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Military leadership</dc:subject>
+        <dc:subject>1769-1821 -- Relations with marshals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry C. Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:46:42.461146+00:00"/>
+        <meta name="calibre:title_sort" content="Camp-fires of Napoleon / Comprising The Most Brilliant Achievemnents of the Emperor and His Marshals, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

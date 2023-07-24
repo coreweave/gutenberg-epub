@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8143b92-28c9-4924-be74-74ca774d64b4</dc:identifier>
+        <dc:title>The awakening</dc:title>
+        <dc:creator opf:file-as="Bordeaux, Henry" opf:role="aut">Henry Bordeaux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70440</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>French fiction -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Bordeaux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:20:23.717401+00:00"/>
+        <meta name="calibre:title_sort" content="awakening, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

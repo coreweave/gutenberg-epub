@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">882837a6-af0d-4756-9ee5-168af47d2e35</dc:identifier>
+        <dc:title>Proportional Representation Applied to Party Government: A New Electoral System</dc:title>
+        <dc:creator opf:file-as="Ashworth, Henry‏" opf:role="aut">Henry‏ Ashworth</dc:creator>
+        <dc:creator opf:file-as="Ashworth, Henry‏" opf:role="aut">T. R. Ashworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14459</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Representative government and representation</dc:subject>
+        <dc:subject>Proportional representation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry‏ Ashworth&quot;: &quot;&quot;, &quot;T. R. Ashworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:09:55.084441+00:00"/>
+        <meta name="calibre:title_sort" content="Proportional Representation Applied to Party Government: A New Electoral System"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

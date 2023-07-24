@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85685450-bf78-48ac-8a78-25b00b9e2ae1</dc:identifier>
+        <dc:title>Aviation Book</dc:title>
+        <dc:creator opf:file-as="Davis, Haywood Leslie" opf:role="aut">Haywood Leslie Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62472</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aeronautics -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Haywood Leslie Davis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:03:50.577742+00:00"/>
+        <meta name="calibre:title_sort" content="Aviation Book"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

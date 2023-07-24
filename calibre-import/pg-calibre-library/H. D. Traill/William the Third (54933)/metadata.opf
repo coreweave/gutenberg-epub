@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54933</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9bbbc30-f42d-4bfc-b6c7-1852c0667312</dc:identifier>
+        <dc:title>William the Third</dc:title>
+        <dc:creator opf:file-as="Traill, H. D. (Henry Duff)" opf:role="aut">H. D. Traill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36895</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- William and Mary</dc:subject>
+        <dc:subject>1689-1702</dc:subject>
+        <dc:subject>William III</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1650-1702</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. D. Traill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:23:46.675532+00:00"/>
+        <meta name="calibre:title_sort" content="William the Third"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

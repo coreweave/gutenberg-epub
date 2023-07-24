@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c9d1342-0f60-4169-ad62-9b899c3030bf</dc:identifier>
+        <dc:title>Frank Before Vicksburg / The Gun-Boat Series</dc:title>
+        <dc:creator opf:file-as="Castlemon, Harry" opf:role="aut">Harry Castlemon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42099</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Vicksburg (Miss.) -- History -- Siege</dc:subject>
+        <dc:subject>1863 -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth and death -- Juvenile fiction</dc:subject>
+        <dc:subject>Naval battles -- Juvenile fiction</dc:subject>
+        <dc:subject>Gunboats -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Castlemon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:20:19.659636+00:00"/>
+        <meta name="calibre:title_sort" content="Frank Before Vicksburg / The Gun-Boat Series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

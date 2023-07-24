@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7d5e35d-c467-497c-a902-362bcd5d1d54</dc:identifier>
+        <dc:title>Plunkitt of Tammany Hall: a series of very plain talks on very practical politics, delivered by ex-Senator George Washington Plunkitt, the Tammany philosopher, from his rostrum—the New York County court house bootblack stand; Recorded by William L. Riordon</dc:title>
+        <dc:creator opf:file-as="Plunkitt, George Washington" opf:role="aut">George Washington Plunkitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plunkitt</dc:subject>
+        <dc:subject>George Washington</dc:subject>
+        <dc:subject>1842-1924</dc:subject>
+        <dc:subject>Tammany Hall</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Washington Plunkitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:37:04.677965+00:00"/>
+        <meta name="calibre:title_sort" content="Plunkitt of Tammany Hall: a series of very plain talks on very practical politics, delivered by ex-Senator George Washington Plunkitt, the Tammany philosopher, from his rostrum—the New York County court house bootblack stand; Recorded by William L. Riordon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

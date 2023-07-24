@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20690559-3604-4c61-a254-078226affa1d</dc:identifier>
+        <dc:title>Old Clinkers: A Story of the New York Fire Department</dc:title>
+        <dc:creator opf:file-as="O'Higgins, Harvey Jerrold" opf:role="aut">Harvey Jerrold O'Higgins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56439</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Fire fighters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvey Jerrold O'Higgins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:12:05.016673+00:00"/>
+        <meta name="calibre:title_sort" content="Old Clinkers: A Story of the New York Fire Department"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

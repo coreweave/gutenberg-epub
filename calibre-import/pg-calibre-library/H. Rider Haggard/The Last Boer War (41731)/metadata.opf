@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac9ad342-e8b9-4e67-afcd-5dca9841a156</dc:identifier>
+        <dc:title>The Last Boer War</dc:title>
+        <dc:creator opf:file-as="Haggard, H. Rider (Henry Rider)" opf:role="aut">H. Rider Haggard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44649</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Transvaal (South Africa) -- History -- War of 1880-1881</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Rider Haggard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:04:45.905092+00:00"/>
+        <meta name="calibre:title_sort" content="Last Boer War, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

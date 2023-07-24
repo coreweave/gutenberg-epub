@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4052d310-5407-41d1-8433-5962590d3665</dc:identifier>
+        <dc:title>On the Equator</dc:title>
+        <dc:creator opf:file-as="De Windt, Harry" opf:role="aut">Harry De Windt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27503</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Java (Indonesia) -- Description and travel</dc:subject>
+        <dc:subject>Sarawak (Malaysia) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry De Windt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:24:05.709329+00:00"/>
+        <meta name="calibre:title_sort" content="On the Equator"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

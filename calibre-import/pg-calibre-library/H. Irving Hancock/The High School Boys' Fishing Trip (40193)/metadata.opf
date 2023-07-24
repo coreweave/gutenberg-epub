@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bffe345-d7dd-4b58-8402-29f1c8ae1852</dc:identifier>
+        <dc:title>The High School Boys' Fishing Trip</dc:title>
+        <dc:creator opf:file-as="Hancock, H. Irving (Harrie Irving)" opf:role="aut">H. Irving Hancock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12730</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fishing -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Irving Hancock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:40:55.523321+00:00"/>
+        <meta name="calibre:title_sort" content="High School Boys' Fishing Trip, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8d6eed5-926c-438d-91bf-948bd6e7c386</dc:identifier>
+        <dc:title>The White Morning: A Novel of the Power of the German Women in Wartime</dc:title>
+        <dc:creator opf:file-as="Atherton, Gertrude Franklin Horn" opf:role="aut">Gertrude Franklin Horn Atherton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13496</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Germany -- Fiction</dc:subject>
+        <dc:subject>Germany -- History -- Revolution</dc:subject>
+        <dc:subject>1918 -- Fiction</dc:subject>
+        <dc:subject>Women -- Germany -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gertrude Franklin Horn Atherton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:20:55.864573+00:00"/>
+        <meta name="calibre:title_sort" content="White Morning: A Novel of the Power of the German Women in Wartime, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

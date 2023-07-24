@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4da6d4d1-a7d1-46cc-a6bd-24d743b41334</dc:identifier>
+        <dc:title>The Middleton Place Privy House / An Archeological View of Nineteenth Century Plantation Life</dc:title>
+        <dc:creator opf:file-as="Haskell, Helen" opf:role="aut">Helen Haskell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Excavations (Archaeology) -- South Carolina -- Dorchester County</dc:subject>
+        <dc:subject>Middleton Place (S.C.)</dc:subject>
+        <dc:subject>Dorchester County (S.C.) -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen Haskell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:43:43.305342+00:00"/>
+        <meta name="calibre:title_sort" content="Middleton Place Privy House / An Archeological View of Nineteenth Century Plantation Life, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

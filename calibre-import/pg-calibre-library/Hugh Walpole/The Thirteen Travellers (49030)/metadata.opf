@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af76c5d3-f1ca-4223-a8cd-1d8a1f096378</dc:identifier>
+        <dc:title>The Thirteen Travellers</dc:title>
+        <dc:creator opf:file-as="Walpole, Hugh" opf:role="aut">Hugh Walpole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60278</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>English fiction -- 20th century</dc:subject>
+        <dc:subject>London (England) -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Apartment houses -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugh Walpole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:05:15.404899+00:00"/>
+        <meta name="calibre:title_sort" content="Thirteen Travellers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

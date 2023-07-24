@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b9717c7-4286-4a77-8d83-67fd8614d699</dc:identifier>
+        <dc:title>In the Days When the World Was Wide, and Other Verses</dc:title>
+        <dc:creator opf:file-as="Lawson, Henry" opf:role="aut">Henry Lawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/214</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Australia -- Poetry</dc:subject>
+        <dc:subject>Australian poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Lawson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:27:45.281480+00:00"/>
+        <meta name="calibre:title_sort" content="In the Days When the World Was Wide, and Other Verses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

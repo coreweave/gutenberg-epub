@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b74df965-5de4-45b7-aca6-473fda283b7e</dc:identifier>
+        <dc:title>Ocean Gardens. The History of the Marine Aquarium / and the best methods now adopted for its establishment and preservation.</dc:title>
+        <dc:creator opf:file-as="Humphreys, Henry Noel" opf:role="aut">Henry Noel Humphreys</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53409</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aquariums</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Noel Humphreys&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:08:25.583710+00:00"/>
+        <meta name="calibre:title_sort" content="Ocean Gardens. The History of the Marine Aquarium / and the best methods now adopted for its establishment and preservation."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

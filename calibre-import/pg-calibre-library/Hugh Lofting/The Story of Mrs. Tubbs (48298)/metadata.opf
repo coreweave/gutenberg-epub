@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f224742-9444-40e3-aab0-214bf3a36170</dc:identifier>
+        <dc:title>The Story of Mrs. Tubbs</dc:title>
+        <dc:creator opf:file-as="Lofting, Hugh" opf:role="aut">Hugh Lofting</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64225</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Older women -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugh Lofting&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:21:08.604548+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Mrs. Tubbs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

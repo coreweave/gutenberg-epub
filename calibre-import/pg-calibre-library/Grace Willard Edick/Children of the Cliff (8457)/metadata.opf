@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4caa4ca2-22d2-43af-9acd-d0f9872aca46</dc:identifier>
+        <dc:title>Children of the Cliff</dc:title>
+        <dc:creator opf:file-as="Edick, Grace Willard" opf:role="aut">Grace Willard Edick</dc:creator>
+        <dc:creator opf:file-as="Edick, Grace Willard" opf:role="aut">Belle Wiley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58550</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Readers</dc:subject>
+        <dc:subject>Indians of North America -- Juvenile fiction</dc:subject>
+        <dc:subject>Readers -- Geography</dc:subject>
+        <dc:subject>Indian children -- North America -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Willard Edick&quot;: &quot;&quot;, &quot;Belle Wiley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:09:09.795338+00:00"/>
+        <meta name="calibre:title_sort" content="Children of the Cliff"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

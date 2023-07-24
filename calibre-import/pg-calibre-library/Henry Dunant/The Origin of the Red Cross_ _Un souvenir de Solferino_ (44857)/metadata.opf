@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44857</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42376049-778e-4066-8ea4-248fec7cd227</dc:identifier>
+        <dc:title>The Origin of the Red Cross: "Un souvenir de Solferino"</dc:title>
+        <dc:creator opf:file-as="Dunant, Henry" opf:role="aut">Henry Dunant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50968</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Red Cross and Red Crescent</dc:subject>
+        <dc:subject>Solferino</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Italy</dc:subject>
+        <dc:subject>1859</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Dunant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:59:27.502873+00:00"/>
+        <meta name="calibre:title_sort" content="Origin of the Red Cross: &quot;Un souvenir de Solferino&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

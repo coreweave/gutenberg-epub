@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54918</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ff963d8-9b55-468e-a882-0beb393a95dd</dc:identifier>
+        <dc:title>William Shakespeare as He Lived: An Historical Tale</dc:title>
+        <dc:creator opf:file-as="Curling, Henry" opf:role="aut">Henry Curling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34796</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Curling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:22:45.614552+00:00"/>
+        <meta name="calibre:title_sort" content="William Shakespeare as He Lived: An Historical Tale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">261f0da4-c291-4d88-9455-244f023a37b3</dc:identifier>
+        <dc:title>A Key to Uncle Tom's Cabin / Presenting the original facts and documents upon which the story is founded. Together with corroborative statements verifying the truth of the work.</dc:title>
+        <dc:creator opf:file-as="Stowe, Harriet Beecher" opf:role="aut">Harriet Beecher Stowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54812</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Uncle Tom (Fictitious character)</dc:subject>
+        <dc:subject>Slaves -- United States -- Social conditions</dc:subject>
+        <dc:subject>Stowe</dc:subject>
+        <dc:subject>Harriet Beecher</dc:subject>
+        <dc:subject>1811-1896. Uncle Tom's cabin -- Sources</dc:subject>
+        <dc:subject>Literature and society -- United States -- History -- 19th century</dc:subject>
+        <dc:subject>Political fiction -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harriet Beecher Stowe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:48:53.142725+00:00"/>
+        <meta name="calibre:title_sort" content="Key to Uncle Tom's Cabin / Presenting the original facts and documents upon which the story is founded. Together with corroborative statements verifying the truth of the work., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f673753d-0565-46da-aba9-ba6d7cdaea4c</dc:identifier>
+        <dc:title>Animal Carvings from Mounds of the Mississippi Valley / Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-81, Government Printing Office, Washington, 1883, pages 117-166</dc:title>
+        <dc:creator opf:file-as="Henshaw, Henry W. (Henry Wetherbee)" opf:role="aut">Henry W. Henshaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18184</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mounds -- Mississippi River Valley</dc:subject>
+        <dc:subject>Mound-builders -- Art</dc:subject>
+        <dc:subject>Indians of North America -- Mississippi River Valley -- Antiquities</dc:subject>
+        <dc:subject>Mississippi River Valley -- Antiquities</dc:subject>
+        <dc:subject>Animal sculpture -- Mississippi River Valley</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry W. Henshaw&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:47:43.952069+00:00"/>
+        <meta name="calibre:title_sort" content="Animal Carvings from Mounds of the Mississippi Valley / Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-81, Government Printing Office, Washington, 1883, pages 117-166"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

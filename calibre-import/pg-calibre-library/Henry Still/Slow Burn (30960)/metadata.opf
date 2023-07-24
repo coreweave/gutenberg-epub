@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30960</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57763b18-33e8-4359-961b-8ad288982d61</dc:identifier>
+        <dc:title>Slow Burn</dc:title>
+        <dc:creator opf:file-as="Still, Henry" opf:role="aut">Henry Still</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59345</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Space flight to the moon -- Fiction</dc:subject>
+        <dc:subject>Space stations -- Fiction</dc:subject>
+        <dc:subject>Sabotage -- Fiction</dc:subject>
+        <dc:subject>Legislators -- United States -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Still&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:57:19.488508+00:00"/>
+        <meta name="calibre:title_sort" content="Slow Burn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

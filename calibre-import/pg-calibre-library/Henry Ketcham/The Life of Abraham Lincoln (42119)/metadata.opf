@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ff85e32-0981-4f65-b507-ee689a4ab83f</dc:identifier>
+        <dc:title>The Life of Abraham Lincoln</dc:title>
+        <dc:creator opf:file-as="Ketcham, Henry" opf:role="aut">Henry Ketcham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6811</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865</dc:subject>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1861-1865</dc:subject>
+        <dc:subject>1809-1865 -- Family</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Ketcham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:26:07.651549+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Abraham Lincoln, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

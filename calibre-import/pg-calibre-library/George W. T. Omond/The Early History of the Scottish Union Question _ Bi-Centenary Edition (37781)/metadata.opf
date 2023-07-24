@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37781</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74fa4e6f-ef44-459b-9afb-6674941d235b</dc:identifier>
+        <dc:title>The Early History of the Scottish Union Question / Bi-Centenary Edition</dc:title>
+        <dc:creator opf:file-as="Omond, George W. T. (George William Thomson)" opf:role="aut">George W. T. Omond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40931</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scotland -- Foreign relations -- England</dc:subject>
+        <dc:subject>England -- Foreign relations -- Scotland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George W. T. Omond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:35:19.827116+00:00"/>
+        <meta name="calibre:title_sort" content="Early History of the Scottish Union Question / Bi-Centenary Edition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

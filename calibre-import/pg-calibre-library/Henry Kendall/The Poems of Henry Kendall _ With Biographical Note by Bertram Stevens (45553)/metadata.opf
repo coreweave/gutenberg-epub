@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fbc63ee-4568-4bf6-876a-51b4ef6dd02f</dc:identifier>
+        <dc:title>The Poems of Henry Kendall / With Biographical Note by Bertram Stevens</dc:title>
+        <dc:creator opf:file-as="Kendall, Henry" opf:role="aut">Henry Kendall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/962</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australian poetry</dc:subject>
+        <dc:subject>Kendall</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1839-1882</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Kendall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:39:35.375168+00:00"/>
+        <meta name="calibre:title_sort" content="Poems of Henry Kendall / With Biographical Note by Bertram Stevens, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

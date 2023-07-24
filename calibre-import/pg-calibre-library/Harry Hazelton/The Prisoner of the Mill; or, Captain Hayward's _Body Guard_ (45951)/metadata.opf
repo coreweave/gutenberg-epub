@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45951</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a92627f3-cc7a-462d-96b7-9f2fc19f6a09</dc:identifier>
+        <dc:title>The Prisoner of the Mill; or, Captain Hayward's "Body Guard"</dc:title>
+        <dc:creator opf:file-as="Hazelton, Harry" opf:role="aut">Harry Hazelton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51318</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Hazelton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:02:44.245004+00:00"/>
+        <meta name="calibre:title_sort" content="Prisoner of the Mill; or, Captain Hayward's &quot;Body Guard&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

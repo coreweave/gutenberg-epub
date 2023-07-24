@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4370e738-1f46-4c8b-802a-35df0700517f</dc:identifier>
+        <dc:title>The Life of George Borrow</dc:title>
+        <dc:creator opf:file-as="Jenkins, Herbert George" opf:role="aut">Herbert George Jenkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3481</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Borrow</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1803-1881</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert George Jenkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:28:48.575688+00:00"/>
+        <meta name="calibre:title_sort" content="Life of George Borrow, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

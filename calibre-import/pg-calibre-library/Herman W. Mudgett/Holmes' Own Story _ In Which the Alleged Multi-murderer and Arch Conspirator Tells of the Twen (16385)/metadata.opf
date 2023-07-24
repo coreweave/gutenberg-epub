@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f2c49af-7eed-43e4-a37e-98abc7aaf3b4</dc:identifier>
+        <dc:title>Holmes' Own Story / In Which the Alleged Multi-murderer and Arch Conspirator Tells of the Twenty-two Tragic Deaths and Disappearances in Which He Is Said to Be Implicated, With Moyamensing Prison Diary Appendix</dc:title>
+        <dc:creator opf:file-as="Mudgett, Herman W." opf:role="aut">Herman W. Mudgett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64249</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Serial murderers -- Illinois -- Chicago -- Biography</dc:subject>
+        <dc:subject>Mudgett</dc:subject>
+        <dc:subject>Herman W.</dc:subject>
+        <dc:subject>1861-1896</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herman W. Mudgett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:58:00.870822+00:00"/>
+        <meta name="calibre:title_sort" content="Holmes' Own Story / In Which the Alleged Multi-murderer and Arch Conspirator Tells of the Twenty-two Tragic Deaths and Disappearances in Which He Is Said to Be Implicated, With Moyamensing Prison Diary Appendix"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

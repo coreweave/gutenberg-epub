@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32024</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">926ae568-4252-4d03-a94c-9345c0b190b9</dc:identifier>
+        <dc:title>Strange True Stories of Louisiana</dc:title>
+        <dc:creator opf:file-as="Cable, George Washington" opf:role="aut">George Washington Cable</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12577</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louisiana -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Louisiana -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Washington Cable&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:49:13.981240+00:00"/>
+        <meta name="calibre:title_sort" content="Strange True Stories of Louisiana"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

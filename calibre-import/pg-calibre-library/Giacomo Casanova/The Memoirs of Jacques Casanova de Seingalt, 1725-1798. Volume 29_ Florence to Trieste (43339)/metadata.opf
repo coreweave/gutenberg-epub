@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5cba66d-ee54-4142-8d52-9845499d684d</dc:identifier>
+        <dc:title>The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 29: Florence to Trieste</dc:title>
+        <dc:creator opf:file-as="Casanova, Giacomo" opf:role="aut">Giacomo Casanova</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Casanova</dc:subject>
+        <dc:subject>Giacomo</dc:subject>
+        <dc:subject>1725-1798</dc:subject>
+        <dc:subject>Europe -- History -- 18th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Giacomo Casanova&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:33:52.725972+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 29: Florence to Trieste, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f1579a7-ea18-4246-8b96-2a341931180e</dc:identifier>
+        <dc:title>Fletcher of Saltoun</dc:title>
+        <dc:creator opf:file-as="Omond, George W. T. (George William Thomson)" opf:role="aut">George W. T. Omond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42658</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fletcher</dc:subject>
+        <dc:subject>Andrew</dc:subject>
+        <dc:subject>1655-1716</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George W. T. Omond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:07:24.644907+00:00"/>
+        <meta name="calibre:title_sort" content="Fletcher of Saltoun"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

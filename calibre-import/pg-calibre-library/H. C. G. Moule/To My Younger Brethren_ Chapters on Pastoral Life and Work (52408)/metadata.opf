@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12e891fe-1ff0-4fb3-86c8-7d752f421aed</dc:identifier>
+        <dc:title>To My Younger Brethren: Chapters on Pastoral Life and Work</dc:title>
+        <dc:creator opf:file-as="Moule, H. C. G. (Handley Carr Glyn)" opf:role="aut">H. C. G. Moule</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23113</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pastoral theology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. C. G. Moule&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:40:24.621716+00:00"/>
+        <meta name="calibre:title_sort" content="To My Younger Brethren: Chapters on Pastoral Life and Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

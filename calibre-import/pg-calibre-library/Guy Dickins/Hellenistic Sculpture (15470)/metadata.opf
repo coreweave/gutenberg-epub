@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f5803e1-2258-469f-82a1-fce71bb205fe</dc:identifier>
+        <dc:title>Hellenistic Sculpture</dc:title>
+        <dc:creator opf:file-as="Dickins, Guy" opf:role="aut">Guy Dickins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63242</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sculpture</dc:subject>
+        <dc:subject>Greek</dc:subject>
+        <dc:subject>Hellenistic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Guy Dickins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:27:43.113293+00:00"/>
+        <meta name="calibre:title_sort" content="Hellenistic Sculpture"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd0a1d52-6e37-4192-a51c-bc3b87949e26</dc:identifier>
+        <dc:title>The House of Rimmon: A Drama in Four Acts</dc:title>
+        <dc:creator opf:file-as="Van Dyke, Henry" opf:role="aut">Henry Van Dyke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17944</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Naaman</dc:subject>
+        <dc:subject>the Syrian -- Drama</dc:subject>
+        <dc:subject>Religious drama</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Van Dyke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:08:04.997696+00:00"/>
+        <meta name="calibre:title_sort" content="House of Rimmon: A Drama in Four Acts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

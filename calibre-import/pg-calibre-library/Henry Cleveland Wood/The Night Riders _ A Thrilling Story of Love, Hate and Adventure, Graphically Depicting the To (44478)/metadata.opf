@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b4b3015-d79b-4189-be14-0d0994e0bb4c</dc:identifier>
+        <dc:title>The Night Riders / A Thrilling Story of Love, Hate and Adventure, Graphically Depicting the Tobacco Uprising in Kentucky</dc:title>
+        <dc:creator opf:file-as="Wood, Henry Cleveland" opf:role="aut">Henry Cleveland Wood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Kentucky -- Fiction</dc:subject>
+        <dc:subject>Tobacco farmers -- Fiction</dc:subject>
+        <dc:subject>Night Riders (Group) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Cleveland Wood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:38:04.920285+00:00"/>
+        <meta name="calibre:title_sort" content="Night Riders / A Thrilling Story of Love, Hate and Adventure, Graphically Depicting the Tobacco Uprising in Kentucky, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

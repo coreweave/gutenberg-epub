@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31336</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c8688e0-557e-4aaa-b649-020fe6a29f02</dc:identifier>
+        <dc:title>South and South Central Africa / A record of fifteen years' missionary labors among primitive peoples</dc:title>
+        <dc:creator opf:file-as="Davidson, Hannah Frances" opf:role="aut">Hannah Frances Davidson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brethren in Christ Church -- Missions</dc:subject>
+        <dc:subject>Missions -- Rhodesia</dc:subject>
+        <dc:subject>Ndebele (African people)</dc:subject>
+        <dc:subject>Tsonga (African people)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hannah Frances Davidson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:15:04.823875+00:00"/>
+        <meta name="calibre:title_sort" content="South and South Central Africa / A record of fifteen years' missionary labors among primitive peoples"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92d6729e-f755-48c9-aab8-b163ed81a14b</dc:identifier>
+        <dc:title>The Twenty-Fourth of June: Midsummer's Day</dc:title>
+        <dc:creator opf:file-as="Richmond, Grace S. (Grace Smith)" opf:role="aut">Grace S. Richmond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14491</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Children of the rich -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace S. Richmond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:36:07.496388+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty-Fourth of June: Midsummer's Day, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

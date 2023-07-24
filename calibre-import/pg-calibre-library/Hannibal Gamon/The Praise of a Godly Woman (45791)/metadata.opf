@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efcb028f-91e2-42df-a8ef-e3c8ec44fc3a</dc:identifier>
+        <dc:title>The Praise of a Godly Woman</dc:title>
+        <dc:creator opf:file-as="Gamon, Hannibal" opf:role="aut">Hannibal Gamon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27280</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons</dc:subject>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>English -- 17th century</dc:subject>
+        <dc:subject>Robartes of Truro</dc:subject>
+        <dc:subject>Frances Robartes</dc:subject>
+        <dc:subject>Baroness</dc:subject>
+        <dc:subject>-1626 -- Sermons</dc:subject>
+        <dc:subject>Funeral sermons -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hannibal Gamon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:53:26.866845+00:00"/>
+        <meta name="calibre:title_sort" content="Praise of a Godly Woman, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

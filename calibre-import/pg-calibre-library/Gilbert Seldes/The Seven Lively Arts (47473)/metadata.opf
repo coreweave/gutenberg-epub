@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9b3a579-4a4e-4bef-8df6-f72ee2d90fd9</dc:identifier>
+        <dc:title>The Seven Lively Arts</dc:title>
+        <dc:creator opf:file-as="Seldes, Gilbert" opf:role="aut">Gilbert Seldes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66294</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American wit and humor</dc:subject>
+        <dc:subject>Motion pictures</dc:subject>
+        <dc:subject>Music -- History and criticism</dc:subject>
+        <dc:subject>Theater -- United States</dc:subject>
+        <dc:subject>Dance</dc:subject>
+        <dc:subject>Journalism</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Circus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gilbert Seldes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:32:16.585854+00:00"/>
+        <meta name="calibre:title_sort" content="Seven Lively Arts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

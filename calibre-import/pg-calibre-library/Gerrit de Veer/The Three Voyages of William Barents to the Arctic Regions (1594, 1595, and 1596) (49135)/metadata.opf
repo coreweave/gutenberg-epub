@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7e28274-bb61-48e6-bdda-8fed3005e7ff</dc:identifier>
+        <dc:title>The Three Voyages of William Barents to the Arctic Regions (1594, 1595, and 1596)</dc:title>
+        <dc:creator opf:file-as="Veer, Gerrit de" opf:role="aut">Gerrit de Veer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64257</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northeast Passage</dc:subject>
+        <dc:subject>Barentsz</dc:subject>
+        <dc:subject>Willem</dc:subject>
+        <dc:subject>approximately 1550-1597</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gerrit de Veer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:11:46.492007+00:00"/>
+        <meta name="calibre:title_sort" content="Three Voyages of William Barents to the Arctic Regions (1594, 1595, and 1596), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">836639b3-dd3b-49bb-aec6-1e3cf26f7716</dc:identifier>
+        <dc:title>A Pioneer Mother</dc:title>
+        <dc:creator opf:file-as="Garland, Hamlin" opf:role="aut">Hamlin Garland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48442</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Middle West</dc:subject>
+        <dc:subject>Garland</dc:subject>
+        <dc:subject>Isabelle McClintock</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamlin Garland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:58:45.905149+00:00"/>
+        <meta name="calibre:title_sort" content="Pioneer Mother, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

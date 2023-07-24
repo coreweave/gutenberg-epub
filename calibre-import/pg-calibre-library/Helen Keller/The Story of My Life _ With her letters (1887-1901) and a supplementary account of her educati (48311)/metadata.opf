@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbda5e27-2a31-4b6d-b759-90d8ab21b8bf</dc:identifier>
+        <dc:title>The Story of My Life / With her letters (1887-1901) and a supplementary account of her education, including passages from the reports and letters of her teacher, Anne Mansfield Sullivan, by John Albert Macy</dc:title>
+        <dc:creator opf:file-as="Keller, Helen" opf:role="aut">Helen Keller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2397</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Keller</dc:subject>
+        <dc:subject>Helen</dc:subject>
+        <dc:subject>1880-1968</dc:subject>
+        <dc:subject>Deafblind women -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen Keller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:21:58.346892+00:00"/>
+        <meta name="calibre:title_sort" content="Story of My Life / With her letters (1887-1901) and a supplementary account of her education, including passages from the reports and letters of her teacher, Anne Mansfield Sullivan, by John Albert Macy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

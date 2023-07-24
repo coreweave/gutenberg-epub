@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fafb65c1-4790-44eb-9b1a-dbe46ff56278</dc:identifier>
+        <dc:title>Cetywayo and his White Neighbours / Remarks on Recent Events in Zululand, Natal, and the Transvaal</dc:title>
+        <dc:creator opf:file-as="Haggard, H. Rider (Henry Rider)" opf:role="aut">H. Rider Haggard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8667</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cetewayo</dc:subject>
+        <dc:subject>King of Zululand</dc:subject>
+        <dc:subject>approximately 1826-1884</dc:subject>
+        <dc:subject>Zulu War</dc:subject>
+        <dc:subject>1879</dc:subject>
+        <dc:subject>Zululand (South Africa) -- History -- Civil War</dc:subject>
+        <dc:subject>1879-1884</dc:subject>
+        <dc:subject>Transvaal (South Africa) -- History -- To 1880</dc:subject>
+        <dc:subject>KwaZulu-Natal (South Africa) -- History -- 1843-1893</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Rider Haggard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:57:40.552012+00:00"/>
+        <meta name="calibre:title_sort" content="Cetywayo and his White Neighbours / Remarks on Recent Events in Zululand, Natal, and the Transvaal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

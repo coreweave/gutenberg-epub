@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75d4c977-f5cb-4712-99b0-b938acfe2fc4</dc:identifier>
+        <dc:title>On the Edge of the Arctic; Or, An Aeroplane in Snowland</dc:title>
+        <dc:creator opf:file-as="Sayler, H. L. (Harry Lincoln)" opf:role="aut">H. L. Sayler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25787</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Canada -- Juvenile fiction</dc:subject>
+        <dc:subject>Air pilots -- Juvenile fiction</dc:subject>
+        <dc:subject>Airplanes -- Piloting -- Juvenile fiction</dc:subject>
+        <dc:subject>Aeronautics -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. L. Sayler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:23:58.029148+00:00"/>
+        <meta name="calibre:title_sort" content="On the Edge of the Arctic; Or, An Aeroplane in Snowland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

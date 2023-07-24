@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71e3c9af-d7f2-4929-a765-79d19d31df57</dc:identifier>
+        <dc:title>The Book of the Epic: The World's Great Epics Told in Story</dc:title>
+        <dc:creator opf:file-as="Guerber, H. A. (Hélène Adeline)" opf:role="aut">H. A. Guerber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13983</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Epic poetry -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. A. Guerber&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:12:28.610091+00:00"/>
+        <meta name="calibre:title_sort" content="Book of the Epic: The World's Great Epics Told in Story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

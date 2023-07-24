@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd38ce69-6fd4-4997-84cd-b975f57b8d38</dc:identifier>
+        <dc:title>The flowering plants of South Africa; vol. 3</dc:title>
+        <dc:creator opf:file-as="Pole Evans, I. B. (Illtyd Buller)" opf:role="aut">I. B. Pole Evans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66680</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plants -- South Africa -- Periodicals</dc:subject>
+        <dc:subject>Plants -- South Africa -- Pictorial works -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;I. B. Pole Evans&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:32:01.584897+00:00"/>
+        <meta name="calibre:title_sort" content="flowering plants of South Africa; vol. 3, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

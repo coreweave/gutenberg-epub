@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea7adaeb-ce15-44d1-abad-71f4d4e6a56d</dc:identifier>
+        <dc:title>Tracks of a Rolling Stone</dc:title>
+        <dc:creator opf:file-as="Coke, Henry J. (Henry John)" opf:role="aut">Henry J. Coke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/497</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Coke</dc:subject>
+        <dc:subject>Henry J. (Henry John)</dc:subject>
+        <dc:subject>1827-1916</dc:subject>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry J. Coke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:56:48.256389+00:00"/>
+        <meta name="calibre:title_sort" content="Tracks of a Rolling Stone"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">730815b3-5520-4018-b9d3-a1c5a6d69ffa</dc:identifier>
+        <dc:title>The Courtship of Miles Standish: / With Suggestions for Study and Notes</dc:title>
+        <dc:creator opf:file-as="Longfellow, Henry Wadsworth" opf:role="aut">Henry Wadsworth Longfellow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57417</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Standish</dc:subject>
+        <dc:subject>Myles</dc:subject>
+        <dc:subject>1584?-1656 -- Poetry</dc:subject>
+        <dc:subject>Massachusetts -- History -- New Plymouth</dc:subject>
+        <dc:subject>1620-1691 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Wadsworth Longfellow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:47:09.679060+00:00"/>
+        <meta name="calibre:title_sort" content="Courtship of Miles Standish: / With Suggestions for Study and Notes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

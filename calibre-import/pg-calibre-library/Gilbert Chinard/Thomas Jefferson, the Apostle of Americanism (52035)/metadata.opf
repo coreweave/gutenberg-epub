@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52035</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ffd2391-1dbc-41cb-b23c-a9b726fb74e9</dc:identifier>
+        <dc:title>Thomas Jefferson, the Apostle of Americanism</dc:title>
+        <dc:creator opf:file-as="Chinard, Gilbert" opf:role="aut">Gilbert Chinard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38073</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jefferson</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1743-1826</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gilbert Chinard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:17:03.200042+00:00"/>
+        <meta name="calibre:title_sort" content="Thomas Jefferson, the Apostle of Americanism"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

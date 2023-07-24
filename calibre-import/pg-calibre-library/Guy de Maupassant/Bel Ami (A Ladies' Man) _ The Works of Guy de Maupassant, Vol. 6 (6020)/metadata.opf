@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6020</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f260ed7f-c3a5-4c10-8795-3d792f375de8</dc:identifier>
+        <dc:title>Bel Ami (A Ladies' Man) / The Works of Guy de Maupassant, Vol. 6</dc:title>
+        <dc:creator opf:file-as="Maupassant, Guy de" opf:role="aut">Guy de Maupassant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33928</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Fiction</dc:subject>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Journalists -- Fiction</dc:subject>
+        <dc:subject>Seduction -- Fiction</dc:subject>
+        <dc:subject>Paris (France) -- History -- 1870-1940 -- Fiction</dc:subject>
+        <dc:subject>France -- Politics and government -- 1870-1940 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Guy de Maupassant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:13:20.342777+00:00"/>
+        <meta name="calibre:title_sort" content="Bel Ami (A Ladies' Man) / The Works of Guy de Maupassant, Vol. 6"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

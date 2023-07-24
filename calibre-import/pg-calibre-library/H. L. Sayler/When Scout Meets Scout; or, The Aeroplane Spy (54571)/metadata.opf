@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb2d0eac-4c84-4284-b010-61294d6c0d8e</dc:identifier>
+        <dc:title>When Scout Meets Scout; or, The Aeroplane Spy</dc:title>
+        <dc:creator opf:file-as="Sayler, H. L. (Harry Lincoln)" opf:role="aut">H. L. Sayler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boy Scouts -- Juvenile fiction</dc:subject>
+        <dc:subject>Aeronautics -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. L. Sayler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:59:45.970299+00:00"/>
+        <meta name="calibre:title_sort" content="When Scout Meets Scout; or, The Aeroplane Spy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

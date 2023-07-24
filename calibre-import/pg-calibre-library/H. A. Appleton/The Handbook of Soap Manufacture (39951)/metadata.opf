@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39951</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e038d4f-3097-420d-b961-8e040962da08</dc:identifier>
+        <dc:title>The Handbook of Soap Manufacture</dc:title>
+        <dc:creator opf:file-as="Appleton, H. A." opf:role="aut">H. A. Appleton</dc:creator>
+        <dc:creator opf:file-as="Appleton, H. A." opf:role="aut">W. H. Simmons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21724</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soap</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. A. Appleton&quot;: &quot;&quot;, &quot;W. H. Simmons&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:28:14.044417+00:00"/>
+        <meta name="calibre:title_sort" content="Handbook of Soap Manufacture, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

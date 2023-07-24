@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5d039c8-6dab-4031-95ae-2dd66dfc10e8</dc:identifier>
+        <dc:title>A Romany of the Snows, vol. 4 / Being a Continuation of the Personal Histories of "Pierre and His People" and the Last Existing Records of Pretty Pierre</dc:title>
+        <dc:creator opf:file-as="Parker, Gilbert" opf:role="aut">Gilbert Parker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6183</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada</dc:subject>
+        <dc:subject>Northern -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Canadian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gilbert Parker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:02:54.281624+00:00"/>
+        <meta name="calibre:title_sort" content="Romany of the Snows, vol. 4 / Being a Continuation of the Personal Histories of &quot;Pierre and His People&quot; and the Last Existing Records of Pretty Pierre, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

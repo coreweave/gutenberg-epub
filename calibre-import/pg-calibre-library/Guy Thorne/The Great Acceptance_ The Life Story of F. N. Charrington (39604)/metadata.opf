@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d168d83-6735-4e16-928a-847482c45184</dc:identifier>
+        <dc:title>The Great Acceptance: The Life Story of F. N. Charrington</dc:title>
+        <dc:creator opf:file-as="Thorne, Guy" opf:role="aut">Guy Thorne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39999</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poor -- England -- London</dc:subject>
+        <dc:subject>Charrington</dc:subject>
+        <dc:subject>Fredk. N. (Frederick Nicholas)</dc:subject>
+        <dc:subject>1850-1936</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Guy Thorne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:09:45.769784+00:00"/>
+        <meta name="calibre:title_sort" content="Great Acceptance: The Life Story of F. N. Charrington, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

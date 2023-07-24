@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f498387-dfb1-42cc-8477-8c9fa9c60cf7</dc:identifier>
+        <dc:title>Stories of Many Lands</dc:title>
+        <dc:creator opf:file-as="Greenwood, Grace" opf:role="aut">Grace Greenwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26736</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Charades</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Greenwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:45:13.761484+00:00"/>
+        <meta name="calibre:title_sort" content="Stories of Many Lands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

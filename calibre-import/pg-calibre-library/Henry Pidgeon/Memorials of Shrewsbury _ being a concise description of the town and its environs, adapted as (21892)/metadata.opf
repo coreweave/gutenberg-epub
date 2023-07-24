@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60849503-e572-480f-8fb3-c2003114ea5e</dc:identifier>
+        <dc:title>Memorials of Shrewsbury / being a concise description of the town and its environs, adapted as a general guide for the information of visitors and residents</dc:title>
+        <dc:creator opf:file-as="Pidgeon, Henry" opf:role="aut">Henry Pidgeon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62621</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shrewsbury (England) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Pidgeon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:17:44.709321+00:00"/>
+        <meta name="calibre:title_sort" content="Memorials of Shrewsbury / being a concise description of the town and its environs, adapted as a general guide for the information of visitors and residents"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

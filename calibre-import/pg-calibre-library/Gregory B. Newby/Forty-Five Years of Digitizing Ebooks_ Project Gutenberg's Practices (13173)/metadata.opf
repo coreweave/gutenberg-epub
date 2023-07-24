@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52b4c3e8-86c0-456a-85ee-1719e901ae3e</dc:identifier>
+        <dc:title>Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices</dc:title>
+        <dc:creator opf:file-as="Newby, Gregory B." opf:role="aut">Gregory B. Newby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60600</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Project Gutenberg</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gregory B. Newby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:15:51.498538+00:00"/>
+        <meta name="calibre:title_sort" content="Forty-Five Years of Digitizing Ebooks: Project Gutenberg's Practices"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

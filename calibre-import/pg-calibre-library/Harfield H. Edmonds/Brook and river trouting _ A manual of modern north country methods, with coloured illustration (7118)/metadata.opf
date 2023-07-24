@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09fb6399-0303-41c3-be1b-0a3b8db21b63</dc:identifier>
+        <dc:title>Brook and river trouting / A manual of modern north country methods, with coloured illustrations of flies and fly-dressing materials</dc:title>
+        <dc:creator opf:file-as="Edmonds, Harfield H." opf:role="aut">Harfield H. Edmonds</dc:creator>
+        <dc:creator opf:file-as="Edmonds, Harfield H." opf:role="aut">Norman N. Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68846</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trout fishing -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harfield H. Edmonds&quot;: &quot;&quot;, &quot;Norman N. Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:37:41.016720+00:00"/>
+        <meta name="calibre:title_sort" content="Brook and river trouting / A manual of modern north country methods, with coloured illustrations of flies and fly-dressing materials"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

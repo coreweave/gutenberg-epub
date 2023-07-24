@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a186cba-b89a-4d66-a2b7-cf17fd65bd9e</dc:identifier>
+        <dc:title>Adventures in American Bookshops, Antique Stores and Auction Rooms</dc:title>
+        <dc:creator opf:file-as="Bruno, Guido" opf:role="aut">Guido Bruno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56811</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Booksellers and bookselling -- United States</dc:subject>
+        <dc:subject>Antiquarian booksellers -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Guido Bruno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:24:38.192960+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures in American Bookshops, Antique Stores and Auction Rooms"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

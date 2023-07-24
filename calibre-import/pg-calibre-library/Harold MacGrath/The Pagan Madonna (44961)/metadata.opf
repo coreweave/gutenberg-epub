@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">144eb314-c66a-4b6b-8ee4-501e793b23df</dc:identifier>
+        <dc:title>The Pagan Madonna</dc:title>
+        <dc:creator opf:file-as="MacGrath, Harold" opf:role="aut">Harold MacGrath</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27339</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Pirates -- Fiction</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <dc:subject>Ocean travel -- Fiction</dc:subject>
+        <dc:subject>Chance -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold MacGrath&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:05:32.263662+00:00"/>
+        <meta name="calibre:title_sort" content="Pagan Madonna, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63bd6625-3654-4007-a8fa-2e3a294cf7a7</dc:identifier>
+        <dc:title>The Kallikak Family: A Study in the Heredity of Feeble-Mindedness</dc:title>
+        <dc:creator opf:file-as="Goddard, Henry Herbert" opf:role="aut">Henry Herbert Goddard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53958</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Heredity</dc:subject>
+        <dc:subject>Human</dc:subject>
+        <dc:subject>Mental retardation</dc:subject>
+        <dc:subject>People with mental disabilities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Herbert Goddard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:47:18.668410+00:00"/>
+        <meta name="calibre:title_sort" content="Kallikak Family: A Study in the Heredity of Feeble-Mindedness, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

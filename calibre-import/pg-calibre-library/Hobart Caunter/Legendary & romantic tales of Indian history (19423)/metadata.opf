@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da6f1311-1e1a-4209-aeab-c36cef3eca9f</dc:identifier>
+        <dc:title>Legendary &amp; romantic tales of Indian history</dc:title>
+        <dc:creator opf:file-as="Caunter, Hobart" opf:role="aut">Hobart Caunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70300</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hobart Caunter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:43:13.083238+00:00"/>
+        <meta name="calibre:title_sort" content="Legendary &amp; romantic tales of Indian history"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

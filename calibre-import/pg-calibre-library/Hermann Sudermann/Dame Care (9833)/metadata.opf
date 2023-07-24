@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6853f985-8616-483e-9b51-cac91bcb6fea</dc:identifier>
+        <dc:title>Dame Care</dc:title>
+        <dc:creator opf:file-as="Sudermann, Hermann" opf:role="aut">Hermann Sudermann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-sacrifice -- Fiction</dc:subject>
+        <dc:subject>Family farms -- Germany -- Fiction</dc:subject>
+        <dc:subject>Farmers -- Germany -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hermann Sudermann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:43:47.304454+00:00"/>
+        <meta name="calibre:title_sort" content="Dame Care"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

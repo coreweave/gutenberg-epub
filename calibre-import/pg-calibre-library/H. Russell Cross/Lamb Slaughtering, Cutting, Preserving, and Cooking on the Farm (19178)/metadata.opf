@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd059479-367e-4e92-905f-f8c1051daed3</dc:identifier>
+        <dc:title>Lamb Slaughtering, Cutting, Preserving, and Cooking on the Farm</dc:title>
+        <dc:creator opf:file-as="Cross, H. Russell" opf:role="aut">H. Russell Cross</dc:creator>
+        <dc:creator opf:file-as="Cross, H. Russell" opf:role="aut">E. Curtis Green</dc:creator>
+        <dc:creator opf:file-as="Cross, H. Russell" opf:role="aut">William R. Jones</dc:creator>
+        <dc:creator opf:file-as="Cross, H. Russell" opf:role="aut">Anthony Kotula</dc:creator>
+        <dc:creator opf:file-as="Cross, H. Russell" opf:role="aut">R. L. West</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62838</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Meat cutting</dc:subject>
+        <dc:subject>Slaughtering and slaughter-houses</dc:subject>
+        <dc:subject>Lamb (Meat)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Russell Cross&quot;: &quot;&quot;, &quot;E. Curtis Green&quot;: &quot;&quot;, &quot;William R. Jones&quot;: &quot;&quot;, &quot;Anthony Kotula&quot;: &quot;&quot;, &quot;R. L. West&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:34:22.151667+00:00"/>
+        <meta name="calibre:title_sort" content="Lamb Slaughtering, Cutting, Preserving, and Cooking on the Farm"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

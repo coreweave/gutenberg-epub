@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae6d74da-a2e8-48d8-b2d7-d8cdb979388d</dc:identifier>
+        <dc:title>Troy and Its Remains / A Narrative of Researches and Discoveries Made on the Site of Ilium and in the Trojan Plain</dc:title>
+        <dc:creator opf:file-as="Schliemann, Heinrich" opf:role="aut">Heinrich Schliemann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45190</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Excavations (Archaeology) -- Turkey -- Troy (Extinct city)</dc:subject>
+        <dc:subject>Troy (Extinct city)</dc:subject>
+        <dc:subject>Turkey -- Antiquities</dc:subject>
+        <dc:subject>Greece -- Civilization -- To 146 B.C.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Heinrich Schliemann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:15:16.946455+00:00"/>
+        <meta name="calibre:title_sort" content="Troy and Its Remains / A Narrative of Researches and Discoveries Made on the Site of Ilium and in the Trojan Plain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

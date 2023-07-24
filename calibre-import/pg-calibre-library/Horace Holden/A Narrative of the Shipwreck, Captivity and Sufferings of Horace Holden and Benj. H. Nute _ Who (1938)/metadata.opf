@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3c188d6-9cb0-4384-8855-d9181cd1a2da</dc:identifier>
+        <dc:title>A Narrative of the Shipwreck, Captivity and Sufferings of Horace Holden and Benj. H. Nute / Who were cast away in the American ship Mentor, on the Pelew Islands, in the year 1832; and for two years afterwards were subjected to unheard of sufferings among the barbarous inhabitants of Lord North's island</dc:title>
+        <dc:creator opf:file-as="Holden, Horace" opf:role="aut">Horace Holden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32012</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Holden</dc:subject>
+        <dc:subject>Horace</dc:subject>
+        <dc:subject>1810-</dc:subject>
+        <dc:subject>Nute</dc:subject>
+        <dc:subject>Benjamin H.</dc:subject>
+        <dc:subject>Shipwrecks -- Palau</dc:subject>
+        <dc:subject>Sonsorol-Tobi language</dc:subject>
+        <dc:subject>Tobi (Palau)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Horace Holden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:06.904182+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Shipwreck, Captivity and Sufferings of Horace Holden and Benj. H. Nute / Who were cast away in the American ship Mentor, on the Pelew Islands, in the year 1832; and for two years afterwards were subjected to unheard of sufferings among the barbarous inhabitants of Lord North's island, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

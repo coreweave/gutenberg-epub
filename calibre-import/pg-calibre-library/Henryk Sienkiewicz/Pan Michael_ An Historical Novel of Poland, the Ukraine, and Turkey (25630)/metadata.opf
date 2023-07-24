@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bca6adf-9fa2-4f57-912b-528272a80485</dc:identifier>
+        <dc:title>Pan Michael: An Historical Novel of Poland, the Ukraine, and Turkey</dc:title>
+        <dc:creator opf:file-as="Sienkiewicz, Henryk" opf:role="aut">Henryk Sienkiewicz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37361</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Poland -- History -- Michael Wisniowiecki</dc:subject>
+        <dc:subject>1669-1673 -- Fiction</dc:subject>
+        <dc:subject>Poland -- History -- 17th century -- Fiction</dc:subject>
+        <dc:subject>Michal Korybut Wisniowiecki</dc:subject>
+        <dc:subject>King of Poland</dc:subject>
+        <dc:subject>1640-1673 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henryk Sienkiewicz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:55:03.752276+00:00"/>
+        <meta name="calibre:title_sort" content="Pan Michael: An Historical Novel of Poland, the Ukraine, and Turkey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12785</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b3e59a8-e2ec-48f0-acdf-0c0776f05665</dc:identifier>
+        <dc:title>Fiscal Ballads</dc:title>
+        <dc:creator opf:file-as="Graham, Harry" opf:role="aut">Harry Graham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36038</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tariff -- Great Britain -- Poetry</dc:subject>
+        <dc:subject>Free trade -- Poetry</dc:subject>
+        <dc:subject>Chamberlain</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1836-1914 -- Poetry</dc:subject>
+        <dc:subject>Great Britain -- Politics and government -- 1901-1910 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Graham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:04:34.641112+00:00"/>
+        <meta name="calibre:title_sort" content="Fiscal Ballads"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">104d9386-04fd-45d1-818a-d0ba147a741b</dc:identifier>
+        <dc:title>Recreations in Astronomy / With Directions for Practical Experiments and Telescopic Work</dc:title>
+        <dc:creator opf:file-as="Warren, Henry White" opf:role="aut">Henry White Warren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15620</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astronomy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry White Warren&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:02:16.388666+00:00"/>
+        <meta name="calibre:title_sort" content="Recreations in Astronomy / With Directions for Practical Experiments and Telescopic Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74e9acbf-9ae1-498d-bc1c-a51555d52984</dc:identifier>
+        <dc:title>Canal Reminiscences / Recollections of Travel in the Old Days on the James River &amp; Kanawha Canal</dc:title>
+        <dc:creator opf:file-as="Bagby, George William" opf:role="aut">George William Bagby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62708</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Virginia -- Description and travel</dc:subject>
+        <dc:subject>Bagby</dc:subject>
+        <dc:subject>George William</dc:subject>
+        <dc:subject>1828-1883</dc:subject>
+        <dc:subject>Inland navigation -- Virginia</dc:subject>
+        <dc:subject>Canal-boats -- Virginia</dc:subject>
+        <dc:subject>James River and Kanawha Canal (Va.) -- Navigation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George William Bagby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:48:01.275744+00:00"/>
+        <meta name="calibre:title_sort" content="Canal Reminiscences / Recollections of Travel in the Old Days on the James River &amp; Kanawha Canal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

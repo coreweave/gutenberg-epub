@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20915</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c07c19c-2591-43bb-a329-d58f0312f219</dc:identifier>
+        <dc:title>Main-Travelled Roads</dc:title>
+        <dc:creator opf:file-as="Garland, Hamlin" opf:role="aut">Hamlin Garland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2809</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Mississippi River Valley -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamlin Garland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:39:01.140388+00:00"/>
+        <meta name="calibre:title_sort" content="Main-Travelled Roads"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

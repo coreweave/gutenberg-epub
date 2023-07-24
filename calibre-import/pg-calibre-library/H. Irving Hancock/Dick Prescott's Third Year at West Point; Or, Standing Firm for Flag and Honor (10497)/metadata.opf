@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e234e11-70ea-4739-a6e3-f70f49fe1d66</dc:identifier>
+        <dc:title>Dick Prescott's Third Year at West Point; Or, Standing Firm for Flag and Honor</dc:title>
+        <dc:creator opf:file-as="Hancock, H. Irving (Harrie Irving)" opf:role="aut">H. Irving Hancock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12806</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>College stories</dc:subject>
+        <dc:subject>United States Military Academy -- Juvenile fiction</dc:subject>
+        <dc:subject>Military cadets -- United States -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Irving Hancock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:01:12.795398+00:00"/>
+        <meta name="calibre:title_sort" content="Dick Prescott's Third Year at West Point; Or, Standing Firm for Flag and Honor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

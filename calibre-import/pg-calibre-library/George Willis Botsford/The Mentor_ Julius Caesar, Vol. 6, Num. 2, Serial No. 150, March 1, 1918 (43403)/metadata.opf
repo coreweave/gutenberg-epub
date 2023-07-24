@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c973bf13-2cfd-4dda-ab1c-8e4d3bd9c2e7</dc:identifier>
+        <dc:title>The Mentor: Julius Cæsar, Vol. 6, Num. 2, Serial No. 150, March 1, 1918</dc:title>
+        <dc:creator opf:file-as="Botsford, George Willis" opf:role="aut">George Willis Botsford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caesar</dc:subject>
+        <dc:subject>Julius</dc:subject>
+        <dc:subject>Rome -- History -- Republic</dc:subject>
+        <dc:subject>265-30 B.C.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Willis Botsford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:37:27.161889+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: Julius Cæsar, Vol. 6, Num. 2, Serial No. 150, March 1, 1918, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

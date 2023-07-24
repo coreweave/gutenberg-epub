@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">387cb053-3f81-41dc-a0cb-e1e07976a2a7</dc:identifier>
+        <dc:title>Company 'A', corps of engineers, U.S.A., 1846-'48, in the Mexican war</dc:title>
+        <dc:creator opf:file-as="Smith, Gustavus Woodson" opf:role="aut">Gustavus Woodson Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31113</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mexican War</dc:subject>
+        <dc:subject>1846-1848 -- Regimental histories -- United States -- Engineers</dc:subject>
+        <dc:subject>United States. Army. Corps of Engineers. Company A</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gustavus Woodson Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:25:23.736716+00:00"/>
+        <meta name="calibre:title_sort" content="Company 'A', corps of engineers, U.S.A., 1846-'48, in the Mexican war"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

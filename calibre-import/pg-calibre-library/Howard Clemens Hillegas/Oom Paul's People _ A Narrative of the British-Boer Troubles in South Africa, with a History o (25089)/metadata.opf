@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74ac15cf-ef03-4fd6-a245-93075f33b032</dc:identifier>
+        <dc:title>Oom Paul's People / A Narrative of the British-Boer Troubles in South Africa, with a History of the Boers, the Country, and Its Institutions</dc:title>
+        <dc:creator opf:file-as="Hillegas, Howard Clemens" opf:role="aut">Howard Clemens Hillegas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41607</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Transvaal (South Africa) -- History -- 1880-1910</dc:subject>
+        <dc:subject>Kruger</dc:subject>
+        <dc:subject>Paul</dc:subject>
+        <dc:subject>1825-1904</dc:subject>
+        <dc:subject>Afrikaners -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Howard Clemens Hillegas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:32:09.011691+00:00"/>
+        <meta name="calibre:title_sort" content="Oom Paul's People / A Narrative of the British-Boer Troubles in South Africa, with a History of the Boers, the Country, and Its Institutions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

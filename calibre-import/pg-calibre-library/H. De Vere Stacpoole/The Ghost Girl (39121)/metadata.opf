@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">146fbdeb-a7d8-419f-8318-7b6837a8eefc</dc:identifier>
+        <dc:title>The Ghost Girl</dc:title>
+        <dc:creator opf:file-as="Stacpoole, H. De Vere (Henry De Vere)" opf:role="aut">H. De Vere Stacpoole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26986</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Charleston (S.C.) -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Guardian and ward -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. De Vere Stacpoole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:44:43.916156+00:00"/>
+        <meta name="calibre:title_sort" content="Ghost Girl, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

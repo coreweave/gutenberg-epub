@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1020841f-e78a-43f5-9b46-90b96c8c4057</dc:identifier>
+        <dc:title>Confessions of an Etonian</dc:title>
+        <dc:creator opf:file-as="I. E. M." opf:role="aut">I. E. M.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19405</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Eton College -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;I. E. M.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:27:50.492046+00:00"/>
+        <meta name="calibre:title_sort" content="Confessions of an Etonian"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

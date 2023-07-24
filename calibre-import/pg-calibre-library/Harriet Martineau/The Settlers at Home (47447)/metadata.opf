@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a65ef22-ac7e-4d9d-9595-88bd9a679a7e</dc:identifier>
+        <dc:title>The Settlers at Home</dc:title>
+        <dc:creator opf:file-as="Martineau, Harriet" opf:role="aut">Harriet Martineau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23264</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Country life -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>Immigrants -- England -- Juvenile fiction</dc:subject>
+        <dc:subject>England -- Ethnic relations -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harriet Martineau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:30:44.763863+00:00"/>
+        <meta name="calibre:title_sort" content="Settlers at Home, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

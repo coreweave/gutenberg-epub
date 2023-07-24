@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfb917e3-f2f4-4b37-a350-9e205c6654fb</dc:identifier>
+        <dc:title>Daniel Webster</dc:title>
+        <dc:creator opf:file-as="Lodge, Henry Cabot" opf:role="aut">Henry Cabot Lodge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13047</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1815-1861</dc:subject>
+        <dc:subject>Legislators -- United States -- Biography</dc:subject>
+        <dc:subject>Webster</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1782-1852</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Cabot Lodge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:44:59.819699+00:00"/>
+        <meta name="calibre:title_sort" content="Daniel Webster"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

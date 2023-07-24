@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2de2a2e-9699-4098-9b8e-8d664e9c4c33</dc:identifier>
+        <dc:title>American nights entertainment</dc:title>
+        <dc:creator opf:file-as="Overton, Grant M. (Grant Martin)" opf:role="aut">Grant M. Overton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70313</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conrad</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1857-1924</dc:subject>
+        <dc:subject>English literature -- 20th century -- History and criticism</dc:subject>
+        <dc:subject>American literature -- 20th century -- History and criticism</dc:subject>
+        <dc:subject>Galsworthy</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1867-1933</dc:subject>
+        <dc:subject>Wharton</dc:subject>
+        <dc:subject>Edith</dc:subject>
+        <dc:subject>1862-1937</dc:subject>
+        <dc:subject>Morley</dc:subject>
+        <dc:subject>Christopher</dc:subject>
+        <dc:subject>1890-1957</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grant M. Overton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:28.055862+00:00"/>
+        <meta name="calibre:title_sort" content="American nights entertainment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

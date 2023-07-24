@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3fd9d86-de26-4bab-9481-a6e3a11d4ebb</dc:identifier>
+        <dc:title>The Huey Long Murder Case</dc:title>
+        <dc:creator opf:file-as="Deutsch, Hermann B. (Hermann Bacher)" opf:role="aut">Hermann B. Deutsch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Weiss</dc:subject>
+        <dc:subject>Carl Austin</dc:subject>
+        <dc:subject>1905-1935</dc:subject>
+        <dc:subject>Long</dc:subject>
+        <dc:subject>Huey Pierce</dc:subject>
+        <dc:subject>1893-1935</dc:subject>
+        <dc:subject>Murder -- Louisiana -- Baton Rouge</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hermann B. Deutsch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:10:09.266816+00:00"/>
+        <meta name="calibre:title_sort" content="Huey Long Murder Case, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

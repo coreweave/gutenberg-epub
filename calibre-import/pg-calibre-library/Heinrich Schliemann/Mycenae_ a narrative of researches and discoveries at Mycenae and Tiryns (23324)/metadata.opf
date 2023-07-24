@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfa62146-6c06-4175-9c17-1af74f5bf23d</dc:identifier>
+        <dc:title>Mycenæ: a narrative of researches and discoveries at Mycenæ and Tiryns</dc:title>
+        <dc:creator opf:file-as="Schliemann, Heinrich" opf:role="aut">Heinrich Schliemann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56940</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mycenae (Extinct city)</dc:subject>
+        <dc:subject>Tiryns (Extinct city)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Heinrich Schliemann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:17:38.731260+00:00"/>
+        <meta name="calibre:title_sort" content="Mycenæ: a narrative of researches and discoveries at Mycenæ and Tiryns"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

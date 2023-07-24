@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f5d8bfb-6aa4-4906-b799-ba628a5ced09</dc:identifier>
+        <dc:title>Henry Ford: Highlights of His Life</dc:title>
+        <dc:creator opf:file-as="Henry Ford Museum and Greenfield Village" opf:role="aut">Henry Ford Museum</dc:creator>
+        <dc:creator opf:file-as="Henry Ford Museum and Greenfield Village" opf:role="aut">Greenfield Village</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57117</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ford</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1863-1947</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Ford Museum&quot;: &quot;&quot;, &quot;Greenfield Village&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:28:41.302476+00:00"/>
+        <meta name="calibre:title_sort" content="Henry Ford: Highlights of His Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

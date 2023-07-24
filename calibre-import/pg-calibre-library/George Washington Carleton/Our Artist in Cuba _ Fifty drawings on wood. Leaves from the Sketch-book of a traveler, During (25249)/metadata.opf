@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">692b7ec7-a8fe-4971-8170-0ca331f453a8</dc:identifier>
+        <dc:title>Our Artist in Cuba / Fifty drawings on wood. Leaves from the Sketch-book of a traveler, During the Winter of 1864-5.</dc:title>
+        <dc:creator opf:file-as="Carleton, George Washington" opf:role="aut">George Washington Carleton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Cuba -- Social life and customs -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Washington Carleton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:38:53.327623+00:00"/>
+        <meta name="calibre:title_sort" content="Our Artist in Cuba / Fifty drawings on wood. Leaves from the Sketch-book of a traveler, During the Winter of 1864-5."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2feb03ef-233b-454d-88aa-35c711b65425</dc:identifier>
+        <dc:title>Hiawatha and the Iroquois Confederation / A Study in Anthropology. A Paper Read at the Cincinnati Meeting of the American Association for the Advancement of Science, in August, 1881, under the Title of "A Lawgiver of the Stone Age."</dc:title>
+        <dc:creator opf:file-as="Hale, Horatio" opf:role="aut">Horatio Hale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22601</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Iroquois Indians</dc:subject>
+        <dc:subject>Hiawatha</dc:subject>
+        <dc:subject>active 15th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Horatio Hale&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:33:33.422533+00:00"/>
+        <meta name="calibre:title_sort" content="Hiawatha and the Iroquois Confederation / A Study in Anthropology. A Paper Read at the Cincinnati Meeting of the American Association for the Advancement of Science, in August, 1881, under the Title of &quot;A Lawgiver of the Stone Age.&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

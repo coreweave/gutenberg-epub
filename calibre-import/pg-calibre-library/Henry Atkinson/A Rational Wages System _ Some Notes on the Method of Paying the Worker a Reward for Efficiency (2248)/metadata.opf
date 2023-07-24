@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b8ccbd5-6d4e-4b35-bb99-6aa555cd2f77</dc:identifier>
+        <dc:title>A Rational Wages System / Some Notes on the Method of Paying the Worker a Reward for Efficiency in Addition to Wages</dc:title>
+        <dc:creator opf:file-as="Atkinson, Henry" opf:role="aut">Henry Atkinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46977</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wages -- Great Britain</dc:subject>
+        <dc:subject>Incentives in industry -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Atkinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:19.051169+00:00"/>
+        <meta name="calibre:title_sort" content="Rational Wages System / Some Notes on the Method of Paying the Worker a Reward for Efficiency in Addition to Wages, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

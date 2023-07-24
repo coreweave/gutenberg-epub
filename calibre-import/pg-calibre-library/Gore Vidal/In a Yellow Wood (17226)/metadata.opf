@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e5b4ddc-0940-463d-9b03-174dc296dcbf</dc:identifier>
+        <dc:title>In a Yellow Wood</dc:title>
+        <dc:creator opf:file-as="Vidal, Gore" opf:role="aut">Gore Vidal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66940</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1939-1945 -- Veterans -- Fiction</dc:subject>
+        <dc:subject>Choice (Psychology) -- Fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Social conditions -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Stockbrokers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gore Vidal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:26:19.088931+00:00"/>
+        <meta name="calibre:title_sort" content="In a Yellow Wood"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

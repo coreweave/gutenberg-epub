@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d03e35a-9256-4772-9a7d-e653481a767e</dc:identifier>
+        <dc:title>Report of a special committee of the City Council, on the improvement of the Fire Department / and also, on the best means of obtaining an additional supply of water for fire purposes, for the city of Halifax, N.S.</dc:title>
+        <dc:creator opf:file-as="Halifax (N.S.). City Council. Special Committee on the Improvement of the Fire Department" opf:role="aut">Halifax . City Council. Special Committee on the Improvement of the Fire Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53803</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fire-departments -- Nova Scotia -- Halifax</dc:subject>
+        <dc:subject>Water-supply -- Nova Scotia -- Halifax</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Halifax . City Council. Special Committee on the Improvement of the Fire Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:13:11.837630+00:00"/>
+        <meta name="calibre:title_sort" content="Report of a special committee of the City Council, on the improvement of the Fire Department / and also, on the best means of obtaining an additional supply of water for fire purposes, for the city of Halifax, N.S."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

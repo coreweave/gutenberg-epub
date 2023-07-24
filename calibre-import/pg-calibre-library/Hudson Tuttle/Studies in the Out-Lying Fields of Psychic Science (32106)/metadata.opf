@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe585d57-9803-4975-9153-77a985099ba5</dc:identifier>
+        <dc:title>Studies in the Out-Lying Fields of Psychic Science</dc:title>
+        <dc:creator opf:file-as="Tuttle, Hudson" opf:role="aut">Hudson Tuttle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35855</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Parapsychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hudson Tuttle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:53:14.981655+00:00"/>
+        <meta name="calibre:title_sort" content="Studies in the Out-Lying Fields of Psychic Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

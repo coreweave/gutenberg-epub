@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed3ac3ed-48b1-4539-abc6-8e9dd82da02d</dc:identifier>
+        <dc:title>The Challenge of the Country: A Study of Country Life Opportunity</dc:title>
+        <dc:creator opf:file-as="Fiske, George Walter" opf:role="aut">George Walter Fiske</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32749</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Rural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Walter Fiske&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:00:18.157975+00:00"/>
+        <meta name="calibre:title_sort" content="Challenge of the Country: A Study of Country Life Opportunity, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

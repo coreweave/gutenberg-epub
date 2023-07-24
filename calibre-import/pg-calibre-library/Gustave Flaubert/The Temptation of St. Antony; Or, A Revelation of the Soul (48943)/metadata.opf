@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48943</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cd5251a-2cf0-4611-861e-d3d023e967b8</dc:identifier>
+        <dc:title>The Temptation of St. Antony; Or, A Revelation of the Soul</dc:title>
+        <dc:creator opf:file-as="Flaubert, Gustave" opf:role="aut">Gustave Flaubert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25053</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Christian fiction</dc:subject>
+        <dc:subject>Egypt -- Fiction</dc:subject>
+        <dc:subject>Anthony</dc:subject>
+        <dc:subject>of Egypt</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>approximately 250-355 or 356 -- Fiction</dc:subject>
+        <dc:subject>Christian saints -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gustave Flaubert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:59:55.385311+00:00"/>
+        <meta name="calibre:title_sort" content="Temptation of St. Antony; Or, A Revelation of the Soul, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

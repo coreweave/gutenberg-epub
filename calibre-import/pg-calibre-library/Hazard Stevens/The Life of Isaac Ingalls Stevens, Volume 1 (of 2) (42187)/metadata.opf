@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e589ab0-65c5-482c-98dd-ba31e71de47c</dc:identifier>
+        <dc:title>The Life of Isaac Ingalls Stevens, Volume 1 (of 2)</dc:title>
+        <dc:creator opf:file-as="Stevens, Hazard" opf:role="aut">Hazard Stevens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43589</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>Mexican War</dc:subject>
+        <dc:subject>1846-1848 -- Personal narratives</dc:subject>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Pacific -- History</dc:subject>
+        <dc:subject>Stevens</dc:subject>
+        <dc:subject>Isaac Ingalls</dc:subject>
+        <dc:subject>1818-1862</dc:subject>
+        <dc:subject>Pacific Coast Indians</dc:subject>
+        <dc:subject>Wars with</dc:subject>
+        <dc:subject>1847-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hazard Stevens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:29:53.312754+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Isaac Ingalls Stevens, Volume 1 (of 2), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

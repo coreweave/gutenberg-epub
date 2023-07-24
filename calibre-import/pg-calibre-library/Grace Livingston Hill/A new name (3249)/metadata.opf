@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95481172-eb37-4e88-82f7-6f8ae7948d60</dc:identifier>
+        <dc:title>A new name</dc:title>
+        <dc:creator opf:file-as="Hill, Grace Livingston" opf:role="aut">Grace Livingston Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Christian fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Fugitives from justice -- Fiction</dc:subject>
+        <dc:subject>Traffic accidents -- Fiction</dc:subject>
+        <dc:subject>Anonyms and pseudonyms -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Livingston Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:01.771559+00:00"/>
+        <meta name="calibre:title_sort" content="new name, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db7869f2-63d4-4c4f-aa28-a36ab42b7cfb</dc:identifier>
+        <dc:title>Democritus Platonissans</dc:title>
+        <dc:creator opf:file-as="More, Henry" opf:role="aut">Henry More</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30327</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Platonists -- Poetry</dc:subject>
+        <dc:subject>Philosophy -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry More&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:53:36.191964+00:00"/>
+        <meta name="calibre:title_sort" content="Democritus Platonissans"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a329e81a-eafe-4134-8d03-cfb37b5e85ce</dc:identifier>
+        <dc:title>A short account of the extraordinary life and travels of H. L. L.---- / native of St. Domingo, now a prisoner of war at Ashbourn, in Derbyshire, shewing the remarkable steps of Divine providence towards him, and the means of his conversion to God</dc:title>
+        <dc:creator opf:file-as="H. L. L." opf:role="aut">H. L. L.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44974</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>H. L. L.</dc:subject>
+        <dc:subject>1783-1803?</dc:subject>
+        <dc:subject>Haiti -- History -- Revolution</dc:subject>
+        <dc:subject>1791-1804 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. L. L.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:24.091204+00:00"/>
+        <meta name="calibre:title_sort" content="short account of the extraordinary life and travels of H. L. L.---- / native of St. Domingo, now a prisoner of war at Ashbourn, in Derbyshire, shewing the remarkable steps of Divine providence towards him, and the means of his conversion to God, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

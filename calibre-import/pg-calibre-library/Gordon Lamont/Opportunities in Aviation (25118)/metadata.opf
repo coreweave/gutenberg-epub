@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1d5ada4-9b73-427d-8df6-b238b938ded3</dc:identifier>
+        <dc:title>Opportunities in Aviation</dc:title>
+        <dc:creator opf:file-as="Lamont, Gordon" opf:role="aut">Gordon Lamont</dc:creator>
+        <dc:creator opf:file-as="Lamont, Gordon" opf:role="aut">Arthur Sweetser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23581</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aeronautics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gordon Lamont&quot;: &quot;&quot;, &quot;Arthur Sweetser&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:33:23.622030+00:00"/>
+        <meta name="calibre:title_sort" content="Opportunities in Aviation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

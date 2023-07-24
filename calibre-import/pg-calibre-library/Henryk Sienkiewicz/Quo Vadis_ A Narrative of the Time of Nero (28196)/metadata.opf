@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1246e8a4-f460-4928-a9ae-f2888c7fdc55</dc:identifier>
+        <dc:title>Quo Vadis: A Narrative of the Time of Nero</dc:title>
+        <dc:creator opf:file-as="Sienkiewicz, Henryk" opf:role="aut">Henryk Sienkiewicz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2853</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Church history -- Primitive and early church</dc:subject>
+        <dc:subject>ca. 30-600 -- Fiction</dc:subject>
+        <dc:subject>Rome -- History -- Nero</dc:subject>
+        <dc:subject>54-68 -- Fiction</dc:subject>
+        <dc:subject>Christian fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henryk Sienkiewicz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:47:35.787271+00:00"/>
+        <meta name="calibre:title_sort" content="Quo Vadis: A Narrative of the Time of Nero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

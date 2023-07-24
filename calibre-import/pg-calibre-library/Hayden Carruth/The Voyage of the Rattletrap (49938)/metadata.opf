@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c8b92c5-c76b-46c5-a554-9b451d8b9555</dc:identifier>
+        <dc:title>The Voyage of the Rattletrap</dc:title>
+        <dc:creator opf:file-as="Carruth, Hayden" opf:role="aut">Hayden Carruth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16586</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dakota Territory -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hayden Carruth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:02:33.134401+00:00"/>
+        <meta name="calibre:title_sort" content="Voyage of the Rattletrap, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

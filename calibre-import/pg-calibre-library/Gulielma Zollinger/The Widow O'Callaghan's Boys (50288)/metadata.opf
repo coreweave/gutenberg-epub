@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a19a0210-d568-4f96-9b2c-5b4787d8a736</dc:identifier>
+        <dc:title>The Widow O'Callaghan's Boys</dc:title>
+        <dc:creator opf:file-as="Zollinger, Gulielma" opf:role="aut">Gulielma Zollinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9329</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poor -- Juvenile fiction</dc:subject>
+        <dc:subject>Mothers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Widows -- Juvenile fiction</dc:subject>
+        <dc:subject>Irish Americans -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gulielma Zollinger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:24:15.330024+00:00"/>
+        <meta name="calibre:title_sort" content="Widow O'Callaghan's Boys, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

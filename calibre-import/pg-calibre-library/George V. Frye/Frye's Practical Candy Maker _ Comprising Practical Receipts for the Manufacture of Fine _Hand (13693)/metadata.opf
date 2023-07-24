@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">690eac55-e9de-4aa9-af9a-84cb8f2f2be1</dc:identifier>
+        <dc:title>Frye's Practical Candy Maker / Comprising Practical Receipts for the Manufacture of Fine "Hand-Made" Candies</dc:title>
+        <dc:creator opf:file-as="Frye, George V." opf:role="aut">George V. Frye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37073</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Confectionery</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George V. Frye&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:31:31.272763+00:00"/>
+        <meta name="calibre:title_sort" content="Frye's Practical Candy Maker / Comprising Practical Receipts for the Manufacture of Fine &quot;Hand-Made&quot; Candies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

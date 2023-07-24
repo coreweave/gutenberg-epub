@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">942aed98-debd-4053-98fb-081e6c7fbf69</dc:identifier>
+        <dc:title>Fragonard</dc:title>
+        <dc:creator opf:file-as="MacFall, Haldane" opf:role="aut">Haldane MacFall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fragonard</dc:subject>
+        <dc:subject>Jean Honoré</dc:subject>
+        <dc:subject>1732-1806</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Haldane MacFall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:19:15.203325+00:00"/>
+        <meta name="calibre:title_sort" content="Fragonard"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

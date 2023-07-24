@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22944</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89a61584-2f33-497d-9f1a-749369485201</dc:identifier>
+        <dc:title>Mrs Albert Grundy—Observations in Philistia</dc:title>
+        <dc:creator opf:file-as="Frederic, Harold" opf:role="aut">Harold Frederic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50496</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Middle class -- England -- History -- 19th century -- Humor</dc:subject>
+        <dc:subject>England -- Social life and customs -- 19th century -- Humor</dc:subject>
+        <dc:subject>Social classes -- England -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Frederic&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:01:08.715351+00:00"/>
+        <meta name="calibre:title_sort" content="Mrs Albert Grundy—Observations in Philistia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

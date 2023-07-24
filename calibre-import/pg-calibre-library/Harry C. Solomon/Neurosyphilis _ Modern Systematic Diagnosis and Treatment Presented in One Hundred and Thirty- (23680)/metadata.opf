@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13aa04d2-6555-456c-98af-2ba14fd75752</dc:identifier>
+        <dc:title>Neurosyphilis / Modern Systematic Diagnosis and Treatment Presented in One Hundred and Thirty-Seven Case Histories</dc:title>
+        <dc:creator opf:file-as="Solomon, Harry C. (Harry Caesar)" opf:role="aut">Harry C. Solomon</dc:creator>
+        <dc:creator opf:file-as="Solomon, Harry C. (Harry Caesar)" opf:role="aut">Elmer Ernest Southard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63313</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Neurosyphilis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry C. Solomon&quot;: &quot;&quot;, &quot;Elmer Ernest Southard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:32:30.453862+00:00"/>
+        <meta name="calibre:title_sort" content="Neurosyphilis / Modern Systematic Diagnosis and Treatment Presented in One Hundred and Thirty-Seven Case Histories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

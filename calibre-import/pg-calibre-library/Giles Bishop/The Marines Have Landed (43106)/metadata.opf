@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21bf3527-bed1-4caa-b5dd-09413eb23a32</dc:identifier>
+        <dc:title>The Marines Have Landed</dc:title>
+        <dc:creator opf:file-as="Bishop, Giles" opf:role="aut">Giles Bishop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41037</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Marine Corps -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Giles Bishop&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:20:50.028449+00:00"/>
+        <meta name="calibre:title_sort" content="Marines Have Landed, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

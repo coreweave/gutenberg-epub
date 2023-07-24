@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9ec1188-d2e4-4d86-a817-60a4b93e7fe4</dc:identifier>
+        <dc:title>Read-Aloud Plays</dc:title>
+        <dc:creator opf:file-as="Holley, Horace" opf:role="aut">Horace Holley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15983</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American drama -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Horace Holley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:57:06.859815+00:00"/>
+        <meta name="calibre:title_sort" content="Read-Aloud Plays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

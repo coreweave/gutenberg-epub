@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49815</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72f224aa-d3ce-4094-a038-e1c5bb85892c</dc:identifier>
+        <dc:title>The Vicissitudes of Bessie Fairfax</dc:title>
+        <dc:creator opf:file-as="Lee, Holme" opf:role="aut">Holme Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Holme Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:54:35.982760+00:00"/>
+        <meta name="calibre:title_sort" content="Vicissitudes of Bessie Fairfax, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

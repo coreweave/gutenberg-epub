@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">167df5b6-c042-4760-9d12-928ab601668f</dc:identifier>
+        <dc:title>Somewhere in Red Gap</dc:title>
+        <dc:creator opf:file-as="Wilson, Harry Leon" opf:role="aut">Harry Leon Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14376</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Washington (State) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Leon Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:09:15.162297+00:00"/>
+        <meta name="calibre:title_sort" content="Somewhere in Red Gap"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

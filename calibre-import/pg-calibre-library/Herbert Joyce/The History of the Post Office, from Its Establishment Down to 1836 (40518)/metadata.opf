@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c40687a2-c7e5-4cc8-bfc1-808ad6138205</dc:identifier>
+        <dc:title>The History of the Post Office, from Its Establishment Down to 1836</dc:title>
+        <dc:creator opf:file-as="Joyce, Herbert" opf:role="aut">Herbert Joyce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38328</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postal service -- Great Britain -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Joyce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:58:31.324396+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Post Office, from Its Establishment Down to 1836, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

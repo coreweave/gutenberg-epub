@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">669af79a-14fc-498d-818d-bde75639515e</dc:identifier>
+        <dc:title>The Aftermath; Or, Gleanings from a Busy Life / Called upon the outer cover, for purposes of sale, Caliban's Guide to Letters</dc:title>
+        <dc:creator opf:file-as="Belloc, Hilaire" opf:role="aut">Hilaire Belloc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67042</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Authorship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hilaire Belloc&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:47:21.473580+00:00"/>
+        <meta name="calibre:title_sort" content="Aftermath; Or, Gleanings from a Busy Life / Called upon the outer cover, for purposes of sale, Caliban's Guide to Letters, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

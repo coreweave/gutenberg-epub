@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e0962a9-c5df-4ca5-b038-229105e8321d</dc:identifier>
+        <dc:title>Essays in War-Time: Further Studies in the Task of Social Hygiene</dc:title>
+        <dc:creator opf:file-as="Ellis, Havelock" opf:role="aut">Havelock Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sex</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Eugenics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Havelock Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:39:43.524577+00:00"/>
+        <meta name="calibre:title_sort" content="Essays in War-Time: Further Studies in the Task of Social Hygiene"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

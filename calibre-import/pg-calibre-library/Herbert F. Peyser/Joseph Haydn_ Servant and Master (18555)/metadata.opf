@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82fdb8db-eb4f-492c-87c5-145a3b7fd002</dc:identifier>
+        <dc:title>Joseph Haydn: Servant and Master</dc:title>
+        <dc:creator opf:file-as="Peyser, Herbert F. (Herbert Francis)" opf:role="aut">Herbert F. Peyser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49340</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Haydn</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1732-1809</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert F. Peyser&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:12:12.830510+00:00"/>
+        <meta name="calibre:title_sort" content="Joseph Haydn: Servant and Master"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

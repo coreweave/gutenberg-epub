@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16827</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e531456e-8fc0-4d20-aca2-38634ccefcb9</dc:identifier>
+        <dc:title>Hunted Down; or, Five Days in the Fog / A Thrilling Narrative of the Escape of Young Granice from a Drunken, Infuriated Mob</dc:title>
+        <dc:creator opf:file-as="Granice, Harry" opf:role="aut">Harry Granice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33124</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Madden</dc:subject>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>1850 or 1851-1874</dc:subject>
+        <dc:subject>Granice</dc:subject>
+        <dc:subject>Harry</dc:subject>
+        <dc:subject>-1915</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Granice&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:12:43.711936+00:00"/>
+        <meta name="calibre:title_sort" content="Hunted Down; or, Five Days in the Fog / A Thrilling Narrative of the Escape of Young Granice from a Drunken, Infuriated Mob"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99c0f185-e732-439c-9e62-0b820467d462</dc:identifier>
+        <dc:title>The best man</dc:title>
+        <dc:creator opf:file-as="Hill, Grace Livingston" opf:role="aut">Grace Livingston Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69514</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Impostors and imposture -- Fiction</dc:subject>
+        <dc:subject>Religious fiction</dc:subject>
+        <dc:subject>Romantic suspense fiction</dc:subject>
+        <dc:subject>Government investigators -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Livingston Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:20:46.847891+00:00"/>
+        <meta name="calibre:title_sort" content="best man, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

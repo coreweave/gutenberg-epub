@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f489db47-6fe4-47cf-b8fa-cc886ea1bf07</dc:identifier>
+        <dc:title>Foods and Their Adulteration / Origin, Manufacture, and Composition of Food Products; Description of Common Adulterations, Food Standards, and National Food Laws and Regulations</dc:title>
+        <dc:creator opf:file-as="Wiley, Harvey Washington" opf:role="aut">Harvey Washington Wiley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66164</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Food</dc:subject>
+        <dc:subject>Food adulteration and inspection</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvey Washington Wiley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:11:32.707303+00:00"/>
+        <meta name="calibre:title_sort" content="Foods and Their Adulteration / Origin, Manufacture, and Composition of Food Products; Description of Common Adulterations, Food Standards, and National Food Laws and Regulations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

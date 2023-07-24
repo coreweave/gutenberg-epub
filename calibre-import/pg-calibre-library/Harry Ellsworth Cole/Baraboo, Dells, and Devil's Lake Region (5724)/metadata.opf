@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c9ae91f-071d-4dc5-9ae4-d18eb343e536</dc:identifier>
+        <dc:title>Baraboo, Dells, and Devil's Lake Region</dc:title>
+        <dc:creator opf:file-as="Cole, Harry Ellsworth" opf:role="aut">Harry Ellsworth Cole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40186</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sauk County (Wis.)</dc:subject>
+        <dc:subject>Baraboo (Wis.)</dc:subject>
+        <dc:subject>Dells of the Wisconsin (Wis.)</dc:subject>
+        <dc:subject>Devil's Lake (Wis.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Ellsworth Cole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:07:03.516043+00:00"/>
+        <meta name="calibre:title_sort" content="Baraboo, Dells, and Devil's Lake Region"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

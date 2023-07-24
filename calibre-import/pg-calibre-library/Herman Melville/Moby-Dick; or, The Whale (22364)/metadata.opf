@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cdfe435-a4cf-4a7b-90c0-fdbf3bd8557e</dc:identifier>
+        <dc:title>Moby-Dick; or, The Whale</dc:title>
+        <dc:creator opf:file-as="Melville, Herman" opf:role="aut">Herman Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Whaling -- Fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Ship captains -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Mentally ill -- Fiction</dc:subject>
+        <dc:subject>Ahab</dc:subject>
+        <dc:subject>Captain (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Whales -- Fiction</dc:subject>
+        <dc:subject>Whaling ships -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herman Melville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:36:57.137851+00:00"/>
+        <meta name="calibre:title_sort" content="Moby-Dick; or, The Whale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

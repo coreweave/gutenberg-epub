@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9c0b3d4-a5a0-45d5-b0c2-07f099f9d98d</dc:identifier>
+        <dc:title>The American</dc:title>
+        <dc:creator opf:file-as="James, Henry" opf:role="aut">Henry James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/177</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Widows -- Fiction</dc:subject>
+        <dc:subject>Courtship -- Fiction</dc:subject>
+        <dc:subject>Paris (France) -- Fiction</dc:subject>
+        <dc:subject>Aristocracy (Social class) -- Fiction</dc:subject>
+        <dc:subject>Culture conflict -- Fiction</dc:subject>
+        <dc:subject>Separation (Psychology) -- Fiction</dc:subject>
+        <dc:subject>Americans -- France -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:03:26.572487+00:00"/>
+        <meta name="calibre:title_sort" content="American, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

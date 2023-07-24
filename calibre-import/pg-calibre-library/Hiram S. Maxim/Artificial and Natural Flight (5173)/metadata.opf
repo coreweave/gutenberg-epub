@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2723eacc-2c36-4400-96cf-6ca6a8dcd0df</dc:identifier>
+        <dc:title>Artificial and Natural Flight</dc:title>
+        <dc:creator opf:file-as="Maxim, Hiram S. (Hiram Stevens)" opf:role="aut">Hiram S. Maxim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45344</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Airplanes</dc:subject>
+        <dc:subject>Aeronautics</dc:subject>
+        <dc:subject>Flight</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiram S. Maxim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:55:43.855791+00:00"/>
+        <meta name="calibre:title_sort" content="Artificial and Natural Flight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

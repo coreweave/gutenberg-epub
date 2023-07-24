@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b755e66b-1677-48ba-8a01-09b752e25d68</dc:identifier>
+        <dc:title>Battles of English History</dc:title>
+        <dc:creator opf:file-as="George, H. B. (Hereford Brooke)" opf:role="aut">H. B. George</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47245</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Battles -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. B. George&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:09:27.714552+00:00"/>
+        <meta name="calibre:title_sort" content="Battles of English History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

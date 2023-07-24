@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">274de43b-1813-44e5-b503-744b944e603a</dc:identifier>
+        <dc:title>Mission Furniture: How to Make It, Part 2</dc:title>
+        <dc:creator opf:file-as="Windsor, H. H. (Henry Haven)" opf:role="aut">H. H. Windsor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Furniture making -- Amateurs' manuals</dc:subject>
+        <dc:subject>Furniture</dc:subject>
+        <dc:subject>Mission -- Design and construction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. H. Windsor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:35:18.236394+00:00"/>
+        <meta name="calibre:title_sort" content="Mission Furniture: How to Make It, Part 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

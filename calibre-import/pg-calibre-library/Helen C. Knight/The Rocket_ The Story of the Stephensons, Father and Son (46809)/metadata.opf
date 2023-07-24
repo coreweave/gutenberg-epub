@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cbc0be5-c372-4271-b685-8716621fc6c6</dc:identifier>
+        <dc:title>The Rocket: The Story of the Stephensons, Father and Son</dc:title>
+        <dc:creator opf:file-as="Knight, Helen C. (Helen Cross)" opf:role="aut">Helen C. Knight</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50119</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Fathers and sons -- Juvenile fiction</dc:subject>
+        <dc:subject>Inventors -- Great Britain -- Juvenile fiction</dc:subject>
+        <dc:subject>Locomotives -- History -- Juvenile fiction</dc:subject>
+        <dc:subject>Railroads -- Great Britain -- History -- Juvenile fiction</dc:subject>
+        <dc:subject>Stephenson</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1781-1848 -- Juvenile fiction</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1803-1859 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen C. Knight&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:52:58.799871+00:00"/>
+        <meta name="calibre:title_sort" content="Rocket: The Story of the Stephensons, Father and Son, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

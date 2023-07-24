@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d622a1b6-5c80-48ad-8952-0c2b5b4e709b</dc:identifier>
+        <dc:title>Christmas for Tad: A Story of Mary and Abraham Lincoln</dc:title>
+        <dc:creator opf:file-as="Miller, Helen Topping" opf:role="aut">Helen Topping Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Fiction</dc:subject>
+        <dc:subject>Presidents -- United States -- Fiction</dc:subject>
+        <dc:subject>Mary Todd</dc:subject>
+        <dc:subject>1818-1882 -- Fiction</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1853-1871 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen Topping Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:13:19.095916+00:00"/>
+        <meta name="calibre:title_sort" content="Christmas for Tad: A Story of Mary and Abraham Lincoln"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

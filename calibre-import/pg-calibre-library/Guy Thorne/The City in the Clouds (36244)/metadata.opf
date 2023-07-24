@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfe065e7-f39f-4cc5-a426-737e5c800bea</dc:identifier>
+        <dc:title>The City in the Clouds</dc:title>
+        <dc:creator opf:file-as="Thorne, Guy" opf:role="aut">Guy Thorne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37270</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Utopias -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Guy Thorne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:16:44.745632+00:00"/>
+        <meta name="calibre:title_sort" content="City in the Clouds, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

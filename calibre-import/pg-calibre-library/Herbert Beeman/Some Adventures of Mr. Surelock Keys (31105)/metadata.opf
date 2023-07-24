@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f32706db-0d19-47fc-9295-0488d9f3340b</dc:identifier>
+        <dc:title>Some Adventures of Mr. Surelock Keys</dc:title>
+        <dc:creator opf:file-as="Beeman, Herbert" opf:role="aut">Herbert Beeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47368</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Canadian</dc:subject>
+        <dc:subject>Doyle</dc:subject>
+        <dc:subject>Arthur Conan</dc:subject>
+        <dc:subject>1859-1930 -- Parodies</dc:subject>
+        <dc:subject>imitations</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Beeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:04:10.750548+00:00"/>
+        <meta name="calibre:title_sort" content="Some Adventures of Mr. Surelock Keys"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

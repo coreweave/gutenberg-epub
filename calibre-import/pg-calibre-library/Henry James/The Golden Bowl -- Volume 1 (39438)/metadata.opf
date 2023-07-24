@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d4c5df2-e005-43c4-90be-c4e40ca745f7</dc:identifier>
+        <dc:title>The Golden Bowl — Volume 1</dc:title>
+        <dc:creator opf:file-as="James, Henry" opf:role="aut">Henry James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4262</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adultery -- Fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Americans -- England -- Fiction</dc:subject>
+        <dc:subject>Art -- Collectors and collecting -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:01:06.487510+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Bowl — Volume 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

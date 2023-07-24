@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c68b175-30e6-4b17-a3a5-617c37d83a4d</dc:identifier>
+        <dc:title>The Ascent of Denali (Mount McKinley) / A Narrative of the First Complete Ascent of the Highest / Peak in North America</dc:title>
+        <dc:creator opf:file-as="Stuck, Hudson" opf:role="aut">Hudson Stuck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26059</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stuck</dc:subject>
+        <dc:subject>Hudson</dc:subject>
+        <dc:subject>1863-1920 -- Travel -- Alaska -- McKinley</dc:subject>
+        <dc:subject>Mount</dc:subject>
+        <dc:subject>Mountaineering -- Alaska -- McKinley</dc:subject>
+        <dc:subject>McKinley</dc:subject>
+        <dc:subject>Mount (Alaska)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hudson Stuck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:18:26.109767+00:00"/>
+        <meta name="calibre:title_sort" content="Ascent of Denali (Mount McKinley) / A Narrative of the First Complete Ascent of the Highest / Peak in North America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

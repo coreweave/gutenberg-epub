@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fe4fd0e-205b-4523-84d9-964a9f7f920f</dc:identifier>
+        <dc:title>William Penn</dc:title>
+        <dc:creator opf:file-as="Oertel, Hugo" opf:role="aut">Hugo Oertel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62656</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Penn</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1644-1718</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hugo Oertel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:22:37.536194+00:00"/>
+        <meta name="calibre:title_sort" content="William Penn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

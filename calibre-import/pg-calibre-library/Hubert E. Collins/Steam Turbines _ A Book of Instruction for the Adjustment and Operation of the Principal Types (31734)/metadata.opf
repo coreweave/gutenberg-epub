@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9851e092-4d2a-4eb1-a5bf-09aae92504aa</dc:identifier>
+        <dc:title>Steam Turbines / A Book of Instruction for the Adjustment and Operation of the Principal Types of this Class of Prime Movers</dc:title>
+        <dc:creator opf:file-as="Collins, Hubert E. (Hubert Edwin)" opf:role="aut">Hubert E. Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27687</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Steam-turbines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hubert E. Collins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:34:26.262808+00:00"/>
+        <meta name="calibre:title_sort" content="Steam Turbines / A Book of Instruction for the Adjustment and Operation of the Principal Types of this Class of Prime Movers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

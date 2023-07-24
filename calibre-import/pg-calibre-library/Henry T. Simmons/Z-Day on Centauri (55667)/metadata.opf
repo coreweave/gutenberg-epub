@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba9f6847-d5b9-4c3d-a082-4ee0b971b790</dc:identifier>
+        <dc:title>Z-Day on Centauri</dc:title>
+        <dc:creator opf:file-as="Simmons, Henry T." opf:role="aut">Henry T. Simmons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64726</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Revolutionaries -- Fiction</dc:subject>
+        <dc:subject>Space colonies -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry T. Simmons&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:13:10.608812+00:00"/>
+        <meta name="calibre:title_sort" content="Z-Day on Centauri"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

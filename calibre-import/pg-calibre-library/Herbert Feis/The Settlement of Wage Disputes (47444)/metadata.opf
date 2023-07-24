@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47444</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e74c08d5-970b-488d-bb73-3bfc40f25e4c</dc:identifier>
+        <dc:title>The Settlement of Wage Disputes</dc:title>
+        <dc:creator opf:file-as="Feis, Herbert" opf:role="aut">Herbert Feis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27519</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Wages -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Feis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:30:34.642780+00:00"/>
+        <meta name="calibre:title_sort" content="Settlement of Wage Disputes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

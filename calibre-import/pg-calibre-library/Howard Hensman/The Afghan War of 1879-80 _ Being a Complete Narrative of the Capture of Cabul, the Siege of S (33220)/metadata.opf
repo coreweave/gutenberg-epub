@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc42bd2d-f2b5-49af-b51f-ef0a68a777fa</dc:identifier>
+        <dc:title>The Afghan War of 1879-80 / Being a Complete Narrative of the Capture of Cabul, the Siege of Sherpur, the Battle of Ahmed Khel, the Brilliant March to Candahar, and the Defeat of Ayub Khan, with the Operations on the Helmund, and the Settlement with Abdur Rahman Khan</dc:title>
+        <dc:creator opf:file-as="Hensman, Howard" opf:role="aut">Howard Hensman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55519</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Afghan Wars</dc:subject>
+        <dc:subject>Afghan Wars -- Personal narratives</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Hensman</dc:subject>
+        <dc:subject>Howard</dc:subject>
+        <dc:subject>-1916</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Howard Hensman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:47:02.697862+00:00"/>
+        <meta name="calibre:title_sort" content="Afghan War of 1879-80 / Being a Complete Narrative of the Capture of Cabul, the Siege of Sherpur, the Battle of Ahmed Khel, the Brilliant March to Candahar, and the Defeat of Ayub Khan, with the Operations on the Helmund, and the Settlement with Abdur Rahman Khan, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

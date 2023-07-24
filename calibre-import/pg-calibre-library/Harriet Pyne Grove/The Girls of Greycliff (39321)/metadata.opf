@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abbf9f8c-83ec-4ebc-88af-99f677e44e74</dc:identifier>
+        <dc:title>The Girls of Greycliff</dc:title>
+        <dc:creator opf:file-as="Grove, Harriet Pyne" opf:role="aut">Harriet Pyne Grove</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62063</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boarding schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Societies and clubs -- Juvenile fiction</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <dc:subject>Boarding school students -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harriet Pyne Grove&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:55:11.884024+00:00"/>
+        <meta name="calibre:title_sort" content="Girls of Greycliff, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

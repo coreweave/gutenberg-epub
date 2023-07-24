@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4781</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25ca50f4-e7fe-42b2-ad14-f2d399bdcac1</dc:identifier>
+        <dc:title>Animal Figures in the Maya Codices</dc:title>
+        <dc:creator opf:file-as="Allen, Glover M. (Glover Morrill)" opf:role="aut">Glover M. Allen</dc:creator>
+        <dc:creator opf:file-as="Allen, Glover M. (Glover Morrill)" opf:role="aut">Alfred M. Tozzer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19042</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mayas -- Antiquities</dc:subject>
+        <dc:subject>Mayan languages -- Writing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Glover M. Allen&quot;: &quot;&quot;, &quot;Alfred M. Tozzer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:47:48.812407+00:00"/>
+        <meta name="calibre:title_sort" content="Animal Figures in the Maya Codices"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

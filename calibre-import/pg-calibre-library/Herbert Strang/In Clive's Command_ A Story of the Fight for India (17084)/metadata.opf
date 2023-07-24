@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17084</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff68b950-ef7d-42b2-9c9a-560e9a2cd8a1</dc:identifier>
+        <dc:title>In Clive's Command: A Story of the Fight for India</dc:title>
+        <dc:creator opf:file-as="Strang, Herbert" opf:role="aut">Herbert Strang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16382</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- British occupation</dc:subject>
+        <dc:subject>1765-1947 -- Fiction</dc:subject>
+        <dc:subject>Clive</dc:subject>
+        <dc:subject>Robert Clive</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1725-1774 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Strang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:21:30.192089+00:00"/>
+        <meta name="calibre:title_sort" content="In Clive's Command: A Story of the Fight for India"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

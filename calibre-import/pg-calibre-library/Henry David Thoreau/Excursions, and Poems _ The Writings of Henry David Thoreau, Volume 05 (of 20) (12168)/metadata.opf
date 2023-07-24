@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f42df71-bb3e-4af5-8aae-caec8aa0ea8e</dc:identifier>
+        <dc:title>Excursions, and Poems / The Writings of Henry David Thoreau, Volume 05 (of 20)</dc:title>
+        <dc:creator opf:file-as="Thoreau, Henry David" opf:role="aut">Henry David Thoreau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42553</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry</dc:subject>
+        <dc:subject>Natural history -- Outdoor books</dc:subject>
+        <dc:subject>Greek poetry -- Translations into English</dc:subject>
+        <dc:subject>Thoreau</dc:subject>
+        <dc:subject>Henry David</dc:subject>
+        <dc:subject>1817-1862 -- Travel -- Québec (Province)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry David Thoreau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:46:58.968954+00:00"/>
+        <meta name="calibre:title_sort" content="Excursions, and Poems / The Writings of Henry David Thoreau, Volume 05 (of 20)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b86b4e1-24c0-4e38-a704-e662a5e9eea6</dc:identifier>
+        <dc:title>A Letter to Hon. Charles Sumner, with 'Statements' of Outrages upon Freedmen in Georgia</dc:title>
+        <dc:creator opf:file-as="Pierson, Hamilton W. (Hamilton Wilcox)" opf:role="aut">Hamilton W. Pierson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29942</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ku Klux Klan (19th century) -- Georgia</dc:subject>
+        <dc:subject>Reconstruction (U.S. history</dc:subject>
+        <dc:subject>1865-1877) -- Georgia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hamilton W. Pierson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:55.436185+00:00"/>
+        <meta name="calibre:title_sort" content="Letter to Hon. Charles Sumner, with 'Statements' of Outrages upon Freedmen in Georgia, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

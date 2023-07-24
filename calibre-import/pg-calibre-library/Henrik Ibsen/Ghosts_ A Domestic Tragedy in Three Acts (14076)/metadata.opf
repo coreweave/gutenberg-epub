@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd48344c-d74b-45f6-97fc-357a12430cd8</dc:identifier>
+        <dc:title>Ghosts: A Domestic Tragedy in Three Acts</dc:title>
+        <dc:creator opf:file-as="Ibsen, Henrik" opf:role="aut">Henrik Ibsen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2467</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Families -- Drama</dc:subject>
+        <dc:subject>Europe -- Social conditions -- 19th century -- Drama</dc:subject>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Mothers and sons -- Drama</dc:subject>
+        <dc:subject>Norwegian drama -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henrik Ibsen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:43:18.313106+00:00"/>
+        <meta name="calibre:title_sort" content="Ghosts: A Domestic Tragedy in Three Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

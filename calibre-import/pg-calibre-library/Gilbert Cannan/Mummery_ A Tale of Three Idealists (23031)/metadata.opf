@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f014a33-5bba-4b78-bda9-95d72ab1f574</dc:identifier>
+        <dc:title>Mummery: A Tale of Three Idealists</dc:title>
+        <dc:creator opf:file-as="Cannan, Gilbert" opf:role="aut">Gilbert Cannan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29500</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Theater -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gilbert Cannan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:04:56.213722+00:00"/>
+        <meta name="calibre:title_sort" content="Mummery: A Tale of Three Idealists"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

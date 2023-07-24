@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6dbf280-c887-4486-a573-3346f990b589</dc:identifier>
+        <dc:title>The Life of Thomas, Lord Cochrane, Tenth Earl of Dundonald, Vol. I</dc:title>
+        <dc:creator opf:file-as="Bourne, H. R. Fox (Henry Richard Fox)" opf:role="aut">H. R. Fox Bourne</dc:creator>
+        <dc:creator opf:file-as="Bourne, H. R. Fox (Henry Richard Fox)" opf:role="aut">Earl of Thomas Barnes Cochrane Dundonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Admirals -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Dundonald</dc:subject>
+        <dc:subject>Thomas Cochrane</dc:subject>
+        <dc:subject>Earl of</dc:subject>
+        <dc:subject>1775-1860</dc:subject>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Naval -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. R. Fox Bourne&quot;: &quot;&quot;, &quot;Earl of Thomas Barnes Cochrane Dundonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:35:13.002920+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Thomas, Lord Cochrane, Tenth Earl of Dundonald, Vol. I, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

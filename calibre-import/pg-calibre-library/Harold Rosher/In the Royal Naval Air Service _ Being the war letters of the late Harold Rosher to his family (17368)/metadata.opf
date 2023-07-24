@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f954564-c258-4bfb-9994-b68fa1aadb83</dc:identifier>
+        <dc:title>In the Royal Naval Air Service / Being the war letters of the late Harold Rosher to his family</dc:title>
+        <dc:creator opf:file-as="Rosher, Harold" opf:role="aut">Harold Rosher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53168</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Personal narratives</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>1914-1918 -- Aerial operations</dc:subject>
+        <dc:subject>Great Britain. Royal Naval Air Service -- Biography</dc:subject>
+        <dc:subject>Rosher</dc:subject>
+        <dc:subject>Harold</dc:subject>
+        <dc:subject>1893-1916 -- Correspondence</dc:subject>
+        <dc:subject>Air pilots</dc:subject>
+        <dc:subject>Military -- Great Britain -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Rosher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:31:08.926534+00:00"/>
+        <meta name="calibre:title_sort" content="In the Royal Naval Air Service / Being the war letters of the late Harold Rosher to his family"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

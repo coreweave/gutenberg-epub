@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4b108e5-a02b-460c-8f46-2e426e5484b2</dc:identifier>
+        <dc:title>The Gunner's Examiner</dc:title>
+        <dc:creator opf:file-as="Cloke, Harold E. (Harold Edward)" opf:role="aut">Harold E. Cloke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47895</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gunnery</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold E. Cloke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:25:20.419656+00:00"/>
+        <meta name="calibre:title_sort" content="Gunner's Examiner, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

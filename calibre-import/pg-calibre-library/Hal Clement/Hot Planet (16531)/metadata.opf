@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc0534b5-ee90-4a72-ad5c-14bf6cb5a490</dc:identifier>
+        <dc:title>Hot Planet</dc:title>
+        <dc:creator opf:file-as="Clement, Hal" opf:role="aut">Hal Clement</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50928</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Explorers -- Fiction</dc:subject>
+        <dc:subject>Mercury (Planet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hal Clement&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:02:55.748573+00:00"/>
+        <meta name="calibre:title_sort" content="Hot Planet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

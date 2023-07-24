@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd143505-6365-406c-befe-2e78c1f569e1</dc:identifier>
+        <dc:title>The Rivals of Acadia / An Old Story of the New World</dc:title>
+        <dc:creator opf:file-as="Cheney, H. V. (Harriet Vaughan)" opf:role="aut">H. V. Cheney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aulnay</dc:subject>
+        <dc:subject>Charles de Menou d'</dc:subject>
+        <dc:subject>1604?-1650 -- Fiction</dc:subject>
+        <dc:subject>La Tour</dc:subject>
+        <dc:subject>Charles de Saint-Etienne de</dc:subject>
+        <dc:subject>1593-1666 -- Fiction</dc:subject>
+        <dc:subject>Acadia -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. V. Cheney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:49:30.963007+00:00"/>
+        <meta name="calibre:title_sort" content="Rivals of Acadia / An Old Story of the New World, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

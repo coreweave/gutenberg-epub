@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11039</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9329f6b5-9d96-4533-816e-57e584c5037d</dc:identifier>
+        <dc:title>Dulcibel: A Tale of Old Salem</dc:title>
+        <dc:creator opf:file-as="Peterson, Henry" opf:role="aut">Henry Peterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20569</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Witches -- Fiction</dc:subject>
+        <dc:subject>Trials (Witchcraft) -- Fiction</dc:subject>
+        <dc:subject>Salem (Mass.) -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Peterson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:15:50.580589+00:00"/>
+        <meta name="calibre:title_sort" content="Dulcibel: A Tale of Old Salem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

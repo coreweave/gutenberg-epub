@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40fa9cae-3e2a-4853-8d6b-852b5b219c26</dc:identifier>
+        <dc:title>Sonnets of Shakespeare's Ghost</dc:title>
+        <dc:creator opf:file-as="Thornton, Gregory" opf:role="aut">Gregory Thornton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gregory Thornton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:12:26.229255+00:00"/>
+        <meta name="calibre:title_sort" content="Sonnets of Shakespeare's Ghost"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

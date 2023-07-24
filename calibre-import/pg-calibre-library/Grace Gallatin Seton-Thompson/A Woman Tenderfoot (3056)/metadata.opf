@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3056</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">787a97c2-2770-4f7c-a311-3e8a17cf9a31</dc:identifier>
+        <dc:title>A Woman Tenderfoot</dc:title>
+        <dc:creator opf:file-as="Seton-Thompson, Grace Gallatin" opf:role="aut">Grace Gallatin Seton-Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9412</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Outdoor life</dc:subject>
+        <dc:subject>Hunting -- West (U.S.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grace Gallatin Seton-Thompson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:15:28.898511+00:00"/>
+        <meta name="calibre:title_sort" content="Woman Tenderfoot, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

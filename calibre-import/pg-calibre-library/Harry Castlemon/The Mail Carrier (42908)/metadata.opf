@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5e94c28-950c-4a63-ab3c-bb395e664c25</dc:identifier>
+        <dc:title>The Mail Carrier</dc:title>
+        <dc:creator opf:file-as="Castlemon, Harry" opf:role="aut">Harry Castlemon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Courage -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunters -- Juvenile fiction</dc:subject>
+        <dc:subject>Letter carriers -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Castlemon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:09:49.367433+00:00"/>
+        <meta name="calibre:title_sort" content="Mail Carrier, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

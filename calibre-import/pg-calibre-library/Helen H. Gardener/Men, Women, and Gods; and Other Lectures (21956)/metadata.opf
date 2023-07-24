@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21956</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9893dbd0-7ddc-483f-aded-da98d6f1eae9</dc:identifier>
+        <dc:title>Men, Women, and Gods; and Other Lectures</dc:title>
+        <dc:creator opf:file-as="Gardener, Helen H. (Helen Hamilton)" opf:role="aut">Helen H. Gardener</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30207</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Free thought</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen H. Gardener&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:20:18.207239+00:00"/>
+        <meta name="calibre:title_sort" content="Men, Women, and Gods; and Other Lectures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

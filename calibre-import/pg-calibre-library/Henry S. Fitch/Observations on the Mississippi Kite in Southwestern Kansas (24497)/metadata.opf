@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aac0771-82c4-4da4-8a13-495b1dd2ce5e</dc:identifier>
+        <dc:title>Observations on the Mississippi Kite in Southwestern Kansas</dc:title>
+        <dc:creator opf:file-as="Fitch, Henry S. (Henry Sheldon)" opf:role="aut">Henry S. Fitch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33412</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mississippi kite</dc:subject>
+        <dc:subject>Birds -- Kansas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry S. Fitch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:07:29.986398+00:00"/>
+        <meta name="calibre:title_sort" content="Observations on the Mississippi Kite in Southwestern Kansas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

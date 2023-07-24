@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdc8fd5f-3c23-4a1c-855b-1a07fa1efbfe</dc:identifier>
+        <dc:title>The Loves of Great Composers</dc:title>
+        <dc:creator opf:file-as="Kobbé, Gustav" opf:role="aut">Gustav Kobbé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18138</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beethoven</dc:subject>
+        <dc:subject>Ludwig van</dc:subject>
+        <dc:subject>1770-1827</dc:subject>
+        <dc:subject>Liszt</dc:subject>
+        <dc:subject>Franz</dc:subject>
+        <dc:subject>1811-1886</dc:subject>
+        <dc:subject>Wagner</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1813-1883</dc:subject>
+        <dc:subject>Mozart</dc:subject>
+        <dc:subject>Wolfgang Amadeus</dc:subject>
+        <dc:subject>1756-1791</dc:subject>
+        <dc:subject>Chopin</dc:subject>
+        <dc:subject>Frédéric</dc:subject>
+        <dc:subject>1810-1849</dc:subject>
+        <dc:subject>Schumann</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1810-1856</dc:subject>
+        <dc:subject>Mendelssohn-Bartholdy</dc:subject>
+        <dc:subject>Felix</dc:subject>
+        <dc:subject>1809-1847</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gustav Kobbé&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:02:34.568226+00:00"/>
+        <meta name="calibre:title_sort" content="Loves of Great Composers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

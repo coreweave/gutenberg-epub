@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88ac1e43-0739-48df-9b78-9ff2a2a92764</dc:identifier>
+        <dc:title>The Gunpowder Plot and Lord Mounteagle's Letter, Being a Proof, with Moral Certitude, of the Authorship of the Document / Together with Some Account of the Whole Thirteen Gunpowder Conspirators, Including Guy Fawkes</dc:title>
+        <dc:creator opf:file-as="Spink, Henry" opf:role="aut">Henry Spink</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40029</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Monteagle</dc:subject>
+        <dc:subject>William Parker</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1574 or 1575-1622</dc:subject>
+        <dc:subject>Gunpowder Plot</dc:subject>
+        <dc:subject>1605</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Spink&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:25:23.559811+00:00"/>
+        <meta name="calibre:title_sort" content="Gunpowder Plot and Lord Mounteagle's Letter, Being a Proof, with Moral Certitude, of the Authorship of the Document / Together with Some Account of the Whole Thirteen Gunpowder Conspirators, Including Guy Fawkes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

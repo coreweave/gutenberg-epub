@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1582734d-3fd1-4f28-8513-273b28c3a160</dc:identifier>
+        <dc:title>The High School Pitcher; or, Dick &amp; Co. on the Gridley Diamond</dc:title>
+        <dc:creator opf:file-as="Hancock, H. Irving (Harrie Irving)" opf:role="aut">H. Irving Hancock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12690</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Baseball -- Juvenile fiction</dc:subject>
+        <dc:subject>School sports -- Juvenile fiction</dc:subject>
+        <dc:subject>Teenage boys -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Irving Hancock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:41:14.719768+00:00"/>
+        <meta name="calibre:title_sort" content="High School Pitcher; or, Dick &amp; Co. on the Gridley Diamond, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

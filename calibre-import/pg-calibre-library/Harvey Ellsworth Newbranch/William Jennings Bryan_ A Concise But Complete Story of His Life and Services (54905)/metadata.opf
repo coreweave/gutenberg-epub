@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54905</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd07677b-b0a1-4a1c-81b1-5dfe6cbba36c</dc:identifier>
+        <dc:title>William Jennings Bryan: A Concise But Complete Story of His Life and Services</dc:title>
+        <dc:creator opf:file-as="Newbranch, Harvey Ellsworth" opf:role="aut">Harvey Ellsworth Newbranch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bryan</dc:subject>
+        <dc:subject>William Jennings</dc:subject>
+        <dc:subject>1860-1925</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harvey Ellsworth Newbranch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:21:53.351539+00:00"/>
+        <meta name="calibre:title_sort" content="William Jennings Bryan: A Concise But Complete Story of His Life and Services"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

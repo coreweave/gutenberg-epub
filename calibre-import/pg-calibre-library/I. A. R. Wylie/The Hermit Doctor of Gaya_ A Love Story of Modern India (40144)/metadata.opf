@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57652fbf-a620-4501-969a-4edce3e34b78</dc:identifier>
+        <dc:title>The Hermit Doctor of Gaya: A Love Story of Modern India</dc:title>
+        <dc:creator opf:file-as="Wylie, I. A. R. (Ida Alexa Ross)" opf:role="aut">I. A. R. Wylie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49555</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Fiction</dc:subject>
+        <dc:subject>Physicians -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;I. A. R. Wylie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:38:23.738794+00:00"/>
+        <meta name="calibre:title_sort" content="Hermit Doctor of Gaya: A Love Story of Modern India, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

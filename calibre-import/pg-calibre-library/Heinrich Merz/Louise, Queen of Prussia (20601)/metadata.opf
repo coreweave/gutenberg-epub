@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20601</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d07e49f-93ce-4355-be03-60e2b81d05e8</dc:identifier>
+        <dc:title>Louise, Queen of Prussia</dc:title>
+        <dc:creator opf:file-as="Merz, Heinrich" opf:role="aut">Heinrich Merz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Luise</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Frederick William III</dc:subject>
+        <dc:subject>King of Prussia</dc:subject>
+        <dc:subject>1776-1810</dc:subject>
+        <dc:subject>Queens -- Germany -- Prussia -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Heinrich Merz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:26:58.802713+00:00"/>
+        <meta name="calibre:title_sort" content="Louise, Queen of Prussia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

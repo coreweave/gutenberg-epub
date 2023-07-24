@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c2fe441-7a52-48a1-ae48-d22932f45240</dc:identifier>
+        <dc:title>The Army of the Cumberland</dc:title>
+        <dc:creator opf:file-as="Cist, Henry Martyn" opf:role="aut">Henry Martyn Cist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories -- Army of the Cumberland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Martyn Cist&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:13:51.903763+00:00"/>
+        <meta name="calibre:title_sort" content="Army of the Cumberland, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

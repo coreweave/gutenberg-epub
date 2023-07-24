@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bb4d801-669a-43a0-94ca-2dd3cdaabd95</dc:identifier>
+        <dc:title>Forced Move</dc:title>
+        <dc:creator opf:file-as="Lee, Henry" opf:role="aut">Henry Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59309</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Pentagon (Va.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:13:34.786303+00:00"/>
+        <meta name="calibre:title_sort" content="Forced Move"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ebedb58-6223-4766-83ae-dcc62201bd21</dc:identifier>
+        <dc:title>Children's Books and Their Illustrators</dc:title>
+        <dc:creator opf:file-as="White, Gleeson" opf:role="aut">Gleeson White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's literature</dc:subject>
+        <dc:subject>Illustration of books</dc:subject>
+        <dc:subject>Illustrators</dc:subject>
+        <dc:subject>Illustrated books</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gleeson White&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:09:34.386556+00:00"/>
+        <meta name="calibre:title_sort" content="Children's Books and Their Illustrators"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6f45111-939b-4580-bfcc-afeba2b30478</dc:identifier>
+        <dc:title>The Europeans</dc:title>
+        <dc:creator opf:file-as="James, Henry" opf:role="aut">Henry James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/179</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Siblings -- Fiction</dc:subject>
+        <dc:subject>Boston (Mass.) -- Fiction</dc:subject>
+        <dc:subject>Upper class -- Fiction</dc:subject>
+        <dc:subject>Europeans -- United States -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:53:28.197463+00:00"/>
+        <meta name="calibre:title_sort" content="Europeans, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

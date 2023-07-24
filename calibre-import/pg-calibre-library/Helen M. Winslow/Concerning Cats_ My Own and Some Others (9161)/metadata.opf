@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab036789-9c5e-480d-b70d-2bb093cba6a0</dc:identifier>
+        <dc:title>Concerning Cats: My Own and Some Others</dc:title>
+        <dc:creator opf:file-as="Winslow, Helen M. (Helen Maria)" opf:role="aut">Helen M. Winslow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cats</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Helen M. Winslow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:26:40.931375+00:00"/>
+        <meta name="calibre:title_sort" content="Concerning Cats: My Own and Some Others"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

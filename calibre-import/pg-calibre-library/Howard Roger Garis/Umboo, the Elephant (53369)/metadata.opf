@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">436f8f85-7943-4db3-96f6-bceaf9ba4f7f</dc:identifier>
+        <dc:title>Umboo, the Elephant</dc:title>
+        <dc:creator opf:file-as="Garis, Howard Roger" opf:role="aut">Howard Roger Garis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5900</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Elephants -- Juvenile fiction</dc:subject>
+        <dc:subject>India -- Juvenile fiction</dc:subject>
+        <dc:subject>Circus animals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Howard Roger Garis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:42:02.159226+00:00"/>
+        <meta name="calibre:title_sort" content="Umboo, the Elephant"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

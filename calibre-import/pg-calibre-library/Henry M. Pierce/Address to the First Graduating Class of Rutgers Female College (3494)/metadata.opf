@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86d4e584-0d52-4c26-94e1-d74866b250d0</dc:identifier>
+        <dc:title>Address to the First Graduating Class of Rutgers Female College</dc:title>
+        <dc:creator opf:file-as="Pierce, Henry M. (Henry Miller)" opf:role="aut">Henry M. Pierce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34793</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Education</dc:subject>
+        <dc:subject>Rutgers Female College (New York</dc:subject>
+        <dc:subject>N.Y.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry M. Pierce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:23:29.905953+00:00"/>
+        <meta name="calibre:title_sort" content="Address to the First Graduating Class of Rutgers Female College"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

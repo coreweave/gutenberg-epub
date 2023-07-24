@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c60185e-c1b3-4a7e-8471-f4ff6d1c753d</dc:identifier>
+        <dc:title>Bell's Cathedrals: Southwark Cathedral / Formerly the Collegiate Church of St. Saviour, Otherwise St. Mary Overie. A Short History and Description of the Fabric, with Some Account of the College and the See</dc:title>
+        <dc:creator opf:file-as="Worley, George" opf:role="aut">George Worley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24616</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southwark Cathedral (London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Worley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:13:41.423646+00:00"/>
+        <meta name="calibre:title_sort" content="Bell's Cathedrals: Southwark Cathedral / Formerly the Collegiate Church of St. Saviour, Otherwise St. Mary Overie. A Short History and Description of the Fabric, with Some Account of the College and the See"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

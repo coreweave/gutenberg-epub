@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9a2a842-26dc-4e95-b479-3c5a18d5dabe</dc:identifier>
+        <dc:title>Danton: A study</dc:title>
+        <dc:creator opf:file-as="Belloc, Hilaire" opf:role="aut">Hilaire Belloc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68582</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Danton</dc:subject>
+        <dc:subject>Georges Jacques</dc:subject>
+        <dc:subject>1759-1794</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hilaire Belloc&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:45:19.995986+00:00"/>
+        <meta name="calibre:title_sort" content="Danton: A study"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

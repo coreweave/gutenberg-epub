@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">045e0014-b10b-4eaf-8a42-184c3d9a3a91</dc:identifier>
+        <dc:title>Heliogabalus: A Buffoonery in Three Acts</dc:title>
+        <dc:creator opf:file-as="Mencken, H. L. (Henry Louis)" opf:role="aut">H. L. Mencken</dc:creator>
+        <dc:creator opf:file-as="Mencken, H. L. (Henry Louis)" opf:role="aut">George Jean Nathan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61281</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Elagabalus</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>204-222 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. L. Mencken&quot;: &quot;&quot;, &quot;George Jean Nathan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:27:31.390158+00:00"/>
+        <meta name="calibre:title_sort" content="Heliogabalus: A Buffoonery in Three Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

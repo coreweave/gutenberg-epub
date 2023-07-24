@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7041</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65139d83-02a8-4b6d-8ea2-c7fb70d40a13</dc:identifier>
+        <dc:title>Brief History of English and American Literature</dc:title>
+        <dc:creator opf:file-as="Beers, Henry A. (Henry Augustin)" opf:role="aut">Henry A. Beers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21090</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American literature -- History and criticism</dc:subject>
+        <dc:subject>English literature -- History and criticism</dc:subject>
+        <dc:subject>English-speaking countries -- Intellectual life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry A. Beers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:35:56.662065+00:00"/>
+        <meta name="calibre:title_sort" content="Brief History of English and American Literature"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

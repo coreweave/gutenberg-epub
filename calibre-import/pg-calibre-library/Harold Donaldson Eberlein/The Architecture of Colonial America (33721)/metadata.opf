@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb907067-9467-4e84-8a12-8f8b74faa493</dc:identifier>
+        <dc:title>The Architecture of Colonial America</dc:title>
+        <dc:creator opf:file-as="Eberlein, Harold Donaldson" opf:role="aut">Harold Donaldson Eberlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59120</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Colonial</dc:subject>
+        <dc:subject>Architecture -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harold Donaldson Eberlein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:11:25.389366+00:00"/>
+        <meta name="calibre:title_sort" content="Architecture of Colonial America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

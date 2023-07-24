@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68e6eb4f-67fb-41c8-a6af-b031039a8245</dc:identifier>
+        <dc:title>Harrods for Everything</dc:title>
+        <dc:creator opf:file-as="Harrods Ltd." opf:role="aut">Harrods Ltd.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61985</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harrods Ltd. -- Catalogs</dc:subject>
+        <dc:subject>Manufactures -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harrods Ltd.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:21:00.694150+00:00"/>
+        <meta name="calibre:title_sort" content="Harrods for Everything"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

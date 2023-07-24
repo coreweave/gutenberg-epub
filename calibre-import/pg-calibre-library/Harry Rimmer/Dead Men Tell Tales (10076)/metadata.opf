@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cb0ef26-5ee3-40e5-8057-b2df1a425929</dc:identifier>
+        <dc:title>Dead Men Tell Tales</dc:title>
+        <dc:creator opf:file-as="Rimmer, Harry" opf:role="aut">Harry Rimmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66366</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. Old Testament -- Evidences</dc:subject>
+        <dc:subject>authority</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Bible -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Rimmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:50:06.409556+00:00"/>
+        <meta name="calibre:title_sort" content="Dead Men Tell Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

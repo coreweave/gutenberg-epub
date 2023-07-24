@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5297c0cd-baaa-4b7a-9be8-c5f3546b8acf</dc:identifier>
+        <dc:title>A Text-book of Tanning / A treatise on the conversion of skins into leather, both practical and theoretical.</dc:title>
+        <dc:creator opf:file-as="Procter, H. R. (Henry Richardson)" opf:role="aut">H. R. Procter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56601</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tanning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. R. Procter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:10:02.738063+00:00"/>
+        <meta name="calibre:title_sort" content="Text-book of Tanning / A treatise on the conversion of skins into leather, both practical and theoretical., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

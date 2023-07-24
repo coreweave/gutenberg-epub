@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62f89533-54f3-4054-8be6-64bb05fe43b9</dc:identifier>
+        <dc:title>A Pictorial Atlas of Fossil Remains, consisting of coloured illustrations selected from Parkinson's "Organic remains of a former world," and Artis's "Antediluvian phytology."</dc:title>
+        <dc:creator opf:file-as="Mantell, Gideon Algernon" opf:role="aut">Gideon Algernon Mantell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64434</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paleontology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gideon Algernon Mantell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:58:35.541865+00:00"/>
+        <meta name="calibre:title_sort" content="Pictorial Atlas of Fossil Remains, consisting of coloured illustrations selected from Parkinson's &quot;Organic remains of a former world,&quot; and Artis's &quot;Antediluvian phytology.&quot;, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97bedb31-10e7-4de7-98b6-e7beaea33cfc</dc:identifier>
+        <dc:title>Determination of the Atomic Weight of Cadmium and the Preparation of Certain of Its Sub-Compounds</dc:title>
+        <dc:creator opf:file-as="Jones, Harry C. (Harry Clary)" opf:role="aut">Harry C. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67396</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thesis (Ph. D.)</dc:subject>
+        <dc:subject>Atomic weights</dc:subject>
+        <dc:subject>Cadmium</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry C. Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:55:23.198877+00:00"/>
+        <meta name="calibre:title_sort" content="Determination of the Atomic Weight of Cadmium and the Preparation of Certain of Its Sub-Compounds"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

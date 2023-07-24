@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61f1294c-0975-4c31-b633-20ca0b1e0c9a</dc:identifier>
+        <dc:title>History of Central America, Volume 3, 1801-1887 / The Works of Hubert Howe Bancroft, Volume 8</dc:title>
+        <dc:creator opf:file-as="Bancroft, Hubert Howe" opf:role="aut">Hubert Howe Bancroft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Central America -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hubert Howe Bancroft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:43:36.358951+00:00"/>
+        <meta name="calibre:title_sort" content="History of Central America, Volume 3, 1801-1887 / The Works of Hubert Howe Bancroft, Volume 8"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

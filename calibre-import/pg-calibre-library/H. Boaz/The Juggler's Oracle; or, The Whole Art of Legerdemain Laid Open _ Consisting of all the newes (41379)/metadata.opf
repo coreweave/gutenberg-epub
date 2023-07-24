@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f44db79-0fca-4db4-8463-456709e677e8</dc:identifier>
+        <dc:title>The Juggler's Oracle; or, The Whole Art of Legerdemain Laid Open / Consisting of all the newest and most surprising tricks and experiments with cards, cups and balls, conveyance of money and rings, boxes, fire, strings and knots; with many curious experiments by optical illusion, chymical changes, and magical cards, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Boaz, H. (Herman)" opf:role="aut">H. Boaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Magic tricks</dc:subject>
+        <dc:subject>Tricks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Boaz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:45:19.943099+00:00"/>
+        <meta name="calibre:title_sort" content="Juggler's Oracle; or, The Whole Art of Legerdemain Laid Open / Consisting of all the newest and most surprising tricks and experiments with cards, cups and balls, conveyance of money and rings, boxes, fire, strings and knots; with many curious experiments by optical illusion, chymical changes, and magical cards, &amp;c., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

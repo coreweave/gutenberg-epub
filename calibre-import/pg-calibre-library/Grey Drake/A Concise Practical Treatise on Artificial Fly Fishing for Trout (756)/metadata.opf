@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ac0a04f-7b3c-4205-a293-5b1815b3eae5</dc:identifier>
+        <dc:title>A Concise Practical Treatise on Artificial Fly Fishing for Trout</dc:title>
+        <dc:creator opf:file-as="Drake, Grey" opf:role="aut">Grey Drake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66423</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Flies</dc:subject>
+        <dc:subject>Artificial</dc:subject>
+        <dc:subject>Trout fishing -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Grey Drake&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:37:21.697125+00:00"/>
+        <meta name="calibre:title_sort" content="Concise Practical Treatise on Artificial Fly Fishing for Trout, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

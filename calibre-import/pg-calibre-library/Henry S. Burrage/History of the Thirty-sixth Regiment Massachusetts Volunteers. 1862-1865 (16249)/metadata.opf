@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f9f6e36-701a-4fc2-8b46-ead78fdef248</dc:identifier>
+        <dc:title>History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865</dc:title>
+        <dc:creator opf:file-as="Burrage, Henry S. (Henry Sweetser)" opf:role="aut">Henry S. Burrage</dc:creator>
+        <dc:creator opf:file-as="Burrage, Henry S. (Henry Sweetser)" opf:role="aut">William H. Hodgkins</dc:creator>
+        <dc:creator opf:file-as="Burrage, Henry S. (Henry Sweetser)" opf:role="aut">Edmund W. Noyes</dc:creator>
+        <dc:creator opf:file-as="Burrage, Henry S. (Henry Sweetser)" opf:role="aut">S. Alonzo Ranlett</dc:creator>
+        <dc:creator opf:file-as="Burrage, Henry S. (Henry Sweetser)" opf:role="aut">Alonzo A. White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50422</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>United States. Army. Massachusetts Infantry Regiment</dc:subject>
+        <dc:subject>36th (1862-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry S. Burrage&quot;: &quot;&quot;, &quot;William H. Hodgkins&quot;: &quot;&quot;, &quot;Edmund W. Noyes&quot;: &quot;&quot;, &quot;S. Alonzo Ranlett&quot;: &quot;&quot;, &quot;Alonzo A. White&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:53:23.614389+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Thirty-sixth Regiment Massachusetts Volunteers. 1862-1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

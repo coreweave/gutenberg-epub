@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce1f7819-1785-47ff-b0f0-fd285ce0af6b</dc:identifier>
+        <dc:title>The Lives of the Painters, Sculptors &amp; Architects, Volume 1 (of 8)</dc:title>
+        <dc:creator opf:file-as="Vasari, Giorgio" opf:role="aut">Giorgio Vasari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21212</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Artists -- Italy -- Biography</dc:subject>
+        <dc:subject>Art</dc:subject>
+        <dc:subject>Italian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Giorgio Vasari&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:50:03.791935+00:00"/>
+        <meta name="calibre:title_sort" content="Lives of the Painters, Sculptors &amp; Architects, Volume 1 (of 8), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

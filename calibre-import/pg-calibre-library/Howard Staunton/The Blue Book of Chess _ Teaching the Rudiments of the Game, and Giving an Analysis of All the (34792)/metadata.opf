@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b10d88aa-c41e-4a74-8975-13b9e30f0007</dc:identifier>
+        <dc:title>The Blue Book of Chess / Teaching the Rudiments of the Game, and Giving an Analysis of All the Recognized Openings</dc:title>
+        <dc:creator opf:file-as="Staunton, Howard" opf:role="aut">Howard Staunton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16377</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chess</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Howard Staunton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:04:22.500624+00:00"/>
+        <meta name="calibre:title_sort" content="Blue Book of Chess / Teaching the Rudiments of the Game, and Giving an Analysis of All the Recognized Openings, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

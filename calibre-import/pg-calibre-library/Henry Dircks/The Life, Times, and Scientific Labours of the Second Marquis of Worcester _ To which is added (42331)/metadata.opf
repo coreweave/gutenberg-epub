@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10036147-6a4b-4fe9-a92d-b976fb664ac4</dc:identifier>
+        <dc:title>The Life, Times, and Scientific Labours of the Second Marquis of Worcester / To which is added a reprint of his Century of Inventions, 1663, with a Commentary thereon.</dc:title>
+        <dc:creator opf:file-as="Dircks, Henry" opf:role="aut">Henry Dircks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51903</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Industrial arts -- History</dc:subject>
+        <dc:subject>Inventions</dc:subject>
+        <dc:subject>Worcester</dc:subject>
+        <dc:subject>Edward Somerset</dc:subject>
+        <dc:subject>Marquis of</dc:subject>
+        <dc:subject>1601-1667</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Dircks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:37:58.669181+00:00"/>
+        <meta name="calibre:title_sort" content="Life, Times, and Scientific Labours of the Second Marquis of Worcester / To which is added a reprint of his Century of Inventions, 1663, with a Commentary thereon., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

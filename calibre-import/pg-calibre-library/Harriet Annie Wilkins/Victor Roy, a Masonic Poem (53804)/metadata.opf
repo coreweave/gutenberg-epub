@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5111704-0cfe-4ef4-862d-0192a79729f3</dc:identifier>
+        <dc:title>Victor Roy, a Masonic Poem</dc:title>
+        <dc:creator opf:file-as="Wilkins, Harriet Annie" opf:role="aut">Harriet Annie Wilkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8146</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian poetry -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harriet Annie Wilkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:09:58.497499+00:00"/>
+        <meta name="calibre:title_sort" content="Victor Roy, a Masonic Poem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

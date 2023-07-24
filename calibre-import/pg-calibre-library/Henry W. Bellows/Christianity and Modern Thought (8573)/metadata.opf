@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f20e3d2b-9c78-4a0a-87ec-84f6dbfcfe79</dc:identifier>
+        <dc:title>Christianity and Modern Thought</dc:title>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">Henry W. Bellows</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">James Freeman Clarke</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">Athanase Coquerel</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">Orville Dewey</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">Charles Carroll Everett</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">Frederic Henry Hedge</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">James Martineau</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">Andrew P. Peabody</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">George Vance Smith</dc:creator>
+        <dc:creator opf:file-as="Bellows, Henry W. (Henry Whitney)" opf:role="aut">Oliver Stearns</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41280</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Unitarianism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry W. Bellows&quot;: &quot;&quot;, &quot;James Freeman Clarke&quot;: &quot;&quot;, &quot;Athanase Coquerel&quot;: &quot;&quot;, &quot;Orville Dewey&quot;: &quot;&quot;, &quot;Charles Carroll Everett&quot;: &quot;&quot;, &quot;Frederic Henry Hedge&quot;: &quot;&quot;, &quot;James Martineau&quot;: &quot;&quot;, &quot;Andrew P. Peabody&quot;: &quot;&quot;, &quot;George Vance Smith&quot;: &quot;&quot;, &quot;Oliver Stearns&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:12:06.140188+00:00"/>
+        <meta name="calibre:title_sort" content="Christianity and Modern Thought"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

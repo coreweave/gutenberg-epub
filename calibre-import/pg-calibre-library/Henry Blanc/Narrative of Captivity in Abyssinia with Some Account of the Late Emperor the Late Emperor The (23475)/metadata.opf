@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">936be2a0-055f-4ae0-8e31-daef46a1a637</dc:identifier>
+        <dc:title>Narrative of Captivity in Abyssinia with Some Account of the Late Emperor the Late Emperor Theodore, His Country and People</dc:title>
+        <dc:creator opf:file-as="Blanc, Henry" opf:role="aut">Henry Blanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8815</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theodore II</dc:subject>
+        <dc:subject>Negus of Ethiopia</dc:subject>
+        <dc:subject>-1868</dc:subject>
+        <dc:subject>Ethiopia -- History -- 1490-1889</dc:subject>
+        <dc:subject>Abyssinian Expedition (1867-1868)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Blanc&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:24:10.709589+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of Captivity in Abyssinia with Some Account of the Late Emperor the Late Emperor Theodore, His Country and People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

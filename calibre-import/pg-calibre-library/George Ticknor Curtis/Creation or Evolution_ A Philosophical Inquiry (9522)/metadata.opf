@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af6fc3d8-eb21-4db0-8212-52acdbea2a06</dc:identifier>
+        <dc:title>Creation or Evolution? A Philosophical Inquiry</dc:title>
+        <dc:creator opf:file-as="Curtis, George Ticknor" opf:role="aut">George Ticknor Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Creation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Ticknor Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:35:48.307040+00:00"/>
+        <meta name="calibre:title_sort" content="Creation or Evolution? A Philosophical Inquiry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

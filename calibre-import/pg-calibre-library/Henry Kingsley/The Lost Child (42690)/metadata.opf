@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03677f5e-47a6-429e-90c8-aadac5c8da49</dc:identifier>
+        <dc:title>The Lost Child</dc:title>
+        <dc:creator opf:file-as="Kingsley, Henry" opf:role="aut">Henry Kingsley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25404</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Missing children -- Australia -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Kingsley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:57:57.836733+00:00"/>
+        <meta name="calibre:title_sort" content="Lost Child, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

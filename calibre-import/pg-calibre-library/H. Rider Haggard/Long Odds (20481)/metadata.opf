@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38320340-0fc5-4184-8a0f-0f532225948a</dc:identifier>
+        <dc:title>Long Odds</dc:title>
+        <dc:creator opf:file-as="Haggard, H. Rider (Henry Rider)" opf:role="aut">H. Rider Haggard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2730</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Africa -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Hunting guides -- Fiction</dc:subject>
+        <dc:subject>Quatermain</dc:subject>
+        <dc:subject>Allan (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Rider Haggard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:22:22.951503+00:00"/>
+        <meta name="calibre:title_sort" content="Long Odds"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

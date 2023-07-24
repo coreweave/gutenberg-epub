@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">117cc53b-470d-4d88-9e73-33ce59cfa8fd</dc:identifier>
+        <dc:title>More Peers : Verses</dc:title>
+        <dc:creator opf:file-as="Belloc, Hilaire" opf:role="aut">Hilaire Belloc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27182</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nonsense verses</dc:subject>
+        <dc:subject>Humorous poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hilaire Belloc&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:47:39.644829+00:00"/>
+        <meta name="calibre:title_sort" content="More Peers : Verses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

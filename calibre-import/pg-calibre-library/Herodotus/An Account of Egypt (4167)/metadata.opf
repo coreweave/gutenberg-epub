@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">192afe29-7927-4693-811c-08760c302cb3</dc:identifier>
+        <dc:title>An Account of Egypt</dc:title>
+        <dc:creator opf:file-as="Herodotus" opf:role="aut">Herodotus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egypt -- History -- To 332 B.C.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herodotus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:35:56.996820+00:00"/>
+        <meta name="calibre:title_sort" content="Account of Egypt, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

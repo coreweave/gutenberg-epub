@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1b0c3ab-7406-47f2-8cbd-1486e76e18fb</dc:identifier>
+        <dc:title>The Education of Henry Adams</dc:title>
+        <dc:creator opf:file-as="Adams, Henry" opf:role="aut">Henry Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2044</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adams</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>1838-1918</dc:subject>
+        <dc:subject>Historians -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:37:54.889717+00:00"/>
+        <meta name="calibre:title_sort" content="Education of Henry Adams, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

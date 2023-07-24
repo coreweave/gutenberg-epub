@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">958a22b3-3b43-4db0-be43-f706595571d8</dc:identifier>
+        <dc:title>King Arthur's Knights / The Tales Re-told for Boys &amp; Girls</dc:title>
+        <dc:creator opf:file-as="Gilbert, Henry" opf:role="aut">Henry Gilbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22396</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arthurian romances -- Adaptations</dc:subject>
+        <dc:subject>Knights and knighthood -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Gilbert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:24:46.276586+00:00"/>
+        <meta name="calibre:title_sort" content="King Arthur's Knights / The Tales Re-told for Boys &amp; Girls"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

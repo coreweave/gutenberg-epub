@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb76331a-52a7-4c53-ba99-14fa4d884103</dc:identifier>
+        <dc:title>Bell's Cathedrals: The Priory Church of St. Bartholomew-the-Great, Smithfield / A Short History of the Foundation and a Description of the / Fabric and also of the Church of St. Bartholomew-the-Less</dc:title>
+        <dc:creator opf:file-as="Worley, George" opf:role="aut">George Worley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21511</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>St. Bartholomew-the-Great (Church : London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>St. Bartholomew-the-Less (Church : London</dc:subject>
+        <dc:subject>London (England) -- Church history</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Worley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:14:12.309068+00:00"/>
+        <meta name="calibre:title_sort" content="Bell's Cathedrals: The Priory Church of St. Bartholomew-the-Great, Smithfield / A Short History of the Foundation and a Description of the / Fabric and also of the Church of St. Bartholomew-the-Less"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

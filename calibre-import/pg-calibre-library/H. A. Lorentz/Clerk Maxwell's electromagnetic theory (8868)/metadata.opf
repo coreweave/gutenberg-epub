@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8c921f5-094a-4c66-8009-63395ca10d75</dc:identifier>
+        <dc:title>Clerk Maxwell's electromagnetic theory</dc:title>
+        <dc:creator opf:file-as="Lorentz, H. A. (Hendrik Antoon)" opf:role="aut">H. A. Lorentz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70453</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maxwell</dc:subject>
+        <dc:subject>James Clerk</dc:subject>
+        <dc:subject>1831-1879</dc:subject>
+        <dc:subject>Electromagnetic theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. A. Lorentz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:19:21.657057+00:00"/>
+        <meta name="calibre:title_sort" content="Clerk Maxwell's electromagnetic theory"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

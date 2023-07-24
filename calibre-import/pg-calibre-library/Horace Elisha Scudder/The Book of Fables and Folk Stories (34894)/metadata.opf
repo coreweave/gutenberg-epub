@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4b9e0c8-1444-412d-91d9-f2a1499ae2ec</dc:identifier>
+        <dc:title>The Book of Fables and Folk Stories</dc:title>
+        <dc:creator opf:file-as="Scudder, Horace Elisha" opf:role="aut">Horace Elisha Scudder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45384</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Fables</dc:subject>
+        <dc:subject>Tales</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Horace Elisha Scudder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:09:26.155023+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Fables and Folk Stories, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

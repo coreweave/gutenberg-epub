@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fae7240-37ee-47b5-8aeb-d11570ca6673</dc:identifier>
+        <dc:title>Pictures and Stories from Uncle Tom's Cabin</dc:title>
+        <dc:creator opf:file-as="Stowe, Harriet Beecher" opf:role="aut">Harriet Beecher Stowe</dc:creator>
+        <dc:creator opf:file-as="Stowe, Harriet Beecher" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28021</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southern States -- Juvenile fiction</dc:subject>
+        <dc:subject>Uncle Tom (Fictitious character) -- Juvenile fiction</dc:subject>
+        <dc:subject>Plantation life -- Juvenile fiction</dc:subject>
+        <dc:subject>African Americans -- Juvenile fiction</dc:subject>
+        <dc:subject>Master and servant -- Juvenile fiction</dc:subject>
+        <dc:subject>Fugitive slaves -- Juvenile fiction</dc:subject>
+        <dc:subject>Slavery -- Juvenile fiction</dc:subject>
+        <dc:subject>Slaves -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harriet Beecher Stowe&quot;: &quot;&quot;, &quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:26:33.653161+00:00"/>
+        <meta name="calibre:title_sort" content="Pictures and Stories from Uncle Tom's Cabin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

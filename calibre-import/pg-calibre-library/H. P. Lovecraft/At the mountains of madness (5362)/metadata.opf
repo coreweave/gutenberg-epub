@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5362</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3292b327-a64c-4d60-88dc-7aa14166f7d1</dc:identifier>
+        <dc:title>At the mountains of madness</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. (Howard Phillips)" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70652</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Horror tales</dc:subject>
+        <dc:subject>Antarctica -- Fiction</dc:subject>
+        <dc:subject>Fossils -- Collection and preservation -- Fiction</dc:subject>
+        <dc:subject>Scientific expeditions -- Fiction</dc:subject>
+        <dc:subject>Stone carving -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:59:32.053170+00:00"/>
+        <meta name="calibre:title_sort" content="At the mountains of madness"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

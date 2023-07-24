@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c2da320-0a00-4c95-8584-7f83992b2cca</dc:identifier>
+        <dc:title>Essays on Various Subjects, Principally Designed for Young Ladies</dc:title>
+        <dc:creator opf:file-as="More, Hannah" opf:role="aut">Hannah More</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Women -- Education</dc:subject>
+        <dc:subject>Women -- Conduct of life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hannah More&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:40:52.182595+00:00"/>
+        <meta name="calibre:title_sort" content="Essays on Various Subjects, Principally Designed for Young Ladies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

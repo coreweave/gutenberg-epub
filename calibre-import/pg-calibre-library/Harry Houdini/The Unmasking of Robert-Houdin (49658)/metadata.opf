@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">825e97ef-5306-47f2-a332-12aa43676665</dc:identifier>
+        <dc:title>The Unmasking of Robert-Houdin</dc:title>
+        <dc:creator opf:file-as="Houdini, Harry" opf:role="aut">Harry Houdini</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42723</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Magic tricks -- History</dc:subject>
+        <dc:subject>Robert-Houdin</dc:subject>
+        <dc:subject>Jean-Eugène</dc:subject>
+        <dc:subject>1805-1871</dc:subject>
+        <dc:subject>Magicians -- France -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Harry Houdini&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:44:49.892795+00:00"/>
+        <meta name="calibre:title_sort" content="Unmasking of Robert-Houdin, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

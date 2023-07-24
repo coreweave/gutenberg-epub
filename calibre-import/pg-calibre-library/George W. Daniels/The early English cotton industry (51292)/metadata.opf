@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6405b5a0-8bb6-4264-82b2-785292cb7e99</dc:identifier>
+        <dc:title>The early English cotton industry</dc:title>
+        <dc:creator opf:file-as="Daniels, George W. (George William)" opf:role="aut">George W. Daniels</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70140</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cotton machinery</dc:subject>
+        <dc:subject>Cotton trade -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George W. Daniels&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:28:59.527855+00:00"/>
+        <meta name="calibre:title_sort" content="early English cotton industry, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

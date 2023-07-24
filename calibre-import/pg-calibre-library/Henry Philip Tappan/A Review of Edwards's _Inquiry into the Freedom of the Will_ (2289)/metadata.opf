@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10494242-8305-4709-b4e0-416d7bffec3d</dc:identifier>
+        <dc:title>A Review of Edwards's "Inquiry into the Freedom of the Will"</dc:title>
+        <dc:creator opf:file-as="Tappan, Henry Philip" opf:role="aut">Henry Philip Tappan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35958</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Free will and determinism</dc:subject>
+        <dc:subject>Edwards</dc:subject>
+        <dc:subject>Jonathan</dc:subject>
+        <dc:subject>1703-1758. Freedom of the will</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Philip Tappan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:59.936010+00:00"/>
+        <meta name="calibre:title_sort" content="Review of Edwards's &quot;Inquiry into the Freedom of the Will&quot;, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

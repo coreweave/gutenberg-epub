@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e14cfc87-e681-4f2f-9371-d3eb04b2b892</dc:identifier>
+        <dc:title>The Clock that Had no Hands / And Nineteen Other Essays About Advertising</dc:title>
+        <dc:creator opf:file-as="Kaufman, Herbert" opf:role="aut">Herbert Kaufman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Advertising</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Herbert Kaufman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:19:43.317486+00:00"/>
+        <meta name="calibre:title_sort" content="Clock that Had no Hands / And Nineteen Other Essays About Advertising, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

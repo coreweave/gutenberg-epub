@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99a7a276-2597-4dd3-96f9-c11b27d25948</dc:identifier>
+        <dc:title>Ladysmith: The Diary of a Siege</dc:title>
+        <dc:creator opf:file-as="Nevinson, Henry Woodd" opf:role="aut">Henry Woodd Nevinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16603</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ladysmith (South Africa) -- History -- Siege</dc:subject>
+        <dc:subject>1899-1900</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Woodd Nevinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:33:50.873430+00:00"/>
+        <meta name="calibre:title_sort" content="Ladysmith: The Diary of a Siege"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

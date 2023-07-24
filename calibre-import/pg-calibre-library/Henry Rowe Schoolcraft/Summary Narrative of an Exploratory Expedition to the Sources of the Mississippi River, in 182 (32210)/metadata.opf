@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9277d1f1-6ca1-44c4-ae84-37fcfcbf6524</dc:identifier>
+        <dc:title>Summary Narrative of an Exploratory Expedition to the Sources of the Mississippi River, in 1820 / Resumed and Completed, by the Discovery of its Origin in Itasca Lake, in 1832</dc:title>
+        <dc:creator opf:file-as="Schoolcraft, Henry Rowe" opf:role="aut">Henry Rowe Schoolcraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43693</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Old -- Description and travel</dc:subject>
+        <dc:subject>Great Lakes (North America)</dc:subject>
+        <dc:subject>Mississippi River -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Rowe Schoolcraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:58:12.787210+00:00"/>
+        <meta name="calibre:title_sort" content="Summary Narrative of an Exploratory Expedition to the Sources of the Mississippi River, in 1820 / Resumed and Completed, by the Discovery of its Origin in Itasca Lake, in 1832"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

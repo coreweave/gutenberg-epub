@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1beb903-e3c8-4c24-8fa0-b31c8e4bf47b</dc:identifier>
+        <dc:title>The Works of Balzac: A linked index to all Project Gutenberg editions</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31565</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>French fiction -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:40:56.186515+00:00"/>
+        <meta name="calibre:title_sort" content="Works of Balzac: A linked index to all Project Gutenberg editions, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

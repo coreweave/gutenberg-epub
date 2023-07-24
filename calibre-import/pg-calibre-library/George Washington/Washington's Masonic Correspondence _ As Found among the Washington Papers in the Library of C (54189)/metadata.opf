@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70bfd160-55bd-4014-b9b7-d00b9f577351</dc:identifier>
+        <dc:title>Washington's Masonic Correspondence / As Found among the Washington Papers in the Library of Congress</dc:title>
+        <dc:creator opf:file-as="Washington, George" opf:role="aut">George Washington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29949</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799 -- Freemasonry</dc:subject>
+        <dc:subject>1732-1799 -- Correspondence</dc:subject>
+        <dc:subject>Freemasons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Washington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:35:09.010900+00:00"/>
+        <meta name="calibre:title_sort" content="Washington's Masonic Correspondence / As Found among the Washington Papers in the Library of Congress"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

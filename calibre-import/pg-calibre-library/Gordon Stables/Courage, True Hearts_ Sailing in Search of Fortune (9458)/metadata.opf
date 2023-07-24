@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9df54576-7759-482d-ac2e-93be7a7b9fde</dc:identifier>
+        <dc:title>Courage, True Hearts: Sailing in Search of Fortune</dc:title>
+        <dc:creator opf:file-as="Stables, Gordon" opf:role="aut">Gordon Stables</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39729</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Shipwrecks -- Indian Ocean -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gordon Stables&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:34:11.746468+00:00"/>
+        <meta name="calibre:title_sort" content="Courage, True Hearts: Sailing in Search of Fortune"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

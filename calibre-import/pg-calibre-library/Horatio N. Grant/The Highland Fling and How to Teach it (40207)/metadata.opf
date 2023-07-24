@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c3c69ae-99cd-4340-b1fa-8f845a49f413</dc:identifier>
+        <dc:title>The Highland Fling and How to Teach it</dc:title>
+        <dc:creator opf:file-as="Grant, Horatio N." opf:role="aut">Horatio N. Grant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12942</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Highland fling (Dance) -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Dance Instruction and Technical Manuals</dc:subject>
+        <dc:subject>Theatrical Dance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Horatio N. Grant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:41:41.629297+00:00"/>
+        <meta name="calibre:title_sort" content="Highland Fling and How to Teach it, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
