@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93936054-49a3-4f1e-a0d3-037c57ec7671</dc:identifier>
+        <dc:title>Joe Strong the Boy Fire-Eater; Or, The Most Dangerous Performance on Record</dc:title>
+        <dc:creator opf:file-as="Barnum, Vance" opf:role="aut">Vance Barnum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10579</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Circus performers -- Juvenile fiction</dc:subject>
+        <dc:subject>Fire-eating -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vance Barnum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:06:00.187328+00:00"/>
+        <meta name="calibre:title_sort" content="Joe Strong the Boy Fire-Eater; Or, The Most Dangerous Performance on Record"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

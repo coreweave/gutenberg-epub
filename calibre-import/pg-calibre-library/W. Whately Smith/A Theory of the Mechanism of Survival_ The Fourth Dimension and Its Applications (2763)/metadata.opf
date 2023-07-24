@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">deb58a48-8a99-4df2-8ba3-641d0bce9eca</dc:identifier>
+        <dc:title>A Theory of the Mechanism of Survival: The Fourth Dimension and Its Applications</dc:title>
+        <dc:creator opf:file-as="Smith, W. Whately (Walter Whately)" opf:role="aut">W. Whately Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fourth dimension</dc:subject>
+        <dc:subject>Parapsychology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Whately Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:10:11.213907+00:00"/>
+        <meta name="calibre:title_sort" content="Theory of the Mechanism of Survival: The Fourth Dimension and Its Applications, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

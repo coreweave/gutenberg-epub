@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63a7825b-9b70-4b37-9983-ceb3bce66aed</dc:identifier>
+        <dc:title>In Our Town</dc:title>
+        <dc:creator opf:file-as="White, William Allen" opf:role="aut">William Allen White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26207</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>City and town life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Allen White&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:23:51.550470+00:00"/>
+        <meta name="calibre:title_sort" content="In Our Town"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

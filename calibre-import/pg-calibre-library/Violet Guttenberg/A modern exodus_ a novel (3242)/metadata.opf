@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8df25071-9a61-4cb8-8b15-5e2435e4fb8f</dc:identifier>
+        <dc:title>A modern exodus: a novel</dc:title>
+        <dc:creator opf:file-as="Guttenberg, Violet" opf:role="aut">Violet Guttenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68763</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jews -- England -- Fiction</dc:subject>
+        <dc:subject>Antisemitism -- Fiction</dc:subject>
+        <dc:subject>Speculative fiction</dc:subject>
+        <dc:subject>Zionism -- Fiction</dc:subject>
+        <dc:subject>Jews -- Palestine -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Violet Guttenberg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:54.055577+00:00"/>
+        <meta name="calibre:title_sort" content="modern exodus: a novel, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

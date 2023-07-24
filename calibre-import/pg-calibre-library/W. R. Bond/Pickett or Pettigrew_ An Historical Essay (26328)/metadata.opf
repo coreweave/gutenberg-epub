@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa3f2550-ac46-4618-95fb-2a4811e4005f</dc:identifier>
+        <dc:title>Pickett or Pettigrew? An Historical Essay</dc:title>
+        <dc:creator opf:file-as="Bond, W. R. (William R.)" opf:role="aut">W. R. Bond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57392</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>Gettysburg</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Pa.</dc:subject>
+        <dc:subject>1863</dc:subject>
+        <dc:subject>Pickett</dc:subject>
+        <dc:subject>George E. (George Edward)</dc:subject>
+        <dc:subject>1825-1875</dc:subject>
+        <dc:subject>Pettigrew</dc:subject>
+        <dc:subject>James Johnston</dc:subject>
+        <dc:subject>1828-1863</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. R. Bond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:25:30.007078+00:00"/>
+        <meta name="calibre:title_sort" content="Pickett or Pettigrew? An Historical Essay"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

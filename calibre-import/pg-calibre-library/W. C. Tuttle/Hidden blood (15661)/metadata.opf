@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b004c93-201a-4403-a89d-db3ba6960e57</dc:identifier>
+        <dc:title>Hidden blood</dc:title>
+        <dc:creator opf:file-as="Tuttle, W. C. (Wilbur C.)" opf:role="aut">W. C. Tuttle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70059</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Robbery -- Fiction</dc:subject>
+        <dc:subject>Murder -- Fiction</dc:subject>
+        <dc:subject>Vendetta -- Fiction</dc:subject>
+        <dc:subject>Pulp literature</dc:subject>
+        <dc:subject>Ranch life -- West (U.S.) -- Fiction</dc:subject>
+        <dc:subject>Hartley</dc:subject>
+        <dc:subject>Hashknife (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Stevens</dc:subject>
+        <dc:subject>Sleepy (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. C. Tuttle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:33:53.380575+00:00"/>
+        <meta name="calibre:title_sort" content="Hidden blood"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

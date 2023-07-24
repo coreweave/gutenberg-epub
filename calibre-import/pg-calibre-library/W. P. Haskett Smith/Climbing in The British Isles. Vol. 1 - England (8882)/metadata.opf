@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6a2a797-ee6d-4398-93ad-ac5226b34e3d</dc:identifier>
+        <dc:title>Climbing in The British Isles. Vol. 1 - England</dc:title>
+        <dc:creator opf:file-as="Haskett Smith, W. P. (Walter Parry)" opf:role="aut">W. P. Haskett Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37993</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mountains -- England -- Guidebooks</dc:subject>
+        <dc:subject>Mountaineering -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. P. Haskett Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:19:42.867475+00:00"/>
+        <meta name="calibre:title_sort" content="Climbing in The British Isles. Vol. 1 - England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

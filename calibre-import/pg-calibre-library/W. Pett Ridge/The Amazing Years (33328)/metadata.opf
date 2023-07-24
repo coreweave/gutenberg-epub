@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d86806ae-21fa-4292-b66d-2c5105539903</dc:identifier>
+        <dc:title>The Amazing Years</dc:title>
+        <dc:creator opf:file-as="Ridge, W. Pett (William Pett)" opf:role="aut">W. Pett Ridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62418</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- England -- Fiction</dc:subject>
+        <dc:subject>England -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Families -- Fiction</dc:subject>
+        <dc:subject>Housekeepers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Pett Ridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:52:19.910492+00:00"/>
+        <meta name="calibre:title_sort" content="Amazing Years, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

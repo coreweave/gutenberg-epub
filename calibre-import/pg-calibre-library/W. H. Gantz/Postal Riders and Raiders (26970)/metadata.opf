@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dd764f6-8a40-4f23-832f-be09b31e4f3f</dc:identifier>
+        <dc:title>Postal Riders and Raiders</dc:title>
+        <dc:creator opf:file-as="Gantz, W. H." opf:role="aut">W. H. Gantz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55570</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postal service -- United States -- Second-class matter</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Gantz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:53:20.738432+00:00"/>
+        <meta name="calibre:title_sort" content="Postal Riders and Raiders"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

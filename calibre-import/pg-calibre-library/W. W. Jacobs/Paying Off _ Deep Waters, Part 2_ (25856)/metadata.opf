@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6e9ffd5-af3c-4e14-9fbf-11208a535876</dc:identifier>
+        <dc:title>Paying Off / Deep Waters, Part 2.</dc:title>
+        <dc:creator opf:file-as="Jacobs, W. W. (William Wymark)" opf:role="aut">W. W. Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11472</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>England -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Sailors -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. W. Jacobs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:04:41.179670+00:00"/>
+        <meta name="calibre:title_sort" content="Paying Off / Deep Waters, Part 2."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c02bc5d2-c29c-4930-a23c-3f5e5ea4ff86</dc:identifier>
+        <dc:title>My Pet Recipes, Tried and True / Contributed by the Ladies and Friends of St. Andrew's Church, Quebec</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21826</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Canadian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:14:20.784338+00:00"/>
+        <meta name="calibre:title_sort" content="My Pet Recipes, Tried and True / Contributed by the Ladies and Friends of St. Andrew's Church, Quebec"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

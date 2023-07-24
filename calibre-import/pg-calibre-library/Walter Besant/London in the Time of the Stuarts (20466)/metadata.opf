@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56fe1f2c-fd70-47f7-be79-12a2022764a0</dc:identifier>
+        <dc:title>London in the Time of the Stuarts</dc:title>
+        <dc:creator opf:file-as="Besant, Walter" opf:role="aut">Walter Besant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59782</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- History -- 17th century</dc:subject>
+        <dc:subject>London (England) -- Social life and customs -- 17th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Besant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:21:47.006938+00:00"/>
+        <meta name="calibre:title_sort" content="London in the Time of the Stuarts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

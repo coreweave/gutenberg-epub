@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33c809a3-711a-4bd6-a403-9462ce6cd99a</dc:identifier>
+        <dc:title>Richard Wagner His Life and His Dramas / A Biographical Study of the Man and an Explanation of His Work</dc:title>
+        <dc:creator opf:file-as="Henderson, W. J. (William James)" opf:role="aut">W. J. Henderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44767</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wagner</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1813-1883</dc:subject>
+        <dc:subject>1813-1883. Operas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. J. Henderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:22:29.313977+00:00"/>
+        <meta name="calibre:title_sort" content="Richard Wagner His Life and His Dramas / A Biographical Study of the Man and an Explanation of His Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e651d0e9-746b-4e6c-b67d-bf054120f712</dc:identifier>
+        <dc:title>From Death Into Life or, Twenty Years of My Ministry</dc:title>
+        <dc:creator opf:file-as="Haslam, W. (William)" opf:role="aut">W. Haslam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14578</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Haslam</dc:subject>
+        <dc:subject>W. (William)</dc:subject>
+        <dc:subject>Church of England -- Clergy -- Biography</dc:subject>
+        <dc:subject>Evangelistic work -- England -- Cornwall -- History -- 19th century</dc:subject>
+        <dc:subject>Christianity -- Evangelism</dc:subject>
+        <dc:subject>Cornwall (England : County)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Haslam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:27:20.557904+00:00"/>
+        <meta name="calibre:title_sort" content="From Death Into Life or, Twenty Years of My Ministry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

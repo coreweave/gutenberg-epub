@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f307b94-8203-456d-a275-011efd07011c</dc:identifier>
+        <dc:title>Satan's Invisible World Displayed; or, Despairing Democracy / A Study of Greater New York</dc:title>
+        <dc:creator opf:file-as="Stead, W. T. (William Thomas)" opf:role="aut">W. T. Stead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44476</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Police -- New York (State) -- New York</dc:subject>
+        <dc:subject>New York (N.Y.) -- Politics and government</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. T. Stead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:58:38.763865+00:00"/>
+        <meta name="calibre:title_sort" content="Satan's Invisible World Displayed; or, Despairing Democracy / A Study of Greater New York"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

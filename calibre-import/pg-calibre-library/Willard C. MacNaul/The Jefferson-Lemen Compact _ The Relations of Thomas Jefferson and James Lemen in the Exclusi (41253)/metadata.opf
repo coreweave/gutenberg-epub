@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">904b5088-ce87-4a84-a6d7-b486ea02612f</dc:identifier>
+        <dc:title>The Jefferson-Lemen Compact / The Relations of Thomas Jefferson and James Lemen in the Exclusion of Slavery from Illinois and Northern Territory with Related Documents 1781-1818</dc:title>
+        <dc:creator opf:file-as="MacNaul, Willard C. (Willard Carey)" opf:role="aut">Willard C. MacNaul</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21251</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jefferson</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1743-1826</dc:subject>
+        <dc:subject>Lemen</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1760-1823</dc:subject>
+        <dc:subject>Slavery -- Illinois</dc:subject>
+        <dc:subject>Slavery -- Northwest</dc:subject>
+        <dc:subject>Old</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willard C. MacNaul&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:38:19.671333+00:00"/>
+        <meta name="calibre:title_sort" content="Jefferson-Lemen Compact / The Relations of Thomas Jefferson and James Lemen in the Exclusion of Slavery from Illinois and Northern Territory with Related Documents 1781-1818, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

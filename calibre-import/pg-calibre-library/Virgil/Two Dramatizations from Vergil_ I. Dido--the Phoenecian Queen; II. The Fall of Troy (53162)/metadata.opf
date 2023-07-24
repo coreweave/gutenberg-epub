@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c602bd90-348e-4604-a3e3-354e20381c4b</dc:identifier>
+        <dc:title>Two Dramatizations from Vergil: I. Dido—the Phœnecian Queen; II. The Fall of Troy</dc:title>
+        <dc:creator opf:file-as="Virgil" opf:role="aut">Virgil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54717</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trojan War -- Drama</dc:subject>
+        <dc:subject>Dido (Legendary character) -- Drama</dc:subject>
+        <dc:subject>Virgil -- Adaptations</dc:subject>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>Latin -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Virgil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:28:45.241296+00:00"/>
+        <meta name="calibre:title_sort" content="Two Dramatizations from Vergil: I. Dido—the Phœnecian Queen; II. The Fall of Troy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

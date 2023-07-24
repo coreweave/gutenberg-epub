@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3963e3fc-d9d2-473f-b53c-9dbb0410830a</dc:identifier>
+        <dc:title>The Ghost of Mystery Airport</dc:title>
+        <dc:creator opf:file-as="Powell, Van" opf:role="aut">Van Powell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46656</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Ghost stories</dc:subject>
+        <dc:subject>Air pilots -- Juvenile fiction</dc:subject>
+        <dc:subject>Airplanes -- Piloting -- Juvenile fiction</dc:subject>
+        <dc:subject>Aeronautics -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Van Powell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:45:22.874597+00:00"/>
+        <meta name="calibre:title_sort" content="Ghost of Mystery Airport, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

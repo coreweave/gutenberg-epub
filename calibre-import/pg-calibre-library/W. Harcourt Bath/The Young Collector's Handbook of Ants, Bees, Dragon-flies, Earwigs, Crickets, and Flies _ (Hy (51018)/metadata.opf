@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51018</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f4c9da3-0986-4f0c-b864-54820acd3bc8</dc:identifier>
+        <dc:title>The Young Collector's Handbook of Ants, Bees, Dragon-flies, Earwigs, Crickets, and Flies / (Hymenoptera, Neuroptera, Orthoptera, Hemiptera, Diptera).</dc:title>
+        <dc:creator opf:file-as="Bath, W. Harcourt (William Harcourt)" opf:role="aut">W. Harcourt Bath</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47844</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Insects -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Harcourt Bath&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:10:45.909423+00:00"/>
+        <meta name="calibre:title_sort" content="Young Collector's Handbook of Ants, Bees, Dragon-flies, Earwigs, Crickets, and Flies / (Hymenoptera, Neuroptera, Orthoptera, Hemiptera, Diptera)., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

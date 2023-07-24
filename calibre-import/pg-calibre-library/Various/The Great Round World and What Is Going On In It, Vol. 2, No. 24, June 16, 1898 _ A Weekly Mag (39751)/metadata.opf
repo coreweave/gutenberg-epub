@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">206f03df-d79e-4097-a823-0711fffddde1</dc:identifier>
+        <dc:title>The Great Round World and What Is Going On In It, Vol. 2, No. 24, June 16, 1898 / A Weekly Magazine for Boys and Girls</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18746</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Modern -- 19th century -- Juvenile literature -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:17:40.059772+00:00"/>
+        <meta name="calibre:title_sort" content="Great Round World and What Is Going On In It, Vol. 2, No. 24, June 16, 1898 / A Weekly Magazine for Boys and Girls, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6f98fb6-2560-40de-bddd-592b0211a92f</dc:identifier>
+        <dc:title>Son of Power</dc:title>
+        <dc:creator opf:file-as="Comfort, Will Levington" opf:role="aut">Will Levington Comfort</dc:creator>
+        <dc:creator opf:file-as="Comfort, Will Levington" opf:role="aut">Zamin Ki Dost</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19970</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Will Levington Comfort&quot;: &quot;&quot;, &quot;Zamin Ki Dost&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:09:20.778078+00:00"/>
+        <meta name="calibre:title_sort" content="Son of Power"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

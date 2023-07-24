@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a382c71-a08d-434b-8ff5-f311efb49b4c</dc:identifier>
+        <dc:title>Birds of Heaven, and Other Stories</dc:title>
+        <dc:creator opf:file-as="Korolenko, Vladimir Galaktionovich" opf:role="aut">Vladimir Galaktionovich Korolenko</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60256</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Russia -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Korolenko</dc:subject>
+        <dc:subject>Vladimir Galaktionovich</dc:subject>
+        <dc:subject>1853-1921 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vladimir Galaktionovich Korolenko&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:23:19.167085+00:00"/>
+        <meta name="calibre:title_sort" content="Birds of Heaven, and Other Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

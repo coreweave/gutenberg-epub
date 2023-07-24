@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">535a3c61-70f7-41ba-8433-1faba0bacfde</dc:identifier>
+        <dc:title>The Haunted House: A True Ghost Story / Being an account of the mysterious manifestations that have taken place in the presence of Esther Cox, the young girl who is possessed of devils, and has become known throughout the entire dominion as the great Amherst mystery</dc:title>
+        <dc:creator opf:file-as="Hubbell, Walter" opf:role="aut">Walter Hubbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16975</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cox</dc:subject>
+        <dc:subject>Esther</dc:subject>
+        <dc:subject>1860-1912</dc:subject>
+        <dc:subject>Ghosts -- Nova Scotia -- Amherst</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Hubbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:32:06.444257+00:00"/>
+        <meta name="calibre:title_sort" content="Haunted House: A True Ghost Story / Being an account of the mysterious manifestations that have taken place in the presence of Esther Cox, the young girl who is possessed of devils, and has become known throughout the entire dominion as the great Amherst mystery, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

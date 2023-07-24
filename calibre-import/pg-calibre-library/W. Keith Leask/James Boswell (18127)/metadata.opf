@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb00ef32-8ea9-4f91-9c9e-bcfa56823b6a</dc:identifier>
+        <dc:title>James Boswell</dc:title>
+        <dc:creator opf:file-as="Leask, W. Keith (William Keith)" opf:role="aut">W. Keith Leask</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boswell</dc:subject>
+        <dc:subject>James</dc:subject>
+        <dc:subject>1740-1795</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Scottish -- 18th century -- Biography</dc:subject>
+        <dc:subject>Biographers -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Keith Leask&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:57:15.010099+00:00"/>
+        <meta name="calibre:title_sort" content="James Boswell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

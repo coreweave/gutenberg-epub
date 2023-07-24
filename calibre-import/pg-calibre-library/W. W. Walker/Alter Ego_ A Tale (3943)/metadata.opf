@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3943</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3eaa7f0-edb4-4b8d-bd93-ee5e55934b5e</dc:identifier>
+        <dc:title>Alter Ego: A Tale</dc:title>
+        <dc:creator opf:file-as="Walker, W. W. (William Wesley)" opf:role="aut">W. W. Walker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Russo-Japanese War</dc:subject>
+        <dc:subject>1904-1905 -- Fiction</dc:subject>
+        <dc:subject>Clergy -- Canada -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. W. Walker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:31:45.105963+00:00"/>
+        <meta name="calibre:title_sort" content="Alter Ego: A Tale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

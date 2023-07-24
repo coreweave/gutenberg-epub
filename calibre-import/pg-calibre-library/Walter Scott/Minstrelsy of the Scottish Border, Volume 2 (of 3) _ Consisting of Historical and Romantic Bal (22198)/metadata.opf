@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a857727e-67ba-48c9-b666-6ed61242165c</dc:identifier>
+        <dc:title>Minstrelsy of the Scottish Border, Volume 2 (of 3) / Consisting of Historical and Romantic Ballads, Collected in the Southern Counties of Scotland; with a Few of Modern Date, Founded Upon Local Tradition</dc:title>
+        <dc:creator opf:file-as="Scott, Walter" opf:role="aut">Walter Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12882</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ballads</dc:subject>
+        <dc:subject>Scots -- Scotland -- Scottish Borders -- Texts</dc:subject>
+        <dc:subject>Scottish Borders (England and Scotland) -- Songs and music</dc:subject>
+        <dc:subject>Scottish Borders (England and Scotland) -- Poetry</dc:subject>
+        <dc:subject>Scottish Borders (Scotland) -- Songs and music</dc:subject>
+        <dc:subject>Scottish Borders (Scotland) -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:30:16.699475+00:00"/>
+        <meta name="calibre:title_sort" content="Minstrelsy of the Scottish Border, Volume 2 (of 3) / Consisting of Historical and Romantic Ballads, Collected in the Southern Counties of Scotland; with a Few of Modern Date, Founded Upon Local Tradition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

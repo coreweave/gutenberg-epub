@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f6c597a-be26-4fbf-b9d4-007b1f298dbf</dc:identifier>
+        <dc:title>Twenty Years on Horseback; or, Itinerating in West Virginia</dc:title>
+        <dc:creator opf:file-as="Weekley, W. M. (William Marion)" opf:role="aut">W. M. Weekley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64765</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Weekley</dc:subject>
+        <dc:subject>W. M. (William Marion)</dc:subject>
+        <dc:subject>1851-1926</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. M. Weekley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:24:24.966628+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty Years on Horseback; or, Itinerating in West Virginia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

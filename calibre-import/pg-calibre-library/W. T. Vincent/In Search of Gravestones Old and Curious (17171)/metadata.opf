@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">198effff-4c96-4529-88ec-205c31e3efb7</dc:identifier>
+        <dc:title>In Search of Gravestones Old and Curious</dc:title>
+        <dc:creator opf:file-as="Vincent, W. T. (William Thomas)" opf:role="aut">W. T. Vincent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12978</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sepulchral monuments</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. T. Vincent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:24:26.100631+00:00"/>
+        <meta name="calibre:title_sort" content="In Search of Gravestones Old and Curious"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55b55592-cf5f-462f-ad47-0ce074d20d23</dc:identifier>
+        <dc:title>Masters of Space / Morse and the Telegraph; Thompson and the Cable; Bell and the Telephone; Marconi and the Wireless Telegraph; Carty and the Wireless Telephone</dc:title>
+        <dc:creator opf:file-as="Towers, Walter Kellogg" opf:role="aut">Walter Kellogg Towers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12375</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Telephone</dc:subject>
+        <dc:subject>Telegraph</dc:subject>
+        <dc:subject>Radio</dc:subject>
+        <dc:subject>Wireless</dc:subject>
+        <dc:subject>Marconi</dc:subject>
+        <dc:subject>Guglielmo</dc:subject>
+        <dc:subject>marchese</dc:subject>
+        <dc:subject>1874-1937</dc:subject>
+        <dc:subject>Carty</dc:subject>
+        <dc:subject>John J. (John Joseph)</dc:subject>
+        <dc:subject>1861-1932</dc:subject>
+        <dc:subject>Kelvin</dc:subject>
+        <dc:subject>William Thomson</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1824-1907</dc:subject>
+        <dc:subject>Bell</dc:subject>
+        <dc:subject>Alexander Graham</dc:subject>
+        <dc:subject>1847-1922</dc:subject>
+        <dc:subject>Morse</dc:subject>
+        <dc:subject>Samuel Finley Breese</dc:subject>
+        <dc:subject>1791-1872</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Kellogg Towers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:59:20.839774+00:00"/>
+        <meta name="calibre:title_sort" content="Masters of Space / Morse and the Telegraph; Thompson and the Cable; Bell and the Telephone; Marconi and the Wireless Telegraph; Carty and the Wireless Telephone"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

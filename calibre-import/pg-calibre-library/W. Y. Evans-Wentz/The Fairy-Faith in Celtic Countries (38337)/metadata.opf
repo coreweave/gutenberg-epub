@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">562ba2fc-6fc0-4bbc-b7b7-ad7a4ea39134</dc:identifier>
+        <dc:title>The Fairy-Faith in Celtic Countries</dc:title>
+        <dc:creator opf:file-as="Evans-Wentz, W. Y. (Walter Yeeling)" opf:role="aut">W. Y. Evans-Wentz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34853</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Celts -- Folklore</dc:subject>
+        <dc:subject>Celts -- Religion</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Celtic</dc:subject>
+        <dc:subject>Fairies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Y. Evans-Wentz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:04:01.266320+00:00"/>
+        <meta name="calibre:title_sort" content="Fairy-Faith in Celtic Countries, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

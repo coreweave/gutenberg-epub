@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ecacab6-047f-4699-9422-39edb7834bcf</dc:identifier>
+        <dc:title>The Church of Sancta Sophia, Constantinople: A Study of Byzantine Building</dc:title>
+        <dc:creator opf:file-as="Lethaby, W. R. (William Richard)" opf:role="aut">W. R. Lethaby</dc:creator>
+        <dc:creator opf:file-as="Lethaby, W. R. (William Richard)" opf:role="aut">Harold Swainson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66302</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ayasofya Müzesi</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. R. Lethaby&quot;: &quot;&quot;, &quot;Harold Swainson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:14:48.040172+00:00"/>
+        <meta name="calibre:title_sort" content="Church of Sancta Sophia, Constantinople: A Study of Byzantine Building, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

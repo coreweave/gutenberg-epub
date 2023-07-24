@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32084</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9637e7a5-3bca-4fc6-9ea5-905cd934c2fe</dc:identifier>
+        <dc:title>Studies in Life from Jewish Proverbs</dc:title>
+        <dc:creator opf:file-as="Elmslie, W. A. L. (William Alexander Leslie)" opf:role="aut">W. A. L. Elmslie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60228</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Proverbs</dc:subject>
+        <dc:subject>Hebrew</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. A. L. Elmslie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:52:09.337293+00:00"/>
+        <meta name="calibre:title_sort" content="Studies in Life from Jewish Proverbs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

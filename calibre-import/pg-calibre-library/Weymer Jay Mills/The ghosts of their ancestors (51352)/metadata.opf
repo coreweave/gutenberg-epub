@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efda8f12-11bb-4505-9828-b00294c5300b</dc:identifier>
+        <dc:title>The ghosts of their ancestors</dc:title>
+        <dc:creator opf:file-as="Mills, Weymer Jay" opf:role="aut">Weymer Jay Mills</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ghosts -- Fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- History -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Weymer Jay Mills&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:32:53.711592+00:00"/>
+        <meta name="calibre:title_sort" content="ghosts of their ancestors, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

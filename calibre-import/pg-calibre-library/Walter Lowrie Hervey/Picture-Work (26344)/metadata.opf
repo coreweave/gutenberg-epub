@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98330af7-e2c3-4ea0-8fa0-166425a6076e</dc:identifier>
+        <dc:title>Picture-Work</dc:title>
+        <dc:creator opf:file-as="Hervey, Walter Lowrie" opf:role="aut">Walter Lowrie Hervey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41505</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Visual education</dc:subject>
+        <dc:subject>Religious education -- Teaching methods</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Lowrie Hervey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:26:16.136786+00:00"/>
+        <meta name="calibre:title_sort" content="Picture-Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

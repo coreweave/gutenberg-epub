@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8c8f1b9-6e75-4960-bc2f-a858d6ca7a0a</dc:identifier>
+        <dc:title>Journal of Entomology and Zoology, Vol. 06, No. 4, December 1914</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48031</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zoology -- Periodicals</dc:subject>
+        <dc:subject>Entomology -- Periodicals</dc:subject>
+        <dc:subject>Entomology -- California -- Periodicals</dc:subject>
+        <dc:subject>Zoology -- California -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:13:46.286376+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of Entomology and Zoology, Vol. 06, No. 4, December 1914"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

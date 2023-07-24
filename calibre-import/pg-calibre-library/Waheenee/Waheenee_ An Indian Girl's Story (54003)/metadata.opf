@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34ceec28-4570-46db-b26c-3e8eba889f35</dc:identifier>
+        <dc:title>Waheenee: An Indian Girl's Story</dc:title>
+        <dc:creator opf:file-as="Waheenee" opf:role="aut">Waheenee</dc:creator>
+        <dc:creator opf:file-as="Waheenee" opf:role="aut">Gilbert Livingstone Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67133</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hidatsa Indians -- Biography</dc:subject>
+        <dc:subject>Hidatsa Indians -- Social life and customs</dc:subject>
+        <dc:subject>Waheenee</dc:subject>
+        <dc:subject>1839?-1932</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Waheenee&quot;: &quot;&quot;, &quot;Gilbert Livingstone Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:23:01.321305+00:00"/>
+        <meta name="calibre:title_sort" content="Waheenee: An Indian Girl's Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

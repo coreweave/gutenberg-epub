@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31e6559c-48b7-4f1d-adba-568149a74fe5</dc:identifier>
+        <dc:title>Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 18, Vol. I, May 3, 1884</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65594</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:59:43.126059+00:00"/>
+        <meta name="calibre:title_sort" content="Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 18, Vol. I, May 3, 1884"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

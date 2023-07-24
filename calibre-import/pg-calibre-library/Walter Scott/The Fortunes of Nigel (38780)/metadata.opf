@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49d4108a-01ba-4501-8acd-e4137815d709</dc:identifier>
+        <dc:title>The Fortunes of Nigel</dc:title>
+        <dc:creator opf:file-as="Scott, Walter" opf:role="aut">Walter Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5950</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>London (England) -- History -- 17th century -- Fiction</dc:subject>
+        <dc:subject>Scots -- England -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- James I</dc:subject>
+        <dc:subject>1603-1625 -- Fiction</dc:subject>
+        <dc:subject>James I</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1566-1625 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:26:53.070434+00:00"/>
+        <meta name="calibre:title_sort" content="Fortunes of Nigel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

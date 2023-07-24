@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cdfdd52-4146-47c0-a2fc-7c4018bdd4f4</dc:identifier>
+        <dc:title>Heroines of "Mormondom" / The Second Book of the Noble Women's Lives Series</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51097</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormons -- Biography</dc:subject>
+        <dc:subject>Mormon women</dc:subject>
+        <dc:subject>Smith</dc:subject>
+        <dc:subject>Mary Fielding</dc:subject>
+        <dc:subject>1801-1852</dc:subject>
+        <dc:subject>Chittenden</dc:subject>
+        <dc:subject>Mary Dunster</dc:subject>
+        <dc:subject>1818-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:32:38.051708+00:00"/>
+        <meta name="calibre:title_sort" content="Heroines of &quot;Mormondom&quot; / The Second Book of the Noble Women's Lives Series"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

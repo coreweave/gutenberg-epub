@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a91c4cfa-b2bf-4ee1-8b50-d80ec1ab04bf</dc:identifier>
+        <dc:title>This is Klon Calling</dc:title>
+        <dc:creator opf:file-as="Sheldon, Walter J." opf:role="aut">Walter J. Sheldon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28954</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter J. Sheldon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:15:38.686937+00:00"/>
+        <meta name="calibre:title_sort" content="This is Klon Calling"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

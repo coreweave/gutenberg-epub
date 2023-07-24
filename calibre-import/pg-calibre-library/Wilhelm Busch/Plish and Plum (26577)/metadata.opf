@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0b77fbc-cc86-4723-bbc9-5866dd391e4a</dc:identifier>
+        <dc:title>Plish and Plum</dc:title>
+        <dc:creator opf:file-as="Busch, Wilhelm" opf:role="aut">Wilhelm Busch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37188</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Juvenile poetry</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile poetry</dc:subject>
+        <dc:subject>Wit and humor</dc:subject>
+        <dc:subject>Juvenile</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile poetry</dc:subject>
+        <dc:subject>Pets -- Juvenile poetry</dc:subject>
+        <dc:subject>Human-animal relationships -- Juvenile poetry</dc:subject>
+        <dc:subject>Brothers -- Juvenile poetry</dc:subject>
+        <dc:subject>Animal welfare -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wilhelm Busch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:36:37.213163+00:00"/>
+        <meta name="calibre:title_sort" content="Plish and Plum"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

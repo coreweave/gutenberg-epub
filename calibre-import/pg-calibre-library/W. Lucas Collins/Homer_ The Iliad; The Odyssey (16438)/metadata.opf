@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27cedbbc-b3aa-43d4-9410-ded658d5493d</dc:identifier>
+        <dc:title>Homer: The Iliad; The Odyssey</dc:title>
+        <dc:creator opf:file-as="Collins, W. Lucas (William Lucas)" opf:role="aut">W. Lucas Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59306</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>Greek -- Translations into English</dc:subject>
+        <dc:subject>Odysseus</dc:subject>
+        <dc:subject>King of Ithaca (Mythological character) -- Poetry</dc:subject>
+        <dc:subject>Greek -- History and criticism</dc:subject>
+        <dc:subject>Homer. Iliad</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Lucas Collins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:59:52.052002+00:00"/>
+        <meta name="calibre:title_sort" content="Homer: The Iliad; The Odyssey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

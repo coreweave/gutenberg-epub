@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">309bef23-989e-4624-8905-41d37a03d1f8</dc:identifier>
+        <dc:title>Hero Tales and Legends of the Serbians</dc:title>
+        <dc:creator opf:file-as="Karadžić, Vuk Stefanović" opf:role="aut">Vuk Stefanović Karadžić</dc:creator>
+        <dc:creator opf:file-as="Karadžić, Vuk Stefanović" opf:role="aut">Woislav M. Petrovitch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38571</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legends -- Serbia</dc:subject>
+        <dc:subject>Folklore -- Serbia</dc:subject>
+        <dc:subject>Tales -- Serbia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vuk Stefanović Karadžić&quot;: &quot;&quot;, &quot;Woislav M. Petrovitch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:31:43.950830+00:00"/>
+        <meta name="calibre:title_sort" content="Hero Tales and Legends of the Serbians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

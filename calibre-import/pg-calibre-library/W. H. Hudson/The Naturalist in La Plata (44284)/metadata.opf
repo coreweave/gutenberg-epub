@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">195b114e-eaea-493b-a922-9c4e442d7cc1</dc:identifier>
+        <dc:title>The Naturalist in La Plata</dc:title>
+        <dc:creator opf:file-as="Hudson, W. H. (William Henry)" opf:role="aut">W. H. Hudson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7446</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zoology -- Argentina -- Pampas</dc:subject>
+        <dc:subject>Natural history -- Argentina -- Pampas</dc:subject>
+        <dc:subject>Animal behavior -- Argentina -- Pampas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Hudson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:27:00.637085+00:00"/>
+        <meta name="calibre:title_sort" content="Naturalist in La Plata, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

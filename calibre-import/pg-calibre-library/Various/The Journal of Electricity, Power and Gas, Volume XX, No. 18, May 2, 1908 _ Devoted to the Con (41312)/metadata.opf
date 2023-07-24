@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b50f09e-3728-4f94-915f-475c32a5a1d1</dc:identifier>
+        <dc:title>The Journal of Electricity, Power and Gas, Volume XX, No. 18, May 2, 1908 / Devoted to the Conversion, Transmission and Distribution of Energy</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58196</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Electrical engineering -- Periodicals</dc:subject>
+        <dc:subject>Electricity -- Periodicals</dc:subject>
+        <dc:subject>Gas manufacture and works -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:41:38.517775+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of Electricity, Power and Gas, Volume XX, No. 18, May 2, 1908 / Devoted to the Conversion, Transmission and Distribution of Energy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

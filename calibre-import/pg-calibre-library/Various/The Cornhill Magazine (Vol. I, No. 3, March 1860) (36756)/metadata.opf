@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42a46a35-3f9e-4084-a01f-2ead56ab6eb4</dc:identifier>
+        <dc:title>The Cornhill Magazine (Vol. I, No. 3, March 1860)</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68316</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Periodicals</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English -- Periodicals</dc:subject>
+        <dc:subject>English literature -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:42:42.336068+00:00"/>
+        <meta name="calibre:title_sort" content="Cornhill Magazine (Vol. I, No. 3, March 1860), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">291215cb-b3b8-4910-9921-f486e5ce3e04</dc:identifier>
+        <dc:title>Book of American Baking / A Practical Guide Covering Various Branches of the Baking Industry, Including Cakes, Buns, and Pastry, Bread Making, Pie Baking, Etc.</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49797</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Quantity cooking</dc:subject>
+        <dc:subject>Baking</dc:subject>
+        <dc:subject>Baked products industry -- United States</dc:subject>
+        <dc:subject>Baking -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:30:45.377340+00:00"/>
+        <meta name="calibre:title_sort" content="Book of American Baking / A Practical Guide Covering Various Branches of the Baking Industry, Including Cakes, Buns, and Pastry, Bread Making, Pie Baking, Etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78ed1400-4c37-4a35-ba11-3a0f432e0f9e</dc:identifier>
+        <dc:title>Memoirs of Life and Literature</dc:title>
+        <dc:creator opf:file-as="Mallock, W. H. (William Hurrell)" opf:role="aut">W. H. Mallock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30823</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mallock</dc:subject>
+        <dc:subject>W. H. (William Hurrell)</dc:subject>
+        <dc:subject>1849-1923</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Mallock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:10:52.589100+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Life and Literature"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

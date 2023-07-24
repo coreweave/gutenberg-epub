@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">239f449a-9b36-4dba-befd-ff1f7263ed10</dc:identifier>
+        <dc:title>A Handy Guide for Beggars: Especially Those of the Poetic Fraternity / Being Sundry Explorations, Made While Afoot and Penniless in Florida, Georgia, North Carolina, Tennessee, Kentucky, New Jersey, and Pennsylvania. These Adventures Convey and Illustrate the Rules of Beggary for Poets and Some Others.</dc:title>
+        <dc:creator opf:file-as="Lindsay, Vachel" opf:role="aut">Vachel Lindsay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67947</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lindsay</dc:subject>
+        <dc:subject>Vachel</dc:subject>
+        <dc:subject>1879-1931 -- Travel -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vachel Lindsay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:44:27.607766+00:00"/>
+        <meta name="calibre:title_sort" content="Handy Guide for Beggars: Especially Those of the Poetic Fraternity / Being Sundry Explorations, Made While Afoot and Penniless in Florida, Georgia, North Carolina, Tennessee, Kentucky, New Jersey, and Pennsylvania. These Adventures Convey and Illustrate the Rules of Beggary for Poets and Some Others., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

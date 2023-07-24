@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba57d6ab-abab-41b6-83b3-13020ec03a78</dc:identifier>
+        <dc:title>Grey Wethers: A Romantic Novel</dc:title>
+        <dc:creator opf:file-as="Sackville-West, V. (Victoria)" opf:role="aut">V. Sackville-West</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65182</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Romance fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;V. Sackville-West&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:00:59.419027+00:00"/>
+        <meta name="calibre:title_sort" content="Grey Wethers: A Romantic Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

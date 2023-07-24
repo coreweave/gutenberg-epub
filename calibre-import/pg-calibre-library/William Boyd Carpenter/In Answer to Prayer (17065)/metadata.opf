@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17065</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">083e2fda-0fa1-47bb-bc50-fe4711087a45</dc:identifier>
+        <dc:title>In Answer to Prayer</dc:title>
+        <dc:creator opf:file-as="Carpenter, William Boyd" opf:role="aut">William Boyd Carpenter</dc:creator>
+        <dc:creator opf:file-as="Carpenter, William Boyd" opf:role="aut">Theodore L. Cuyler</dc:creator>
+        <dc:creator opf:file-as="Carpenter, William Boyd" opf:role="aut">W. J. Knox-Little</dc:creator>
+        <dc:creator opf:file-as="Carpenter, William Boyd" opf:role="aut">Ian Maclaren</dc:creator>
+        <dc:creator opf:file-as="Carpenter, William Boyd" opf:role="aut">William Quarrier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Prayer</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Boyd Carpenter&quot;: &quot;&quot;, &quot;Theodore L. Cuyler&quot;: &quot;&quot;, &quot;W. J. Knox-Little&quot;: &quot;&quot;, &quot;Ian Maclaren&quot;: &quot;&quot;, &quot;William Quarrier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:20:52.060388+00:00"/>
+        <meta name="calibre:title_sort" content="In Answer to Prayer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

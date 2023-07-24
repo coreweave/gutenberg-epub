@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13920</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1692b363-7017-4a69-8f02-348164bb5050</dc:identifier>
+        <dc:title>Geographic Range of the Hooded Skunk, Mephitis macroura / With Description of a New Subspecies from Mexico</dc:title>
+        <dc:creator opf:file-as="Dalquest, Walter Woelber" opf:role="aut">Walter Woelber Dalquest</dc:creator>
+        <dc:creator opf:file-as="Dalquest, Walter Woelber" opf:role="aut">E. Raymond Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34311</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Skunks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Woelber Dalquest&quot;: &quot;&quot;, &quot;E. Raymond Hall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:38:28.524206+00:00"/>
+        <meta name="calibre:title_sort" content="Geographic Range of the Hooded Skunk, Mephitis macroura / With Description of a New Subspecies from Mexico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

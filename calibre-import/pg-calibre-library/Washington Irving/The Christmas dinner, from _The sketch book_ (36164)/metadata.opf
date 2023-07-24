@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a51f059d-941d-457a-a487-89f5ec3b60d2</dc:identifier>
+        <dc:title>The Christmas dinner, from "The sketch book"</dc:title>
+        <dc:creator opf:file-as="Irving, Washington" opf:role="aut">Washington Irving</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64092</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Christmas stories</dc:subject>
+        <dc:subject>American fiction -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Washington Irving&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:12:44.758077+00:00"/>
+        <meta name="calibre:title_sort" content="Christmas dinner, from &quot;The sketch book&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f7ee468-2c4f-4e15-8ebd-f5d2c296d64d</dc:identifier>
+        <dc:title>The Mentor: Butterflies, Vol. 3, Num. 12, Serial No. 88, August 2, 1915</dc:title>
+        <dc:creator opf:file-as="Holland, W. J. (William Jacob)" opf:role="aut">W. J. Holland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49625</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Butterflies -- North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. J. Holland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:36:38.182602+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: Butterflies, Vol. 3, Num. 12, Serial No. 88, August 2, 1915, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5abc2aa-c5ae-4bdb-b2e2-cf303bdac462</dc:identifier>
+        <dc:title>A short sketch of the evidence for the abolition of the slave trade, delivered before a committee of the House of Commons</dc:title>
+        <dc:creator opf:file-as="Crafton, William Bell" opf:role="aut">William Bell Crafton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69166</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speeches</dc:subject>
+        <dc:subject>addresses</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Slave trade -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Bell Crafton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:28.673836+00:00"/>
+        <meta name="calibre:title_sort" content="short sketch of the evidence for the abolition of the slave trade, delivered before a committee of the House of Commons, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

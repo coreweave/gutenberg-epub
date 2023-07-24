@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7357425-498a-4254-b122-ca36c87ba40c</dc:identifier>
+        <dc:title>Statistical, Historical and Political Description of the Colony of New South Wales and its Dependent Settlements in Van Diemen's Land / With a Particular Enumeration of the Advantages Which These Colonies Offer for Emigration, and Their Superiority in Many Respects Over Those Possessed by the United States of America</dc:title>
+        <dc:creator opf:file-as="Wentworth, W. C. (William Charles)" opf:role="aut">W. C. Wentworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15602</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New South Wales -- Description and travel</dc:subject>
+        <dc:subject>Wentworth</dc:subject>
+        <dc:subject>W. C. (William Charles)</dc:subject>
+        <dc:subject>1790-1872</dc:subject>
+        <dc:subject>New South Wales -- Politics and government</dc:subject>
+        <dc:subject>Tasmania -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. C. Wentworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:34:07.622933+00:00"/>
+        <meta name="calibre:title_sort" content="Statistical, Historical and Political Description of the Colony of New South Wales and its Dependent Settlements in Van Diemen's Land / With a Particular Enumeration of the Advantages Which These Colonies Offer for Emigration, and Their Superiority in Many Respects Over Those Possessed by the United States of America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

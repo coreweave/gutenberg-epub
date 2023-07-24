@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef620027-ba25-4076-8340-2d2e38a3993d</dc:identifier>
+        <dc:title>Sónnica</dc:title>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Vicente Blasco Ibáñez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31821</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sagunto (Spain) -- History -- Siege</dc:subject>
+        <dc:subject>219-218 B.C. -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vicente Blasco Ibáñez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:08:10.682593+00:00"/>
+        <meta name="calibre:title_sort" content="Sónnica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

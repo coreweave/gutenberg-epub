@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8699484a-7c57-49b5-9a6e-eb769d93071a</dc:identifier>
+        <dc:title>The Queen's Reign and Its Commemoration / A literary and pictorial review of the period; the story of the Victorian transformation</dc:title>
+        <dc:creator opf:file-as="Besant, Walter" opf:role="aut">Walter Besant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58786</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>1837-1901</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Besant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:16:19.658010+00:00"/>
+        <meta name="calibre:title_sort" content="Queen's Reign and Its Commemoration / A literary and pictorial review of the period; the story of the Victorian transformation, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

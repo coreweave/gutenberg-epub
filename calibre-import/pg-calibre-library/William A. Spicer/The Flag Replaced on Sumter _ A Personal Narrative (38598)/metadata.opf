@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60708f3c-7279-4272-9d21-91fd7eba8e87</dc:identifier>
+        <dc:title>The Flag Replaced on Sumter / A Personal Narrative</dc:title>
+        <dc:creator opf:file-as="Spicer, William A." opf:role="aut">William A. Spicer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23846</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fort Sumter (Charleston</dc:subject>
+        <dc:subject>S.C.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William A. Spicer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:17:31.705159+00:00"/>
+        <meta name="calibre:title_sort" content="Flag Replaced on Sumter / A Personal Narrative, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34e82b28-5ab1-45cf-8f70-407d9a6c98b0</dc:identifier>
+        <dc:title>Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century. / With a full narrative of Captain Barclay's public and private matches; and an essay on training.</dc:title>
+        <dc:creator opf:file-as="Thom, Walter" opf:role="aut">Walter Thom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Walking</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Thom&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:06:34.697720+00:00"/>
+        <meta name="calibre:title_sort" content="Pedestrianism; or, An Account of the Performances of Celebrated Pedestrians During the Last and Present Century. / With a full narrative of Captain Barclay's public and private matches; and an essay on training."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

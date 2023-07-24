@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cfc3b9a-1a8d-4d78-a711-cdf733db2e02</dc:identifier>
+        <dc:title>The Merry-go-round</dc:title>
+        <dc:creator opf:file-as="Maugham, W. Somerset (William Somerset)" opf:role="aut">W. Somerset Maugham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47229</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Single women -- Fiction</dc:subject>
+        <dc:subject>Social classes -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>England -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Husband and wife -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Somerset Maugham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:41:16.958371+00:00"/>
+        <meta name="calibre:title_sort" content="Merry-go-round, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

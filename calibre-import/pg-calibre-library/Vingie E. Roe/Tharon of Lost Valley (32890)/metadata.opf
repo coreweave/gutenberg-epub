@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b701abe-6c99-49f6-b215-31ca6eafa493</dc:identifier>
+        <dc:title>Tharon of Lost Valley</dc:title>
+        <dc:creator opf:file-as="Roe, Vingie E. (Vingie Eve)" opf:role="aut">Vingie E. Roe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28956</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vingie E. Roe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:30:55.262945+00:00"/>
+        <meta name="calibre:title_sort" content="Tharon of Lost Valley"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

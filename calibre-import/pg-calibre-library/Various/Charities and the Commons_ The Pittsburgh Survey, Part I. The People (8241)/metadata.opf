@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60d79fb0-6dbd-47f9-980b-d010927551f6</dc:identifier>
+        <dc:title>Charities and the Commons: The Pittsburgh Survey, Part I. The People</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46029</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pittsburgh (Pa.) -- Social conditions</dc:subject>
+        <dc:subject>Social surveys -- Pennsylvania -- Pittsburgh</dc:subject>
+        <dc:subject>Working class -- Pennsylvania -- Pittsburgh</dc:subject>
+        <dc:subject>Civic improvement -- Pennsylvania -- Pittsburgh</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:03:51.740996+00:00"/>
+        <meta name="calibre:title_sort" content="Charities and the Commons: The Pittsburgh Survey, Part I. The People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

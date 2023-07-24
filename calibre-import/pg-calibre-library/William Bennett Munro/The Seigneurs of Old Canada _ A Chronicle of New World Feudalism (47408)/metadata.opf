@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54ab5e36-3e65-46be-8e08-09c98e64aeec</dc:identifier>
+        <dc:title>The Seigneurs of Old Canada : A Chronicle of New World Feudalism</dc:title>
+        <dc:creator opf:file-as="Munro, William Bennett" opf:role="aut">William Bennett Munro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4655</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Land tenure -- Canada -- History</dc:subject>
+        <dc:subject>Feudalism -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Bennett Munro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:28:26.693588+00:00"/>
+        <meta name="calibre:title_sort" content="Seigneurs of Old Canada : A Chronicle of New World Feudalism, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

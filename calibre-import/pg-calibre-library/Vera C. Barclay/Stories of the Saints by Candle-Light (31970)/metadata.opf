@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14c92b57-dc24-4e13-b17c-25fd66310a89</dc:identifier>
+        <dc:title>Stories of the Saints by Candle-Light</dc:title>
+        <dc:creator opf:file-as="Barclay, Vera C. (Vera Charlesworth)" opf:role="aut">Vera C. Barclay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26130</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian saints -- Juvenile literature</dc:subject>
+        <dc:subject>Camps -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vera C. Barclay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:46:41.850019+00:00"/>
+        <meta name="calibre:title_sort" content="Stories of the Saints by Candle-Light"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

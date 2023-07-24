@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36943</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2f1af7c-cff5-4693-b6b3-b498fcc8212b</dc:identifier>
+        <dc:title>The Criticism of the Fourth Gospel / Eight Lectures on the Morse Foundation, Delivered in the Union Seminary, New York in October and November 1904</dc:title>
+        <dc:creator opf:file-as="Sanday, W. (William)" opf:role="aut">W. Sanday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60553</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. John -- Criticism</dc:subject>
+        <dc:subject>interpretation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Sanday&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:52:08.588019+00:00"/>
+        <meta name="calibre:title_sort" content="Criticism of the Fourth Gospel / Eight Lectures on the Morse Foundation, Delivered in the Union Seminary, New York in October and November 1904, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

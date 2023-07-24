@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0fcf35d-52d6-43d2-9047-a1abea6df16f</dc:identifier>
+        <dc:title>The White Queen of Okoyong: A True Story of Adventure, Heroism and Faith</dc:title>
+        <dc:creator opf:file-as="Livingstone, W. P. (William Pringle)" opf:role="aut">W. P. Livingstone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33214</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women missionaries -- Biography</dc:subject>
+        <dc:subject>Slessor</dc:subject>
+        <dc:subject>Mary Mitchell</dc:subject>
+        <dc:subject>1848-1915</dc:subject>
+        <dc:subject>Missionaries -- Nigeria -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. P. Livingstone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:21:25.894678+00:00"/>
+        <meta name="calibre:title_sort" content="White Queen of Okoyong: A True Story of Adventure, Heroism and Faith, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

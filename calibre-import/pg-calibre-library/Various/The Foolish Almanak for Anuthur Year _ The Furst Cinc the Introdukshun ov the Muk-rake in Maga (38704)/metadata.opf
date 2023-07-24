@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75d1e5a9-e38b-4175-a4d4-b993c1ad2bd1</dc:identifier>
+        <dc:title>The Foolish Almanak for Anuthur Year / The Furst Cinc the Introdukshun ov the Muk-rake in Magazeen Gardning, and the Speling Reform ov Owr Langwij by Theodor Rosyfelt</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American wit and humor</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Almanacs</dc:subject>
+        <dc:subject>United States -- Social life and customs -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:23:02.846362+00:00"/>
+        <meta name="calibre:title_sort" content="Foolish Almanak for Anuthur Year / The Furst Cinc the Introdukshun ov the Muk-rake in Magazeen Gardning, and the Speling Reform ov Owr Langwij by Theodor Rosyfelt, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

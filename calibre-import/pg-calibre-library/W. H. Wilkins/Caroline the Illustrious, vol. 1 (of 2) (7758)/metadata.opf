@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b311eb5-b3ae-4398-af56-0ae4087b46a2</dc:identifier>
+        <dc:title>Caroline the Illustrious, vol. 1 (of 2)</dc:title>
+        <dc:creator opf:file-as="Wilkins, W. H. (William Henry)" opf:role="aut">W. H. Wilkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caroline</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of George II</dc:subject>
+        <dc:subject>King of Great Britain</dc:subject>
+        <dc:subject>1683-1737</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Wilkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:52:28.885708+00:00"/>
+        <meta name="calibre:title_sort" content="Caroline the Illustrious, vol. 1 (of 2)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa7f932a-6eae-4f4d-8e25-7832c0dc9fb8</dc:identifier>
+        <dc:title>Two Years Among the Savages of New Guinea. / With Introductory Notes on North Queensland.</dc:title>
+        <dc:creator opf:file-as="Pitcairn, W. D." opf:role="aut">W. D. Pitcairn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New Guinea -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. D. Pitcairn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:33:12.881846+00:00"/>
+        <meta name="calibre:title_sort" content="Two Years Among the Savages of New Guinea. / With Introductory Notes on North Queensland."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

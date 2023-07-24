@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8d6b9a8-608f-4ac6-b91c-676681a1e43b</dc:identifier>
+        <dc:title>The Boy Ranchers Among the Indians; Or, Trailing the Yaquis</dc:title>
+        <dc:creator opf:file-as="Baker, Willard F." opf:role="aut">Willard F. Baker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19930</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ranches -- Juvenile fiction</dc:subject>
+        <dc:subject>Yaqui Indians -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willard F. Baker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:21:18.914712+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Ranchers Among the Indians; Or, Trailing the Yaquis, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

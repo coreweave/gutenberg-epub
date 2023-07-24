@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a46c4251-35e3-476f-82b1-df90626e8b5c</dc:identifier>
+        <dc:title>Hawaiian Legends of Volcanoes (mythology) / Collected and translated from the Hawaiian</dc:title>
+        <dc:creator opf:file-as="Westervelt, W. D. (William Drake)" opf:role="aut">W. D. Westervelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66516</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legends -- Hawaii</dc:subject>
+        <dc:subject>Volcanoes -- Hawaii</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. D. Westervelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:22:47.805521+00:00"/>
+        <meta name="calibre:title_sort" content="Hawaiian Legends of Volcanoes (mythology) / Collected and translated from the Hawaiian"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

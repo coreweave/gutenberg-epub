@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52d12b53-1c9c-4f71-9ca2-ae6a2e3a0f63</dc:identifier>
+        <dc:title>Egyptian Tales, Translated from the Papyri: Second series, XVIIIth to XIXth dynasty</dc:title>
+        <dc:creator opf:file-as="Petrie, W. M. Flinders (William Matthew Flinders)" opf:role="aut">W. M. Flinders Petrie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egyptian literature -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. M. Flinders Petrie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:22:38.790787+00:00"/>
+        <meta name="calibre:title_sort" content="Egyptian Tales, Translated from the Papyri: Second series, XVIIIth to XIXth dynasty"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

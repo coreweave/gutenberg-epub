@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1918</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed88018a-f162-4a2f-a853-80fec1f30820</dc:identifier>
+        <dc:title>A Narrative Of The Mutiny, On Board His Majesty's Ship Bounty; And The Subsequent Voyage Of Part Of The Crew, In The Ship's Boat</dc:title>
+        <dc:creator opf:file-as="Bligh, William" opf:role="aut">William Bligh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20337</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bounty (Ship)</dc:subject>
+        <dc:subject>Bligh</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1754-1817</dc:subject>
+        <dc:subject>Bounty Mutiny</dc:subject>
+        <dc:subject>1789</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Bligh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:46.406157+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative Of The Mutiny, On Board His Majesty's Ship Bounty; And The Subsequent Voyage Of Part Of The Crew, In The Ship's Boat, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

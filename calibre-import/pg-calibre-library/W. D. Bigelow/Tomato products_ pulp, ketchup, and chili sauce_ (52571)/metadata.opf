@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d71cfcd-e803-405a-a36f-4c55bd8c47f8</dc:identifier>
+        <dc:title>Tomato products: pulp, ketchup, and chili sauce.</dc:title>
+        <dc:creator opf:file-as="Bigelow, W. D. (Willard Dell)" opf:role="aut">W. D. Bigelow</dc:creator>
+        <dc:creator opf:file-as="Bigelow, W. D. (Willard Dell)" opf:role="aut">A. E. Stevenson</dc:creator>
+        <dc:creator opf:file-as="Bigelow, W. D. (Willard Dell)" opf:role="aut">National Canners Association</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70456</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tomato products</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. D. Bigelow&quot;: &quot;&quot;, &quot;A. E. Stevenson&quot;: &quot;&quot;, &quot;National Canners Association&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:50:48.290847+00:00"/>
+        <meta name="calibre:title_sort" content="Tomato products: pulp, ketchup, and chili sauce."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

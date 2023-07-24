@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c3ee268-06b6-449b-b131-b21ce5286626</dc:identifier>
+        <dc:title>Encyclopaedia Britannica, 11th Edition, "G" to "Gaskell, Elizabeth" / Volume 11, Slice 4</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37160</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Encyclopedias and dictionaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:31:13.520859+00:00"/>
+        <meta name="calibre:title_sort" content="Encyclopaedia Britannica, 11th Edition, &quot;G&quot; to &quot;Gaskell, Elizabeth&quot; / Volume 11, Slice 4"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

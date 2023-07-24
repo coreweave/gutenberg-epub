@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52268</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1667ac2-75d1-41da-87bd-636e24a7e467</dc:identifier>
+        <dc:title>Through the Gates of Old Romance</dc:title>
+        <dc:creator opf:file-as="Mills, Weymer Jay" opf:role="aut">Weymer Jay Mills</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47702</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Burr</dc:subject>
+        <dc:subject>Aaron</dc:subject>
+        <dc:subject>1756-1836 -- Fiction</dc:subject>
+        <dc:subject>Freneau</dc:subject>
+        <dc:subject>Philip Morin</dc:subject>
+        <dc:subject>1752-1832 -- Fiction</dc:subject>
+        <dc:subject>Rowson</dc:subject>
+        <dc:subject>Mrs.</dc:subject>
+        <dc:subject>1762-1824 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Weymer Jay Mills&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:31:32.577879+00:00"/>
+        <meta name="calibre:title_sort" content="Through the Gates of Old Romance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

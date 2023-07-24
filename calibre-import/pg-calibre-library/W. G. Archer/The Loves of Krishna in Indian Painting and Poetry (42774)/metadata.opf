@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4867738-1840-4687-bd8f-ba66418d2b91</dc:identifier>
+        <dc:title>The Loves of Krishna in Indian Painting and Poetry</dc:title>
+        <dc:creator opf:file-as="Archer, W. G. (William George)" opf:role="aut">W. G. Archer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11924</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Krishna (Hindu deity)</dc:subject>
+        <dc:subject>Hindu gods in art</dc:subject>
+        <dc:subject>Hindu painting -- India</dc:subject>
+        <dc:subject>Sanskrit poetry -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. G. Archer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:02:38.388406+00:00"/>
+        <meta name="calibre:title_sort" content="Loves of Krishna in Indian Painting and Poetry, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

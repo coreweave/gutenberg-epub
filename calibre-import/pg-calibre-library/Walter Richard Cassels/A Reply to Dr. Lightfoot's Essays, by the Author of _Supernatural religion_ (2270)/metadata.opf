@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17d0a60b-d32e-48e4-b904-3bffaefa8017</dc:identifier>
+        <dc:title>A Reply to Dr. Lightfoot's Essays, by the Author of "Supernatural religion"</dc:title>
+        <dc:creator opf:file-as="Cassels, Walter Richard" opf:role="aut">Walter Richard Cassels</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13433</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Miracles</dc:subject>
+        <dc:subject>Fathers of the church</dc:subject>
+        <dc:subject>Lightfoot</dc:subject>
+        <dc:subject>Joseph Barber</dc:subject>
+        <dc:subject>1828-1889. Essays on the work entitled Supernatural religion</dc:subject>
+        <dc:subject>Bible. New Testament -- Criticism</dc:subject>
+        <dc:subject>interpretation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Richard Cassels&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:41.514979+00:00"/>
+        <meta name="calibre:title_sort" content="Reply to Dr. Lightfoot's Essays, by the Author of &quot;Supernatural religion&quot;, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

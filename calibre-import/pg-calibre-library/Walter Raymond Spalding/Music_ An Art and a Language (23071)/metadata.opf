@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e5b0eb7-4357-47fe-8254-c9339263a054</dc:identifier>
+        <dc:title>Music: An Art and a Language</dc:title>
+        <dc:creator opf:file-as="Spalding, Walter Raymond" opf:role="aut">Walter Raymond Spalding</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30560</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music appreciation</dc:subject>
+        <dc:subject>Musical form</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Raymond Spalding&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:06:34.824941+00:00"/>
+        <meta name="calibre:title_sort" content="Music: An Art and a Language"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

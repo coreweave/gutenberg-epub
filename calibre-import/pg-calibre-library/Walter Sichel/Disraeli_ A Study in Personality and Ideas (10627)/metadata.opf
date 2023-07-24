@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0c74360-eca5-4108-b239-c70c4691081e</dc:identifier>
+        <dc:title>Disraeli: A Study in Personality and Ideas</dc:title>
+        <dc:creator opf:file-as="Sichel, Walter" opf:role="aut">Walter Sichel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53917</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Disraeli</dc:subject>
+        <dc:subject>Benjamin</dc:subject>
+        <dc:subject>1804-1881</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Sichel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:04:44.866076+00:00"/>
+        <meta name="calibre:title_sort" content="Disraeli: A Study in Personality and Ideas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

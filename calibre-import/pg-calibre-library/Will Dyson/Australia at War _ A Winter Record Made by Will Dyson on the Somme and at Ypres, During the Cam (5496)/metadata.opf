@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5745a50-993e-4a26-9906-2091c7f82821</dc:identifier>
+        <dc:title>Australia at War / A Winter Record Made by Will Dyson on the Somme and at Ypres, During the Campaigns of 1916 and 1917</dc:title>
+        <dc:creator opf:file-as="Dyson, Will" opf:role="aut">Will Dyson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57177</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia. Australian Army. Australian Imperial Force (1914-1921)</dc:subject>
+        <dc:subject>Australia. Australian Army. Australian Imperial Force (1914-1921) -- Pictorial works</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- France -- Somme -- Pictorial works</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- Belgium -- Ieper -- Pictorial works</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- France -- Somme</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- Belgium -- Ieper</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Will Dyson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:02:17.054959+00:00"/>
+        <meta name="calibre:title_sort" content="Australia at War / A Winter Record Made by Will Dyson on the Somme and at Ypres, During the Campaigns of 1916 and 1917"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

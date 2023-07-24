@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e91dc33-7ea4-4f67-b56b-a609cc6c20d5</dc:identifier>
+        <dc:title>Violin Making / 'The Strad' Library, No. IX.</dc:title>
+        <dc:creator opf:file-as="Mayson, Walter H. (Walter Henry)" opf:role="aut">Walter H. Mayson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28252</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Violin -- Construction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter H. Mayson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:14:23.277662+00:00"/>
+        <meta name="calibre:title_sort" content="Violin Making / 'The Strad' Library, No. IX."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

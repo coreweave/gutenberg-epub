@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14416</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10236349-55bf-41ea-8f79-d7a10d5df3c3</dc:identifier>
+        <dc:title>Graham's Magazine, Vol. XL, No. 3, March 1852</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60141</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Modern -- 19th century -- Periodicals</dc:subject>
+        <dc:subject>Literature -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:53:50.167973+00:00"/>
+        <meta name="calibre:title_sort" content="Graham's Magazine, Vol. XL, No. 3, March 1852"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

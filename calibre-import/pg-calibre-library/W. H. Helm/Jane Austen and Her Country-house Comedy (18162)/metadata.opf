@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd09302e-f9eb-4d60-a4c7-0adffc43048e</dc:identifier>
+        <dc:title>Jane Austen and Her Country-house Comedy</dc:title>
+        <dc:creator opf:file-as="Helm, W. H. (William Henry)" opf:role="aut">W. H. Helm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54569</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women and literature -- England -- History -- 19th century</dc:subject>
+        <dc:subject>Manners and customs in literature</dc:subject>
+        <dc:subject>Austen</dc:subject>
+        <dc:subject>Jane</dc:subject>
+        <dc:subject>1775-1817 -- Criticism and interpretation</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <dc:subject>Pastoral fiction</dc:subject>
+        <dc:subject>Country homes in literature</dc:subject>
+        <dc:subject>Dwellings in literature</dc:subject>
+        <dc:subject>Manors in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Helm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:58:30.305927+00:00"/>
+        <meta name="calibre:title_sort" content="Jane Austen and Her Country-house Comedy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

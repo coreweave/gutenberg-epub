@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03d06ceb-ff2a-4fd0-befc-0c2a444c73b1</dc:identifier>
+        <dc:title>The Brochure Series of Architectural Illustration, vol. 06, No. 02, February 1900 / Japanese Gardens</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47688</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture -- Periodicals</dc:subject>
+        <dc:subject>Gardens</dc:subject>
+        <dc:subject>Japanese -- Japan</dc:subject>
+        <dc:subject>Landscape gardening -- Japan</dc:subject>
+        <dc:subject>Gardens -- Japan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:35:14.561990+00:00"/>
+        <meta name="calibre:title_sort" content="Brochure Series of Architectural Illustration, vol. 06, No. 02, February 1900 / Japanese Gardens, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

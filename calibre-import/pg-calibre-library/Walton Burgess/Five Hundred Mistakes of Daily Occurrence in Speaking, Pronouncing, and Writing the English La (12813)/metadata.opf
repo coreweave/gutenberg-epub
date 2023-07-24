@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ad1031c-bc86-47ac-bbf5-8e6924b21793</dc:identifier>
+        <dc:title>Five Hundred Mistakes of Daily Occurrence in Speaking, Pronouncing, and Writing the English Language, Corrected</dc:title>
+        <dc:creator opf:file-as="Burgess, Walton" opf:role="aut">Walton Burgess</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31766</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Errors of usage</dc:subject>
+        <dc:subject>English language -- Usage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walton Burgess&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:05:22.894944+00:00"/>
+        <meta name="calibre:title_sort" content="Five Hundred Mistakes of Daily Occurrence in Speaking, Pronouncing, and Writing the English Language, Corrected"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

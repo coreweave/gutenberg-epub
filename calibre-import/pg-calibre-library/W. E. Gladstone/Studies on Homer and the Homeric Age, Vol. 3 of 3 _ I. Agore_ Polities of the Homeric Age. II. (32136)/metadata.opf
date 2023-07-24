@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a81f055-aa91-4c72-ade0-45c83d0cc22b</dc:identifier>
+        <dc:title>Studies on Homer and the Homeric Age, Vol. 3 of 3 / I. Agorè: Polities of the Homeric Age. II. Ilios: Trojans and Greeks Compared. III. Thalassa: The Outer Geography. IV. Aoidos: Some Points of the Poetry of Homer.</dc:title>
+        <dc:creator opf:file-as="Gladstone, W. E. (William Ewart)" opf:role="aut">W. E. Gladstone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53004</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Homer</dc:subject>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>Greek -- History and criticism</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Homeric</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. E. Gladstone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:54:40.682785+00:00"/>
+        <meta name="calibre:title_sort" content="Studies on Homer and the Homeric Age, Vol. 3 of 3 / I. Agorè: Polities of the Homeric Age. II. Ilios: Trojans and Greeks Compared. III. Thalassa: The Outer Geography. IV. Aoidos: Some Points of the Poetry of Homer."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

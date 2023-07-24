@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a68d2169-c780-4fd2-8566-692d9feacdf1</dc:identifier>
+        <dc:title>The Floors of the Ocean: 1. The North Atlantic / Text to accompany the physiographic diagram of the North Atlantic</dc:title>
+        <dc:creator opf:file-as="Ewing, W. Maurice (William Maurice)" opf:role="aut">W. Maurice Ewing</dc:creator>
+        <dc:creator opf:file-as="Ewing, W. Maurice (William Maurice)" opf:role="aut">Bruce C. Heezen</dc:creator>
+        <dc:creator opf:file-as="Ewing, W. Maurice (William Maurice)" opf:role="aut">Marie Tharp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49069</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ocean bottom</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Maurice Ewing&quot;: &quot;&quot;, &quot;Bruce C. Heezen&quot;: &quot;&quot;, &quot;Marie Tharp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:19:28.878011+00:00"/>
+        <meta name="calibre:title_sort" content="Floors of the Ocean: 1. The North Atlantic / Text to accompany the physiographic diagram of the North Atlantic, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

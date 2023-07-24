@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be1b8bda-c2d4-4217-a55a-5d8c60f5f970</dc:identifier>
+        <dc:title>The Pope, the Kings and the People / A History of the Movement to Make the Pope Governor of the World by a Universal Reconstruction of Society from the Issue of the Syllabus to the Close of the Vatican Council</dc:title>
+        <dc:creator opf:file-as="Arthur, William" opf:role="aut">William Arthur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54587</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pius IX</dc:subject>
+        <dc:subject>Pope</dc:subject>
+        <dc:subject>1792-1878</dc:subject>
+        <dc:subject>Popes -- Infallibility</dc:subject>
+        <dc:subject>Popes -- Temporal power</dc:subject>
+        <dc:subject>Vatican Council (1st : 1869-1870 : Basilica di San Pietro in Vaticano)</dc:subject>
+        <dc:subject>Catholic Church -- History -- 19th century</dc:subject>
+        <dc:subject>Papacy -- History -- 1799-1870</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Arthur&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:47:32.606666+00:00"/>
+        <meta name="calibre:title_sort" content="Pope, the Kings and the People / A History of the Movement to Make the Pope Governor of the World by a Universal Reconstruction of Society from the Issue of the Syllabus to the Close of the Vatican Council, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

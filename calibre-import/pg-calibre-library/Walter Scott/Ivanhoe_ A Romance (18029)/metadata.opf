@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a489e97f-9edd-462f-9c92-5ff519037388</dc:identifier>
+        <dc:title>Ivanhoe: A Romance</dc:title>
+        <dc:creator opf:file-as="Scott, Walter" opf:role="aut">Walter Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/82</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Knights and knighthood -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Triangles (Interpersonal relations) -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Richard I</dc:subject>
+        <dc:subject>1189-1199 -- Fiction</dc:subject>
+        <dc:subject>Jews -- England -- Fiction</dc:subject>
+        <dc:subject>Ivanhoe</dc:subject>
+        <dc:subject>Wilfred of</dc:subject>
+        <dc:subject>Sir (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Anglo-Saxons -- Fiction</dc:subject>
+        <dc:subject>Normans -- Great Britain -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:53:48.352304+00:00"/>
+        <meta name="calibre:title_sort" content="Ivanhoe: A Romance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

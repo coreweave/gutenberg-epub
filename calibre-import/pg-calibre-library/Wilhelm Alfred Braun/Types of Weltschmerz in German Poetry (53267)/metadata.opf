@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ca441ab-8c9c-4b06-b244-f00e435a61cd</dc:identifier>
+        <dc:title>Types of Weltschmerz in German Poetry</dc:title>
+        <dc:creator opf:file-as="Braun, Wilhelm Alfred" opf:role="aut">Wilhelm Alfred Braun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17364</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pessimism</dc:subject>
+        <dc:subject>Heine</dc:subject>
+        <dc:subject>Heinrich</dc:subject>
+        <dc:subject>1797-1856</dc:subject>
+        <dc:subject>German poetry -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Hölderlin</dc:subject>
+        <dc:subject>Friedrich</dc:subject>
+        <dc:subject>1770-1843</dc:subject>
+        <dc:subject>Lenau</dc:subject>
+        <dc:subject>Nicolaus</dc:subject>
+        <dc:subject>1802-1850</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wilhelm Alfred Braun&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:35:29.363273+00:00"/>
+        <meta name="calibre:title_sort" content="Types of Weltschmerz in German Poetry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa666ce1-5033-464f-b1fa-af1f52cfb9fc</dc:identifier>
+        <dc:title>The Scottish Journal of Topography, Antiquities, Traditions, &amp;c., Vol. I, No. 22, January 29, 1848</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58823</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scotland -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:17:58.675012+00:00"/>
+        <meta name="calibre:title_sort" content="Scottish Journal of Topography, Antiquities, Traditions, &amp;c., Vol. I, No. 22, January 29, 1848, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

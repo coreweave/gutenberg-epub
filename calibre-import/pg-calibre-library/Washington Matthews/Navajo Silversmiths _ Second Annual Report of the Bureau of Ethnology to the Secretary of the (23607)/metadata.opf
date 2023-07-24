@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd1c0275-4dab-459c-92b4-7e66dcddcb8b</dc:identifier>
+        <dc:title>Navajo Silversmiths / Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-1881, Government Printing Office, Washington, 1883, pages 167-178</dc:title>
+        <dc:creator opf:file-as="Matthews, Washington" opf:role="aut">Washington Matthews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17275</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Navajo art</dc:subject>
+        <dc:subject>Silverwork</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Washington Matthews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:29:35.100731+00:00"/>
+        <meta name="calibre:title_sort" content="Navajo Silversmiths / Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-1881, Government Printing Office, Washington, 1883, pages 167-178"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

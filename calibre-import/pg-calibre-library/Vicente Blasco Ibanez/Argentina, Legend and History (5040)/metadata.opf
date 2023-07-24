@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cfbc357-d2ce-49cb-a8a5-8a0457de5158</dc:identifier>
+        <dc:title>Argentina, Legend and History</dc:title>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Vicente Blasco Ibáñez</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Carlos O. Bunge</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Luis María Drago</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Juana Manuela Gorriti</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Pedro Goyena</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Juan María Gutiérrez</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Pedro Lacasa</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Lucio Vicente López</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Vicente Fidel López</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Vicente López y Planes</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Bartolomé Mitre</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Domingo Faustino Sarmiento</dc:creator>
+        <dc:creator opf:file-as="Blasco Ibáñez, Vicente" opf:role="aut">Marcos Sastre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>spa</dc:language>
+        <dc:subject>Spanish language -- Readers</dc:subject>
+        <dc:subject>Argentina</dc:subject>
+        <dc:subject>Argentina -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vicente Blasco Ibáñez&quot;: &quot;&quot;, &quot;Carlos O. Bunge&quot;: &quot;&quot;, &quot;Luis María Drago&quot;: &quot;&quot;, &quot;Juana Manuela Gorriti&quot;: &quot;&quot;, &quot;Pedro Goyena&quot;: &quot;&quot;, &quot;Juan María Gutiérrez&quot;: &quot;&quot;, &quot;Pedro Lacasa&quot;: &quot;&quot;, &quot;Lucio Vicente López&quot;: &quot;&quot;, &quot;Vicente Fidel López&quot;: &quot;&quot;, &quot;Vicente López y Planes&quot;: &quot;&quot;, &quot;Bartolomé Mitre&quot;: &quot;&quot;, &quot;Domingo Faustino Sarmiento&quot;: &quot;&quot;, &quot;Marcos Sastre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:53:02.576259+00:00"/>
+        <meta name="calibre:title_sort" content="Argentina, Legend and History"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

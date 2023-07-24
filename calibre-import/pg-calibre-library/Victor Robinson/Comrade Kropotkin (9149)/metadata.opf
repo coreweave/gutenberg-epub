@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caf118c4-6dcc-4c35-85fc-c77e111a75f3</dc:identifier>
+        <dc:title>Comrade Kropotkin</dc:title>
+        <dc:creator opf:file-as="Robinson, Victor" opf:role="aut">Victor Robinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34745</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kropotkin</dc:subject>
+        <dc:subject>Petr Alekseevich</dc:subject>
+        <dc:subject>kniaz'</dc:subject>
+        <dc:subject>1842-1921</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Victor Robinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:26:23.479962+00:00"/>
+        <meta name="calibre:title_sort" content="Comrade Kropotkin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

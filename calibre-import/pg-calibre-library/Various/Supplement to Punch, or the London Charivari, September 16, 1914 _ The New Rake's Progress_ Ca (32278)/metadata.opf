@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc724b2a-db36-49f2-8911-8fdc45c2e33a</dc:identifier>
+        <dc:title>Supplement to Punch, or the London Charivari, September 16, 1914 / The New Rake's Progress: Cartoons from "Punch" Illustrating the Kaiser's Career, 1888-1914</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>William II</dc:subject>
+        <dc:subject>German Emperor</dc:subject>
+        <dc:subject>1859-1941 -- Caricatures and cartoons</dc:subject>
+        <dc:subject>Germany -- History -- 1871-1918 -- Caricatures and cartoons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:01:29.426954+00:00"/>
+        <meta name="calibre:title_sort" content="Supplement to Punch, or the London Charivari, September 16, 1914 / The New Rake's Progress: Cartoons from &quot;Punch&quot; Illustrating the Kaiser's Career, 1888-1914"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

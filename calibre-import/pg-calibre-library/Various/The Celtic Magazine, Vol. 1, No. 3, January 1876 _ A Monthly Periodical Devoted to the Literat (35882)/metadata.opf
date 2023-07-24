@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">372213ec-0002-45c2-b7dd-71550ee3b94c</dc:identifier>
+        <dc:title>The Celtic Magazine, Vol. 1, No. 3, January 1876 / A Monthly Periodical Devoted to the Literature, History, Antiquities, Folk Lore, Traditions, and the Social and Material Interests of the Celt at Home and Abroad</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29969</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clans -- Scotland -- Periodicals</dc:subject>
+        <dc:subject>Scotland -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:58:35.085801+00:00"/>
+        <meta name="calibre:title_sort" content="Celtic Magazine, Vol. 1, No. 3, January 1876 / A Monthly Periodical Devoted to the Literature, History, Antiquities, Folk Lore, Traditions, and the Social and Material Interests of the Celt at Home and Abroad, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

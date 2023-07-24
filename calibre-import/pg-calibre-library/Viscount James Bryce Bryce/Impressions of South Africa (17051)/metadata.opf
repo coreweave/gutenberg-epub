@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17051</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4af59089-78af-487e-a2ff-89b18d93b186</dc:identifier>
+        <dc:title>Impressions of South Africa</dc:title>
+        <dc:creator opf:file-as="Bryce, James Bryce, Viscount" opf:role="aut">Viscount James Bryce Bryce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22323</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South Africa -- Description and travel</dc:subject>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902</dc:subject>
+        <dc:subject>South Africa -- History -- 1836-1909</dc:subject>
+        <dc:subject>Black people -- South Africa</dc:subject>
+        <dc:subject>South Africa -- Politics and government -- 1836-1909</dc:subject>
+        <dc:subject>Transvaal (South Africa)</dc:subject>
+        <dc:subject>Free State (South Africa)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Viscount James Bryce Bryce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:20:24.253155+00:00"/>
+        <meta name="calibre:title_sort" content="Impressions of South Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

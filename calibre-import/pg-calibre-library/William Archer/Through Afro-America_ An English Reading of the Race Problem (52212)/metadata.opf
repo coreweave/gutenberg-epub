@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76f80e67-3289-46d5-bd48-b259250b35d7</dc:identifier>
+        <dc:title>Through Afro-America: An English Reading of the Race Problem</dc:title>
+        <dc:creator opf:file-as="Archer, William" opf:role="aut">William Archer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61726</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans</dc:subject>
+        <dc:subject>Panama Canal (Panama)</dc:subject>
+        <dc:subject>Cuba</dc:subject>
+        <dc:subject>United States -- Race relations</dc:subject>
+        <dc:subject>Southern States -- Description and travel</dc:subject>
+        <dc:subject>Southern States -- Economic conditions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Archer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:27:58.371963+00:00"/>
+        <meta name="calibre:title_sort" content="Through Afro-America: An English Reading of the Race Problem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

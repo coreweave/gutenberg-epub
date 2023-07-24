@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a06dcfa0-a7e2-4e4d-8205-e076094bcf53</dc:identifier>
+        <dc:title>The heir: A love story</dc:title>
+        <dc:creator opf:file-as="Sackville-West, V. (Victoria)" opf:role="aut">V. Sackville-West</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60368</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inheritance and succession -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;V. Sackville-West&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:35:40.896269+00:00"/>
+        <meta name="calibre:title_sort" content="heir: A love story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

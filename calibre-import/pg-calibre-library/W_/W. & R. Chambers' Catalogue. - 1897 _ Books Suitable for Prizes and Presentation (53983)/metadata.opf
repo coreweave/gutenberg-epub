@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab5ae140-03a7-4387-81f0-a839fe7553c3</dc:identifier>
+        <dc:title>W. &amp; R. Chambers' Catalogue. - 1897 / Books Suitable for Prizes and Presentation</dc:title>
+        <dc:creator opf:file-as="W. &amp; R. Chambers Ltd." opf:role="aut">W.</dc:creator>
+        <dc:creator opf:file-as="W. &amp; R. Chambers Ltd." opf:role="aut">R. Chambers Ltd.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52405</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Publishers' catalogs -- Scotland -- Edinburgh</dc:subject>
+        <dc:subject>W. &amp; R. Chambers Ltd. -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W.&quot;: &quot;&quot;, &quot;R. Chambers Ltd.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:21:43.067790+00:00"/>
+        <meta name="calibre:title_sort" content="W. &amp; R. Chambers' Catalogue. - 1897 / Books Suitable for Prizes and Presentation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

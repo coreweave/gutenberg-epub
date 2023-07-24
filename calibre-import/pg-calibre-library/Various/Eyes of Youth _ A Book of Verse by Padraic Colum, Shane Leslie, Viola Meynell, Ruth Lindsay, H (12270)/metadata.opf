@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">938252fe-e55d-4627-9398-06747a5f3e99</dc:identifier>
+        <dc:title>Eyes of Youth / A Book of Verse by Padraic Colum, Shane Leslie, Viola Meynell, Ruth Lindsay, Hugh Austin, Judith Lytton, Olivia Meynell, Maurice Healy, Monica Saleeby &amp; Francis Meynell. With four early poems by Francis Thompson &amp; a foreword by Gilbert K. Chesterton</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17735</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- 19th century</dc:subject>
+        <dc:subject>English poetry -- 20th century</dc:subject>
+        <dc:subject>English poetry -- Irish authors</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:49:52.935154+00:00"/>
+        <meta name="calibre:title_sort" content="Eyes of Youth / A Book of Verse by Padraic Colum, Shane Leslie, Viola Meynell, Ruth Lindsay, Hugh Austin, Judith Lytton, Olivia Meynell, Maurice Healy, Monica Saleeby &amp; Francis Meynell. With four early poems by Francis Thompson &amp; a foreword by Gilbert K. Chesterton"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

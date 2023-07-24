@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb8a68de-efd6-4988-8d67-f65b5eb246e9</dc:identifier>
+        <dc:title>Frank H. Nelson of Cincinnati</dc:title>
+        <dc:creator opf:file-as="Herrick, Warren Crocker" opf:role="aut">Warren Crocker Herrick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26980</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nelson</dc:subject>
+        <dc:subject>Frank Howard</dc:subject>
+        <dc:subject>1869-1939</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Warren Crocker Herrick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:20:26.345010+00:00"/>
+        <meta name="calibre:title_sort" content="Frank H. Nelson of Cincinnati"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

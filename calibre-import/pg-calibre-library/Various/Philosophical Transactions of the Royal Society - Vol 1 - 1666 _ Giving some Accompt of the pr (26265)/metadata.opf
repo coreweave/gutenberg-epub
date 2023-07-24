@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e4b8a64-90c2-43da-b04b-b827c4bfc6ea</dc:identifier>
+        <dc:title>Philosophical Transactions of the Royal Society - Vol 1 - 1666 / Giving some Accompt of the present Undertakings, Studies, / and Labours of the Ingenious in many considerable parts / of the World</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28758</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:22:26.921227+00:00"/>
+        <meta name="calibre:title_sort" content="Philosophical Transactions of the Royal Society - Vol 1 - 1666 / Giving some Accompt of the present Undertakings, Studies, / and Labours of the Ingenious in many considerable parts / of the World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

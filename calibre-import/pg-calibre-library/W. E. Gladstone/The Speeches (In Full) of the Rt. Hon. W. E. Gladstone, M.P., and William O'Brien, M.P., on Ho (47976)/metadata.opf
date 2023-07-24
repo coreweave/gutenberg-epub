@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef252fe0-5628-44a3-8abf-7a6739b52ae4</dc:identifier>
+        <dc:title>The Speeches (In Full) of the Rt. Hon. W. E. Gladstone, M.P., and William O'Brien, M.P., on Home Rule, Delivered in Parliament, Feb. 16 and 17, 1888.</dc:title>
+        <dc:creator opf:file-as="Gladstone, W. E. (William Ewart)" opf:role="aut">W. E. Gladstone</dc:creator>
+        <dc:creator opf:file-as="Gladstone, W. E. (William Ewart)" opf:role="aut">William O'Brien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41194</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Home rule -- Ireland</dc:subject>
+        <dc:subject>Ireland -- Politics and government -- 1837-1901</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. E. Gladstone&quot;: &quot;&quot;, &quot;William O'Brien&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:01:54.377447+00:00"/>
+        <meta name="calibre:title_sort" content="Speeches (In Full) of the Rt. Hon. W. E. Gladstone, M.P., and William O'Brien, M.P., on Home Rule, Delivered in Parliament, Feb. 16 and 17, 1888., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e85b591-bb7e-4d63-a26a-17779cdd6976</dc:identifier>
+        <dc:title>Encyclopaedia Britannica, 11th Edition, "Bent, James" to "Bibirine" / Volume 3, Slice 6</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34612</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Encyclopedias and dictionaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:29:29.770730+00:00"/>
+        <meta name="calibre:title_sort" content="Encyclopaedia Britannica, 11th Edition, &quot;Bent, James&quot; to &quot;Bibirine&quot; / Volume 3, Slice 6"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

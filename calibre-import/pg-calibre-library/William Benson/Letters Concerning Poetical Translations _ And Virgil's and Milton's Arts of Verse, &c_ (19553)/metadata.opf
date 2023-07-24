@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65cf833d-ecfa-427e-8a8d-b5b2857204ac</dc:identifier>
+        <dc:title>Letters Concerning Poetical Translations / And Virgil's and Milton's Arts of Verse, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Benson, William" opf:role="aut">William Benson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17548</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Virgil -- Versification</dc:subject>
+        <dc:subject>Milton</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1608-1674 -- Versification</dc:subject>
+        <dc:subject>Benson</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1682-1754 -- Correspondence</dc:subject>
+        <dc:subject>Latin language -- Translating into English -- Early works to 1800</dc:subject>
+        <dc:subject>Latin language -- Metrics and rhythmics -- Early works to 1800</dc:subject>
+        <dc:subject>English language -- Versification -- Early works to 1800</dc:subject>
+        <dc:subject>Poetry -- Translating -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Benson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:47:59.484834+00:00"/>
+        <meta name="calibre:title_sort" content="Letters Concerning Poetical Translations / And Virgil's and Milton's Arts of Verse, &amp;c."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25994</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbc7077e-3bbb-4170-9172-f01a5fe6248b</dc:identifier>
+        <dc:title>Penelope: A Comedy in Three Acts</dc:title>
+        <dc:creator opf:file-as="Maugham, W. Somerset (William Somerset)" opf:role="aut">W. Somerset Maugham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50180</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Drama</dc:subject>
+        <dc:subject>Married people -- Drama</dc:subject>
+        <dc:subject>English drama -- 20th century</dc:subject>
+        <dc:subject>England -- Social life and customs -- 20th century -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Somerset Maugham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:10:32.476449+00:00"/>
+        <meta name="calibre:title_sort" content="Penelope: A Comedy in Three Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

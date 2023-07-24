@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4746d720-34a9-4cad-b537-c59fe303564b</dc:identifier>
+        <dc:title>A guide, descriptive and historical, through the Town of Shrewsbury</dc:title>
+        <dc:creator opf:file-as="Leighton, W. A. (William Allport)" opf:role="aut">W. A. Leighton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62688</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shrewsbury (England) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. A. Leighton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:09.420507+00:00"/>
+        <meta name="calibre:title_sort" content="guide, descriptive and historical, through the Town of Shrewsbury, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

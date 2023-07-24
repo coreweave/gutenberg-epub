@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">466fabb1-17b6-49f4-b583-f9587d92c51c</dc:identifier>
+        <dc:title>Beggars</dc:title>
+        <dc:creator opf:file-as="Davies, W. H. (William Henry)" opf:role="aut">W. H. Davies</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45640</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Begging</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Davies&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:12:43.831424+00:00"/>
+        <meta name="calibre:title_sort" content="Beggars"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

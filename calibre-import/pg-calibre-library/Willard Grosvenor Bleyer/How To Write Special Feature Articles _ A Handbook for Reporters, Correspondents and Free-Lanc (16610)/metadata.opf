@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8712f7d-5a82-47be-b30f-de195e1a1598</dc:identifier>
+        <dc:title>How To Write Special Feature Articles / A Handbook for Reporters, Correspondents and Free-Lance Writers Who Desire to Contribute to Popular Magazines and Magazine Sections of Newspapers</dc:title>
+        <dc:creator opf:file-as="Bleyer, Willard Grosvenor" opf:role="aut">Willard Grosvenor Bleyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authorship</dc:subject>
+        <dc:subject>Journalism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willard Grosvenor Bleyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:05:30.260382+00:00"/>
+        <meta name="calibre:title_sort" content="How To Write Special Feature Articles / A Handbook for Reporters, Correspondents and Free-Lance Writers Who Desire to Contribute to Popular Magazines and Magazine Sections of Newspapers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

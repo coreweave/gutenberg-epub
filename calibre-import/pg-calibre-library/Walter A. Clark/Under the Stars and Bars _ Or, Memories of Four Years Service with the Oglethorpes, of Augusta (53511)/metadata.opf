@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05dbe9ed-3761-46a7-8968-f6a10e81fcc7</dc:identifier>
+        <dc:title>Under the Stars and Bars / Or, Memories of Four Years Service with the Oglethorpes, of Augusta, Georgia</dc:title>
+        <dc:creator opf:file-as="Clark, Walter A. (Walter Augustus)" opf:role="aut">Walter A. Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40973</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Clark</dc:subject>
+        <dc:subject>Walter A. (Walter Augustus)</dc:subject>
+        <dc:subject>Confederate States of America. Army. Georgia Infantry Regiment</dc:subject>
+        <dc:subject>1st (1861-1862). Oglethorpe Infantry Company -- Biography</dc:subject>
+        <dc:subject>Atlanta Campaign</dc:subject>
+        <dc:subject>1864 -- Personal narratives</dc:subject>
+        <dc:subject>Soldiers -- Georgia -- Biography</dc:subject>
+        <dc:subject>Georgia -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter A. Clark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:51:11.106625+00:00"/>
+        <meta name="calibre:title_sort" content="Under the Stars and Bars / Or, Memories of Four Years Service with the Oglethorpes, of Augusta, Georgia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

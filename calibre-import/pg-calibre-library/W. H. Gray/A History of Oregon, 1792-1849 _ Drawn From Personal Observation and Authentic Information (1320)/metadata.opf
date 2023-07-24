@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1caf5678-c6d9-4a6e-8094-41a5ae1bb770</dc:identifier>
+        <dc:title>A History of Oregon, 1792-1849 / Drawn From Personal Observation and Authentic Information</dc:title>
+        <dc:creator opf:file-as="Gray, W. H. (William Henry)" opf:role="aut">W. H. Gray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38607</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Oregon</dc:subject>
+        <dc:subject>Oregon Territory -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Gray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:46:05.822695+00:00"/>
+        <meta name="calibre:title_sort" content="History of Oregon, 1792-1849 / Drawn From Personal Observation and Authentic Information, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

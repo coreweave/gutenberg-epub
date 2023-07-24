@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a90b561-469e-4285-a999-c17a835362ce</dc:identifier>
+        <dc:title>Byzantine Churches in Constantinople: Their History and Architecture</dc:title>
+        <dc:creator opf:file-as="George, Walter S." opf:role="aut">Walter S. George</dc:creator>
+        <dc:creator opf:file-as="George, Walter S." opf:role="aut">Arthur E. Henderson</dc:creator>
+        <dc:creator opf:file-as="George, Walter S." opf:role="aut">Ramsay Traquair</dc:creator>
+        <dc:creator opf:file-as="George, Walter S." opf:role="aut">Alexander Van Millingen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29077</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church architecture -- Turkey -- Istanbul</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Byzantine</dc:subject>
+        <dc:subject>Church buildings -- Turkey -- Istanbul</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter S. George&quot;: &quot;&quot;, &quot;Arthur E. Henderson&quot;: &quot;&quot;, &quot;Ramsay Traquair&quot;: &quot;&quot;, &quot;Alexander Van Millingen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:44:19.938052+00:00"/>
+        <meta name="calibre:title_sort" content="Byzantine Churches in Constantinople: Their History and Architecture"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

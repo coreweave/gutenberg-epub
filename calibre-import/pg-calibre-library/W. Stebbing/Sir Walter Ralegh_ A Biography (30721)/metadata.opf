@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55e95e42-7ee0-4e1e-bd27-5f08829ed113</dc:identifier>
+        <dc:title>Sir Walter Ralegh: A Biography</dc:title>
+        <dc:creator opf:file-as="Stebbing, W. (William)" opf:role="aut">W. Stebbing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25029</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography</dc:subject>
+        <dc:subject>Raleigh</dc:subject>
+        <dc:subject>Walter</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1552?-1618</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Stebbing&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:45:53.345035+00:00"/>
+        <meta name="calibre:title_sort" content="Sir Walter Ralegh: A Biography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

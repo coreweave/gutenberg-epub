@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33376</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80998504-2094-45d7-bb90-b55bcac89574</dc:identifier>
+        <dc:title>The American Journal of Pharmacy, March, 1907</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59296</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pharmacology -- Periodicals</dc:subject>
+        <dc:subject>Pharmacy -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:54:38.160107+00:00"/>
+        <meta name="calibre:title_sort" content="American Journal of Pharmacy, March, 1907, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

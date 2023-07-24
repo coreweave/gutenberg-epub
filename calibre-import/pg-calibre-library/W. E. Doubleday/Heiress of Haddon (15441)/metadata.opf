@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e0174d1-fcaf-4235-8661-979c41b99425</dc:identifier>
+        <dc:title>Heiress of Haddon</dc:title>
+        <dc:creator opf:file-as="Doubleday, W. E. (William Elliott)" opf:role="aut">W. E. Doubleday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15443</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vernon</dc:subject>
+        <dc:subject>Dorothy</dc:subject>
+        <dc:subject>-1584 -- Fiction</dc:subject>
+        <dc:subject>Haddon Hall (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. E. Doubleday&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:26:46.501373+00:00"/>
+        <meta name="calibre:title_sort" content="Heiress of Haddon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

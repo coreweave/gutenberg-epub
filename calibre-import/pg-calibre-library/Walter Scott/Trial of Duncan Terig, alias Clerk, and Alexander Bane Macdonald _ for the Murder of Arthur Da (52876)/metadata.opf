@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3918e3f-dec2-45ac-afe8-bed045c7553d</dc:identifier>
+        <dc:title>Trial of Duncan Terig, alias Clerk, and Alexander Bane Macdonald / for the Murder of Arthur Davis, Sergeant in General Guise's / Regiment of Foot</dc:title>
+        <dc:creator opf:file-as="Scott, Walter" opf:role="aut">Walter Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26133</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trials (Murder) -- Scotland</dc:subject>
+        <dc:subject>Terig</dc:subject>
+        <dc:subject>Duncan -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Macdonald</dc:subject>
+        <dc:subject>Alexander Bane -- Trials</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:10:11.893075+00:00"/>
+        <meta name="calibre:title_sort" content="Trial of Duncan Terig, alias Clerk, and Alexander Bane Macdonald / for the Murder of Arthur Davis, Sergeant in General Guise's / Regiment of Foot"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

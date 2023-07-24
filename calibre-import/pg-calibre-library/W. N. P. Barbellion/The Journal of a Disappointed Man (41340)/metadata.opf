@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9ed2ad5-d82a-4c8e-a437-9cc8ace7d9cd</dc:identifier>
+        <dc:title>The Journal of a Disappointed Man</dc:title>
+        <dc:creator opf:file-as="Barbellion, W. N. P." opf:role="aut">W. N. P. Barbellion</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39585</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Barbellion</dc:subject>
+        <dc:subject>W. N. P.</dc:subject>
+        <dc:subject>1889-1919 -- Diaries</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 20th century -- Diaries</dc:subject>
+        <dc:subject>Naturalists -- Great Britain -- Diaries</dc:subject>
+        <dc:subject>Multiple sclerosis -- Patients -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. N. P. Barbellion&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:43:10.482325+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of a Disappointed Man, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

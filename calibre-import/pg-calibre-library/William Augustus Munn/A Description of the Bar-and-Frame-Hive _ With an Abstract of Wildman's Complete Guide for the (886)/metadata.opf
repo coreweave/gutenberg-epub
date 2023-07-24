@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d54470a-3b46-4fee-ab60-07f98f0da8dd</dc:identifier>
+        <dc:title>A Description of the Bar-and-Frame-Hive / With an Abstract of Wildman's Complete Guide for the Management of Bees Throughout the Year</dc:title>
+        <dc:creator opf:file-as="Munn, William Augustus" opf:role="aut">William Augustus Munn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19319</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bees</dc:subject>
+        <dc:subject>Bee culture</dc:subject>
+        <dc:subject>Beehives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Augustus Munn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:19.514072+00:00"/>
+        <meta name="calibre:title_sort" content="Description of the Bar-and-Frame-Hive / With an Abstract of Wildman's Complete Guide for the Management of Bees Throughout the Year, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

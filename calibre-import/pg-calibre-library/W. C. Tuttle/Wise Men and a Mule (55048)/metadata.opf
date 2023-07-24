@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55048</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ad540fd-1180-49f1-a26b-40a327b9a090</dc:identifier>
+        <dc:title>Wise Men and a Mule</dc:title>
+        <dc:creator opf:file-as="Tuttle, W. C. (Wilbur C.)" opf:role="aut">W. C. Tuttle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66823</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Simpkins</dc:subject>
+        <dc:subject>Magpie (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Harper</dc:subject>
+        <dc:subject>Ike (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Christmas pageants -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. C. Tuttle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:31:40.582225+00:00"/>
+        <meta name="calibre:title_sort" content="Wise Men and a Mule"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

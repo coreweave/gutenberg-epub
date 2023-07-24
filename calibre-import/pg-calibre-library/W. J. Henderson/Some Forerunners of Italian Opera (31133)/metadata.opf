@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2552578e-9cc9-47fb-ba79-2907f5c04056</dc:identifier>
+        <dc:title>Some Forerunners of Italian Opera</dc:title>
+        <dc:creator opf:file-as="Henderson, W. J. (William James)" opf:role="aut">W. J. Henderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19958</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Opera -- Italy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. J. Henderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:05:28.646553+00:00"/>
+        <meta name="calibre:title_sort" content="Some Forerunners of Italian Opera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

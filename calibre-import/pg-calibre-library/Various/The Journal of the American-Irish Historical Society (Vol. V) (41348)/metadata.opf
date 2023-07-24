@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f1948b8-6f4c-4e86-80c5-a342a25f656a</dc:identifier>
+        <dc:title>The Journal of the American-Irish Historical Society (Vol. V)</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61037</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American-Irish Historical Society -- Periodicals</dc:subject>
+        <dc:subject>Irish Americans -- Periodicals</dc:subject>
+        <dc:subject>Ethnology -- United States -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:43:37.144638+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of the American-Irish Historical Society (Vol. V), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

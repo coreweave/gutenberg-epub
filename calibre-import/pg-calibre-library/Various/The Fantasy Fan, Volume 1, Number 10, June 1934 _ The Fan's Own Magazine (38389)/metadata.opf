@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a89690cd-2427-408b-a0c8-f84fbfe75d3f</dc:identifier>
+        <dc:title>The Fantasy Fan, Volume 1, Number 10, June 1934 / The Fan's Own Magazine</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64901</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction -- History and criticism -- Periodicals</dc:subject>
+        <dc:subject>Fan magazines</dc:subject>
+        <dc:subject>Fantasy fiction -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:06:40.071474+00:00"/>
+        <meta name="calibre:title_sort" content="Fantasy Fan, Volume 1, Number 10, June 1934 / The Fan's Own Magazine, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ceee67a6-d521-4c97-b474-30a8d3c970a2</dc:identifier>
+        <dc:title>Valeria, the Martyr of the Catacombs: A Tale of Early Christian Life in Rome</dc:title>
+        <dc:creator opf:file-as="Withrow, W. H. (William Henry)" opf:role="aut">W. H. Withrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33484</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Martyrs -- Italy -- Rome -- Fiction</dc:subject>
+        <dc:subject>Christian life -- History -- Early church</dc:subject>
+        <dc:subject>ca. 30-600</dc:subject>
+        <dc:subject>Catacombs -- Italy -- Rome -- Fiction</dc:subject>
+        <dc:subject>Rome (Italy) -- Church history -- Primitive and early church</dc:subject>
+        <dc:subject>ca. 30-600 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Withrow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:00:47.785818+00:00"/>
+        <meta name="calibre:title_sort" content="Valeria, the Martyr of the Catacombs: A Tale of Early Christian Life in Rome"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

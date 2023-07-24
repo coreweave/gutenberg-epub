@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaf3a71c-b236-40ea-9ba7-1fcc14d70c21</dc:identifier>
+        <dc:title>The Book of Anecdotes and Budget of Fun; / containing a collection of over one thousand of the most / laughable sayings and jokes of celebrated wits and / humorists.</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29419</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wit and humor</dc:subject>
+        <dc:subject>Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:08:12.199182+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Anecdotes and Budget of Fun; / containing a collection of over one thousand of the most / laughable sayings and jokes of celebrated wits and / humorists., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

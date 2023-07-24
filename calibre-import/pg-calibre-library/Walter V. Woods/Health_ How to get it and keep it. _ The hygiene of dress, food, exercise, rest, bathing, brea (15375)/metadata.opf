@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c328ed8-5b21-4d2b-aae6-0739472d40a7</dc:identifier>
+        <dc:title>Health: How to get it and keep it. / The hygiene of dress, food, exercise, rest, bathing, breathing, and ventilation.</dc:title>
+        <dc:creator opf:file-as="Woods, Walter V." opf:role="aut">Walter V. Woods</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49279</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hygiene</dc:subject>
+        <dc:subject>Health</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter V. Woods&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:24:34.598962+00:00"/>
+        <meta name="calibre:title_sort" content="Health: How to get it and keep it. / The hygiene of dress, food, exercise, rest, bathing, breathing, and ventilation."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

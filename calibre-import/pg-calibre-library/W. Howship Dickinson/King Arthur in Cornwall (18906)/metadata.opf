@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba9ff672-4a5a-41f8-836e-4c34e0a02cee</dc:identifier>
+        <dc:title>King Arthur in Cornwall</dc:title>
+        <dc:creator opf:file-as="Dickinson, W. Howship (William Howship)" opf:role="aut">W. Howship Dickinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41783</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arthur</dc:subject>
+        <dc:subject>King -- Homes and haunts -- England -- Cornwall (County)</dc:subject>
+        <dc:subject>Cornwall (England : County) -- Antiquities</dc:subject>
+        <dc:subject>Celtic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Howship Dickinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:24:42.104025+00:00"/>
+        <meta name="calibre:title_sort" content="King Arthur in Cornwall"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

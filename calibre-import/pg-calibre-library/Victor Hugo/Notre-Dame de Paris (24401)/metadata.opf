@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed53ddff-b432-4972-b6e5-56f0f6f1ec39</dc:identifier>
+        <dc:title>Notre-Dame de Paris</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2610</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>People with disabilities -- Fiction</dc:subject>
+        <dc:subject>France -- History -- Louis XI</dc:subject>
+        <dc:subject>1461-1483 -- Fiction</dc:subject>
+        <dc:subject>Clergy -- Fiction</dc:subject>
+        <dc:subject>Paris (France) -- History -- To 1515 -- Fiction</dc:subject>
+        <dc:subject>Notre-Dame de Paris (Cathedral) -- Fiction</dc:subject>
+        <dc:subject>Romances</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Victor Hugo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:03:32.270899+00:00"/>
+        <meta name="calibre:title_sort" content="Notre-Dame de Paris"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

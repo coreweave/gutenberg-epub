@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">600c0827-e27a-430d-a63d-6b6d4e9d6e28</dc:identifier>
+        <dc:title>The Battle of Gettysburg: The Country, the Contestants, the Results</dc:title>
+        <dc:creator opf:file-as="Storrick, W. C. (William Clayton)" opf:role="aut">W. C. Storrick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50504</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gettysburg</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Pa.</dc:subject>
+        <dc:subject>1863</dc:subject>
+        <dc:subject>Gettysburg National Military Park (Pa.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. C. Storrick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:37:24.575606+00:00"/>
+        <meta name="calibre:title_sort" content="Battle of Gettysburg: The Country, the Contestants, the Results, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

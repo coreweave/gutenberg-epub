@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27454</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cb6ea85-4917-4df8-9e1d-937d200367cf</dc:identifier>
+        <dc:title>Pulp and Paper Magazine, Vol. XIII, No. 20, October 15, 1916 / A Semi-Monthly Magazine Devoted to the Science and Practice of the Pulp and Paper Manufacturing Industry with an Up-to-date Review of Conditions in the Allied Trades.</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52931</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paper industry -- Periodicals</dc:subject>
+        <dc:subject>Wood-pulp industry -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:14:27.634216+00:00"/>
+        <meta name="calibre:title_sort" content="Pulp and Paper Magazine, Vol. XIII, No. 20, October 15, 1916 / A Semi-Monthly Magazine Devoted to the Science and Practice of the Pulp and Paper Manufacturing Industry with an Up-to-date Review of Conditions in the Allied Trades."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

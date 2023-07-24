@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">901f2399-ee0d-4b53-94be-0c031d8289fd</dc:identifier>
+        <dc:title>The Negro Laborer: A Word to Him</dc:title>
+        <dc:creator opf:file-as="Councill, W. H. (William Hooper)" opf:role="aut">W. H. Councill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63511</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Employment</dc:subject>
+        <dc:subject>Work ethic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Councill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:28:39.619043+00:00"/>
+        <meta name="calibre:title_sort" content="Negro Laborer: A Word to Him, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa23bbd1-f357-4c98-ba7d-938be389cebe</dc:identifier>
+        <dc:title>The Little Review, December 1914 (Vol. 1, No. 9)</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65740</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Modern -- 20th century -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:47:31.368286+00:00"/>
+        <meta name="calibre:title_sort" content="Little Review, December 1914 (Vol. 1, No. 9), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

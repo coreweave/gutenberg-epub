@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">381e8b25-6921-4b0e-8e83-62824030d279</dc:identifier>
+        <dc:title>The American Indian in the United States, Period 1850-1914 / ... The Present Condition of the American Indian; His Political History and Other Topics; A Plea for Justice</dc:title>
+        <dc:creator opf:file-as="Moorehead, Warren King" opf:role="aut">Warren King Moorehead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America</dc:subject>
+        <dc:subject>Indians of North America -- Government relations -- 1869-1934</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Warren King Moorehead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:54:21.949781+00:00"/>
+        <meta name="calibre:title_sort" content="American Indian in the United States, Period 1850-1914 / ... The Present Condition of the American Indian; His Political History and Other Topics; A Plea for Justice, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

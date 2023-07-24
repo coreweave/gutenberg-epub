@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b7e1583-4f6e-4c83-90d3-56e5702303bf</dc:identifier>
+        <dc:title>History of the Fifty-Seventh Regiment, Pennsylvania Veteran Volunteer Infantry / First Brigade, First Division, Third Corps and Second Brigade, Third Division, Second Corps, Army of the Potomac</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58315</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>Pennsylvania -- History -- Civil War</dc:subject>
+        <dc:subject>United States. Army. Pennsylvania Infantry Regiment</dc:subject>
+        <dc:subject>57th (1861-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:50:17.234808+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Fifty-Seventh Regiment, Pennsylvania Veteran Volunteer Infantry / First Brigade, First Division, Third Corps and Second Brigade, Third Division, Second Corps, Army of the Potomac"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

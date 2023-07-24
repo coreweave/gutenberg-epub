@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c31f9f1-9df0-4e35-9590-cde8af9ed869</dc:identifier>
+        <dc:title>The social evolution of the Black South</dc:title>
+        <dc:creator opf:file-as="Du Bois, W. E. B. (William Edward Burghardt)" opf:role="aut">W. E. B. Du Bois</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62582</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Southern States</dc:subject>
+        <dc:subject>African Americans -- Social conditions -- To 1964</dc:subject>
+        <dc:subject>Southern States -- Social conditions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. E. B. Du Bois&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:55:52.585252+00:00"/>
+        <meta name="calibre:title_sort" content="social evolution of the Black South, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">489f9c97-7505-4e10-8f66-7b993ab6ddde</dc:identifier>
+        <dc:title>The Roman Poets of the Augustan Age: Virgil</dc:title>
+        <dc:creator opf:file-as="Sellar, W. Y. (William Young)" opf:role="aut">W. Y. Sellar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34163</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Latin poetry -- History and criticism</dc:subject>
+        <dc:subject>Augustus</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>63 B.C.-14 A.D.-- Influence</dc:subject>
+        <dc:subject>Virgil -- Criticism and interpretation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Y. Sellar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:54:09.591575+00:00"/>
+        <meta name="calibre:title_sort" content="Roman Poets of the Augustan Age: Virgil, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

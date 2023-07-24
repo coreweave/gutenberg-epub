@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5aa5317-a214-46f0-b0f3-d0ade91d145d</dc:identifier>
+        <dc:title>Photo-engraving, Photo-etching and Photo-lithography in Line and Half-tone / Also Collotype and Heliotype</dc:title>
+        <dc:creator opf:file-as="Wilkinson, W. T." opf:role="aut">W. T. Wilkinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52378</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Photomechanical processes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. T. Wilkinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:23:23.065865+00:00"/>
+        <meta name="calibre:title_sort" content="Photo-engraving, Photo-etching and Photo-lithography in Line and Half-tone / Also Collotype and Heliotype"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae942d2e-92d6-42a1-abf9-ab9b5a7fb179</dc:identifier>
+        <dc:title>Redgauntlet: A Tale of the Eighteenth Century</dc:title>
+        <dc:creator opf:file-as="Scott, Walter" opf:role="aut">Walter Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2516</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Scotland -- History -- 18th century -- Fiction</dc:subject>
+        <dc:subject>Charles Edward</dc:subject>
+        <dc:subject>Prince</dc:subject>
+        <dc:subject>grandson of James II</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1720-1788 -- Fiction</dc:subject>
+        <dc:subject>Jacobites -- Fiction</dc:subject>
+        <dc:subject>Princes -- Fiction</dc:subject>
+        <dc:subject>Law students -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:04:49.245411+00:00"/>
+        <meta name="calibre:title_sort" content="Redgauntlet: A Tale of the Eighteenth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

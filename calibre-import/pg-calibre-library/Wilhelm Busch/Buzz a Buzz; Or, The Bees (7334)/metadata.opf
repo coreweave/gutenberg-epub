@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0aadb33-a250-4b21-9ccb-db7ef1cdfb9f</dc:identifier>
+        <dc:title>Buzz a Buzz; Or, The Bees</dc:title>
+        <dc:creator opf:file-as="Busch, Wilhelm" opf:role="aut">Wilhelm Busch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38902</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Bees -- Caricatures and cartoons</dc:subject>
+        <dc:subject>Bees -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wilhelm Busch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:42:37.200287+00:00"/>
+        <meta name="calibre:title_sort" content="Buzz a Buzz; Or, The Bees"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

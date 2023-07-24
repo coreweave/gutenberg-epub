@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1d175fd-9009-436b-9029-e5f3c2582d79</dc:identifier>
+        <dc:title>The False Chevalier / or, The Lifeguard of Marie Antoinette</dc:title>
+        <dc:creator opf:file-as="Lighthall, W. D. (William Douw)" opf:role="aut">W. D. Lighthall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22779</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. D. Lighthall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:05:36.154953+00:00"/>
+        <meta name="calibre:title_sort" content="False Chevalier / or, The Lifeguard of Marie Antoinette, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

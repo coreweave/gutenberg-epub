@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c609e48-75e5-4207-87af-b16137c7f32f</dc:identifier>
+        <dc:title>An Introduction to Shakespeare</dc:title>
+        <dc:creator opf:file-as="Durham, W. H. (Willard Higley)" opf:role="aut">W. H. Durham</dc:creator>
+        <dc:creator opf:file-as="Durham, W. H. (Willard Higley)" opf:role="aut">H. N. MacCracken</dc:creator>
+        <dc:creator opf:file-as="Durham, W. H. (Willard Higley)" opf:role="aut">F. E. Pierce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30982</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. H. Durham&quot;: &quot;&quot;, &quot;H. N. MacCracken&quot;: &quot;&quot;, &quot;F. E. Pierce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:42:25.424415+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Shakespeare, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

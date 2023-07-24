@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22433c08-b4d4-470f-8013-37a72071f8c9</dc:identifier>
+        <dc:title>Birds and Nature Vol. 08, No. 3, October 1900 / Illustrated by Color Photography</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48540</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- Periodicals</dc:subject>
+        <dc:subject>Natural history -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:22:29.670433+00:00"/>
+        <meta name="calibre:title_sort" content="Birds and Nature Vol. 08, No. 3, October 1900 / Illustrated by Color Photography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

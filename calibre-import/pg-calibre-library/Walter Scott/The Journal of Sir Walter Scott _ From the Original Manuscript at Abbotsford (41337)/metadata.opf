@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d86d9236-e770-4f37-98ac-21c40d712f01</dc:identifier>
+        <dc:title>The Journal of Sir Walter Scott / From the Original Manuscript at Abbotsford</dc:title>
+        <dc:creator opf:file-as="Scott, Walter" opf:role="aut">Walter Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14860</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scott</dc:subject>
+        <dc:subject>Walter</dc:subject>
+        <dc:subject>1771-1832 -- Diaries</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Scottish -- 19th century -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Scott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:43:01.046265+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of Sir Walter Scott / From the Original Manuscript at Abbotsford, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40c98a3e-d3ff-45cb-9f98-44d65f5aa70d</dc:identifier>
+        <dc:title>Wild Spain (España agreste) / Records of Sport with Rifle, Rod, and Gun, Natural History Exploration</dc:title>
+        <dc:creator opf:file-as="Buck, Walter John" opf:role="aut">Walter John Buck</dc:creator>
+        <dc:creator opf:file-as="Buck, Walter John" opf:role="aut">Abel Chapman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38201</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hunting -- Spain</dc:subject>
+        <dc:subject>Game and game-birds -- Spain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter John Buck&quot;: &quot;&quot;, &quot;Abel Chapman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:17:59.151875+00:00"/>
+        <meta name="calibre:title_sort" content="Wild Spain (España agreste) / Records of Sport with Rifle, Rod, and Gun, Natural History Exploration"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

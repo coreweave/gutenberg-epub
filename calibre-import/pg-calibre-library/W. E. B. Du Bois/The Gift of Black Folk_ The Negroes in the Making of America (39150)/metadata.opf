@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eeb3f17f-75b8-46dc-bc12-58251018092e</dc:identifier>
+        <dc:title>The Gift of Black Folk: The Negroes in the Making of America</dc:title>
+        <dc:creator opf:file-as="Du Bois, W. E. B. (William Edward Burghardt)" opf:role="aut">W. E. B. Du Bois</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66398</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- History</dc:subject>
+        <dc:subject>United States -- Race relations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. E. B. Du Bois&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:46:15.446035+00:00"/>
+        <meta name="calibre:title_sort" content="Gift of Black Folk: The Negroes in the Making of America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

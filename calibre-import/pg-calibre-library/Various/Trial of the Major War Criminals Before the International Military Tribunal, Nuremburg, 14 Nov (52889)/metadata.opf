@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f85ba125-075e-4841-ac47-d4f4fc4aa224</dc:identifier>
+        <dc:title>Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 10</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64943</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Göring</dc:subject>
+        <dc:subject>Hermann</dc:subject>
+        <dc:subject>1893-1946 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Nuremberg Trial of Major German War Criminals</dc:subject>
+        <dc:subject>Nuremberg</dc:subject>
+        <dc:subject>Germany</dc:subject>
+        <dc:subject>1945-1946</dc:subject>
+        <dc:subject>War crime trials -- Germany -- Nuremberg</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:11:04.780895+00:00"/>
+        <meta name="calibre:title_sort" content="Trial of the Major War Criminals Before the International Military Tribunal, Nuremburg, 14 November 1945-1 October 1946, Volume 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

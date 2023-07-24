@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01c178e7-af9c-411f-a729-b1d7a6b43306</dc:identifier>
+        <dc:title>Four Years</dc:title>
+        <dc:creator opf:file-as="Yeats, W. B. (William Butler)" opf:role="aut">W. B. Yeats</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>Irish -- 20th century -- Biography</dc:subject>
+        <dc:subject>Yeats</dc:subject>
+        <dc:subject>W. B. (William Butler)</dc:subject>
+        <dc:subject>1865-1939</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. B. Yeats&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:18:15.259598+00:00"/>
+        <meta name="calibre:title_sort" content="Four Years"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

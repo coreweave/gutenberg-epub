@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da6b8638-08e2-448b-b0d3-66344986409f</dc:identifier>
+        <dc:title>A Visit to the Monastery of La Trappe in 1817 / With Notes Taken During a Tour Through Le Perche, Normandy, Bretagne, Poitou, Anjou, Le Bocage, Touraine, Orleanois, and the Environs of Paris. / Illustrated with Numerous Coloured Engravings, from Drawings Made on the Spot</dc:title>
+        <dc:creator opf:file-as="Fellowes, W. D. (William Dorset)" opf:role="aut">W. D. Fellowes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Description and travel</dc:subject>
+        <dc:subject>Abbaye de la Trappe (Soligny-la-Trappe</dc:subject>
+        <dc:subject>France)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. D. Fellowes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:14:00.185323+00:00"/>
+        <meta name="calibre:title_sort" content="Visit to the Monastery of La Trappe in 1817 / With Notes Taken During a Tour Through Le Perche, Normandy, Bretagne, Poitou, Anjou, Le Bocage, Touraine, Orleanois, and the Environs of Paris. / Illustrated with Numerous Coloured Engravings, from Drawings Made on the Spot, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0144da52-3d91-4ff8-b86e-5d3013296354</dc:identifier>
+        <dc:title>Chambers's journal of popular literature, science, and art, fifth series, No. 116, Vol. III, March 20, 1886</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68078</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:02:43.620279+00:00"/>
+        <meta name="calibre:title_sort" content="Chambers's journal of popular literature, science, and art, fifth series, No. 116, Vol. III, March 20, 1886"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

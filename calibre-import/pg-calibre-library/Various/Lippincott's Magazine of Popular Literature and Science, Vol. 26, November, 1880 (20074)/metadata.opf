@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">807e50ec-d04c-4320-b070-f63fea04ef80</dc:identifier>
+        <dc:title>Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51453</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- Periodicals</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Modern -- 19th century -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:07:03.405491+00:00"/>
+        <meta name="calibre:title_sort" content="Lippincott's Magazine of Popular Literature and Science, Vol. 26, November, 1880"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

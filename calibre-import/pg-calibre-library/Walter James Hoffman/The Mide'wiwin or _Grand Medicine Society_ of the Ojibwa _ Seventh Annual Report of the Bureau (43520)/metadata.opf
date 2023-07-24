@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86e2634b-715e-4ebc-8f0e-d731765e10ae</dc:identifier>
+        <dc:title>The Mide'wiwin or "Grand Medicine Society" of the Ojibwa / Seventh Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1885-1886, Government Printing Office, Washington, 1891, pages 143-300</dc:title>
+        <dc:creator opf:file-as="Hoffman, Walter James" opf:role="aut">Walter James Hoffman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19368</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ojibwa Indians -- Religion</dc:subject>
+        <dc:subject>Ojibwa Indians -- Rites and ceremonies</dc:subject>
+        <dc:subject>Ojibwa Indians -- Societies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Secret societies -- North America</dc:subject>
+        <dc:subject>Midéwiwin</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter James Hoffman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:43:50.331299+00:00"/>
+        <meta name="calibre:title_sort" content="Mide'wiwin or &quot;Grand Medicine Society&quot; of the Ojibwa / Seventh Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1885-1886, Government Printing Office, Washington, 1891, pages 143-300, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

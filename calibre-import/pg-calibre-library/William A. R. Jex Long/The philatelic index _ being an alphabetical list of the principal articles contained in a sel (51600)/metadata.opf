@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32cb6faf-bfcb-47c7-a505-421a0eff18ad</dc:identifier>
+        <dc:title>The philatelic index / being an alphabetical list of the principal articles contained in a selection of some of the best known philatelic magazines in the English language up to the end of 1904</dc:title>
+        <dc:creator opf:file-as="Long, William A. R. Jex" opf:role="aut">William A. R. Jex Long</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68620</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postage stamps -- Indexes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William A. R. Jex Long&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:48:57.473448+00:00"/>
+        <meta name="calibre:title_sort" content="philatelic index / being an alphabetical list of the principal articles contained in a selection of some of the best known philatelic magazines in the English language up to the end of 1904, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

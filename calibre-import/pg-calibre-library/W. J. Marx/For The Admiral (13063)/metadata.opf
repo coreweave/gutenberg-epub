@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b737a6a3-d102-4ced-91f6-82a706feee65</dc:identifier>
+        <dc:title>For The Admiral</dc:title>
+        <dc:creator opf:file-as="Marx, W. J. (William James)" opf:role="aut">W. J. Marx</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Admirals -- Juvenile fiction</dc:subject>
+        <dc:subject>Coligny</dc:subject>
+        <dc:subject>Gaspard de</dc:subject>
+        <dc:subject>seigneur de Châtillon</dc:subject>
+        <dc:subject>1519-1572 -- Juvenile fiction</dc:subject>
+        <dc:subject>France -- History -- Wars of the Huguenots</dc:subject>
+        <dc:subject>1562-1598 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. J. Marx&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:12:36.413920+00:00"/>
+        <meta name="calibre:title_sort" content="For The Admiral"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

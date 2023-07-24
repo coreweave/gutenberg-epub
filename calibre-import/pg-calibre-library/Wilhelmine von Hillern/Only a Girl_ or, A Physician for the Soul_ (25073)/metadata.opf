@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e1dd915-edfe-4b61-af2d-417279237782</dc:identifier>
+        <dc:title>Only a Girl: or, A Physician for the Soul.</dc:title>
+        <dc:creator opf:file-as="Hillern, Wilhelmine von" opf:role="aut">Wilhelmine von Hillern</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>German fiction -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wilhelmine von Hillern&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:31:27.865859+00:00"/>
+        <meta name="calibre:title_sort" content="Only a Girl: or, A Physician for the Soul."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19092</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed97d278-ff78-467a-9e66-53992998c71e</dc:identifier>
+        <dc:title>Labor's Martyrs: Haymarket 1887, Sacco and Vanzetti 1927</dc:title>
+        <dc:creator opf:file-as="Marcantonio, Vito" opf:role="aut">Vito Marcantonio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11009</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sacco</dc:subject>
+        <dc:subject>Nicola</dc:subject>
+        <dc:subject>1891-1927</dc:subject>
+        <dc:subject>Vanzetti</dc:subject>
+        <dc:subject>Bartolomeo</dc:subject>
+        <dc:subject>1888-1927</dc:subject>
+        <dc:subject>Sacco-Vanzetti Trial</dc:subject>
+        <dc:subject>Dedham</dc:subject>
+        <dc:subject>Mass.</dc:subject>
+        <dc:subject>1921</dc:subject>
+        <dc:subject>Haymarket Square Riot</dc:subject>
+        <dc:subject>Chicago</dc:subject>
+        <dc:subject>Ill.</dc:subject>
+        <dc:subject>1886</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vito Marcantonio&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:31:23.361393+00:00"/>
+        <meta name="calibre:title_sort" content="Labor's Martyrs: Haymarket 1887, Sacco and Vanzetti 1927"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

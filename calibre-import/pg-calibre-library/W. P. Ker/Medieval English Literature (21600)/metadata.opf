@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99817af4-c7b9-41c5-9ff5-eb89dfe5bb38</dc:identifier>
+        <dc:title>Medieval English Literature</dc:title>
+        <dc:creator opf:file-as="Ker, W. P. (William Paton)" opf:role="aut">W. P. Ker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37342</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English literature -- Old English</dc:subject>
+        <dc:subject>ca. 450-1100 -- History and criticism</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>in literature</dc:subject>
+        <dc:subject>English literature -- Middle English</dc:subject>
+        <dc:subject>1100-1500 -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. P. Ker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:05:59.656972+00:00"/>
+        <meta name="calibre:title_sort" content="Medieval English Literature"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

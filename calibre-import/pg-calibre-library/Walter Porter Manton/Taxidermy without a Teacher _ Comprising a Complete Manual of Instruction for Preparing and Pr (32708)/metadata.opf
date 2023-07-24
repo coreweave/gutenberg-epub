@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b6b8028-abaa-47d9-b32d-f4b322cc2c0e</dc:identifier>
+        <dc:title>Taxidermy without a Teacher / Comprising a Complete Manual of Instruction for Preparing and Preserving Birds, Animals and Fishes</dc:title>
+        <dc:creator opf:file-as="Manton, Walter Porter" opf:role="aut">Walter Porter Manton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51439</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Taxidermy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Porter Manton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:22:05.091860+00:00"/>
+        <meta name="calibre:title_sort" content="Taxidermy without a Teacher / Comprising a Complete Manual of Instruction for Preparing and Preserving Birds, Animals and Fishes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

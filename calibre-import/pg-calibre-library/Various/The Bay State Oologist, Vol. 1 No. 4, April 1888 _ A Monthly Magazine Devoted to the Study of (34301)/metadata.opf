@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca667094-5064-4482-9dbc-a1d45c3f062a</dc:identifier>
+        <dc:title>The Bay State Oologist, Vol. 1 No. 4, April 1888 / A Monthly Magazine Devoted to the Study of Birds, their Nests and Eggs</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58488</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- Periodicals</dc:subject>
+        <dc:subject>Birds -- Eggs -- Periodicals</dc:subject>
+        <dc:subject>Birds -- Nests -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:40:03.182101+00:00"/>
+        <meta name="calibre:title_sort" content="Bay State Oologist, Vol. 1 No. 4, April 1888 / A Monthly Magazine Devoted to the Study of Birds, their Nests and Eggs, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

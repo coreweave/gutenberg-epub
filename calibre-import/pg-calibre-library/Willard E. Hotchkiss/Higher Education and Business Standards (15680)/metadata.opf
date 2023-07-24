@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0341d73-6806-4800-9b69-98afa8382d11</dc:identifier>
+        <dc:title>Higher Education and Business Standards</dc:title>
+        <dc:creator opf:file-as="Hotchkiss, Willard E. (Willard Eugene)" opf:role="aut">Willard E. Hotchkiss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29674</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business ethics</dc:subject>
+        <dc:subject>Business education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Willard E. Hotchkiss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:34:31.474350+00:00"/>
+        <meta name="calibre:title_sort" content="Higher Education and Business Standards"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

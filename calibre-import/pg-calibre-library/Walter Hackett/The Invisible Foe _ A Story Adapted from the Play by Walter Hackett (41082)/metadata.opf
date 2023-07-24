@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd9ce951-2f64-408c-b2c1-68913751facb</dc:identifier>
+        <dc:title>The Invisible Foe / A Story Adapted from the Play by Walter Hackett</dc:title>
+        <dc:creator opf:file-as="Hackett, Walter" opf:role="aut">Walter Hackett</dc:creator>
+        <dc:creator opf:file-as="Hackett, Walter" opf:role="aut">Louise Jordan Miln</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50188</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <dc:subject>Families -- Fiction</dc:subject>
+        <dc:subject>Embezzlement -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Hackett&quot;: &quot;&quot;, &quot;Louise Jordan Miln&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:28:58.857325+00:00"/>
+        <meta name="calibre:title_sort" content="Invisible Foe / A Story Adapted from the Play by Walter Hackett, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

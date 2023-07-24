@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76d1d2e6-a0d9-4e32-8ed0-f6dbba190c03</dc:identifier>
+        <dc:title>Watching on the Rhine</dc:title>
+        <dc:creator opf:file-as="Markham, Violet R. (Violet Rosa)" opf:role="aut">Violet R. Markham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69662</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germany -- Description and travel</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Germany</dc:subject>
+        <dc:subject>Cologne (Germany) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Violet R. Markham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:36:20.879017+00:00"/>
+        <meta name="calibre:title_sort" content="Watching on the Rhine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

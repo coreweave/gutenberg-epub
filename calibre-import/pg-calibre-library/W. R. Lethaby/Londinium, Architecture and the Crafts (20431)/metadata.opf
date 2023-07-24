@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20431</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a083e61-0346-44ee-8a11-e9557ac6173c</dc:identifier>
+        <dc:title>Londinium, Architecture and the Crafts</dc:title>
+        <dc:creator opf:file-as="Lethaby, W. R. (William Richard)" opf:role="aut">W. R. Lethaby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66260</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romans -- England -- London</dc:subject>
+        <dc:subject>London (England) -- Antiquities</dc:subject>
+        <dc:subject>Roman</dc:subject>
+        <dc:subject>England -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. R. Lethaby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:20:26.425230+00:00"/>
+        <meta name="calibre:title_sort" content="Londinium, Architecture and the Crafts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

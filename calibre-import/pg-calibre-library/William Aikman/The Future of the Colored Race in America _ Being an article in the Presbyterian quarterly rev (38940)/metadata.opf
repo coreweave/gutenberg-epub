@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38940</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d61269f5-e36d-4b07-a22e-ec3445d777e1</dc:identifier>
+        <dc:title>The Future of the Colored Race in America / Being an article in the Presbyterian quarterly review of July, 1862</dc:title>
+        <dc:creator opf:file-as="Aikman, William" opf:role="aut">William Aikman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans</dc:subject>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Aikman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:35:11.268887+00:00"/>
+        <meta name="calibre:title_sort" content="Future of the Colored Race in America / Being an article in the Presbyterian quarterly review of July, 1862, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

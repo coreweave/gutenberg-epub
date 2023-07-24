@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c297e48-3903-4473-b8a9-31e1d54b3ae1</dc:identifier>
+        <dc:title>The Log of the Water Wagon; or, The Cruise of the Good Ship "Lithia"</dc:title>
+        <dc:creator opf:file-as="Gibson, W. C. (William Curtis)" opf:role="aut">W. C. Gibson</dc:creator>
+        <dc:creator opf:file-as="Gibson, W. C. (William Curtis)" opf:role="aut">Bert Leston Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60022</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American wit and humor</dc:subject>
+        <dc:subject>Temperance -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. C. Gibson&quot;: &quot;&quot;, &quot;Bert Leston Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:52:57.419088+00:00"/>
+        <meta name="calibre:title_sort" content="Log of the Water Wagon; or, The Cruise of the Good Ship &quot;Lithia&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

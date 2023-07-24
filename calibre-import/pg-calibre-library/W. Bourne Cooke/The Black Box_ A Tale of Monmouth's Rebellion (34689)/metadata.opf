@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b81d420d-6d38-4442-b3d6-80d19f43052a</dc:identifier>
+        <dc:title>The Black Box: A Tale of Monmouth's Rebellion</dc:title>
+        <dc:creator opf:file-as="Cooke, W. Bourne" opf:role="aut">W. Bourne Cooke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53641</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Monmouth</dc:subject>
+        <dc:subject>James Scott</dc:subject>
+        <dc:subject>Duke of</dc:subject>
+        <dc:subject>1649-1685 -- Juvenile fiction</dc:subject>
+        <dc:subject>Monmouth's Rebellion</dc:subject>
+        <dc:subject>1685 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. Bourne Cooke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:59:12.875819+00:00"/>
+        <meta name="calibre:title_sort" content="Black Box: A Tale of Monmouth's Rebellion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

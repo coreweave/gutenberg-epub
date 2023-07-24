@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">878d09ce-735a-4103-9ad6-d8fb177a1cee</dc:identifier>
+        <dc:title>Stories of W.W. Jacobs: An Index to All Volumes and Stories</dc:title>
+        <dc:creator opf:file-as="Jacobs, W. W. (William Wymark)" opf:role="aut">W. W. Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28701</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indexes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. W. Jacobs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:45:58.899321+00:00"/>
+        <meta name="calibre:title_sort" content="Stories of W.W. Jacobs: An Index to All Volumes and Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9674a678-1dc1-4378-9934-531d41d21085</dc:identifier>
+        <dc:title>Fate Knocks at the Door: A Novel</dc:title>
+        <dc:creator opf:file-as="Comfort, Will Levington" opf:role="aut">Will Levington Comfort</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11655</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Will Levington Comfort&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:56:42.075651+00:00"/>
+        <meta name="calibre:title_sort" content="Fate Knocks at the Door: A Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

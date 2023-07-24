@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50880</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">241e4ede-ac5a-4856-8f9c-3157a38535cb</dc:identifier>
+        <dc:title>The Wound Dresser / A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion</dc:title>
+        <dc:creator opf:file-as="Whitman, Walt" opf:role="aut">Walt Whitman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35725</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Hospitals</dc:subject>
+        <dc:subject>Whitman</dc:subject>
+        <dc:subject>Walt</dc:subject>
+        <dc:subject>1819-1892 -- Correspondence</dc:subject>
+        <dc:subject>Louisa Van Velsor</dc:subject>
+        <dc:subject>1795-1873</dc:subject>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>American -- 19th century -- Correspondence</dc:subject>
+        <dc:subject>Mothers -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walt Whitman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:02:02.387139+00:00"/>
+        <meta name="calibre:title_sort" content="Wound Dresser / A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

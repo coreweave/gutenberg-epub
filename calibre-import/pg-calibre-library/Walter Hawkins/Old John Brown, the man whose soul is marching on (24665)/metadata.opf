@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9ed24ed-e94f-4a23-ae2c-3bf9e42b0de0</dc:identifier>
+        <dc:title>Old John Brown, the man whose soul is marching on</dc:title>
+        <dc:creator opf:file-as="Hawkins, Walter" opf:role="aut">Walter Hawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brown</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1800-1859</dc:subject>
+        <dc:subject>Abolitionists -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Hawkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:14:28.879778+00:00"/>
+        <meta name="calibre:title_sort" content="Old John Brown, the man whose soul is marching on"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

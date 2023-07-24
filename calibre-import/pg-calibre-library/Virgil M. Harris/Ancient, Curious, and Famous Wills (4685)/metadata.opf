@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7027f2cc-c66a-4b64-bfdf-4a1f6b9d762a</dc:identifier>
+        <dc:title>Ancient, Curious, and Famous Wills</dc:title>
+        <dc:creator opf:file-as="Harris, Virgil M. (Virgil McClure)" opf:role="aut">Virgil M. Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56942</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wills</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Virgil M. Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:45:54.888813+00:00"/>
+        <meta name="calibre:title_sort" content="Ancient, Curious, and Famous Wills"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

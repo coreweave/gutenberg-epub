@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">feeb9724-82bf-4b29-9711-d33ebea3273a</dc:identifier>
+        <dc:title>Notes and Queries, Number 196, July 30, 1853 / A Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28478</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Questions and answers -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:53:36.351144+00:00"/>
+        <meta name="calibre:title_sort" content="Notes and Queries, Number 196, July 30, 1853 / A Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

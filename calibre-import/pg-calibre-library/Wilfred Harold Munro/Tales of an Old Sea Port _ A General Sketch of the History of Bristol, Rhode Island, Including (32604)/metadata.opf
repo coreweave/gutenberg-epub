@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da333170-1e07-40e0-aa31-93142a608d16</dc:identifier>
+        <dc:title>Tales of an Old Sea Port / A General Sketch of the History of Bristol, Rhode Island, Including, Incidentally, an Account of the Voyages of the Norsemen, So Far as They May Have Been Connected with Narragansett Bay: and Personal Narratives of Some Notable Voyages Accomplished by Sailors from the Mount Hope Lands</dc:title>
+        <dc:creator opf:file-as="Munro, Wilfred Harold" opf:role="aut">Wilfred Harold Munro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64419</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alaska -- Description and travel</dc:subject>
+        <dc:subject>Siberia (Russia) -- Description and travel</dc:subject>
+        <dc:subject>Northwest Coast of North America</dc:subject>
+        <dc:subject>Potter</dc:subject>
+        <dc:subject>Simeon</dc:subject>
+        <dc:subject>1720-1806</dc:subject>
+        <dc:subject>Yankee (Brig)</dc:subject>
+        <dc:subject>Bristol (R.I. : Town) -- History</dc:subject>
+        <dc:subject>Fort Oyapoc (Guyana)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Wilfred Harold Munro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:17:09.447371+00:00"/>
+        <meta name="calibre:title_sort" content="Tales of an Old Sea Port / A General Sketch of the History of Bristol, Rhode Island, Including, Incidentally, an Account of the Voyages of the Norsemen, So Far as They May Have Been Connected with Narragansett Bay: and Personal Narratives of Some Notable Voyages Accomplished by Sailors from the Mount Hope Lands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

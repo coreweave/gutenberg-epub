@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">124f6255-ab20-40a2-a51b-dbdfff0d1d5d</dc:identifier>
+        <dc:title>The Life and Works of Joseph Wright, A.R.A., commonly called "Wright of Derby"</dc:title>
+        <dc:creator opf:file-as="Bemrose, William" opf:role="aut">William Bemrose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66201</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Painters -- England -- Biography</dc:subject>
+        <dc:subject>Wright</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1734-1797</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Bemrose&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:25:46.809038+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Works of Joseph Wright, A.R.A., commonly called &quot;Wright of Derby&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

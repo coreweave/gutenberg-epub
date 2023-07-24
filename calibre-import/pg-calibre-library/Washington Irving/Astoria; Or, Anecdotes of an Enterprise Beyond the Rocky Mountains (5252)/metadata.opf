@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">997aeec5-0e79-48a8-bba9-4574bd2deb82</dc:identifier>
+        <dc:title>Astoria; Or, Anecdotes of an Enterprise Beyond the Rocky Mountains</dc:title>
+        <dc:creator opf:file-as="Irving, Washington" opf:role="aut">Washington Irving</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1371</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astoria (Or.)</dc:subject>
+        <dc:subject>Overland journeys to the Pacific</dc:subject>
+        <dc:subject>Fur trade -- Oregon</dc:subject>
+        <dc:subject>Northwestern States -- Description and travel</dc:subject>
+        <dc:subject>Pacific Fur Company</dc:subject>
+        <dc:subject>Voyages to the Pacific coast</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Washington Irving&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:57:16.344364+00:00"/>
+        <meta name="calibre:title_sort" content="Astoria; Or, Anecdotes of an Enterprise Beyond the Rocky Mountains"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

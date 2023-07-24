@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbb550f4-3afd-4986-b688-6371f700e666</dc:identifier>
+        <dc:title>Death Points a Finger</dc:title>
+        <dc:creator opf:file-as="Levinrew, Will" opf:role="aut">Will Levinrew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30187</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Journalists -- New York (State) -- New York -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Will Levinrew&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:50:46.807957+00:00"/>
+        <meta name="calibre:title_sort" content="Death Points a Finger"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

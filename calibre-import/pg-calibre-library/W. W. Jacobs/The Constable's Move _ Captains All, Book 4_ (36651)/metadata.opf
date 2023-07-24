@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">979c10d7-42a5-4136-978b-744e26786e31</dc:identifier>
+        <dc:title>The Constable's Move / Captains All, Book 4.</dc:title>
+        <dc:creator opf:file-as="Jacobs, W. W. (William Wymark)" opf:role="aut">W. W. Jacobs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11184</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>England -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>River life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. W. Jacobs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:37:19.300081+00:00"/>
+        <meta name="calibre:title_sort" content="Constable's Move / Captains All, Book 4., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

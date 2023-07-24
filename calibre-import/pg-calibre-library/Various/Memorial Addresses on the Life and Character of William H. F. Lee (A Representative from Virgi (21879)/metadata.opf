@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb662e4c-c4d3-4814-948a-6af675d258e1</dc:identifier>
+        <dc:title>Memorial Addresses on the Life and Character of William H. F. Lee (A Representative from Virginia) / Delivered in the House of Representatives and in the Senate, / Fifty-Second Congress, First Session</dc:title>
+        <dc:creator opf:file-as="Various" opf:role="aut">Various</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16822</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lee</dc:subject>
+        <dc:subject>William Henry Fitzhugh</dc:subject>
+        <dc:subject>1837-1891</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:17:13.384539+00:00"/>
+        <meta name="calibre:title_sort" content="Memorial Addresses on the Life and Character of William H. F. Lee (A Representative from Virginia) / Delivered in the House of Representatives and in the Senate, / Fifty-Second Congress, First Session"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

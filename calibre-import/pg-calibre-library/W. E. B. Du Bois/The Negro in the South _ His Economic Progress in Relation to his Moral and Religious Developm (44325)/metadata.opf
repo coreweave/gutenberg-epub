@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">380be709-0044-4410-9dd7-5588d0abcfd7</dc:identifier>
+        <dc:title>The Negro in the South / His Economic Progress in Relation to his Moral and Religious Development</dc:title>
+        <dc:creator opf:file-as="Du Bois, W. E. B. (William Edward Burghardt)" opf:role="aut">W. E. B. Du Bois</dc:creator>
+        <dc:creator opf:file-as="Du Bois, W. E. B. (William Edward Burghardt)" opf:role="aut">Booker T. Washington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35399</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Southern States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. E. B. Du Bois&quot;: &quot;&quot;, &quot;Booker T. Washington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:29:21.961082+00:00"/>
+        <meta name="calibre:title_sort" content="Negro in the South / His Economic Progress in Relation to his Moral and Religious Development, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

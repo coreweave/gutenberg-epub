@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3de9a56-5da7-4b72-afa2-7a91dfc9aca6</dc:identifier>
+        <dc:title>Miscellaneous Studies; a series of essays</dc:title>
+        <dc:creator opf:file-as="Pater, Walter" opf:role="aut">Walter Pater</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4059</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Walter Pater&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:31:51.443696+00:00"/>
+        <meta name="calibre:title_sort" content="Miscellaneous Studies; a series of essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

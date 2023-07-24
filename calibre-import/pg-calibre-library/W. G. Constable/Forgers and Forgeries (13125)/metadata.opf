@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8abad45-f7a0-4918-a419-a0772ddddd4e</dc:identifier>
+        <dc:title>Forgers and Forgeries</dc:title>
+        <dc:creator opf:file-as="Constable, W. G. (William George)" opf:role="aut">W. G. Constable</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Art -- Forgeries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. G. Constable&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:14:27.094667+00:00"/>
+        <meta name="calibre:title_sort" content="Forgers and Forgeries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

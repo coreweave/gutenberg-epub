@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">238ac550-bacf-4968-b059-82360b1c13c1</dc:identifier>
+        <dc:title>U.S.S. Cairo: The Story of a Civil War Gunboat / Comprising a Narrative of Her Wartime Adventures by Virgil Carrington Jones, and an Account of Her Raising in 1964 by Harold L. Peterson</dc:title>
+        <dc:creator opf:file-as="Jones, Virgil Carrington" opf:role="aut">Virgil Carrington Jones</dc:creator>
+        <dc:creator opf:file-as="Jones, Virgil Carrington" opf:role="aut">Harold L. Peterson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59574</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Naval operations</dc:subject>
+        <dc:subject>Cairo (Gunboat)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Virgil Carrington Jones&quot;: &quot;&quot;, &quot;Harold L. Peterson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:40:16.142347+00:00"/>
+        <meta name="calibre:title_sort" content="U.S.S. Cairo: The Story of a Civil War Gunboat / Comprising a Narrative of Her Wartime Adventures by Virgil Carrington Jones, and an Account of Her Raising in 1964 by Harold L. Peterson"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

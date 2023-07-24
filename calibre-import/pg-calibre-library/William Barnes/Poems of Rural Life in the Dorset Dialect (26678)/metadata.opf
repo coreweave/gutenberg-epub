@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99a8674c-7279-43eb-9383-bffdc44588d8</dc:identifier>
+        <dc:title>Poems of Rural Life in the Dorset Dialect</dc:title>
+        <dc:creator opf:file-as="Barnes, William" opf:role="aut">William Barnes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21785</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Country life -- Poetry</dc:subject>
+        <dc:subject>English language -- Dialects -- England -- Dorset -- Texts</dc:subject>
+        <dc:subject>Dialect poetry</dc:subject>
+        <dc:subject>English -- England -- Dorset</dc:subject>
+        <dc:subject>Dorset (England) -- Languages -- Dictionaries</dc:subject>
+        <dc:subject>Dorset (England) -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;William Barnes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:40:58.953484+00:00"/>
+        <meta name="calibre:title_sort" content="Poems of Rural Life in the Dorset Dialect"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e47c3219-e409-4fb7-b6cc-e27dd31f064f</dc:identifier>
+        <dc:title>The World of H.G. Wells</dc:title>
+        <dc:creator opf:file-as="Brooks, Van Wyck" opf:role="aut">Van Wyck Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42221</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wells</dc:subject>
+        <dc:subject>H. G. (Herbert George)</dc:subject>
+        <dc:subject>1866-1946 -- Criticism and interpretation</dc:subject>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Van Wyck Brooks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:57:58.151486+00:00"/>
+        <meta name="calibre:title_sort" content="World of H.G. Wells, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

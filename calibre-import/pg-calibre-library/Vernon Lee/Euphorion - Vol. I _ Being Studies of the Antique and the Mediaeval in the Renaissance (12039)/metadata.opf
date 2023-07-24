@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12039</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">679561e2-18fc-4d9d-b04e-8f0029ecc8c3</dc:identifier>
+        <dc:title>Euphorion - Vol. I / Being Studies of the Antique and the Mediaeval in the Renaissance</dc:title>
+        <dc:creator opf:file-as="Lee, Vernon" opf:role="aut">Vernon Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31303</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>Renaissance -- Italy</dc:subject>
+        <dc:subject>Love</dc:subject>
+        <dc:subject>English drama -- Early modern and Elizabethan</dc:subject>
+        <dc:subject>1500-1600 -- History and criticism</dc:subject>
+        <dc:subject>Boiardo</dc:subject>
+        <dc:subject>Matteo Maria</dc:subject>
+        <dc:subject>1440 or 1441-1494</dc:subject>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>Italian -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Vernon Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:43:19.979298+00:00"/>
+        <meta name="calibre:title_sort" content="Euphorion - Vol. I / Being Studies of the Antique and the Mediaeval in the Renaissance"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

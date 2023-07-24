@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6da850e6-ab6c-4c18-b4ef-22bc6a4be120</dc:identifier>
+        <dc:title>King of the Jews: A story of Christ's last days on Earth</dc:title>
+        <dc:creator opf:file-as="Stead, W. T. (William Thomas)" opf:role="aut">W. T. Stead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22735</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jesus Christ -- Last days</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;W. T. Stead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:26:48.034821+00:00"/>
+        <meta name="calibre:title_sort" content="King of the Jews: A story of Christ's last days on Earth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
