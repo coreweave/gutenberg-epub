@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f06633e4-158e-4ac7-bfa6-5fb97715511e</dc:identifier>
+        <dc:title>Historic Handbook of the Northern Tour / Lakes George and Champlain; Niagara; Montreal; Quebec</dc:title>
+        <dc:creator opf:file-as="Parkman, Francis" opf:role="aut">Francis Parkman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35216</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- French and Indian War</dc:subject>
+        <dc:subject>1754-1763</dc:subject>
+        <dc:subject>Montréal (Québec) -- History</dc:subject>
+        <dc:subject>Inscriptions</dc:subject>
+        <dc:subject>Runic -- Scotland -- Orkney</dc:subject>
+        <dc:subject>Québec (Québec) -- History</dc:subject>
+        <dc:subject>Niagara Frontier (N.Y.) -- History</dc:subject>
+        <dc:subject>Champlain</dc:subject>
+        <dc:subject>Lake -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Parkman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:38:55.400550+00:00"/>
+        <meta name="calibre:title_sort" content="Historic Handbook of the Northern Tour / Lakes George and Champlain; Niagara; Montreal; Quebec"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

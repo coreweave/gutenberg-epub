@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f895161f-2420-4c74-842b-9cee6cfc3441</dc:identifier>
+        <dc:title>Dryden's Palamon and Arcite</dc:title>
+        <dc:creator opf:file-as="Chaucer, Geoffrey" opf:role="aut">Geoffrey Chaucer</dc:creator>
+        <dc:creator opf:file-as="Chaucer, Geoffrey" opf:role="aut">John Dryden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7490</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- Early modern</dc:subject>
+        <dc:subject>1500-1700</dc:subject>
+        <dc:subject>Chaucer</dc:subject>
+        <dc:subject>Geoffrey</dc:subject>
+        <dc:subject>-1400. Knight's tale -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Geoffrey Chaucer&quot;: &quot;&quot;, &quot;John Dryden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:15:22.592795+00:00"/>
+        <meta name="calibre:title_sort" content="Dryden's Palamon and Arcite"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

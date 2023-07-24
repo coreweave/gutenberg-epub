@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53b924fe-15b9-4805-b8fa-c6ed687659e9</dc:identifier>
+        <dc:title>Reports of Trials for Murder by Poisoning; / by Prussic Acid, Strychnia, Antimony, Arsenic, and Aconita. Including the trials of Tawell, W. Palmer, Dove, Madeline Smith, Dr. Pritchard, Smethurst, and Dr. Lamson, with chemical introduction and notes on the poisons used</dc:title>
+        <dc:creator opf:file-as="Browne, G. Lathom (George Lathom)" opf:role="aut">G. Lathom Browne</dc:creator>
+        <dc:creator opf:file-as="Browne, G. Lathom (George Lathom)" opf:role="aut">active 19th century C. G. Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50636</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poisons</dc:subject>
+        <dc:subject>Trials (Murder) -- Great Britain</dc:subject>
+        <dc:subject>Trials (Poisoning) -- Great Britain</dc:subject>
+        <dc:subject>Medical jurisprudence -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. Lathom Browne&quot;: &quot;&quot;, &quot;active 19th century C. G. Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:15:08.745212+00:00"/>
+        <meta name="calibre:title_sort" content="Reports of Trials for Murder by Poisoning; / by Prussic Acid, Strychnia, Antimony, Arsenic, and Aconita. Including the trials of Tawell, W. Palmer, Dove, Madeline Smith, Dr. Pritchard, Smethurst, and Dr. Lamson, with chemical introduction and notes on the poisons used"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

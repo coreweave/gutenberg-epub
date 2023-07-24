@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">698bd129-34cc-441f-8b43-6a2167726d72</dc:identifier>
+        <dc:title>The Princess and the Physicist</dc:title>
+        <dc:creator opf:file-as="Smith, Evelyn E." opf:role="aut">Evelyn E. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51126</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Scientists -- Fiction</dc:subject>
+        <dc:subject>Princesses -- Fiction</dc:subject>
+        <dc:subject>Space colonies -- Fiction</dc:subject>
+        <dc:subject>Gods -- Fiction</dc:subject>
+        <dc:subject>Extrasolar planets -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evelyn E. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:59:48.403089+00:00"/>
+        <meta name="calibre:title_sort" content="Princess and the Physicist, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

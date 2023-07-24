@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a1b6b35-1414-46ac-991e-cc0c7f253777</dc:identifier>
+        <dc:title>An Advanced English Grammar with Exercises</dc:title>
+        <dc:creator opf:file-as="Farley, Frank Edgar" opf:role="aut">Frank Edgar Farley</dc:creator>
+        <dc:creator opf:file-as="Farley, Frank Edgar" opf:role="aut">George Lyman Kittredge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45814</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Grammar</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Edgar Farley&quot;: &quot;&quot;, &quot;George Lyman Kittredge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:36:48.551152+00:00"/>
+        <meta name="calibre:title_sort" content="Advanced English Grammar with Exercises, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

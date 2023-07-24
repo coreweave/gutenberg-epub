@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37920</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77b269a8-5610-43e8-808c-e3899612c53d</dc:identifier>
+        <dc:title>The Emigrant / or Reflections While Descending the Ohio</dc:title>
+        <dc:creator opf:file-as="Thomas, Frederick W. (Frederick William)" opf:role="aut">Frederick W. Thomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29606</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ohio River -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick W. Thomas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:42:26.271335+00:00"/>
+        <meta name="calibre:title_sort" content="Emigrant / or Reflections While Descending the Ohio, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

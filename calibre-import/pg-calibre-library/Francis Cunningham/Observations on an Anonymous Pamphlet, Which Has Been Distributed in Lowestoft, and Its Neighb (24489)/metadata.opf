@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24489</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a779dd93-2677-4d48-a759-d66c859de9da</dc:identifier>
+        <dc:title>Observations on an Anonymous Pamphlet, Which Has Been Distributed in Lowestoft, and Its Neighbourhood, Entitled Reasons Why a Churchman May with Great Justice Refuse to Subscribe to the British and Foreign Bible Society</dc:title>
+        <dc:creator opf:file-as="Cunningham, Francis" opf:role="aut">Francis Cunningham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52265</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British and Foreign Bible Society</dc:subject>
+        <dc:subject>Lockwood</dc:subject>
+        <dc:subject>Richard. Reasons why a Churchman may ... refuse to subscribe to the British and Foreign Bible Society</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Cunningham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:07:09.104354+00:00"/>
+        <meta name="calibre:title_sort" content="Observations on an Anonymous Pamphlet, Which Has Been Distributed in Lowestoft, and Its Neighbourhood, Entitled Reasons Why a Churchman May with Great Justice Refuse to Subscribe to the British and Foreign Bible Society"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da78860e-d1e2-408a-9ec1-5e5c400e3906</dc:identifier>
+        <dc:title>A Hermit of Carmel, and Other Poems</dc:title>
+        <dc:creator opf:file-as="Santayana, George" opf:role="aut">George Santayana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49888</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Santayana&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:44:39.118859+00:00"/>
+        <meta name="calibre:title_sort" content="Hermit of Carmel, and Other Poems, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

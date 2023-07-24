@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dcf2fb3-4845-49a8-a6eb-79a932f9070e</dc:identifier>
+        <dc:title>Diary of Ezra Green, M.D. from November 1, 1777, to September 27, 1778</dc:title>
+        <dc:creator opf:file-as="Green, Ezra" opf:role="aut">Ezra Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36204</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Naval operations</dc:subject>
+        <dc:subject>1775-1783 -- Personal narratives</dc:subject>
+        <dc:subject>Green</dc:subject>
+        <dc:subject>Ezra</dc:subject>
+        <dc:subject>1746-1847</dc:subject>
+        <dc:subject>1746-1847 -- Diaries</dc:subject>
+        <dc:subject>Ranger (Sloop of war)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ezra Green&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:57:49.643578+00:00"/>
+        <meta name="calibre:title_sort" content="Diary of Ezra Green, M.D. from November 1, 1777, to September 27, 1778"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

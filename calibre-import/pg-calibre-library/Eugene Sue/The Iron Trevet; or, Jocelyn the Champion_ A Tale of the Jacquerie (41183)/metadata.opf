@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ba50922-ad9c-40fb-9f5a-bf1659bf99c7</dc:identifier>
+        <dc:title>The Iron Trevet; or, Jocelyn the Champion: A Tale of the Jacquerie</dc:title>
+        <dc:creator opf:file-as="Sue, Eugène" opf:role="aut">Eugène Sue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>French fiction -- Translations into English</dc:subject>
+        <dc:subject>Jacquerie</dc:subject>
+        <dc:subject>1358 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugène Sue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:34:20.034820+00:00"/>
+        <meta name="calibre:title_sort" content="Iron Trevet; or, Jocelyn the Champion: A Tale of the Jacquerie, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

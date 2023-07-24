@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caa94a33-753b-4401-9c5c-174bb71e944f</dc:identifier>
+        <dc:title>Moslem and Frank; / or, Charles Martel and the rescue of Europe from the threatened yoke of the Saracens</dc:title>
+        <dc:creator opf:file-as="Strauss, G. L. M. (Gustave Louis Maurice)" opf:role="aut">G. L. M. Strauss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Charles Martel</dc:subject>
+        <dc:subject>approximately 688-741</dc:subject>
+        <dc:subject>Arab countries -- History</dc:subject>
+        <dc:subject>Arab countries -- Relations -- Europe</dc:subject>
+        <dc:subject>Europe -- Relations -- Arab countries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. L. M. Strauss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:49:48.805994+00:00"/>
+        <meta name="calibre:title_sort" content="Moslem and Frank; / or, Charles Martel and the rescue of Europe from the threatened yoke of the Saracens"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

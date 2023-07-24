@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b19ed05-9de4-4473-9836-8baabe83007b</dc:identifier>
+        <dc:title>The philosophy of life, and philosophy of language, in a course of lectures</dc:title>
+        <dc:creator opf:file-as="Schlegel, Friedrich von" opf:role="aut">Friedrich von Schlegel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43544</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Life</dc:subject>
+        <dc:subject>Language and languages -- Philosophy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Friedrich von Schlegel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:49:13.647332+00:00"/>
+        <meta name="calibre:title_sort" content="philosophy of life, and philosophy of language, in a course of lectures, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

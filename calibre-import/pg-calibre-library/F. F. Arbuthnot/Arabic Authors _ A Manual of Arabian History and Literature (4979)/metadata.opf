@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4979</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7712ac4b-ccfe-483d-a43c-19decbb967a5</dc:identifier>
+        <dc:title>Arabic Authors / A Manual of Arabian History and Literature</dc:title>
+        <dc:creator opf:file-as="Arbuthnot, F. F." opf:role="aut">F. F. Arbuthnot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19914</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arabic literature -- History and criticism</dc:subject>
+        <dc:subject>Arabian Peninsula -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. F. Arbuthnot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:51:48.319397+00:00"/>
+        <meta name="calibre:title_sort" content="Arabic Authors / A Manual of Arabian History and Literature"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

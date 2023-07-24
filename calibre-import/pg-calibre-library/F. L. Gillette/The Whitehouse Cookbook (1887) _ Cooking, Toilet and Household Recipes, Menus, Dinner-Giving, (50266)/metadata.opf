@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c7cf9f5-4623-4d2f-9eda-0a3cc3076625</dc:identifier>
+        <dc:title>The Whitehouse Cookbook (1887) / Cooking, Toilet and Household Recipes, Menus, Dinner-Giving, Table Etiquette, Care of the Sick, Health Suggestions, Facts Worth Knowing, Etc., Etc. / The Whole Comprising a Comprehensive Cyclopedia of Information for the Home</dc:title>
+        <dc:creator opf:file-as="Gillette, F. L. (Fanny Lemira)" opf:role="aut">F. L. Gillette</dc:creator>
+        <dc:creator opf:file-as="Gillette, F. L. (Fanny Lemira)" opf:role="aut">Hugo Ziemann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Table service</dc:subject>
+        <dc:subject>Formulas</dc:subject>
+        <dc:subject>recipes</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. L. Gillette&quot;: &quot;&quot;, &quot;Hugo Ziemann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:22:48.061855+00:00"/>
+        <meta name="calibre:title_sort" content="Whitehouse Cookbook (1887) / Cooking, Toilet and Household Recipes, Menus, Dinner-Giving, Table Etiquette, Care of the Sick, Health Suggestions, Facts Worth Knowing, Etc., Etc. / The Whole Comprising a Comprehensive Cyclopedia of Information for the Home, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d00f4b5-f687-470a-bceb-6a5b1d2b52b1</dc:identifier>
+        <dc:title>Simon Magus / An Essay on the Founder of Simonianism Based on the Ancient Sources With a Re-Evaluation of His Philosophy and Teachings</dc:title>
+        <dc:creator opf:file-as="Mead, G. R. S. (George Robert Stow)" opf:role="aut">G. R. S. Mead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12892</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Simon</dc:subject>
+        <dc:subject>Magus</dc:subject>
+        <dc:subject>active 1st century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. R. S. Mead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:41:46.609985+00:00"/>
+        <meta name="calibre:title_sort" content="Simon Magus / An Essay on the Founder of Simonianism Based on the Ancient Sources With a Re-Evaluation of His Philosophy and Teachings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10947</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e80af60b-bb08-4c37-8b0f-455c6a8a68ea</dc:identifier>
+        <dc:title>Draw Swords! In the Horse Artillery</dc:title>
+        <dc:creator opf:file-as="Fenn, George Manville" opf:role="aut">George Manville Fenn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34493</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Juvenile fiction</dc:subject>
+        <dc:subject>East India Company. Army -- Juvenile fiction</dc:subject>
+        <dc:subject>Soldiers -- India -- Juvenile fiction</dc:subject>
+        <dc:subject>India -- Kings and rulers -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Manville Fenn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:13:21.387410+00:00"/>
+        <meta name="calibre:title_sort" content="Draw Swords! In the Horse Artillery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5e83d59-ea97-478c-90f0-48a2e8b4da41</dc:identifier>
+        <dc:title>The Dickens Country</dc:title>
+        <dc:creator opf:file-as="Kitton, Frederic George" opf:role="aut">Frederic George Kitton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56105</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>England -- Intellectual life -- 19th century</dc:subject>
+        <dc:subject>Dickens</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1812-1870 -- Homes and haunts</dc:subject>
+        <dc:subject>American -- Homes and haunts -- England</dc:subject>
+        <dc:subject>Literary landmarks -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic George Kitton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:18:11.347047+00:00"/>
+        <meta name="calibre:title_sort" content="Dickens Country, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23e84e0a-1237-4bde-8cc5-57dce61efa84</dc:identifier>
+        <dc:title>Venerable Philippine Duchesne / A Brief Sketch of the Life and Work of the Foundress of the Society of the Sacred Heart in America</dc:title>
+        <dc:creator opf:file-as="G. E. M." opf:role="aut">G. E. M.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32165</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Duchesne</dc:subject>
+        <dc:subject>Philippine</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1769-1852</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. E. M.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:04:40.382000+00:00"/>
+        <meta name="calibre:title_sort" content="Venerable Philippine Duchesne / A Brief Sketch of the Life and Work of the Foundress of the Society of the Sacred Heart in America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

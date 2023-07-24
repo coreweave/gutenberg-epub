@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">880935d9-165a-4750-bf51-4407b7678aa2</dc:identifier>
+        <dc:title>Battling the Clouds; or, For a Comrade's Honor</dc:title>
+        <dc:creator opf:file-as="Cobb, Frank" opf:role="aut">Frank Cobb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28625</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aeronautics -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Cobb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:09:33.835506+00:00"/>
+        <meta name="calibre:title_sort" content="Battling the Clouds; or, For a Comrade's Honor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

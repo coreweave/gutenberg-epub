@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0126515b-1bfa-4dae-8d3d-4b5e1431bccf</dc:identifier>
+        <dc:title>Phrenological Development of Robert Burns / From a Cast of His Skull Moulded at Dumfries, the 31st Day of March 1834</dc:title>
+        <dc:creator opf:file-as="Combe, George" opf:role="aut">George Combe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30489</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Burns</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1759-1796</dc:subject>
+        <dc:subject>Phrenology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Combe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:23:49.592069+00:00"/>
+        <meta name="calibre:title_sort" content="Phrenological Development of Robert Burns / From a Cast of His Skull Moulded at Dumfries, the 31st Day of March 1834"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

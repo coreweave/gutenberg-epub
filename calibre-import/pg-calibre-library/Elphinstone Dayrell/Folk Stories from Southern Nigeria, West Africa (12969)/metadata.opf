@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">798d273d-57d4-4ad8-9e74-67dadea98310</dc:identifier>
+        <dc:title>Folk Stories from Southern Nigeria, West Africa</dc:title>
+        <dc:creator opf:file-as="Dayrell, Elphinstone" opf:role="aut">Elphinstone Dayrell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34655</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tales -- Nigeria</dc:subject>
+        <dc:subject>Southern</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elphinstone Dayrell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:09:51.993276+00:00"/>
+        <meta name="calibre:title_sort" content="Folk Stories from Southern Nigeria, West Africa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

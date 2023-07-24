@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2874</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0ac7470-4e29-46d7-a8f7-bb550babbe0a</dc:identifier>
+        <dc:title>A Treatise on Staff Making and Pivoting / Containing Complete Directions for Making and Fitting New Staffs from the Raw Material</dc:title>
+        <dc:creator opf:file-as="Hall, Eugene Edward" opf:role="aut">Eugene Edward Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clock and watch making</dc:subject>
+        <dc:subject>Clocks and watches -- Repairing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugene Edward Hall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:09.306979+00:00"/>
+        <meta name="calibre:title_sort" content="Treatise on Staff Making and Pivoting / Containing Complete Directions for Making and Fitting New Staffs from the Raw Material, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

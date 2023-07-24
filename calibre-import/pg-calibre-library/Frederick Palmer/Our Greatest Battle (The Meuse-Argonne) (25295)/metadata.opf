@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2394c94e-1e3f-4916-bb78-5dfa8cf83a5f</dc:identifier>
+        <dc:title>Our Greatest Battle (The Meuse-Argonne)</dc:title>
+        <dc:creator opf:file-as="Palmer, Frederick" opf:role="aut">Frederick Palmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49205</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- Western Front</dc:subject>
+        <dc:subject>Argonne</dc:subject>
+        <dc:subject>Battle of the</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>1918</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Palmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:40:48.930296+00:00"/>
+        <meta name="calibre:title_sort" content="Our Greatest Battle (The Meuse-Argonne)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

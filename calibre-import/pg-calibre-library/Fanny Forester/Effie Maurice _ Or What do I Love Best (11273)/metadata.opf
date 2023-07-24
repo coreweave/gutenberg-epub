@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">283ea6e4-f4b9-4fd8-9943-9e813e1e7a95</dc:identifier>
+        <dc:title>Effie Maurice / Or What do I Love Best</dc:title>
+        <dc:creator opf:file-as="Forester, Fanny" opf:role="aut">Fanny Forester</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17467</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fanny Forester&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:22:09.978141+00:00"/>
+        <meta name="calibre:title_sort" content="Effie Maurice / Or What do I Love Best"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

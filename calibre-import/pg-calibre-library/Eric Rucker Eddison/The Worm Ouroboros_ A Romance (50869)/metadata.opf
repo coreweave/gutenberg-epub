@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">638852c0-523e-4f5b-b894-5ed48572193d</dc:identifier>
+        <dc:title>The Worm Ouroboros: A Romance</dc:title>
+        <dc:creator opf:file-as="Eddison, Eric Rücker" opf:role="aut">Eric Rücker Eddison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67090</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Imaginary wars and battles -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eric Rücker Eddison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:01:22.276375+00:00"/>
+        <meta name="calibre:title_sort" content="Worm Ouroboros: A Romance, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

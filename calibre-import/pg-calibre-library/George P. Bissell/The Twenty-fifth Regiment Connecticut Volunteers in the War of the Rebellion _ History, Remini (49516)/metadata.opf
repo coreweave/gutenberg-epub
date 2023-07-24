@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73b6a62b-e52a-45b5-9448-95d96564141e</dc:identifier>
+        <dc:title>The Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion / History, Reminiscences, Description of Battle of Irish / Bend, Carrying of Pay Roll, Roster</dc:title>
+        <dc:creator opf:file-as="Bissell, George P." opf:role="aut">George P. Bissell</dc:creator>
+        <dc:creator opf:file-as="Bissell, George P." opf:role="aut">Samuel K. Ellis</dc:creator>
+        <dc:creator opf:file-as="Bissell, George P." opf:role="aut">Henry Hill Goodell</dc:creator>
+        <dc:creator opf:file-as="Bissell, George P." opf:role="aut">Thomas McManus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1861-1865</dc:subject>
+        <dc:subject>Mississippi River -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>United States. Army. Connecticut Infantry Regiment</dc:subject>
+        <dc:subject>25th (1862-1863)</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories -- Connecticut</dc:subject>
+        <dc:subject>Louisiana -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George P. Bissell&quot;: &quot;&quot;, &quot;Samuel K. Ellis&quot;: &quot;&quot;, &quot;Henry Hill Goodell&quot;: &quot;&quot;, &quot;Thomas McManus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:36:11.126052+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty-fifth Regiment Connecticut Volunteers in the War of the Rebellion / History, Reminiscences, Description of Battle of Irish / Bend, Carrying of Pay Roll, Roster, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

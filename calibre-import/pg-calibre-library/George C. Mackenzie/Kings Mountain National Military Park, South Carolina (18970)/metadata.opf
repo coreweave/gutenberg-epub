@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a523e311-e855-4218-848f-b743556f6c53</dc:identifier>
+        <dc:title>Kings Mountain National Military Park, South Carolina</dc:title>
+        <dc:creator opf:file-as="Mackenzie, George C." opf:role="aut">George C. Mackenzie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59192</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>King's Mountain</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>S.C.</dc:subject>
+        <dc:subject>1780</dc:subject>
+        <dc:subject>Kings Mountain National Military Park (S.C.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George C. Mackenzie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:26:58.719497+00:00"/>
+        <meta name="calibre:title_sort" content="Kings Mountain National Military Park, South Carolina"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba8c913b-3550-432d-94fb-e22f1aafd537</dc:identifier>
+        <dc:title>Old New Zealand: A Tale of the Good Old Times / And a History of the War in the North against the Chief Heke, in the Year 1845</dc:title>
+        <dc:creator opf:file-as="Maning, Frederick Edward" opf:role="aut">Frederick Edward Maning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39361</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New Zealand -- Description and travel</dc:subject>
+        <dc:subject>Maori (New Zealand people) -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Edward Maning&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:15:33.632204+00:00"/>
+        <meta name="calibre:title_sort" content="Old New Zealand: A Tale of the Good Old Times / And a History of the War in the North against the Chief Heke, in the Year 1845"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

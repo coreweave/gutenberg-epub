@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8ddb47c-b3e4-45a7-ac71-4edf2af80025</dc:identifier>
+        <dc:title>Life of Frances Power Cobbe, as told by herself / with additions by the author, and introduction by Blanche Atkinson</dc:title>
+        <dc:creator opf:file-as="Cobbe, Frances Power" opf:role="aut">Frances Power Cobbe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66987</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Journalists -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Feminists -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Cobbe</dc:subject>
+        <dc:subject>Frances Power</dc:subject>
+        <dc:subject>1822-1904</dc:subject>
+        <dc:subject>Reformers -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frances Power Cobbe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:59:45.729877+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Frances Power Cobbe, as told by herself / with additions by the author, and introduction by Blanche Atkinson"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

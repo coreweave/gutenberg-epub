@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8940c05d-02d5-4b05-8bc6-e2945f5cff13</dc:identifier>
+        <dc:title>Tribal Custom in Anglo-Saxon Law / Being an Essay Supplemental to (1) 'The English Village Community', (2) 'The Tribal System in Wales'</dc:title>
+        <dc:creator opf:file-as="Seebohm, Frederic" opf:role="aut">Frederic Seebohm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anglo-Saxons</dc:subject>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>Anglo-Saxon</dc:subject>
+        <dc:subject>Tribes -- Great Britain</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Seebohm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:11:55.024618+00:00"/>
+        <meta name="calibre:title_sort" content="Tribal Custom in Anglo-Saxon Law / Being an Essay Supplemental to (1) 'The English Village Community', (2) 'The Tribal System in Wales'"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

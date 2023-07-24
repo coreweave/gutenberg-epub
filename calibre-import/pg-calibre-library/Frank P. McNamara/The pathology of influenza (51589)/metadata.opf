@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d777e20-47cf-42dd-97ff-e889185b7474</dc:identifier>
+        <dc:title>The pathology of influenza</dc:title>
+        <dc:creator opf:file-as="McNamara, Frank P." opf:role="aut">Frank P. McNamara</dc:creator>
+        <dc:creator opf:file-as="McNamara, Frank P." opf:role="aut">Isabel M. Wason</dc:creator>
+        <dc:creator opf:file-as="McNamara, Frank P." opf:role="aut">M. C. Winternitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58960</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Influenza</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank P. McNamara&quot;: &quot;&quot;, &quot;Isabel M. Wason&quot;: &quot;&quot;, &quot;M. C. Winternitz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:48:13.882185+00:00"/>
+        <meta name="calibre:title_sort" content="pathology of influenza, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91bb0e6d-d8a1-4886-8859-298b9d17e8d0</dc:identifier>
+        <dc:title>Jelly-Fish, Star-Fish, and Sea-Urchins: Being a Research on Primitive Nervous Systems</dc:title>
+        <dc:creator opf:file-as="Romanes, George John" opf:role="aut">George John Romanes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46607</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Invertebrates -- Nervous system</dc:subject>
+        <dc:subject>Jellyfishes</dc:subject>
+        <dc:subject>Starfishes</dc:subject>
+        <dc:subject>Sea urchins</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George John Romanes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:01:34.350707+00:00"/>
+        <meta name="calibre:title_sort" content="Jelly-Fish, Star-Fish, and Sea-Urchins: Being a Research on Primitive Nervous Systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

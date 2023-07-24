@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c924f140-3a7d-40bb-8b56-53fe68f11bc7</dc:identifier>
+        <dc:title>Instigations / Together with An Essay on the Chinese Written Character</dc:title>
+        <dc:creator opf:file-as="Pound, Ezra" opf:role="aut">Ezra Pound</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40852</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English literature -- 20th century -- History and criticism</dc:subject>
+        <dc:subject>French poetry -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Greek language -- Translating</dc:subject>
+        <dc:subject>Chinese language -- Writing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ezra Pound&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:44:46.914860+00:00"/>
+        <meta name="calibre:title_sort" content="Instigations / Together with An Essay on the Chinese Written Character"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

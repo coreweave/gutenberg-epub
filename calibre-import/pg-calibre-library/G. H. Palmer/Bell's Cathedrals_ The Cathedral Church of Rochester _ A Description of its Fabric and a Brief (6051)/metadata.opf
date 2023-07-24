@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6051</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8d1d566-6647-4b48-a635-b585f2f0b575</dc:identifier>
+        <dc:title>Bell's Cathedrals: The Cathedral Church of Rochester / A Description of its Fabric and a Brief History of the Episcopal See</dc:title>
+        <dc:creator opf:file-as="Palmer, G. H. (George Henry)" opf:role="aut">G. H. Palmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25084</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rochester Cathedral (Rochester</dc:subject>
+        <dc:subject>Kent</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. H. Palmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:14:01.556747+00:00"/>
+        <meta name="calibre:title_sort" content="Bell's Cathedrals: The Cathedral Church of Rochester / A Description of its Fabric and a Brief History of the Episcopal See"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

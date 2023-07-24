@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f375f6ab-aa6b-4665-82b1-f10e870770dd</dc:identifier>
+        <dc:title>What Shall I Be? A Chat With Young People</dc:title>
+        <dc:creator opf:file-as="Cassilly, Francis Bernard" opf:role="aut">Francis Bernard Cassilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31688</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vocation</dc:subject>
+        <dc:subject>Ecclesiastical</dc:subject>
+        <dc:subject>Catholic Church -- Clergy -- Appointment</dc:subject>
+        <dc:subject>call</dc:subject>
+        <dc:subject>and election</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Bernard Cassilly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:52:49.059805+00:00"/>
+        <meta name="calibre:title_sort" content="What Shall I Be? A Chat With Young People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

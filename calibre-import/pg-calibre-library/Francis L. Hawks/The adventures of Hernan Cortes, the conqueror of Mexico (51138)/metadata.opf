@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">975f0069-8e4a-4c51-a501-3f32c7beeab5</dc:identifier>
+        <dc:title>The adventures of Hernan Cortes, the conqueror of Mexico</dc:title>
+        <dc:creator opf:file-as="Hawks, Francis L. (Francis Lister)" opf:role="aut">Francis L. Hawks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49760</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cortés</dc:subject>
+        <dc:subject>Hernán</dc:subject>
+        <dc:subject>1485-1547 -- Juvenile literature</dc:subject>
+        <dc:subject>Mexico -- History -- Conquest</dc:subject>
+        <dc:subject>1519-1540 -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis L. Hawks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:18:50.574171+00:00"/>
+        <meta name="calibre:title_sort" content="adventures of Hernan Cortes, the conqueror of Mexico, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

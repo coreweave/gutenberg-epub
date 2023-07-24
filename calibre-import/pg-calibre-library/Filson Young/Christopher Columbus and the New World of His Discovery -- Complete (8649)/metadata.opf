@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ebb6080-2677-4c96-a68b-b3567cef908d</dc:identifier>
+        <dc:title>Christopher Columbus and the New World of His Discovery — Complete</dc:title>
+        <dc:creator opf:file-as="Young, Filson" opf:role="aut">Filson Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4116</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Columbus</dc:subject>
+        <dc:subject>Christopher</dc:subject>
+        <dc:subject>America -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Filson Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:13:57.393718+00:00"/>
+        <meta name="calibre:title_sort" content="Christopher Columbus and the New World of His Discovery — Complete"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

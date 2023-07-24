@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49d84cb1-df46-46d9-9a3e-9ab6ff8b418b</dc:identifier>
+        <dc:title>The Pony Rider Boys with the Texas Rangers; Or, On the Trail of the Border Bandits</dc:title>
+        <dc:creator opf:file-as="Patchin, Frank Gee" opf:role="aut">Frank Gee Patchin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12980</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horsemanship -- Juvenile fiction</dc:subject>
+        <dc:subject>Texas Rangers -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Gee Patchin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:46:50.553538+00:00"/>
+        <meta name="calibre:title_sort" content="Pony Rider Boys with the Texas Rangers; Or, On the Trail of the Border Bandits, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

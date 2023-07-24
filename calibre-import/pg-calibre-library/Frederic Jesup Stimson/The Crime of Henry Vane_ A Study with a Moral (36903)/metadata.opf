@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a0ba9d8-f098-4c50-91c7-eb8b0469ea69</dc:identifier>
+        <dc:title>The Crime of Henry Vane: A Study with a Moral</dc:title>
+        <dc:creator opf:file-as="Stimson, Frederic Jesup" opf:role="aut">Frederic Jesup Stimson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67164</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Single men -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Jesup Stimson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:50:07.856798+00:00"/>
+        <meta name="calibre:title_sort" content="Crime of Henry Vane: A Study with a Moral, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

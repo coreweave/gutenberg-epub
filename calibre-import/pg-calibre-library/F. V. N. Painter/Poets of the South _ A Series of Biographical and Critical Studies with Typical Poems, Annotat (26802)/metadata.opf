@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b253df4-b9c1-43c1-a8d8-b6bdbafc3c74</dc:identifier>
+        <dc:title>Poets of the South / A Series of Biographical and Critical Studies with Typical Poems, Annotated</dc:title>
+        <dc:creator opf:file-as="Painter, F. V. N. (Franklin Verzelius Newton)" opf:role="aut">F. V. N. Painter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7274</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southern States -- Intellectual life</dc:subject>
+        <dc:subject>Southern States -- In literature</dc:subject>
+        <dc:subject>American poetry -- Southern States</dc:subject>
+        <dc:subject>Southern States -- Poetry</dc:subject>
+        <dc:subject>American poetry -- Southern States -- History and criticism</dc:subject>
+        <dc:subject>American poetry -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>American -- Homes and haunts -- Southern States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. V. N. Painter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:46:14.069552+00:00"/>
+        <meta name="calibre:title_sort" content="Poets of the South / A Series of Biographical and Critical Studies with Typical Poems, Annotated"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

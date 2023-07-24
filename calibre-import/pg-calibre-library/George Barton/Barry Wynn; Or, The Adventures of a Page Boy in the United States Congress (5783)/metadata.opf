@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">642524f8-c919-48bd-9dc7-ade410a0ffed</dc:identifier>
+        <dc:title>Barry Wynn; Or, The Adventures of a Page Boy in the United States Congress</dc:title>
+        <dc:creator opf:file-as="Barton, George" opf:role="aut">George Barton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57137</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Capitol pages -- Fiction</dc:subject>
+        <dc:subject>United States. Congress -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Barton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:08:17.384330+00:00"/>
+        <meta name="calibre:title_sort" content="Barry Wynn; Or, The Adventures of a Page Boy in the United States Congress"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

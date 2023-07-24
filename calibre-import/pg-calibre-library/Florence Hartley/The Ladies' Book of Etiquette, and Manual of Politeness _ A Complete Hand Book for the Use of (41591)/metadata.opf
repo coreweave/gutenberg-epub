@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a62b2680-e6e1-483d-99c9-0e03fac1dc83</dc:identifier>
+        <dc:title>The Ladies' Book of Etiquette, and Manual of Politeness / A Complete Hand Book for the Use of the Lady in Polite Society</dc:title>
+        <dc:creator opf:file-as="Hartley, Florence" opf:role="aut">Florence Hartley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35123</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Formulas</dc:subject>
+        <dc:subject>recipes</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Etiquette for women</dc:subject>
+        <dc:subject>Etiquette -- United States -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Florence Hartley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:57:06.228676+00:00"/>
+        <meta name="calibre:title_sort" content="Ladies' Book of Etiquette, and Manual of Politeness / A Complete Hand Book for the Use of the Lady in Polite Society, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

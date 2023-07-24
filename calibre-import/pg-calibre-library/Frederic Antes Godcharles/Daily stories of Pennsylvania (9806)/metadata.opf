@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05dbb5b2-9813-4744-a972-dc55091a1f68</dc:identifier>
+        <dc:title>Daily stories of Pennsylvania</dc:title>
+        <dc:creator opf:file-as="Godcharles, Frederic Antes" opf:role="aut">Frederic Antes Godcharles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69956</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pennsylvania -- Biography</dc:subject>
+        <dc:subject>Pennsylvania -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Antes Godcharles&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:43:06.842463+00:00"/>
+        <meta name="calibre:title_sort" content="Daily stories of Pennsylvania"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

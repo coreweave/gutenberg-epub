@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25260</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c23d501-7938-4a1d-ac25-15cb88026d13</dc:identifier>
+        <dc:title>Our Calendar / The Julian calendar and its errors. How corrected by the Gregorian. Rules for finding the dominical letter, and the day of the week of any event from the days of Julius Caesar 46 B.C. to the year of our Lord four thousand; a new and easy method of fixing the date of Easter. Hebrew calendar; showing the correspondence in the date of events recorded in the Bible with our present Gregorian calendar. Illustrated by valuable tables and charts.</dc:title>
+        <dc:creator opf:file-as="Packer, George Nichols" opf:role="aut">George Nichols Packer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36197</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Calendar</dc:subject>
+        <dc:subject>Jewish calendar</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Nichols Packer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:39:18.450438+00:00"/>
+        <meta name="calibre:title_sort" content="Our Calendar / The Julian calendar and its errors. How corrected by the Gregorian. Rules for finding the dominical letter, and the day of the week of any event from the days of Julius Caesar 46 B.C. to the year of our Lord four thousand; a new and easy method of fixing the date of Easter. Hebrew calendar; showing the correspondence in the date of events recorded in the Bible with our present Gregorian calendar. Illustrated by valuable tables and charts."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

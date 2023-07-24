@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b26c809f-83b6-4bc2-9755-6db7c992dd62</dc:identifier>
+        <dc:title>Eminent Authors of the Nineteenth Century: Literary Portraits</dc:title>
+        <dc:creator opf:file-as="Brandes, Georg" opf:role="aut">Georg Brandes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49999</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Modern -- 19th century -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Georg Brandes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:28:22.682790+00:00"/>
+        <meta name="calibre:title_sort" content="Eminent Authors of the Nineteenth Century: Literary Portraits"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

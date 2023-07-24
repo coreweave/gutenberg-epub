@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e700ce67-3944-434e-a0d9-af90dc7be256</dc:identifier>
+        <dc:title>The Pleasures of the Table / An Account of Gastronomy from Ancient Days to Present Times. With a History of Its Literature, Schools, and Most Distinguished Artists; Together With Some Special Recipes, and Views Concerning the Aesthetics of Dinners and Dinner-giving</dc:title>
+        <dc:creator opf:file-as="Ellwanger, George H. (George Herman)" opf:role="aut">George H. Ellwanger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62354</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gastronomy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George H. Ellwanger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:37:33.060438+00:00"/>
+        <meta name="calibre:title_sort" content="Pleasures of the Table / An Account of Gastronomy from Ancient Days to Present Times. With a History of Its Literature, Schools, and Most Distinguished Artists; Together With Some Special Recipes, and Views Concerning the Aesthetics of Dinners and Dinner-giving, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

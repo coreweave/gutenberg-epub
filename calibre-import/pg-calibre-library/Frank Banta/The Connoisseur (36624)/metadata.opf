@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac3bceee-94a6-4986-8338-5a0c9c9f61cb</dc:identifier>
+        <dc:title>The Connoisseur</dc:title>
+        <dc:creator opf:file-as="Banta, Frank" opf:role="aut">Frank Banta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Space ships -- Fiction</dc:subject>
+        <dc:subject>Bride price -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Banta&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:35:58.104684+00:00"/>
+        <meta name="calibre:title_sort" content="Connoisseur, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

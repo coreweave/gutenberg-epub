@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2777dba6-3afe-447c-8724-ab1d238a8067</dc:identifier>
+        <dc:title>The phantom tracker; or, The prisoner of the hill cave</dc:title>
+        <dc:creator opf:file-as="Dewey, Frederick H." opf:role="aut">Frederick H. Dewey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68300</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ghost stories</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Fiction</dc:subject>
+        <dc:subject>Outlaws -- Fiction</dc:subject>
+        <dc:subject>Apache Indians -- Fiction</dc:subject>
+        <dc:subject>Arizona -- Fiction</dc:subject>
+        <dc:subject>Abduction -- Fiction</dc:subject>
+        <dc:subject>Mexico -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Comanche Indians -- Fiction</dc:subject>
+        <dc:subject>Wagon trains -- Fiction</dc:subject>
+        <dc:subject>Mexicans -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick H. Dewey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:48:48.576507+00:00"/>
+        <meta name="calibre:title_sort" content="phantom tracker; or, The prisoner of the hill cave, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

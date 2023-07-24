@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b802d0ad-34f5-4992-8167-439c44a8d163</dc:identifier>
+        <dc:title>Traffic in Souls: A Novel of Crime and Its Cure</dc:title>
+        <dc:creator opf:file-as="Ball, Eustace Hale" opf:role="aut">Eustace Hale Ball</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29453</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crime -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eustace Hale Ball&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:58:12.113731+00:00"/>
+        <meta name="calibre:title_sort" content="Traffic in Souls: A Novel of Crime and Its Cure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

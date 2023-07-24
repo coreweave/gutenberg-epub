@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19842575-5927-45ae-acf0-e1728e9ee693</dc:identifier>
+        <dc:title>Sign Language Among North American Indians Compared With That Among Other Peoples And Deaf-Mutes / First Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1879-1880, Government Printing Office, Washington, 1881, pages 263-552</dc:title>
+        <dc:creator opf:file-as="Mallery, Garrick" opf:role="aut">Garrick Mallery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17451</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sign language</dc:subject>
+        <dc:subject>Indian sign language</dc:subject>
+        <dc:subject>Deaf -- Means of communication</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Garrick Mallery&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:39:57.176219+00:00"/>
+        <meta name="calibre:title_sort" content="Sign Language Among North American Indians Compared With That Among Other Peoples And Deaf-Mutes / First Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1879-1880, Government Printing Office, Washington, 1881, pages 263-552"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

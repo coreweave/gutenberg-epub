@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7173862-7574-42f7-8403-258d60416181</dc:identifier>
+        <dc:title>Protection from Fire and Thieves / Including the construction of locks, safes, strong-rooms, and fireproof buildings; burglary, and the means of preventing it; fire, its detection, prevention, and extinction; etc.</dc:title>
+        <dc:creator opf:file-as="Chubb, George Hayter" opf:role="aut">George Hayter Chubb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49704</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fires</dc:subject>
+        <dc:subject>Locks and keys</dc:subject>
+        <dc:subject>Burglary</dc:subject>
+        <dc:subject>Safes</dc:subject>
+        <dc:subject>Building</dc:subject>
+        <dc:subject>Fireproof</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Hayter Chubb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:10:45.926148+00:00"/>
+        <meta name="calibre:title_sort" content="Protection from Fire and Thieves / Including the construction of locks, safes, strong-rooms, and fireproof buildings; burglary, and the means of preventing it; fire, its detection, prevention, and extinction; etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

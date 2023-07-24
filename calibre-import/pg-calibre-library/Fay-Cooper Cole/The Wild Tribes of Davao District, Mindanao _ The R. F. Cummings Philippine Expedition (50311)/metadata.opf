@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">866b42ce-8f47-4851-bc3b-48d8a3206813</dc:identifier>
+        <dc:title>The Wild Tribes of Davao District, Mindanao / The R. F. Cummings Philippine Expedition</dc:title>
+        <dc:creator opf:file-as="Cole, Fay-Cooper" opf:role="aut">Fay-Cooper Cole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18273</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethnology -- Philippines -- Mindanao Island</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fay-Cooper Cole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:25:37.592321+00:00"/>
+        <meta name="calibre:title_sort" content="Wild Tribes of Davao District, Mindanao / The R. F. Cummings Philippine Expedition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

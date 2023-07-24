@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec810ae9-9053-4db5-b4ca-06ca9b09d98a</dc:identifier>
+        <dc:title>The Tiger of Mysore: A Story of the War with Tippoo Saib</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18813</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tipu Sultan</dc:subject>
+        <dc:subject>Fath 'Ali</dc:subject>
+        <dc:subject>Nawab of Mysore</dc:subject>
+        <dc:subject>1753-1799 -- Juvenile fiction</dc:subject>
+        <dc:subject>India -- History -- Mysore War</dc:subject>
+        <dc:subject>1799 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:12:42.210715+00:00"/>
+        <meta name="calibre:title_sort" content="Tiger of Mysore: A Story of the War with Tippoo Saib, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

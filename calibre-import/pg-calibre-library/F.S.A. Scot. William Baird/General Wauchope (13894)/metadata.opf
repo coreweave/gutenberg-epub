@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9490c6db-a33a-42ac-b7e8-b99a9fc19e67</dc:identifier>
+        <dc:title>General Wauchope</dc:title>
+        <dc:creator opf:file-as="Baird, William, F.S.A. Scot." opf:role="aut">F.S.A. Scot. William Baird</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65570</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Wauchope</dc:subject>
+        <dc:subject>Andrew Gilbert</dc:subject>
+        <dc:subject>1846-1899</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F.S.A. Scot. William Baird&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:37:42.106528+00:00"/>
+        <meta name="calibre:title_sort" content="General Wauchope"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

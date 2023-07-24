@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6834</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83a50c8a-ad87-48c6-84a1-7f241cdae35c</dc:identifier>
+        <dc:title>Booker T. Washington, Builder of a Civilization</dc:title>
+        <dc:creator opf:file-as="Scott, Emmett J. (Emmett Jay)" opf:role="aut">Emmett J. Scott</dc:creator>
+        <dc:creator opf:file-as="Scott, Emmett J. (Emmett Jay)" opf:role="aut">Lyman Beecher Stowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24627</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>Booker T.</dc:subject>
+        <dc:subject>1856-1915</dc:subject>
+        <dc:subject>African Americans -- Biography</dc:subject>
+        <dc:subject>Educators -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emmett J. Scott&quot;: &quot;&quot;, &quot;Lyman Beecher Stowe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:31:10.171279+00:00"/>
+        <meta name="calibre:title_sort" content="Booker T. Washington, Builder of a Civilization"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

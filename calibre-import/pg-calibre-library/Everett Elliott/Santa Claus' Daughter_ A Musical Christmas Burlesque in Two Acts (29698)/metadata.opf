@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13d65360-3201-42a2-98d2-30194d09b2ea</dc:identifier>
+        <dc:title>Santa Claus' Daughter: A Musical Christmas Burlesque in Two Acts</dc:title>
+        <dc:creator opf:file-as="Elliott, Everett" opf:role="aut">Everett Elliott</dc:creator>
+        <dc:creator opf:file-as="Elliott, Everett" opf:role="aut">F. W. Hardcastle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54780</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas plays</dc:subject>
+        <dc:subject>Santa Claus -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Everett Elliott&quot;: &quot;&quot;, &quot;F. W. Hardcastle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:56:15.528242+00:00"/>
+        <meta name="calibre:title_sort" content="Santa Claus' Daughter: A Musical Christmas Burlesque in Two Acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

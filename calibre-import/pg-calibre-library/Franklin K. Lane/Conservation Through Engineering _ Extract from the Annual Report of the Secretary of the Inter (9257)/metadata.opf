@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5cb72c5-e7e5-44d5-975e-f1565137e64f</dc:identifier>
+        <dc:title>Conservation Through Engineering / Extract from the Annual Report of the Secretary of the Interior</dc:title>
+        <dc:creator opf:file-as="Lane, Franklin K." opf:role="aut">Franklin K. Lane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31899</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural resources -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Franklin K. Lane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:29:08.261591+00:00"/>
+        <meta name="calibre:title_sort" content="Conservation Through Engineering / Extract from the Annual Report of the Secretary of the Interior"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

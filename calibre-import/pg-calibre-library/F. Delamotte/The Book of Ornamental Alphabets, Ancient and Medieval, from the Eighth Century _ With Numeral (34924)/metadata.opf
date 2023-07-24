@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d000d396-eb88-4cad-8416-2eafd1edd832</dc:identifier>
+        <dc:title>The Book of Ornamental Alphabets, Ancient and Medieval, from the Eighth Century / With Numerals, including Gothic; Church Text, Large and / Small; German Arabesque; Initials for Illumination, / Monograms, Crosses, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Delamotte, F. (Freeman)" opf:role="aut">F. Delamotte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23450</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alphabets</dc:subject>
+        <dc:subject>Decoration and ornament</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Delamotte&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:10:56.396873+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Ornamental Alphabets, Ancient and Medieval, from the Eighth Century / With Numerals, including Gothic; Church Text, Large and / Small; German Arabesque; Initials for Illumination, / Monograms, Crosses, &amp;c., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

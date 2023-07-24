@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">386e0efa-f6cc-47b3-b05e-8d146f2d698e</dc:identifier>
+        <dc:title>Tell England: A Study in a Generation</dc:title>
+        <dc:creator opf:file-as="Raymond, Ernest" opf:role="aut">Ernest Raymond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15033</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Raymond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:24:22.255287+00:00"/>
+        <meta name="calibre:title_sort" content="Tell England: A Study in a Generation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

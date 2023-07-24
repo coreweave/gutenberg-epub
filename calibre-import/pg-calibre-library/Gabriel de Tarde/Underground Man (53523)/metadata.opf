@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23bb6cc5-fd30-4dff-9c89-fc8a34d007c6</dc:identifier>
+        <dc:title>Underground Man</dc:title>
+        <dc:creator opf:file-as="Tarde, Gabriel de" opf:role="aut">Gabriel de Tarde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gabriel de Tarde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:52:02.097608+00:00"/>
+        <meta name="calibre:title_sort" content="Underground Man"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d2317dd-4d9f-4ed6-8807-557185984711</dc:identifier>
+        <dc:title>What I Saw in America</dc:title>
+        <dc:creator opf:file-as="Chesterton, G. K. (Gilbert Keith)" opf:role="aut">G. K. Chesterton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27250</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>Chesterton</dc:subject>
+        <dc:subject>G. K. (Gilbert Keith)</dc:subject>
+        <dc:subject>1874-1936 -- Travel -- United States</dc:subject>
+        <dc:subject>National characteristics</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 1918-1945</dc:subject>
+        <dc:subject>United States -- Civilization -- 1918-1945</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. K. Chesterton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:50:47.346924+00:00"/>
+        <meta name="calibre:title_sort" content="What I Saw in America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

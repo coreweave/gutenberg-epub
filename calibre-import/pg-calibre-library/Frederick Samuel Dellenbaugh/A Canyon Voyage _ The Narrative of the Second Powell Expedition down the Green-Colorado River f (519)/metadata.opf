@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d40f927-7261-495c-8ad3-907a409dc996</dc:identifier>
+        <dc:title>A Canyon Voyage / The Narrative of the Second Powell Expedition down the Green-Colorado River from Wyoming, and the Explorations on Land, in the Years 1871 and 1872</dc:title>
+        <dc:creator opf:file-as="Dellenbaugh, Frederick Samuel" opf:role="aut">Frederick Samuel Dellenbaugh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20667</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Colorado River (Colo.-Mexico)</dc:subject>
+        <dc:subject>Grand Canyon (Ariz.)</dc:subject>
+        <dc:subject>United States -- Discovery and exploration</dc:subject>
+        <dc:subject>Powell</dc:subject>
+        <dc:subject>John Wesley</dc:subject>
+        <dc:subject>1834-1902</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Samuel Dellenbaugh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:33:45.750271+00:00"/>
+        <meta name="calibre:title_sort" content="Canyon Voyage / The Narrative of the Second Powell Expedition down the Green-Colorado River from Wyoming, and the Explorations on Land, in the Years 1871 and 1872, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

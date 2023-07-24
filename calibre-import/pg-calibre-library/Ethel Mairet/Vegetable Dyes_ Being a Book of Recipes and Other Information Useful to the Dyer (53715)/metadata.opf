@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14878708-ef15-45fa-913e-153c47c91762</dc:identifier>
+        <dc:title>Vegetable Dyes: Being a Book of Recipes and Other Information Useful to the Dyer</dc:title>
+        <dc:creator opf:file-as="Mairet, Ethel" opf:role="aut">Ethel Mairet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24076</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dyes and dyeing</dc:subject>
+        <dc:subject>Dye plants</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ethel Mairet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:04:12.383372+00:00"/>
+        <meta name="calibre:title_sort" content="Vegetable Dyes: Being a Book of Recipes and Other Information Useful to the Dyer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

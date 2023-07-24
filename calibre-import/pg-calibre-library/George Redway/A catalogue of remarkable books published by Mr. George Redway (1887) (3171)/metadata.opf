@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bf0420d-b5d5-43c2-a143-5a8f6b0cdf0c</dc:identifier>
+        <dc:title>A catalogue of remarkable books published by Mr. George Redway (1887)</dc:title>
+        <dc:creator opf:file-as="George Redway (Firm)" opf:role="aut">George Redway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70028</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Publishers' catalogs -- England -- London</dc:subject>
+        <dc:subject>George Redway (Firm) -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Redway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:17:34.637232+00:00"/>
+        <meta name="calibre:title_sort" content="catalogue of remarkable books published by Mr. George Redway (1887), A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

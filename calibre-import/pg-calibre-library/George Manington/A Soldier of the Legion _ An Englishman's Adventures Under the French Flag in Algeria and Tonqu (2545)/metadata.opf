@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e241dee-a54e-4e57-b25c-f9fe84610ae2</dc:identifier>
+        <dc:title>A Soldier of the Legion / An Englishman's Adventures Under the French Flag in Algeria and Tonquin</dc:title>
+        <dc:creator opf:file-as="Manington, George" opf:role="aut">George Manington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53902</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France. Armée. Légion étrangère</dc:subject>
+        <dc:subject>Algeria -- History</dc:subject>
+        <dc:subject>Vietnam</dc:subject>
+        <dc:subject>Northern -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Manington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:06:25.843644+00:00"/>
+        <meta name="calibre:title_sort" content="Soldier of the Legion / An Englishman's Adventures Under the French Flag in Algeria and Tonquin, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

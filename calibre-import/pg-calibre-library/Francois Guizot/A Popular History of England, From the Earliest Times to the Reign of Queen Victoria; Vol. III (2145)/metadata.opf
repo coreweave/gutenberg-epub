@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">663de762-387c-42fc-b4d2-2e5c08557668</dc:identifier>
+        <dc:title>A Popular History of England, From the Earliest Times to the Reign of Queen Victoria; Vol. III</dc:title>
+        <dc:creator opf:file-as="Guizot, François" opf:role="aut">François Guizot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61971</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;François Guizot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:59:36.126614+00:00"/>
+        <meta name="calibre:title_sort" content="Popular History of England, From the Earliest Times to the Reign of Queen Victoria; Vol. III, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

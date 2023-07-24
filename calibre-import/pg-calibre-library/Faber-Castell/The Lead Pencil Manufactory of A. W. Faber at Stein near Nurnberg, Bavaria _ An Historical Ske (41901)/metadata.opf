@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41901</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eba1b1a6-337d-4977-89d3-613d7a122b5b</dc:identifier>
+        <dc:title>The Lead Pencil Manufactory of A. W. Faber at Stein near Nürnberg, Bavaria / An Historical Sketch</dc:title>
+        <dc:creator opf:file-as="Faber-Castell (Firm)" opf:role="aut">Faber-Castell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52256</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Faber-Castell (Firm) -- History</dc:subject>
+        <dc:subject>Pencil industry -- Germany -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Faber-Castell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:14:02.272014+00:00"/>
+        <meta name="calibre:title_sort" content="Lead Pencil Manufactory of A. W. Faber at Stein near Nürnberg, Bavaria / An Historical Sketch, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

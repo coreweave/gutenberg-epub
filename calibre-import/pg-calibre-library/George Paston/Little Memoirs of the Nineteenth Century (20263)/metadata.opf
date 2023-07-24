@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c38605b-6f21-4a31-afd2-e1f3306bb408</dc:identifier>
+        <dc:title>Little Memoirs of the Nineteenth Century</dc:title>
+        <dc:creator opf:file-as="Paston, George" opf:role="aut">George Paston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6756</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pückler-Muskau</dc:subject>
+        <dc:subject>Hermann</dc:subject>
+        <dc:subject>Fürst von</dc:subject>
+        <dc:subject>1785-1871</dc:subject>
+        <dc:subject>Morgan</dc:subject>
+        <dc:subject>Lady (Sydney)</dc:subject>
+        <dc:subject>1783-1859</dc:subject>
+        <dc:subject>Haydon</dc:subject>
+        <dc:subject>Benjamin Robert</dc:subject>
+        <dc:subject>1786-1846</dc:subject>
+        <dc:subject>Willis</dc:subject>
+        <dc:subject>Nathaniel Parker</dc:subject>
+        <dc:subject>1806-1867</dc:subject>
+        <dc:subject>Stanhope</dc:subject>
+        <dc:subject>Hester</dc:subject>
+        <dc:subject>Lady</dc:subject>
+        <dc:subject>1776-1839</dc:subject>
+        <dc:subject>Howitt</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1792-1879</dc:subject>
+        <dc:subject>Mary Botham</dc:subject>
+        <dc:subject>1799-1888</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Paston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:14:08.708972+00:00"/>
+        <meta name="calibre:title_sort" content="Little Memoirs of the Nineteenth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

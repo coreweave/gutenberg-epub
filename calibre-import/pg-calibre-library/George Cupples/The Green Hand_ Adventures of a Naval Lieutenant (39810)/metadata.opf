@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7dd75c5-e4bf-4984-81ee-8d0e02c1ec55</dc:identifier>
+        <dc:title>The Green Hand: Adventures of a Naval Lieutenant</dc:title>
+        <dc:creator opf:file-as="Cupples, George" opf:role="aut">George Cupples</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46475</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Cupples&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:20:45.703318+00:00"/>
+        <meta name="calibre:title_sort" content="Green Hand: Adventures of a Naval Lieutenant, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

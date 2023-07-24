@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f15c4d6f-44e7-47ac-9ffc-bd35dff04ffa</dc:identifier>
+        <dc:title>Under One Sceptre, or Mortimer's Mission: The Story of the Lord of the Marches</dc:title>
+        <dc:creator opf:file-as="Holt, Emily Sarah" opf:role="aut">Emily Sarah Holt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44464</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Mortimer</dc:subject>
+        <dc:subject>Roger de</dc:subject>
+        <dc:subject>Earl of March</dc:subject>
+        <dc:subject>1328-1360 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emily Sarah Holt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:47:43.061918+00:00"/>
+        <meta name="calibre:title_sort" content="Under One Sceptre, or Mortimer's Mission: The Story of the Lord of the Marches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

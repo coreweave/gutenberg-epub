@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5ed6f61-7616-4303-a288-2304dc5cf8db</dc:identifier>
+        <dc:title>Frederic Lord Leighton: An Illustrated Record of His Life and Work</dc:title>
+        <dc:creator opf:file-as="Rhys, Ernest" opf:role="aut">Ernest Rhys</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30262</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Leighton of Stretton</dc:subject>
+        <dc:subject>Frederic Leighton</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1830-1896</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Rhys&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:23:26.631994+00:00"/>
+        <meta name="calibre:title_sort" content="Frederic Lord Leighton: An Illustrated Record of His Life and Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

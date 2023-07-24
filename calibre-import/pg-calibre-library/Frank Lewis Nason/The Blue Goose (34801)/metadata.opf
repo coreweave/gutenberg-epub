@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e34c887-0112-44de-b8c6-96adc86f5e6d</dc:identifier>
+        <dc:title>The Blue Goose</dc:title>
+        <dc:creator opf:file-as="Nason, Frank Lewis" opf:role="aut">Frank Lewis Nason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31485</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Miners -- Fiction</dc:subject>
+        <dc:subject>Strikes and lockouts -- Fiction</dc:subject>
+        <dc:subject>Mines and mineral resources -- Colorado -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Lewis Nason&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:04:50.968779+00:00"/>
+        <meta name="calibre:title_sort" content="Blue Goose, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

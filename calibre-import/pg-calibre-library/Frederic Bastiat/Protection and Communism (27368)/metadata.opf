@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">095d58b9-4596-4288-a4ba-e98120c763a3</dc:identifier>
+        <dc:title>Protection and Communism</dc:title>
+        <dc:creator opf:file-as="Bastiat, Frédéric" opf:role="aut">Frédéric Bastiat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44144</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Communism</dc:subject>
+        <dc:subject>Free trade</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frédéric Bastiat&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:10:43.661179+00:00"/>
+        <meta name="calibre:title_sort" content="Protection and Communism"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

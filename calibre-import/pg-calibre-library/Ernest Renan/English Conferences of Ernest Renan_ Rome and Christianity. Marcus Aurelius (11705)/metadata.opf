@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86b8d264-b589-43b8-9312-4673f32a094b</dc:identifier>
+        <dc:title>English Conferences of Ernest Renan: Rome and Christianity. Marcus Aurelius</dc:title>
+        <dc:creator opf:file-as="Renan, Ernest" opf:role="aut">Ernest Renan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marcus Aurelius</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>121-180</dc:subject>
+        <dc:subject>Church history -- Primitive and early church</dc:subject>
+        <dc:subject>ca. 30-600</dc:subject>
+        <dc:subject>Catholic Church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Renan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:34:10.020882+00:00"/>
+        <meta name="calibre:title_sort" content="English Conferences of Ernest Renan: Rome and Christianity. Marcus Aurelius"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

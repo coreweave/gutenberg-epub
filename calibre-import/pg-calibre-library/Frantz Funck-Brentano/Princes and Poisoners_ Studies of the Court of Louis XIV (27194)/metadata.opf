@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bd0288a-c2ca-4338-a0a2-661cbf5878d1</dc:identifier>
+        <dc:title>Princes and Poisoners: Studies of the Court of Louis XIV</dc:title>
+        <dc:creator opf:file-as="Funck-Brentano, Frantz" opf:role="aut">Frantz Funck-Brentano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Court and courtiers</dc:subject>
+        <dc:subject>France -- History -- Louis XIV</dc:subject>
+        <dc:subject>1643-1715</dc:subject>
+        <dc:subject>Poisoners</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frantz Funck-Brentano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:03:11.012317+00:00"/>
+        <meta name="calibre:title_sort" content="Princes and Poisoners: Studies of the Court of Louis XIV"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1664dfde-1bb4-41b7-8671-137f49238222</dc:identifier>
+        <dc:title>Letters of Franz Liszt -- Volume 2 / from Rome to the End</dc:title>
+        <dc:creator opf:file-as="Liszt, Franz" opf:role="aut">Franz Liszt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3750</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Liszt</dc:subject>
+        <dc:subject>Franz</dc:subject>
+        <dc:subject>1811-1886 -- Correspondence</dc:subject>
+        <dc:subject>Composers -- Hungary -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Franz Liszt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:50:09.950899+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Franz Liszt -- Volume 2 / from Rome to the End"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11295592-6d4c-4b1d-a89f-4c14ed3a5c50</dc:identifier>
+        <dc:title>A Record of Buddhistic Kingdoms / Being an account by the Chinese monk Fa-hsien of travels in India and Ceylon (A.D. 399-414) in search of the Buddhist books of discipline</dc:title>
+        <dc:creator opf:file-as="Faxian" opf:role="aut">Faxian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2124</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhist pilgrims and pilgrimages -- India -- Early works to 1800</dc:subject>
+        <dc:subject>Buddhism -- Early works to 1800</dc:subject>
+        <dc:subject>Asia -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Faxian&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:30.115411+00:00"/>
+        <meta name="calibre:title_sort" content="Record of Buddhistic Kingdoms / Being an account by the Chinese monk Fa-hsien of travels in India and Ceylon (A.D. 399-414) in search of the Buddhist books of discipline, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

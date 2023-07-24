@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e713d73-c007-49d2-a444-7a9d566aa26a</dc:identifier>
+        <dc:title>A-Birding on a Bronco</dc:title>
+        <dc:creator opf:file-as="Bailey, Florence Merriam" opf:role="aut">Florence Merriam Bailey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33410</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds</dc:subject>
+        <dc:subject>Birds -- California</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Florence Merriam Bailey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:20:04.930818+00:00"/>
+        <meta name="calibre:title_sort" content="A-Birding on a Bronco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

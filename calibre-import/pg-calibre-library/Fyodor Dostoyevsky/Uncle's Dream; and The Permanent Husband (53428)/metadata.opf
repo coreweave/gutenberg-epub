@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53428</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4156d396-0a19-4cd9-a375-f831c2d10e7c</dc:identifier>
+        <dc:title>Uncle's Dream; and The Permanent Husband</dc:title>
+        <dc:creator opf:file-as="Dostoyevsky, Fyodor" opf:role="aut">Fyodor Dostoyevsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
+        <dc:subject>Princes -- Russia -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fyodor Dostoyevsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:45:52.847326+00:00"/>
+        <meta name="calibre:title_sort" content="Uncle's Dream; and The Permanent Husband"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

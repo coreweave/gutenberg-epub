@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7117372-054a-49e3-ada6-0ddfb3786214</dc:identifier>
+        <dc:title>Captives Among the Indians</dc:title>
+        <dc:creator opf:file-as="Bressani, Francesco Giuseppe" opf:role="aut">Francesco Giuseppe Bressani</dc:creator>
+        <dc:creator opf:file-as="Bressani, Francesco Giuseppe" opf:role="aut">Massy Harbison</dc:creator>
+        <dc:creator opf:file-as="Bressani, Francesco Giuseppe" opf:role="aut">Mary White Rowlandson</dc:creator>
+        <dc:creator opf:file-as="Bressani, Francesco Giuseppe" opf:role="aut">James Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44934</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indian captivities -- Northeastern States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francesco Giuseppe Bressani&quot;: &quot;&quot;, &quot;Massy Harbison&quot;: &quot;&quot;, &quot;Mary White Rowlandson&quot;: &quot;&quot;, &quot;James Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:51:15.733998+00:00"/>
+        <meta name="calibre:title_sort" content="Captives Among the Indians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

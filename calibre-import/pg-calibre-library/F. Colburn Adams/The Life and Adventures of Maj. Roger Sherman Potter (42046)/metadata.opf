@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42046</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32832466-fb9a-4adf-9f5a-4dcba81f2ecd</dc:identifier>
+        <dc:title>The Life and Adventures of Maj. Roger Sherman Potter</dc:title>
+        <dc:creator opf:file-as="Adams, F. Colburn (Francis Colburn)" opf:role="aut">F. Colburn Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4959</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Colburn Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:22:04.809396+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Adventures of Maj. Roger Sherman Potter, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df4741ef-923b-4bab-864a-6106bcccaa18</dc:identifier>
+        <dc:title>Gardening Indoors and Under Glass / A Practical Guide to the Planting, Care and Propagation of House Plants, and to the Construction and Management of Hotbed, Coldframe and Small Greenhouse</dc:title>
+        <dc:creator opf:file-as="Rockwell, F. F. (Frederick Frye)" opf:role="aut">F. F. Rockwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22484</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>House plants</dc:subject>
+        <dc:subject>Cold-frames</dc:subject>
+        <dc:subject>Greenhouses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. F. Rockwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:35:05.147789+00:00"/>
+        <meta name="calibre:title_sort" content="Gardening Indoors and Under Glass / A Practical Guide to the Planting, Care and Propagation of House Plants, and to the Construction and Management of Hotbed, Coldframe and Small Greenhouse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

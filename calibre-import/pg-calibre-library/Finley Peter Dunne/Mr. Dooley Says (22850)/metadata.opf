@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22850</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4fda782-7fed-4b76-bd40-04ed6da1cd9f</dc:identifier>
+        <dc:title>Mr. Dooley Says</dc:title>
+        <dc:creator opf:file-as="Dunne, Finley Peter" opf:role="aut">Finley Peter Dunne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Irish Americans -- Fiction</dc:subject>
+        <dc:subject>Dooley</dc:subject>
+        <dc:subject>Mr. (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Finley Peter Dunne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:56:57.184874+00:00"/>
+        <meta name="calibre:title_sort" content="Mr. Dooley Says"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

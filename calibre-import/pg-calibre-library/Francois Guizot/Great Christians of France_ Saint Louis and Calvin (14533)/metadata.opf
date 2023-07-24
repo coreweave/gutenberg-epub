@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0630d679-cfe4-4963-8460-c93a28cd1714</dc:identifier>
+        <dc:title>Great Christians of France: Saint Louis and Calvin</dc:title>
+        <dc:creator opf:file-as="Guizot, François" opf:role="aut">François Guizot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62518</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louis IX</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1214-1270</dc:subject>
+        <dc:subject>Calvin</dc:subject>
+        <dc:subject>Jean</dc:subject>
+        <dc:subject>1509-1564</dc:subject>
+        <dc:subject>Protestants -- France</dc:subject>
+        <dc:subject>France -- History -- Louis IX</dc:subject>
+        <dc:subject>1226-1270</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;François Guizot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:57:36.455738+00:00"/>
+        <meta name="calibre:title_sort" content="Great Christians of France: Saint Louis and Calvin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

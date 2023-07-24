@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7636af57-822a-443f-8812-7b10ea124650</dc:identifier>
+        <dc:title>Forty Years a Gambler on the Mississippi</dc:title>
+        <dc:creator opf:file-as="Devol, George H." opf:role="aut">George H. Devol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23587</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mississippi River -- Description and travel</dc:subject>
+        <dc:subject>Devol</dc:subject>
+        <dc:subject>George H.</dc:subject>
+        <dc:subject>1829-1903</dc:subject>
+        <dc:subject>Gambling -- Mississippi River -- History -- 19th century</dc:subject>
+        <dc:subject>Gambling on river boats -- Mississippi River -- History -- 19th century</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Mississippi River</dc:subject>
+        <dc:subject>Gamblers -- Mississippi River -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George H. Devol&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:15:38.432753+00:00"/>
+        <meta name="calibre:title_sort" content="Forty Years a Gambler on the Mississippi"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

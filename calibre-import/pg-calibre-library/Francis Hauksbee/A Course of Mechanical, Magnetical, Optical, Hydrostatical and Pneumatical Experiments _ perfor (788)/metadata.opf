@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdcfed74-b778-49cf-97fc-3eacdafb594c</dc:identifier>
+        <dc:title>A Course of Mechanical, Magnetical, Optical, Hydrostatical and Pneumatical Experiments / perform'd by Francis Hauksbee, and the Explanatory Lectures read by William Whiston, M.A.</dc:title>
+        <dc:creator opf:file-as="Hauksbee, Francis" opf:role="aut">Francis Hauksbee</dc:creator>
+        <dc:creator opf:file-as="Hauksbee, Francis" opf:role="aut">William Whiston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44019</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physics -- Early works to 1800</dc:subject>
+        <dc:subject>Physical instruments</dc:subject>
+        <dc:subject>Physics -- Experiments</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Hauksbee&quot;: &quot;&quot;, &quot;William Whiston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:37:50.265322+00:00"/>
+        <meta name="calibre:title_sort" content="Course of Mechanical, Magnetical, Optical, Hydrostatical and Pneumatical Experiments / perform'd by Francis Hauksbee, and the Explanatory Lectures read by William Whiston, M.A., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07f93a9b-86e9-45be-b1ed-2749257c77f5</dc:identifier>
+        <dc:title>Thoughts on Educational Topics and Institutions</dc:title>
+        <dc:creator opf:file-as="Boutwell, George S. (George Sewall)" opf:role="aut">George S. Boutwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19056</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George S. Boutwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:19:24.906306+00:00"/>
+        <meta name="calibre:title_sort" content="Thoughts on Educational Topics and Institutions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

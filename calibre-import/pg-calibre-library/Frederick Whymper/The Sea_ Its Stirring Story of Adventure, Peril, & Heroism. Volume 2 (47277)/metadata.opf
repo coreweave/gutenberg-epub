@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f709d6a-384f-46eb-bdd3-57e5d9b1ffec</dc:identifier>
+        <dc:title>The Sea: Its Stirring Story of Adventure, Peril, &amp; Heroism. Volume 2</dc:title>
+        <dc:creator opf:file-as="Whymper, Frederick" opf:role="aut">Frederick Whymper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39342</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages around the world</dc:subject>
+        <dc:subject>Arctic regions</dc:subject>
+        <dc:subject>Adventure and adventurers</dc:subject>
+        <dc:subject>Ocean</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Whymper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:20:34.430555+00:00"/>
+        <meta name="calibre:title_sort" content="Sea: Its Stirring Story of Adventure, Peril, &amp; Heroism. Volume 2, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

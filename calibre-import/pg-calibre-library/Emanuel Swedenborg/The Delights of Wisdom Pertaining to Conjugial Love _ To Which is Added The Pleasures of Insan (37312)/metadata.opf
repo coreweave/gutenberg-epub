@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efcc3977-a1cc-4857-a4b2-d1483792fec9</dc:identifier>
+        <dc:title>The Delights of Wisdom Pertaining to Conjugial Love / To Which is Added The Pleasures of Insanity Pertaining To Scortatory Love</dc:title>
+        <dc:creator opf:file-as="Swedenborg, Emanuel" opf:role="aut">Emanuel Swedenborg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11248</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sexual ethics</dc:subject>
+        <dc:subject>Marriage -- Religious aspects -- New Jerusalem Church</dc:subject>
+        <dc:subject>New Jerusalem Church -- Doctrines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emanuel Swedenborg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:10:58.649337+00:00"/>
+        <meta name="calibre:title_sort" content="Delights of Wisdom Pertaining to Conjugial Love / To Which is Added The Pleasures of Insanity Pertaining To Scortatory Love, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

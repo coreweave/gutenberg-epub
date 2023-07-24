@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5da40af-8769-4364-b73f-4a8f673448e5</dc:identifier>
+        <dc:title>German Society at the Close of the Middle Ages</dc:title>
+        <dc:creator opf:file-as="Bax, Ernest Belfort" opf:role="aut">Ernest Belfort Bax</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47868</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germany -- Social conditions</dc:subject>
+        <dc:subject>Reformation -- Germany</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Belfort Bax&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:41:52.578418+00:00"/>
+        <meta name="calibre:title_sort" content="German Society at the Close of the Middle Ages"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

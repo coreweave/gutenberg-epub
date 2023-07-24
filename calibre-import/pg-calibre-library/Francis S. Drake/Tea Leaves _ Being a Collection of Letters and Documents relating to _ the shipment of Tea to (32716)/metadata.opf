@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">659f7322-afc0-469e-a62c-3772a37bb093</dc:identifier>
+        <dc:title>Tea Leaves / Being a Collection of Letters and Documents relating to / the shipment of Tea to the American Colonies in the year / 1773, by the East India Tea Company. (With an introduction, / notes, and biographical notices of the Boston Tea Party)</dc:title>
+        <dc:creator opf:file-as="Drake, Francis S. (Francis Samuel)" opf:role="aut">Francis S. Drake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24321</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tea tax (American colonies)</dc:subject>
+        <dc:subject>Boston Tea Party</dc:subject>
+        <dc:subject>1773</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis S. Drake&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:22:28.646352+00:00"/>
+        <meta name="calibre:title_sort" content="Tea Leaves / Being a Collection of Letters and Documents relating to / the shipment of Tea to the American Colonies in the year / 1773, by the East India Tea Company. (With an introduction, / notes, and biographical notices of the Boston Tea Party)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

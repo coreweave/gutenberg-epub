@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29032</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9424f6e-8727-4f4e-84a5-c440ca755f8a</dc:identifier>
+        <dc:title>Rise of the New West, 1819-1829</dc:title>
+        <dc:creator opf:file-as="Turner, Frederick Jackson" opf:role="aut">Frederick Jackson Turner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3826</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- History</dc:subject>
+        <dc:subject>Mississippi River Valley -- History -- 1803-1865</dc:subject>
+        <dc:subject>Oregon -- History -- To 1859</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1815-1861</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Jackson Turner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:25:46.844249+00:00"/>
+        <meta name="calibre:title_sort" content="Rise of the New West, 1819-1829"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

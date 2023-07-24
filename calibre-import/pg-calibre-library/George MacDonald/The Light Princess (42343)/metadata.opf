@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3703cef-32b1-41f5-bcb4-c8b4461c9b8f</dc:identifier>
+        <dc:title>The Light Princess</dc:title>
+        <dc:creator opf:file-as="MacDonald, George" opf:role="aut">George MacDonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/697</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Fairy tales -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George MacDonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:38:39.213356+00:00"/>
+        <meta name="calibre:title_sort" content="Light Princess, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

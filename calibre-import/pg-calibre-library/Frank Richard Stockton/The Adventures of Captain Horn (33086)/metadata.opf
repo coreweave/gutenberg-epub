@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33086</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">375b7996-d2d6-49ed-b637-a81393c5a0af</dc:identifier>
+        <dc:title>The Adventures of Captain Horn</dc:title>
+        <dc:creator opf:file-as="Stockton, Frank Richard" opf:role="aut">Frank Richard Stockton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12190</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ship captains -- Fiction</dc:subject>
+        <dc:subject>Conduct of life -- Fiction</dc:subject>
+        <dc:subject>Siblings -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Treasure troves -- Fiction</dc:subject>
+        <dc:subject>Outdoor life -- Fiction</dc:subject>
+        <dc:subject>Sailors -- Fiction</dc:subject>
+        <dc:subject>Shipwrecks -- Fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Fiction</dc:subject>
+        <dc:subject>Peru -- Fiction</dc:subject>
+        <dc:subject>Brigands and robbers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Richard Stockton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:40:26.540920+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Captain Horn, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

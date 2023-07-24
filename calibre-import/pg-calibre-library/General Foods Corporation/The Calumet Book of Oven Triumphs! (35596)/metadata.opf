@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a276cf3e-719a-4ada-b456-5cba067bb42f</dc:identifier>
+        <dc:title>The Calumet Book of Oven Triumphs!</dc:title>
+        <dc:creator opf:file-as="General Foods Corporation" opf:role="aut">General Foods Corporation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65398</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Cookbooks</dc:subject>
+        <dc:subject>Baking</dc:subject>
+        <dc:subject>Baking powder</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;General Foods Corporation&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:44:17.406788+00:00"/>
+        <meta name="calibre:title_sort" content="Calumet Book of Oven Triumphs!, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

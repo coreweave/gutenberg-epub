@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e68cf7b6-697d-41cf-8b78-5bed5e3e6122</dc:identifier>
+        <dc:title>The Story of Extinct Civilizations of the West</dc:title>
+        <dc:creator opf:file-as="Anderson, Robert E. (Robert Edward), M.A., F.A.S." opf:role="aut">F.A.S. M.A. Robert E. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <dc:subject>America -- Discovery and exploration</dc:subject>
+        <dc:subject>Discoveries in geography</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Indians -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F.A.S. M.A. Robert E. Anderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:17:43.731489+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Extinct Civilizations of the West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

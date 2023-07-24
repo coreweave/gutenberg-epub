@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f080fed-6250-4c5f-9618-27a3c6253cbe</dc:identifier>
+        <dc:title>The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou; / Being the Account of a Voyage to the Region North of Aylemer Lake</dc:title>
+        <dc:creator opf:file-as="Seton, Ernest Thompson" opf:role="aut">Ernest Thompson Seton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6818</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mackenzie (N.W.T.) -- Description and travel</dc:subject>
+        <dc:subject>Alberta -- Description and travel</dc:subject>
+        <dc:subject>Seton</dc:subject>
+        <dc:subject>Ernest Thompson</dc:subject>
+        <dc:subject>1860-1946 -- Travel -- Canada</dc:subject>
+        <dc:subject>Northern</dc:subject>
+        <dc:subject>Canoes and canoeing -- Canada</dc:subject>
+        <dc:subject>Northern -- History -- 20th century</dc:subject>
+        <dc:subject>Caribou hunting -- Canada</dc:subject>
+        <dc:subject>Outdoor life -- Canada</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <dc:subject>Northern -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Thompson Seton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:11:42.291380+00:00"/>
+        <meta name="calibre:title_sort" content="Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou; / Being the Account of a Voyage to the Region North of Aylemer Lake, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

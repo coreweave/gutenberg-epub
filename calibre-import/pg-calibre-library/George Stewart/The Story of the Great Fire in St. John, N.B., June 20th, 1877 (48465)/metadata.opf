@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d67f4ac6-24bd-4ddd-a554-a328db9174a6</dc:identifier>
+        <dc:title>The Story of the Great Fire in St. John, N.B., June 20th, 1877</dc:title>
+        <dc:creator opf:file-as="Stewart, George" opf:role="aut">George Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39260</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Saint John (N.B.) -- Fire</dc:subject>
+        <dc:subject>1877</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:31:10.271126+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the Great Fire in St. John, N.B., June 20th, 1877, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

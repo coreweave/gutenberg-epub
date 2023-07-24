@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c65c6739-3093-4ae2-b77e-d6eb55de4348</dc:identifier>
+        <dc:title>The Old First Massachusetts Coast Artillery in War and Peace</dc:title>
+        <dc:creator opf:file-as="Cutler, Frederick Morse" opf:role="aut">Frederick Morse Cutler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41043</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Massachusetts artillery -- 1st coast artillery regt. -- 1784-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Morse Cutler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:49:36.983048+00:00"/>
+        <meta name="calibre:title_sort" content="Old First Massachusetts Coast Artillery in War and Peace, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

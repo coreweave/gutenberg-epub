@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b22f2bb2-6b4a-4d0f-913e-f55291f32284</dc:identifier>
+        <dc:title>The Oxford Reformers: John Colet, Erasmus, and Thomas More</dc:title>
+        <dc:creator opf:file-as="Seebohm, Frederic" opf:role="aut">Frederic Seebohm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43735</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>More</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1478-1535</dc:subject>
+        <dc:subject>Erasmus</dc:subject>
+        <dc:subject>Desiderius</dc:subject>
+        <dc:subject>-1536</dc:subject>
+        <dc:subject>Reformation -- England</dc:subject>
+        <dc:subject>Colet</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1467?-1519</dc:subject>
+        <dc:subject>Education -- England -- Oxford -- History -- 16th century</dc:subject>
+        <dc:subject>Reformers -- England -- Oxford -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Seebohm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:04:45.071440+00:00"/>
+        <meta name="calibre:title_sort" content="Oxford Reformers: John Colet, Erasmus, and Thomas More, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

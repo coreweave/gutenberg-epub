@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87ce7141-3084-4940-ba54-e4217e75afa9</dc:identifier>
+        <dc:title>The Sun Also Rises</dc:title>
+        <dc:creator opf:file-as="Hemingway, Ernest" opf:role="aut">Ernest Hemingway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67138</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Americans -- France -- Fiction</dc:subject>
+        <dc:subject>Americans -- Spain -- Fiction</dc:subject>
+        <dc:subject>Ashley</dc:subject>
+        <dc:subject>Brett (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Expatriation -- Fiction</dc:subject>
+        <dc:subject>Spain -- History -- Alfonso XIII</dc:subject>
+        <dc:subject>1886-1931 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Hemingway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:43:43.409351+00:00"/>
+        <meta name="calibre:title_sort" content="Sun Also Rises, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

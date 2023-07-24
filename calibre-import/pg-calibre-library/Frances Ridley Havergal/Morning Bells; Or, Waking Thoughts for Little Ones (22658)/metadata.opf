@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a0e5f32-f679-46c1-ac40-320ef7ddf5b4</dc:identifier>
+        <dc:title>Morning Bells; Or, Waking Thoughts for Little Ones</dc:title>
+        <dc:creator opf:file-as="Havergal, Frances Ridley" opf:role="aut">Frances Ridley Havergal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Prayers and devotions</dc:subject>
+        <dc:subject>Christian life -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frances Ridley Havergal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:48:46.816107+00:00"/>
+        <meta name="calibre:title_sort" content="Morning Bells; Or, Waking Thoughts for Little Ones"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

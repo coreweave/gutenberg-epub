@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc05dfaf-95ce-41f2-bf1b-de72e83427ab</dc:identifier>
+        <dc:title>Animaduersions uppon the annotacions and corrections of some imperfections of impressiones of Chaucer's workes / 1865 edition</dc:title>
+        <dc:creator opf:file-as="Thynne, Francis" opf:role="aut">Francis Thynne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29261</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chaucer</dc:subject>
+        <dc:subject>Geoffrey</dc:subject>
+        <dc:subject>-1400 -- Criticism</dc:subject>
+        <dc:subject>Textual</dc:subject>
+        <dc:subject>Speght</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>-1621</dc:subject>
+        <dc:subject>Thynne</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>-1546</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Thynne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:47:40.417283+00:00"/>
+        <meta name="calibre:title_sort" content="Animaduersions uppon the annotacions and corrections of some imperfections of impressiones of Chaucer's workes / 1865 edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

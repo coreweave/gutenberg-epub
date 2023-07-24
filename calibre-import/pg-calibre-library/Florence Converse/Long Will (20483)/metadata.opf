@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2c371f6-22ae-4951-a53b-466704d4b127</dc:identifier>
+        <dc:title>Long Will</dc:title>
+        <dc:creator opf:file-as="Converse, Florence" opf:role="aut">Florence Converse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42176</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tyler's Insurrection</dc:subject>
+        <dc:subject>1381 -- Fiction</dc:subject>
+        <dc:subject>England -- Social life and customs -- 1066-1485 -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- 14th century -- Fiction</dc:subject>
+        <dc:subject>Langland</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1330?-1400? -- Fiction</dc:subject>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 14th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Florence Converse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:22:27.748225+00:00"/>
+        <meta name="calibre:title_sort" content="Long Will"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

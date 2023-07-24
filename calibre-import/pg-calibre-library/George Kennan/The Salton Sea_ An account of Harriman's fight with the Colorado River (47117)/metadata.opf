@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c063aa4-ef32-43f1-8fd3-73188d540859</dc:identifier>
+        <dc:title>The Salton Sea: An account of Harriman's fight with the Colorado River</dc:title>
+        <dc:creator opf:file-as="Kennan, George" opf:role="aut">George Kennan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68463</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Harriman</dc:subject>
+        <dc:subject>Edward Henry</dc:subject>
+        <dc:subject>1848-1909</dc:subject>
+        <dc:subject>Salton Sea (Calif.)</dc:subject>
+        <dc:subject>Imperial Valley (Calif. and Mexico)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Kennan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:11:03.926870+00:00"/>
+        <meta name="calibre:title_sort" content="Salton Sea: An account of Harriman's fight with the Colorado River, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

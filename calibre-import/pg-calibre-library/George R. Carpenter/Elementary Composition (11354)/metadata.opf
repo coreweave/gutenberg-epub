@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3a5500d-5603-4079-866d-faad0e712aba</dc:identifier>
+        <dc:title>Elementary Composition</dc:title>
+        <dc:creator opf:file-as="Carpenter, George R. (George Rice)" opf:role="aut">George R. Carpenter</dc:creator>
+        <dc:creator opf:file-as="Carpenter, George R. (George Rice)" opf:role="aut">Dorothy Canfield Fisher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Composition and exercises</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George R. Carpenter&quot;: &quot;&quot;, &quot;Dorothy Canfield Fisher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:24:20.717533+00:00"/>
+        <meta name="calibre:title_sort" content="Elementary Composition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

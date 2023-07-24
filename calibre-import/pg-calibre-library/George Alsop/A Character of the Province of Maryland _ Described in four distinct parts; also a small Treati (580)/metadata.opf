@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b099d8a4-ea99-4524-8e2f-461793a3b369</dc:identifier>
+        <dc:title>A Character of the Province of Maryland / Described in four distinct parts; also a small Treatise on the Wild and Naked Indians (or Susquehanokes) of Maryland, their customs, manners, absurdities, and religion; together with a collection of historical letters.</dc:title>
+        <dc:creator opf:file-as="Alsop, George" opf:role="aut">George Alsop</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57811</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Susquehanna Indians</dc:subject>
+        <dc:subject>Maryland -- Description and travel -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Alsop&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:34:41.413006+00:00"/>
+        <meta name="calibre:title_sort" content="Character of the Province of Maryland / Described in four distinct parts; also a small Treatise on the Wild and Naked Indians (or Susquehanokes) of Maryland, their customs, manners, absurdities, and religion; together with a collection of historical letters., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

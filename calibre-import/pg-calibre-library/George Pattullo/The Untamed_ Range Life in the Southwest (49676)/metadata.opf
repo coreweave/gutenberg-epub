@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e63104ee-bbcf-49ae-bf40-6b34ce586667</dc:identifier>
+        <dc:title>The Untamed: Range Life in the Southwest</dc:title>
+        <dc:creator opf:file-as="Pattullo, George" opf:role="aut">George Pattullo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Canadian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Pattullo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:45:59.201852+00:00"/>
+        <meta name="calibre:title_sort" content="Untamed: Range Life in the Southwest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

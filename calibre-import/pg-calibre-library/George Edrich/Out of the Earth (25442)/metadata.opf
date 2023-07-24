@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f23d6b06-b48f-4a8b-9363-eb1e2f5034ae</dc:identifier>
+        <dc:title>Out of the Earth</dc:title>
+        <dc:creator opf:file-as="Edrich, George" opf:role="aut">George Edrich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31597</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Subterranean -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Edrich&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:47:03.519240+00:00"/>
+        <meta name="calibre:title_sort" content="Out of the Earth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

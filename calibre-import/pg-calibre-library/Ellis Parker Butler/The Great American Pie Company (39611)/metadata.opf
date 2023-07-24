@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39611</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35cdedb3-464c-46c9-b495-cbcee435d8dc</dc:identifier>
+        <dc:title>The Great American Pie Company</dc:title>
+        <dc:creator opf:file-as="Butler, Ellis Parker" opf:role="aut">Ellis Parker Butler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44147</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>United States -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Business -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ellis Parker Butler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:10:06.748480+00:00"/>
+        <meta name="calibre:title_sort" content="Great American Pie Company, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

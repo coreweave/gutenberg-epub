@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">924817af-940a-4559-ad35-8d043b3c130c</dc:identifier>
+        <dc:title>Pony Tracks</dc:title>
+        <dc:creator opf:file-as="Remington, Frederic" opf:role="aut">Frederic Remington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>Frontier and pioneer life -- West (U.S.)</dc:subject>
+        <dc:subject>Indians of North America -- Wars -- 1866-1895</dc:subject>
+        <dc:subject>Remington</dc:subject>
+        <dc:subject>Frederic</dc:subject>
+        <dc:subject>1861-1909</dc:subject>
+        <dc:subject>Chihuahua (Mexico : State) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Remington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:49:47.441769+00:00"/>
+        <meta name="calibre:title_sort" content="Pony Tracks"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0deccaac-2960-4f79-b17e-d2a505e660bd</dc:identifier>
+        <dc:title>The History of the Indian Revolt and of the Expeditions to Persia, China and Japan, 1856-7-8</dc:title>
+        <dc:creator opf:file-as="Dodd, George" opf:role="aut">George Dodd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53360</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- History -- Sepoy Rebellion</dc:subject>
+        <dc:subject>1857-1858</dc:subject>
+        <dc:subject>Japan -- Foreign relations -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Foreign relations -- Japan</dc:subject>
+        <dc:subject>Iran -- History -- War with Great Britain</dc:subject>
+        <dc:subject>1856-1857</dc:subject>
+        <dc:subject>China -- History -- Foreign intervention</dc:subject>
+        <dc:subject>1857-1861</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Dodd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:57:21.025343+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Indian Revolt and of the Expeditions to Persia, China and Japan, 1856-7-8, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

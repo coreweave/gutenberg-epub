@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42873</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ac25587-3f65-4cb7-b06f-ed27fd66588e</dc:identifier>
+        <dc:title>The Magician's Own Book, or, the Whole Art of Conjuring / Being a complete hand-book of parlor magic, and containing over one thousand optical, chemical, mechanical, magnetical, and magical experiments, amusing transmutations, astonishing sleights and subtleties, celebrated card deceptions, ingenious tricks with numbers, curious and entertaining puzzles, together with all the most noted tricks of modern performers.</dc:title>
+        <dc:creator opf:file-as="Arnold, George" opf:role="aut">George Arnold</dc:creator>
+        <dc:creator opf:file-as="Arnold, George" opf:role="aut">Frank Cahill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60687</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Magic tricks -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Tricks -- Handbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Arnold&quot;: &quot;&quot;, &quot;Frank Cahill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:07:57.907999+00:00"/>
+        <meta name="calibre:title_sort" content="Magician's Own Book, or, the Whole Art of Conjuring / Being a complete hand-book of parlor magic, and containing over one thousand optical, chemical, mechanical, magnetical, and magical experiments, amusing transmutations, astonishing sleights and subtleties, celebrated card deceptions, ingenious tricks with numbers, curious and entertaining puzzles, together with all the most noted tricks of modern performers., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

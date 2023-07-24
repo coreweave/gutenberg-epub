@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91623006-c2dc-44c0-863f-1d5895aefd50</dc:identifier>
+        <dc:title>France and England in North America, Part II: The Jesuits in North America in the Seventeenth Century</dc:title>
+        <dc:creator opf:file-as="Parkman, Francis" opf:role="aut">Francis Parkman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6933</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- History -- To 1763 (New France)</dc:subject>
+        <dc:subject>Jesuits -- Missions -- New France -- History -- 17th century</dc:subject>
+        <dc:subject>Wyandot Indians -- Missions -- New France -- History -- 17th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Parkman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:19:22.830694+00:00"/>
+        <meta name="calibre:title_sort" content="France and England in North America, Part II: The Jesuits in North America in the Seventeenth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

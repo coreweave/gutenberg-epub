@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d6a3751-64d3-40b1-a78d-612508bba495</dc:identifier>
+        <dc:title>Female Warriors, Vol. 2 (of 2) / Memorials of Female Valour and Heroism, from the Mythological Ages to the Present Era.</dc:title>
+        <dc:creator opf:file-as="Clayton, Ellen C. (Ellen Creathorne)" opf:role="aut">Ellen C. Clayton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43647</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Biography</dc:subject>
+        <dc:subject>Women soldiers</dc:subject>
+        <dc:subject>Amazons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ellen C. Clayton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:58:18.017416+00:00"/>
+        <meta name="calibre:title_sort" content="Female Warriors, Vol. 2 (of 2) / Memorials of Female Valour and Heroism, from the Mythological Ages to the Present Era."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11c3dedd-a8cc-461b-bf12-9862d76d2507</dc:identifier>
+        <dc:title>A Desk-Book of Errors in English / Including Notes on Colloquialisms and Slang to be Avoided in Conversation</dc:title>
+        <dc:creator opf:file-as="Vizetelly, Frank H." opf:role="aut">Frank H. Vizetelly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48907</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Errors of usage</dc:subject>
+        <dc:subject>English language -- Slang</dc:subject>
+        <dc:subject>English language -- Usage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank H. Vizetelly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:23.110946+00:00"/>
+        <meta name="calibre:title_sort" content="Desk-Book of Errors in English / Including Notes on Colloquialisms and Slang to be Avoided in Conversation, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96018c49-e73c-4ffe-a574-ac15027f3d4d</dc:identifier>
+        <dc:title>Twos and Threes</dc:title>
+        <dc:creator opf:file-as="Stern, G. B. (Gladys Bronwyn)" opf:role="aut">G. B. Stern</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46049</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English fiction -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. B. Stern&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:34:39.891234+00:00"/>
+        <meta name="calibre:title_sort" content="Twos and Threes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

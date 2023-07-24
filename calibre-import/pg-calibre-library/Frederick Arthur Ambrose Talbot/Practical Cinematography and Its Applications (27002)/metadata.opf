@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27002</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4de39c46-7ba9-489c-b058-f1c2b1cb6400</dc:identifier>
+        <dc:title>Practical Cinematography and Its Applications</dc:title>
+        <dc:creator opf:file-as="Talbot, Frederick Arthur Ambrose" opf:role="aut">Frederick Arthur Ambrose Talbot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45714</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cinematography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Arthur Ambrose Talbot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:54:44.764193+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Cinematography and Its Applications"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

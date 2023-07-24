@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e426c8fa-f711-480b-a9a8-f4bbe05f4ac0</dc:identifier>
+        <dc:title>A Succinct Account of the Plague at Marseilles / Its Symptoms and the Methods and Medicines Used for Curing It</dc:title>
+        <dc:creator opf:file-as="Chicoyneau, François" opf:role="aut">François Chicoyneau</dc:creator>
+        <dc:creator opf:file-as="Chicoyneau, François" opf:role="aut">Monsieur Soulier</dc:creator>
+        <dc:creator opf:file-as="Chicoyneau, François" opf:role="aut">active 1720-1721 Monsieur Verny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31548</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plague -- France -- Marseille -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;François Chicoyneau&quot;: &quot;&quot;, &quot;Monsieur Soulier&quot;: &quot;&quot;, &quot;active 1720-1721 Monsieur Verny&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:08:32.513412+00:00"/>
+        <meta name="calibre:title_sort" content="Succinct Account of the Plague at Marseilles / Its Symptoms and the Methods and Medicines Used for Curing It, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b108c751-b91e-46c4-8975-45f3ee3cd878</dc:identifier>
+        <dc:title>When London Burned : a Story of Restoration Times and the Great Fire</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7831</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Kidnapping -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Great Fire</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>1666 -- Juvenile fiction</dc:subject>
+        <dc:subject>Royalists -- Juvenile fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Restoration</dc:subject>
+        <dc:subject>1660-1688 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:59:05.113432+00:00"/>
+        <meta name="calibre:title_sort" content="When London Burned : a Story of Restoration Times and the Great Fire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

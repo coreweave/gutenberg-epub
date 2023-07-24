@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09446334-75a9-4861-9ff8-89bd0b32ba30</dc:identifier>
+        <dc:title>Jean François Millet / A Collection of Fifteen Pictures and a Portrait of the Painter, with Introduction and Interpretation</dc:title>
+        <dc:creator opf:file-as="Hurll, Estelle M. (Estelle May)" opf:role="aut">Estelle M. Hurll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13119</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Millet</dc:subject>
+        <dc:subject>Jean François</dc:subject>
+        <dc:subject>1814-1875</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Estelle M. Hurll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:01:00.622464+00:00"/>
+        <meta name="calibre:title_sort" content="Jean François Millet / A Collection of Fifteen Pictures and a Portrait of the Painter, with Introduction and Interpretation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

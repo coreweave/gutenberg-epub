@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a10b358-a3ca-4232-9e28-93efbbcda166</dc:identifier>
+        <dc:title>Engravers and Etchers / Six Lectures Delivered on the Scammon Foundation at the Art Institute of Chicago, March 1916</dc:title>
+        <dc:creator opf:file-as="Carrington, Fitz Roy" opf:role="aut">Fitz Roy Carrington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66848</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Engraving -- History</dc:subject>
+        <dc:subject>Etching -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fitz Roy Carrington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:36:19.536069+00:00"/>
+        <meta name="calibre:title_sort" content="Engravers and Etchers / Six Lectures Delivered on the Scammon Foundation at the Art Institute of Chicago, March 1916"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

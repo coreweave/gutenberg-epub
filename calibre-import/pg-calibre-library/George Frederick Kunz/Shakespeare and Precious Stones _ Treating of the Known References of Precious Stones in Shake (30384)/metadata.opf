@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d621662b-e241-4090-a438-0731a5bc6adf</dc:identifier>
+        <dc:title>Shakespeare and Precious Stones / Treating of the Known References of Precious Stones in Shakespeare's Works, with Comments as to the Origin of His Material, the Knowledge of the Poet Concerning Precious Stones, and References as to Where the Precious Stones of His Time Came from</dc:title>
+        <dc:creator opf:file-as="Kunz, George Frederick" opf:role="aut">George Frederick Kunz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Precious stones</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Knowledge -- Geology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Frederick Kunz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:30:18.373468+00:00"/>
+        <meta name="calibre:title_sort" content="Shakespeare and Precious Stones / Treating of the Known References of Precious Stones in Shakespeare's Works, with Comments as to the Origin of His Material, the Knowledge of the Poet Concerning Precious Stones, and References as to Where the Precious Stones of His Time Came from"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

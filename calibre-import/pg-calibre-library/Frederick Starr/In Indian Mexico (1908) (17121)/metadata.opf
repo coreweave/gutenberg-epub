@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82dc56e2-21e5-4707-a2a5-1008cfdab058</dc:identifier>
+        <dc:title>In Indian Mexico (1908)</dc:title>
+        <dc:creator opf:file-as="Starr, Frederick" opf:role="aut">Frederick Starr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16183</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mexico -- Description and travel</dc:subject>
+        <dc:subject>Starr</dc:subject>
+        <dc:subject>Frederick</dc:subject>
+        <dc:subject>1858-1933</dc:subject>
+        <dc:subject>Indians of Mexico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Starr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:22:47.283307+00:00"/>
+        <meta name="calibre:title_sort" content="In Indian Mexico (1908)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

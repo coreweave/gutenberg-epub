@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0ee17a9-c13f-4787-8a07-afb525d00979</dc:identifier>
+        <dc:title>Natural History / Or, Uncle Philip's Conversations with the Children about Tools and Trades among Inferior Animals</dc:title>
+        <dc:creator opf:file-as="Hawks, Francis L. (Francis Lister)" opf:role="aut">Francis L. Hawks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44377</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- Juvenile literature</dc:subject>
+        <dc:subject>Animals -- Juvenile literature</dc:subject>
+        <dc:subject>Insects -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis L. Hawks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:28:20.331665+00:00"/>
+        <meta name="calibre:title_sort" content="Natural History / Or, Uncle Philip's Conversations with the Children about Tools and Trades among Inferior Animals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

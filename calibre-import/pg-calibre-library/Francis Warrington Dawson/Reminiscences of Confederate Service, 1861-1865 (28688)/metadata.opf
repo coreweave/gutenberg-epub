@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5c5444c-8a0e-4e0f-b495-efa0bb3c4d51</dc:identifier>
+        <dc:title>Reminiscences of Confederate Service, 1861-1865</dc:title>
+        <dc:creator opf:file-as="Dawson, Francis Warrington" opf:role="aut">Francis Warrington Dawson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Confederate States of America. Army of Northern Virginia -- Biography</dc:subject>
+        <dc:subject>Dawson</dc:subject>
+        <dc:subject>Francis Warrington</dc:subject>
+        <dc:subject>1840-1889</dc:subject>
+        <dc:subject>Confederate States of America. Army of Northern Virginia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Warrington Dawson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:09:51.138426+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of Confederate Service, 1861-1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

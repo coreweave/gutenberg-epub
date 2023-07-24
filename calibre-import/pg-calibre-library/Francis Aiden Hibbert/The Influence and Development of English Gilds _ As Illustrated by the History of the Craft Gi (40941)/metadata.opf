@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d99df4d9-2147-48bc-ae1c-f237e912848d</dc:identifier>
+        <dc:title>The Influence and Development of English Gilds / As Illustrated by the History of the Craft Gilds of Shrewsbury</dc:title>
+        <dc:creator opf:file-as="Hibbert, Francis Aiden" opf:role="aut">Francis Aiden Hibbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39030</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Guilds -- England -- History</dc:subject>
+        <dc:subject>Guilds -- England -- Shrewsbury (England) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Aiden Hibbert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:21:21.341319+00:00"/>
+        <meta name="calibre:title_sort" content="Influence and Development of English Gilds / As Illustrated by the History of the Craft Gilds of Shrewsbury, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

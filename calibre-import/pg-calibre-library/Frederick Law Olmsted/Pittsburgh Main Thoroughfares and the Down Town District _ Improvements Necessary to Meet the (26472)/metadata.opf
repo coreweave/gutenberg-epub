@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a865236-4c51-43ab-addf-2f921a09a014</dc:identifier>
+        <dc:title>Pittsburgh Main Thoroughfares and the Down Town District / Improvements Necessary to Meet the City's Present and Future Needs</dc:title>
+        <dc:creator opf:file-as="Olmsted, Frederick Law" opf:role="aut">Frederick Law Olmsted</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49972</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Public works -- Pennsylvania -- Pittsburgh</dc:subject>
+        <dc:subject>Streets -- Pennsylvania -- Pittsburgh</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Law Olmsted&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:32:10.160443+00:00"/>
+        <meta name="calibre:title_sort" content="Pittsburgh Main Thoroughfares and the Down Town District / Improvements Necessary to Meet the City's Present and Future Needs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

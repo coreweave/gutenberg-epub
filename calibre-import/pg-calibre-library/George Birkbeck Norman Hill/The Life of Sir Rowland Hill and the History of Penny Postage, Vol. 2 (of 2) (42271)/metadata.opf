@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13bcfea8-3916-416d-b968-dff5e70ad147</dc:identifier>
+        <dc:title>The Life of Sir Rowland Hill and the History of Penny Postage, Vol. 2 (of 2)</dc:title>
+        <dc:creator opf:file-as="Hill, George Birkbeck Norman" opf:role="aut">George Birkbeck Norman Hill</dc:creator>
+        <dc:creator opf:file-as="Hill, George Birkbeck Norman" opf:role="aut">Sir Rowland Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46498</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hill</dc:subject>
+        <dc:subject>Rowland</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1795-1879</dc:subject>
+        <dc:subject>Postal service -- Great Britain -- Rates</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Birkbeck Norman Hill&quot;: &quot;&quot;, &quot;Sir Rowland Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:34:34.454410+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Sir Rowland Hill and the History of Penny Postage, Vol. 2 (of 2), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

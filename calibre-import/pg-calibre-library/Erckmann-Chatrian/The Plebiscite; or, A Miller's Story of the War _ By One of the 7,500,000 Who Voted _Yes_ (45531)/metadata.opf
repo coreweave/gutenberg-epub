@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6e8b435-38e9-4e23-ad98-3be0619ad0ce</dc:identifier>
+        <dc:title>The Plébiscite; or, A Miller's Story of the War / By One of the 7,500,000 Who Voted "Yes"</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36860</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Third Republic</dc:subject>
+        <dc:subject>1870-1940 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:38:20.719019+00:00"/>
+        <meta name="calibre:title_sort" content="Plébiscite; or, A Miller's Story of the War / By One of the 7,500,000 Who Voted &quot;Yes&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

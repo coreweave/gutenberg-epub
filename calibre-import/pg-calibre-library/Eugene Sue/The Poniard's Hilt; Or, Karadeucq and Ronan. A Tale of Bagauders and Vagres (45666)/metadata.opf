@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13a90423-1e5d-4d21-af11-b5c40a1fba26</dc:identifier>
+        <dc:title>The Poniard's Hilt; Or, Karadeucq and Ronan. A Tale of Bagauders and Vagres</dc:title>
+        <dc:creator opf:file-as="Sue, Eugène" opf:role="aut">Eugène Sue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31782</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- To 987 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugène Sue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:46:07.052171+00:00"/>
+        <meta name="calibre:title_sort" content="Poniard's Hilt; Or, Karadeucq and Ronan. A Tale of Bagauders and Vagres, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

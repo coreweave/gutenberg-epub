@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e41ec3d6-c9d0-454e-ad24-e72a79a581d5</dc:identifier>
+        <dc:title>The King's Daughters</dc:title>
+        <dc:creator opf:file-as="Holt, Emily Sarah" opf:role="aut">Emily Sarah Holt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23120</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Persecution -- Juvenile fiction</dc:subject>
+        <dc:subject>Reformation -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emily Sarah Holt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:51:33.379919+00:00"/>
+        <meta name="calibre:title_sort" content="King's Daughters, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

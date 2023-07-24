@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">046f63ae-0504-41e1-9447-6a16e4335c75</dc:identifier>
+        <dc:title>Zuñi Fetiches / Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-1881, Government Printing Office, Washington, 1883, pages 3-45</dc:title>
+        <dc:creator opf:file-as="Cushing, Frank Hamilton" opf:role="aut">Frank Hamilton Cushing</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20067</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zuni Indians -- Religion</dc:subject>
+        <dc:subject>Zuni mythology</dc:subject>
+        <dc:subject>Fetishes (Ceremonial objects)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Hamilton Cushing&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:17:49.936055+00:00"/>
+        <meta name="calibre:title_sort" content="Zuñi Fetiches / Second Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-1881, Government Printing Office, Washington, 1883, pages 3-45"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

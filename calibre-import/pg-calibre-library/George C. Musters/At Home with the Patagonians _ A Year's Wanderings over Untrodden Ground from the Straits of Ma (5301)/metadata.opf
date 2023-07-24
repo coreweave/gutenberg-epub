@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4ea8547-005b-42a8-b1a2-0b2aed9edef2</dc:identifier>
+        <dc:title>At Home with the Patagonians / A Year's Wanderings over Untrodden Ground from the Straits of Magellan to the Rio Negro</dc:title>
+        <dc:creator opf:file-as="Musters, George C." opf:role="aut">George C. Musters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42483</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Patagonia (Argentina and Chile) -- Description and travel</dc:subject>
+        <dc:subject>Tzoneca language -- Glossaries</dc:subject>
+        <dc:subject>vocabularies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George C. Musters&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:58:14.615867+00:00"/>
+        <meta name="calibre:title_sort" content="At Home with the Patagonians / A Year's Wanderings over Untrodden Ground from the Straits of Magellan to the Rio Negro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

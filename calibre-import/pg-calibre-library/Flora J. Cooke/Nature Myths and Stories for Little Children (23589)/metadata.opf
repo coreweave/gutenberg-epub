@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68c23e70-09d3-4122-872d-f0201682b20f</dc:identifier>
+        <dc:title>Nature Myths and Stories for Little Children</dc:title>
+        <dc:creator opf:file-as="Cooke, Flora J. (Flora Juliette)" opf:role="aut">Flora J. Cooke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30800</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Classical -- Juvenile literature</dc:subject>
+        <dc:subject>Nature -- Mythology -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Flora J. Cooke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:28:50.536738+00:00"/>
+        <meta name="calibre:title_sort" content="Nature Myths and Stories for Little Children"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

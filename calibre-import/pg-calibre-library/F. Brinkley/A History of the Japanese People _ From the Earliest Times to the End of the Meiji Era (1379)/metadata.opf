@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42c1fbba-f3eb-431c-9a09-3dbfb2b377ba</dc:identifier>
+        <dc:title>A History of the Japanese People / From the Earliest Times to the End of the Meiji Era</dc:title>
+        <dc:creator opf:file-as="Brinkley, F. (Frank)" opf:role="aut">F. Brinkley</dc:creator>
+        <dc:creator opf:file-as="Brinkley, F. (Frank)" opf:role="aut">Dairoku Kikuchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27604</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Japan -- Civilization</dc:subject>
+        <dc:subject>Japan -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Brinkley&quot;: &quot;&quot;, &quot;Dairoku Kikuchi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:47:04.183300+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Japanese People / From the Earliest Times to the End of the Meiji Era, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

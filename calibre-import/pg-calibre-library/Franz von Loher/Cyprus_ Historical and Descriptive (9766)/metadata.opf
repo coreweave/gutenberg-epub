@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2b55581-c8b7-4210-9417-8176503d77db</dc:identifier>
+        <dc:title>Cyprus: Historical and Descriptive</dc:title>
+        <dc:creator opf:file-as="Löher, Franz von" opf:role="aut">Franz von Löher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47056</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cyprus -- Description and travel</dc:subject>
+        <dc:subject>Cyprus -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Franz von Löher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:42:03.890272+00:00"/>
+        <meta name="calibre:title_sort" content="Cyprus: Historical and Descriptive"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

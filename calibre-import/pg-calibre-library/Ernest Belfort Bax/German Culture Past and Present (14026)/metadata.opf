@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14026</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6448d5b4-e965-4e60-89f5-fce395ae092a</dc:identifier>
+        <dc:title>German Culture Past and Present</dc:title>
+        <dc:creator opf:file-as="Bax, Ernest Belfort" opf:role="aut">Ernest Belfort Bax</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20461</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germany -- Civilization</dc:subject>
+        <dc:subject>Germany -- Social conditions</dc:subject>
+        <dc:subject>Reformation -- Germany</dc:subject>
+        <dc:subject>Peasants' War</dc:subject>
+        <dc:subject>1524-1525</dc:subject>
+        <dc:subject>Anabaptists</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Belfort Bax&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:41:42.834774+00:00"/>
+        <meta name="calibre:title_sort" content="German Culture Past and Present"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

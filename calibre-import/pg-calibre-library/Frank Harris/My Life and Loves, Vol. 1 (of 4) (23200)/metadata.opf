@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9bd4369-571f-4b73-ad26-ff743294342a</dc:identifier>
+        <dc:title>My Life and Loves, Vol. 1 (of 4)</dc:title>
+        <dc:creator opf:file-as="Harris, Frank" opf:role="aut">Frank Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59827</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>English -- 20th century -- Biography</dc:subject>
+        <dc:subject>Harris</dc:subject>
+        <dc:subject>Frank</dc:subject>
+        <dc:subject>1856-1931</dc:subject>
+        <dc:subject>Male authors</dc:subject>
+        <dc:subject>English -- Sexual behavior</dc:subject>
+        <dc:subject>Men -- Sexual behavior -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Harris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:12:07.048490+00:00"/>
+        <meta name="calibre:title_sort" content="My Life and Loves, Vol. 1 (of 4)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

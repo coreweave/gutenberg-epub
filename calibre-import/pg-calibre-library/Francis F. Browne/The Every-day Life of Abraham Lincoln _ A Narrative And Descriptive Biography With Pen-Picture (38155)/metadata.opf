@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">643c2f3d-dec3-4b35-aa44-04e0adef9c2f</dc:identifier>
+        <dc:title>The Every-day Life of Abraham Lincoln / A Narrative And Descriptive Biography With Pen-Pictures And Personal / Recollections By Those Who Knew Him</dc:title>
+        <dc:creator opf:file-as="Browne, Francis F. (Francis Fisher)" opf:role="aut">Francis F. Browne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14004</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865</dc:subject>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis F. Browne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:54:31.648433+00:00"/>
+        <meta name="calibre:title_sort" content="Every-day Life of Abraham Lincoln / A Narrative And Descriptive Biography With Pen-Pictures And Personal / Recollections By Those Who Knew Him, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

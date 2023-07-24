@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46887</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22211b56-a15e-4288-a520-be4e15dc30b0</dc:identifier>
+        <dc:title>The Romance of the Colorado River / The Story of its Discovery in 1840, with an Account of the Later Explorations, and with Special Reference to the Voyages of Powell through the Line of the Great Canyons</dc:title>
+        <dc:creator opf:file-as="Dellenbaugh, Frederick Samuel" opf:role="aut">Frederick Samuel Dellenbaugh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4316</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Grand Canyon (Ariz.) -- Description and travel</dc:subject>
+        <dc:subject>Powell</dc:subject>
+        <dc:subject>John Wesley</dc:subject>
+        <dc:subject>1834-1902</dc:subject>
+        <dc:subject>Colorado River (Colo.-Mexico) -- Description and travel</dc:subject>
+        <dc:subject>Colorado River (Colo.-Mexico) -- Discovery and exploration</dc:subject>
+        <dc:subject>Colorado River Valley (Colo.-Mexico) -- Description and travel</dc:subject>
+        <dc:subject>Colorado River Valley (Colo.-Mexico) -- Discovery and exploration</dc:subject>
+        <dc:subject>Grand Canyon (Ariz.) -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Samuel Dellenbaugh&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:57:36.227289+00:00"/>
+        <meta name="calibre:title_sort" content="Romance of the Colorado River / The Story of its Discovery in 1840, with an Account of the Later Explorations, and with Special Reference to the Voyages of Powell through the Line of the Great Canyons, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

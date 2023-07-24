@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d2d7099-0f2a-445e-8152-911c4c832f63</dc:identifier>
+        <dc:title>Under the Turk in Constantinople: A record of Sir John Finch's Embassy, 1674-1681</dc:title>
+        <dc:creator opf:file-as="Abbott, G. F. (George Frederick)" opf:role="aut">G. F. Abbott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Foreign relations -- Turkey</dc:subject>
+        <dc:subject>Turkey -- Foreign relations -- Great Britain</dc:subject>
+        <dc:subject>Finch</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1626-1682</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. F. Abbott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:51:30.586378+00:00"/>
+        <meta name="calibre:title_sort" content="Under the Turk in Constantinople: A record of Sir John Finch's Embassy, 1674-1681"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

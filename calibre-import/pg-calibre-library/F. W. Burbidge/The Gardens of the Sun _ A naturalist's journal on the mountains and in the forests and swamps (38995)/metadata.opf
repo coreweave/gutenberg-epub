@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58f4daf6-3d09-4679-a6af-0e40fd978979</dc:identifier>
+        <dc:title>The Gardens of the Sun / A naturalist's journal on the mountains and in the forests and swamps of Borneo and the Sulu Archipelago</dc:title>
+        <dc:creator opf:file-as="Burbidge, F. W. (Frederick William)" opf:role="aut">F. W. Burbidge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61599</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Borneo -- Description and travel</dc:subject>
+        <dc:subject>Natural history -- Borneo</dc:subject>
+        <dc:subject>Natural history -- Philippines -- Sulu Archipelago</dc:subject>
+        <dc:subject>Sulu Archipelago (Philippines) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. W. Burbidge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:38:05.259486+00:00"/>
+        <meta name="calibre:title_sort" content="Gardens of the Sun / A naturalist's journal on the mountains and in the forests and swamps of Borneo and the Sulu Archipelago, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

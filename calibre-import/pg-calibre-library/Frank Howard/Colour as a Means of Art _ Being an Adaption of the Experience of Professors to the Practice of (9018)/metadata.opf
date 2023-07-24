@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9018</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52f3fab6-f4f2-4167-b5af-87e61c1f7470</dc:identifier>
+        <dc:title>Colour as a Means of Art / Being an Adaption of the Experience of Professors to the Practice of Amateurs</dc:title>
+        <dc:creator opf:file-as="Howard, Frank" opf:role="aut">Frank Howard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39286</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Color</dc:subject>
+        <dc:subject>Painting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Howard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:23:06.910262+00:00"/>
+        <meta name="calibre:title_sort" content="Colour as a Means of Art / Being an Adaption of the Experience of Professors to the Practice of Amateurs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

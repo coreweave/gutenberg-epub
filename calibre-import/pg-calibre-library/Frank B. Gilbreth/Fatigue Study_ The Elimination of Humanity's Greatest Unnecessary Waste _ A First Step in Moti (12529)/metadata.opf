@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd6417d9-77a4-4c59-8141-c9e839e19abe</dc:identifier>
+        <dc:title>Fatigue Study: The Elimination of Humanity's Greatest Unnecessary Waste / A First Step in Motion Study</dc:title>
+        <dc:creator opf:file-as="Gilbreth, Frank B. (Frank Bunker)" opf:role="aut">Frank B. Gilbreth</dc:creator>
+        <dc:creator opf:file-as="Gilbreth, Frank B. (Frank Bunker)" opf:role="aut">Lillian Moller Gilbreth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fatigue</dc:subject>
+        <dc:subject>Industrial efficiency</dc:subject>
+        <dc:subject>Motion study</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank B. Gilbreth&quot;: &quot;&quot;, &quot;Lillian Moller Gilbreth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:57:13.811217+00:00"/>
+        <meta name="calibre:title_sort" content="Fatigue Study: The Elimination of Humanity's Greatest Unnecessary Waste / A First Step in Motion Study"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

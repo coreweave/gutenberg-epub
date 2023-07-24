@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c261c46-882c-4b70-9a0b-4d4d7b913150</dc:identifier>
+        <dc:title>The Young Colonists: A Story of the Zulu and Boer Wars</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32934</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zulu War</dc:subject>
+        <dc:subject>1879 -- Juvenile fiction</dc:subject>
+        <dc:subject>Transvaal (South Africa) -- History -- War of 1880-1881 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:10:49.740029+00:00"/>
+        <meta name="calibre:title_sort" content="Young Colonists: A Story of the Zulu and Boer Wars, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

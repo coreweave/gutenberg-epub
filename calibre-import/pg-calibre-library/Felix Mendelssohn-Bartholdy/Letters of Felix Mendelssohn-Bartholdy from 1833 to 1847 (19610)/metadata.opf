@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4da6d5a8-5854-48a1-ba27-86d81f33b288</dc:identifier>
+        <dc:title>Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847</dc:title>
+        <dc:creator opf:file-as="Mendelssohn-Bartholdy, Felix" opf:role="aut">Felix Mendelssohn-Bartholdy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50473</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mendelssohn-Bartholdy</dc:subject>
+        <dc:subject>Felix</dc:subject>
+        <dc:subject>1809-1847 -- Correspondence</dc:subject>
+        <dc:subject>Composers -- Germany -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Felix Mendelssohn-Bartholdy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:50:05.401536+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

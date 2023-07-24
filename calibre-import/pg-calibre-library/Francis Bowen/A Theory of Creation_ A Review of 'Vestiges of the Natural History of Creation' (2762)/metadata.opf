@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce8f9985-c801-4805-b392-f727be246d0d</dc:identifier>
+        <dc:title>A Theory of Creation: A Review of 'Vestiges of the Natural History of Creation'</dc:title>
+        <dc:creator opf:file-as="Bowen, Francis" opf:role="aut">Francis Bowen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24648</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Creation</dc:subject>
+        <dc:subject>Chambers</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1802-1871. Vestiges of the natural history of creation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Bowen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:10:10.073494+00:00"/>
+        <meta name="calibre:title_sort" content="Theory of Creation: A Review of 'Vestiges of the Natural History of Creation', A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

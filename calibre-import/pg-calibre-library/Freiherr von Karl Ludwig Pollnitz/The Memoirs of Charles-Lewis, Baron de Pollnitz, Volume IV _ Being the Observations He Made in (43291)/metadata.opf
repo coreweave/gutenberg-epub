@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c166b26-5e6b-428f-a248-cb2c1dd41cf3</dc:identifier>
+        <dc:title>The Memoirs of Charles-Lewis, Baron de Pollnitz, Volume IV / Being the Observations He Made in His Late Travels from Prussia thro' Germany, Italy, France, Flanders, Holland, England, &amp;C. in Letters to His Friend. Discovering Not Only the Present State of the Chief Cities and Towns; but the Characters of the Principal Persons at the Several Courts.</dc:title>
+        <dc:creator opf:file-as="Pöllnitz, Karl Ludwig, Freiherr von" opf:role="aut">Freiherr von Karl Ludwig Pöllnitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38519</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Saxony (Germany) -- Court and courtiers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Freiherr von Karl Ludwig Pöllnitz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:31:11.389248+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Charles-Lewis, Baron de Pollnitz, Volume IV / Being the Observations He Made in His Late Travels from Prussia thro' Germany, Italy, France, Flanders, Holland, England, &amp;C. in Letters to His Friend. Discovering Not Only the Present State of the Chief Cities and Towns; but the Characters of the Principal Persons at the Several Courts., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

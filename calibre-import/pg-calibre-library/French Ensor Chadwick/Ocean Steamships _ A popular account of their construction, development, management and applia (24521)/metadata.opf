@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31cad129-c630-450b-a73f-7b483ce94a3c</dc:identifier>
+        <dc:title>Ocean Steamships / A popular account of their construction, development, management and appliances</dc:title>
+        <dc:creator opf:file-as="Chadwick, French Ensor" opf:role="aut">French Ensor Chadwick</dc:creator>
+        <dc:creator opf:file-as="Chadwick, French Ensor" opf:role="aut">John H. Gould</dc:creator>
+        <dc:creator opf:file-as="Chadwick, French Ensor" opf:role="aut">Ridgely Hunt</dc:creator>
+        <dc:creator opf:file-as="Chadwick, French Ensor" opf:role="aut">J. D. Jerrold Kelley</dc:creator>
+        <dc:creator opf:file-as="Chadwick, French Ensor" opf:role="aut">William H. Rideing</dc:creator>
+        <dc:creator opf:file-as="Chadwick, French Ensor" opf:role="aut">A. E. Seaton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54136</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Steam-navigation -- History</dc:subject>
+        <dc:subject>Steamboats</dc:subject>
+        <dc:subject>Steamboat lines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;French Ensor Chadwick&quot;: &quot;&quot;, &quot;John H. Gould&quot;: &quot;&quot;, &quot;Ridgely Hunt&quot;: &quot;&quot;, &quot;J. D. Jerrold Kelley&quot;: &quot;&quot;, &quot;William H. Rideing&quot;: &quot;&quot;, &quot;A. E. Seaton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:08:30.528809+00:00"/>
+        <meta name="calibre:title_sort" content="Ocean Steamships / A popular account of their construction, development, management and appliances"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

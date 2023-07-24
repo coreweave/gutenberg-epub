@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aad93151-8ec6-42d0-9dff-37a6ec49e4f1</dc:identifier>
+        <dc:title>Crime and Punishment</dc:title>
+        <dc:creator opf:file-as="Dostoyevsky, Fyodor" opf:role="aut">Fyodor Dostoyevsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2554</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Saint Petersburg (Russia) -- Fiction</dc:subject>
+        <dc:subject>Murder -- Fiction</dc:subject>
+        <dc:subject>Crime -- Psychological aspects -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fyodor Dostoyevsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:36:28.202657+00:00"/>
+        <meta name="calibre:title_sort" content="Crime and Punishment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

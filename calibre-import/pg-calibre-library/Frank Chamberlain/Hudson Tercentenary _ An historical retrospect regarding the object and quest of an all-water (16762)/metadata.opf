@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb01dda7-7bfb-4a43-b615-654f20c8177e</dc:identifier>
+        <dc:title>Hudson Tercentenary / An historical retrospect regarding the object and quest of an all-water route from Europe to India; the obstacles in the way; and also Hudson's voyage to America in 1609 and some of its results</dc:title>
+        <dc:creator opf:file-as="Chamberlain, Frank" opf:role="aut">Frank Chamberlain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57711</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hudson</dc:subject>
+        <dc:subject>Henry</dc:subject>
+        <dc:subject>-1611</dc:subject>
+        <dc:subject>Hudson River (N.Y. and N.J.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Chamberlain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:10:34.155415+00:00"/>
+        <meta name="calibre:title_sort" content="Hudson Tercentenary / An historical retrospect regarding the object and quest of an all-water route from Europe to India; the obstacles in the way; and also Hudson's voyage to America in 1609 and some of its results"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

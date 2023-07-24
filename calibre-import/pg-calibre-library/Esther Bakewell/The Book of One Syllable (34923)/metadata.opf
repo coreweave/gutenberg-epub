@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c46af2a-9ca3-4f62-8d08-091162d621a3</dc:identifier>
+        <dc:title>The Book of One Syllable</dc:title>
+        <dc:creator opf:file-as="Bakewell, Esther" opf:role="aut">Esther Bakewell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23453</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Esther Bakewell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:10:53.021347+00:00"/>
+        <meta name="calibre:title_sort" content="Book of One Syllable, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

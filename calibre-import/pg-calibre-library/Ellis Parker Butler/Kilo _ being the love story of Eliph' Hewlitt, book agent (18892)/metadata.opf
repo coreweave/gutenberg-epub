@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4a86b55-8595-460b-9587-e9587bf433e3</dc:identifier>
+        <dc:title>Kilo : being the love story of Eliph' Hewlitt, book agent</dc:title>
+        <dc:creator opf:file-as="Butler, Ellis Parker" opf:role="aut">Ellis Parker Butler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3427</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Book industries and trade -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ellis Parker Butler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:24:11.828511+00:00"/>
+        <meta name="calibre:title_sort" content="Kilo : being the love story of Eliph' Hewlitt, book agent"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

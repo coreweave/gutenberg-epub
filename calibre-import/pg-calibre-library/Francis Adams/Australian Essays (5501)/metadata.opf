@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28306e7f-0b72-4c9c-a3c6-2953754ef09e</dc:identifier>
+        <dc:title>Australian Essays</dc:title>
+        <dc:creator opf:file-as="Adams, Francis" opf:role="aut">Francis Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64692</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gordon</dc:subject>
+        <dc:subject>Adam Lindsay</dc:subject>
+        <dc:subject>1833-1870</dc:subject>
+        <dc:subject>Australia -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:02:23.381211+00:00"/>
+        <meta name="calibre:title_sort" content="Australian Essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

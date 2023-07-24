@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5c801c4-edcc-4457-a004-8f5712042155</dc:identifier>
+        <dc:title>Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales</dc:title>
+        <dc:creator opf:file-as="Cronise, Florence M." opf:role="aut">Florence M. Cronise</dc:creator>
+        <dc:creator opf:file-as="Cronise, Florence M." opf:role="aut">Henry W. Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48828</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anansi (Legendary character)</dc:subject>
+        <dc:subject>Folklore -- Africa</dc:subject>
+        <dc:subject>West</dc:subject>
+        <dc:subject>Tales -- Africa</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Florence M. Cronise&quot;: &quot;&quot;, &quot;Henry W. Ward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:39:51.999453+00:00"/>
+        <meta name="calibre:title_sort" content="Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

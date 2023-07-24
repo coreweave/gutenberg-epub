@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19390</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ccdb4e2-0afb-4df1-ab56-feb48d6c52c7</dc:identifier>
+        <dc:title>Lectures on the constitution and laws of England / With a commentary on Magna Charta, and illustrations of many of the English statutes</dc:title>
+        <dc:creator opf:file-as="Sullivan, Francis Stoughton" opf:role="aut">Francis Stoughton Sullivan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Magna Carta -- Early works to 1800</dc:subject>
+        <dc:subject>Constitutional history -- England -- Early works to 1800</dc:subject>
+        <dc:subject>Feudal law -- England -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Stoughton Sullivan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:42:02.274170+00:00"/>
+        <meta name="calibre:title_sort" content="Lectures on the constitution and laws of England / With a commentary on Magna Charta, and illustrations of many of the English statutes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

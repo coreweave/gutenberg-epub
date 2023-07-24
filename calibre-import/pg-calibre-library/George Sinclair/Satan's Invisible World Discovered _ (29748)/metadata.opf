@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e2aa9d9-b23c-4330-8b2e-0ef3da21828e</dc:identifier>
+        <dc:title>Satan's Invisible World Discovered /</dc:title>
+        <dc:creator opf:file-as="Sinclair, George" opf:role="aut">George Sinclair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Superstition</dc:subject>
+        <dc:subject>Occultism</dc:subject>
+        <dc:subject>Witchcraft</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Sinclair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:58:35.622166+00:00"/>
+        <meta name="calibre:title_sort" content="Satan's Invisible World Discovered /"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

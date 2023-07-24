@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4120e7c8-cf08-4a58-824d-afcfce40c451</dc:identifier>
+        <dc:title>Letters of a Lunatic / A Brief Exposition of My University Life, During the Years 1853-54</dc:title>
+        <dc:creator opf:file-as="Adler, G. J. (George J.)" opf:role="aut">G. J. Adler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33241</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mentally ill -- Commitment and detention</dc:subject>
+        <dc:subject>Bloomingdale Asylum for the Insane</dc:subject>
+        <dc:subject>Mental illness -- Personal narratives</dc:subject>
+        <dc:subject>Psychiatric hospitals -- New York</dc:subject>
+        <dc:subject>Adler</dc:subject>
+        <dc:subject>G. J. (George J.)</dc:subject>
+        <dc:subject>1821-1868 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. J. Adler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:51:05.944015+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of a Lunatic / A Brief Exposition of My University Life, During the Years 1853-54"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

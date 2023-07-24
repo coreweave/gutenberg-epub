@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f8875f0-4f9a-4406-b540-e1f28b0aaffe</dc:identifier>
+        <dc:title>Seekers after God</dc:title>
+        <dc:creator opf:file-as="Farrar, F. W. (Frederic William)" opf:role="aut">F. W. Farrar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10846</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marcus Aurelius</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>121-180</dc:subject>
+        <dc:subject>Seneca</dc:subject>
+        <dc:subject>Lucius Annaeus</dc:subject>
+        <dc:subject>approximately 4 B.C.-65 A.D. -- Religion</dc:subject>
+        <dc:subject>Epictetus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. W. Farrar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:17:04.882128+00:00"/>
+        <meta name="calibre:title_sort" content="Seekers after God"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

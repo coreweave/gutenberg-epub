@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e06e9175-3b6d-4eb0-9f48-df71d4d4bed4</dc:identifier>
+        <dc:title>Magic words: A tale for Christmas time</dc:title>
+        <dc:creator opf:file-as="Maceroni, Emilie" opf:role="aut">Emilie Maceroni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68424</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emilie Maceroni&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:37:49.375934+00:00"/>
+        <meta name="calibre:title_sort" content="Magic words: A tale for Christmas time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

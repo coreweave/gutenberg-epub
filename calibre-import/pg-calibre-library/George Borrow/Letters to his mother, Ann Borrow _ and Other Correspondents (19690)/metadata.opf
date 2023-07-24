@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66079d48-5d89-4318-9b28-d06a3c37e055</dc:identifier>
+        <dc:title>Letters to his mother, Ann Borrow / and Other Correspondents</dc:title>
+        <dc:creator opf:file-as="Borrow, George" opf:role="aut">George Borrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Correspondence</dc:subject>
+        <dc:subject>Borrow</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1803-1881 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Borrow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:52:59.915385+00:00"/>
+        <meta name="calibre:title_sort" content="Letters to his mother, Ann Borrow / and Other Correspondents"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bee34fa3-29af-4713-96ef-b7434528181c</dc:identifier>
+        <dc:title>Marine Protozoa from Woods Hole / Bulletin of the United States Fish Commission 21:415-468, 1901</dc:title>
+        <dc:creator opf:file-as="Calkins, Gary N. (Gary Nathan)" opf:role="aut">Gary N. Calkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18320</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Protozoa -- Massachusetts -- Woods Hole</dc:subject>
+        <dc:subject>United States Fisheries Biological Station at Woods Hole</dc:subject>
+        <dc:subject>Massachusetts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gary N. Calkins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:48:51.861138+00:00"/>
+        <meta name="calibre:title_sort" content="Marine Protozoa from Woods Hole / Bulletin of the United States Fish Commission 21:415-468, 1901"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

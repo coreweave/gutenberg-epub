@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9892b54d-5831-4fee-95ac-7dbcd265e9f4</dc:identifier>
+        <dc:title>A British Rifle Man / The Journals and Correspondence of Major George Simmons, Rifle Brigade, During the Peninsular War and the Campaign of Waterloo</dc:title>
+        <dc:creator opf:file-as="Simmons, George" opf:role="aut">George Simmons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50744</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Waterloo</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Belgium</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Simmons&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:33:11.129194+00:00"/>
+        <meta name="calibre:title_sort" content="British Rifle Man / The Journals and Correspondence of Major George Simmons, Rifle Brigade, During the Peninsular War and the Campaign of Waterloo, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

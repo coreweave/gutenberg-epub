@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bdc4c09-aa95-4de6-97e1-92d19bb79678</dc:identifier>
+        <dc:title>Operations Upon the Sea: A Study</dc:title>
+        <dc:creator opf:file-as="Edelsheim, Franz, Freiherr von" opf:role="aut">Freiherr von Franz Edelsheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27244</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea-power</dc:subject>
+        <dc:subject>Germany. Kriegsmarine</dc:subject>
+        <dc:subject>Germany. Heer -- Transport service</dc:subject>
+        <dc:subject>Transportation</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Freiherr von Franz Edelsheim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:33:11.112586+00:00"/>
+        <meta name="calibre:title_sort" content="Operations Upon the Sea: A Study"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

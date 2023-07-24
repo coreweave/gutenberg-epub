@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf7c23dd-a7d3-41ae-a5aa-c2838166c4f3</dc:identifier>
+        <dc:title>The Last Crusade</dc:title>
+        <dc:creator opf:file-as="Smith, George H. (George Henry)" opf:role="aut">George H. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Soldiers -- Fiction</dc:subject>
+        <dc:subject>Paris (France) -- Fiction</dc:subject>
+        <dc:subject>Americans -- France -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George H. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:05:22.738333+00:00"/>
+        <meta name="calibre:title_sort" content="Last Crusade, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

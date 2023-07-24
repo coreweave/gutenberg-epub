@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53045</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63cb22b2-8ba0-43b4-92a0-320289150a37</dc:identifier>
+        <dc:title>Tuscan Sculpture of the Fifteenth Century / A Collection of Sixteen Pictures Reproducing Works by Donatello, the Della Robia, Mino da Fiesole, and Others, with Introduction</dc:title>
+        <dc:creator opf:file-as="Hurll, Estelle M. (Estelle May)" opf:role="aut">Estelle M. Hurll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33252</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sculpture</dc:subject>
+        <dc:subject>Italian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Estelle M. Hurll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:21:11.222164+00:00"/>
+        <meta name="calibre:title_sort" content="Tuscan Sculpture of the Fifteenth Century / A Collection of Sixteen Pictures Reproducing Works by Donatello, the Della Robia, Mino da Fiesole, and Others, with Introduction"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

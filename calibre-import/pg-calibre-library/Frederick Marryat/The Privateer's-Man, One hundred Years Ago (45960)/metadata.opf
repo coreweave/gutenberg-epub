@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45960</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">600213fb-50ab-4d5b-a803-86fc2008317a</dc:identifier>
+        <dc:title>The Privateer's-Man, One hundred Years Ago</dc:title>
+        <dc:creator opf:file-as="Marryat, Frederick" opf:role="aut">Frederick Marryat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25719</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Privateering -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Marryat&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:03:13.016064+00:00"/>
+        <meta name="calibre:title_sort" content="Privateer's-Man, One hundred Years Ago, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

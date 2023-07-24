@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e508f1c4-0aaa-4ed4-b1e1-0a95c8bd1605</dc:identifier>
+        <dc:title>Narrative of a Private Soldier in His Majesty's 92d Regiment of Foot</dc:title>
+        <dc:creator opf:file-as="Billany, George" opf:role="aut">George Billany</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66990</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soldiers -- Biography</dc:subject>
+        <dc:subject>Soldiers -- Religious life</dc:subject>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Military -- 1789-1820</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Billany&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:24:54.437099+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of a Private Soldier in His Majesty's 92d Regiment of Foot"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47941</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19780764-7411-45cc-bf01-7297944566c3</dc:identifier>
+        <dc:title>The Southern war poetry of the Civil War</dc:title>
+        <dc:creator opf:file-as="Ellinger, Esther Parker" opf:role="aut">Esther Parker Ellinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69681</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Poetry</dc:subject>
+        <dc:subject>Thesis (Ph. D.)</dc:subject>
+        <dc:subject>American poetry -- 19th century</dc:subject>
+        <dc:subject>War poetry</dc:subject>
+        <dc:subject>American -- Southern States</dc:subject>
+        <dc:subject>American -- Southern States -- Bibliography</dc:subject>
+        <dc:subject>American poetry -- 19th century -- Bibliography</dc:subject>
+        <dc:subject>Confederate States of America -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Esther Parker Ellinger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:59:53.315926+00:00"/>
+        <meta name="calibre:title_sort" content="Southern war poetry of the Civil War, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

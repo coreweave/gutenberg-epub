@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6338f0c-f81e-46a4-ae97-6e8496394a7b</dc:identifier>
+        <dc:title>Conscience &amp; Fanaticism: An Essay on Moral Values</dc:title>
+        <dc:creator opf:file-as="Pitt-Rivers, George Henry Lane Fox" opf:role="aut">George Henry Lane Fox Pitt-Rivers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58136</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Conscience</dc:subject>
+        <dc:subject>Fanaticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Henry Lane Fox Pitt-Rivers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:28:48.374455+00:00"/>
+        <meta name="calibre:title_sort" content="Conscience &amp; Fanaticism: An Essay on Moral Values"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

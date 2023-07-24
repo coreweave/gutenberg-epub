@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca916d16-bea8-4eb1-a660-b21bc385d50e</dc:identifier>
+        <dc:title>Songs of the Ridings</dc:title>
+        <dc:creator opf:file-as="Moorman, F. W. (Frederic William)" opf:role="aut">F. W. Moorman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3232</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- England -- Yorkshire</dc:subject>
+        <dc:subject>Dialect poetry</dc:subject>
+        <dc:subject>English -- England -- Yorkshire</dc:subject>
+        <dc:subject>English language -- Dialects -- England -- Yorkshire -- Texts</dc:subject>
+        <dc:subject>Yorkshire (England) -- Poetry</dc:subject>
+        <dc:subject>Yorkshire (England) -- Languages -- History -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. W. Moorman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:11:27.286410+00:00"/>
+        <meta name="calibre:title_sort" content="Songs of the Ridings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

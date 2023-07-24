@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d66f4e5e-5cde-46c8-8d58-fca191fcf577</dc:identifier>
+        <dc:title>The Pedestrian's Guide through North Wales / A tour performed in 1837</dc:title>
+        <dc:creator opf:file-as="Bennett, G. J. (George John)" opf:role="aut">G. J. Bennett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wales</dc:subject>
+        <dc:subject>North -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. J. Bennett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:16:47.545497+00:00"/>
+        <meta name="calibre:title_sort" content="Pedestrian's Guide through North Wales / A tour performed in 1837, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

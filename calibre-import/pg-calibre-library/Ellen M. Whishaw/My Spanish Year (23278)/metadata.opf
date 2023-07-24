@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">033877cf-a6e0-4de7-b657-6825e5378ecf</dc:identifier>
+        <dc:title>My Spanish Year</dc:title>
+        <dc:creator opf:file-as="Whishaw, Ellen M." opf:role="aut">Ellen M. Whishaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59293</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spain -- Description and travel</dc:subject>
+        <dc:subject>Spain -- Social life and customs</dc:subject>
+        <dc:subject>Whishaw</dc:subject>
+        <dc:subject>Ellen M. -- Travel -- Spain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ellen M. Whishaw&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:15:37.899395+00:00"/>
+        <meta name="calibre:title_sort" content="My Spanish Year"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

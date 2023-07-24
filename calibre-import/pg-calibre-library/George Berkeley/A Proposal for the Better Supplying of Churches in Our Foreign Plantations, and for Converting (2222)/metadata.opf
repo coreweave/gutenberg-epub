@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcf3f6d8-7ec5-4922-a8b1-0747391fa1aa</dc:identifier>
+        <dc:title>A Proposal for the Better Supplying of Churches in Our Foreign Plantations, and for Converting the Savage Americans to Christianity, By a College to Be Erected in the Summer Islands, Otherwise Called the Isles of Bermuda</dc:title>
+        <dc:creator opf:file-as="Berkeley, George" opf:role="aut">George Berkeley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31848</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Missions -- Bermuda Islands</dc:subject>
+        <dc:subject>Education -- Bermuda Islands</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Berkeley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:00:53.113603+00:00"/>
+        <meta name="calibre:title_sort" content="Proposal for the Better Supplying of Churches in Our Foreign Plantations, and for Converting the Savage Americans to Christianity, By a College to Be Erected in the Summer Islands, Otherwise Called the Isles of Bermuda, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

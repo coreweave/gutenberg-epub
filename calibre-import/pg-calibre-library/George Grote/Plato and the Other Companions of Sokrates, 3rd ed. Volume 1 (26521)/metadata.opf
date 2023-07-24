@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4237c15b-0e12-4ab6-951f-51815fd9df96</dc:identifier>
+        <dc:title>Plato and the Other Companions of Sokrates, 3rd ed. Volume 1</dc:title>
+        <dc:creator opf:file-as="Grote, George" opf:role="aut">George Grote</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40435</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plato</dc:subject>
+        <dc:subject>Socrates</dc:subject>
+        <dc:subject>470 BC-399 BC</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Grote&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:34:14.415879+00:00"/>
+        <meta name="calibre:title_sort" content="Plato and the Other Companions of Sokrates, 3rd ed. Volume 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32901570-c397-46f0-ae8e-2d1a0d5fc625</dc:identifier>
+        <dc:title>At Aboukir and Acre: A Story of Napoleon's Invasion of Egypt</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22224</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Second Coalition</dc:subject>
+        <dc:subject>War of the</dc:subject>
+        <dc:subject>1798-1801 -- Campaigns -- Egypt -- Juvenile fiction</dc:subject>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Juvenile fiction</dc:subject>
+        <dc:subject>Egypt -- History -- French occupation</dc:subject>
+        <dc:subject>1798-1801 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:58:00.095479+00:00"/>
+        <meta name="calibre:title_sort" content="At Aboukir and Acre: A Story of Napoleon's Invasion of Egypt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

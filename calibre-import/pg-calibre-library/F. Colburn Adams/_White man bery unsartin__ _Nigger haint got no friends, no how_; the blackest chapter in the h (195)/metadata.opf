@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5128b2cb-4e7c-484b-b4a3-e8bf76d15475</dc:identifier>
+        <dc:title>"White man bery unsartin": "Nigger haint got no friends, no how"; the blackest chapter in the history of the Republican Party; the men who robbed and combined to rob the freedmen of their hard earnings.</dc:title>
+        <dc:creator opf:file-as="Adams, F. Colburn (Francis Colburn)" opf:role="aut">F. Colburn Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63245</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Freedman's Savings and Trust Company</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Colburn Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:28:58.637658+00:00"/>
+        <meta name="calibre:title_sort" content="White man bery unsartin&quot;: &quot;Nigger haint got no friends, no how&quot;; the blackest chapter in the history of the Republican Party; the men who robbed and combined to rob the freedmen of their hard earnings."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

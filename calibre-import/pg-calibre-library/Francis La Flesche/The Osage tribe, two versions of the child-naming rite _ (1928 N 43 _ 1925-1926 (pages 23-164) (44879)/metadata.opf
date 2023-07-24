@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fa70f95-8808-4338-9d05-9a5063ced040</dc:identifier>
+        <dc:title>The Osage tribe, two versions of the child-naming rite / (1928 N 43 / 1925-1926 (pages 23-164))</dc:title>
+        <dc:creator opf:file-as="La Flesche, Francis" opf:role="aut">Francis La Flesche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49326</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Osage Indians -- Rites and ceremonies</dc:subject>
+        <dc:subject>Osage Indians -- Religion</dc:subject>
+        <dc:subject>Osage mythology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis La Flesche&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:00:44.856261+00:00"/>
+        <meta name="calibre:title_sort" content="Osage tribe, two versions of the child-naming rite / (1928 N 43 / 1925-1926 (pages 23-164)), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

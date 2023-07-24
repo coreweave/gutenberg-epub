@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe240d22-e5c0-411a-ba6a-3f73500d2f7d</dc:identifier>
+        <dc:title>The History of Coaches</dc:title>
+        <dc:creator opf:file-as="Thrupp, George Athelstane" opf:role="aut">George Athelstane Thrupp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49194</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Carriages and carts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Athelstane Thrupp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:46:08.103354+00:00"/>
+        <meta name="calibre:title_sort" content="History of Coaches, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

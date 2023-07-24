@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3e96710-54aa-40e9-85fc-6c5ed4e582b9</dc:identifier>
+        <dc:title>The Works of Francis Beaumont and John Fletcher in Ten Volumes: Volume 01.</dc:title>
+        <dc:creator opf:file-as="Beaumont, Francis" opf:role="aut">Francis Beaumont</dc:creator>
+        <dc:creator opf:file-as="Beaumont, Francis" opf:role="aut">John Fletcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10620</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English drama -- Early modern and Elizabethan</dc:subject>
+        <dc:subject>1500-1600</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Beaumont&quot;: &quot;&quot;, &quot;John Fletcher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:42:17.454440+00:00"/>
+        <meta name="calibre:title_sort" content="Works of Francis Beaumont and John Fletcher in Ten Volumes: Volume 01., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

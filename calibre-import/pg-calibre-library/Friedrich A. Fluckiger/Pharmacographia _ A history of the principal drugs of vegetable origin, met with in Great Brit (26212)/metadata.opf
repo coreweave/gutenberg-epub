@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8c5b3e1-be7c-4afa-9137-d43651f106a7</dc:identifier>
+        <dc:title>Pharmacographia / A history of the principal drugs of vegetable origin, met with in Great Britain and British India</dc:title>
+        <dc:creator opf:file-as="Flückiger, Friedrich A. (Friedrich August)" opf:role="aut">Friedrich A. Flückiger</dc:creator>
+        <dc:creator opf:file-as="Flückiger, Friedrich A. (Friedrich August)" opf:role="aut">Daniel Hanbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67691</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Botany</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Materia medica</dc:subject>
+        <dc:subject>Vegetable</dc:subject>
+        <dc:subject>Vegetable -- India</dc:subject>
+        <dc:subject>Vegetable -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Friedrich A. Flückiger&quot;: &quot;&quot;, &quot;Daniel Hanbury&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:19:59.767403+00:00"/>
+        <meta name="calibre:title_sort" content="Pharmacographia / A history of the principal drugs of vegetable origin, met with in Great Britain and British India"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

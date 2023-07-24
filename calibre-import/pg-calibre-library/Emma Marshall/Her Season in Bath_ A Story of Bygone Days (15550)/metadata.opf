@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">929d7627-ccb8-47a7-b063-a1be2e9662d8</dc:identifier>
+        <dc:title>Her Season in Bath: A Story of Bygone Days</dc:title>
+        <dc:creator opf:file-as="Marshall, Emma" opf:role="aut">Emma Marshall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bath (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emma Marshall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:30:17.332020+00:00"/>
+        <meta name="calibre:title_sort" content="Her Season in Bath: A Story of Bygone Days"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d0f789a-24f9-46d0-829d-bb3e5972a9d9</dc:identifier>
+        <dc:title>Marooned on Australia</dc:title>
+        <dc:creator opf:file-as="Favenc, Ernest" opf:role="aut">Ernest Favenc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70575</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Castaways -- Juvenile fiction</dc:subject>
+        <dc:subject>Batavia (Ship) -- Juvenile fiction</dc:subject>
+        <dc:subject>Western Australia -- Discovery and exploration -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Favenc&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:52:04.577948+00:00"/>
+        <meta name="calibre:title_sort" content="Marooned on Australia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

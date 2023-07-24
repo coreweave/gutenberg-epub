@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a8f06d5-155b-4e30-a167-077a11ccaf16</dc:identifier>
+        <dc:title>Bobby Blake at Rockledge School; or, Winning the Medal of Honor</dc:title>
+        <dc:creator opf:file-as="Warner, Frank A." opf:role="aut">Frank A. Warner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39799</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Sports stories</dc:subject>
+        <dc:subject>Athletics -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank A. Warner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:37.327397+00:00"/>
+        <meta name="calibre:title_sort" content="Bobby Blake at Rockledge School; or, Winning the Medal of Honor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

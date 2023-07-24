@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9846cc8a-939c-4e57-adab-f19b88b3312e</dc:identifier>
+        <dc:title>Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))</dc:title>
+        <dc:creator opf:file-as="Smith, Erminnie A. (Erminnie Adele)" opf:role="aut">Erminnie A. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46140</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Iroquois Indians -- Folklore</dc:subject>
+        <dc:subject>Iroquois mythology</dc:subject>
+        <dc:subject>Legends -- New York (State)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erminnie A. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:21:08.418389+00:00"/>
+        <meta name="calibre:title_sort" content="Myths of the Iroquois. (1883 N 02 / 1880-1881 (pages 47-116))"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

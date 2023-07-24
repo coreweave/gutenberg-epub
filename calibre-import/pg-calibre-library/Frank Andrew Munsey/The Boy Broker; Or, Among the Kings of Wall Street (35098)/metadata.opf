@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35098</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10a8c690-e397-4dbb-8178-073eba00032a</dc:identifier>
+        <dc:title>The Boy Broker; Or, Among the Kings of Wall Street</dc:title>
+        <dc:creator opf:file-as="Munsey, Frank Andrew" opf:role="aut">Frank Andrew Munsey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Country life -- Juvenile fiction</dc:subject>
+        <dc:subject>Students -- Juvenile fiction</dc:subject>
+        <dc:subject>Diligence -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth and death -- Juvenile fiction</dc:subject>
+        <dc:subject>Unemployment -- Juvenile fiction</dc:subject>
+        <dc:subject>Stockbrokers -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Andrew Munsey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:19:35.251632+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Broker; Or, Among the Kings of Wall Street, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

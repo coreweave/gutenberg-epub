@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53914</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2486d6f-30bd-4a87-9af5-50772893b232</dc:identifier>
+        <dc:title>Vital Records of the Town of Auburn, (Formerly Ward), Massachusetts, To the end of the year 1850 / With the Inscriptions from the Old Burial Grounds</dc:title>
+        <dc:creator opf:file-as="Rice, Franklin P. (Franklin Pierce)" opf:role="aut">Franklin P. Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46315</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Registers of births</dc:subject>
+        <dc:subject>etc. -- Massachusetts -- Auburn</dc:subject>
+        <dc:subject>Epitaphs -- Massachusetts -- Auburn (Town)</dc:subject>
+        <dc:subject>Auburn (Mass. : Town) -- Genealogy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Franklin P. Rice&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:17:18.448726+00:00"/>
+        <meta name="calibre:title_sort" content="Vital Records of the Town of Auburn, (Formerly Ward), Massachusetts, To the end of the year 1850 / With the Inscriptions from the Old Burial Grounds"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

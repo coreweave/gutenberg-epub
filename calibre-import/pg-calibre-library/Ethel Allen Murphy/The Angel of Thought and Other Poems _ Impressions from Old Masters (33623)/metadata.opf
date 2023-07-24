@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50e556cc-4be7-465a-b7ac-e34a0ed29176</dc:identifier>
+        <dc:title>The Angel of Thought and Other Poems / Impressions from Old Masters</dc:title>
+        <dc:creator opf:file-as="Murphy, Ethel Allen" opf:role="aut">Ethel Allen Murphy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27275</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Mary</dc:subject>
+        <dc:subject>Blessed Virgin</dc:subject>
+        <dc:subject>Saint -- Art</dc:subject>
+        <dc:subject>Angels in art</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ethel Allen Murphy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:06:38.148923+00:00"/>
+        <meta name="calibre:title_sort" content="Angel of Thought and Other Poems / Impressions from Old Masters, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c990d7e-9c8d-499d-a842-b63ea7cf4649</dc:identifier>
+        <dc:title>Flytraps and Their Operation [1930]</dc:title>
+        <dc:creator opf:file-as="Bishopp, F. C. (Fred Corry)" opf:role="aut">F. C. Bishopp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63227</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Flies -- Control</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. C. Bishopp&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:09:35.701849+00:00"/>
+        <meta name="calibre:title_sort" content="Flytraps and Their Operation [1930]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

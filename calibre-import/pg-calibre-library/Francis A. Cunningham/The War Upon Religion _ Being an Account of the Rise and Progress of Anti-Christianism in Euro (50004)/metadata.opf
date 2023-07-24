@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02a23efb-08b7-4b95-9b69-e97c64c15c89</dc:identifier>
+        <dc:title>The War Upon Religion / Being an Account of the Rise and Progress of Anti-Christianism in Europe</dc:title>
+        <dc:creator opf:file-as="Cunningham, Francis A. (Francis Aloysius)" opf:role="aut">Francis A. Cunningham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38391</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Catholic Church -- History</dc:subject>
+        <dc:subject>Catholic Church -- Europe</dc:subject>
+        <dc:subject>Church and state -- Catholic Church</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis A. Cunningham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:06:46.017224+00:00"/>
+        <meta name="calibre:title_sort" content="War Upon Religion / Being an Account of the Rise and Progress of Anti-Christianism in Europe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

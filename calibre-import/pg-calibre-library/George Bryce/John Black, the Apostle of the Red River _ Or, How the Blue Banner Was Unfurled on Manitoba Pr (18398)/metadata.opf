@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">739e12c7-3392-4865-8bd7-ffb74ae401ab</dc:identifier>
+        <dc:title>John Black, the Apostle of the Red River / Or, How the Blue Banner Was Unfurled on Manitoba Prairies</dc:title>
+        <dc:creator opf:file-as="Bryce, George" opf:role="aut">George Bryce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53576</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Black</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1818-1882</dc:subject>
+        <dc:subject>Presbyterian Church -- Missions -- Manitoba</dc:subject>
+        <dc:subject>Missionaries -- Manitoba -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Bryce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:06:43.083738+00:00"/>
+        <meta name="calibre:title_sort" content="John Black, the Apostle of the Red River / Or, How the Blue Banner Was Unfurled on Manitoba Prairies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

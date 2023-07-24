@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f79b35cb-b4c6-4863-b0b3-a95e929bda6a</dc:identifier>
+        <dc:title>An Englishman's View of the Battle between the Alabama and the Kearsarge / An Account of the Naval Engagement in the British Channel, on Sunday June 19th, 1864</dc:title>
+        <dc:creator opf:file-as="Edge, Frederick Milnes" opf:role="aut">Frederick Milnes Edge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36988</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Naval operations</dc:subject>
+        <dc:subject>Alabama (Screw sloop)</dc:subject>
+        <dc:subject>Kearsarge (Sloop)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Milnes Edge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:39:33.218209+00:00"/>
+        <meta name="calibre:title_sort" content="Englishman's View of the Battle between the Alabama and the Kearsarge / An Account of the Naval Engagement in the British Channel, on Sunday June 19th, 1864, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

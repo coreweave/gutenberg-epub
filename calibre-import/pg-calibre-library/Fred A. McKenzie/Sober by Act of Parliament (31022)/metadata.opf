@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05c78f11-a6bf-4522-9e44-d6cea1b995d2</dc:identifier>
+        <dc:title>Sober by Act of Parliament</dc:title>
+        <dc:creator opf:file-as="McKenzie, Fred A. (Fred Arthur)" opf:role="aut">Fred A. McKenzie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34563</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Temperance</dc:subject>
+        <dc:subject>Drinking of alcoholic beverages</dc:subject>
+        <dc:subject>Prohibition -- United States</dc:subject>
+        <dc:subject>License system -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fred A. McKenzie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:00:16.000595+00:00"/>
+        <meta name="calibre:title_sort" content="Sober by Act of Parliament"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

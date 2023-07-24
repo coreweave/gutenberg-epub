@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41540a6a-b6f0-4126-ae04-b1d35c237577</dc:identifier>
+        <dc:title>War from the Inside / The Story of the 132nd Regiment Pennsylvania Volunteer Infantry in the War for the Suppression of the Rebellion, 1862-1863</dc:title>
+        <dc:creator opf:file-as="Hitchcock, Frederick L. (Frederick Lyman)" opf:role="aut">Frederick L. Hitchcock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29313</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>Hitchcock</dc:subject>
+        <dc:subject>Frederick L. (Frederick Lyman)</dc:subject>
+        <dc:subject>United States. Army. Pennsylvania Infantry Regiment</dc:subject>
+        <dc:subject>132nd (1862-1863) -- Biography</dc:subject>
+        <dc:subject>Soldiers -- Pennsylvania -- Biography</dc:subject>
+        <dc:subject>Pennsylvania -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick L. Hitchcock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:30:13.622739+00:00"/>
+        <meta name="calibre:title_sort" content="War from the Inside / The Story of the 132nd Regiment Pennsylvania Volunteer Infantry in the War for the Suppression of the Rebellion, 1862-1863"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

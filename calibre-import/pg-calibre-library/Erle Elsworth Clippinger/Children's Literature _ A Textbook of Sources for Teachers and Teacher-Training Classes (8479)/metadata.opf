@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7317cad2-ad33-408b-9e20-a13e73f4ac4a</dc:identifier>
+        <dc:title>Children's Literature / A Textbook of Sources for Teachers and Teacher-Training Classes</dc:title>
+        <dc:creator opf:file-as="Clippinger, Erle Elsworth" opf:role="aut">Erle Elsworth Clippinger</dc:creator>
+        <dc:creator opf:file-as="Clippinger, Erle Elsworth" opf:role="aut">Charles Madison Curry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25545</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Books and reading</dc:subject>
+        <dc:subject>Children's literature -- Study and teaching</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erle Elsworth Clippinger&quot;: &quot;&quot;, &quot;Charles Madison Curry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:09:43.789981+00:00"/>
+        <meta name="calibre:title_sort" content="Children's Literature / A Textbook of Sources for Teachers and Teacher-Training Classes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

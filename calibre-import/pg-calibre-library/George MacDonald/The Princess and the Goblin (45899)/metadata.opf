@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2357c05d-6706-42a2-8e51-b8c0be8d5846</dc:identifier>
+        <dc:title>The Princess and the Goblin</dc:title>
+        <dc:creator opf:file-as="MacDonald, George" opf:role="aut">George MacDonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34339</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy literature</dc:subject>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Goblins -- Juvenile fiction</dc:subject>
+        <dc:subject>Princesses -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George MacDonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:59:40.951170+00:00"/>
+        <meta name="calibre:title_sort" content="Princess and the Goblin, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

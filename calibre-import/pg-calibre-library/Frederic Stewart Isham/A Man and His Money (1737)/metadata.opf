@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c439e27a-bbc2-4e82-bee9-a73b7bc36620</dc:identifier>
+        <dc:title>A Man and His Money</dc:title>
+        <dc:creator opf:file-as="Isham, Frederic Stewart" opf:role="aut">Frederic Stewart Isham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10402</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Rescues -- Fiction</dc:subject>
+        <dc:subject>Kidnapping -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Stewart Isham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:52:49.175582+00:00"/>
+        <meta name="calibre:title_sort" content="Man and His Money, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b321c9cf-7a65-41b1-bb18-3b6ac659d9b2</dc:identifier>
+        <dc:title>Other Worlds / Their Nature, Possibilities and Habitability in the Light of the Latest Discoveries</dc:title>
+        <dc:creator opf:file-as="Serviss, Garrett Putman" opf:role="aut">Garrett Putman Serviss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18431</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astronomy</dc:subject>
+        <dc:subject>Planets</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Garrett Putman Serviss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:38:27.133036+00:00"/>
+        <meta name="calibre:title_sort" content="Other Worlds / Their Nature, Possibilities and Habitability in the Light of the Latest Discoveries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

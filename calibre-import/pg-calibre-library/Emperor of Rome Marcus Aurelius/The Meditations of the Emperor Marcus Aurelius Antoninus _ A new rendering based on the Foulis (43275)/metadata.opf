@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4738b96b-4862-4a7a-ada3-55f3e8787bcb</dc:identifier>
+        <dc:title>The Meditations of the Emperor Marcus Aurelius Antoninus / A new rendering based on the Foulis translation of 1742</dc:title>
+        <dc:creator opf:file-as="Marcus Aurelius, Emperor of Rome" opf:role="aut">Emperor of Rome Marcus Aurelius</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stoics</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emperor of Rome Marcus Aurelius&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:30:17.340254+00:00"/>
+        <meta name="calibre:title_sort" content="Meditations of the Emperor Marcus Aurelius Antoninus / A new rendering based on the Foulis translation of 1742, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

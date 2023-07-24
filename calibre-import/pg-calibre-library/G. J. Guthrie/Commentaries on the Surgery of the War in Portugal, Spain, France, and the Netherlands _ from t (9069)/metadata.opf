@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45c2bafc-941d-4caf-8c5d-52d2ea3754bc</dc:identifier>
+        <dc:title>Commentaries on the Surgery of the War in Portugal, Spain, France, and the Netherlands / from the battle of Roliça, in 1808, to that of Waterloo, in 1815; with additions relating to those in the Crimea in 1854-55, showing the improvements made during and since that period in the great art and science of surgery on all the subjects to which they relate.</dc:title>
+        <dc:creator opf:file-as="Guthrie, G. J. (George James)" opf:role="aut">G. J. Guthrie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65622</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Surgery</dc:subject>
+        <dc:subject>Military -- Europe -- History</dc:subject>
+        <dc:subject>Napoleonic Wars</dc:subject>
+        <dc:subject>1800-1815 -- Medical care</dc:subject>
+        <dc:subject>Crimean War</dc:subject>
+        <dc:subject>1853-1856 -- Medical care</dc:subject>
+        <dc:subject>War wounds -- Europe -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. J. Guthrie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:24:23.275710+00:00"/>
+        <meta name="calibre:title_sort" content="Commentaries on the Surgery of the War in Portugal, Spain, France, and the Netherlands / from the battle of Roliça, in 1808, to that of Waterloo, in 1815; with additions relating to those in the Crimea in 1854-55, showing the improvements made during and since that period in the great art and science of surgery on all the subjects to which they relate."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

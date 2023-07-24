@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">468be08c-6a58-47c2-83dc-a9c194aaf41a</dc:identifier>
+        <dc:title>A Conchological Manual</dc:title>
+        <dc:creator opf:file-as="Sowerby, G. B. (George Brettingham)" opf:role="aut">G. B. Sowerby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43417</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mollusks -- Dictionaries</dc:subject>
+        <dc:subject>Shells -- Dictionaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. B. Sowerby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:37:16.218534+00:00"/>
+        <meta name="calibre:title_sort" content="Conchological Manual, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

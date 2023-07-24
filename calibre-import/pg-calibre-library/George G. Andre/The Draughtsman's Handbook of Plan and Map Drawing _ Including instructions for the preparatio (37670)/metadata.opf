@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57ae3e82-b372-4323-b247-421fdbea53f4</dc:identifier>
+        <dc:title>The Draughtsman's Handbook of Plan and Map Drawing / Including instructions for the preparation of engineering, architectural, and mechanical drawings.</dc:title>
+        <dc:creator opf:file-as="André, George G." opf:role="aut">George G. André</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57290</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mechanical drawing</dc:subject>
+        <dc:subject>Topographical drawing</dc:subject>
+        <dc:subject>Architectural drawing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George G. André&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:29:33.306607+00:00"/>
+        <meta name="calibre:title_sort" content="Draughtsman's Handbook of Plan and Map Drawing / Including instructions for the preparation of engineering, architectural, and mechanical drawings., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

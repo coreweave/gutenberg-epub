@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71e986c5-8884-445c-8acd-afea01a53a88</dc:identifier>
+        <dc:title>A Dissertation on the Books of Origen against Celsus</dc:title>
+        <dc:creator opf:file-as="Cunningham, Francis" opf:role="aut">Francis Cunningham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52032</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Apologetics</dc:subject>
+        <dc:subject>Christianity</dc:subject>
+        <dc:subject>Origen. Contra Celsum</dc:subject>
+        <dc:subject>Celsus (Platonic philosopher)</dc:subject>
+        <dc:subject>active 180</dc:subject>
+        <dc:subject>active 180. Alethes logos</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Cunningham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:40:01.926170+00:00"/>
+        <meta name="calibre:title_sort" content="Dissertation on the Books of Origen against Celsus, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

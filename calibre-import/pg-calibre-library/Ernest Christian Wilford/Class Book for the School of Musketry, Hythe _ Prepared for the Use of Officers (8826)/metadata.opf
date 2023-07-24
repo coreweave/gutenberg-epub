@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8826</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd796071-f4b1-48e0-9b2b-b42d5769aa3a</dc:identifier>
+        <dc:title>Class Book for the School of Musketry, Hythe / Prepared for the Use of Officers</dc:title>
+        <dc:creator opf:file-as="Wilford, Ernest Christian" opf:role="aut">Ernest Christian Wilford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60441</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Firearms</dc:subject>
+        <dc:subject>Military education</dc:subject>
+        <dc:subject>Gunpowder</dc:subject>
+        <dc:subject>Shooting</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Christian Wilford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:18:19.453497+00:00"/>
+        <meta name="calibre:title_sort" content="Class Book for the School of Musketry, Hythe / Prepared for the Use of Officers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

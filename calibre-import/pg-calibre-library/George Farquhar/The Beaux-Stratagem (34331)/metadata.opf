@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77777197-13ba-46d1-b83e-efd448b1a437</dc:identifier>
+        <dc:title>The Beaux-Stratagem</dc:title>
+        <dc:creator opf:file-as="Farquhar, George" opf:role="aut">George Farquhar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21334</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English drama (Comedy)</dc:subject>
+        <dc:subject>Comedies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Farquhar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:41:31.585951+00:00"/>
+        <meta name="calibre:title_sort" content="Beaux-Stratagem, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8886985-e2c3-4599-9f76-36a7ef970587</dc:identifier>
+        <dc:title>Suzanna Stirs the Fire</dc:title>
+        <dc:creator opf:file-as="Blake, Emily Calvin" opf:role="aut">Emily Calvin Blake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18499</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emily Calvin Blake&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:03:40.369990+00:00"/>
+        <meta name="calibre:title_sort" content="Suzanna Stirs the Fire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

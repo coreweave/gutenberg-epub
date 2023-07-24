@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8c9b9dc-c5fe-424e-b616-a49ce20803a0</dc:identifier>
+        <dc:title>The Visions of England / Lyrics on leading men and events in English History</dc:title>
+        <dc:creator opf:file-as="Palgrave, Francis Turner" opf:role="aut">Francis Turner Palgrave</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Turner Palgrave&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:59:34.058696+00:00"/>
+        <meta name="calibre:title_sort" content="Visions of England / Lyrics on leading men and events in English History, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

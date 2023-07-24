@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd0161e8-aab0-4772-80b8-f5e593e5ee45</dc:identifier>
+        <dc:title>Reels and Spindles: A Story of Mill Life</dc:title>
+        <dc:creator opf:file-as="Raymond, Evelyn" opf:role="aut">Evelyn Raymond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27613</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mills and mill-work -- Fiction</dc:subject>
+        <dc:subject>Girls -- Conduct of life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evelyn Raymond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:05:06.039527+00:00"/>
+        <meta name="calibre:title_sort" content="Reels and Spindles: A Story of Mill Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

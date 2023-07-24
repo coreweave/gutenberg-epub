@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8e42e65-96e4-4478-bca4-45954c9569f3</dc:identifier>
+        <dc:title>The Wallet of Kai Lung</dc:title>
+        <dc:creator opf:file-as="Bramah, Ernest" opf:role="aut">Ernest Bramah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1076</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Kai Lung (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Bramah&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:03:56.591900+00:00"/>
+        <meta name="calibre:title_sort" content="Wallet of Kai Lung, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

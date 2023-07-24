@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d90e72d2-8233-4c7f-8fc9-3f1c9d1fe781</dc:identifier>
+        <dc:title>Chatterton</dc:title>
+        <dc:creator opf:file-as="Lacy, Ernest" opf:role="aut">Ernest Lacy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63327</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets -- Drama</dc:subject>
+        <dc:subject>Chatterton</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1752-1770 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Lacy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:06:46.631403+00:00"/>
+        <meta name="calibre:title_sort" content="Chatterton"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

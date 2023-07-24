@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c12b5f9-3eda-4cd6-aadb-9a4026791702</dc:identifier>
+        <dc:title>Over the Pass</dc:title>
+        <dc:creator opf:file-as="Palmer, Frederick" opf:role="aut">Frederick Palmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10932</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Fathers and sons -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Children of the rich -- Fiction</dc:subject>
+        <dc:subject>Arizona -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Palmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:50:19.523130+00:00"/>
+        <meta name="calibre:title_sort" content="Over the Pass"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

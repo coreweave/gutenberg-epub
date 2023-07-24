@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edd799f6-d50d-4240-a943-3cb788cf6b80</dc:identifier>
+        <dc:title>Apollonius of Tyana, the Philosopher-Reformer of the First Century A.D.</dc:title>
+        <dc:creator opf:file-as="Mead, G. R. S. (George Robert Stow)" opf:role="aut">G. R. S. Mead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35460</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Apollonius</dc:subject>
+        <dc:subject>of Tyana</dc:subject>
+        <dc:subject>Philosophers -- Greece -- Biography</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ancient -- Oriental influences</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. R. S. Mead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:50:42.586824+00:00"/>
+        <meta name="calibre:title_sort" content="Apollonius of Tyana, the Philosopher-Reformer of the First Century A.D."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

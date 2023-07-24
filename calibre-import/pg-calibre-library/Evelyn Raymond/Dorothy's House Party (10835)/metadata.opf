@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd5a5a2e-ad65-4ad0-bfbc-3efbe5d875d3</dc:identifier>
+        <dc:title>Dorothy's House Party</dc:title>
+        <dc:creator opf:file-as="Raymond, Evelyn" opf:role="aut">Evelyn Raymond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28805</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Entertaining -- Juvenile fiction</dc:subject>
+        <dc:subject>Circus -- Juvenile fiction</dc:subject>
+        <dc:subject>Best friends -- Juvenile fiction</dc:subject>
+        <dc:subject>Chester</dc:subject>
+        <dc:subject>Dorothy (Fictitious character) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evelyn Raymond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:10:20.201908+00:00"/>
+        <meta name="calibre:title_sort" content="Dorothy's House Party"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e3835f0-c6d7-4e0a-b173-42a92416eadf</dc:identifier>
+        <dc:title>Some do not...: A novel</dc:title>
+        <dc:creator opf:file-as="Ford, Ford Madox" opf:role="aut">Ford Madox Ford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64248</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Social aspects -- England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ford Madox Ford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:08:17.079355+00:00"/>
+        <meta name="calibre:title_sort" content="Some do not...: A novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

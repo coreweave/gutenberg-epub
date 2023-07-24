@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03355d2a-b261-44eb-8a84-d1bf4e195b4e</dc:identifier>
+        <dc:title>The Mentor: American Naturalists, Vol. 7, Num. 9, Serial No. 181, June 15, 1919</dc:title>
+        <dc:creator opf:file-as="Ingersoll, Ernest" opf:role="aut">Ernest Ingersoll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46482</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Naturalists -- United States -- Biography</dc:subject>
+        <dc:subject>Natural history -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Ingersoll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:36:08.614154+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: American Naturalists, Vol. 7, Num. 9, Serial No. 181, June 15, 1919, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

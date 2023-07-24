@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01ad94dd-7a58-4013-bcbf-c758cccd8c74</dc:identifier>
+        <dc:title>Anti-Slavery Opinions before the Year 1800 / Read before the Cincinnati Literary Club, November 16, 1872</dc:title>
+        <dc:creator opf:file-as="Buchanan, George" opf:role="aut">George Buchanan</dc:creator>
+        <dc:creator opf:file-as="Buchanan, George" opf:role="aut">William Frederick Poole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23956</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Antislavery movements -- United States</dc:subject>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Buchanan&quot;: &quot;&quot;, &quot;William Frederick Poole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:49:47.668619+00:00"/>
+        <meta name="calibre:title_sort" content="Anti-Slavery Opinions before the Year 1800 / Read before the Cincinnati Literary Club, November 16, 1872"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5622368b-242d-418d-9d45-43fbec03166a</dc:identifier>
+        <dc:title>Through the Sikh War: A Tale of the Conquest of the Punjaub</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53717</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Soldiers -- Juvenile fiction</dc:subject>
+        <dc:subject>Courage -- Juvenile fiction</dc:subject>
+        <dc:subject>Massacres -- Juvenile fiction</dc:subject>
+        <dc:subject>Sikh War</dc:subject>
+        <dc:subject>1848-1849 -- Juvenile fiction</dc:subject>
+        <dc:subject>India -- History -- 19th century -- Juvenile fiction</dc:subject>
+        <dc:subject>Punjab (India) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:32:14.149325+00:00"/>
+        <meta name="calibre:title_sort" content="Through the Sikh War: A Tale of the Conquest of the Punjaub"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

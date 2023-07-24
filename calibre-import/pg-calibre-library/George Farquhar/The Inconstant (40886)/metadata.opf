@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b813ae21-6c14-4e2f-afcb-7eeb7eeeb739</dc:identifier>
+        <dc:title>The Inconstant</dc:title>
+        <dc:creator opf:file-as="Farquhar, George" opf:role="aut">George Farquhar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35961</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>English drama -- 18th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Farquhar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:18:26.551842+00:00"/>
+        <meta name="calibre:title_sort" content="Inconstant, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

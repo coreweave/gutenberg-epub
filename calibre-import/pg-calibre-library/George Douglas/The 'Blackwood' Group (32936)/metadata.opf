@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4efe42eb-c992-414c-9e74-e191a39039a0</dc:identifier>
+        <dc:title>The 'Blackwood' Group</dc:title>
+        <dc:creator opf:file-as="Douglas, George" opf:role="aut">George Douglas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34876</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wilson</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1785-1854</dc:subject>
+        <dc:subject>Galt</dc:subject>
+        <dc:subject>1779-1839</dc:subject>
+        <dc:subject>Moir</dc:subject>
+        <dc:subject>D. M. (David Macbeth)</dc:subject>
+        <dc:subject>1798-1851</dc:subject>
+        <dc:subject>Ferrier</dc:subject>
+        <dc:subject>Susan</dc:subject>
+        <dc:subject>1782-1854</dc:subject>
+        <dc:subject>Scott</dc:subject>
+        <dc:subject>Michael</dc:subject>
+        <dc:subject>1789-1835</dc:subject>
+        <dc:subject>Hamilton</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1789-1842</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Douglas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:33:08.206620+00:00"/>
+        <meta name="calibre:title_sort" content="Blackwood' Group, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

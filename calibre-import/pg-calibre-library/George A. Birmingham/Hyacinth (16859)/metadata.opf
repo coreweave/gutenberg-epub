@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba4a94e5-7a2b-4af3-95f9-c1ff8a73ea25</dc:identifier>
+        <dc:title>Hyacinth</dc:title>
+        <dc:creator opf:file-as="Birmingham, George A." opf:role="aut">George A. Birmingham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10538</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Ireland -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George A. Birmingham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:13:51.186512+00:00"/>
+        <meta name="calibre:title_sort" content="Hyacinth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4aeee0a6-899c-441d-a7ab-4502ebccc8f9</dc:identifier>
+        <dc:title>Memoirs of Miss Sidney Biddulph / Extracted from her own Journal, and now first published</dc:title>
+        <dc:creator opf:file-as="Sheridan, Frances Chamberlaine" opf:role="aut">Frances Chamberlaine Sheridan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43437</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English fiction -- 18th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frances Chamberlaine Sheridan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:12:09.502896+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Miss Sidney Biddulph / Extracted from her own Journal, and now first published"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

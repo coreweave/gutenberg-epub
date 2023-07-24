@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">760e0d18-8f4b-43cb-87fc-3499990a6ef1</dc:identifier>
+        <dc:title>An Examination of Weismannism</dc:title>
+        <dc:creator opf:file-as="Romanes, George John" opf:role="aut">George John Romanes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49458</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Heredity</dc:subject>
+        <dc:subject>Weismann</dc:subject>
+        <dc:subject>August</dc:subject>
+        <dc:subject>1834-1914</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George John Romanes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:40:59.889824+00:00"/>
+        <meta name="calibre:title_sort" content="Examination of Weismannism, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e49e2e1a-9432-4939-b5a6-e3fdcf6a7df0</dc:identifier>
+        <dc:title>A Gift For Terra</dc:title>
+        <dc:creator opf:file-as="Holden, Fox B." opf:role="aut">Fox B. Holden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Martians -- Fiction</dc:subject>
+        <dc:subject>Mars (Planet) -- Fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fox B. Holden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:42:53.385920+00:00"/>
+        <meta name="calibre:title_sort" content="Gift For Terra, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb14debc-c1fe-4ded-bb8b-64f62c786f3c</dc:identifier>
+        <dc:title>Half Hours With Modern Scientists: Lectures and Essays</dc:title>
+        <dc:creator opf:file-as="Barker, George F. (George Frederick)" opf:role="aut">George F. Barker</dc:creator>
+        <dc:creator opf:file-as="Barker, George F. (George Frederick)" opf:role="aut">E. D. Cope</dc:creator>
+        <dc:creator opf:file-as="Barker, George F. (George Frederick)" opf:role="aut">Thomas Henry Huxley</dc:creator>
+        <dc:creator opf:file-as="Barker, George F. (George Frederick)" opf:role="aut">James Hutchison Stirling</dc:creator>
+        <dc:creator opf:file-as="Barker, George F. (George Frederick)" opf:role="aut">John Tyndall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66177</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George F. Barker&quot;: &quot;&quot;, &quot;E. D. Cope&quot;: &quot;&quot;, &quot;Thomas Henry Huxley&quot;: &quot;&quot;, &quot;James Hutchison Stirling&quot;: &quot;&quot;, &quot;John Tyndall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:05:42.882422+00:00"/>
+        <meta name="calibre:title_sort" content="Half Hours With Modern Scientists: Lectures and Essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

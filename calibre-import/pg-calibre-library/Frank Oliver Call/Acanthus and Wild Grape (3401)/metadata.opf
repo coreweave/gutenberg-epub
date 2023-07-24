@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20faf794-fcd3-4f20-9092-bcb8f13633be</dc:identifier>
+        <dc:title>Acanthus and Wild Grape</dc:title>
+        <dc:creator opf:file-as="Call, Frank Oliver" opf:role="aut">Frank Oliver Call</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33552</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Oliver Call&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:21:48.896056+00:00"/>
+        <meta name="calibre:title_sort" content="Acanthus and Wild Grape"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

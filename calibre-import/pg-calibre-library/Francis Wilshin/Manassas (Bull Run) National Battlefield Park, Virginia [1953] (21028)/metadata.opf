@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d55dbf0d-5ab3-4e20-a6e1-f1f864e9daac</dc:identifier>
+        <dc:title>Manassas (Bull Run) National Battlefield Park, Virginia [1953]</dc:title>
+        <dc:creator opf:file-as="Wilshin, Francis" opf:role="aut">Francis Wilshin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47247</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>Bull Run</dc:subject>
+        <dc:subject>1st Battle of</dc:subject>
+        <dc:subject>Va.</dc:subject>
+        <dc:subject>1861</dc:subject>
+        <dc:subject>2nd Battle of</dc:subject>
+        <dc:subject>1862</dc:subject>
+        <dc:subject>Manassas National Battlefield Park (Va.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Wilshin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:43:25.595150+00:00"/>
+        <meta name="calibre:title_sort" content="Manassas (Bull Run) National Battlefield Park, Virginia [1953]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

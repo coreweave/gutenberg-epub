@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48e1aa33-4f5f-4ea5-9d70-a24e5d7bc4e1</dc:identifier>
+        <dc:title>The Remarkable History of the Hudson's Bay Company / Including that of the French Traders of North-Western Canada and of the North-West, XY, and Astor Fur Companies</dc:title>
+        <dc:creator opf:file-as="Bryce, George" opf:role="aut">George Bryce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44312</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Canadian -- History</dc:subject>
+        <dc:subject>Hudson's Bay Company</dc:subject>
+        <dc:subject>North West Company</dc:subject>
+        <dc:subject>XY Company</dc:subject>
+        <dc:subject>Fur trade -- Northwest</dc:subject>
+        <dc:subject>Canadian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Bryce&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:37:19.515100+00:00"/>
+        <meta name="calibre:title_sort" content="Remarkable History of the Hudson's Bay Company / Including that of the French Traders of North-Western Canada and of the North-West, XY, and Astor Fur Companies, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

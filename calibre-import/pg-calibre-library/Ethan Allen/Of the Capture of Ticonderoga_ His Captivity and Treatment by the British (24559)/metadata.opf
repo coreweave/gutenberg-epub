@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a99319a-a5dd-487d-8458-3f5b304bb9f8</dc:identifier>
+        <dc:title>Of the Capture of Ticonderoga: His Captivity and Treatment by the British</dc:title>
+        <dc:creator opf:file-as="Allen, Ethan" opf:role="aut">Ethan Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42341</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Prisoners and prisons -- Personal narratives</dc:subject>
+        <dc:subject>Allen</dc:subject>
+        <dc:subject>Ethan</dc:subject>
+        <dc:subject>1738-1789</dc:subject>
+        <dc:subject>Ticonderoga (N.Y.) -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ethan Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:10:01.599335+00:00"/>
+        <meta name="calibre:title_sort" content="Of the Capture of Ticonderoga: His Captivity and Treatment by the British"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

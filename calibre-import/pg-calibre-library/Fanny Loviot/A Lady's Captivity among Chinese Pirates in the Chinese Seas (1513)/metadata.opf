@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8991d867-27db-4639-9e47-fa3725fa9a0e</dc:identifier>
+        <dc:title>A Lady's Captivity among Chinese Pirates in the Chinese Seas</dc:title>
+        <dc:creator opf:file-as="Loviot, Fanny" opf:role="aut">Fanny Loviot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34167</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages around the world</dc:subject>
+        <dc:subject>Loviot</dc:subject>
+        <dc:subject>Fanny -- Travel</dc:subject>
+        <dc:subject>Pirates -- China</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fanny Loviot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:14.039506+00:00"/>
+        <meta name="calibre:title_sort" content="Lady's Captivity among Chinese Pirates in the Chinese Seas, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2158acaf-a2ea-49cb-a00b-c8593f1d7531</dc:identifier>
+        <dc:title>The Boys' Book of Model Aeroplanes / How to Build and Fly Them: With the Story of the Evolution of the Flying Machine</dc:title>
+        <dc:creator opf:file-as="Collins, Francis A. (Francis Arnold)" opf:role="aut">Francis A. Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Aeronautics</dc:subject>
+        <dc:subject>Airplanes -- Models</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis A. Collins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:28:28.378590+00:00"/>
+        <meta name="calibre:title_sort" content="Boys' Book of Model Aeroplanes / How to Build and Fly Them: With the Story of the Evolution of the Flying Machine, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

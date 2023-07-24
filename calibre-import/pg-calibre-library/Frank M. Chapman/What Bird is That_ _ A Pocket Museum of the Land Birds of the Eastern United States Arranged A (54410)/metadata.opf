@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b45d8d9-92a0-4768-b65b-958f7a9ba706</dc:identifier>
+        <dc:title>What Bird is That? / A Pocket Museum of the Land Birds of the Eastern United States Arranged According to Season</dc:title>
+        <dc:creator opf:file-as="Chapman, Frank M. (Frank Michler)" opf:role="aut">Frank M. Chapman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31751</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank M. Chapman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:49:21.063607+00:00"/>
+        <meta name="calibre:title_sort" content="What Bird is That? / A Pocket Museum of the Land Birds of the Eastern United States Arranged According to Season"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

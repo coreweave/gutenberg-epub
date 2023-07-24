@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ff720b8-5db0-4cd9-a262-3b04d2e6bfc6</dc:identifier>
+        <dc:title>The Book of the Fly / A nature study of the house-fly and its kin, the fly plague and a cure</dc:title>
+        <dc:creator opf:file-as="George Hurlstone Hardy" opf:role="aut">George Hurlstone Hardy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56129</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Flies</dc:subject>
+        <dc:subject>Insect pests</dc:subject>
+        <dc:subject>Housefly</dc:subject>
+        <dc:subject>Flies -- Control</dc:subject>
+        <dc:subject>Housefly -- Control</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Hurlstone Hardy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:12:34.540412+00:00"/>
+        <meta name="calibre:title_sort" content="Book of the Fly / A nature study of the house-fly and its kin, the fly plague and a cure, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

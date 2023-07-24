@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfb78eaa-fc99-4774-a214-6199c0c0ed8a</dc:identifier>
+        <dc:title>Under Drake's Flag: A Tale of the Spanish Main</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19206</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Seafaring life -- Juvenile fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Elizabeth</dc:subject>
+        <dc:subject>1558-1603 -- Juvenile fiction</dc:subject>
+        <dc:subject>Drake</dc:subject>
+        <dc:subject>Francis</dc:subject>
+        <dc:subject>approximately 1540-1596 -- Juvenile fiction</dc:subject>
+        <dc:subject>Spanish Main -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:46:26.711774+00:00"/>
+        <meta name="calibre:title_sort" content="Under Drake's Flag: A Tale of the Spanish Main"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

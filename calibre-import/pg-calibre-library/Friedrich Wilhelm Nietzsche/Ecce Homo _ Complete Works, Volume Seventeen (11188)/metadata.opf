@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5bc72ce-76d3-4a84-a76e-0fb6c237233e</dc:identifier>
+        <dc:title>Ecce Homo / Complete Works, Volume Seventeen</dc:title>
+        <dc:creator opf:file-as="Nietzsche, Friedrich Wilhelm" opf:role="aut">Friedrich Wilhelm Nietzsche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52190</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nietzsche</dc:subject>
+        <dc:subject>Friedrich Wilhelm</dc:subject>
+        <dc:subject>1844-1900</dc:subject>
+        <dc:subject>Philosophers -- Germany -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Friedrich Wilhelm Nietzsche&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:19:51.271105+00:00"/>
+        <meta name="calibre:title_sort" content="Ecce Homo / Complete Works, Volume Seventeen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

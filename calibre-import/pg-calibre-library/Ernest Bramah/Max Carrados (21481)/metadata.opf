@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c879dee2-4229-4c60-8e14-07b63ea178b4</dc:identifier>
+        <dc:title>Max Carrados</dc:title>
+        <dc:creator opf:file-as="Bramah, Ernest" opf:role="aut">Ernest Bramah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Private investigators -- Fiction</dc:subject>
+        <dc:subject>Blind -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Bramah&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:01:06.355186+00:00"/>
+        <meta name="calibre:title_sort" content="Max Carrados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bab05971-687b-4911-8473-a7e215d513cb</dc:identifier>
+        <dc:title>Darkest India / A Supplement to General Booth's "In Darkest England, and the Way Out"</dc:title>
+        <dc:creator opf:file-as="Booth-Tucker, Frederick St. George De Lautour" opf:role="aut">Frederick St. George De Lautour Booth-Tucker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>India -- Social conditions</dc:subject>
+        <dc:subject>Poor -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick St. George De Lautour Booth-Tucker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:45:44.652182+00:00"/>
+        <meta name="calibre:title_sort" content="Darkest India / A Supplement to General Booth's &quot;In Darkest England, and the Way Out&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

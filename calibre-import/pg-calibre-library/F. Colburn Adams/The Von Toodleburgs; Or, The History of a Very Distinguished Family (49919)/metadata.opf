@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c6ff641-01a5-4b9f-988b-11e4121d1514</dc:identifier>
+        <dc:title>The Von Toodleburgs; Or, The History of a Very Distinguished Family</dc:title>
+        <dc:creator opf:file-as="Adams, F. Colburn (Francis Colburn)" opf:role="aut">F. Colburn Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Treasure troves -- Fiction</dc:subject>
+        <dc:subject>New York (State) -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Families -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Colburn Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:01:21.178924+00:00"/>
+        <meta name="calibre:title_sort" content="Von Toodleburgs; Or, The History of a Very Distinguished Family, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

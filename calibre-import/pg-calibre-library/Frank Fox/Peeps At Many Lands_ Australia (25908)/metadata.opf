@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">025ee20c-d949-4215-90d7-7eb1537ccccc</dc:identifier>
+        <dc:title>Peeps At Many Lands: Australia</dc:title>
+        <dc:creator opf:file-as="Fox, Frank" opf:role="aut">Frank Fox</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25976</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Description and travel</dc:subject>
+        <dc:subject>Australia -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Fox&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:06:53.000059+00:00"/>
+        <meta name="calibre:title_sort" content="Peeps At Many Lands: Australia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

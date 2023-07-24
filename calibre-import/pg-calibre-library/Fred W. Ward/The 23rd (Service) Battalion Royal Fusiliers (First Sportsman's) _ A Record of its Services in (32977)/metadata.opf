@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d569e1d7-7e80-4d69-9d31-7db84f4b8b2f</dc:identifier>
+        <dc:title>The 23rd (Service) Battalion Royal Fusiliers (First Sportsman's) / A Record of its Services in the Great War, 1914-1919</dc:title>
+        <dc:creator opf:file-as="Ward, Fred W." opf:role="aut">Fred W. Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20377</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Regimental histories -- Great Britain</dc:subject>
+        <dc:subject>Great Britain. Army. 23rd Royal Fusiliers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fred W. Ward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:35:08.221122+00:00"/>
+        <meta name="calibre:title_sort" content="23rd (Service) Battalion Royal Fusiliers (First Sportsman's) / A Record of its Services in the Great War, 1914-1919, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

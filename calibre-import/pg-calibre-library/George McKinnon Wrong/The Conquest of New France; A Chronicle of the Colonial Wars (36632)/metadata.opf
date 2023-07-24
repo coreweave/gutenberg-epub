@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ccde27f-37dc-458e-9b46-fefb4d17f5e5</dc:identifier>
+        <dc:title>The Conquest of New France; A Chronicle of the Colonial Wars</dc:title>
+        <dc:creator opf:file-as="Wrong, George McKinnon" opf:role="aut">George McKinnon Wrong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3092</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>Canada -- History -- To 1763 (New France)</dc:subject>
+        <dc:subject>United States -- History -- French and Indian War</dc:subject>
+        <dc:subject>1754-1763</dc:subject>
+        <dc:subject>United States -- History -- Queen Anne's War</dc:subject>
+        <dc:subject>1702-1713</dc:subject>
+        <dc:subject>United States -- History -- King William's War</dc:subject>
+        <dc:subject>1689-1697</dc:subject>
+        <dc:subject>United States -- History -- King George's War</dc:subject>
+        <dc:subject>1744-1748</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George McKinnon Wrong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:36:22.177596+00:00"/>
+        <meta name="calibre:title_sort" content="Conquest of New France; A Chronicle of the Colonial Wars, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

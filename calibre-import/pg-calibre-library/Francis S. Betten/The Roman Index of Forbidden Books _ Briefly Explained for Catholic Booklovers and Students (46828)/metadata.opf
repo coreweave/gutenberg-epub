@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46828</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d15d0c46-1ff6-43fa-ad9a-391917ffe010</dc:identifier>
+        <dc:title>The Roman Index of Forbidden Books / Briefly Explained for Catholic Booklovers and Students</dc:title>
+        <dc:creator opf:file-as="Betten, Francis S. (Francis Sales)" opf:role="aut">Francis S. Betten</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61165</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Prohibited books</dc:subject>
+        <dc:subject>Index librorum prohibitorum</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis S. Betten&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:54:06.361801+00:00"/>
+        <meta name="calibre:title_sort" content="Roman Index of Forbidden Books / Briefly Explained for Catholic Booklovers and Students, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

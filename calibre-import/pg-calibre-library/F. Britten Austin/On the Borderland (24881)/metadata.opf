@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24881</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92f67701-f929-4366-a699-94354068f463</dc:identifier>
+        <dc:title>On the Borderland</dc:title>
+        <dc:creator opf:file-as="Austin, F. Britten (Frederick Britten)" opf:role="aut">F. Britten Austin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65837</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>English fiction -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Britten Austin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:23:27.256489+00:00"/>
+        <meta name="calibre:title_sort" content="On the Borderland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0ae3bbe-5cc0-47a4-906d-16256d02d57a</dc:identifier>
+        <dc:title>Body, Parentage and Character in History: Notes on the Tudor Period</dc:title>
+        <dc:creator opf:file-as="Jordan, Furneaux" opf:role="aut">Furneaux Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36993</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Elizabeth I</dc:subject>
+        <dc:subject>Queen of England</dc:subject>
+        <dc:subject>1533-1603</dc:subject>
+        <dc:subject>Character</dc:subject>
+        <dc:subject>Great Britain -- History -- Tudors</dc:subject>
+        <dc:subject>1485-1603</dc:subject>
+        <dc:subject>Heredity</dc:subject>
+        <dc:subject>Mary</dc:subject>
+        <dc:subject>Queen of Scots</dc:subject>
+        <dc:subject>1542-1587</dc:subject>
+        <dc:subject>Henry VIII</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1491-1547</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Furneaux Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:52.313658+00:00"/>
+        <meta name="calibre:title_sort" content="Body, Parentage and Character in History: Notes on the Tudor Period"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

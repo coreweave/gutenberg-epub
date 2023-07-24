@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94a1d00f-04ad-4383-a7b0-4a09b7e8b2ac</dc:identifier>
+        <dc:title>Legends of the Bastille</dc:title>
+        <dc:creator opf:file-as="Funck-Brentano, Frantz" opf:role="aut">Frantz Funck-Brentano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43231</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Latude</dc:subject>
+        <dc:subject>Henri Masers de</dc:subject>
+        <dc:subject>1725-1805</dc:subject>
+        <dc:subject>Bastille</dc:subject>
+        <dc:subject>Mattioli</dc:subject>
+        <dc:subject>Ercole Antonio</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>1640-1703</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frantz Funck-Brentano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:44:23.391627+00:00"/>
+        <meta name="calibre:title_sort" content="Legends of the Bastille"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

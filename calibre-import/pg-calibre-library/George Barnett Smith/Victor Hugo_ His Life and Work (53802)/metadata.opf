@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b32c1bf4-7085-4a77-b8c7-ddae0f465e7a</dc:identifier>
+        <dc:title>Victor Hugo: His Life and Work</dc:title>
+        <dc:creator opf:file-as="Smith, George Barnett" opf:role="aut">George Barnett Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37635</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>French -- 19th century -- Biography</dc:subject>
+        <dc:subject>Hugo</dc:subject>
+        <dc:subject>Victor</dc:subject>
+        <dc:subject>1802-1885</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Barnett Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:09:50.894552+00:00"/>
+        <meta name="calibre:title_sort" content="Victor Hugo: His Life and Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

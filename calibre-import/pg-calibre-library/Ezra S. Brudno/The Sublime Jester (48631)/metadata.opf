@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6053b08e-6818-4cff-bfa0-f2579a2b6219</dc:identifier>
+        <dc:title>The Sublime Jester</dc:title>
+        <dc:creator opf:file-as="Brudno, Ezra S." opf:role="aut">Ezra S. Brudno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65313</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Heine</dc:subject>
+        <dc:subject>Heinrich</dc:subject>
+        <dc:subject>1797-1856 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ezra S. Brudno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:41:12.620089+00:00"/>
+        <meta name="calibre:title_sort" content="Sublime Jester, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

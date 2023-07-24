@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">886a6af8-4f32-4616-aae6-bdeb418ebd2c</dc:identifier>
+        <dc:title>Great Britain and the American Civil War</dc:title>
+        <dc:creator opf:file-as="Adams, Ephraim Douglass" opf:role="aut">Ephraim Douglass Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13789</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Foreign public opinion</dc:subject>
+        <dc:subject>United States -- Foreign relations -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Foreign relations -- United States</dc:subject>
+        <dc:subject>United States -- Foreign relations -- 1861-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ephraim Douglass Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:57:28.670116+00:00"/>
+        <meta name="calibre:title_sort" content="Great Britain and the American Civil War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

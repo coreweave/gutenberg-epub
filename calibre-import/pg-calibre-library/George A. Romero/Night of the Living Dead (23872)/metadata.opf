@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23872</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b0d1931-617e-4b1a-b65e-e6eb5090c1e4</dc:identifier>
+        <dc:title>Night of the Living Dead</dc:title>
+        <dc:creator opf:file-as="Romero, George A." opf:role="aut">George A. Romero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23053</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dead -- Drama</dc:subject>
+        <dc:subject>Radiation -- Drama</dc:subject>
+        <dc:subject>Cannibalism -- Drama</dc:subject>
+        <dc:subject>Zombie films</dc:subject>
+        <dc:subject>Horror films</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George A. Romero&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:40:34.398854+00:00"/>
+        <meta name="calibre:title_sort" content="Night of the Living Dead"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

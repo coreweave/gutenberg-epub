@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c88daf4e-0232-41bc-a05c-53f06ef4b696</dc:identifier>
+        <dc:title>A Glossary of Words used in the Country of Wiltshire</dc:title>
+        <dc:creator opf:file-as="Dartnell, George Edward" opf:role="aut">George Edward Dartnell</dc:creator>
+        <dc:creator opf:file-as="Dartnell, George Edward" opf:role="aut">E. H. Goddard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45809</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English language -- Glossaries</dc:subject>
+        <dc:subject>vocabularies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>English language -- Dialects -- England -- Wiltshire</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Edward Dartnell&quot;: &quot;&quot;, &quot;E. H. Goddard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:43:14.534591+00:00"/>
+        <meta name="calibre:title_sort" content="Glossary of Words used in the Country of Wiltshire, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

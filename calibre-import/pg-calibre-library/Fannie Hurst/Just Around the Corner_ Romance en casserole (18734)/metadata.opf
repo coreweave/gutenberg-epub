@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b7f11cb-40e7-4d8e-b52e-542cb7ffe40c</dc:identifier>
+        <dc:title>Just Around the Corner: Romance en casserole</dc:title>
+        <dc:creator opf:file-as="Hurst, Fannie" opf:role="aut">Fannie Hurst</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fannie Hurst&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:18:34.811449+00:00"/>
+        <meta name="calibre:title_sort" content="Just Around the Corner: Romance en casserole"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

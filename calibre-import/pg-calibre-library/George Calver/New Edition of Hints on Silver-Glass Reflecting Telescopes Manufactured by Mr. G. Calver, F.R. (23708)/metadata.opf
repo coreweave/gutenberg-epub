@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ecd25de-8b20-45bd-bfab-a1751218713d</dc:identifier>
+        <dc:title>New Edition of Hints on Silver-Glass Reflecting Telescopes Manufactured by Mr. G. Calver, F.R.A.S. / with Directions for Silvering, Adjusting, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Calver, George" opf:role="aut">George Calver</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53494</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scientific apparatus and instruments</dc:subject>
+        <dc:subject>Reflecting telescopes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Calver&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:33:37.999160+00:00"/>
+        <meta name="calibre:title_sort" content="New Edition of Hints on Silver-Glass Reflecting Telescopes Manufactured by Mr. G. Calver, F.R.A.S. / with Directions for Silvering, Adjusting, &amp;c."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6850f5e2-5aa0-4d55-b84e-986911611883</dc:identifier>
+        <dc:title>Petrarch's Letters to Classical Authors</dc:title>
+        <dc:creator opf:file-as="Petrarca, Francesco" opf:role="aut">Francesco Petrarca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47859</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Petrarca</dc:subject>
+        <dc:subject>Francesco</dc:subject>
+        <dc:subject>1304-1374 -- Correspondence</dc:subject>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>Latin -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francesco Petrarca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:18:37.543065+00:00"/>
+        <meta name="calibre:title_sort" content="Petrarch's Letters to Classical Authors"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

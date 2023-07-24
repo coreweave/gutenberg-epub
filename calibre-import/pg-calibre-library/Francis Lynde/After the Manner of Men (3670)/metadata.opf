@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99a2235e-af3b-4883-931b-c8118003f816</dc:identifier>
+        <dc:title>After the Manner of Men</dc:title>
+        <dc:creator opf:file-as="Lynde, Francis" opf:role="aut">Francis Lynde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66631</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Cumberland Mountains -- Fiction</dc:subject>
+        <dc:subject>Tennessee -- Fiction</dc:subject>
+        <dc:subject>Mines and mineral resources -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Lynde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:42.947321+00:00"/>
+        <meta name="calibre:title_sort" content="After the Manner of Men"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

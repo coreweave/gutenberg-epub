@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef9be2f7-c7d1-4675-acb7-d4e52b18dc3e</dc:identifier>
+        <dc:title>The Story of Brussels</dc:title>
+        <dc:creator opf:file-as="Gilliat-Smith, Ernest" opf:role="aut">Ernest Gilliat-Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44314</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brussels (Belgium)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Gilliat-Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:16:14.681097+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Brussels, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

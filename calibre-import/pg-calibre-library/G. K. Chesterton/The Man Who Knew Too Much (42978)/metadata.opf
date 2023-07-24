@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">288d891f-ed73-4646-966f-9e0ec4ede45d</dc:identifier>
+        <dc:title>The Man Who Knew Too Much</dc:title>
+        <dc:creator opf:file-as="Chesterton, G. K. (Gilbert Keith)" opf:role="aut">G. K. Chesterton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1720</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Great Britain -- Fiction</dc:subject>
+        <dc:subject>Aristocracy (Social class) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. K. Chesterton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:13:36.795666+00:00"/>
+        <meta name="calibre:title_sort" content="Man Who Knew Too Much, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

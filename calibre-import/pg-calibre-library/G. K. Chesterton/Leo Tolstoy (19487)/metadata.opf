@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbce7f5f-2ded-4f08-818c-8056a7468efa</dc:identifier>
+        <dc:title>Leo Tolstoy</dc:title>
+        <dc:creator opf:file-as="Chesterton, G. K. (Gilbert Keith)" opf:role="aut">G. K. Chesterton</dc:creator>
+        <dc:creator opf:file-as="Chesterton, G. K. (Gilbert Keith)" opf:role="aut">Edward Garnett</dc:creator>
+        <dc:creator opf:file-as="Chesterton, G. K. (Gilbert Keith)" opf:role="aut">G. H. Perris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62045</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tolstoy</dc:subject>
+        <dc:subject>Leo</dc:subject>
+        <dc:subject>graf</dc:subject>
+        <dc:subject>1828-1910</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>Russian -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. K. Chesterton&quot;: &quot;&quot;, &quot;Edward Garnett&quot;: &quot;&quot;, &quot;G. H. Perris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:45:32.374576+00:00"/>
+        <meta name="calibre:title_sort" content="Leo Tolstoy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

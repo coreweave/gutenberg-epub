@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c55f2da1-ddb3-46cb-bac2-ebb8990cefab</dc:identifier>
+        <dc:title>The Fireside Chats of Franklin Delano Roosevelt / Radio Addresses to the American People Broadcast Between 1933 and 1944</dc:title>
+        <dc:creator opf:file-as="Roosevelt, Franklin D. (Franklin Delano)" opf:role="aut">Franklin D. Roosevelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5767</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Roosevelt</dc:subject>
+        <dc:subject>Franklin D. (Franklin Delano)</dc:subject>
+        <dc:subject>1882-1945 -- Oratory -- Sources</dc:subject>
+        <dc:subject>1882-1945 -- Political and social views -- Sources</dc:subject>
+        <dc:subject>Depressions -- 1929 -- United States -- Sources</dc:subject>
+        <dc:subject>New Deal</dc:subject>
+        <dc:subject>1933-1939 -- Sources</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1939-1945 -- United States -- Sources</dc:subject>
+        <dc:subject>United States -- Economic conditions -- 1918-1945 -- Sources</dc:subject>
+        <dc:subject>United States -- Economic policy -- 1933-1945 -- Sources</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1933-1945 -- Sources</dc:subject>
+        <dc:subject>United States -- Foreign relations -- 1933-1945 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Franklin D. Roosevelt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:13:54.192823+00:00"/>
+        <meta name="calibre:title_sort" content="Fireside Chats of Franklin Delano Roosevelt / Radio Addresses to the American People Broadcast Between 1933 and 1944, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

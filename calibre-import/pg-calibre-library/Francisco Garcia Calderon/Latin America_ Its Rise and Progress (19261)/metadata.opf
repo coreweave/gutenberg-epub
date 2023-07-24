@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d5e0677-7c2e-4223-b2a2-7b4184dd5f90</dc:identifier>
+        <dc:title>Latin America: Its Rise and Progress</dc:title>
+        <dc:creator opf:file-as="García Calderón, Francisco" opf:role="aut">Francisco García Calderón</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62541</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Latin America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francisco García Calderón&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:37:20.234792+00:00"/>
+        <meta name="calibre:title_sort" content="Latin America: Its Rise and Progress"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

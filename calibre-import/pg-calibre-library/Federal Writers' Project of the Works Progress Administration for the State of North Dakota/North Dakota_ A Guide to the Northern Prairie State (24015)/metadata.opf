@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ee93ac3-04d0-4fed-ab68-23588349e191</dc:identifier>
+        <dc:title>North Dakota: A Guide to the Northern Prairie State</dc:title>
+        <dc:creator opf:file-as="Federal Writers' Project of the Works Progress Administration for the State of North Dakota" opf:role="aut">Federal Writers' Project of the Works Progress Administration for the State of North Dakota</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46661</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>North Dakota</dc:subject>
+        <dc:subject>North Dakota -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Federal Writers' Project of the Works Progress Administration for the State of North Dakota&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:46:48.544472+00:00"/>
+        <meta name="calibre:title_sort" content="North Dakota: A Guide to the Northern Prairie State"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

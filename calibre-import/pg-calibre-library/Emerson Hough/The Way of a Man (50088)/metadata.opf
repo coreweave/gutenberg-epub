@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56bd662a-f32b-42b7-82dc-de6f08a636de</dc:identifier>
+        <dc:title>The Way of a Man</dc:title>
+        <dc:creator opf:file-as="Hough, Emerson" opf:role="aut">Emerson Hough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14362</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Overland journeys to the Pacific -- Fiction</dc:subject>
+        <dc:subject>Wagon trains -- Fiction</dc:subject>
+        <dc:subject>West (U.S.) -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emerson Hough&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:11:50.449947+00:00"/>
+        <meta name="calibre:title_sort" content="Way of a Man, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

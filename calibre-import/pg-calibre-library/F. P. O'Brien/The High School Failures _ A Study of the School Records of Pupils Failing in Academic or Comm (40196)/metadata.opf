@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45c22ef9-77aa-4a1c-b742-e124eb7b37e9</dc:identifier>
+        <dc:title>The High School Failures / A Study of the School Records of Pupils Failing in Academic or Commercial High School Subjects</dc:title>
+        <dc:creator opf:file-as="O'Brien, F. P." opf:role="aut">F. P. O'Brien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Underachievers</dc:subject>
+        <dc:subject>Academic achievement</dc:subject>
+        <dc:subject>High school dropouts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. P. O'Brien&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:41:05.290231+00:00"/>
+        <meta name="calibre:title_sort" content="High School Failures / A Study of the School Records of Pupils Failing in Academic or Commercial High School Subjects, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

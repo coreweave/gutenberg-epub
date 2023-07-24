@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff801861-e17f-49f3-8856-bf662aea9c8d</dc:identifier>
+        <dc:title>Chips from a German Workshop, Volume 1 / Essays on the Science of Religion</dc:title>
+        <dc:creator opf:file-as="Müller, F. Max (Friedrich Max)" opf:role="aut">F. Max Müller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore</dc:subject>
+        <dc:subject>Literature -- History and criticism</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Religions</dc:subject>
+        <dc:subject>Comparative linguistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Max Müller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:10:42.952587+00:00"/>
+        <meta name="calibre:title_sort" content="Chips from a German Workshop, Volume 1 / Essays on the Science of Religion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

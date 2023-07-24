@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8880</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f2cd4e5-671f-498c-ac8c-8bfde8e41311</dc:identifier>
+        <dc:title>Climatic Changes: Their Nature and Causes</dc:title>
+        <dc:creator opf:file-as="Huntington, Ellsworth" opf:role="aut">Ellsworth Huntington</dc:creator>
+        <dc:creator opf:file-as="Huntington, Ellsworth" opf:role="aut">Stephen Sargent Visher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37855</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Climatology</dc:subject>
+        <dc:subject>Paleoclimatology</dc:subject>
+        <dc:subject>Climatic changes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ellsworth Huntington&quot;: &quot;&quot;, &quot;Stephen Sargent Visher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:19:39.734399+00:00"/>
+        <meta name="calibre:title_sort" content="Climatic Changes: Their Nature and Causes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

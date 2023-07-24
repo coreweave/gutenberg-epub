@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24585232-894c-4f16-901d-80a549c343c2</dc:identifier>
+        <dc:title>Excavating a Husband</dc:title>
+        <dc:creator opf:file-as="Wallis, Ella Bell" opf:role="aut">Ella Bell Wallis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57975</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Single women -- Fiction</dc:subject>
+        <dc:subject>Siblings -- Fiction</dc:subject>
+        <dc:subject>Older people -- Fiction</dc:subject>
+        <dc:subject>Identity -- Fiction</dc:subject>
+        <dc:subject>Treasure hunting -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ella Bell Wallis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:46:40.596398+00:00"/>
+        <meta name="calibre:title_sort" content="Excavating a Husband"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

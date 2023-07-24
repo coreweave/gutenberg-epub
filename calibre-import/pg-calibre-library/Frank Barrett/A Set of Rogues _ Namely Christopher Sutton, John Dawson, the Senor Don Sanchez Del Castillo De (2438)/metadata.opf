@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">934c928d-33cf-42b0-8a96-ad4c8b72ebe0</dc:identifier>
+        <dc:title>A Set of Rogues / Namely Christopher Sutton, John Dawson, the Señor Don Sanchez Del Castillo De Castelaña and Moll Dawson; Their Wicked Conspiracy, and a True Account of Their Travels and Adventures</dc:title>
+        <dc:creator opf:file-as="Barrett, Frank" opf:role="aut">Frank Barrett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10727</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English fiction</dc:subject>
+        <dc:subject>Impostors and imposture -- Fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Fiction</dc:subject>
+        <dc:subject>Pirates -- Fiction</dc:subject>
+        <dc:subject>Rogues and vagabonds -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Charles II</dc:subject>
+        <dc:subject>1660-1685 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Barrett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:04:33.936949+00:00"/>
+        <meta name="calibre:title_sort" content="Set of Rogues / Namely Christopher Sutton, John Dawson, the Señor Don Sanchez Del Castillo De Castelaña and Moll Dawson; Their Wicked Conspiracy, and a True Account of Their Travels and Adventures, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

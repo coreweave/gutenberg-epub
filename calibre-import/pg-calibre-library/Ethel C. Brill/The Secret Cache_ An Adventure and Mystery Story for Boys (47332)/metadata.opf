@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdd24a96-32c6-451f-98d7-d283a89e69d1</dc:identifier>
+        <dc:title>The Secret Cache: An Adventure and Mystery Story for Boys</dc:title>
+        <dc:creator opf:file-as="Brill, Ethel C. (Ethel Claire)" opf:role="aut">Ethel C. Brill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43293</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Indians of North America -- Juvenile fiction</dc:subject>
+        <dc:subject>Superior</dc:subject>
+        <dc:subject>Lake -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ethel C. Brill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:23:50.517661+00:00"/>
+        <meta name="calibre:title_sort" content="Secret Cache: An Adventure and Mystery Story for Boys, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

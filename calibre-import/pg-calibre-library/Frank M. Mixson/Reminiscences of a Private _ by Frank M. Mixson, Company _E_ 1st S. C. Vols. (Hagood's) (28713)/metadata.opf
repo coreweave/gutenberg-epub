@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">968f7377-b62c-4c61-88c4-34ab2b1a4b21</dc:identifier>
+        <dc:title>Reminiscences of a Private / by Frank M. Mixson, Company "E" 1st S. C. Vols. (Hagood's)</dc:title>
+        <dc:creator opf:file-as="Mixson, Frank M." opf:role="aut">Frank M. Mixson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41616</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Confederate States of America. Army. South Carolina Infantry Regiment</dc:subject>
+        <dc:subject>1st</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank M. Mixson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:10:58.508215+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of a Private / by Frank M. Mixson, Company &quot;E&quot; 1st S. C. Vols. (Hagood's)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

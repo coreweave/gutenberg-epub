@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1112dc0c-9d24-4b60-9202-560c463042c8</dc:identifier>
+        <dc:title>Brick and Marble in the Middle Ages: Notes of Tours in the North of Italy</dc:title>
+        <dc:creator opf:file-as="Street, George Edmund" opf:role="aut">George Edmund Street</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46326</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Gothic</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>Architecture -- Italy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Edmund Street&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:35:41.388487+00:00"/>
+        <meta name="calibre:title_sort" content="Brick and Marble in the Middle Ages: Notes of Tours in the North of Italy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f3ed8a8-d3c9-4973-b007-041d40188d62</dc:identifier>
+        <dc:title>Domesday Book and Beyond: Three Essays in the Early History of England</dc:title>
+        <dc:creator opf:file-as="Maitland, Frederic William" opf:role="aut">Frederic William Maitland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43255</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Manuscripts</dc:subject>
+        <dc:subject>Medieval -- England</dc:subject>
+        <dc:subject>Great Britain -- History -- Anglo-Saxon period</dc:subject>
+        <dc:subject>449-1066</dc:subject>
+        <dc:subject>Great Britain -- History -- Norman period</dc:subject>
+        <dc:subject>1066-1154</dc:subject>
+        <dc:subject>England -- Economic conditions -- 1066-1485</dc:subject>
+        <dc:subject>Domesday book</dc:subject>
+        <dc:subject>Land tenure -- England -- History</dc:subject>
+        <dc:subject>Feudalism -- England -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic William Maitland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:07:27.418674+00:00"/>
+        <meta name="calibre:title_sort" content="Domesday Book and Beyond: Three Essays in the Early History of England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

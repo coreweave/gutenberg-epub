@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5928e0ab-0c20-4270-8bc4-e3e278b134a3</dc:identifier>
+        <dc:title>Napoleon's Letters to Josephine, 1796-1812 / For the First Time Collected and Translated, with Notes Social, Historical, and Chronological, from Contemporary Sources</dc:title>
+        <dc:creator opf:file-as="Napoleon I, Emperor of the French" opf:role="aut">Emperor of the French Napoleon I</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37499</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Correspondence</dc:subject>
+        <dc:subject>Josephine</dc:subject>
+        <dc:subject>Empress</dc:subject>
+        <dc:subject>consort of Napoleon I</dc:subject>
+        <dc:subject>1763-1814 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emperor of the French Napoleon I&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:23:10.321507+00:00"/>
+        <meta name="calibre:title_sort" content="Napoleon's Letters to Josephine, 1796-1812 / For the First Time Collected and Translated, with Notes Social, Historical, and Chronological, from Contemporary Sources"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

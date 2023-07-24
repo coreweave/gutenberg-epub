@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b08865c-77c2-4281-939d-c4d3823b35d2</dc:identifier>
+        <dc:title>The Candy Maker's Guide / A Collection of Choice Recipes for Sugar Boiling</dc:title>
+        <dc:creator opf:file-as="Fletcher Manufacturing Company" opf:role="aut">Fletcher Manufacturing Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30293</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Confectionery</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fletcher Manufacturing Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:48:35.661021+00:00"/>
+        <meta name="calibre:title_sort" content="Candy Maker's Guide / A Collection of Choice Recipes for Sugar Boiling, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

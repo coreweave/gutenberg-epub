@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a6e94f5-428b-4152-aa80-cfe4ed1621b4</dc:identifier>
+        <dc:title>Campaigns of a Non-Combatant, and His Romaunt Abroad During the War</dc:title>
+        <dc:creator opf:file-as="Townsend, George Alfred" opf:role="aut">George Alfred Townsend</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23340</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Italy -- Description and travel</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>England -- Description and travel</dc:subject>
+        <dc:subject>Townsend</dc:subject>
+        <dc:subject>George Alfred</dc:subject>
+        <dc:subject>1841-1914</dc:subject>
+        <dc:subject>War correspondents -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Alfred Townsend&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:46:44.720803+00:00"/>
+        <meta name="calibre:title_sort" content="Campaigns of a Non-Combatant, and His Romaunt Abroad During the War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

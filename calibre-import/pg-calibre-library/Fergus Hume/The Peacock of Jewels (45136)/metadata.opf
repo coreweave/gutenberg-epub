@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a32cec4b-a7aa-4247-9737-1dc8c6386401</dc:identifier>
+        <dc:title>The Peacock of Jewels</dc:title>
+        <dc:creator opf:file-as="Hume, Fergus" opf:role="aut">Fergus Hume</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56432</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Jewelry theft -- Fiction</dc:subject>
+        <dc:subject>Murder -- Investigation -- Fiction</dc:subject>
+        <dc:subject>Treasure troves -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fergus Hume&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:15:30.889255+00:00"/>
+        <meta name="calibre:title_sort" content="Peacock of Jewels, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

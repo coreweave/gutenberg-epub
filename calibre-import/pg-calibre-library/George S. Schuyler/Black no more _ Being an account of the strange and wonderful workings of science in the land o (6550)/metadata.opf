@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8563d62-1498-4a82-a248-dc134f5253b3</dc:identifier>
+        <dc:title>Black no more / Being an account of the strange and wonderful workings of science in the land of the free, A.D. 1933-1940</dc:title>
+        <dc:creator opf:file-as="Schuyler, George S. (George Samuel)" opf:role="aut">George S. Schuyler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68811</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Picaresque literature</dc:subject>
+        <dc:subject>African Americans -- Fiction</dc:subject>
+        <dc:subject>United States -- Race relations -- Fiction</dc:subject>
+        <dc:subject>Human skin color -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George S. Schuyler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:24:54.445729+00:00"/>
+        <meta name="calibre:title_sort" content="Black no more / Being an account of the strange and wonderful workings of science in the land of the free, A.D. 1933-1940"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

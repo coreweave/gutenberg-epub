@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d4e40e6-add8-4a75-937f-b9cf4eb183e7</dc:identifier>
+        <dc:title>The Witch Doctor and other Rhodesian Studies</dc:title>
+        <dc:creator opf:file-as="Worthington, Frank" opf:role="aut">Frank Worthington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34946</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Zambian (English)</dc:subject>
+        <dc:subject>Zambia -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Worthington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:31:05.138620+00:00"/>
+        <meta name="calibre:title_sort" content="Witch Doctor and other Rhodesian Studies, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55fc310b-f1c9-4034-8605-2ef525a1212f</dc:identifier>
+        <dc:title>Pigments, Paint and Painting: A practical book for practical men</dc:title>
+        <dc:creator opf:file-as="Terry, George" opf:role="aut">George Terry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56344</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paint</dc:subject>
+        <dc:subject>Pigments</dc:subject>
+        <dc:subject>Painting</dc:subject>
+        <dc:subject>Industrial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Terry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:28:55.395307+00:00"/>
+        <meta name="calibre:title_sort" content="Pigments, Paint and Painting: A practical book for practical men"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

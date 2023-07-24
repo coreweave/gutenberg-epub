@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb415b51-4cdd-476a-80f6-86332aa1ff80</dc:identifier>
+        <dc:title>Shakspeare and His Times</dc:title>
+        <dc:creator opf:file-as="Guizot, François" opf:role="aut">François Guizot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62602</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616</dc:subject>
+        <dc:subject>Dramatists</dc:subject>
+        <dc:subject>English -- Early modern</dc:subject>
+        <dc:subject>1500-1700 -- Biography</dc:subject>
+        <dc:subject>Stratford-upon-Avon (England) -- Biography</dc:subject>
+        <dc:subject>1564-1616 -- Stage history -- France</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;François Guizot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:31:41.417471+00:00"/>
+        <meta name="calibre:title_sort" content="Shakspeare and His Times"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

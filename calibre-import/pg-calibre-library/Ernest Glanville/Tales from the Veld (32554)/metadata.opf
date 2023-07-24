@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cc36c5e-626f-47b2-8908-c56398f9cd7e</dc:identifier>
+        <dc:title>Tales from the Veld</dc:title>
+        <dc:creator opf:file-as="Glanville, Ernest" opf:role="aut">Ernest Glanville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36602</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South Africa -- Fiction</dc:subject>
+        <dc:subject>Storytelling -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Glanville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:14:44.693868+00:00"/>
+        <meta name="calibre:title_sort" content="Tales from the Veld"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

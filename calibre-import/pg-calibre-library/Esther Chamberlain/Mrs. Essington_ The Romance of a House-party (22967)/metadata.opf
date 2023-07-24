@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e583e7e-3a33-43e5-9804-ea31f7978493</dc:identifier>
+        <dc:title>Mrs. Essington: The Romance of a House-party</dc:title>
+        <dc:creator opf:file-as="Chamberlain, Esther" opf:role="aut">Esther Chamberlain</dc:creator>
+        <dc:creator opf:file-as="Chamberlain, Esther" opf:role="aut">Lucia Chamberlain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56705</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Country homes -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>California -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Esther Chamberlain&quot;: &quot;&quot;, &quot;Lucia Chamberlain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:02:07.430213+00:00"/>
+        <meta name="calibre:title_sort" content="Mrs. Essington: The Romance of a House-party"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

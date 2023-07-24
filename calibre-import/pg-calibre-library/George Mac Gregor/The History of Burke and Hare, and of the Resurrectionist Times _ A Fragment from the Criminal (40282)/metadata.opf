@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fb84ce0-2af0-44d6-8f14-65d894a8f6ad</dc:identifier>
+        <dc:title>The History of Burke and Hare, and of the Resurrectionist Times / A Fragment from the Criminal Annals of Scotland</dc:title>
+        <dc:creator opf:file-as="Mac Gregor, George" opf:role="aut">George Mac Gregor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41380</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trials (Murder) -- Scotland</dc:subject>
+        <dc:subject>Burke</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1792-1829 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Hare</dc:subject>
+        <dc:subject>1792?-1870? -- Trials</dc:subject>
+        <dc:subject>Body snatching -- Scotland</dc:subject>
+        <dc:subject>Grave robbing -- Scotland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Mac Gregor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:45:42.824400+00:00"/>
+        <meta name="calibre:title_sort" content="History of Burke and Hare, and of the Resurrectionist Times / A Fragment from the Criminal Annals of Scotland, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

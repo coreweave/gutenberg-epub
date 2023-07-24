@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7889</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab6b5bff-c521-498a-9b09-b35f4cb9b7a1</dc:identifier>
+        <dc:title>Cato, the creeper; or, The demon of Dead-Man's Forest</dc:title>
+        <dc:creator opf:file-as="Dewey, Frederick H." opf:role="aut">Frederick H. Dewey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68343</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>African Americans -- Fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Fiction</dc:subject>
+        <dc:subject>Rescues -- Fiction</dc:subject>
+        <dc:subject>Abduction -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Arkansas -- Fiction</dc:subject>
+        <dc:subject>Unrequited love -- Fiction</dc:subject>
+        <dc:subject>Brigands and robbers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick H. Dewey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:55:32.534502+00:00"/>
+        <meta name="calibre:title_sort" content="Cato, the creeper; or, The demon of Dead-Man's Forest"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

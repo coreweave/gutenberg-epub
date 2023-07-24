@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8f4f868-ad4c-4e3d-b624-d267684e5372</dc:identifier>
+        <dc:title>An Old Story of My Farming Days Vol. 1 (of 3). / (Ut Mine Stromtid)</dc:title>
+        <dc:creator opf:file-as="Reuter, Fritz" opf:role="aut">Fritz Reuter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35849</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Farm life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fritz Reuter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:43:19.236895+00:00"/>
+        <meta name="calibre:title_sort" content="Old Story of My Farming Days Vol. 1 (of 3). / (Ut Mine Stromtid), An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

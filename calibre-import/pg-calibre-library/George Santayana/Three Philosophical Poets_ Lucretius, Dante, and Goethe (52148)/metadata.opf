@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97571b17-6feb-44bd-8343-5095777723f5</dc:identifier>
+        <dc:title>Three Philosophical Poets: Lucretius, Dante, and Goethe</dc:title>
+        <dc:creator opf:file-as="Santayana, George" opf:role="aut">George Santayana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35612</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Goethe</dc:subject>
+        <dc:subject>Johann Wolfgang von</dc:subject>
+        <dc:subject>1749-1832</dc:subject>
+        <dc:subject>Dante Alighieri</dc:subject>
+        <dc:subject>1265-1321</dc:subject>
+        <dc:subject>Philosophy in literature</dc:subject>
+        <dc:subject>Lucretius Carus</dc:subject>
+        <dc:subject>Titus</dc:subject>
+        <dc:subject>Didactic poetry -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Santayana&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:23:55.549676+00:00"/>
+        <meta name="calibre:title_sort" content="Three Philosophical Poets: Lucretius, Dante, and Goethe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc86f819-99c5-4e67-8255-6547ed4d5e4c</dc:identifier>
+        <dc:title>The Netherworld of Mendip / Explorations in the great caverns of Somerset, Yorkshire, Derbyshire, and elsewhere</dc:title>
+        <dc:creator opf:file-as="Baker, Ernest A. (Ernest Albert)" opf:role="aut">Ernest A. Baker</dc:creator>
+        <dc:creator opf:file-as="Baker, Ernest A. (Ernest Albert)" opf:role="aut">H. E. Balch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53063</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caves</dc:subject>
+        <dc:subject>Mendip Hills (England)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest A. Baker&quot;: &quot;&quot;, &quot;H. E. Balch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:30:19.979884+00:00"/>
+        <meta name="calibre:title_sort" content="Netherworld of Mendip / Explorations in the great caverns of Somerset, Yorkshire, Derbyshire, and elsewhere, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b340c514-5289-4cc0-b7cf-c82bc9795ad4</dc:identifier>
+        <dc:title>Little Friend Lydia</dc:title>
+        <dc:creator opf:file-as="Phillips, Ethel Calvert" opf:role="aut">Ethel Calvert Phillips</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38844</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Orphanages -- Juvenile fiction</dc:subject>
+        <dc:subject>Adopted children -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ethel Calvert Phillips&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:12:05.360844+00:00"/>
+        <meta name="calibre:title_sort" content="Little Friend Lydia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

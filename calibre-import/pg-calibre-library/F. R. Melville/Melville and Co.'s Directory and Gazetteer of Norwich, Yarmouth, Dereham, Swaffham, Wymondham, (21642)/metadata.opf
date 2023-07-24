@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ba3e175-81a3-4ce0-a630-fe52c4f69d40</dc:identifier>
+        <dc:title>Melville and Co.'s Directory and Gazetteer of Norwich, Yarmouth, Dereham, Swaffham, Wymondham, Fakenham, Thetford, Attleborough, Aylsham, Diss, Reepham, Foulsham, Hingham, &amp;c.; Ipswich, Bury St. Edmund's, Woodbridge, Lowestoft, Beccles, Bungay, Halesworth, Eye, Stowmarket, Needham Market, &amp;c. [1856]</dc:title>
+        <dc:creator opf:file-as="F. R. Melville &amp; Co." opf:role="aut">F. R. Melville</dc:creator>
+        <dc:creator opf:file-as="F. R. Melville &amp; Co." opf:role="aut">Co.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Norfolk (England) -- Directories</dc:subject>
+        <dc:subject>Norfolk (England) -- Gazetteers</dc:subject>
+        <dc:subject>Suffolk (England) -- Directories</dc:subject>
+        <dc:subject>Suffolk (England) -- Gazetteers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. R. Melville&quot;: &quot;&quot;, &quot;Co.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:07:42.278617+00:00"/>
+        <meta name="calibre:title_sort" content="Melville and Co.'s Directory and Gazetteer of Norwich, Yarmouth, Dereham, Swaffham, Wymondham, Fakenham, Thetford, Attleborough, Aylsham, Diss, Reepham, Foulsham, Hingham, &amp;c.; Ipswich, Bury St. Edmund's, Woodbridge, Lowestoft, Beccles, Bungay, Halesworth, Eye, Stowmarket, Needham Market, &amp;c. [1856]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

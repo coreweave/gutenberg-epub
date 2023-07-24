@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ba64d06-ad17-42e3-9214-c04c2992f925</dc:identifier>
+        <dc:title>The Campaigns of the 124th Regiment, Ohio Volunteer Infantry, with Roster and Roll of Honor</dc:title>
+        <dc:creator opf:file-as="Lewis, G. W. (George W.)" opf:role="aut">G. W. Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52223</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>United States. Army. Ohio Infantry Regiment</dc:subject>
+        <dc:subject>124th (1862-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. W. Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:47:28.247236+00:00"/>
+        <meta name="calibre:title_sort" content="Campaigns of the 124th Regiment, Ohio Volunteer Infantry, with Roster and Roll of Honor, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

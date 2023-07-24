@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fac7a4c1-8c82-435b-b872-133de64bf1e8</dc:identifier>
+        <dc:title>The Early Norman Castles of the British Isles.</dc:title>
+        <dc:creator opf:file-as="Armitage, Ella S." opf:role="aut">Ella S. Armitage</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48602</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Norman</dc:subject>
+        <dc:subject>Castles -- Great Britain -- History -- To 1500</dc:subject>
+        <dc:subject>Normans -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ella S. Armitage&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:35:39.446134+00:00"/>
+        <meta name="calibre:title_sort" content="Early Norman Castles of the British Isles., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

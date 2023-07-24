@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3853d226-e3ee-4a98-b735-bc0a4f676d6b</dc:identifier>
+        <dc:title>Tent Life in Siberia / A New Account of an Old Undertaking; Adventures among the Koraks and Other Tribes In Kamchatka and Northern Asia</dc:title>
+        <dc:creator opf:file-as="Kennan, George" opf:role="aut">George Kennan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12328</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kennan</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1845-1924</dc:subject>
+        <dc:subject>Siberia</dc:subject>
+        <dc:subject>Eastern (Russia) -- Description and travel</dc:subject>
+        <dc:subject>Kamchatka Peninsula (Russia) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Kennan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:27:24.182765+00:00"/>
+        <meta name="calibre:title_sort" content="Tent Life in Siberia / A New Account of an Old Undertaking; Adventures among the Koraks and Other Tribes In Kamchatka and Northern Asia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

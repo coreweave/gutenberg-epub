@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">124</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28393c25-d7b3-4a35-b367-beb3c698f8e0</dc:identifier>
+        <dc:title>"Old Put" The Patriot</dc:title>
+        <dc:creator opf:file-as="Ober, Frederick A. (Frederick Albion)" opf:role="aut">Frederick A. Ober</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17049</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Putnam</dc:subject>
+        <dc:subject>Israel</dc:subject>
+        <dc:subject>1718-1790</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick A. Ober&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:27:57.949275+00:00"/>
+        <meta name="calibre:title_sort" content="Old Put&quot; The Patriot"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d824c583-4afa-42d0-8f8c-122644dd6ace</dc:identifier>
+        <dc:title>A political pilgrim in Europe</dc:title>
+        <dc:creator opf:file-as="Snowden, Ethel" opf:role="aut">Ethel Snowden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Influence</dc:subject>
+        <dc:subject>International Socialist Congress</dc:subject>
+        <dc:subject>Women's International League for Peace and Freedom. Congress (2nd : 1919 : Zurich</dc:subject>
+        <dc:subject>Switzerland)</dc:subject>
+        <dc:subject>Conférence internationale pour la Société des Nations (1919 : Bern)</dc:subject>
+        <dc:subject>Socialism -- Congresses</dc:subject>
+        <dc:subject>Europe -- Social conditions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ethel Snowden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:07.373522+00:00"/>
+        <meta name="calibre:title_sort" content="political pilgrim in Europe, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

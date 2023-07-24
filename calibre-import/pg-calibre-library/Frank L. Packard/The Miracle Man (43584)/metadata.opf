@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e1f0057-02b2-4e32-bc9e-2cedf66aaffb</dc:identifier>
+        <dc:title>The Miracle Man</dc:title>
+        <dc:creator opf:file-as="Packard, Frank L. (Frank Lucius)" opf:role="aut">Frank L. Packard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15578</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maine -- Fiction</dc:subject>
+        <dc:subject>People with disabilities -- Fiction</dc:subject>
+        <dc:subject>Poor -- Fiction</dc:subject>
+        <dc:subject>Canadian fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank L. Packard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:47:26.101024+00:00"/>
+        <meta name="calibre:title_sort" content="Miracle Man, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

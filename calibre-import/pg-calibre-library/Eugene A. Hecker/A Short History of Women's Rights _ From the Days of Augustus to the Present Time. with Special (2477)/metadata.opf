@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8761eb87-f002-4681-81c7-298c0760c564</dc:identifier>
+        <dc:title>A Short History of Women's Rights / From the Days of Augustus to the Present Time. with Special Reference to England and the United States. Second Edition Revised, With Additions.</dc:title>
+        <dc:creator opf:file-as="Hecker, Eugene A. (Eugene Arthur)" opf:role="aut">Eugene A. Hecker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11672</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women's rights -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugene A. Hecker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:05:14.068182+00:00"/>
+        <meta name="calibre:title_sort" content="Short History of Women's Rights / From the Days of Augustus to the Present Time. with Special Reference to England and the United States. Second Edition Revised, With Additions., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

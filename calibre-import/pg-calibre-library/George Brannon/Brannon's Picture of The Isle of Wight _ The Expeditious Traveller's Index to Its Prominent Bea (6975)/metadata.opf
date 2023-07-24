@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2756d77-a168-4abd-ae80-0037c6a77ead</dc:identifier>
+        <dc:title>Brannon's Picture of The Isle of Wight / The Expeditious Traveller's Index to Its Prominent Beauties &amp; Objects of Interest. Compiled Especially with Reference to Those Numerous Visitors Who Can Spare but Two or Three Days to Make the Tour of the Island.</dc:title>
+        <dc:creator opf:file-as="Brannon, George" opf:role="aut">George Brannon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16356</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Isle of Wight (England) -- Description and travel</dc:subject>
+        <dc:subject>Isle of Wight (England) -- Guidebooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Brannon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:34:25.173753+00:00"/>
+        <meta name="calibre:title_sort" content="Brannon's Picture of The Isle of Wight / The Expeditious Traveller's Index to Its Prominent Beauties &amp; Objects of Interest. Compiled Especially with Reference to Those Numerous Visitors Who Can Spare but Two or Three Days to Make the Tour of the Island."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

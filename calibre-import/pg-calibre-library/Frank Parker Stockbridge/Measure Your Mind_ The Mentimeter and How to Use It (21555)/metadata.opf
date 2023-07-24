@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aea8a64e-3b7d-4c0a-9835-ac399a598ba4</dc:identifier>
+        <dc:title>Measure Your Mind: The Mentimeter and How to Use It</dc:title>
+        <dc:creator opf:file-as="Stockbridge, Frank Parker" opf:role="aut">Frank Parker Stockbridge</dc:creator>
+        <dc:creator opf:file-as="Stockbridge, Frank Parker" opf:role="aut">Marion Rex Trabue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61341</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Intelligence tests</dc:subject>
+        <dc:subject>Psychological tests</dc:subject>
+        <dc:subject>Educational tests and measurements</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Parker Stockbridge&quot;: &quot;&quot;, &quot;Marion Rex Trabue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:04:09.526171+00:00"/>
+        <meta name="calibre:title_sort" content="Measure Your Mind: The Mentimeter and How to Use It"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">694becca-4427-4b32-add7-e1b9c88cc4dd</dc:identifier>
+        <dc:title>Model aeroplanes / The building of model monoplanes, biplanes, etc., together with a chapter on building a model airship</dc:title>
+        <dc:creator opf:file-as="Camm, F. J. (Frederick James)" opf:role="aut">F. J. Camm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68100</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Airplanes -- Models</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. J. Camm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:37:08.742451+00:00"/>
+        <meta name="calibre:title_sort" content="Model aeroplanes / The building of model monoplanes, biplanes, etc., together with a chapter on building a model airship"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

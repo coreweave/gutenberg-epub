@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf555c9f-b649-48b2-af43-70cdc869fcb5</dc:identifier>
+        <dc:title>Simple psiman</dc:title>
+        <dc:creator opf:file-as="Wallace, F. L. (Floyd L.)" opf:role="aut">F. L. Wallace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69280</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>India -- Fiction</dc:subject>
+        <dc:subject>Comets -- Fiction</dc:subject>
+        <dc:subject>Psychic ability -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. L. Wallace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:42:13.888520+00:00"/>
+        <meta name="calibre:title_sort" content="Simple psiman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

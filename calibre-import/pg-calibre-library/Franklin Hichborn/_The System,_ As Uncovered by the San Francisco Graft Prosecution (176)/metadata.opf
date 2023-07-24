@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e965a31-f596-4688-a64c-6720b4aa4667</dc:identifier>
+        <dc:title>"The System," As Uncovered by the San Francisco Graft Prosecution</dc:title>
+        <dc:creator opf:file-as="Hichborn, Franklin" opf:role="aut">Franklin Hichborn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43103</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political corruption -- California -- San Francisco</dc:subject>
+        <dc:subject>San Francisco (Calif.) -- Politics and government</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Franklin Hichborn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:28:42.248538+00:00"/>
+        <meta name="calibre:title_sort" content="System,&quot; As Uncovered by the San Francisco Graft Prosecution, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

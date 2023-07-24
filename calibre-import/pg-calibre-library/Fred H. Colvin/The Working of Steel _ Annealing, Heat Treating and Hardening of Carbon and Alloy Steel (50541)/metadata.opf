@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d42c208e-006b-4a6e-97e7-2482215804a3</dc:identifier>
+        <dc:title>The Working of Steel / Annealing, Heat Treating and Hardening of Carbon and Alloy Steel</dc:title>
+        <dc:creator opf:file-as="Colvin, Fred H. (Fred Herbert)" opf:role="aut">Fred H. Colvin</dc:creator>
+        <dc:creator opf:file-as="Colvin, Fred H. (Fred Herbert)" opf:role="aut">K. A. Juthe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20282</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Steel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fred H. Colvin&quot;: &quot;&quot;, &quot;K. A. Juthe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:40:10.712447+00:00"/>
+        <meta name="calibre:title_sort" content="Working of Steel / Annealing, Heat Treating and Hardening of Carbon and Alloy Steel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

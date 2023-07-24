@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f0a9f55-7b0b-41b8-bba5-f4a230fe697d</dc:identifier>
+        <dc:title>A Canadian Manor and Its Seigneurs: The Story of a Hundred Years, 1761-1861</dc:title>
+        <dc:creator opf:file-as="Wrong, George McKinnon" opf:role="aut">George McKinnon Wrong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16747</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nairne family</dc:subject>
+        <dc:subject>Nairne</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>-1802</dc:subject>
+        <dc:subject>La Malbaie (Québec)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George McKinnon Wrong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:33:42.156596+00:00"/>
+        <meta name="calibre:title_sort" content="Canadian Manor and Its Seigneurs: The Story of a Hundred Years, 1761-1861, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

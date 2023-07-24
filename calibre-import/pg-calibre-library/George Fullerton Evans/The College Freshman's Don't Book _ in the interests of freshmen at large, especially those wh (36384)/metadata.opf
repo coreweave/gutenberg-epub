@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">780d609e-2540-4a2d-bd90-93bd039e84e9</dc:identifier>
+        <dc:title>The College Freshman's Don't Book / in the interests of freshmen at large, especially those whose remaining at large uninstructed &amp; unguided appears a worry and a menace to college &amp; university society these remarks and hints are set forth by G. F. E. (A. B.) a sympathizer</dc:title>
+        <dc:creator opf:file-as="Evans, George Fullerton" opf:role="aut">George Fullerton Evans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42467</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>College freshmen -- United States -- Life skills guides</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Fullerton Evans&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:23:46.100958+00:00"/>
+        <meta name="calibre:title_sort" content="College Freshman's Don't Book / in the interests of freshmen at large, especially those whose remaining at large uninstructed &amp; unguided appears a worry and a menace to college &amp; university society these remarks and hints are set forth by G. F. E. (A. B.) a sympathizer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

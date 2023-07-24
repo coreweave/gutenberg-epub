@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13768</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">704e4044-ba32-4145-9746-5d53d3949ebf</dc:identifier>
+        <dc:title>Galen: On the Natural Faculties</dc:title>
+        <dc:creator opf:file-as="Galen" opf:role="aut">Galen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>grc</dc:language>
+        <dc:subject>Physiology</dc:subject>
+        <dc:subject>Medicine</dc:subject>
+        <dc:subject>Greek and Roman</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Galen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:33:47.978351+00:00"/>
+        <meta name="calibre:title_sort" content="Galen: On the Natural Faculties"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

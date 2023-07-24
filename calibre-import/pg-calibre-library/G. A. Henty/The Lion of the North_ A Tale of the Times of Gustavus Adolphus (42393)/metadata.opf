@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">901936dd-4ab9-4e64-bad0-6eea9666aa07</dc:identifier>
+        <dc:title>The Lion of the North: A Tale of the Times of Gustavus Adolphus</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5075</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Thirty Years' War</dc:subject>
+        <dc:subject>1618-1648 -- Fiction</dc:subject>
+        <dc:subject>Gustav II Adolf</dc:subject>
+        <dc:subject>King of Sweden</dc:subject>
+        <dc:subject>1594-1632 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:41:24.473135+00:00"/>
+        <meta name="calibre:title_sort" content="Lion of the North: A Tale of the Times of Gustavus Adolphus, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

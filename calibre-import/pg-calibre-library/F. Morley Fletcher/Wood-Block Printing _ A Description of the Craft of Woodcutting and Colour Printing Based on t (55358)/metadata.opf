@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f750c19-1753-4151-a01e-59c6bcc2f371</dc:identifier>
+        <dc:title>Wood-Block Printing / A Description of the Craft of Woodcutting and Colour Printing Based on the Japanese Practice</dc:title>
+        <dc:creator opf:file-as="Fletcher, F. Morley (Frank Morley)" opf:role="aut">F. Morley Fletcher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20195</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wood-engraving -- Technique</dc:subject>
+        <dc:subject>Wood-engraving -- Printing</dc:subject>
+        <dc:subject>Color prints</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Morley Fletcher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:52:18.626970+00:00"/>
+        <meta name="calibre:title_sort" content="Wood-Block Printing / A Description of the Craft of Woodcutting and Colour Printing Based on the Japanese Practice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

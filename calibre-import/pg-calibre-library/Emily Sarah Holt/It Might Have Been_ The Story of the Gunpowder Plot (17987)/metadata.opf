@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3c4f15b-2b32-45c1-8ee6-651c29d67c0d</dc:identifier>
+        <dc:title>It Might Have Been: The Story of the Gunpowder Plot</dc:title>
+        <dc:creator opf:file-as="Holt, Emily Sarah" opf:role="aut">Emily Sarah Holt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25834</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Gunpowder Plot</dc:subject>
+        <dc:subject>1605 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emily Sarah Holt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:52:21.828050+00:00"/>
+        <meta name="calibre:title_sort" content="It Might Have Been: The Story of the Gunpowder Plot"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

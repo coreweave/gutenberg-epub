@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f221a1f6-af22-497e-a500-04d2e5a16752</dc:identifier>
+        <dc:title>Anomalies and Curiosities of Medicine</dc:title>
+        <dc:creator opf:file-as="Gould, George M. (George Milbrey)" opf:role="aut">George M. Gould</dc:creator>
+        <dc:creator opf:file-as="Gould, George M. (George Milbrey)" opf:role="aut">Walter L. Pyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/747</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medicine -- Anecdotes</dc:subject>
+        <dc:subject>Abnormalities</dc:subject>
+        <dc:subject>Human</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George M. Gould&quot;: &quot;&quot;, &quot;Walter L. Pyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:49:06.497266+00:00"/>
+        <meta name="calibre:title_sort" content="Anomalies and Curiosities of Medicine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

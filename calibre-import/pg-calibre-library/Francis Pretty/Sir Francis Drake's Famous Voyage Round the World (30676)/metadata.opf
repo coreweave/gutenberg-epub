@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6278bf7-fb86-4e12-91f7-fd5250c98744</dc:identifier>
+        <dc:title>Sir Francis Drake's Famous Voyage Round the World</dc:title>
+        <dc:creator opf:file-as="Pretty, Francis" opf:role="aut">Francis Pretty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages around the world</dc:subject>
+        <dc:subject>Voyages and travels</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Pretty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:43:44.851266+00:00"/>
+        <meta name="calibre:title_sort" content="Sir Francis Drake's Famous Voyage Round the World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

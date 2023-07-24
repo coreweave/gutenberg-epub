@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93c74846-98ea-4fef-9f42-18ab550fa2a9</dc:identifier>
+        <dc:title>The Black Watch at Ticonderoga and Major Duncan Campbell of Inverawe</dc:title>
+        <dc:creator opf:file-as="Richards, Frederick B." opf:role="aut">Frederick B. Richards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66252</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army. Black Watch (Royal Highlanders)</dc:subject>
+        <dc:subject>Ticonderoga (N.Y.) -- History -- French and Indian War</dc:subject>
+        <dc:subject>1754-1763</dc:subject>
+        <dc:subject>Campbell</dc:subject>
+        <dc:subject>Duncan</dc:subject>
+        <dc:subject>of Inverawe</dc:subject>
+        <dc:subject>-1758</dc:subject>
+        <dc:subject>Ticonderoga</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>N.Y.</dc:subject>
+        <dc:subject>1758</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick B. Richards&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:01:50.806865+00:00"/>
+        <meta name="calibre:title_sort" content="Black Watch at Ticonderoga and Major Duncan Campbell of Inverawe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

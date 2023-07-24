@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1df4d88e-c8bd-4b85-ac8c-8b7961eaee31</dc:identifier>
+        <dc:title>A Treatise Upon the Law of Copyright in the United Kingdom and the Dominions of the Crown, / and in the United States of America Containing a Full Appendix of All Acts of Parliament International Conventions, Orders in Council, Treasury Minute and Acts of Congress Now in Force.</dc:title>
+        <dc:creator opf:file-as="MacGillivray, Evan James" opf:role="aut">Evan James MacGillivray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43945</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Copyright -- United States</dc:subject>
+        <dc:subject>Copyright -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evan James MacGillivray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:11:35.715106+00:00"/>
+        <meta name="calibre:title_sort" content="Treatise Upon the Law of Copyright in the United Kingdom and the Dominions of the Crown, / and in the United States of America Containing a Full Appendix of All Acts of Parliament International Conventions, Orders in Council, Treasury Minute and Acts of Congress Now in Force., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

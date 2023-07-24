@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb31ffcd-20c9-44d1-bc50-1b704cd4fa42</dc:identifier>
+        <dc:title>Reveries of a Schoolmaster</dc:title>
+        <dc:creator opf:file-as="Pearson, Francis B. (Francis Bail)" opf:role="aut">Francis B. Pearson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13049</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teaching</dc:subject>
+        <dc:subject>Teachers -- Biography</dc:subject>
+        <dc:subject>Pearson</dc:subject>
+        <dc:subject>Francis B. (Francis Bail)</dc:subject>
+        <dc:subject>1853-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis B. Pearson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:18:22.260531+00:00"/>
+        <meta name="calibre:title_sort" content="Reveries of a Schoolmaster"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e536b60d-2200-48fd-b3d8-a2d33c945f77</dc:identifier>
+        <dc:title>Henry Smeaton: A Jacobite Story of the Reign of George the First.</dc:title>
+        <dc:creator opf:file-as="James, G. P. R. (George Payne Rainsford)" opf:role="aut">G. P. R. James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51815</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jacobite Rebellion</dc:subject>
+        <dc:subject>1715 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. P. R. James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:29:06.415140+00:00"/>
+        <meta name="calibre:title_sort" content="Henry Smeaton: A Jacobite Story of the Reign of George the First."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

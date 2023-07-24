@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d822bcb-dcb0-477a-b6b8-a9305fcfa075</dc:identifier>
+        <dc:title>Old Trails on the Niagara Frontier</dc:title>
+        <dc:creator opf:file-as="Severance, Frank H. (Frank Hayward)" opf:role="aut">Frank H. Severance</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36974</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Underground Railroad</dc:subject>
+        <dc:subject>Niagara Falls (N.Y. and Ont.) -- Description and Travel</dc:subject>
+        <dc:subject>Ogden</dc:subject>
+        <dc:subject>David</dc:subject>
+        <dc:subject>1764-</dc:subject>
+        <dc:subject>Lay</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>Marsh</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>active 1837-1846</dc:subject>
+        <dc:subject>Niagara River Valley (N.Y. and Ont.) -- History</dc:subject>
+        <dc:subject>Old Fort Niagara (N.Y.)</dc:subject>
+        <dc:subject>Buffalo (N.Y.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank H. Severance&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:16:56.210467+00:00"/>
+        <meta name="calibre:title_sort" content="Old Trails on the Niagara Frontier"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

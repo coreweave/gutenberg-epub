@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65f993a4-f6ca-44f7-b44c-1d3dd1aeccba</dc:identifier>
+        <dc:title>The Life and Times of Kateri Tekakwitha, the Lily of the Mohawks</dc:title>
+        <dc:creator opf:file-as="Walworth, Ellen H. (Ellen Hardin)" opf:role="aut">Ellen H. Walworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37421</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (State) -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>Mohawk Indians</dc:subject>
+        <dc:subject>Tekakwitha</dc:subject>
+        <dc:subject>Kateri</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1656-1680</dc:subject>
+        <dc:subject>Kahnawake (Québec)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ellen H. Walworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:25:05.825742+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Times of Kateri Tekakwitha, the Lily of the Mohawks, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86d7f147-9cd1-4f0a-b0bc-c7cf4ec8e053</dc:identifier>
+        <dc:title>The Ice Queen</dc:title>
+        <dc:creator opf:file-as="Ingersoll, Ernest" opf:role="aut">Ernest Ingersoll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39210</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Dogs -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Islands -- Juvenile fiction</dc:subject>
+        <dc:subject>Camping -- Juvenile fiction</dc:subject>
+        <dc:subject>Ship captains -- Juvenile fiction</dc:subject>
+        <dc:subject>Christmas -- Juvenile fiction</dc:subject>
+        <dc:subject>Skating -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernest Ingersoll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:13:34.104022+00:00"/>
+        <meta name="calibre:title_sort" content="Ice Queen, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

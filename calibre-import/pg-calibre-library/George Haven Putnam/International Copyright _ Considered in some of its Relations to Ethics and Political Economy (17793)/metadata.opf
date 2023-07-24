@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34b8c44e-b2c9-46a9-83bf-b1d30f50753e</dc:identifier>
+        <dc:title>International Copyright / Considered in some of its Relations to Ethics and Political Economy</dc:title>
+        <dc:creator opf:file-as="Putnam, George Haven" opf:role="aut">George Haven Putnam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22619</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Copyright</dc:subject>
+        <dc:subject>International</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Haven Putnam&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:45:39.632721+00:00"/>
+        <meta name="calibre:title_sort" content="International Copyright / Considered in some of its Relations to Ethics and Political Economy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d090001b-95f3-47a1-9749-db4846c7a98b</dc:identifier>
+        <dc:title>The Notorious Impostor (1692); Diego Redivivus (1692)</dc:title>
+        <dc:creator opf:file-as="Settle, Elkanah" opf:role="aut">Elkanah Settle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37517</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Morrell</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>-1692 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elkanah Settle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:41:40.249937+00:00"/>
+        <meta name="calibre:title_sort" content="Notorious Impostor (1692); Diego Redivivus (1692), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

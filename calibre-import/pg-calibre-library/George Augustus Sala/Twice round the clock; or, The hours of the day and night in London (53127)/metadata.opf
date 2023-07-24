@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abe7b31e-0e82-4948-91cd-ddcde1c2641e</dc:identifier>
+        <dc:title>Twice round the clock; or, The hours of the day and night in London</dc:title>
+        <dc:creator opf:file-as="Sala, George Augustus" opf:role="aut">George Augustus Sala</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69402</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Social life and customs -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Augustus Sala&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:26:30.751955+00:00"/>
+        <meta name="calibre:title_sort" content="Twice round the clock; or, The hours of the day and night in London"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

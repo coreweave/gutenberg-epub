@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7997895a-e916-4fa8-a05e-d58cfa8e5554</dc:identifier>
+        <dc:title>Intarsia and Marquetry</dc:title>
+        <dc:creator opf:file-as="Jackson, F. Hamilton (Frederick Hamilton)" opf:role="aut">F. Hamilton Jackson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30215</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marquetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Hamilton Jackson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:45:11.747808+00:00"/>
+        <meta name="calibre:title_sort" content="Intarsia and Marquetry"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35726</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d60ad9c-7b2c-41c7-8276-b68c802ecd34</dc:identifier>
+        <dc:title>The Carlovingian Coins; Or, The Daughters of Charlemagne / A Tale of the Ninth Century</dc:title>
+        <dc:creator opf:file-as="Sue, Eugène" opf:role="aut">Eugène Sue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33021</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Charlemagne</dc:subject>
+        <dc:subject>Emperor</dc:subject>
+        <dc:subject>742-814 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugène Sue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:50:39.855651+00:00"/>
+        <meta name="calibre:title_sort" content="Carlovingian Coins; Or, The Daughters of Charlemagne / A Tale of the Ninth Century, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

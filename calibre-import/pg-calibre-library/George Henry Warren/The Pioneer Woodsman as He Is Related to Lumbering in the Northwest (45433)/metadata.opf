@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f275a99-1dfb-45f6-9523-41ac49a8d42e</dc:identifier>
+        <dc:title>The Pioneer Woodsman as He Is Related to Lumbering in the Northwest</dc:title>
+        <dc:creator opf:file-as="Warren, George Henry" opf:role="aut">George Henry Warren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Camping</dc:subject>
+        <dc:subject>Lumbering -- Northwestern States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Henry Warren&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:32:31.483141+00:00"/>
+        <meta name="calibre:title_sort" content="Pioneer Woodsman as He Is Related to Lumbering in the Northwest, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

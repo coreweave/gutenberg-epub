@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9b7bbba-342a-4183-a1c9-a71750b75956</dc:identifier>
+        <dc:title>Keep Out</dc:title>
+        <dc:creator opf:file-as="Brown, Fredric" opf:role="aut">Fredric Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29142</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Mars (Planet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fredric Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:21:31.185710+00:00"/>
+        <meta name="calibre:title_sort" content="Keep Out"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

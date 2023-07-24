@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f5119d5-8977-4c55-ba25-ac8878097a21</dc:identifier>
+        <dc:title>John Rawn, Prominent Citizen</dc:title>
+        <dc:creator opf:file-as="Hough, Emerson" opf:role="aut">Emerson Hough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Fiction</dc:subject>
+        <dc:subject>Businessmen -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emerson Hough&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:10:02.429963+00:00"/>
+        <meta name="calibre:title_sort" content="John Rawn, Prominent Citizen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

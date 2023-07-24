@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99d9d7a6-9aae-4bea-94ed-136e95462b0b</dc:identifier>
+        <dc:title>Ulster Folklore</dc:title>
+        <dc:creator opf:file-as="Andrews, Elizabeth, F.R.A.I." opf:role="aut">F.R.A.I. Elizabeth Andrews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37187</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- Ulster (Northern Ireland and Ireland)</dc:subject>
+        <dc:subject>Fairies -- Ulster (Northern Ireland and Ireland)</dc:subject>
+        <dc:subject>Ulster (Northern Ireland and Ireland) -- Social life and customs</dc:subject>
+        <dc:subject>Hamilton</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1755-1797</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F.R.A.I. Elizabeth Andrews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:41:24.223924+00:00"/>
+        <meta name="calibre:title_sort" content="Ulster Folklore"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

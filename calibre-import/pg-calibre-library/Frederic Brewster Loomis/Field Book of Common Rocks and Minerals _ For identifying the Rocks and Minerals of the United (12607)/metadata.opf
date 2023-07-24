@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93f0dbc9-931a-487c-9643-da4ccc37d054</dc:identifier>
+        <dc:title>Field Book of Common Rocks and Minerals / For identifying the Rocks and Minerals of the United States and interpreting their Origins and Meanings</dc:title>
+        <dc:creator opf:file-as="Loomis, Frederic Brewster" opf:role="aut">Frederic Brewster Loomis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55382</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Minerals -- United States</dc:subject>
+        <dc:subject>Rocks -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Brewster Loomis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:59:26.828619+00:00"/>
+        <meta name="calibre:title_sort" content="Field Book of Common Rocks and Minerals / For identifying the Rocks and Minerals of the United States and interpreting their Origins and Meanings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

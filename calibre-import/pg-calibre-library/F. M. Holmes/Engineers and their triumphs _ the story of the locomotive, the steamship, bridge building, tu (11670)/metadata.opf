@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5d710fb-f4a5-4ff0-95d1-2c61fd982584</dc:identifier>
+        <dc:title>Engineers and their triumphs / the story of the locomotive, the steamship, bridge building, tunnel making</dc:title>
+        <dc:creator opf:file-as="Holmes, F. M. (Frederic Morell)" opf:role="aut">F. M. Holmes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69084</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Engineers</dc:subject>
+        <dc:subject>Engineering</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. M. Holmes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:33:10.861840+00:00"/>
+        <meta name="calibre:title_sort" content="Engineers and their triumphs / the story of the locomotive, the steamship, bridge building, tunnel making"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

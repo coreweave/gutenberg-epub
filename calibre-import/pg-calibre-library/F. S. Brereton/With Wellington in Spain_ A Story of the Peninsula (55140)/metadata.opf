@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9862f95c-8ad2-4b99-bcb8-b2861326bc20</dc:identifier>
+        <dc:title>With Wellington in Spain: A Story of the Peninsula</dc:title>
+        <dc:creator opf:file-as="Brereton, F. S. (Frederick Sadleir)" opf:role="aut">F. S. Brereton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. S. Brereton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:37:54.849037+00:00"/>
+        <meta name="calibre:title_sort" content="With Wellington in Spain: A Story of the Peninsula"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

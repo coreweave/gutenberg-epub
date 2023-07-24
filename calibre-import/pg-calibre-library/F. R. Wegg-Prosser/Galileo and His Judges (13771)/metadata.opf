@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad98b2f5-0f7a-4b1d-a304-c626959a60be</dc:identifier>
+        <dc:title>Galileo and His Judges</dc:title>
+        <dc:creator opf:file-as="Wegg-Prosser, F. R. (Francis Richard)" opf:role="aut">F. R. Wegg-Prosser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62402</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astronomers -- Italy -- Biography</dc:subject>
+        <dc:subject>Galilei</dc:subject>
+        <dc:subject>Galileo</dc:subject>
+        <dc:subject>1564-1642 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Astronomy -- Italy -- History -- 16th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. R. Wegg-Prosser&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:33:53.698364+00:00"/>
+        <meta name="calibre:title_sort" content="Galileo and His Judges"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

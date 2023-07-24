@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c172fba9-9b2d-48e3-a54b-d1cee7aa5c61</dc:identifier>
+        <dc:title>The Sidereal Messenger of Galileo Galilei / and a Part of the Preface to Kepler's Dioptrics Containing the Original Account of Galileo's Astronomical Discoveries</dc:title>
+        <dc:creator opf:file-as="Galilei, Galileo" opf:role="aut">Galileo Galilei</dc:creator>
+        <dc:creator opf:file-as="Galilei, Galileo" opf:role="aut">Johannes Kepler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46036</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astronomy -- Early works to 1800</dc:subject>
+        <dc:subject>Jupiter (Planet) -- Satellites</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Galileo Galilei&quot;: &quot;&quot;, &quot;Johannes Kepler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:40:44.271202+00:00"/>
+        <meta name="calibre:title_sort" content="Sidereal Messenger of Galileo Galilei / and a Part of the Preface to Kepler's Dioptrics Containing the Original Account of Galileo's Astronomical Discoveries, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

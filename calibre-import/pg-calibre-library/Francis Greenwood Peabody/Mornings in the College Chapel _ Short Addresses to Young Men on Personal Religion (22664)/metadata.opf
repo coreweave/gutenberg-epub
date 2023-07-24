@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8c521b6-e00e-4f2f-857b-4b44fc43e56a</dc:identifier>
+        <dc:title>Mornings in the College Chapel / Short Addresses to Young Men on Personal Religion</dc:title>
+        <dc:creator opf:file-as="Peabody, Francis Greenwood" opf:role="aut">Francis Greenwood Peabody</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24373</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Universities and colleges -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Greenwood Peabody&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:49:01.903167+00:00"/>
+        <meta name="calibre:title_sort" content="Mornings in the College Chapel / Short Addresses to Young Men on Personal Religion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

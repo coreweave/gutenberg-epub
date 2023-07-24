@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd933608-58cb-4fad-994b-4afd39565f2e</dc:identifier>
+        <dc:title>A March on London: Being a Story of Wat Tyler's Insurrection</dc:title>
+        <dc:creator opf:file-as="Henty, G. A. (George Alfred)" opf:role="aut">G. A. Henty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tyler's Insurrection</dc:subject>
+        <dc:subject>1381 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. A. Henty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:53:38.885579+00:00"/>
+        <meta name="calibre:title_sort" content="March on London: Being a Story of Wat Tyler's Insurrection, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

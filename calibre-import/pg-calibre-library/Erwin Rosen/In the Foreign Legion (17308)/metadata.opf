@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">630db294-226c-48c4-821c-c1d4760e763a</dc:identifier>
+        <dc:title>In the Foreign Legion</dc:title>
+        <dc:creator opf:file-as="Rosen, Erwin" opf:role="aut">Erwin Rosen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40479</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Algeria -- History -- 1830-1962</dc:subject>
+        <dc:subject>France. Armée. Légion étrangère</dc:subject>
+        <dc:subject>Rosen</dc:subject>
+        <dc:subject>Erwin</dc:subject>
+        <dc:subject>1876-1923</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Erwin Rosen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:29:07.079990+00:00"/>
+        <meta name="calibre:title_sort" content="In the Foreign Legion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

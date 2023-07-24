@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fb93eb5-8c94-4884-a381-ab8d2736662a</dc:identifier>
+        <dc:title>Dardistan in 1866, 1886 and 1893 / Being an account of the history, religions, customs, legends, fables, and songs of Gilgit, Chilas, Kandia (Gabrial), Dasin, Chitral, Hunsa, Nagyr, and other parts of the Hindukush, as also a supplement to the second edition of the Hunza and Nagyr handbook and an epitome of part III of the author's "The languages and races of Dardistan"</dc:title>
+        <dc:creator opf:file-as="Leitner, G. W. (Gottlieb William)" opf:role="aut">G. W. Leitner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dardistan (Pakistan) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. W. Leitner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:45:24.566812+00:00"/>
+        <meta name="calibre:title_sort" content="Dardistan in 1866, 1886 and 1893 / Being an account of the history, religions, customs, legends, fables, and songs of Gilgit, Chilas, Kandia (Gabrial), Dasin, Chitral, Hunsa, Nagyr, and other parts of the Hindukush, as also a supplement to the second edition of the Hunza and Nagyr handbook and an epitome of part III of the author's &quot;The languages and races of Dardistan&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

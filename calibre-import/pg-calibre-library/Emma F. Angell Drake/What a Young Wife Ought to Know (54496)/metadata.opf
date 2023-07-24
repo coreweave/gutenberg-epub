@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9aa5b0e-1583-42a1-8d13-d3e038f0e21a</dc:identifier>
+        <dc:title>What a Young Wife Ought to Know</dc:title>
+        <dc:creator opf:file-as="Drake, Emma F. Angell (Emma Frances Angell)" opf:role="aut">Emma F. Angell Drake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57406</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Health and hygiene</dc:subject>
+        <dc:subject>Marriage</dc:subject>
+        <dc:subject>Infants -- Care</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emma F. Angell Drake&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:54:55.413898+00:00"/>
+        <meta name="calibre:title_sort" content="What a Young Wife Ought to Know"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

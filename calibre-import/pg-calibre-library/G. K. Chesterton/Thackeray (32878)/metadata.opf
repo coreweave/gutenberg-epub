@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32878</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42f5c7d1-48cf-4686-9554-b3f54f1f09ef</dc:identifier>
+        <dc:title>Thackeray</dc:title>
+        <dc:creator opf:file-as="Chesterton, G. K. (Gilbert Keith)" opf:role="aut">G. K. Chesterton</dc:creator>
+        <dc:creator opf:file-as="Chesterton, G. K. (Gilbert Keith)" opf:role="aut">Lewis Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Thackeray</dc:subject>
+        <dc:subject>William Makepeace</dc:subject>
+        <dc:subject>1811-1863</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. K. Chesterton&quot;: &quot;&quot;, &quot;Lewis Melville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:30:20.599658+00:00"/>
+        <meta name="calibre:title_sort" content="Thackeray"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

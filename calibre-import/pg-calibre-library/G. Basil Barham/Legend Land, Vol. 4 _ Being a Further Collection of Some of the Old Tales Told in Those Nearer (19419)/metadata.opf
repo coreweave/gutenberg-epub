@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f36cb23-925c-4237-9480-86631fb14c7a</dc:identifier>
+        <dc:title>Legend Land, Vol. 4 / Being a Further Collection of Some of the Old Tales Told in Those Nearer Western Parts of Britain Served by the Great Western Railway</dc:title>
+        <dc:creator opf:file-as="Barham, G. Basil (George Basil)" opf:role="aut">G. Basil Barham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67176</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- England</dc:subject>
+        <dc:subject>Tales -- England</dc:subject>
+        <dc:subject>Folk literature</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. Basil Barham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:43:04.241471+00:00"/>
+        <meta name="calibre:title_sort" content="Legend Land, Vol. 4 / Being a Further Collection of Some of the Old Tales Told in Those Nearer Western Parts of Britain Served by the Great Western Railway"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d75aab58-1b79-416d-8b0e-4eb7af964d22</dc:identifier>
+        <dc:title>Liberia: Description, History, Problems</dc:title>
+        <dc:creator opf:file-as="Starr, Frederick" opf:role="aut">Frederick Starr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54542</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Liberia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Starr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:53:46.868626+00:00"/>
+        <meta name="calibre:title_sort" content="Liberia: Description, History, Problems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

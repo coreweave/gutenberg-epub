@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">962a76a3-8ed1-4ef2-8756-d24ab4439326</dc:identifier>
+        <dc:title>The Burial Customs of the Ancient Greeks</dc:title>
+        <dc:creator opf:file-as="Graves, Frank Pierrepont" opf:role="aut">Frank Pierrepont Graves</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49431</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Greece -- Antiquities</dc:subject>
+        <dc:subject>Burial -- Greece</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Pierrepont Graves&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:40:32.567503+00:00"/>
+        <meta name="calibre:title_sort" content="Burial Customs of the Ancient Greeks, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccc011e5-8d26-4339-8c0f-356f94082293</dc:identifier>
+        <dc:title>Lives of alchemystical philosophers / To which is added a bibliography of alchemy and hermetic philosophy</dc:title>
+        <dc:creator opf:file-as="Barrett, Francis" opf:role="aut">Francis Barrett</dc:creator>
+        <dc:creator opf:file-as="Barrett, Francis" opf:role="aut">Arthur Edward Waite</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68687</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alchemy -- History</dc:subject>
+        <dc:subject>Alchemists -- Biography</dc:subject>
+        <dc:subject>Alchemy -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis Barrett&quot;: &quot;&quot;, &quot;Arthur Edward Waite&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:17:41.675046+00:00"/>
+        <meta name="calibre:title_sort" content="Lives of alchemystical philosophers / To which is added a bibliography of alchemy and hermetic philosophy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

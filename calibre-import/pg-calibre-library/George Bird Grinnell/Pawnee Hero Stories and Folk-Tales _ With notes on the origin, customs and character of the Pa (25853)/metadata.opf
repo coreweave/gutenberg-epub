@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25853</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37425a0d-e155-4592-9899-8f66e486830e</dc:identifier>
+        <dc:title>Pawnee Hero Stories and Folk-Tales / With notes on the origin, customs and character of the Pawnee people</dc:title>
+        <dc:creator opf:file-as="Grinnell, George Bird" opf:role="aut">George Bird Grinnell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36923</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Folklore</dc:subject>
+        <dc:subject>Pawnee Indians</dc:subject>
+        <dc:subject>Pawnee Indians -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Bird Grinnell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:04:32.969504+00:00"/>
+        <meta name="calibre:title_sort" content="Pawnee Hero Stories and Folk-Tales / With notes on the origin, customs and character of the Pawnee people"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

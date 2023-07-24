@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">baf018e2-1172-4cce-921b-54bd08b0c079</dc:identifier>
+        <dc:title>Jacob Faithful</dc:title>
+        <dc:creator opf:file-as="Marryat, Frederick" opf:role="aut">Frederick Marryat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21549</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Thames River (England) -- Fiction</dc:subject>
+        <dc:subject>Picaresque literature</dc:subject>
+        <dc:subject>Seafaring life -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Naval -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Great Britain. Royal Navy -- Officers -- Fiction</dc:subject>
+        <dc:subject>Barges -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Marryat&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:56:33.767313+00:00"/>
+        <meta name="calibre:title_sort" content="Jacob Faithful"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

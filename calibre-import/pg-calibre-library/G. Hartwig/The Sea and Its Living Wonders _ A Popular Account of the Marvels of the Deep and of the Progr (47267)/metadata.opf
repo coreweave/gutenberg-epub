@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9972229c-41d0-4084-a969-20a881e43bc7</dc:identifier>
+        <dc:title>The Sea and Its Living Wonders / A Popular Account of the Marvels of the Deep and of the Progress of Martime Discovery from the Earliest Ages to the Present Time</dc:title>
+        <dc:creator opf:file-as="Hartwig, G. (Georg)" opf:role="aut">G. Hartwig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animal behavior</dc:subject>
+        <dc:subject>Discoveries in geography</dc:subject>
+        <dc:subject>Ocean</dc:subject>
+        <dc:subject>Marine animals</dc:subject>
+        <dc:subject>Marine plants</dc:subject>
+        <dc:subject>Discoveries in geography -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. Hartwig&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:19:58.722460+00:00"/>
+        <meta name="calibre:title_sort" content="Sea and Its Living Wonders / A Popular Account of the Marvels of the Deep and of the Progress of Martime Discovery from the Earliest Ages to the Present Time, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

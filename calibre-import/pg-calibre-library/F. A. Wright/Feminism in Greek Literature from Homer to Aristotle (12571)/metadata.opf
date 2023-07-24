@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8e53332-415e-42fa-a2c6-02f1af0e5ec7</dc:identifier>
+        <dc:title>Feminism in Greek Literature from Homer to Aristotle</dc:title>
+        <dc:creator opf:file-as="Wright, F. A. (Frederick Adam)" opf:role="aut">F. A. Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59205</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Greek literature -- History and criticism</dc:subject>
+        <dc:subject>Women -- Greece -- History</dc:subject>
+        <dc:subject>Women in literature</dc:subject>
+        <dc:subject>Women and literature -- Greece</dc:subject>
+        <dc:subject>Feminism and literature -- Greece</dc:subject>
+        <dc:subject>Feminist literary criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. A. Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:58:24.969256+00:00"/>
+        <meta name="calibre:title_sort" content="Feminism in Greek Literature from Homer to Aristotle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

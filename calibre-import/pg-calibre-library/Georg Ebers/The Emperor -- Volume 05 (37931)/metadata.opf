@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37931</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">774a51fe-676f-4e8b-87e9-56b1f796d97b</dc:identifier>
+        <dc:title>The Emperor — Volume 05</dc:title>
+        <dc:creator opf:file-as="Ebers, Georg" opf:role="aut">Georg Ebers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hadrian</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>76-138 -- Fiction</dc:subject>
+        <dc:subject>Egypt -- History -- 30 B.C.-640 A.D. -- Fiction</dc:subject>
+        <dc:subject>German fiction -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Georg Ebers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:42:59.992700+00:00"/>
+        <meta name="calibre:title_sort" content="Emperor — Volume 05, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

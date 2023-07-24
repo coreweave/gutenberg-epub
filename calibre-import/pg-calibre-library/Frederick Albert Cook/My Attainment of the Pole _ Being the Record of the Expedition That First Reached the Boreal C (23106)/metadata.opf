@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23106</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afd2f4e0-ca9c-4981-af04-2e74296a01ab</dc:identifier>
+        <dc:title>My Attainment of the Pole / Being the Record of the Expedition That First Reached the Boreal Center, 1907-1909. With the Final Summary of the Polar Controversy</dc:title>
+        <dc:creator opf:file-as="Cook, Frederick Albert" opf:role="aut">Frederick Albert Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36962</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arctic regions -- Discovery and exploration</dc:subject>
+        <dc:subject>North Pole -- Discovery and exploration</dc:subject>
+        <dc:subject>Cook</dc:subject>
+        <dc:subject>Frederick Albert</dc:subject>
+        <dc:subject>1865-1940 -- Travel -- Arctic regions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Albert Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:07:59.229819+00:00"/>
+        <meta name="calibre:title_sort" content="My Attainment of the Pole / Being the Record of the Expedition That First Reached the Boreal Center, 1907-1909. With the Final Summary of the Polar Controversy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86cd64df-9ec4-413e-9332-47e5acfd714e</dc:identifier>
+        <dc:title>The Knight of Malta</dc:title>
+        <dc:creator opf:file-as="Sue, Eugène" opf:role="aut">Eugène Sue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40075</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>French fiction -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugène Sue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:55:18.777103+00:00"/>
+        <meta name="calibre:title_sort" content="Knight of Malta, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d323b217-3dce-42dc-b067-a5c4c7cf3c39</dc:identifier>
+        <dc:title>A Historical Account of Useful Inventions and Scientific Discoveries / Being a manual of instruction and entertainment.</dc:title>
+        <dc:creator opf:file-as="Grant, George" opf:role="aut">George Grant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53613</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inventions -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Grant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:44:52.171988+00:00"/>
+        <meta name="calibre:title_sort" content="Historical Account of Useful Inventions and Scientific Discoveries / Being a manual of instruction and entertainment., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

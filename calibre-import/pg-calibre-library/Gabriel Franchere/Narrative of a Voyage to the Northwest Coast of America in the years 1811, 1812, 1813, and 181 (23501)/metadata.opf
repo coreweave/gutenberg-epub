@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0efeb380-e313-4caa-9b56-f58d8cfe51d3</dc:identifier>
+        <dc:title>Narrative of a Voyage to the Northwest Coast of America in the years 1811, 1812, 1813, and 1814 or the First American Settlement on the Pacific</dc:title>
+        <dc:creator opf:file-as="Franchère, Gabriel" opf:role="aut">Gabriel Franchère</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15911</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astoria (Or.)</dc:subject>
+        <dc:subject>Fur trade -- Oregon</dc:subject>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Canadian -- Description and travel</dc:subject>
+        <dc:subject>Voyages to the Pacific coast</dc:subject>
+        <dc:subject>Oregon Territory -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gabriel Franchère&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:25:13.728332+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of a Voyage to the Northwest Coast of America in the years 1811, 1812, 1813, and 1814 or the First American Settlement on the Pacific"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3792c5fd-7af3-4d38-a8ef-e5a60c2f9736</dc:identifier>
+        <dc:title>Sequential Problem Solving / A Student Handbook with Checklists for Successful Critical Thinking</dc:title>
+        <dc:creator opf:file-as="Lozo, Fredric B." opf:role="aut">Fredric B. Lozo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16547</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Study skills</dc:subject>
+        <dc:subject>Problem solving</dc:subject>
+        <dc:subject>Critical thinking</dc:subject>
+        <dc:subject>Decision making</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fredric B. Lozo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:23:13.808438+00:00"/>
+        <meta name="calibre:title_sort" content="Sequential Problem Solving / A Student Handbook with Checklists for Successful Critical Thinking"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4893</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">964fac41-1f21-48b1-bd93-70099a736f3a</dc:identifier>
+        <dc:title>Antinous: A Poem</dc:title>
+        <dc:creator opf:file-as="Pessoa, Fernando" opf:role="aut">Fernando Pessoa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24262</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hadrian</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>76-138 -- Poetry</dc:subject>
+        <dc:subject>Antinoüs</dc:subject>
+        <dc:subject>approximately 110-130 -- Poetry</dc:subject>
+        <dc:subject>Homosexuality -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fernando Pessoa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:50:06.289225+00:00"/>
+        <meta name="calibre:title_sort" content="Antinous: A Poem"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

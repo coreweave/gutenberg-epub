@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c320f93-f23b-4bd5-bb37-ab5107a79197</dc:identifier>
+        <dc:title>Narrative of the Most Remarkable Events Which Occurred in and near Leipzig Immediately Before, During, and Subsequent to, the Sanguinary Series of Engagements Between the Allied Armies of the French, from the 14th to the 19th October, 1813</dc:title>
+        <dc:creator opf:file-as="Shoberl, Frederic" opf:role="aut">Frederic Shoberl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Leipzig</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Germany</dc:subject>
+        <dc:subject>1813</dc:subject>
+        <dc:subject>Napoleonic Wars</dc:subject>
+        <dc:subject>1800-1815 -- Campaigns -- Germany (East)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Shoberl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:26:02.574609+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Most Remarkable Events Which Occurred in and near Leipzig Immediately Before, During, and Subsequent to, the Sanguinary Series of Engagements Between the Allied Armies of the French, from the 14th to the 19th October, 1813"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

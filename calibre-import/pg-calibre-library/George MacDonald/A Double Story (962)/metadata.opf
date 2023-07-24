@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">962</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f048716d-4b0b-4496-8964-b89e716dd703</dc:identifier>
+        <dc:title>A Double Story</dc:title>
+        <dc:creator opf:file-as="MacDonald, George" opf:role="aut">George MacDonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5676</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Fairies -- Juvenile fiction</dc:subject>
+        <dc:subject>Kindness -- Juvenile fiction</dc:subject>
+        <dc:subject>Selfishness -- Juvenile fiction</dc:subject>
+        <dc:subject>Princesses -- Juvenile fiction</dc:subject>
+        <dc:subject>Kings and rulers -- Juvenile fiction</dc:subject>
+        <dc:subject>Parent and child -- Juvenile fiction</dc:subject>
+        <dc:subject>Pride and vanity -- Juvenile fiction</dc:subject>
+        <dc:subject>Women shepherds -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George MacDonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:40:28.441725+00:00"/>
+        <meta name="calibre:title_sort" content="Double Story, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

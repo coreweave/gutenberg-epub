@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">334d6a99-e540-433c-bf1f-ad06d7807649</dc:identifier>
+        <dc:title>Cupid of Campion</dc:title>
+        <dc:creator opf:file-as="Finn, Francis J. (Francis James)" opf:role="aut">Francis J. Finn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Boarding schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Mississippi River Valley -- Juvenile fiction</dc:subject>
+        <dc:subject>Prairie du Chien (Wis.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Campion College of the Sacred Heart -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Francis J. Finn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:39:57.852462+00:00"/>
+        <meta name="calibre:title_sort" content="Cupid of Campion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f09647f-3ad6-4a5c-b5af-918baba47f63</dc:identifier>
+        <dc:title>The Life of Daniel De Foe</dc:title>
+        <dc:creator opf:file-as="Chalmers, George" opf:role="aut">George Chalmers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40703</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 18th century -- Biography</dc:subject>
+        <dc:subject>Defoe</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1661?-1731</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Chalmers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:27:47.347968+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Daniel De Foe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

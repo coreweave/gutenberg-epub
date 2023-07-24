@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae9910c4-1865-4318-ab6e-a3f3891eb676</dc:identifier>
+        <dc:title>A Question of Identity</dc:title>
+        <dc:creator opf:file-as="Riley, Frank" opf:role="aut">Frank Riley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60467</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Trials (Murder) -- Fiction</dc:subject>
+        <dc:subject>Legal stories</dc:subject>
+        <dc:subject>Lawyers -- Fiction</dc:subject>
+        <dc:subject>Murrow</dc:subject>
+        <dc:subject>Edward R. -- Fiction</dc:subject>
+        <dc:subject>Identity (Philosophical concept) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Riley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:09.945827+00:00"/>
+        <meta name="calibre:title_sort" content="Question of Identity, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa5e4895-c0b5-43cb-bfa2-750edb657cab</dc:identifier>
+        <dc:title>On the Future of our Educational Institutions</dc:title>
+        <dc:creator opf:file-as="Nietzsche, Friedrich Wilhelm" opf:role="aut">Friedrich Wilhelm Nietzsche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28146</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education -- Philosophy</dc:subject>
+        <dc:subject>Nietzsche</dc:subject>
+        <dc:subject>Friedrich Wilhelm</dc:subject>
+        <dc:subject>1844-1900 -- Views on education</dc:subject>
+        <dc:subject>Educational change -- Germany</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Friedrich Wilhelm Nietzsche&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:24:41.292778+00:00"/>
+        <meta name="calibre:title_sort" content="On the Future of our Educational Institutions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

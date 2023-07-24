@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b41d5068-aa56-4642-b3ac-f90aa71a12a0</dc:identifier>
+        <dc:title>The Man in Black: An Historical Novel of the Days of Queen Anne</dc:title>
+        <dc:creator opf:file-as="James, G. P. R. (George Payne Rainsford)" opf:role="aut">G. P. R. James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51174</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Anne</dc:subject>
+        <dc:subject>1702-1714 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. P. R. James&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:16:02.346829+00:00"/>
+        <meta name="calibre:title_sort" content="Man in Black: An Historical Novel of the Days of Queen Anne, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

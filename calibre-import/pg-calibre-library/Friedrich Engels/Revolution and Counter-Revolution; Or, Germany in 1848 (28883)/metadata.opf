@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73ab5870-a7d7-41d9-b30b-5d8b240694a5</dc:identifier>
+        <dc:title>Revolution and Counter-Revolution; Or, Germany in 1848</dc:title>
+        <dc:creator opf:file-as="Engels, Friedrich" opf:role="aut">Friedrich Engels</dc:creator>
+        <dc:creator opf:file-as="Engels, Friedrich" opf:role="aut">Karl Marx</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32966</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germany -- History -- Revolution</dc:subject>
+        <dc:subject>1848-1849</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Friedrich Engels&quot;: &quot;&quot;, &quot;Karl Marx&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:18:59.496108+00:00"/>
+        <meta name="calibre:title_sort" content="Revolution and Counter-Revolution; Or, Germany in 1848"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

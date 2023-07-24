@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19318267-3285-4f7d-abf1-5d95802e14e1</dc:identifier>
+        <dc:title>Essays on the Microscope / Containing a Practical Description of the Most Improved Microscopes, a General History of Insects, etc., etc.</dc:title>
+        <dc:creator opf:file-as="Adams, George" opf:role="aut">George Adams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61169</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Microscopy -- Early works to 1800</dc:subject>
+        <dc:subject>Insects -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Adams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:41:07.242979+00:00"/>
+        <meta name="calibre:title_sort" content="Essays on the Microscope / Containing a Practical Description of the Most Improved Microscopes, a General History of Insects, etc., etc."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

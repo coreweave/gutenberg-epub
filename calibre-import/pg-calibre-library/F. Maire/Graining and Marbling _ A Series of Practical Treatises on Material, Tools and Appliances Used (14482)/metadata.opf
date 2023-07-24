@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f4fa131-cd14-43ed-96b2-4ccb426dfbfa</dc:identifier>
+        <dc:title>Graining and Marbling / A Series of Practical Treatises on Material, Tools and Appliances Used; General Operations; Preparing Oil Graining Colors; Mixing; Rubbing; Applying Distemper Colors; Wiping Out; Penciling; The Use of Crayons; Review of Woods; The Graining of Oak, Ash, Cherry, Satinwood, Mahogany, Maple, Bird's Eye Maple, Sycamore, Walnut, Etc.; Marbling in All Shades.</dc:title>
+        <dc:creator opf:file-as="Maire, F. (Frederick)" opf:role="aut">F. Maire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43500</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Graining</dc:subject>
+        <dc:subject>Marbling</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;F. Maire&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:55:59.170521+00:00"/>
+        <meta name="calibre:title_sort" content="Graining and Marbling / A Series of Practical Treatises on Material, Tools and Appliances Used; General Operations; Preparing Oil Graining Colors; Mixing; Rubbing; Applying Distemper Colors; Wiping Out; Penciling; The Use of Crayons; Review of Woods; The Graining of Oak, Ash, Cherry, Satinwood, Mahogany, Maple, Bird's Eye Maple, Sycamore, Walnut, Etc.; Marbling in All Shades."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

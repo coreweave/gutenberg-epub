@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb579f33-fb53-47ac-9a99-d1785a99dd85</dc:identifier>
+        <dc:title>Technique of Eye Dissections</dc:title>
+        <dc:creator opf:file-as="Woll, Frederic A. (Frederic Albert)" opf:role="aut">Frederic A. Woll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62544</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Eye -- Surgery</dc:subject>
+        <dc:subject>Dissection</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic A. Woll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:23:13.351628+00:00"/>
+        <meta name="calibre:title_sort" content="Technique of Eye Dissections"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

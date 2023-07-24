@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6a100dd-170e-4810-a1d9-2366b88db4c6</dc:identifier>
+        <dc:title>The Bibliography of Walt Whitman</dc:title>
+        <dc:creator opf:file-as="Shay, Frank" opf:role="aut">Frank Shay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31781</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Whitman</dc:subject>
+        <dc:subject>Walt</dc:subject>
+        <dc:subject>1819-1892 -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frank Shay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:54:43.197629+00:00"/>
+        <meta name="calibre:title_sort" content="Bibliography of Walt Whitman, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

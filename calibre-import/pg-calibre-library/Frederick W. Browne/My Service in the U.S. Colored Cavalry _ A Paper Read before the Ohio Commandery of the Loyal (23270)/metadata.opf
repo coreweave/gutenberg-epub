@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cd342b0-dd15-4384-87e6-2ddf72f03150</dc:identifier>
+        <dc:title>My Service in the U.S. Colored Cavalry / A Paper Read before the Ohio Commandery of the Loyal Legion, March 4, 1908</dc:title>
+        <dc:creator opf:file-as="Browne, Frederick W." opf:role="aut">Frederick W. Browne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31972</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>1861-1865 -- Participation</dc:subject>
+        <dc:subject>African American</dc:subject>
+        <dc:subject>Browne</dc:subject>
+        <dc:subject>Frederick W.</dc:subject>
+        <dc:subject>United States. Army. Colored Cavalry Regiment</dc:subject>
+        <dc:subject>1st (1863-1866)</dc:subject>
+        <dc:subject>United States. Army -- African American troops</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick W. Browne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:15:16.320075+00:00"/>
+        <meta name="calibre:title_sort" content="My Service in the U.S. Colored Cavalry / A Paper Read before the Ohio Commandery of the Loyal Legion, March 4, 1908"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

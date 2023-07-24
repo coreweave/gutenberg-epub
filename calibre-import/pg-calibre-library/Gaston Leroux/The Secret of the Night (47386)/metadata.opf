@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a887992-f077-42e0-a8bb-c7afe609ae02</dc:identifier>
+        <dc:title>The Secret of the Night</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1686</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Rouletabille</dc:subject>
+        <dc:subject>Joseph (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Generals -- Fiction</dc:subject>
+        <dc:subject>Attempted assassination -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Gaston Leroux&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:27:06.502567+00:00"/>
+        <meta name="calibre:title_sort" content="Secret of the Night, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

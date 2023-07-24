@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47bfb79e-20a5-4270-b9c0-1b24237516d4</dc:identifier>
+        <dc:title>Hector Graeme</dc:title>
+        <dc:creator opf:file-as="Brentwood, Evelyn" opf:role="aut">Evelyn Brentwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46833</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>India -- History -- British occupation</dc:subject>
+        <dc:subject>1765-1947 -- Fiction</dc:subject>
+        <dc:subject>British -- India -- Fiction</dc:subject>
+        <dc:subject>Great Britain. Army -- Officers -- Fiction</dc:subject>
+        <dc:subject>British -- South Africa -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Evelyn Brentwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:26:17.863382+00:00"/>
+        <meta name="calibre:title_sort" content="Hector Graeme"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

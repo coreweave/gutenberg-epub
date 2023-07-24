@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19b54652-65c9-451a-a9e8-be2c57bde614</dc:identifier>
+        <dc:title>Bottoms Up: An Application of the Slapstick to Satire</dc:title>
+        <dc:creator opf:file-as="Nathan, George Jean" opf:role="aut">George Jean Nathan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66775</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American wit and humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Jean Nathan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:32:20.228520+00:00"/>
+        <meta name="calibre:title_sort" content="Bottoms Up: An Application of the Slapstick to Satire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

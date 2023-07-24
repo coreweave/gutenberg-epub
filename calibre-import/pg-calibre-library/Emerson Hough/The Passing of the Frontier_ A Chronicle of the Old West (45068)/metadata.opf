@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45068</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">157c77a9-8487-4789-8e25-8a3b9d269bdb</dc:identifier>
+        <dc:title>The Passing of the Frontier: A Chronicle of the Old West</dc:title>
+        <dc:creator opf:file-as="Hough, Emerson" opf:role="aut">Emerson Hough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3033</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- History</dc:subject>
+        <dc:subject>Frontier and pioneer life -- West (U.S.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Emerson Hough&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:11:35.585018+00:00"/>
+        <meta name="calibre:title_sort" content="Passing of the Frontier: A Chronicle of the Old West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

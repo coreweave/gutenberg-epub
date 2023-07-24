@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a68699d2-5260-4b16-af5e-8cf48a6b134b</dc:identifier>
+        <dc:title>The Gold Sickle; Or, Hena, The Virgin of The Isle of Sen. A Tale of Druid Gaul</dc:title>
+        <dc:creator opf:file-as="Sue, Eugène" opf:role="aut">Eugène Sue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Druids and druidism -- Fiction</dc:subject>
+        <dc:subject>Gaul -- History -- To 58 B.C. -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugène Sue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:59:24.425920+00:00"/>
+        <meta name="calibre:title_sort" content="Gold Sickle; Or, Hena, The Virgin of The Isle of Sen. A Tale of Druid Gaul, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

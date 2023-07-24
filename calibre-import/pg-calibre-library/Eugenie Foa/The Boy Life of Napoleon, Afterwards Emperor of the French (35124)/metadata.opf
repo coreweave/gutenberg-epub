@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35124</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca1a37a7-2db7-4f80-ab2d-89dcf64cbf88</dc:identifier>
+        <dc:title>The Boy Life of Napoleon, Afterwards Emperor of the French</dc:title>
+        <dc:creator opf:file-as="Foa, Eugénie" opf:role="aut">Eugénie Foa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9479</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Childhood and youth</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eugénie Foa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:20:50.908045+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Life of Napoleon, Afterwards Emperor of the French, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

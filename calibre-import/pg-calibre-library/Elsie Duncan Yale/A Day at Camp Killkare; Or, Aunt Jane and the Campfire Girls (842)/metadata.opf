@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21b50d36-1f49-4e82-b40b-56b49f3da72b</dc:identifier>
+        <dc:title>A Day at Camp Killkare; Or, Aunt Jane and the Campfire Girls</dc:title>
+        <dc:creator opf:file-as="Yale, Elsie Duncan" opf:role="aut">Elsie Duncan Yale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52333</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Camping -- Drama</dc:subject>
+        <dc:subject>Camp Fire Girls -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elsie Duncan Yale&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:38:40.067179+00:00"/>
+        <meta name="calibre:title_sort" content="Day at Camp Killkare; Or, Aunt Jane and the Campfire Girls, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

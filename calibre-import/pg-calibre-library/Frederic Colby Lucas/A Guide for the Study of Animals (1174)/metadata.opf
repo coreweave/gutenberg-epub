@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3b0cbee-3310-40a7-a8af-9bccf6f67409</dc:identifier>
+        <dc:title>A Guide for the Study of Animals</dc:title>
+        <dc:creator opf:file-as="Lucas, Frederic Colby" opf:role="aut">Frederic Colby Lucas</dc:creator>
+        <dc:creator opf:file-as="Lucas, Frederic Colby" opf:role="aut">Harold Brough Shinn</dc:creator>
+        <dc:creator opf:file-as="Lucas, Frederic Colby" opf:role="aut">Mabel Elizabeth Smallwood</dc:creator>
+        <dc:creator opf:file-as="Lucas, Frederic Colby" opf:role="aut">Worrallo Whitney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34984</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zoology -- Laboratory manuals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederic Colby Lucas&quot;: &quot;&quot;, &quot;Harold Brough Shinn&quot;: &quot;&quot;, &quot;Mabel Elizabeth Smallwood&quot;: &quot;&quot;, &quot;Worrallo Whitney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:43:46.098817+00:00"/>
+        <meta name="calibre:title_sort" content="Guide for the Study of Animals, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

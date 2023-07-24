@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1f4cbd8-b32c-4f84-a367-01b37553fe13</dc:identifier>
+        <dc:title>Liliom: A Legend in Seven Scenes and a Prologue</dc:title>
+        <dc:creator opf:file-as="Molnár, Ferenc" opf:role="aut">Ferenc Molnár</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48749</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hungary -- Drama</dc:subject>
+        <dc:subject>Hungarian drama -- Translations into English</dc:subject>
+        <dc:subject>Purgatory -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ferenc Molnár&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:04:46.836260+00:00"/>
+        <meta name="calibre:title_sort" content="Liliom: A Legend in Seven Scenes and a Prologue"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

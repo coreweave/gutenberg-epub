@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e12ed134-c06a-4d2d-a052-5fcdcf89b94e</dc:identifier>
+        <dc:title>Boy Scouts in Southern Waters; Or, Spaniard's Treasure Chest</dc:title>
+        <dc:creator opf:file-as="Ralphson, G. Harvey (George Harvey)" opf:role="aut">G. Harvey Ralphson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13859</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Treasure troves -- Juvenile fiction</dc:subject>
+        <dc:subject>Boy Scouts of America -- Juvenile fiction</dc:subject>
+        <dc:subject>Mississippi -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;G. Harvey Ralphson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:32:58.767914+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Scouts in Southern Waters; Or, Spaniard's Treasure Chest"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

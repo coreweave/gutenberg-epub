@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19043</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">defa2dc3-b379-4870-b905-05dbb5c4143a</dc:identifier>
+        <dc:title>Korean Buddhism: History—Condition—Art</dc:title>
+        <dc:creator opf:file-as="Starr, Frederick" opf:role="aut">Frederick Starr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47957</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Buddhist art</dc:subject>
+        <dc:subject>Buddhism -- Korea</dc:subject>
+        <dc:subject>Art -- Korea</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Starr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:29:35.863121+00:00"/>
+        <meta name="calibre:title_sort" content="Korean Buddhism: History—Condition—Art"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

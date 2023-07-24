@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8598fc9d-ec5a-4b65-88c8-3dc9df604306</dc:identifier>
+        <dc:title>The Regular Brigade of the Fourteenth Army Corps, the Army of the Cumberland, in the Battle of Stone River, or Murfreesboro', Tennessee</dc:title>
+        <dc:creator opf:file-as="Phisterer, Frederick" opf:role="aut">Frederick Phisterer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32073</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>Stones River</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Murfreesboro</dc:subject>
+        <dc:subject>Tenn.</dc:subject>
+        <dc:subject>1862-1863</dc:subject>
+        <dc:subject>United States. Army. Corps</dc:subject>
+        <dc:subject>14th</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Frederick Phisterer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:34:06.290037+00:00"/>
+        <meta name="calibre:title_sort" content="Regular Brigade of the Fourteenth Army Corps, the Army of the Cumberland, in the Battle of Stone River, or Murfreesboro', Tennessee, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

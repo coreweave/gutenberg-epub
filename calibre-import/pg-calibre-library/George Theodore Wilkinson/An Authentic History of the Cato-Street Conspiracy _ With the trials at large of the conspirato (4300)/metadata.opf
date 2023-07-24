@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98ec9ba2-1131-433d-a656-564fee9f5d89</dc:identifier>
+        <dc:title>An Authentic History of the Cato-Street Conspiracy / With the trials at large of the conspirators, for high treason and murder, a description of their weapons and combustible machines, and every particular connected with the rise, progress, discovery, and termination of the horrid plot</dc:title>
+        <dc:creator opf:file-as="Wilkinson, George Theodore" opf:role="aut">George Theodore Wilkinson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67447</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- George IV</dc:subject>
+        <dc:subject>1820-1830</dc:subject>
+        <dc:subject>Trials (Murder) -- England -- London</dc:subject>
+        <dc:subject>Thistlewood</dc:subject>
+        <dc:subject>Arthur</dc:subject>
+        <dc:subject>1770-1820 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Cato Street Conspiracy</dc:subject>
+        <dc:subject>1820</dc:subject>
+        <dc:subject>Trials (Treason) -- England -- London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Theodore Wilkinson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:38:29.885150+00:00"/>
+        <meta name="calibre:title_sort" content="Authentic History of the Cato-Street Conspiracy / With the trials at large of the conspirators, for high treason and murder, a description of their weapons and combustible machines, and every particular connected with the rise, progress, discovery, and termination of the horrid plot, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
