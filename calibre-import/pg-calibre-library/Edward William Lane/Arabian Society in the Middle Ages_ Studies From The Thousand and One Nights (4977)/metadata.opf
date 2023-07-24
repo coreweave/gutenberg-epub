@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8736dac4-b1f2-4939-8e5d-86017a272be1</dc:identifier>
+        <dc:title>Arabian Society in the Middle Ages: Studies From The Thousand and One Nights</dc:title>
+        <dc:creator opf:file-as="Lane, Edward William" opf:role="aut">Edward William Lane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Egypt -- Social life and customs</dc:subject>
+        <dc:subject>Arabian nights</dc:subject>
+        <dc:subject>Social history -- Medieval</dc:subject>
+        <dc:subject>500-1500</dc:subject>
+        <dc:subject>Islamic Empire -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward William Lane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:51:45.812067+00:00"/>
+        <meta name="calibre:title_sort" content="Arabian Society in the Middle Ages: Studies From The Thousand and One Nights"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

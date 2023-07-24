@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46976</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bb3f93a-2c89-4f17-915e-1e80ebe954f8</dc:identifier>
+        <dc:title>The Rover Boys winning a fortune; or, Strenuous days ashore and afloat</dc:title>
+        <dc:creator opf:file-as="Stratemeyer, Edward" opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69463</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Treasure troves -- Juvenile fiction</dc:subject>
+        <dc:subject>Mexico</dc:subject>
+        <dc:subject>Gulf of -- Juvenile fiction</dc:subject>
+        <dc:subject>Securities industry -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:02:47.286798+00:00"/>
+        <meta name="calibre:title_sort" content="Rover Boys winning a fortune; or, Strenuous days ashore and afloat, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

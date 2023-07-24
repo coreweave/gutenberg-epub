@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f30c03a4-c5a6-482a-858f-53c7988b5fbf</dc:identifier>
+        <dc:title>Four Boy Hunters; Or, The Outing of the Gun Club</dc:title>
+        <dc:creator opf:file-as="Stratemeyer, Edward" opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12952</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Camping -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunting -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:16:53.447394+00:00"/>
+        <meta name="calibre:title_sort" content="Four Boy Hunters; Or, The Outing of the Gun Club"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

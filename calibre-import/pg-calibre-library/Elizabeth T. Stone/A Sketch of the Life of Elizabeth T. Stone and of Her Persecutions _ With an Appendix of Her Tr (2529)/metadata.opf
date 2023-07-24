@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb2a46f6-9f58-401a-9f46-9636bf4607b0</dc:identifier>
+        <dc:title>A Sketch of the Life of Elizabeth T. Stone and of Her Persecutions / With an Appendix of Her Treatment and Sufferings While in the Charlestown McLean Assylum, Where She Was Confined Under the Pretence of Insanity</dc:title>
+        <dc:creator opf:file-as="Stone, Elizabeth T." opf:role="aut">Elizabeth T. Stone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56407</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mental illness -- Personal narratives</dc:subject>
+        <dc:subject>Stone</dc:subject>
+        <dc:subject>Elizabeth T.</dc:subject>
+        <dc:subject>1811-</dc:subject>
+        <dc:subject>McLean Hospital</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth T. Stone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:06:08.906049+00:00"/>
+        <meta name="calibre:title_sort" content="Sketch of the Life of Elizabeth T. Stone and of Her Persecutions / With an Appendix of Her Treatment and Sufferings While in the Charlestown McLean Assylum, Where She Was Confined Under the Pretence of Insanity, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

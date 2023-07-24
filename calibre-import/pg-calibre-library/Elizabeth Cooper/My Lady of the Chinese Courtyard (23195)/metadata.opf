@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df95c056-b83f-461c-be63-eb70cdee675f</dc:identifier>
+        <dc:title>My Lady of the Chinese Courtyard</dc:title>
+        <dc:creator opf:file-as="Cooper, Elizabeth" opf:role="aut">Elizabeth Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19665</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- China</dc:subject>
+        <dc:subject>China -- Social life and customs -- 1644-1912</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Cooper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:11:53.601921+00:00"/>
+        <meta name="calibre:title_sort" content="My Lady of the Chinese Courtyard"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e266165-4c25-4425-a69a-4e1a84542d50</dc:identifier>
+        <dc:title>A cup of sweets, that can never cloy: or, delightful tales for good children</dc:title>
+        <dc:creator opf:file-as="Sandham, Elizabeth" opf:role="aut">Elizabeth Sandham</dc:creator>
+        <dc:creator opf:file-as="Sandham, Elizabeth" opf:role="aut">active 1804-1816 Elizabeth Semple</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42024</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Sandham&quot;: &quot;&quot;, &quot;active 1804-1816 Elizabeth Semple&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:17:48.137653+00:00"/>
+        <meta name="calibre:title_sort" content="cup of sweets, that can never cloy: or, delightful tales for good children, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

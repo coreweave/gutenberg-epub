@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a304881f-541e-4b63-9994-bdfd79ef5c49</dc:identifier>
+        <dc:title>Report to Her Majesty's Principal Secretary of State For the Home Department, from the Poor Law Commissioners, on an Inquiry Into the Sanitary Condition of the Labouring Population of Great Britain; With Appendices</dc:title>
+        <dc:creator opf:file-as="Chadwick, Edwin" opf:role="aut">Edwin Chadwick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65090</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Public health -- Great Britain</dc:subject>
+        <dc:subject>Housing -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Chadwick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:15:03.051896+00:00"/>
+        <meta name="calibre:title_sort" content="Report to Her Majesty's Principal Secretary of State For the Home Department, from the Poor Law Commissioners, on an Inquiry Into the Sanitary Condition of the Labouring Population of Great Britain; With Appendices"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

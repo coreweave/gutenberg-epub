@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54a58750-63d3-4202-a17b-e151f539dafd</dc:identifier>
+        <dc:title>Child Labor in City Streets</dc:title>
+        <dc:creator opf:file-as="Clopper, Edward Nicholas" opf:role="aut">Edward Nicholas Clopper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44396</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Child labor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Nicholas Clopper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:08:07.105966+00:00"/>
+        <meta name="calibre:title_sort" content="Child Labor in City Streets"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

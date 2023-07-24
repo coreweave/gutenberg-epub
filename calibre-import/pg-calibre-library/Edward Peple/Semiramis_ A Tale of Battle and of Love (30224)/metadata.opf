@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9eacbd0-14f9-4b01-b7a3-ef53cf1d7582</dc:identifier>
+        <dc:title>Semiramis: A Tale of Battle and of Love</dc:title>
+        <dc:creator opf:file-as="Peple, Edward" opf:role="aut">Edward Peple</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42822</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Semiramis</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Shamshi-Adad V</dc:subject>
+        <dc:subject>King of Assyria</dc:subject>
+        <dc:subject>active 9th century B.C. -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Peple&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:22:04.876655+00:00"/>
+        <meta name="calibre:title_sort" content="Semiramis: A Tale of Battle and of Love"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

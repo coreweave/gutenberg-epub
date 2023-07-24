@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25379</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ecb206c-3a39-4446-b42c-faa3bd4bde36</dc:identifier>
+        <dc:title>Our Philadelphia</dc:title>
+        <dc:creator opf:file-as="Pennell, Elizabeth Robins" opf:role="aut">Elizabeth Robins Pennell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38076</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pennell</dc:subject>
+        <dc:subject>Elizabeth Robins</dc:subject>
+        <dc:subject>1855-1936</dc:subject>
+        <dc:subject>Lithography</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Philadelphia (Pa.) -- Social life and customs</dc:subject>
+        <dc:subject>Philadelphia (Pa.) -- Description and travel</dc:subject>
+        <dc:subject>Philadelphia (Pa.) -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Robins Pennell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:44:25.968306+00:00"/>
+        <meta name="calibre:title_sort" content="Our Philadelphia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b7605d3-603a-4e28-83a5-215addbf5beb</dc:identifier>
+        <dc:title>Jackson's Gymnastics for the Fingers and Wrist / being a system of gymnastics, based on anatomical principles, for developing and strengthening the muscles of the hand for musical, mechanical and medical purposes: with thirty-seven diagrams</dc:title>
+        <dc:creator opf:file-as="Jackson, Edwin Ward" opf:role="aut">Edwin Ward Jackson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67375</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Musical instruments -- Instruction and study</dc:subject>
+        <dc:subject>Hand exercises</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Ward Jackson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:56:27.053421+00:00"/>
+        <meta name="calibre:title_sort" content="Jackson's Gymnastics for the Fingers and Wrist / being a system of gymnastics, based on anatomical principles, for developing and strengthening the muscles of the hand for musical, mechanical and medical purposes: with thirty-seven diagrams"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

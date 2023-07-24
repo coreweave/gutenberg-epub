@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03ca7bec-8e71-4d07-b5e4-1b182e7878fb</dc:identifier>
+        <dc:title>Early Lives of Charlemagne by Eginhard and the Monk of St Gall edited by Prof. A. J. Grant</dc:title>
+        <dc:creator opf:file-as="Einhard" opf:role="aut">Einhard</dc:creator>
+        <dc:creator opf:file-as="Einhard" opf:role="aut">Balbulus Notker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48870</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Charlemagne</dc:subject>
+        <dc:subject>Emperor</dc:subject>
+        <dc:subject>742-814</dc:subject>
+        <dc:subject>France -- Kings and rulers -- Biography</dc:subject>
+        <dc:subject>Holy Roman Empire -- Kings and rulers -- Biography</dc:subject>
+        <dc:subject>France -- History -- To 987 -- Sources</dc:subject>
+        <dc:subject>Holy Roman Empire -- History -- To 1517 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Einhard&quot;: &quot;&quot;, &quot;Balbulus Notker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:17:59.142848+00:00"/>
+        <meta name="calibre:title_sort" content="Early Lives of Charlemagne by Eginhard and the Monk of St Gall edited by Prof. A. J. Grant"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

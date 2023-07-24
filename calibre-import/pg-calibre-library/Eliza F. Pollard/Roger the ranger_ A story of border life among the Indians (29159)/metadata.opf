@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e4cc16a-7ecb-446c-8ac6-b0e2b23d2f02</dc:identifier>
+        <dc:title>Roger the ranger: A story of border life among the Indians</dc:title>
+        <dc:creator opf:file-as="Pollard, Eliza F." opf:role="aut">Eliza F. Pollard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68694</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Indians of North America -- Canada -- Juvenile fiction</dc:subject>
+        <dc:subject>United States -- History -- French and Indian War</dc:subject>
+        <dc:subject>1754-1763 -- Juvenile fiction</dc:subject>
+        <dc:subject>Huguenots -- Juvenile fiction</dc:subject>
+        <dc:subject>Langlade</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1728-1800 -- Juvenile fiction</dc:subject>
+        <dc:subject>Québec (Québec) -- History -- French and Indian War</dc:subject>
+        <dc:subject>Canada -- History -- 1755-1763 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eliza F. Pollard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:31:32.157042+00:00"/>
+        <meta name="calibre:title_sort" content="Roger the ranger: A story of border life among the Indians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3531722b-badd-406d-822b-d9cd77b78632</dc:identifier>
+        <dc:title>John Sobieski: Lothian prize essay for 1881</dc:title>
+        <dc:creator opf:file-as="Tatham, Edward H. R. (Edward Henry Ralph)" opf:role="aut">Edward H. R. Tatham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68578</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>John III Sobieski</dc:subject>
+        <dc:subject>King of Poland</dc:subject>
+        <dc:subject>1629-1696</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward H. R. Tatham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:10:18.835392+00:00"/>
+        <meta name="calibre:title_sort" content="John Sobieski: Lothian prize essay for 1881"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

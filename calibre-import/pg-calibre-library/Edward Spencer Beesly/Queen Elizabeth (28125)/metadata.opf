@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">599bec6a-1ace-4bfe-9343-5397c638f292</dc:identifier>
+        <dc:title>Queen Elizabeth</dc:title>
+        <dc:creator opf:file-as="Beesly, Edward Spencer" opf:role="aut">Edward Spencer Beesly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50982</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Elizabeth I</dc:subject>
+        <dc:subject>Queen of England</dc:subject>
+        <dc:subject>1533-1603</dc:subject>
+        <dc:subject>Queens -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Spencer Beesly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:44:24.716635+00:00"/>
+        <meta name="calibre:title_sort" content="Queen Elizabeth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1910</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9649d420-52f9-4d50-9ba1-d1bd7060d06c</dc:identifier>
+        <dc:title>A Mountain Woman</dc:title>
+        <dc:creator opf:file-as="Peattie, Elia Wilkinson" opf:role="aut">Elia Wilkinson Peattie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1877</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elia Wilkinson Peattie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:38.496051+00:00"/>
+        <meta name="calibre:title_sort" content="Mountain Woman, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

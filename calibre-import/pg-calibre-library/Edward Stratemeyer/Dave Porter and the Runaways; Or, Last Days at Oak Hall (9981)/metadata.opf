@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9981</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21c15758-34ce-421f-8dfd-b6acfca4d406</dc:identifier>
+        <dc:title>Dave Porter and the Runaways; Or, Last Days at Oak Hall</dc:title>
+        <dc:creator opf:file-as="Stratemeyer, Edward" opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28654</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boarding schools -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:47:35.959606+00:00"/>
+        <meta name="calibre:title_sort" content="Dave Porter and the Runaways; Or, Last Days at Oak Hall"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

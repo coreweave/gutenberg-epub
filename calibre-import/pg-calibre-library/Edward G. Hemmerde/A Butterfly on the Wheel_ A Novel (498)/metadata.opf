@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">deee57b9-c2d5-4679-b762-fd2ff3f61051</dc:identifier>
+        <dc:title>A Butterfly on the Wheel: A Novel</dc:title>
+        <dc:creator opf:file-as="Hemmerde, Edward G. (Edward George)" opf:role="aut">Edward G. Hemmerde</dc:creator>
+        <dc:creator opf:file-as="Hemmerde, Edward G. (Edward George)" opf:role="aut">Francis Neilson</dc:creator>
+        <dc:creator opf:file-as="Hemmerde, Edward G. (Edward George)" opf:role="aut">Guy Thorne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36467</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward G. Hemmerde&quot;: &quot;&quot;, &quot;Francis Neilson&quot;: &quot;&quot;, &quot;Guy Thorne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:33:26.474145+00:00"/>
+        <meta name="calibre:title_sort" content="Butterfly on the Wheel: A Novel, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

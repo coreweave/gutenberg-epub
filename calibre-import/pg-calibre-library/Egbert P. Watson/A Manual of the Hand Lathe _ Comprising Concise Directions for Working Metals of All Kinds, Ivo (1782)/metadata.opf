@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">637455ab-0a23-4eff-ab6f-b38f649b4d9c</dc:identifier>
+        <dc:title>A Manual of the Hand Lathe / Comprising Concise Directions for Working Metals of All Kinds, Ivory, Bone and Precious Woods</dc:title>
+        <dc:creator opf:file-as="Watson, Egbert P. (Egbert Pomeroy)" opf:role="aut">Egbert P. Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48179</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Turning (Lathe work)</dc:subject>
+        <dc:subject>Lathes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Egbert P. Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:53:33.995362+00:00"/>
+        <meta name="calibre:title_sort" content="Manual of the Hand Lathe / Comprising Concise Directions for Working Metals of All Kinds, Ivory, Bone and Precious Woods, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e91a824c-938a-46a1-a3c4-e691b3c90d11</dc:identifier>
+        <dc:title>The Hoosier Schoolmaster: A Story of Backwoods Life in Indiana</dc:title>
+        <dc:creator opf:file-as="Eggleston, Edward" opf:role="aut">Edward Eggleston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15099</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teachers -- Fiction</dc:subject>
+        <dc:subject>Indiana -- Fiction</dc:subject>
+        <dc:subject>Country homes -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Eggleston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:03:45.118781+00:00"/>
+        <meta name="calibre:title_sort" content="Hoosier Schoolmaster: A Story of Backwoods Life in Indiana, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

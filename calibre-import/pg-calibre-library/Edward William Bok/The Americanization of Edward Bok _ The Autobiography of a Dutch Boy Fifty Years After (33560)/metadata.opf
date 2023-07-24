@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1889c522-b0ed-4732-b4fa-53d02ddb1e77</dc:identifier>
+        <dc:title>The Americanization of Edward Bok / The Autobiography of a Dutch Boy Fifty Years After</dc:title>
+        <dc:creator opf:file-as="Bok, Edward William" opf:role="aut">Edward William Bok</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3538</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bok</dc:subject>
+        <dc:subject>Edward William</dc:subject>
+        <dc:subject>1863-1930</dc:subject>
+        <dc:subject>Ladies' Home Journal</dc:subject>
+        <dc:subject>Periodical editors -- United States -- Biography</dc:subject>
+        <dc:subject>Dutch Americans -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward William Bok&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:03:31.344565+00:00"/>
+        <meta name="calibre:title_sort" content="Americanization of Edward Bok / The Autobiography of a Dutch Boy Fifty Years After, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

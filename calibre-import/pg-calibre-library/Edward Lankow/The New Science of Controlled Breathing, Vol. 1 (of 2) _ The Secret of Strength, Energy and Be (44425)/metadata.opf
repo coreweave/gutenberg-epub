@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b2922e7-4966-4bbb-8fa3-ad1d8c5e1f41</dc:identifier>
+        <dc:title>The New Science of Controlled Breathing, Vol. 1 (of 2) / The Secret of Strength, Energy and Beauty—Through Breath Control</dc:title>
+        <dc:creator opf:file-as="Lankow, Edward" opf:role="aut">Edward Lankow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61944</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voice culture</dc:subject>
+        <dc:subject>Respiration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Lankow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:35:03.971644+00:00"/>
+        <meta name="calibre:title_sort" content="New Science of Controlled Breathing, Vol. 1 (of 2) / The Secret of Strength, Energy and Beauty—Through Breath Control, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

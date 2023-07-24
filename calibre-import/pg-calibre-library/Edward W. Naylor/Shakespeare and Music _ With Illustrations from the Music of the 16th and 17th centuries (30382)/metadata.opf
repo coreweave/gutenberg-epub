@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94f9343d-2251-4dd7-9013-24c5d53c3a56</dc:identifier>
+        <dc:title>Shakespeare and Music / With Illustrations from the Music of the 16th and 17th centuries</dc:title>
+        <dc:creator opf:file-as="Naylor, Edward W. (Edward Woodall)" opf:role="aut">Edward W. Naylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19676</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music and literature</dc:subject>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Knowledge -- Music</dc:subject>
+        <dc:subject>Music -- 16th century -- History and criticism</dc:subject>
+        <dc:subject>Music -- 17th century -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward W. Naylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:30:12.373075+00:00"/>
+        <meta name="calibre:title_sort" content="Shakespeare and Music / With Illustrations from the Music of the 16th and 17th centuries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

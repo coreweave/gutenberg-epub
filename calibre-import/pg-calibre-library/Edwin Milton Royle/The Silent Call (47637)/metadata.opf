@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">144dace0-fd54-4585-9708-0d4b305f416b</dc:identifier>
+        <dc:title>The Silent Call</dc:title>
+        <dc:creator opf:file-as="Royle, Edwin Milton" opf:role="aut">Edwin Milton Royle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51611</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Fiction</dc:subject>
+        <dc:subject>Western stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Milton Royle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:42:05.172026+00:00"/>
+        <meta name="calibre:title_sort" content="Silent Call, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

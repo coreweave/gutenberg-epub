@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24919</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fb4de7c-dfdd-41f3-8c1a-dd264d61876d</dc:identifier>
+        <dc:title>On the Indian Trail / Stories of Missionary Work among Cree and Salteaux Indians</dc:title>
+        <dc:creator opf:file-as="Young, Egerton Ryerson" opf:role="aut">Egerton Ryerson Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23270</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ojibwa Indians -- Missions</dc:subject>
+        <dc:subject>Cree Indians -- Missions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Egerton Ryerson Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:25:02.037770+00:00"/>
+        <meta name="calibre:title_sort" content="On the Indian Trail / Stories of Missionary Work among Cree and Salteaux Indians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

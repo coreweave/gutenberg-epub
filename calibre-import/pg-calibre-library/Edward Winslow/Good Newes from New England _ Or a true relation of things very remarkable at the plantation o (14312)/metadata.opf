@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">186e5300-92a7-48e7-a6bd-51d1f9dc051a</dc:identifier>
+        <dc:title>Good Newes from New England / Or a true relation of things very remarkable at the plantation of Plimoth in New-England</dc:title>
+        <dc:creator opf:file-as="Winslow, Edward" opf:role="aut">Edward Winslow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Massachusetts -- History -- New Plymouth</dc:subject>
+        <dc:subject>1620-1691</dc:subject>
+        <dc:subject>Pilgrims (New Plymouth Colony) -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Winslow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:50:34.141124+00:00"/>
+        <meta name="calibre:title_sort" content="Good Newes from New England / Or a true relation of things very remarkable at the plantation of Plimoth in New-England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

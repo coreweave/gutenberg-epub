@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c15a7056-c456-4a3f-87c4-f901c7055270</dc:identifier>
+        <dc:title>Letters of a Woman Homesteader</dc:title>
+        <dc:creator opf:file-as="Stewart, Elinore Pruitt" opf:role="aut">Elinore Pruitt Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Wyoming</dc:subject>
+        <dc:subject>Wyoming -- Biography</dc:subject>
+        <dc:subject>Stewart</dc:subject>
+        <dc:subject>Elinore Pruitt</dc:subject>
+        <dc:subject>1878- -- Correspondence</dc:subject>
+        <dc:subject>Ranch life -- Wyoming -- History</dc:subject>
+        <dc:subject>Pioneers -- Wyoming -- Correspondence</dc:subject>
+        <dc:subject>Women pioneers -- Wyoming -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elinore Pruitt Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:51:14.803517+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of a Woman Homesteader"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

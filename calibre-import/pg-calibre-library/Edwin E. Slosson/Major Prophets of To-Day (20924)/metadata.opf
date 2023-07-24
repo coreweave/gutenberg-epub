@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20924</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ba6532e-be43-40fa-9cd6-4a02624be3a7</dc:identifier>
+        <dc:title>Major Prophets of To-Day</dc:title>
+        <dc:creator opf:file-as="Slosson, Edwin E. (Edwin Emery)" opf:role="aut">Edwin E. Slosson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48180</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bergson</dc:subject>
+        <dc:subject>Henri</dc:subject>
+        <dc:subject>1859-1941</dc:subject>
+        <dc:subject>Poincaré</dc:subject>
+        <dc:subject>1854-1912</dc:subject>
+        <dc:subject>Maeterlinck</dc:subject>
+        <dc:subject>Maurice</dc:subject>
+        <dc:subject>1862-1949</dc:subject>
+        <dc:subject>Metchnikoff</dc:subject>
+        <dc:subject>Elie</dc:subject>
+        <dc:subject>1845-1916</dc:subject>
+        <dc:subject>Ostwald</dc:subject>
+        <dc:subject>Wilhelm</dc:subject>
+        <dc:subject>1853-1932</dc:subject>
+        <dc:subject>Haeckel</dc:subject>
+        <dc:subject>Ernst</dc:subject>
+        <dc:subject>1834-1919</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin E. Slosson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:39:22.792841+00:00"/>
+        <meta name="calibre:title_sort" content="Major Prophets of To-Day"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

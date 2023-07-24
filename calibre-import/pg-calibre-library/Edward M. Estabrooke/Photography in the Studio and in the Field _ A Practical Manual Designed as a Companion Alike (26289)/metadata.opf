@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d240bc1c-b08c-4abe-bf33-72fb93cc1995</dc:identifier>
+        <dc:title>Photography in the Studio and in the Field / A Practical Manual Designed as a Companion Alike to the Professional and the Amateur Photographer</dc:title>
+        <dc:creator opf:file-as="Estabrooke, Edward M." opf:role="aut">Edward M. Estabrooke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42982</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Photography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward M. Estabrooke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:23:35.480593+00:00"/>
+        <meta name="calibre:title_sort" content="Photography in the Studio and in the Field / A Practical Manual Designed as a Companion Alike to the Professional and the Amateur Photographer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

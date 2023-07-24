@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41e45599-858d-4f0b-9398-69bc08dce11f</dc:identifier>
+        <dc:title>Arthur Brown, The Young Captain</dc:title>
+        <dc:creator opf:file-as="Kellogg, Elijah" opf:role="aut">Elijah Kellogg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48904</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Maine -- Juvenile fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Juvenile fiction</dc:subject>
+        <dc:subject>Gratitude -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Diligence -- Juvenile fiction</dc:subject>
+        <dc:subject>Success -- Juvenile fiction</dc:subject>
+        <dc:subject>Temperance -- Juvenile fiction</dc:subject>
+        <dc:subject>Self-reliance -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elijah Kellogg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:55:29.054884+00:00"/>
+        <meta name="calibre:title_sort" content="Arthur Brown, The Young Captain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

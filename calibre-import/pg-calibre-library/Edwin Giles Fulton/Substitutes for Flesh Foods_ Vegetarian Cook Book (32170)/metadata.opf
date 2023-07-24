@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1adbe60f-93a6-4871-a59e-12005e8ec3af</dc:identifier>
+        <dc:title>Substitutes for Flesh Foods: Vegetarian Cook Book</dc:title>
+        <dc:creator opf:file-as="Fulton, Edwin Giles" opf:role="aut">Edwin Giles Fulton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43879</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Vegetarianism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Giles Fulton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:56:19.170896+00:00"/>
+        <meta name="calibre:title_sort" content="Substitutes for Flesh Foods: Vegetarian Cook Book"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

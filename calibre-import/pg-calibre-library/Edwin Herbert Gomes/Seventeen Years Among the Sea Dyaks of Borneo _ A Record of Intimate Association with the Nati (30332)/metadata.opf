@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fafd18a0-60d3-4386-86e3-df3a50201a1e</dc:identifier>
+        <dc:title>Seventeen Years Among the Sea Dyaks of Borneo / A Record of Intimate Association with the Natives of the Bornean Jungles</dc:title>
+        <dc:creator opf:file-as="Gomes, Edwin Herbert" opf:role="aut">Edwin Herbert Gomes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57201</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sarawak (Malaysia) -- Description and travel</dc:subject>
+        <dc:subject>Iban (Bornean people)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Herbert Gomes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:27:40.348695+00:00"/>
+        <meta name="calibre:title_sort" content="Seventeen Years Among the Sea Dyaks of Borneo / A Record of Intimate Association with the Natives of the Bornean Jungles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebdd2ff0-d652-46e4-9a81-091ab9e878f9</dc:identifier>
+        <dc:title>The Sylvan Cabin: A Centenary Ode on the Birth of Lincoln, and Other Verse</dc:title>
+        <dc:creator opf:file-as="Jones, Edward Smyth" opf:role="aut">Edward Smyth Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26036</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Smyth Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:49:14.635068+00:00"/>
+        <meta name="calibre:title_sort" content="Sylvan Cabin: A Centenary Ode on the Birth of Lincoln, and Other Verse, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

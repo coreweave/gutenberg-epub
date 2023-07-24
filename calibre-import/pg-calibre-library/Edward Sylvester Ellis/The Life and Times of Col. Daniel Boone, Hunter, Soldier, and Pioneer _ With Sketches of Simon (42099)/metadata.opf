@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42099</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4501606-7db1-4d1d-b9a9-423acdb7db80</dc:identifier>
+        <dc:title>The Life and Times of Col. Daniel Boone, Hunter, Soldier, and Pioneer / With Sketches of Simon Kenton, Lewis Wetzel, and Other Leaders in the Settlement of the West</dc:title>
+        <dc:creator opf:file-as="Ellis, Edward Sylvester" opf:role="aut">Edward Sylvester Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46227</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boone</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1734-1820 -- Juvenile literature</dc:subject>
+        <dc:subject>Pioneers -- Kentucky -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Kentucky -- Juvenile literature</dc:subject>
+        <dc:subject>Kenton</dc:subject>
+        <dc:subject>Simon</dc:subject>
+        <dc:subject>1755-1836 -- Juvenile literature</dc:subject>
+        <dc:subject>Wetzel</dc:subject>
+        <dc:subject>Lewis</dc:subject>
+        <dc:subject>1763-1808 -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Sylvester Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:25:00.305760+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Times of Col. Daniel Boone, Hunter, Soldier, and Pioneer / With Sketches of Simon Kenton, Lewis Wetzel, and Other Leaders in the Settlement of the West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

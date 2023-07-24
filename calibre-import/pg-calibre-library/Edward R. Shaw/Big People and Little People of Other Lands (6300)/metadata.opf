@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b4e8d8c-84ab-4731-a3dd-8eb3790b7d09</dc:identifier>
+        <dc:title>Big People and Little People of Other Lands</dc:title>
+        <dc:creator opf:file-as="Shaw, Edward R. (Edward Richard)" opf:role="aut">Edward R. Shaw</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14655</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's literature</dc:subject>
+        <dc:subject>Readers -- Geography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward R. Shaw&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:19:21.476338+00:00"/>
+        <meta name="calibre:title_sort" content="Big People and Little People of Other Lands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

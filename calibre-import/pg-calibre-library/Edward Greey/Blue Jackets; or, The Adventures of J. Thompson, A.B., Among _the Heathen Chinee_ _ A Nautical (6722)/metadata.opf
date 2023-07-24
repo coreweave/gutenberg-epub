@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af0842dc-7e3b-4832-9404-f86fd2abe48d</dc:identifier>
+        <dc:title>Blue Jackets; or, The Adventures of J. Thompson, A.B., Among "the Heathen Chinee" / A Nautical Novel</dc:title>
+        <dc:creator opf:file-as="Greey, Edward" opf:role="aut">Edward Greey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58270</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seafaring life -- Fiction</dc:subject>
+        <dc:subject>Great Britain. Royal Navy -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Greey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:28:38.142279+00:00"/>
+        <meta name="calibre:title_sort" content="Blue Jackets; or, The Adventures of J. Thompson, A.B., Among &quot;the Heathen Chinee&quot; / A Nautical Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

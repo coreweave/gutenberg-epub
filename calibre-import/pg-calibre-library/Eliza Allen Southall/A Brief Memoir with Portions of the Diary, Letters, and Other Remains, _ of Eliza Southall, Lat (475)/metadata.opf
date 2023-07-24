@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb7f9df8-19ad-4d6c-9f94-36675489eae4</dc:identifier>
+        <dc:title>A Brief Memoir with Portions of the Diary, Letters, and Other Remains, / of Eliza Southall, Late of Birmingham, England</dc:title>
+        <dc:creator opf:file-as="Southall, Eliza Allen" opf:role="aut">Eliza Allen Southall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11959</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southall</dc:subject>
+        <dc:subject>Eliza Allen</dc:subject>
+        <dc:subject>1823-1851</dc:subject>
+        <dc:subject>Christian biography -- England</dc:subject>
+        <dc:subject>Quakers -- England -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eliza Allen Southall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:33:05.558762+00:00"/>
+        <meta name="calibre:title_sort" content="Brief Memoir with Portions of the Diary, Letters, and Other Remains, / of Eliza Southall, Late of Birmingham, England, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

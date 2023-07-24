@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e741b468-a220-4d5d-860b-5c9421efa80d</dc:identifier>
+        <dc:title>A journal containing an accurate and interesting account of the hardships, sufferings, battles, defeat, and captivity of those heroic Kentucky volunteers and regulars, commanded by General Winchester, in the year 1812-13 / Also, two narratives, by men that were wounded in the battles on the River Raisin, and taken captive by the Indians</dc:title>
+        <dc:creator opf:file-as="Darnell, Elias" opf:role="aut">Elias Darnell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69152</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- War of 1812 -- Personal narratives</dc:subject>
+        <dc:subject>Kentucky. Militia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elias Darnell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:31.799065+00:00"/>
+        <meta name="calibre:title_sort" content="journal containing an accurate and interesting account of the hardships, sufferings, battles, defeat, and captivity of those heroic Kentucky volunteers and regulars, commanded by General Winchester, in the year 1812-13 / Also, two narratives, by men that were wounded in the battles on the River Raisin, and taken captive by the Indians, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e19cf304-5205-47ce-a2f5-d35e9053baca</dc:identifier>
+        <dc:title>Chess and Checkers : the Way to Mastership</dc:title>
+        <dc:creator opf:file-as="Lasker, Edward" opf:role="aut">Edward Lasker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4913</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chess</dc:subject>
+        <dc:subject>Checkers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Lasker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:07:40.623286+00:00"/>
+        <meta name="calibre:title_sort" content="Chess and Checkers : the Way to Mastership"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

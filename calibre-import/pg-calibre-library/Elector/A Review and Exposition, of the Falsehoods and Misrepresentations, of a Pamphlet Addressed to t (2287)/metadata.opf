@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c48b0f4-7468-4727-81d6-2727d754b037</dc:identifier>
+        <dc:title>A Review and Exposition, of the Falsehoods and Misrepresentations, of a Pamphlet Addressed to the Republicans of the County of Saratoga, Signed, "A Citizen"</dc:title>
+        <dc:creator opf:file-as="Elector" opf:role="aut">Elector</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14729</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>One of their fellow citizens. Defence</dc:subject>
+        <dc:subject>or</dc:subject>
+        <dc:subject>An apology for a majority of the Republican electors in the county of Saratoga</dc:subject>
+        <dc:subject>Young</dc:subject>
+        <dc:subject>Samuel</dc:subject>
+        <dc:subject>1779-1850</dc:subject>
+        <dc:subject>Saratoga County (N.Y.) -- Politics and government</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elector&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:57.956331+00:00"/>
+        <meta name="calibre:title_sort" content="Review and Exposition, of the Falsehoods and Misrepresentations, of a Pamphlet Addressed to the Republicans of the County of Saratoga, Signed, &quot;A Citizen&quot;, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f38f890e-03c2-4154-96fb-8a0b449edf4a</dc:identifier>
+        <dc:title>Tennessee at the Battle of New Orleans</dc:title>
+        <dc:creator opf:file-as="Watson, Elbert L." opf:role="aut">Elbert L. Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49023</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jackson</dc:subject>
+        <dc:subject>Andrew</dc:subject>
+        <dc:subject>1767-1845</dc:subject>
+        <dc:subject>New Orleans</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>La.</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elbert L. Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:27:08.804940+00:00"/>
+        <meta name="calibre:title_sort" content="Tennessee at the Battle of New Orleans"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

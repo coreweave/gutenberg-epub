@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16a815b9-c953-41e3-a3a4-a661c289aac2</dc:identifier>
+        <dc:title>Young Hunters in Porto Rico; or, The Search for a Lost Treasure</dc:title>
+        <dc:creator opf:file-as="Stratemeyer, Edward" opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Treasure troves -- Juvenile fiction</dc:subject>
+        <dc:subject>Puerto Rico -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:08:45.021144+00:00"/>
+        <meta name="calibre:title_sort" content="Young Hunters in Porto Rico; or, The Search for a Lost Treasure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

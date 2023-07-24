@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13534</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a402504-c1c2-4d0e-8dca-1db241a2e502</dc:identifier>
+        <dc:title>Fritz to the Front, or, the Ventriloquist Scamp-Hunter</dc:title>
+        <dc:creator opf:file-as="Wheeler, Edward L. (Edward Lytton)" opf:role="aut">Edward L. Wheeler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37149</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Ventriloquists -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward L. Wheeler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:26:43.956019+00:00"/>
+        <meta name="calibre:title_sort" content="Fritz to the Front, or, the Ventriloquist Scamp-Hunter"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

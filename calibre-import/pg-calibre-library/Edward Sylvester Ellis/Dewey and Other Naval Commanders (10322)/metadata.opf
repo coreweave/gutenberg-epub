@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bf9a2e8-4cb3-46a0-8a97-151320e4bdc8</dc:identifier>
+        <dc:title>Dewey and Other Naval Commanders</dc:title>
+        <dc:creator opf:file-as="Ellis, Edward Sylvester" opf:role="aut">Edward Sylvester Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Navy -- History</dc:subject>
+        <dc:subject>Dewey</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1837-1917</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Sylvester Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:56:33.871071+00:00"/>
+        <meta name="calibre:title_sort" content="Dewey and Other Naval Commanders"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

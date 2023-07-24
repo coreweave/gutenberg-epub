@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f04ed36d-5fe4-4212-8f9b-2f1333e58ee5</dc:identifier>
+        <dc:title>Cuchulain, the Hound of Ulster</dc:title>
+        <dc:creator opf:file-as="Hull, Eleanor" opf:role="aut">Eleanor Hull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52963</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Heroes -- Ulster (Northern Ireland and Ireland) -- Legends</dc:subject>
+        <dc:subject>Tales -- Ulster (Northern Ireland and Ireland)</dc:subject>
+        <dc:subject>Clive</dc:subject>
+        <dc:subject>Mrs. (Catherine) 1711-1785</dc:subject>
+        <dc:subject>Cuchulain (Legendary character)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eleanor Hull&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:39:20.179816+00:00"/>
+        <meta name="calibre:title_sort" content="Cuchulain, the Hound of Ulster"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

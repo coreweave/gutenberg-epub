@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cdcb0f7c-e00f-4629-83aa-335ced620ed2</dc:identifier>
+        <dc:title>The island of anarchy: A fragment of history in the 20th century</dc:title>
+        <dc:creator opf:file-as="Waterhouse, Elizabeth" opf:role="aut">Elizabeth Waterhouse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69449</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Twentieth century -- Forecasts -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Waterhouse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:38:53.991654+00:00"/>
+        <meta name="calibre:title_sort" content="island of anarchy: A fragment of history in the 20th century, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

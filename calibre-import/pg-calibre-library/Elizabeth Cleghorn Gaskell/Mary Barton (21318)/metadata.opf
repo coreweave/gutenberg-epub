@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f6bc209-2459-43c2-86b4-c80a46a301f5</dc:identifier>
+        <dc:title>Mary Barton</dc:title>
+        <dc:creator opf:file-as="Gaskell, Elizabeth Cleghorn" opf:role="aut">Elizabeth Cleghorn Gaskell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2153</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Poor families -- Fiction</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Triangles (Interpersonal relations) -- Fiction</dc:subject>
+        <dc:subject>Trials (Murder) -- Fiction</dc:subject>
+        <dc:subject>Working class women -- Fiction</dc:subject>
+        <dc:subject>Textile industry -- Fiction</dc:subject>
+        <dc:subject>Labor unions -- Fiction</dc:subject>
+        <dc:subject>Manchester (England) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Cleghorn Gaskell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:54:42.239806+00:00"/>
+        <meta name="calibre:title_sort" content="Mary Barton"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

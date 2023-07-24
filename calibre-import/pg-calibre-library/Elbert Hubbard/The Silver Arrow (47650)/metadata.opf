@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">980b9f9a-e247-4be8-a656-40fa7130baf2</dc:identifier>
+        <dc:title>The Silver Arrow</dc:title>
+        <dc:creator opf:file-as="Hubbard, Elbert" opf:role="aut">Elbert Hubbard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Raleigh</dc:subject>
+        <dc:subject>Walter</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1552?-1618</dc:subject>
+        <dc:subject>Dare</dc:subject>
+        <dc:subject>Virginia</dc:subject>
+        <dc:subject>1587-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elbert Hubbard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:42:54.825567+00:00"/>
+        <meta name="calibre:title_sort" content="Silver Arrow, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

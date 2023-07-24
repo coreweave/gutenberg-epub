@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7647ab6-d6e6-44d7-a895-1af3178a0d90</dc:identifier>
+        <dc:title>Sonnets from the Portuguese</dc:title>
+        <dc:creator opf:file-as="Browning, Elizabeth Barrett" opf:role="aut">Elizabeth Barrett Browning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2002</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sonnets</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Love poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Barrett Browning&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:12:23.266791+00:00"/>
+        <meta name="calibre:title_sort" content="Sonnets from the Portuguese"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

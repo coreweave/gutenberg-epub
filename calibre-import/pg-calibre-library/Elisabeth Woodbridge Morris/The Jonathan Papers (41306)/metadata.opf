@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4004067e-3805-40d6-9f4a-28d5cdb047a5</dc:identifier>
+        <dc:title>The Jonathan Papers</dc:title>
+        <dc:creator opf:file-as="Morris, Elisabeth Woodbridge" opf:role="aut">Elisabeth Woodbridge Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33997</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Natural history -- Outdoor books</dc:subject>
+        <dc:subject>Country life -- Connecticut</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elisabeth Woodbridge Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:41:19.060935+00:00"/>
+        <meta name="calibre:title_sort" content="Jonathan Papers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

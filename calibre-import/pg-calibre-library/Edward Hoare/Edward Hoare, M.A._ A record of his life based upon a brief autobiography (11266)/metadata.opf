@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27b8fc2d-065c-44bf-96d6-d09d9a0cd9f4</dc:identifier>
+        <dc:title>Edward Hoare, M.A.: A record of his life based upon a brief autobiography</dc:title>
+        <dc:creator opf:file-as="Hoare, Edward" opf:role="aut">Edward Hoare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39271</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Clergy -- Biography</dc:subject>
+        <dc:subject>Hoare</dc:subject>
+        <dc:subject>E. (Edward)</dc:subject>
+        <dc:subject>1812-1894</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Hoare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:21:58.080963+00:00"/>
+        <meta name="calibre:title_sort" content="Edward Hoare, M.A.: A record of his life based upon a brief autobiography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

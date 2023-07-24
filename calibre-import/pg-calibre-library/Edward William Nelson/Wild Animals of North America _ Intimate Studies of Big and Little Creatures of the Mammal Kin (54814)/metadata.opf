@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f883bef-16d8-4a6e-a7d6-4ecfd6149f01</dc:identifier>
+        <dc:title>Wild Animals of North America / Intimate Studies of Big and Little Creatures of the Mammal Kingdom</dc:title>
+        <dc:creator opf:file-as="Nelson, Edward William" opf:role="aut">Edward William Nelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59475</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mammals -- North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward William Nelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:15:41.686655+00:00"/>
+        <meta name="calibre:title_sort" content="Wild Animals of North America / Intimate Studies of Big and Little Creatures of the Mammal Kingdom"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

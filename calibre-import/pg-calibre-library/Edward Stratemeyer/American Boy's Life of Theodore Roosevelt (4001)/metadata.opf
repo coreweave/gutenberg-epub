@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4001</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3925ecb-feac-4701-8c8b-7ee39a200e65</dc:identifier>
+        <dc:title>American Boy's Life of Theodore Roosevelt</dc:title>
+        <dc:creator opf:file-as="Stratemeyer, Edward" opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22352</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Roosevelt</dc:subject>
+        <dc:subject>Theodore</dc:subject>
+        <dc:subject>1858-1919 -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:32:50.706858+00:00"/>
+        <meta name="calibre:title_sort" content="American Boy's Life of Theodore Roosevelt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

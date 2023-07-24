@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">180c21c2-2e24-4eb5-b34e-9d5850485e20</dc:identifier>
+        <dc:title>Life in a Mediæval City / Illustrated by York in the XVth Century</dc:title>
+        <dc:creator opf:file-as="Benson, Edwin" opf:role="aut">Edwin Benson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17848</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>York (England) -- History</dc:subject>
+        <dc:subject>York (England) -- Social life and customs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Benson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:58:22.244907+00:00"/>
+        <meta name="calibre:title_sort" content="Life in a Mediæval City / Illustrated by York in the XVth Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

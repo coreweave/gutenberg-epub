@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d2cd3c0-0bb6-4182-8da7-979fe794db1e</dc:identifier>
+        <dc:title>The Palmy Days of Nance Oldfield</dc:title>
+        <dc:creator opf:file-as="Robins, Edward" opf:role="aut">Edward Robins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11717</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theater -- Great Britain -- History -- 18th century</dc:subject>
+        <dc:subject>Actresses -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Oldfield</dc:subject>
+        <dc:subject>Anne</dc:subject>
+        <dc:subject>1683-1730</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Robins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:06:49.185870+00:00"/>
+        <meta name="calibre:title_sort" content="Palmy Days of Nance Oldfield, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

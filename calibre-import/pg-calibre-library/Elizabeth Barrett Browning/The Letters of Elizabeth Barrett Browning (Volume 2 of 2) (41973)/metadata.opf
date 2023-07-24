@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53222ec5-6ee4-4542-a078-6753c5837d5c</dc:identifier>
+        <dc:title>The Letters of Elizabeth Barrett Browning (Volume 2 of 2)</dc:title>
+        <dc:creator opf:file-as="Browning, Elizabeth Barrett" opf:role="aut">Elizabeth Barrett Browning</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16646</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Browning</dc:subject>
+        <dc:subject>Elizabeth Barrett</dc:subject>
+        <dc:subject>1806-1861 -- Correspondence</dc:subject>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- 19th century -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Barrett Browning&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:17:59.740917+00:00"/>
+        <meta name="calibre:title_sort" content="Letters of Elizabeth Barrett Browning (Volume 2 of 2), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d2bdd5b-c555-4d23-93d6-248e2d3ea919</dc:identifier>
+        <dc:title>Three Boys in the Wild North Land</dc:title>
+        <dc:creator opf:file-as="Young, Egerton Ryerson" opf:role="aut">Egerton Ryerson Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21245</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Canoes and canoeing -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Indians of North America -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunting -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Egerton Ryerson Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:21:19.033319+00:00"/>
+        <meta name="calibre:title_sort" content="Three Boys in the Wild North Land"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

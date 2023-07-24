@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64cf21e9-9c4b-4472-9d0a-3d1b59b50c62</dc:identifier>
+        <dc:title>Two Pilgrims' Progress; from fair Florence, to the eternal city of Rome</dc:title>
+        <dc:creator opf:file-as="Pennell, Elizabeth Robins" opf:role="aut">Elizabeth Robins Pennell</dc:creator>
+        <dc:creator opf:file-as="Pennell, Elizabeth Robins" opf:role="aut">Joseph Pennell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49831</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Italy -- Description and travel</dc:subject>
+        <dc:subject>Bicycle touring</dc:subject>
+        <dc:subject>Cycling -- Italy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Robins Pennell&quot;: &quot;&quot;, &quot;Joseph Pennell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:30:54.891307+00:00"/>
+        <meta name="calibre:title_sort" content="Two Pilgrims' Progress; from fair Florence, to the eternal city of Rome"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46859</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d181cd6f-375b-4a1a-a883-839442c88f25</dc:identifier>
+        <dc:title>The Romance of Modern Sieges / Describing the personal adventures, resource and daring of besiegers and beseiged in all parts of the world</dc:title>
+        <dc:creator opf:file-as="Gilliat, Edward" opf:role="aut">Edward Gilliat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50231</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Battles</dc:subject>
+        <dc:subject>Adventure and adventurers</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Sieges</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Gilliat&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:55:58.101353+00:00"/>
+        <meta name="calibre:title_sort" content="Romance of Modern Sieges / Describing the personal adventures, resource and daring of besiegers and beseiged in all parts of the world, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

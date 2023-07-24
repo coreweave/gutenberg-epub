@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdb03993-62ef-42bc-bfad-b2b25fbedc79</dc:identifier>
+        <dc:title>The History of Miss Betsy Thoughtless</dc:title>
+        <dc:creator opf:file-as="Haywood, Eliza Fowler" opf:role="aut">Eliza Fowler Haywood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Married women -- Fiction</dc:subject>
+        <dc:subject>Abused wives -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eliza Fowler Haywood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:51:57.208087+00:00"/>
+        <meta name="calibre:title_sort" content="History of Miss Betsy Thoughtless, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

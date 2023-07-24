@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f358fc6c-151b-410b-8041-4835288ff4a9</dc:identifier>
+        <dc:title>Scrambles Amongst the Alps in the Years 1860-69</dc:title>
+        <dc:creator opf:file-as="Whymper, Edward" opf:role="aut">Edward Whymper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41234</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alps -- Description and travel</dc:subject>
+        <dc:subject>Whymper</dc:subject>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>1840-1911</dc:subject>
+        <dc:subject>Mountaineering -- Alps -- History -- 19th century</dc:subject>
+        <dc:subject>Mountaineers -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Whymper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:09:41.978484+00:00"/>
+        <meta name="calibre:title_sort" content="Scrambles Amongst the Alps in the Years 1860-69"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

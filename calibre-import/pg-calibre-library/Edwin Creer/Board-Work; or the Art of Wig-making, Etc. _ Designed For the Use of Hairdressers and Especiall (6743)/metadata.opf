@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">093659de-b8b1-4c9a-89db-210bda4c4c47</dc:identifier>
+        <dc:title>Board-Work; or the Art of Wig-making, Etc. / Designed For the Use of Hairdressers and Especially of Young Men in the Trade. To Which Is Added Remarks Upon Razors, Razor-sharpening, Razor Strops, &amp; Miscellaneous Recipes, Specially Selected.</dc:title>
+        <dc:creator opf:file-as="Creer, Edwin" opf:role="aut">Edwin Creer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58636</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hairwork</dc:subject>
+        <dc:subject>Barbering</dc:subject>
+        <dc:subject>Wigs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Creer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:06.344213+00:00"/>
+        <meta name="calibre:title_sort" content="Board-Work; or the Art of Wig-making, Etc. / Designed For the Use of Hairdressers and Especially of Young Men in the Trade. To Which Is Added Remarks Upon Razors, Razor-sharpening, Razor Strops, &amp; Miscellaneous Recipes, Specially Selected."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

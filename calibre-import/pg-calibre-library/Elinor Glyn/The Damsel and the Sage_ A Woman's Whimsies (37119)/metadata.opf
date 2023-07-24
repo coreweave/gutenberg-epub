@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbf6bb44-6c7b-4d2a-989f-10d909b2f0f8</dc:identifier>
+        <dc:title>The Damsel and the Sage: A Woman's Whimsies</dc:title>
+        <dc:creator opf:file-as="Glyn, Elinor" opf:role="aut">Elinor Glyn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fables</dc:subject>
+        <dc:subject>maxims</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elinor Glyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:01:09.883758+00:00"/>
+        <meta name="calibre:title_sort" content="Damsel and the Sage: A Woman's Whimsies, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

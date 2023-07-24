@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3e7fe04-cc7f-4bc7-8ed4-03dc6d3328d4</dc:identifier>
+        <dc:title>The American Nation: A History — Volume 1: European Background of American History, 1300-1600</dc:title>
+        <dc:creator opf:file-as="Cheyney, Edward Potts" opf:role="aut">Edward Potts Cheyney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4089</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>America -- Discovery and exploration</dc:subject>
+        <dc:subject>Discoveries in geography</dc:subject>
+        <dc:subject>Commerce -- History</dc:subject>
+        <dc:subject>Reformation</dc:subject>
+        <dc:subject>Great Britain -- Politics and government -- 1066-1485</dc:subject>
+        <dc:subject>Great Britain -- Politics and government -- 1485-1603</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Potts Cheyney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:01:50.077935+00:00"/>
+        <meta name="calibre:title_sort" content="American Nation: A History — Volume 1: European Background of American History, 1300-1600, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

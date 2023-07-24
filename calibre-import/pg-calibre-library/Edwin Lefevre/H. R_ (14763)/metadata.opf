@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">517297c1-4020-47ed-a481-582c5b973c2f</dc:identifier>
+        <dc:title>H. R.</dc:title>
+        <dc:creator opf:file-as="Lefevre, Edwin" opf:role="aut">Edwin Lefevre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33314</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Advertising -- Fiction</dc:subject>
+        <dc:subject>Labor unions -- Fiction</dc:subject>
+        <dc:subject>Bank employees -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Lefevre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:04:58.453103+00:00"/>
+        <meta name="calibre:title_sort" content="H. R."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38732</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb5abbe4-9974-4d0d-b598-6179dda823bb</dc:identifier>
+        <dc:title>The Forest Pilot: A Story for Boy Scouts</dc:title>
+        <dc:creator opf:file-as="Huntington, Edward" opf:role="aut">Edward Huntington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68506</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwrecks -- Juvenile fiction</dc:subject>
+        <dc:subject>Outdoor life -- Juvenile fiction</dc:subject>
+        <dc:subject>Labrador (N.L.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Survival -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Huntington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:24:24.596437+00:00"/>
+        <meta name="calibre:title_sort" content="Forest Pilot: A Story for Boy Scouts, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

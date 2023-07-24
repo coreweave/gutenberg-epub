@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f9b03b3-1d01-4049-b5cf-92fe912bf3da</dc:identifier>
+        <dc:title>The Phantom of the River</dc:title>
+        <dc:creator opf:file-as="Ellis, Edward Sylvester" opf:role="aut">Edward Sylvester Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23026</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Juvenile fiction</dc:subject>
+        <dc:subject>West (U.S.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Boone</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1734-1820 -- Juvenile fiction</dc:subject>
+        <dc:subject>Kenton</dc:subject>
+        <dc:subject>Simon</dc:subject>
+        <dc:subject>1755-1836 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Sylvester Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:21:41.969676+00:00"/>
+        <meta name="calibre:title_sort" content="Phantom of the River, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

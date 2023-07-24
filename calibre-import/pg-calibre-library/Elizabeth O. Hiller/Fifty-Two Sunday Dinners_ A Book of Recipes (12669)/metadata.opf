@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4d5f640-9ed9-4205-b7f6-ef61d5299b0a</dc:identifier>
+        <dc:title>Fifty-Two Sunday Dinners: A Book of Recipes</dc:title>
+        <dc:creator opf:file-as="Hiller, Elizabeth O." opf:role="aut">Elizabeth O. Hiller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31534</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Menus</dc:subject>
+        <dc:subject>Dinners and dining</dc:subject>
+        <dc:subject>Oils and fats</dc:subject>
+        <dc:subject>Edible</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth O. Hiller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:01:12.672344+00:00"/>
+        <meta name="calibre:title_sort" content="Fifty-Two Sunday Dinners: A Book of Recipes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

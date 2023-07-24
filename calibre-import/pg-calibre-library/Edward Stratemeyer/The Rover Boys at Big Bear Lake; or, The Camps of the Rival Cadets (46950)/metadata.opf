@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">750c7a5f-ad66-4082-bf92-e5311b4c7a85</dc:identifier>
+        <dc:title>The Rover Boys at Big Bear Lake; or, The Camps of the Rival Cadets</dc:title>
+        <dc:creator opf:file-as="Stratemeyer, Edward" opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67285</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rowing -- Juvenile fiction</dc:subject>
+        <dc:subject>Boarding schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Practical jokes -- Juvenile fiction</dc:subject>
+        <dc:subject>Military education -- Juvenile fiction</dc:subject>
+        <dc:subject>Competition -- Juvenile fiction</dc:subject>
+        <dc:subject>Military cadets -- Juvenile fiction</dc:subject>
+        <dc:subject>School camps -- Juvenile fiction</dc:subject>
+        <dc:subject>Lakes -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:01:17.980189+00:00"/>
+        <meta name="calibre:title_sort" content="Rover Boys at Big Bear Lake; or, The Camps of the Rival Cadets, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

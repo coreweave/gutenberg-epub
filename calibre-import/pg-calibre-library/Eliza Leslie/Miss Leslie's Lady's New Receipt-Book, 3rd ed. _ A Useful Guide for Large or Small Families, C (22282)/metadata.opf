@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8742283f-1c48-4202-a992-5ff266f2ac17</dc:identifier>
+        <dc:title>Miss Leslie's Lady's New Receipt-Book, 3rd ed. / A Useful Guide for Large or Small Families, Containing Directions for Cooking, Preserving, Pickling...</dc:title>
+        <dc:creator opf:file-as="Leslie, Eliza" opf:role="aut">Eliza Leslie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42154</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eliza Leslie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:33:44.784953+00:00"/>
+        <meta name="calibre:title_sort" content="Miss Leslie's Lady's New Receipt-Book, 3rd ed. / A Useful Guide for Large or Small Families, Containing Directions for Cooking, Preserving, Pickling..."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

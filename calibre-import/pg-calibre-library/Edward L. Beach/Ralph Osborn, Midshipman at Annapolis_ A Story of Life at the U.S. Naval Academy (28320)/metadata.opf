@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ea8d6a2-4895-4b17-bba8-fafa746cb73e</dc:identifier>
+        <dc:title>Ralph Osborn, Midshipman at Annapolis: A Story of Life at the U.S. Naval Academy</dc:title>
+        <dc:creator opf:file-as="Beach, Edward L. (Edward Latimer)" opf:role="aut">Edward L. Beach</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61610</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States Naval Academy -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward L. Beach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:53:04.388867+00:00"/>
+        <meta name="calibre:title_sort" content="Ralph Osborn, Midshipman at Annapolis: A Story of Life at the U.S. Naval Academy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

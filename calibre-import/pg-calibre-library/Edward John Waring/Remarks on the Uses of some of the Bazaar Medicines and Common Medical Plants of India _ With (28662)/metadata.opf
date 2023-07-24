@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7658031-c6c9-4305-8020-b1d2a9007fcd</dc:identifier>
+        <dc:title>Remarks on the Uses of some of the Bazaar Medicines and Common Medical Plants of India / With a full index of diseases, indicating their treatment by these and other agents procurable throughout India; to which are added directions for treatment in cases of drowning, snake-bites &amp;c.</dc:title>
+        <dc:creator opf:file-as="Waring, Edward John" opf:role="aut">Edward John Waring</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58525</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medicinal plants -- India</dc:subject>
+        <dc:subject>Traditional medicine -- India</dc:subject>
+        <dc:subject>Botany</dc:subject>
+        <dc:subject>Medical -- India</dc:subject>
+        <dc:subject>Materia medica</dc:subject>
+        <dc:subject>Vegetable -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward John Waring&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:08:42.959413+00:00"/>
+        <meta name="calibre:title_sort" content="Remarks on the Uses of some of the Bazaar Medicines and Common Medical Plants of India / With a full index of diseases, indicating their treatment by these and other agents procurable throughout India; to which are added directions for treatment in cases of drowning, snake-bites &amp;c."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

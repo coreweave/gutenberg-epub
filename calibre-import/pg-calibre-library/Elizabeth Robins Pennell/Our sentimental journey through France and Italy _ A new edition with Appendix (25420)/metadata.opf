@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25420</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11065248-25f2-4b70-a474-8f09e676c7d3</dc:identifier>
+        <dc:title>Our sentimental journey through France and Italy / A new edition with Appendix</dc:title>
+        <dc:creator opf:file-as="Pennell, Elizabeth Robins" opf:role="aut">Elizabeth Robins Pennell</dc:creator>
+        <dc:creator opf:file-as="Pennell, Elizabeth Robins" opf:role="aut">Joseph Pennell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Description and travel</dc:subject>
+        <dc:subject>Bicycle touring</dc:subject>
+        <dc:subject>Cycling -- France</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Robins Pennell&quot;: &quot;&quot;, &quot;Joseph Pennell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:46:09.574931+00:00"/>
+        <meta name="calibre:title_sort" content="Our sentimental journey through France and Italy / A new edition with Appendix"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

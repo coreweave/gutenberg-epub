@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47801</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c65ed62-a1a6-4de2-9b96-9e093b426e02</dc:identifier>
+        <dc:title>The Social Work of the Salvation Army</dc:title>
+        <dc:creator opf:file-as="Lamb, Edwin Gifford" opf:role="aut">Edwin Gifford Lamb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30295</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Salvation Army</dc:subject>
+        <dc:subject>Social history</dc:subject>
+        <dc:subject>Poor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin Gifford Lamb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:51:43.812268+00:00"/>
+        <meta name="calibre:title_sort" content="Social Work of the Salvation Army, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

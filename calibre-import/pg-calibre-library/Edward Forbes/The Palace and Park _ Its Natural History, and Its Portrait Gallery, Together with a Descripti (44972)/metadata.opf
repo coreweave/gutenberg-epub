@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2423d7cd-5a19-4c0b-8870-6561a19561f6</dc:identifier>
+        <dc:title>The Palace and Park / Its Natural History, and Its Portrait Gallery, Together with a Description of the Pompeian Court</dc:title>
+        <dc:creator opf:file-as="Forbes, Edward" opf:role="aut">Edward Forbes</dc:creator>
+        <dc:creator opf:file-as="Forbes, Edward" opf:role="aut">R. G. Latham</dc:creator>
+        <dc:creator opf:file-as="Forbes, Edward" opf:role="aut">Richard Owen</dc:creator>
+        <dc:creator opf:file-as="Forbes, Edward" opf:role="aut">Samuel Phillips</dc:creator>
+        <dc:creator opf:file-as="Forbes, Edward" opf:role="aut">George Scharf</dc:creator>
+        <dc:creator opf:file-as="Forbes, Edward" opf:role="aut">F. K. J. Shenton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59843</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crystal Palace (Sydenham</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Forbes&quot;: &quot;&quot;, &quot;R. G. Latham&quot;: &quot;&quot;, &quot;Richard Owen&quot;: &quot;&quot;, &quot;Samuel Phillips&quot;: &quot;&quot;, &quot;George Scharf&quot;: &quot;&quot;, &quot;F. K. J. Shenton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:06:12.413856+00:00"/>
+        <meta name="calibre:title_sort" content="Palace and Park / Its Natural History, and Its Portrait Gallery, Together with a Description of the Pompeian Court, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

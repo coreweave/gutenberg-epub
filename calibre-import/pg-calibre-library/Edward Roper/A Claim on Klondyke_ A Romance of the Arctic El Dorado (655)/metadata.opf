@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5987c05b-c2b7-4599-b930-1ac37f1b8777</dc:identifier>
+        <dc:title>A Claim on Klondyke: A Romance of the Arctic El Dorado</dc:title>
+        <dc:creator opf:file-as="Roper, Edward" opf:role="aut">Edward Roper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36577</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Klondike River Valley (Yukon) -- Fiction</dc:subject>
+        <dc:subject>Arctic regions -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Roper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:35:50.580058+00:00"/>
+        <meta name="calibre:title_sort" content="Claim on Klondyke: A Romance of the Arctic El Dorado, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

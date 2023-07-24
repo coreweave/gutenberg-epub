@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cd86410-22c3-4009-9102-585f025f94f5</dc:identifier>
+        <dc:title>Lives of the Founders of the British Museum, Part 2 of 2 / With Notices of Its Chief Augmentors and Other Benefactors, 1570-1870.</dc:title>
+        <dc:creator opf:file-as="Edwards, Edward" opf:role="aut">Edward Edwards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British Museum</dc:subject>
+        <dc:subject>Book collectors -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Edwards&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:17:57.472529+00:00"/>
+        <meta name="calibre:title_sort" content="Lives of the Founders of the British Museum, Part 2 of 2 / With Notices of Its Chief Augmentors and Other Benefactors, 1570-1870."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

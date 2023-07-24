@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9498807c-481a-4f75-9197-20828851fcdc</dc:identifier>
+        <dc:title>Japanese Homes and Their Surroundings</dc:title>
+        <dc:creator opf:file-as="Morse, Edward Sylvester" opf:role="aut">Edward Sylvester Morse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52868</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Japan -- Social life and customs</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Domestic -- Japan</dc:subject>
+        <dc:subject>Interior decoration -- Japan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Sylvester Morse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:59:58.420235+00:00"/>
+        <meta name="calibre:title_sort" content="Japanese Homes and Their Surroundings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

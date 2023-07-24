@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6911a66-d268-4647-a153-63c5ffb037d0</dc:identifier>
+        <dc:title>Stories of Invention, Told by Inventors and their Friends</dc:title>
+        <dc:creator opf:file-as="Hale, Edward Everett" opf:role="aut">Edward Everett Hale</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40276</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Technology -- Juvenile literature</dc:subject>
+        <dc:subject>Inventions</dc:subject>
+        <dc:subject>Inventors</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Everett Hale&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:44:56.306410+00:00"/>
+        <meta name="calibre:title_sort" content="Stories of Invention, Told by Inventors and their Friends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f80fbcd-0420-4c56-8e8e-2b0067d00ec0</dc:identifier>
+        <dc:title>The People of Palestine / An enlarged edition of "The Peasantry of Palestine, Life, Manners and Customs of the Village"</dc:title>
+        <dc:creator opf:file-as="Grant, Elihu" opf:role="aut">Elihu Grant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61662</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Palestine -- Social life and customs</dc:subject>
+        <dc:subject>Palestinian Arabs -- Social life and customs</dc:subject>
+        <dc:subject>Peasants -- Palestine</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elihu Grant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:18:10.150643+00:00"/>
+        <meta name="calibre:title_sort" content="People of Palestine / An enlarged edition of &quot;The Peasantry of Palestine, Life, Manners and Customs of the Village&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

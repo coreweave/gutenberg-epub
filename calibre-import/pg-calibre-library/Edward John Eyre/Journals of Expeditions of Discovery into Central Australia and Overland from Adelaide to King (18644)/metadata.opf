@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec2b9420-8e7b-41e5-9bfc-716f5419b716</dc:identifier>
+        <dc:title>Journals of Expeditions of Discovery into Central Australia and Overland from Adelaide to King George's Sound in the Years 1840-1: Sent By the Colonists of South Australia, with the Sanction and Support of the Government: Including an Account of the Manners and Customs of the Aborigines and the State of Their Relations with Europeans — Complete</dc:title>
+        <dc:creator opf:file-as="Eyre, Edward John" opf:role="aut">Edward John Eyre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australia -- Discovery and exploration</dc:subject>
+        <dc:subject>Ethnology -- Australia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward John Eyre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:15:23.222907+00:00"/>
+        <meta name="calibre:title_sort" content="Journals of Expeditions of Discovery into Central Australia and Overland from Adelaide to King George's Sound in the Years 1840-1: Sent By the Colonists of South Australia, with the Sanction and Support of the Government: Including an Account of the Manners and Customs of the Aborigines and the State of Their Relations with Europeans — Complete"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

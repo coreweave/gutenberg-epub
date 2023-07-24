@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64e30725-6dc7-4ca2-9838-95b9c3a0e3af</dc:identifier>
+        <dc:title>Three Young Ranchmen; or, Daring Adventures in the Great West</dc:title>
+        <dc:creator opf:file-as="Stratemeyer, Edward" opf:role="aut">Edward Stratemeyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Brothers -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Miners -- Juvenile fiction</dc:subject>
+        <dc:subject>Uncles -- Juvenile fiction</dc:subject>
+        <dc:subject>Horses -- Juvenile fiction</dc:subject>
+        <dc:subject>Youth -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Theft -- Juvenile fiction</dc:subject>
+        <dc:subject>Ranchers -- Juvenile fiction</dc:subject>
+        <dc:subject>Idaho -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Stratemeyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:26:29.288509+00:00"/>
+        <meta name="calibre:title_sort" content="Three Young Ranchmen; or, Daring Adventures in the Great West"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

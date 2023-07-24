@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10752c3c-1c39-481f-ae9e-4cb3a08eeafb</dc:identifier>
+        <dc:title>The April Baby's Book of Tunes / with the story of how they came to be written</dc:title>
+        <dc:creator opf:file-as="Von Arnim, Elizabeth" opf:role="aut">Elizabeth Von Arnim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nursery rhymes</dc:subject>
+        <dc:subject>Children's songs</dc:subject>
+        <dc:subject>Mothers and daughters -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Elizabeth Von Arnim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:10:11.365871+00:00"/>
+        <meta name="calibre:title_sort" content="April Baby's Book of Tunes / with the story of how they came to be written, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

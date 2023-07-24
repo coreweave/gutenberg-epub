@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7156a37b-23a1-4208-96ea-c8a395c6d0ea</dc:identifier>
+        <dc:title>The Three Trappers; or, The Apache Chief's Ruse</dc:title>
+        <dc:creator opf:file-as="Ellis, Edward Sylvester" opf:role="aut">Edward Sylvester Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66309</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- Fiction</dc:subject>
+        <dc:subject>Abduction -- Fiction</dc:subject>
+        <dc:subject>Dime novels</dc:subject>
+        <dc:subject>Indian captivities -- Fiction</dc:subject>
+        <dc:subject>Comanche Indians -- Fiction</dc:subject>
+        <dc:subject>Trappers -- Fiction</dc:subject>
+        <dc:subject>West (U.S.) -- Fiction</dc:subject>
+        <dc:subject>Hunters -- Fiction</dc:subject>
+        <dc:subject>Wagon trains -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward Sylvester Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:11:13.930273+00:00"/>
+        <meta name="calibre:title_sort" content="Three Trappers; or, The Apache Chief's Ruse, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

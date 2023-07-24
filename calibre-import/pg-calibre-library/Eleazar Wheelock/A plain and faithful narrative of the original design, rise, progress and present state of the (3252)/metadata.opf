@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93d113d0-8017-4a30-a331-c8206318b612</dc:identifier>
+        <dc:title>A plain and faithful narrative of the original design, rise, progress and present state of the Indian charity-school at Lebanon, in Connecticut</dc:title>
+        <dc:creator opf:file-as="Wheelock, Eleazar" opf:role="aut">Eleazar Wheelock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46378</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Missions</dc:subject>
+        <dc:subject>Moor's Indian Charity School</dc:subject>
+        <dc:subject>Indians of North America -- Education -- Early works to 1800</dc:subject>
+        <dc:subject>Education -- Connecticut -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eleazar Wheelock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:05.109474+00:00"/>
+        <meta name="calibre:title_sort" content="plain and faithful narrative of the original design, rise, progress and present state of the Indian charity-school at Lebanon, in Connecticut, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

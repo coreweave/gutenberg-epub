@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed72e7b4-24d3-4694-9556-2d1a12a5a364</dc:identifier>
+        <dc:title>The Boy's Hakluyt: English Voyages of Adventure and Discovery</dc:title>
+        <dc:creator opf:file-as="Bacon, Edwin M. (Edwin Monroe)" opf:role="aut">Edwin M. Bacon</dc:creator>
+        <dc:creator opf:file-as="Bacon, Edwin M. (Edwin Monroe)" opf:role="aut">Richard Hakluyt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57917</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Juvenile literature</dc:subject>
+        <dc:subject>Discoveries in geography -- English -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edwin M. Bacon&quot;: &quot;&quot;, &quot;Richard Hakluyt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:27:31.915276+00:00"/>
+        <meta name="calibre:title_sort" content="Boy's Hakluyt: English Voyages of Adventure and Discovery, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

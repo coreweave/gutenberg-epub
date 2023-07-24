@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">624a3491-a6ac-42b5-a6e6-ae8ac1225388</dc:identifier>
+        <dc:title>The Broadway Anthology</dc:title>
+        <dc:creator opf:file-as="Bernays, Edward L." opf:role="aut">Edward L. Bernays</dc:creator>
+        <dc:creator opf:file-as="Bernays, Edward L." opf:role="aut">Samuel Hoffenstein</dc:creator>
+        <dc:creator opf:file-as="Bernays, Edward L." opf:role="aut">Walter J. Kingsley</dc:creator>
+        <dc:creator opf:file-as="Bernays, Edward L." opf:role="aut">Murdock Pemberton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15120</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry</dc:subject>
+        <dc:subject>American literature -- New York (State) -- New York</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward L. Bernays&quot;: &quot;&quot;, &quot;Samuel Hoffenstein&quot;: &quot;&quot;, &quot;Walter J. Kingsley&quot;: &quot;&quot;, &quot;Murdock Pemberton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:34:33.524255+00:00"/>
+        <meta name="calibre:title_sort" content="Broadway Anthology, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

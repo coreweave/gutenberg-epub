@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f811815b-f8af-41bb-9b8c-198d471dae44</dc:identifier>
+        <dc:title>Studies in Mediæval Life and Literature</dc:title>
+        <dc:creator opf:file-as="McLaughlin, Edward T. (Edward Tompkins)" opf:role="aut">Edward T. McLaughlin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>Medieval</dc:subject>
+        <dc:subject>Literature</dc:subject>
+        <dc:subject>Medieval -- History and criticism</dc:subject>
+        <dc:subject>Abelard</dc:subject>
+        <dc:subject>Peter</dc:subject>
+        <dc:subject>1079-1142</dc:subject>
+        <dc:subject>Nature in literature</dc:subject>
+        <dc:subject>Héloïse</dc:subject>
+        <dc:subject>approximately 1095-1163 or 1164</dc:subject>
+        <dc:subject>German literature -- Middle High German</dc:subject>
+        <dc:subject>1050-1500 -- History and criticism</dc:subject>
+        <dc:subject>Children in literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward T. McLaughlin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:52:20.862492+00:00"/>
+        <meta name="calibre:title_sort" content="Studies in Mediæval Life and Literature"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

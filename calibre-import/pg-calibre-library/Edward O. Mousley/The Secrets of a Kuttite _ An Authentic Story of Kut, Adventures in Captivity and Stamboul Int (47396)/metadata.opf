@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25ae25a4-7bc6-4bbd-a835-ad16aa46d658</dc:identifier>
+        <dc:title>The Secrets of a Kuttite / An Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue</dc:title>
+        <dc:creator opf:file-as="Mousley, Edward O. (Edward Opotiki)" opf:role="aut">Edward O. Mousley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41213</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Prisoners and prisons</dc:subject>
+        <dc:subject>Turkish</dc:subject>
+        <dc:subject>Al Kut (Iraq) -- History -- Siege</dc:subject>
+        <dc:subject>1915-1916</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Edward O. Mousley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:27:43.234042+00:00"/>
+        <meta name="calibre:title_sort" content="Secrets of a Kuttite / An Authentic Story of Kut, Adventures in Captivity and Stamboul Intrigue, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

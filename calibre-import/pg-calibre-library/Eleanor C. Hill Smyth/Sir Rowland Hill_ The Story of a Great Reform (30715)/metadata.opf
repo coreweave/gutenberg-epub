@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d27d0a9c-3f2b-4a98-98db-e7b6ca01d12e</dc:identifier>
+        <dc:title>Sir Rowland Hill: The Story of a Great Reform</dc:title>
+        <dc:creator opf:file-as="Smyth, Eleanor C. Hill" opf:role="aut">Eleanor C. Hill Smyth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55467</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postal service -- Great Britain -- History</dc:subject>
+        <dc:subject>Hill</dc:subject>
+        <dc:subject>Rowland</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1795-1879</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eleanor C. Hill Smyth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:45:35.834883+00:00"/>
+        <meta name="calibre:title_sort" content="Sir Rowland Hill: The Story of a Great Reform"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
