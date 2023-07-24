@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e70900f-0dbc-423d-b03d-442cbf28ae3c</dc:identifier>
+        <dc:title>Journey Work</dc:title>
+        <dc:creator opf:file-as="Dryfoos, Dave" opf:role="aut">Dave Dryfoos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58899</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Older men -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dave Dryfoos&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:15:33.482655+00:00"/>
+        <meta name="calibre:title_sort" content="Journey Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

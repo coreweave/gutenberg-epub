@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2901f805-73ee-4cf2-a00a-f8690e8860c6</dc:identifier>
+        <dc:title>Queer Luck: Poker Stories from the New York Sun</dc:title>
+        <dc:creator opf:file-as="Curtis, David A." opf:role="aut">David A. Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57751</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Poker -- Fiction</dc:subject>
+        <dc:subject>Poker players -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David A. Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:45:41.217467+00:00"/>
+        <meta name="calibre:title_sort" content="Queer Luck: Poker Stories from the New York Sun"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

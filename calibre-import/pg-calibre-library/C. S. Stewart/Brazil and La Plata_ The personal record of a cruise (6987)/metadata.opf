@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f360e8b-5d58-4d1b-9517-8c68c986f356</dc:identifier>
+        <dc:title>Brazil and La Plata: The personal record of a cruise</dc:title>
+        <dc:creator opf:file-as="Stewart, C. S. (Charles Samuel)" opf:role="aut">C. S. Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54886</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brazil -- Description and travel</dc:subject>
+        <dc:subject>Buenos Aires (Argentina) -- Description and travel</dc:subject>
+        <dc:subject>Montevideo (Uruguay) -- Description and travel</dc:subject>
+        <dc:subject>Rio de Janeiro (Brazil) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. S. Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:34:41.712227+00:00"/>
+        <meta name="calibre:title_sort" content="Brazil and La Plata: The personal record of a cruise"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

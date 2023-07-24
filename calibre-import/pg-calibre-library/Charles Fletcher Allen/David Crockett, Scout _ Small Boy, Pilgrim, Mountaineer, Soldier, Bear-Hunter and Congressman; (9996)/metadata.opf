@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9996</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff9b9e47-3d61-45ad-9e2d-6db9540e0344</dc:identifier>
+        <dc:title>David Crockett, Scout / Small Boy, Pilgrim, Mountaineer, Soldier, Bear-Hunter and Congressman; Defender of the Alamo</dc:title>
+        <dc:creator opf:file-as="Allen, Charles Fletcher" opf:role="aut">Charles Fletcher Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58797</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crockett</dc:subject>
+        <dc:subject>Davy</dc:subject>
+        <dc:subject>1786-1836</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Fletcher Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:47:59.862805+00:00"/>
+        <meta name="calibre:title_sort" content="David Crockett, Scout / Small Boy, Pilgrim, Mountaineer, Soldier, Bear-Hunter and Congressman; Defender of the Alamo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

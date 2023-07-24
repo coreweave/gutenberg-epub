@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f548248-e1f5-486d-925b-9316cb3df71e</dc:identifier>
+        <dc:title>The Record of a Quaker Conscience, Cyrus Pringle's Diary / With an Introduction by Rufus M. Jones</dc:title>
+        <dc:creator opf:file-as="Pringle, Cyrus G. (Cyrus Guernsey)" opf:role="aut">Cyrus G. Pringle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16088</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Draft</dc:subject>
+        <dc:subject>Society of Friends</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cyrus G. Pringle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:27:41.259821+00:00"/>
+        <meta name="calibre:title_sort" content="Record of a Quaker Conscience, Cyrus Pringle's Diary / With an Introduction by Rufus M. Jones, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

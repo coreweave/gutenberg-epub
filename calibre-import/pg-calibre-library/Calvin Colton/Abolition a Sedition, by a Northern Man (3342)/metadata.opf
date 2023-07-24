@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7dd54e6-e256-4d4d-a240-3ac20698e302</dc:identifier>
+        <dc:title>Abolition a Sedition, by a Northern Man</dc:title>
+        <dc:creator opf:file-as="Colton, Calvin" opf:role="aut">Calvin Colton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41014</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <dc:subject>Abolitionists -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Calvin Colton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:20:43.441553+00:00"/>
+        <meta name="calibre:title_sort" content="Abolition a Sedition, by a Northern Man"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

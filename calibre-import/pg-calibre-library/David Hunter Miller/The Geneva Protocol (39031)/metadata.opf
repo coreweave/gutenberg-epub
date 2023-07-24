@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f0aa8d3-d66f-4dc0-adb7-8f5fa581afc0</dc:identifier>
+        <dc:title>The Geneva Protocol</dc:title>
+        <dc:creator opf:file-as="Miller, David Hunter" opf:role="aut">David Hunter Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28950</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Arbitration (International law)</dc:subject>
+        <dc:subject>Disarmament</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>International</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Hunter Miller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:40:01.400103+00:00"/>
+        <meta name="calibre:title_sort" content="Geneva Protocol, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ba591b1-8b4a-4b94-b2ea-fb07cca921bb</dc:identifier>
+        <dc:title>History of the Forty-second regiment infantry, Massachusetts volunteers, 1862, 1863, 1864</dc:title>
+        <dc:creator opf:file-as="Bosson, Charles P. (Charles Palfray)" opf:role="aut">Charles P. Bosson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52079</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories -- Massachusetts</dc:subject>
+        <dc:subject>United States. Army. Massachusetts Infantry Regiment</dc:subject>
+        <dc:subject>42nd (1862-1864)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles P. Bosson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:50:20.963168+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Forty-second regiment infantry, Massachusetts volunteers, 1862, 1863, 1864"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

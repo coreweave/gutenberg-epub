@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4ace907-725f-4285-9a97-106913b5a55a</dc:identifier>
+        <dc:title>The Mentor: Reclaiming the Desert, Vol. 6, Num. 17, Serial No. 165, October 15, 1918</dc:title>
+        <dc:creator opf:file-as="Blanchard, C. J. (Clarence John)" opf:role="aut">C. J. Blanchard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49454</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Desert reclamation -- Southwest</dc:subject>
+        <dc:subject>New</dc:subject>
+        <dc:subject>Desert resources development -- Southwest</dc:subject>
+        <dc:subject>Irrigation -- Southest</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. J. Blanchard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:37:50.677966+00:00"/>
+        <meta name="calibre:title_sort" content="Mentor: Reclaiming the Desert, Vol. 6, Num. 17, Serial No. 165, October 15, 1918, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

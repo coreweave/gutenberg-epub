@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1892</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6966e4b-dbfd-4af6-8db0-b96036f36fda</dc:identifier>
+        <dc:title>A Modest Meane to Mariage / pleasauntly set foorth by that famous Clarke Erasmus Roterodamus, and translated into Englishe by N.L.</dc:title>
+        <dc:creator opf:file-as="Erasmus, Desiderius" opf:role="aut">Desiderius Erasmus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46239</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dialogues</dc:subject>
+        <dc:subject>Latin (Medieval and modern) -- Translations into English</dc:subject>
+        <dc:subject>Marriage -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Desiderius Erasmus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:20.899766+00:00"/>
+        <meta name="calibre:title_sort" content="Modest Meane to Mariage / pleasauntly set foorth by that famous Clarke Erasmus Roterodamus, and translated into Englishe by N.L., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df329d90-8e69-4c63-8035-373b137e452f</dc:identifier>
+        <dc:title>Weale's Series of Scientific and Technical Works</dc:title>
+        <dc:creator opf:file-as="Crosby Lockwood and Son" opf:role="aut">Crosby Lockwood</dc:creator>
+        <dc:creator opf:file-as="Crosby Lockwood and Son" opf:role="aut">Son</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63907</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Publishers' catalogs -- England -- London</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Crosby Lockwood&quot;: &quot;&quot;, &quot;Son&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:41:13.650382+00:00"/>
+        <meta name="calibre:title_sort" content="Weale's Series of Scientific and Technical Works"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

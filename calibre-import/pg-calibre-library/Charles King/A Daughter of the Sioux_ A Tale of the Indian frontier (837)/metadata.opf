@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9701c34-7002-481c-8613-d76ee91db355</dc:identifier>
+        <dc:title>A Daughter of the Sioux: A Tale of the Indian frontier</dc:title>
+        <dc:creator opf:file-as="King, Charles" opf:role="aut">Charles King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19023</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Dakota Indians -- Fiction</dc:subject>
+        <dc:subject>Indian women -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:38:35.386921+00:00"/>
+        <meta name="calibre:title_sort" content="Daughter of the Sioux: A Tale of the Indian frontier, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

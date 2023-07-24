@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b09c5eda-890c-4d1d-869a-b67fb88f1675</dc:identifier>
+        <dc:title>First Lensman</dc:title>
+        <dc:creator opf:file-as="Smith, E. E. (Edward Elmer)" opf:role="aut">E. E. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49525</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Space warfare -- Fiction</dc:subject>
+        <dc:subject>Imaginary wars and battles -- Fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <dc:subject>Space colonies -- Fiction</dc:subject>
+        <dc:subject>Outer space -- Exploration -- Fiction</dc:subject>
+        <dc:subject>Space security -- Fiction</dc:subject>
+        <dc:subject>Psychic ability -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. E. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:03:46.816789+00:00"/>
+        <meta name="calibre:title_sort" content="First Lensman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

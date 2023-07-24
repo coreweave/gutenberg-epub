@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0371522f-4fca-44c0-a08f-dbbcfaee2792</dc:identifier>
+        <dc:title>The Mystery at Camp Lenape</dc:title>
+        <dc:creator opf:file-as="Saxon, Carl" opf:role="aut">Carl Saxon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54826</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Camps -- Juvenile fiction</dc:subject>
+        <dc:subject>Mystery and detective stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carl Saxon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:19:05.327600+00:00"/>
+        <meta name="calibre:title_sort" content="Mystery at Camp Lenape, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

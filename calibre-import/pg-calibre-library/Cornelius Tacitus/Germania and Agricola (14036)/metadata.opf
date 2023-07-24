@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae0abf0e-eaa0-46e8-ba9f-a059d399d24e</dc:identifier>
+        <dc:title>Germania and Agricola</dc:title>
+        <dc:creator opf:file-as="Tacitus, Cornelius" opf:role="aut">Cornelius Tacitus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9090</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>lat</dc:language>
+        <dc:subject>Agricola</dc:subject>
+        <dc:subject>Gnaeus Julius</dc:subject>
+        <dc:subject>40-93</dc:subject>
+        <dc:subject>Germanic peoples -- Early works to 1800</dc:subject>
+        <dc:subject>Statesmen -- Rome -- Biography -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cornelius Tacitus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:42:01.859541+00:00"/>
+        <meta name="calibre:title_sort" content="Germania and Agricola"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

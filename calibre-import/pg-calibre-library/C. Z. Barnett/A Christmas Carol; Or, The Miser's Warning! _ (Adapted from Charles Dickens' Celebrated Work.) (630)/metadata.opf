@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca755f84-ad19-4e8d-8b5a-fe651d40e868</dc:identifier>
+        <dc:title>A Christmas Carol; Or, The Miser's Warning! / (Adapted from Charles Dickens' Celebrated Work.)</dc:title>
+        <dc:creator opf:file-as="Barnett, C. Z. (Charles Zachary)" opf:role="aut">C. Z. Barnett</dc:creator>
+        <dc:creator opf:file-as="Barnett, C. Z. (Charles Zachary)" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41739</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Misers -- Drama</dc:subject>
+        <dc:subject>Christmas plays</dc:subject>
+        <dc:subject>London (England) -- Drama</dc:subject>
+        <dc:subject>Ghosts -- Drama</dc:subject>
+        <dc:subject>Poor families -- Drama</dc:subject>
+        <dc:subject>Scrooge</dc:subject>
+        <dc:subject>Ebenezer (Fictitious character) -- Drama</dc:subject>
+        <dc:subject>Sick children -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. Z. Barnett&quot;: &quot;&quot;, &quot;Charles Dickens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:35:27.605895+00:00"/>
+        <meta name="calibre:title_sort" content="Christmas Carol; Or, The Miser's Warning! / (Adapted from Charles Dickens' Celebrated Work.), A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

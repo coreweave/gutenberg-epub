@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31611</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">117f32f1-25fd-4fd4-8e66-34ff90a847bd</dc:identifier>
+        <dc:title>Stage Confidences: Talks About Players and Play Acting</dc:title>
+        <dc:creator opf:file-as="Morris, Clara" opf:role="aut">Clara Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13277</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Acting</dc:subject>
+        <dc:subject>Actors -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clara Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:28:11.967330+00:00"/>
+        <meta name="calibre:title_sort" content="Stage Confidences: Talks About Players and Play Acting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

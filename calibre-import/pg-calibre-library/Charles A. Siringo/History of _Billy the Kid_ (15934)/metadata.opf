@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec1954fa-7d50-48b8-a9be-130f2c41217d</dc:identifier>
+        <dc:title>History of "Billy the Kid"</dc:title>
+        <dc:creator opf:file-as="Siringo, Charles A." opf:role="aut">Charles A. Siringo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38039</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Billy</dc:subject>
+        <dc:subject>the Kid</dc:subject>
+        <dc:subject>Outlaws -- Southwest</dc:subject>
+        <dc:subject>New -- Biography</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Southwest</dc:subject>
+        <dc:subject>New</dc:subject>
+        <dc:subject>Southwest</dc:subject>
+        <dc:subject>New -- History -- 1848-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles A. Siringo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:42:58.664222+00:00"/>
+        <meta name="calibre:title_sort" content="History of &quot;Billy the Kid&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

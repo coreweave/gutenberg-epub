@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36648bbc-8088-4ac1-ad74-94b2ae8f461d</dc:identifier>
+        <dc:title>Miss Beecher's Domestic Receipt Book / Designed as a Supplement to Her Treatise on Domestic Economy</dc:title>
+        <dc:creator opf:file-as="Beecher, Catharine Esther" opf:role="aut">Catharine Esther Beecher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54965</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Catharine Esther Beecher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:32:42.327975+00:00"/>
+        <meta name="calibre:title_sort" content="Miss Beecher's Domestic Receipt Book / Designed as a Supplement to Her Treatise on Domestic Economy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

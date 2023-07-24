@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e97f41f6-59b4-499a-873d-cded90090a71</dc:identifier>
+        <dc:title>The Lighter Classics in Music / A Comprehensive Guide to Musical Masterworks in a Lighter Vein by 187 Composers</dc:title>
+        <dc:creator opf:file-as="Ewen, David" opf:role="aut">David Ewen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66346</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music appreciation</dc:subject>
+        <dc:subject>Composers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Ewen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:39:28.525338+00:00"/>
+        <meta name="calibre:title_sort" content="Lighter Classics in Music / A Comprehensive Guide to Musical Masterworks in a Lighter Vein by 187 Composers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

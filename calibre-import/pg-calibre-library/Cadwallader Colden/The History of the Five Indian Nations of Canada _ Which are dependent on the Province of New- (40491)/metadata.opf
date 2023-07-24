@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7456c9dc-0b18-4e98-9c7a-ed1f85506adc</dc:identifier>
+        <dc:title>The History of the Five Indian Nations of Canada / Which are dependent on the Province of New-York, and are a barrier between the English and the French in that part of the world</dc:title>
+        <dc:creator opf:file-as="Colden, Cadwallader" opf:role="aut">Cadwallader Colden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35719</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pennsylvania -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>Iroquois Indians -- History</dc:subject>
+        <dc:subject>New York (State) -- History -- Colonial period</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cadwallader Colden&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:57:00.863184+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Five Indian Nations of Canada / Which are dependent on the Province of New-York, and are a barrier between the English and the French in that part of the world, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

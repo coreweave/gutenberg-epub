@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db27a24b-5126-4518-b203-d6a9f06f86a7</dc:identifier>
+        <dc:title>Mark Tidd in Business</dc:title>
+        <dc:creator opf:file-as="Kelland, Clarence Budington" opf:role="aut">Clarence Budington Kelland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46269</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Michigan -- Juvenile fiction</dc:subject>
+        <dc:subject>Stores</dc:subject>
+        <dc:subject>Retail -- Juvenile fiction</dc:subject>
+        <dc:subject>Business -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clarence Budington Kelland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:50:44.407333+00:00"/>
+        <meta name="calibre:title_sort" content="Mark Tidd in Business"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

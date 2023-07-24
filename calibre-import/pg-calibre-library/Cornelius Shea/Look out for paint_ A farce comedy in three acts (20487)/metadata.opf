@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20487</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58d74eda-f640-4e1f-969a-baaa79932314</dc:identifier>
+        <dc:title>Look out for paint: A farce comedy in three acts</dc:title>
+        <dc:creator opf:file-as="Shea, Cornelius" opf:role="aut">Cornelius Shea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69690</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Mate selection -- Drama</dc:subject>
+        <dc:subject>Impostors and imposture -- Drama</dc:subject>
+        <dc:subject>Farces</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cornelius Shea&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:22:36.739991+00:00"/>
+        <meta name="calibre:title_sort" content="Look out for paint: A farce comedy in three acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

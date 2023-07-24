@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32440</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95382dd5-ddbb-41d2-bb6d-6baced8d627f</dc:identifier>
+        <dc:title>Tacitus: The Histories, Volumes I and II</dc:title>
+        <dc:creator opf:file-as="Tacitus, Cornelius" opf:role="aut">Cornelius Tacitus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16927</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rome -- History -- Flavians</dc:subject>
+        <dc:subject>69-96</dc:subject>
+        <dc:subject>Rome -- History -- Civil War</dc:subject>
+        <dc:subject>68-69</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cornelius Tacitus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:09:11.873238+00:00"/>
+        <meta name="calibre:title_sort" content="Tacitus: The Histories, Volumes I and II"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

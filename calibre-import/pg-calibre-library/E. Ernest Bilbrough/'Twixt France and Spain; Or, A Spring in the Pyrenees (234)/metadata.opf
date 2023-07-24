@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2fd4f96-46a0-4421-a962-88937494f5da</dc:identifier>
+        <dc:title>'Twixt France and Spain; Or, A Spring in the Pyrenees</dc:title>
+        <dc:creator opf:file-as="Bilbrough, E. Ernest" opf:role="aut">E. Ernest Bilbrough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pyrenees -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Ernest Bilbrough&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:29:33.315935+00:00"/>
+        <meta name="calibre:title_sort" content="Twixt France and Spain; Or, A Spring in the Pyrenees"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a956fd8c-eaea-4a5b-a0d3-664d17e8df9c</dc:identifier>
+        <dc:title>Of Captain Mission</dc:title>
+        <dc:creator opf:file-as="Defoe, Daniel" opf:role="aut">Daniel Defoe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7779</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pirates -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Defoe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:09:26.300307+00:00"/>
+        <meta name="calibre:title_sort" content="Of Captain Mission"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

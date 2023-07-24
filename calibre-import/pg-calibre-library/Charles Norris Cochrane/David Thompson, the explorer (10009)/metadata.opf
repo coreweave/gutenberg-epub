@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10009</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f29bffae-1ce2-4921-9419-7e2de3a52468</dc:identifier>
+        <dc:title>David Thompson, the explorer</dc:title>
+        <dc:creator opf:file-as="Cochrane, Charles Norris" opf:role="aut">Charles Norris Cochrane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69432</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Canadian</dc:subject>
+        <dc:subject>Thompson</dc:subject>
+        <dc:subject>David</dc:subject>
+        <dc:subject>1770-1857</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Norris Cochrane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:48:19.954872+00:00"/>
+        <meta name="calibre:title_sort" content="David Thompson, the explorer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

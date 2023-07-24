@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fc3da3e-7ea8-4f79-b6ea-0cfc22c0ef48</dc:identifier>
+        <dc:title>The New York and Albany Post Road / From Kings Bridge to "The Ferry at Crawlier, over against Albany," Being an Account of a Jaunt on Foot Made at Sundry Convenient Times between May and November, Nineteen Hundred and Five</dc:title>
+        <dc:creator opf:file-as="Hine, C. G. (Charles Gilbert)" opf:role="aut">C. G. Hine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23857</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hudson River Valley (N.Y. and N.J.) -- Description and travel</dc:subject>
+        <dc:subject>Hudson River Valley (N.Y. and N.J.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. G. Hine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:36:40.595631+00:00"/>
+        <meta name="calibre:title_sort" content="New York and Albany Post Road / From Kings Bridge to &quot;The Ferry at Crawlier, over against Albany,&quot; Being an Account of a Jaunt on Foot Made at Sundry Convenient Times between May and November, Nineteen Hundred and Five, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

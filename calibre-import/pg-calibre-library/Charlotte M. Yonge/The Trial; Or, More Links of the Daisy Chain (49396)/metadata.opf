@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69caed07-2565-4350-8288-7505ad814ece</dc:identifier>
+        <dc:title>The Trial; Or, More Links of the Daisy Chain</dc:title>
+        <dc:creator opf:file-as="Yonge, Charlotte M. (Charlotte Mary)" opf:role="aut">Charlotte M. Yonge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3744</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>English fiction -- 19th century</dc:subject>
+        <dc:subject>Trials (Murder) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte M. Yonge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:28:50.201069+00:00"/>
+        <meta name="calibre:title_sort" content="Trial; Or, More Links of the Daisy Chain, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">438b46a6-b4e0-41b4-96ff-7777ad7a82aa</dc:identifier>
+        <dc:title>Scapa and a Camera / Pictorial Impressions of Five Years Spent at the Grand Fleet Base</dc:title>
+        <dc:creator opf:file-as="Burrows, C. W." opf:role="aut">C. W. Burrows</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Naval operations</dc:subject>
+        <dc:subject>Great Britain. Royal Navy -- Pictorial works</dc:subject>
+        <dc:subject>Germany. Kriegsmarine -- Pictorial works</dc:subject>
+        <dc:subject>Scapa Flow (Scotland) -- History</dc:subject>
+        <dc:subject>Naval -- 20th century</dc:subject>
+        <dc:subject>Scapa Flow (Scotland) -- Pictorial works</dc:subject>
+        <dc:subject>Warships -- Great Britain -- Pictorial works</dc:subject>
+        <dc:subject>Orkney (Scotland) -- Pictorial works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. W. Burrows&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:00:39.245437+00:00"/>
+        <meta name="calibre:title_sort" content="Scapa and a Camera / Pictorial Impressions of Five Years Spent at the Grand Fleet Base"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

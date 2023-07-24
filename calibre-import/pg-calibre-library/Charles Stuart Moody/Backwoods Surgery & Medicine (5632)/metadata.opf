@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d9bf224-2f02-4825-a28e-797df5e4a771</dc:identifier>
+        <dc:title>Backwoods Surgery &amp; Medicine</dc:title>
+        <dc:creator opf:file-as="Moody, Charles Stuart" opf:role="aut">Charles Stuart Moody</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48929</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medicine</dc:subject>
+        <dc:subject>Popular</dc:subject>
+        <dc:subject>First aid in illness and injury</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Stuart Moody&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:05:08.202022+00:00"/>
+        <meta name="calibre:title_sort" content="Backwoods Surgery &amp; Medicine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

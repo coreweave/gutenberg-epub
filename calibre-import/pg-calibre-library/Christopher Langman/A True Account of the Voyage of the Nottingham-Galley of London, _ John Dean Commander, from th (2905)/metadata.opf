@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2905</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2abc2330-3b95-4166-8e16-b140d13a7bbd</dc:identifier>
+        <dc:title>A True Account of the Voyage of the Nottingham-Galley of London, / John Dean Commander, from the River Thames to New-England</dc:title>
+        <dc:creator opf:file-as="Langman, Christopher" opf:role="aut">Christopher Langman</dc:creator>
+        <dc:creator opf:file-as="Langman, Christopher" opf:role="aut">Nicholas Mellen</dc:creator>
+        <dc:creator opf:file-as="Langman, Christopher" opf:role="aut">sailor on the Nottingham galley George White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52769</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nottingham Galley (Merchant ship)</dc:subject>
+        <dc:subject>Boon Island (Me.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Langman&quot;: &quot;&quot;, &quot;Nicholas Mellen&quot;: &quot;&quot;, &quot;sailor on the Nottingham galley George White&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:44.512119+00:00"/>
+        <meta name="calibre:title_sort" content="True Account of the Voyage of the Nottingham-Galley of London, / John Dean Commander, from the River Thames to New-England, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

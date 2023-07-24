@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71b19e16-43b3-4e11-878d-fe7b38534353</dc:identifier>
+        <dc:title>Master Simon's Garden: A Story</dc:title>
+        <dc:creator opf:file-as="Meigs, Cornelia" opf:role="aut">Cornelia Meigs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New England -- Juvenile fiction</dc:subject>
+        <dc:subject>United States -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cornelia Meigs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:58:11.940131+00:00"/>
+        <meta name="calibre:title_sort" content="Master Simon's Garden: A Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

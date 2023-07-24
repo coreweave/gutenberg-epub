@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80ebe4e4-dee7-4199-b4e8-c38b4ed381d2</dc:identifier>
+        <dc:title>Letters on the Moral and Religious State of South America / Written during a residence of nearly seven years in Buenos Aires, Chile, Peru and Colombia</dc:title>
+        <dc:creator opf:file-as="Thomson, James, D.D." opf:role="aut">D.D. James Thomson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67526</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South America -- Description and travel</dc:subject>
+        <dc:subject>South America -- Social life and customs</dc:subject>
+        <dc:subject>Education -- South America</dc:subject>
+        <dc:subject>South America -- Religion</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D.D. James Thomson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:51:47.887927+00:00"/>
+        <meta name="calibre:title_sort" content="Letters on the Moral and Religious State of South America / Written during a residence of nearly seven years in Buenos Aires, Chile, Peru and Colombia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

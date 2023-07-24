@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d2a6c6f-8f46-4e87-98d8-c089fd89eb67</dc:identifier>
+        <dc:title>Delco Radio Owner's Manual Model 633; Delcotron Generator Installation</dc:title>
+        <dc:creator opf:file-as="Delco-Remy Corporation" opf:role="aut">Delco-Remy Corporation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31407</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Radio -- Receivers and reception -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Delco-Remy Corporation&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:53:11.529229+00:00"/>
+        <meta name="calibre:title_sort" content="Delco Radio Owner's Manual Model 633; Delcotron Generator Installation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

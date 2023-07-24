@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">834a1575-04f4-4023-a161-aa64ba4ab7b1</dc:identifier>
+        <dc:title>The Prophet of the Great Smoky Mountains</dc:title>
+        <dc:creator opf:file-as="Craddock, Charles Egbert" opf:role="aut">Charles Egbert Craddock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35619</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clergy -- Fiction</dc:subject>
+        <dc:subject>Mountain life -- Fiction</dc:subject>
+        <dc:subject>Tennessee</dc:subject>
+        <dc:subject>East -- Fiction</dc:subject>
+        <dc:subject>Dialect literature</dc:subject>
+        <dc:subject>American -- Tennessee</dc:subject>
+        <dc:subject>Great Smoky Mountains (N.C. and Tenn.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Egbert Craddock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:07:49.755016+00:00"/>
+        <meta name="calibre:title_sort" content="Prophet of the Great Smoky Mountains, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

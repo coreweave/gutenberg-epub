@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cb1d3f7-03dd-418a-b77a-49afb0de0dcf</dc:identifier>
+        <dc:title>The Secret of the Ninth Planet</dc:title>
+        <dc:creator opf:file-as="Wollheim, Donald A." opf:role="aut">Donald A. Wollheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Pluto (Dwarf planet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Donald A. Wollheim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:27:10.196840+00:00"/>
+        <meta name="calibre:title_sort" content="Secret of the Ninth Planet, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

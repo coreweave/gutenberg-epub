@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73444db3-77d6-4cfb-9a0e-a73cdfbdd7a7</dc:identifier>
+        <dc:title>The Story of Old Fort Loudon</dc:title>
+        <dc:creator opf:file-as="Craddock, Charles Egbert" opf:role="aut">Charles Egbert Craddock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31801</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Cherokee Indians -- Wars</dc:subject>
+        <dc:subject>1759-1761 -- Fiction</dc:subject>
+        <dc:subject>Pioneers -- Tennessee -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Egbert Craddock&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:22:44.586844+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Old Fort Loudon, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

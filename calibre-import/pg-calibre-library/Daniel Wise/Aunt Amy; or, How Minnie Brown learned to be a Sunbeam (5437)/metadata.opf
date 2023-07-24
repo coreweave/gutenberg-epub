@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1817223a-f7ac-4d84-b78b-88a9c0a8dc54</dc:identifier>
+        <dc:title>Aunt Amy; or, How Minnie Brown learned to be a Sunbeam</dc:title>
+        <dc:creator opf:file-as="Wise, Daniel" opf:role="aut">Daniel Wise</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Wise&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:01:03.616078+00:00"/>
+        <meta name="calibre:title_sort" content="Aunt Amy; or, How Minnie Brown learned to be a Sunbeam"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

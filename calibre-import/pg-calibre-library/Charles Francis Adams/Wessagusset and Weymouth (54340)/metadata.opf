@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54340</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77959536-ac2e-48e2-828f-031cd03339c4</dc:identifier>
+        <dc:title>Wessagusset and Weymouth</dc:title>
+        <dc:creator opf:file-as="Adams, Charles Francis" opf:role="aut">Charles Francis Adams</dc:creator>
+        <dc:creator opf:file-as="Adams, Charles Francis" opf:role="aut">Gilbert Nash</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69679</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Weymouth (Mass.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Francis Adams&quot;: &quot;&quot;, &quot;Gilbert Nash&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:44:51.142437+00:00"/>
+        <meta name="calibre:title_sort" content="Wessagusset and Weymouth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

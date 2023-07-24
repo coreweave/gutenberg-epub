@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c84f1017-e2e1-49a1-a197-95949dff99c2</dc:identifier>
+        <dc:title>Special Method in the Reading of Complete English Classics / In the Grades of the Common School</dc:title>
+        <dc:creator opf:file-as="McMurry, Charles A. (Charles Alexander)" opf:role="aut">Charles A. McMurry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39154</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English literature -- Study and teaching</dc:subject>
+        <dc:subject>American literature -- Study and teaching</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles A. McMurry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:19:56.180859+00:00"/>
+        <meta name="calibre:title_sort" content="Special Method in the Reading of Complete English Classics / In the Grades of the Common School"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

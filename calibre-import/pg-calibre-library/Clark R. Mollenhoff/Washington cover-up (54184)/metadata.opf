@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ca12930-9449-4c35-8bd4-c84dab55b77b</dc:identifier>
+        <dc:title>Washington cover-up</dc:title>
+        <dc:creator opf:file-as="Mollenhoff, Clark R. (Clark Raymond)" opf:role="aut">Clark R. Mollenhoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70368</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Government information -- United States</dc:subject>
+        <dc:subject>Executive privilege (Government information) -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clark R. Mollenhoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:34:50.176819+00:00"/>
+        <meta name="calibre:title_sort" content="Washington cover-up"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d241cad9-e04c-48ad-a532-c77b2c2da732</dc:identifier>
+        <dc:title>New York Journal of Pharmacy, Volume 1 (of 3), 1852 / Published by Authority of the College of Pharmacy of the City of New York.</dc:title>
+        <dc:creator opf:file-as="College of Pharmacy of the City of New York" opf:role="aut">College of Pharmacy of the City of New York</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53828</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pharmacy -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;College of Pharmacy of the City of New York&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:35:41.468464+00:00"/>
+        <meta name="calibre:title_sort" content="New York Journal of Pharmacy, Volume 1 (of 3), 1852 / Published by Authority of the College of Pharmacy of the City of New York."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

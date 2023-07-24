@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4e850b0-e5b8-4c7f-ae3e-8d68ed4ef836</dc:identifier>
+        <dc:title>The Complete Club Book for Women / Including Subjects, Material and References for Study Programs; together with a Constitution and By-Laws; Rules of Order; Instructions how to make a Year Book; Suggestions for Practical Community Work; a Resume of what Some Clubs are Doing, etc., etc.</dc:title>
+        <dc:creator opf:file-as="Benton, Caroline French" opf:role="aut">Caroline French Benton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33201</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Societies and clubs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Caroline French Benton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:29:14.478156+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Club Book for Women / Including Subjects, Material and References for Study Programs; together with a Constitution and By-Laws; Rules of Order; Instructions how to make a Year Book; Suggestions for Practical Community Work; a Resume of what Some Clubs are Doing, etc., etc., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

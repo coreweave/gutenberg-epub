@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e73fa4c-8a35-4daf-9edf-363e6ca2b576</dc:identifier>
+        <dc:title>The Steam Engine Familiarly Explained and Illustrated / With an historical sketch of its invention and progressive improvement; its applications to navigation and railways; with plain axioms for railway speculators</dc:title>
+        <dc:creator opf:file-as="Lardner, Dionysius" opf:role="aut">Dionysius Lardner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55428</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Steam-engines -- Early works to 1850</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dionysius Lardner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:11:25.961227+00:00"/>
+        <meta name="calibre:title_sort" content="Steam Engine Familiarly Explained and Illustrated / With an historical sketch of its invention and progressive improvement; its applications to navigation and railways; with plain axioms for railway speculators, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

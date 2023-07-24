@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d51488f-c5cd-4e05-88e8-56949a8a1d50</dc:identifier>
+        <dc:title>Twilight in Italy</dc:title>
+        <dc:creator opf:file-as="Lawrence, D. H. (David Herbert)" opf:role="aut">D. H. Lawrence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9497</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lawrence</dc:subject>
+        <dc:subject>D. H. (David Herbert)</dc:subject>
+        <dc:subject>1885-1930 -- Travel -- Italy</dc:subject>
+        <dc:subject>Northern</dc:subject>
+        <dc:subject>Italy</dc:subject>
+        <dc:subject>Northern -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. H. Lawrence&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:26:59.070843+00:00"/>
+        <meta name="calibre:title_sort" content="Twilight in Italy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

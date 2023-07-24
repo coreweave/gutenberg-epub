@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">672feb0d-5c74-49e5-947f-bc0fcd993f80</dc:identifier>
+        <dc:title>"Stella Australis": Poems, verses and prose fragments</dc:title>
+        <dc:creator opf:file-as="Coungeau, E.‏ (Emily)" opf:role="aut">E.‏ Coungeau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57356</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Australian poetry</dc:subject>
+        <dc:subject>Australian literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E.‏ Coungeau&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:28:21.229244+00:00"/>
+        <meta name="calibre:title_sort" content="Stella Australis&quot;: Poems, verses and prose fragments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

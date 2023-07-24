@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9849</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb3e5415-4e0f-4712-9b4a-5ed496d80ccc</dc:identifier>
+        <dc:title>Dancers in the Dark</dc:title>
+        <dc:creator opf:file-as="Speare, Dorothy" opf:role="aut">Dorothy Speare</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60176</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women college students -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dorothy Speare&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:44:11.736734+00:00"/>
+        <meta name="calibre:title_sort" content="Dancers in the Dark"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

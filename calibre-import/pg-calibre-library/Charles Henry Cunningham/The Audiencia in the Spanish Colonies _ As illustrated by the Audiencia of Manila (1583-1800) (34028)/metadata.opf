@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82b12305-98b2-4b5c-add7-fca7532f1720</dc:identifier>
+        <dc:title>The Audiencia in the Spanish Colonies / As illustrated by the Audiencia of Manila (1583-1800)</dc:title>
+        <dc:creator opf:file-as="Cunningham, Charles Henry" opf:role="aut">Charles Henry Cunningham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41443</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philippines -- History -- 1521-1812</dc:subject>
+        <dc:subject>Spain -- Colonies -- Administration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Henry Cunningham&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:26:48.062806+00:00"/>
+        <meta name="calibre:title_sort" content="Audiencia in the Spanish Colonies / As illustrated by the Audiencia of Manila (1583-1800), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">046f0dd9-ec07-459a-8120-296a2750cfa1</dc:identifier>
+        <dc:title>Clara Barton: A Centenary Tribute to the World's Greatest Humanitarian / Founder of the American Red Cross Society, Author of the American Amendment to the International Red Cross Convention of Geneva, Founder of the National First Aid Association of America</dc:title>
+        <dc:creator opf:file-as="Young, Charles Sumner" opf:role="aut">Charles Sumner Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64967</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Barton</dc:subject>
+        <dc:subject>Clara</dc:subject>
+        <dc:subject>1821-1912</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Sumner Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:17:46.470779+00:00"/>
+        <meta name="calibre:title_sort" content="Clara Barton: A Centenary Tribute to the World's Greatest Humanitarian / Founder of the American Red Cross Society, Author of the American Amendment to the International Red Cross Convention of Geneva, Founder of the National First Aid Association of America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

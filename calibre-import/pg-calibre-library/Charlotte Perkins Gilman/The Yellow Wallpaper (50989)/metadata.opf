@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d9296aa-53e0-4dc7-86d4-1e8ea5dab978</dc:identifier>
+        <dc:title>The Yellow Wallpaper</dc:title>
+        <dc:creator opf:file-as="Gilman, Charlotte Perkins" opf:role="aut">Charlotte Perkins Gilman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1952</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Mentally ill women -- Fiction</dc:subject>
+        <dc:subject>Feminist fiction</dc:subject>
+        <dc:subject>Married women -- Psychology -- Fiction</dc:subject>
+        <dc:subject>Sex role -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Perkins Gilman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:08:55.380521+00:00"/>
+        <meta name="calibre:title_sort" content="Yellow Wallpaper, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

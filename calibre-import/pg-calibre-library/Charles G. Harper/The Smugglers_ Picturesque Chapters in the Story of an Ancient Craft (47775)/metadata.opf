@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d920f08c-769f-4d21-9ca4-c7a246421919</dc:identifier>
+        <dc:title>The Smugglers: Picturesque Chapters in the Story of an Ancient Craft</dc:title>
+        <dc:creator opf:file-as="Harper, Charles G. (Charles George)" opf:role="aut">Charles G. Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45856</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Smuggling -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles G. Harper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:50:16.238882+00:00"/>
+        <meta name="calibre:title_sort" content="Smugglers: Picturesque Chapters in the Story of an Ancient Craft, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25095</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a1e8ccd-d296-4549-b303-18f58786397c</dc:identifier>
+        <dc:title>Open Source Democracy: How online communication is changing offline politics</dc:title>
+        <dc:creator opf:file-as="Rushkoff, Douglas" opf:role="aut">Douglas Rushkoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10753</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Democracy</dc:subject>
+        <dc:subject>Information society</dc:subject>
+        <dc:subject>Information society -- Political aspects</dc:subject>
+        <dc:subject>Information technology -- Political aspects</dc:subject>
+        <dc:subject>Political participation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Douglas Rushkoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:32:25.275129+00:00"/>
+        <meta name="calibre:title_sort" content="Open Source Democracy: How online communication is changing offline politics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

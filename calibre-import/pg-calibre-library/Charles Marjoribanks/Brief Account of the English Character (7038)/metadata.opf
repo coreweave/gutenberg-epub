@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9279fe84-f09c-45e0-ae6c-2c16989f9a0e</dc:identifier>
+        <dc:title>Brief Account of the English Character</dc:title>
+        <dc:creator opf:file-as="Marjoribanks, Charles" opf:role="aut">Charles Marjoribanks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54820</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>zho</dc:language>
+        <dc:subject>British -- China</dc:subject>
+        <dc:subject>China -- Commerce -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- Commerce -- China</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Marjoribanks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:35:52.349396+00:00"/>
+        <meta name="calibre:title_sort" content="Brief Account of the English Character"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

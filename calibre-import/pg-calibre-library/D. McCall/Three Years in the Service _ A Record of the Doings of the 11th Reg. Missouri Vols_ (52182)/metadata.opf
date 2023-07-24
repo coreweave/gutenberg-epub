@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ad2468b-f393-401a-8093-57bc71b8db12</dc:identifier>
+        <dc:title>Three Years in the Service / A Record of the Doings of the 11th Reg. Missouri Vols.</dc:title>
+        <dc:creator opf:file-as="McCall, D." opf:role="aut">D. McCall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48822</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>1861-1865 -- Regimental histories</dc:subject>
+        <dc:subject>United States. Army. Missouri Infantry Regiment</dc:subject>
+        <dc:subject>11th (1861-1866)</dc:subject>
+        <dc:subject>Missouri -- History -- Civil War</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. McCall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:26:02.041509+00:00"/>
+        <meta name="calibre:title_sort" content="Three Years in the Service / A Record of the Doings of the 11th Reg. Missouri Vols."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

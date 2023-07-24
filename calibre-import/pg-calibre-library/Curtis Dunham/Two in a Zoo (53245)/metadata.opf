@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38f8c8bd-6f6d-422e-a9fa-7e53c4f27c48</dc:identifier>
+        <dc:title>Two in a Zoo</dc:title>
+        <dc:creator opf:file-as="Dunham, Curtis" opf:role="aut">Curtis Dunham</dc:creator>
+        <dc:creator opf:file-as="Dunham, Curtis" opf:role="aut">Oliver Herford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46159</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Children with disabilities -- Juvenile fiction</dc:subject>
+        <dc:subject>Happiness -- Juvenile fiction</dc:subject>
+        <dc:subject>Captive wild animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Zoo animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Zoos -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Curtis Dunham&quot;: &quot;&quot;, &quot;Oliver Herford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:34:05.301193+00:00"/>
+        <meta name="calibre:title_sort" content="Two in a Zoo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

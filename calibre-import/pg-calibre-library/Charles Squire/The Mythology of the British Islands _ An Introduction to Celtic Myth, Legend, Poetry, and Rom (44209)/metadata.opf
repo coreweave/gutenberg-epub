@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78f58390-6d52-40d9-b576-d78fc48ed3fc</dc:identifier>
+        <dc:title>The Mythology of the British Islands / An Introduction to Celtic Myth, Legend, Poetry, and Romance</dc:title>
+        <dc:creator opf:file-as="Squire, Charles" opf:role="aut">Charles Squire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54616</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Celts -- Folklore</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Celtic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Squire&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:22:47.318352+00:00"/>
+        <meta name="calibre:title_sort" content="Mythology of the British Islands / An Introduction to Celtic Myth, Legend, Poetry, and Romance, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

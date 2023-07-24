@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01f84a08-e4e7-4c0b-86e3-43c3d77b941e</dc:identifier>
+        <dc:title>The Use and Need of the Life of Carry A. Nation</dc:title>
+        <dc:creator opf:file-as="Nation, Carry Amelia" opf:role="aut">Carry Amelia Nation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1485</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social reformers -- United States -- Biography</dc:subject>
+        <dc:subject>Nation</dc:subject>
+        <dc:subject>Carry Amelia</dc:subject>
+        <dc:subject>1846-1911</dc:subject>
+        <dc:subject>Temperance -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carry Amelia Nation&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:47:14.758633+00:00"/>
+        <meta name="calibre:title_sort" content="Use and Need of the Life of Carry A. Nation, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

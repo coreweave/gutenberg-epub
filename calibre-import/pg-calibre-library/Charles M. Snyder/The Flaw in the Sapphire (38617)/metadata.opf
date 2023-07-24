@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bcb09df8-7084-4215-9da9-0b9ca9d91e0e</dc:identifier>
+        <dc:title>The Flaw in the Sapphire</dc:title>
+        <dc:creator opf:file-as="Snyder, Charles M." opf:role="aut">Charles M. Snyder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frame-stories</dc:subject>
+        <dc:subject>Serialized fiction -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles M. Snyder&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:18:28.442837+00:00"/>
+        <meta name="calibre:title_sort" content="Flaw in the Sapphire, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

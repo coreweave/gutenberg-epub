@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8de9d6a9-c02a-4924-ab20-5caeddb5dc3b</dc:identifier>
+        <dc:title>To The Work! To The Work! Exhortations to Christians</dc:title>
+        <dc:creator opf:file-as="Moody, Dwight Lyman" opf:role="aut">Dwight Lyman Moody</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33014</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sermons</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Evangelistic work</dc:subject>
+        <dc:subject>Witness bearing (Christianity)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dwight Lyman Moody&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:41:04.689447+00:00"/>
+        <meta name="calibre:title_sort" content="To The Work! To The Work! Exhortations to Christians"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

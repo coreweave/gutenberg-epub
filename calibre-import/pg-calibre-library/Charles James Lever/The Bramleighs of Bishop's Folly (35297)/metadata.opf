@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbea07e0-ca57-4509-9a5f-ff1ebe9ca88e</dc:identifier>
+        <dc:title>The Bramleighs of Bishop's Folly</dc:title>
+        <dc:creator opf:file-as="Lever, Charles James" opf:role="aut">Charles James Lever</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32561</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- Fiction</dc:subject>
+        <dc:subject>British -- Italy -- Fiction</dc:subject>
+        <dc:subject>British -- Ireland -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles James Lever&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:29:26.949339+00:00"/>
+        <meta name="calibre:title_sort" content="Bramleighs of Bishop's Folly, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">336321c8-f778-4985-ae35-5ff9dcd0a3d9</dc:identifier>
+        <dc:title>VC — A Chronicle of Castle Barfield and of the Crimea</dc:title>
+        <dc:creator opf:file-as="Murray, David Christie" opf:role="aut">David Christie Murray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-08-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22275</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Christie Murray&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:59:11.155517+00:00"/>
+        <meta name="calibre:title_sort" content="VC — A Chronicle of Castle Barfield and of the Crimea"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

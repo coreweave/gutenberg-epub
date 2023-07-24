@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53578b7c-d93d-4f8f-8271-d8a97585e1c7</dc:identifier>
+        <dc:title>The story of my first novel; How a novel is written</dc:title>
+        <dc:creator opf:file-as="Duchess" opf:role="aut">Duchess</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27622</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authorship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Duchess&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:58:04.183789+00:00"/>
+        <meta name="calibre:title_sort" content="story of my first novel; How a novel is written, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9aa9a46f-ba24-463d-9540-510d7863d947</dc:identifier>
+        <dc:title>Hopes and Fears / or, scenes from the life of a spinster</dc:title>
+        <dc:creator opf:file-as="Yonge, Charlotte M. (Charlotte Mary)" opf:role="aut">Charlotte M. Yonge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26156</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Single women -- Fiction</dc:subject>
+        <dc:subject>England -- Social conditions -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte M. Yonge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:01:47.442773+00:00"/>
+        <meta name="calibre:title_sort" content="Hopes and Fears / or, scenes from the life of a spinster"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

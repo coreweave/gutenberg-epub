@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9912cf9-5c5d-4be9-be28-93d385c2aea1</dc:identifier>
+        <dc:title>Queen Maria Sophia of Naples, a Forgotten Heroine</dc:title>
+        <dc:creator opf:file-as="Küchler, Carl" opf:role="aut">Carl Küchler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65606</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maria Sofia</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Francesco II Borbone</dc:subject>
+        <dc:subject>King of the Two Sicilies</dc:subject>
+        <dc:subject>1841-1925</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carl Küchler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:44:35.558378+00:00"/>
+        <meta name="calibre:title_sort" content="Queen Maria Sophia of Naples, a Forgotten Heroine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

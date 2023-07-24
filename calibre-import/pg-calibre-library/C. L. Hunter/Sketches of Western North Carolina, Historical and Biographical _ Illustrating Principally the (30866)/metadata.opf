@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">daf92158-ff8a-404d-8834-3df1a488d397</dc:identifier>
+        <dc:title>Sketches of Western North Carolina, Historical and Biographical / Illustrating Principally the Revolutionary Period of Mecklenburg, Rowan, Lincoln and Adjoining Counties, Accompanied with Miscellaneous Information, Much of It Never before Published</dc:title>
+        <dc:creator opf:file-as="Hunter, C. L." opf:role="aut">C. L. Hunter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12953</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>North Carolina -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>Mecklenburg County (N.C.) -- History</dc:subject>
+        <dc:subject>Cabarrus County (N.C.) -- History</dc:subject>
+        <dc:subject>Rowan County (N.C.) -- History</dc:subject>
+        <dc:subject>Iredell County (N.C.) -- History</dc:subject>
+        <dc:subject>Lincoln County (N.C.) -- History</dc:subject>
+        <dc:subject>Gaston County (N.C.) -- History</dc:subject>
+        <dc:subject>Cleveland County (N.C.) -- History</dc:subject>
+        <dc:subject>Burke County (N.C.) -- History</dc:subject>
+        <dc:subject>Wilkes County (N.C.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. L. Hunter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:52:50.029336+00:00"/>
+        <meta name="calibre:title_sort" content="Sketches of Western North Carolina, Historical and Biographical / Illustrating Principally the Revolutionary Period of Mecklenburg, Rowan, Lincoln and Adjoining Counties, Accompanied with Miscellaneous Information, Much of It Never before Published"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a5991d4-ee81-492a-a442-9e186698e7c2</dc:identifier>
+        <dc:title>Lucy Larcom: Life, Letters, and Diary</dc:title>
+        <dc:creator opf:file-as="Addison, Daniel Dulany" opf:role="aut">Daniel Dulany Addison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55751</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Larcom</dc:subject>
+        <dc:subject>Lucy</dc:subject>
+        <dc:subject>1824-1893</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Dulany Addison&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:31:27.833036+00:00"/>
+        <meta name="calibre:title_sort" content="Lucy Larcom: Life, Letters, and Diary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

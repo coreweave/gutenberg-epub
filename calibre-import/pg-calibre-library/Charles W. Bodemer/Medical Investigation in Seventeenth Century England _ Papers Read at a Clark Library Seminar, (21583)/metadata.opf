@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7e780a2-0e10-4b3b-989a-3b01d3f9564a</dc:identifier>
+        <dc:title>Medical Investigation in Seventeenth Century England / Papers Read at a Clark Library Seminar, October 14, 1967</dc:title>
+        <dc:creator opf:file-as="Bodemer, Charles W." opf:role="aut">Charles W. Bodemer</dc:creator>
+        <dc:creator opf:file-as="Bodemer, Charles W." opf:role="aut">Lester S. King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boyle</dc:subject>
+        <dc:subject>Robert</dc:subject>
+        <dc:subject>1627-1691</dc:subject>
+        <dc:subject>Embryology -- England -- History -- 17th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles W. Bodemer&quot;: &quot;&quot;, &quot;Lester S. King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:05:19.140317+00:00"/>
+        <meta name="calibre:title_sort" content="Medical Investigation in Seventeenth Century England / Papers Read at a Clark Library Seminar, October 14, 1967"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

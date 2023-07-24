@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3084</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35eaa254-e861-4f24-a506-0934ec7e1507</dc:identifier>
+        <dc:title>A Woman's Wartime Journal / An account of the passage over a Georgia plantation of Sherman's army on the march to the sea, as recorded in the diary of Dolly Sumner Lunt</dc:title>
+        <dc:creator opf:file-as="Lunt, Dolly Sumner" opf:role="aut">Dolly Sumner Lunt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Georgia -- History -- Civil War</dc:subject>
+        <dc:subject>Lunt</dc:subject>
+        <dc:subject>Dolly Sumner</dc:subject>
+        <dc:subject>1817-1891</dc:subject>
+        <dc:subject>Sherman's March to the Sea -- Personal narratives</dc:subject>
+        <dc:subject>Georgia -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dolly Sumner Lunt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:16:01.318328+00:00"/>
+        <meta name="calibre:title_sort" content="Woman's Wartime Journal / An account of the passage over a Georgia plantation of Sherman's army on the march to the sea, as recorded in the diary of Dolly Sumner Lunt, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

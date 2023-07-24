@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13564</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b05007b3-85b0-44d7-b750-ad68d3bdf02f</dc:identifier>
+        <dc:title>From Grieg to Brahms: Studies of Some Modern Composers and Their Art</dc:title>
+        <dc:creator opf:file-as="Mason, Daniel Gregory" opf:role="aut">Daniel Gregory Mason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Composers -- Biography</dc:subject>
+        <dc:subject>Music -- 19th century -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Gregory Mason&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:27:37.964724+00:00"/>
+        <meta name="calibre:title_sort" content="From Grieg to Brahms: Studies of Some Modern Composers and Their Art"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

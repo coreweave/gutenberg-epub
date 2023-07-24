@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc8051fe-7457-4dbf-9139-ab3dfa586da2</dc:identifier>
+        <dc:title>A Residence in France During the Years 1792, 1793, 1794 and 1795, Part IV., 1795 / Described in a Series of Letters from an English Lady: with General and Incidental Remarks on the French Character and Manners</dc:title>
+        <dc:creator opf:file-as="Biggs, Charlotte" opf:role="aut">Charlotte Biggs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11995</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Revolution</dc:subject>
+        <dc:subject>1789-1799</dc:subject>
+        <dc:subject>France -- Description and travel -- Early works to 1800</dc:subject>
+        <dc:subject>Biggs</dc:subject>
+        <dc:subject>Charlotte</dc:subject>
+        <dc:subject>-1827 -- Correspondence</dc:subject>
+        <dc:subject>France -- Social life and customs -- 1789-1815</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Biggs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:01:53.000870+00:00"/>
+        <meta name="calibre:title_sort" content="Residence in France During the Years 1792, 1793, 1794 and 1795, Part IV., 1795 / Described in a Series of Letters from an English Lady: with General and Incidental Remarks on the French Character and Manners, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

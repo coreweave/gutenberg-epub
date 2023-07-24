@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7a793ce-8c9f-43d5-837d-c761afa37172</dc:identifier>
+        <dc:title>Indian Creek Massacre and Captivity of Hall Girls / Complete history of the massacre of sixteen whites on Indian creek, near Ottawa, Ill., and Sylvia Hall and Rachel Hall as captives in Illinois and Wisconsin during the Black Hawk war, 1832</dc:title>
+        <dc:creator opf:file-as="Scanlan, Charles Martin" opf:role="aut">Charles Martin Scanlan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50294</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Black Hawk War</dc:subject>
+        <dc:subject>1832</dc:subject>
+        <dc:subject>Horn</dc:subject>
+        <dc:subject>Sylvia Hall</dc:subject>
+        <dc:subject>1813-1899</dc:subject>
+        <dc:subject>Munson</dc:subject>
+        <dc:subject>Rachel Hall</dc:subject>
+        <dc:subject>-1870</dc:subject>
+        <dc:subject>Indian captivities -- Middle West</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Martin Scanlan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:40:39.703714+00:00"/>
+        <meta name="calibre:title_sort" content="Indian Creek Massacre and Captivity of Hall Girls / Complete history of the massacre of sixteen whites on Indian creek, near Ottawa, Ill., and Sylvia Hall and Rachel Hall as captives in Illinois and Wisconsin during the Black Hawk war, 1832"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

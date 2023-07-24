@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a90fca4f-1240-41f8-b716-66b80efe1025</dc:identifier>
+        <dc:title>Odd Bits of Travel with Brush and Camera</dc:title>
+        <dc:creator opf:file-as="Taylor, Charles M. (Charles Maus)" opf:role="aut">Charles M. Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Netherlands -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles M. Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:08:49.560781+00:00"/>
+        <meta name="calibre:title_sort" content="Odd Bits of Travel with Brush and Camera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

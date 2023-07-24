@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1a93772-7acb-44fe-9528-714c368e4fa9</dc:identifier>
+        <dc:title>The Hastings Road and the "Happy Springs of Tunbridge"</dc:title>
+        <dc:creator opf:file-as="Harper, Charles G. (Charles George)" opf:role="aut">Charles G. Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58909</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Description and travel</dc:subject>
+        <dc:subject>England -- Social life and customs</dc:subject>
+        <dc:subject>Hastings Road</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles G. Harper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:31:33.760039+00:00"/>
+        <meta name="calibre:title_sort" content="Hastings Road and the &quot;Happy Springs of Tunbridge&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

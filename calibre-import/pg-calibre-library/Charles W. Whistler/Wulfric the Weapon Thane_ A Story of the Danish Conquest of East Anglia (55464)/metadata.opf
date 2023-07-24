@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9115fefa-48b2-4a81-ba73-a2ab84d6d4b4</dc:identifier>
+        <dc:title>Wulfric the Weapon Thane: A Story of the Danish Conquest of East Anglia</dc:title>
+        <dc:creator opf:file-as="Whistler, Charles W. (Charles Watts)" opf:role="aut">Charles W. Whistler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vikings -- Juvenile fiction</dc:subject>
+        <dc:subject>Kings and rulers -- Juvenile fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Anglo-Saxon period</dc:subject>
+        <dc:subject>449-1066 -- Juvenile fiction</dc:subject>
+        <dc:subject>Saxons -- Juvenile fiction</dc:subject>
+        <dc:subject>Danes -- Juvenile fiction</dc:subject>
+        <dc:subject>Denmark -- History -- To 1241 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles W. Whistler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:59:17.218242+00:00"/>
+        <meta name="calibre:title_sort" content="Wulfric the Weapon Thane: A Story of the Danish Conquest of East Anglia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

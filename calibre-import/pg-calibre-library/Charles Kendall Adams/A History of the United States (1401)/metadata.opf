@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af8d56c6-742c-4d0b-89d0-037ec166fb27</dc:identifier>
+        <dc:title>A History of the United States</dc:title>
+        <dc:creator opf:file-as="Adams, Charles Kendall" opf:role="aut">Charles Kendall Adams</dc:creator>
+        <dc:creator opf:file-as="Adams, Charles Kendall" opf:role="aut">William P. Trent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52766</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Kendall Adams&quot;: &quot;&quot;, &quot;William P. Trent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:47:25.933046+00:00"/>
+        <meta name="calibre:title_sort" content="History of the United States, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

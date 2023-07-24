@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f045afb6-37f7-48a4-a83e-e681e5195bfa</dc:identifier>
+        <dc:title>The Camp of Refuge: A Tale of the Conquest of the Isle of Ely</dc:title>
+        <dc:creator opf:file-as="MacFarlane, Charles" opf:role="aut">Charles MacFarlane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46744</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Medieval period</dc:subject>
+        <dc:subject>1066-1485 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles MacFarlane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:46:39.475257+00:00"/>
+        <meta name="calibre:title_sort" content="Camp of Refuge: A Tale of the Conquest of the Isle of Ely, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

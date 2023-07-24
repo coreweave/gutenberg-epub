@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e3414f9-5c90-4bad-bd85-e4a39a49996e</dc:identifier>
+        <dc:title>The Bird Book / Illustrating in natural colors more than seven hundred North American birds; also several hundred photographs of their nests and eggs.</dc:title>
+        <dc:creator opf:file-as="Reed, Chester A. (Chester Albert)" opf:role="aut">Chester A. Reed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- North America</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chester A. Reed&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:56:53.455988+00:00"/>
+        <meta name="calibre:title_sort" content="Bird Book / Illustrating in natural colors more than seven hundred North American birds; also several hundred photographs of their nests and eggs., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

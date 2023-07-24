@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2237f0c2-915d-4719-b511-63b1c18d1ab7</dc:identifier>
+        <dc:title>The History of Silk, Cotton, Linen, Wool, and Other Fibrous Substances; / Including Observations on Spinning, Dyeing, and Weaving.</dc:title>
+        <dc:creator opf:file-as="Gilroy, Clinton G." opf:role="aut">Clinton G. Gilroy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65967</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <dc:subject>Textile fabrics -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clinton G. Gilroy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:54:15.051750+00:00"/>
+        <meta name="calibre:title_sort" content="History of Silk, Cotton, Linen, Wool, and Other Fibrous Substances; / Including Observations on Spinning, Dyeing, and Weaving., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

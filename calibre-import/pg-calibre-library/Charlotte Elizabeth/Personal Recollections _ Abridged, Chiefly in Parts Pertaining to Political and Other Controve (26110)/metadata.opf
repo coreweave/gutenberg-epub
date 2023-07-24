@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e813592-7aea-4c56-bbce-59088806d60e</dc:identifier>
+        <dc:title>Personal Recollections / Abridged, Chiefly in Parts Pertaining to Political and Other Controversies Prevalent at the Time in Great Britain</dc:title>
+        <dc:creator opf:file-as="Charlotte Elizabeth" opf:role="aut">Charlotte Elizabeth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8114</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Charlotte Elizabeth</dc:subject>
+        <dc:subject>1790-1846</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Elizabeth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:15:28.905498+00:00"/>
+        <meta name="calibre:title_sort" content="Personal Recollections / Abridged, Chiefly in Parts Pertaining to Political and Other Controversies Prevalent at the Time in Great Britain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

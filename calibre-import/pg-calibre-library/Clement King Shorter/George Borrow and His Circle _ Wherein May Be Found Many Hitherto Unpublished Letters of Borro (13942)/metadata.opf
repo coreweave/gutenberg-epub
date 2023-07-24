@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13942</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9502feb8-b9a8-4311-96b3-d6e69296105b</dc:identifier>
+        <dc:title>George Borrow and His Circle / Wherein May Be Found Many Hitherto Unpublished Letters of Borrow and His Friends</dc:title>
+        <dc:creator opf:file-as="Shorter, Clement King" opf:role="aut">Clement King Shorter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19767</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Borrow</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1803-1881</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clement King Shorter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:39:09.471689+00:00"/>
+        <meta name="calibre:title_sort" content="George Borrow and His Circle / Wherein May Be Found Many Hitherto Unpublished Letters of Borrow and His Friends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

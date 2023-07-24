@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c7aa075-d486-442b-81cb-760a2e514c7e</dc:identifier>
+        <dc:title>The Demon Trapper of Umbagog: A Thrilling Tale of the Maine Forests</dc:title>
+        <dc:creator opf:file-as="Thompson, Daniel P. (Daniel Pierce)" opf:role="aut">Daniel P. Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maine -- Fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Fiction</dc:subject>
+        <dc:subject>Trappers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel P. Thompson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:11:58.729145+00:00"/>
+        <meta name="calibre:title_sort" content="Demon Trapper of Umbagog: A Thrilling Tale of the Maine Forests, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

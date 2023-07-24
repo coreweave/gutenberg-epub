@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3817629-718e-4c63-bae3-f9aebf15658c</dc:identifier>
+        <dc:title>The Cliff Ruins of Canyon de Chelly, Arizona / Sixteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1894-95, Government Printing Office, Washington, 1897, pages 73-198</dc:title>
+        <dc:creator opf:file-as="Mindeleff, Cosmos" opf:role="aut">Cosmos Mindeleff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19723</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arizona -- Antiquities</dc:subject>
+        <dc:subject>Cliff-dwellings -- Arizona</dc:subject>
+        <dc:subject>Chelly</dc:subject>
+        <dc:subject>Canyon de (Ariz.)</dc:subject>
+        <dc:subject>Pueblo Indians -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cosmos Mindeleff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:19:22.018539+00:00"/>
+        <meta name="calibre:title_sort" content="Cliff Ruins of Canyon de Chelly, Arizona / Sixteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1894-95, Government Printing Office, Washington, 1897, pages 73-198, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

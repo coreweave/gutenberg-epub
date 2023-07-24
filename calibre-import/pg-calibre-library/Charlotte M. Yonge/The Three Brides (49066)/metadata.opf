@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49066</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9a16d6c-e4d6-4da8-912b-9223305d7d5e</dc:identifier>
+        <dc:title>The Three Brides</dc:title>
+        <dc:creator opf:file-as="Yonge, Charlotte M. (Charlotte Mary)" opf:role="aut">Charlotte M. Yonge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12485</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Marriage -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte M. Yonge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:07:27.914707+00:00"/>
+        <meta name="calibre:title_sort" content="Three Brides, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

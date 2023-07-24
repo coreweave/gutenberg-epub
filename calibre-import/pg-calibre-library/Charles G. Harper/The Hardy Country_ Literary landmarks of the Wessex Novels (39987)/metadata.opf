@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">faefe48a-7b06-4f49-ae89-f962c8b40d59</dc:identifier>
+        <dc:title>The Hardy Country: Literary landmarks of the Wessex Novels</dc:title>
+        <dc:creator opf:file-as="Harper, Charles G. (Charles George)" opf:role="aut">Charles G. Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46801</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hardy</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1840-1928 -- Knowledge -- Dorset (England)</dc:subject>
+        <dc:subject>1840-1928. Wessex novels</dc:subject>
+        <dc:subject>1840-1928 -- Fictional works</dc:subject>
+        <dc:subject>Literary landmarks -- England -- Dorset</dc:subject>
+        <dc:subject>Dorset (England) -- In literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles G. Harper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:30:03.786366+00:00"/>
+        <meta name="calibre:title_sort" content="Hardy Country: Literary landmarks of the Wessex Novels, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

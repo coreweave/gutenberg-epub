@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2decb15f-611c-457f-b608-b9180f2a184e</dc:identifier>
+        <dc:title>A Finnish Grammar</dc:title>
+        <dc:creator opf:file-as="Eliot, Charles" opf:role="aut">Charles Eliot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59795</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Finnish language -- Grammar</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Eliot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:41:19.795134+00:00"/>
+        <meta name="calibre:title_sort" content="Finnish Grammar, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

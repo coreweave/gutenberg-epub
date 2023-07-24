@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af4ed1a2-4d56-465b-a82d-c2e5ffc29cf0</dc:identifier>
+        <dc:title>Condensed History of the Mexican War and Its Glorious Results</dc:title>
+        <dc:creator opf:file-as="Hungerford, Daniel E." opf:role="aut">Daniel E. Hungerford</dc:creator>
+        <dc:creator opf:file-as="Hungerford, Daniel E." opf:role="aut">William McKay</dc:creator>
+        <dc:creator opf:file-as="Hungerford, Daniel E." opf:role="aut">Charles J. Murphy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67722</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mexican War</dc:subject>
+        <dc:subject>1846-1848</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel E. Hungerford&quot;: &quot;&quot;, &quot;William McKay&quot;: &quot;&quot;, &quot;Charles J. Murphy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:27:05.154226+00:00"/>
+        <meta name="calibre:title_sort" content="Condensed History of the Mexican War and Its Glorious Results"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

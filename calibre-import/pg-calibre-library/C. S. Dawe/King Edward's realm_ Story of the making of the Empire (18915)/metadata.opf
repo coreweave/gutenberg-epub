@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18915</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dad89f58-545c-4d99-b80d-6a4e8044d2ff</dc:identifier>
+        <dc:title>King Edward's realm: Story of the making of the Empire</dc:title>
+        <dc:creator opf:file-as="Dawe, C. S. (Charles Sherwill)" opf:role="aut">C. S. Dawe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68886</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. S. Dawe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:25:01.382318+00:00"/>
+        <meta name="calibre:title_sort" content="King Edward's realm: Story of the making of the Empire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

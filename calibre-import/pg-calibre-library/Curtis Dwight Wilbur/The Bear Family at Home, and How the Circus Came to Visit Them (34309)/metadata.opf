@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4257aff1-e301-4891-9500-eb76424d742f</dc:identifier>
+        <dc:title>The Bear Family at Home, and How the Circus Came to Visit Them</dc:title>
+        <dc:creator opf:file-as="Wilbur, Curtis Dwight" opf:role="aut">Curtis Dwight Wilbur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60209</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Bears -- Juvenile fiction</dc:subject>
+        <dc:subject>Circus -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Curtis Dwight Wilbur&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:40:25.629047+00:00"/>
+        <meta name="calibre:title_sort" content="Bear Family at Home, and How the Circus Came to Visit Them, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

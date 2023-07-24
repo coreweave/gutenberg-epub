@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e47d7f93-f251-4090-aa09-5c541d42c56a</dc:identifier>
+        <dc:title>A Short View of the Frauds and Abuses Committed by Apothecaries / As well in Relation to Patients, as Physicians: And Of the / only Remedy thereof by Physicians making their own / Medicines.</dc:title>
+        <dc:creator opf:file-as="Merret, Christopher" opf:role="aut">Christopher Merret</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pharmacists</dc:subject>
+        <dc:subject>Pharmacy -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Merret&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:05:40.100926+00:00"/>
+        <meta name="calibre:title_sort" content="Short View of the Frauds and Abuses Committed by Apothecaries / As well in Relation to Patients, as Physicians: And Of the / only Remedy thereof by Physicians making their own / Medicines., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

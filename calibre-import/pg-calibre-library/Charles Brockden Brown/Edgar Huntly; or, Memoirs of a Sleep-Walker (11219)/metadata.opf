@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf2cfa89-ccfa-4de6-9ee2-e5e01d9353f0</dc:identifier>
+        <dc:title>Edgar Huntly; or, Memoirs of a Sleep-Walker</dc:title>
+        <dc:creator opf:file-as="Brown, Charles Brockden" opf:role="aut">Charles Brockden Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8223</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horror tales</dc:subject>
+        <dc:subject>Delaware Indians -- Fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Epistolary fiction</dc:subject>
+        <dc:subject>Philadelphia (Pa.) -- History -- 18th century -- Fiction</dc:subject>
+        <dc:subject>Wilderness areas -- Fiction</dc:subject>
+        <dc:subject>Dementia -- Fiction</dc:subject>
+        <dc:subject>Sleepwalking -- Fiction</dc:subject>
+        <dc:subject>Murder -- Investigation -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Brockden Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:20:40.528403+00:00"/>
+        <meta name="calibre:title_sort" content="Edgar Huntly; or, Memoirs of a Sleep-Walker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

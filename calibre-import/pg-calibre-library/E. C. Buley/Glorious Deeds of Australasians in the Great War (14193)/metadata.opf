@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31beb785-9c85-4fdd-90f4-398dd03a034b</dc:identifier>
+        <dc:title>Glorious Deeds of Australasians in the Great War</dc:title>
+        <dc:creator opf:file-as="Buley, E. C. (Ernest Charles)" opf:role="aut">E. C. Buley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51427</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- Turkey -- Gallipoli Peninsula</dc:subject>
+        <dc:subject>1914-1918 -- New Zealand</dc:subject>
+        <dc:subject>1914-1918 -- Australia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. C. Buley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:46:54.566152+00:00"/>
+        <meta name="calibre:title_sort" content="Glorious Deeds of Australasians in the Great War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

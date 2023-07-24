@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9417026c-9c5e-46ed-9cdc-1ff2628b306f</dc:identifier>
+        <dc:title>Cuba and Her People of To-day / An account of the history and progress of the island previous to its independence; a description of its physical features; a study of its people; and, in particular, an examination of its present political conditions, its industries, natural resources, and prospects; together with information and suggestions designed to aid the prospective investor or settler</dc:title>
+        <dc:creator opf:file-as="Forbes-Lindsay, C. H." opf:role="aut">C. H. Forbes-Lindsay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59985</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cuba</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. H. Forbes-Lindsay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:39:08.563312+00:00"/>
+        <meta name="calibre:title_sort" content="Cuba and Her People of To-day / An account of the history and progress of the island previous to its independence; a description of its physical features; a study of its people; and, in particular, an examination of its present political conditions, its industries, natural resources, and prospects; together with information and suggestions designed to aid the prospective investor or settler"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

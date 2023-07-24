@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">133374ea-3d19-4df5-96b7-3a6f38f3f79c</dc:identifier>
+        <dc:title>The Story of Cole Younger, by Himself</dc:title>
+        <dc:creator opf:file-as="Younger, Cole" opf:role="aut">Cole Younger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24585</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Biography</dc:subject>
+        <dc:subject>Frontier and pioneer life -- West (U.S.)</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Bank robberies -- Minnesota -- Northfield -- History -- 19th century</dc:subject>
+        <dc:subject>Younger</dc:subject>
+        <dc:subject>Cole</dc:subject>
+        <dc:subject>1844-1916</dc:subject>
+        <dc:subject>Outlaws -- West (U.S.) -- Biography</dc:subject>
+        <dc:subject>Guerrillas -- West (U.S.) -- Biography</dc:subject>
+        <dc:subject>West (U.S.) -- History -- 1860-1890</dc:subject>
+        <dc:subject>West (U.S.) -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Underground movements</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cole Younger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:16:44.340548+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Cole Younger, by Himself, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

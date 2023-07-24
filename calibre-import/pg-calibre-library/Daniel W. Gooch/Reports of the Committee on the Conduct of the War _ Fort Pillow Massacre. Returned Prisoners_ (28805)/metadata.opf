@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28805</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76df2d9b-b85e-4933-b185-61f918599cd8</dc:identifier>
+        <dc:title>Reports of the Committee on the Conduct of the War / Fort Pillow Massacre. Returned Prisoners.</dc:title>
+        <dc:creator opf:file-as="Gooch, Daniel W. (Daniel Wheelwright)" opf:role="aut">Daniel W. Gooch</dc:creator>
+        <dc:creator opf:file-as="Gooch, Daniel W. (Daniel Wheelwright)" opf:role="aut">United States. Congress. Joint Committee on the Conduct of the War</dc:creator>
+        <dc:creator opf:file-as="Gooch, Daniel W. (Daniel Wheelwright)" opf:role="aut">B. F. Wade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41787</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <dc:subject>Fort Pillow</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Tenn.</dc:subject>
+        <dc:subject>1864</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel W. Gooch&quot;: &quot;&quot;, &quot;United States. Congress. Joint Committee on the Conduct of the War&quot;: &quot;&quot;, &quot;B. F. Wade&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:15:11.580821+00:00"/>
+        <meta name="calibre:title_sort" content="Reports of the Committee on the Conduct of the War / Fort Pillow Massacre. Returned Prisoners."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

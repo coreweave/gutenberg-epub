@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fff011e6-b86d-4063-99ec-76d676dd46be</dc:identifier>
+        <dc:title>Charles O'Malley, The Irish Dragoon, Volume 1</dc:title>
+        <dc:creator opf:file-as="Lever, Charles James" opf:role="aut">Charles James Lever</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8577</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles James Lever&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:04:41.757471+00:00"/>
+        <meta name="calibre:title_sort" content="Charles O'Malley, The Irish Dragoon, Volume 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

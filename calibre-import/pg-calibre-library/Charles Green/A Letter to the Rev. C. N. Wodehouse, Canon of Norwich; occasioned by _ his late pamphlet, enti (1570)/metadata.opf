@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0109f1c0-c07c-4945-b3b0-a8509011437c</dc:identifier>
+        <dc:title>A Letter to the Rev. C. N. Wodehouse, Canon of Norwich; occasioned by / his late pamphlet, entitled "Subscription the Disgrace of the English / Church"</dc:title>
+        <dc:creator opf:file-as="Green, Charles" opf:role="aut">Charles Green</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63736</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England. Thirty-nine Articles</dc:subject>
+        <dc:subject>Wodehouse</dc:subject>
+        <dc:subject>C. N. (Charles Nourse)</dc:subject>
+        <dc:subject>1790-1870. Subscription : the disgrace of the English Church</dc:subject>
+        <dc:subject>Universities and colleges -- Great Britain -- Admission</dc:subject>
+        <dc:subject>Catholics -- Legal status</dc:subject>
+        <dc:subject>laws</dc:subject>
+        <dc:subject>etc. -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Green&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:50:08.807640+00:00"/>
+        <meta name="calibre:title_sort" content="Letter to the Rev. C. N. Wodehouse, Canon of Norwich; occasioned by / his late pamphlet, entitled &quot;Subscription the Disgrace of the English / Church&quot;, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

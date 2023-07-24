@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f35216d-db20-40e0-808c-7521ef5725f8</dc:identifier>
+        <dc:title>Recollections of the Civil War / With the Leaders at Washington and in the Field in the Sixties</dc:title>
+        <dc:creator opf:file-as="Dana, Charles A. (Charles Anderson)" opf:role="aut">Charles A. Dana</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42892</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles A. Dana&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:00:31.158630+00:00"/>
+        <meta name="calibre:title_sort" content="Recollections of the Civil War / With the Leaders at Washington and in the Field in the Sixties"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

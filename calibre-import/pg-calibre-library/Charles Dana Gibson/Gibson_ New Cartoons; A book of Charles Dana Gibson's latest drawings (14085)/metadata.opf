@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85336cc9-3227-48c2-b597-fb0daa376f26</dc:identifier>
+        <dc:title>Gibson: New Cartoons; A book of Charles Dana Gibson's latest drawings</dc:title>
+        <dc:creator opf:file-as="Gibson, Charles Dana" opf:role="aut">Charles Dana Gibson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caricatures and cartoons -- United States</dc:subject>
+        <dc:subject>American wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Drawing</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dana Gibson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:43:35.016300+00:00"/>
+        <meta name="calibre:title_sort" content="Gibson: New Cartoons; A book of Charles Dana Gibson's latest drawings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

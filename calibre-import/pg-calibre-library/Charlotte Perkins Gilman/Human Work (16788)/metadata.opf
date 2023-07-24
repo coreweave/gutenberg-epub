@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d784172-fd0b-4e34-a843-0f682cb992a9</dc:identifier>
+        <dc:title>Human Work</dc:title>
+        <dc:creator opf:file-as="Gilman, Charlotte Perkins" opf:role="aut">Charlotte Perkins Gilman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64098</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social problems</dc:subject>
+        <dc:subject>Work</dc:subject>
+        <dc:subject>Social evolution</dc:subject>
+        <dc:subject>Economic development -- Social aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Perkins Gilman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:11:25.664260+00:00"/>
+        <meta name="calibre:title_sort" content="Human Work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

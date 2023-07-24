@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80b5e75f-bb2a-425d-8531-2ee5a7dd6a75</dc:identifier>
+        <dc:title>The Struggle between President Johnson and Congress over Reconstruction</dc:title>
+        <dc:creator opf:file-as="Chadsey, Charles E. (Charles Ernest)" opf:role="aut">Charles E. Chadsey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35668</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1865-1869</dc:subject>
+        <dc:subject>Johnson</dc:subject>
+        <dc:subject>Andrew</dc:subject>
+        <dc:subject>1808-1875</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles E. Chadsey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:40:08.295926+00:00"/>
+        <meta name="calibre:title_sort" content="Struggle between President Johnson and Congress over Reconstruction, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

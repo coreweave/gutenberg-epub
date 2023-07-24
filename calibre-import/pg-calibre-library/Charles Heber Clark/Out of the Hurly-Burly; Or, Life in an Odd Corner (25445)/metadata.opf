@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aca46edb-5676-48d0-9dad-9287c217a8ab</dc:identifier>
+        <dc:title>Out of the Hurly-Burly; Or, Life in an Odd Corner</dc:title>
+        <dc:creator opf:file-as="Clark, Charles Heber" opf:role="aut">Charles Heber Clark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42190</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>American fiction -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Heber Clark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:47:11.477874+00:00"/>
+        <meta name="calibre:title_sort" content="Out of the Hurly-Burly; Or, Life in an Odd Corner"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

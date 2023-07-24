@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">effac414-e9d6-47a1-b66d-e2061f6e5bb7</dc:identifier>
+        <dc:title>Held by Chinese Brigands</dc:title>
+        <dc:creator opf:file-as="Gilson, Charles" opf:role="aut">Charles Gilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>China -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Gilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:26:56.154434+00:00"/>
+        <meta name="calibre:title_sort" content="Held by Chinese Brigands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f2474ba-0fb7-48e1-98e7-a87ada9c08ed</dc:identifier>
+        <dc:title>The Memoirs of Count Grammont — Volume 05</dc:title>
+        <dc:creator opf:file-as="Hamilton, Anthony, Count" opf:role="aut">Count Anthony Hamilton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gramont</dc:subject>
+        <dc:subject>Philibert</dc:subject>
+        <dc:subject>comte de</dc:subject>
+        <dc:subject>1621-1707</dc:subject>
+        <dc:subject>Great Britain -- History -- Charles II</dc:subject>
+        <dc:subject>1660-1685</dc:subject>
+        <dc:subject>Great Britain -- Court and courtiers -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Count Anthony Hamilton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:31:41.341038+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of Count Grammont — Volume 05, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ccb3bf7-42d2-483f-a4aa-816ab31b52b2</dc:identifier>
+        <dc:title>Keeping Down the Cost of Your Woodwork</dc:title>
+        <dc:creator opf:file-as="Curtis Companies" opf:role="aut">Curtis Companies</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66920</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trade catalogs</dc:subject>
+        <dc:subject>Curtis Companies -- Catalogs</dc:subject>
+        <dc:subject>Millwork (Woodwork) -- Catalogs</dc:subject>
+        <dc:subject>Woodwork -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Curtis Companies&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:21:39.658583+00:00"/>
+        <meta name="calibre:title_sort" content="Keeping Down the Cost of Your Woodwork"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

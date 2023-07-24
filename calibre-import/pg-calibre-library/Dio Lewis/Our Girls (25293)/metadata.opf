@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25293</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71c10151-c5db-4e18-b9e2-01d9282900c5</dc:identifier>
+        <dc:title>Our Girls</dc:title>
+        <dc:creator opf:file-as="Lewis, Dio" opf:role="aut">Dio Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41498</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Health and hygiene</dc:subject>
+        <dc:subject>Girls</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dio Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:40:43.692035+00:00"/>
+        <meta name="calibre:title_sort" content="Our Girls"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

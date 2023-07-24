@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a51ba8bb-3377-4f0b-bf2a-a0f4d485bb75</dc:identifier>
+        <dc:title>Left on the Labrador: A Tale of Adventure Down North</dc:title>
+        <dc:creator opf:file-as="Wallace, Dillon" opf:role="aut">Dillon Wallace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20059</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Labrador (N.L.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dillon Wallace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:42:40.357675+00:00"/>
+        <meta name="calibre:title_sort" content="Left on the Labrador: A Tale of Adventure Down North"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

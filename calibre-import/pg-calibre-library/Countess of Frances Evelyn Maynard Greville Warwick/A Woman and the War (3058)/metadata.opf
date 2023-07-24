@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3058</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4a8ab1e-ede8-4ca8-b940-e350d4c02c8f</dc:identifier>
+        <dc:title>A Woman and the War</dc:title>
+        <dc:creator opf:file-as="Warwick, Frances Evelyn Maynard Greville, Countess of" opf:role="aut">Countess of Frances Evelyn Maynard Greville Warwick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918</dc:subject>
+        <dc:subject>1914-1918 -- Women</dc:subject>
+        <dc:subject>Great Britain -- Social conditions -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Countess of Frances Evelyn Maynard Greville Warwick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:15:31.035260+00:00"/>
+        <meta name="calibre:title_sort" content="Woman and the War, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e085189d-ab7d-416a-8538-1d57296cec46</dc:identifier>
+        <dc:title>Spiro Mounds: Prehistoric Gateway ... Present-Day Enigma</dc:title>
+        <dc:creator opf:file-as="Peterson, D. E. (Dennis E.)" opf:role="aut">D. E. Peterson</dc:creator>
+        <dc:creator opf:file-as="Peterson, D. E. (Dennis E.)" opf:role="aut">Don G. Wyckoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spiro Mounds Archaeological State Park (Okla.) -- Antiquities</dc:subject>
+        <dc:subject>Oklahoma -- Antiquities</dc:subject>
+        <dc:subject>Excavations (Archaeology) -- Oklahoma</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. E. Peterson&quot;: &quot;&quot;, &quot;Don G. Wyckoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:23:22.645851+00:00"/>
+        <meta name="calibre:title_sort" content="Spiro Mounds: Prehistoric Gateway ... Present-Day Enigma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

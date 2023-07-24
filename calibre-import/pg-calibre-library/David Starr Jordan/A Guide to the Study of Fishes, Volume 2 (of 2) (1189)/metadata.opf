@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb7e8aa3-144c-4a05-9c16-730b72e49ec8</dc:identifier>
+        <dc:title>A Guide to the Study of Fishes, Volume 2 (of 2)</dc:title>
+        <dc:creator opf:file-as="Jordan, David Starr" opf:role="aut">David Starr Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51702</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Zoology -- History</dc:subject>
+        <dc:subject>Fishes</dc:subject>
+        <dc:subject>Fishes -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Starr Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:44:01.318985+00:00"/>
+        <meta name="calibre:title_sort" content="Guide to the Study of Fishes, Volume 2 (of 2), A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

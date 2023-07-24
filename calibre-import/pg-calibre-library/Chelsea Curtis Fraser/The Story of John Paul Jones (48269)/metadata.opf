@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da76b6a3-b487-493f-b08e-c49c06432d3b</dc:identifier>
+        <dc:title>The Story of John Paul Jones</dc:title>
+        <dc:creator opf:file-as="Fraser, Chelsea Curtis" opf:role="aut">Chelsea Curtis Fraser</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42864</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jones</dc:subject>
+        <dc:subject>John Paul</dc:subject>
+        <dc:subject>1747-1792</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chelsea Curtis Fraser&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:19:27.667075+00:00"/>
+        <meta name="calibre:title_sort" content="Story of John Paul Jones, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

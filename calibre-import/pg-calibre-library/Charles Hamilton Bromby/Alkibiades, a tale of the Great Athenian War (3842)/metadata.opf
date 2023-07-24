@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a2240ab-ef90-473d-88ef-6154a9b3ab04</dc:identifier>
+        <dc:title>Alkibiades, a tale of the Great Athenian War</dc:title>
+        <dc:creator opf:file-as="Bromby, Charles Hamilton" opf:role="aut">Charles Hamilton Bromby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67593</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Greece -- History -- Peloponnesian War</dc:subject>
+        <dc:subject>431-404 B.C. -- Fiction</dc:subject>
+        <dc:subject>Alcibiades -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Hamilton Bromby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:29:53.384751+00:00"/>
+        <meta name="calibre:title_sort" content="Alkibiades, a tale of the Great Athenian War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

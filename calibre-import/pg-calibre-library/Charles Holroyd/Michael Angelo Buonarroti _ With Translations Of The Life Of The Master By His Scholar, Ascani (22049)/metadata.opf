@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22049</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7789e846-4c55-4393-90dd-c56e260f9dc2</dc:identifier>
+        <dc:title>Michael Angelo Buonarroti / With Translations Of The Life Of The Master By His Scholar, Ascanio Condivi, And Three Dialogues From The Portugese By Francisco d'Ollanda</dc:title>
+        <dc:creator opf:file-as="Holroyd, Charles" opf:role="aut">Charles Holroyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Michelangelo Buonarroti</dc:subject>
+        <dc:subject>1475-1564</dc:subject>
+        <dc:subject>Artists -- Italy -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Holroyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:24:10.266906+00:00"/>
+        <meta name="calibre:title_sort" content="Michael Angelo Buonarroti / With Translations Of The Life Of The Master By His Scholar, Ascanio Condivi, And Three Dialogues From The Portugese By Francisco d'Ollanda"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

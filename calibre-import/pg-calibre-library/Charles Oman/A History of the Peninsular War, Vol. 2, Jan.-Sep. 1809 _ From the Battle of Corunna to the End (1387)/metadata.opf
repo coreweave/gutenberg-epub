@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7738ccd-0e3f-4690-ac93-5f7e1fb1853e</dc:identifier>
+        <dc:title>A History of the Peninsular War, Vol. 2, Jan.-Sep. 1809 / From the Battle of Corunna to the End of the Talavera Campaign</dc:title>
+        <dc:creator opf:file-as="Oman, Charles" opf:role="aut">Charles Oman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54279</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Oman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:47:12.273712+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Peninsular War, Vol. 2, Jan.-Sep. 1809 / From the Battle of Corunna to the End of the Talavera Campaign, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

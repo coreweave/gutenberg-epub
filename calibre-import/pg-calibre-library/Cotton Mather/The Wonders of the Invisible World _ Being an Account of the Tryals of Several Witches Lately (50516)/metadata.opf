@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">459d63f3-295f-4f3c-9442-63c1924c51ea</dc:identifier>
+        <dc:title>The Wonders of the Invisible World / Being an Account of the Tryals of Several Witches Lately Executed in New-England, to which is added A Farther Account of the Tryals of the New-England Witches</dc:title>
+        <dc:creator opf:file-as="Mather, Cotton" opf:role="aut">Cotton Mather</dc:creator>
+        <dc:creator opf:file-as="Mather, Cotton" opf:role="aut">Increase Mather</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Witchcraft -- New England -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cotton Mather&quot;: &quot;&quot;, &quot;Increase Mather&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:38:35.620249+00:00"/>
+        <meta name="calibre:title_sort" content="Wonders of the Invisible World / Being an Account of the Tryals of Several Witches Lately Executed in New-England, to which is added A Farther Account of the Tryals of the New-England Witches, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

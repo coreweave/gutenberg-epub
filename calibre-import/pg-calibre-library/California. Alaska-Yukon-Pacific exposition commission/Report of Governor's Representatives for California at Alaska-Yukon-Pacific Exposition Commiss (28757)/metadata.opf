@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e5bedb4-f60b-4fb5-9ecb-524573be8381</dc:identifier>
+        <dc:title>Report of Governor's Representatives for California at Alaska-Yukon-Pacific Exposition Commission</dc:title>
+        <dc:creator opf:file-as="California. Alaska-Yukon-Pacific exposition commission" opf:role="aut">California. Alaska-Yukon-Pacific exposition commission</dc:creator>
+        <dc:creator opf:file-as="California. Alaska-Yukon-Pacific exposition commission" opf:role="aut">J. A. Filcher</dc:creator>
+        <dc:creator opf:file-as="California. Alaska-Yukon-Pacific exposition commission" opf:role="aut">Frank Wiggins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Alaska-Yukon-Pacific Exposition (1909 : Seattle</dc:subject>
+        <dc:subject>Wash.)</dc:subject>
+        <dc:subject>Industries -- California</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;California. Alaska-Yukon-Pacific exposition commission&quot;: &quot;&quot;, &quot;J. A. Filcher&quot;: &quot;&quot;, &quot;Frank Wiggins&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:13:03.742164+00:00"/>
+        <meta name="calibre:title_sort" content="Report of Governor's Representatives for California at Alaska-Yukon-Pacific Exposition Commission"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

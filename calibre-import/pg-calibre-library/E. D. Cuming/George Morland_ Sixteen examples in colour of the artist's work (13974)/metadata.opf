@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d2e3e7f-9541-40ec-a493-207d11c4ccb6</dc:identifier>
+        <dc:title>George Morland: Sixteen examples in colour of the artist's work</dc:title>
+        <dc:creator opf:file-as="Cuming, E. D. (Edward William Dirom)" opf:role="aut">E. D. Cuming</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37063</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Morland</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1763-1804</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. D. Cuming&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:40:08.836449+00:00"/>
+        <meta name="calibre:title_sort" content="George Morland: Sixteen examples in colour of the artist's work"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

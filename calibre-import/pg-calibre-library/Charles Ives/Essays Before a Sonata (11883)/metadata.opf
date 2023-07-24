@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b987110a-9055-44c4-a6c9-7996d9c68fe8</dc:identifier>
+        <dc:title>Essays Before a Sonata</dc:title>
+        <dc:creator opf:file-as="Ives, Charles" opf:role="aut">Charles Ives</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music</dc:subject>
+        <dc:subject>Emerson</dc:subject>
+        <dc:subject>Ralph Waldo</dc:subject>
+        <dc:subject>1803-1882</dc:subject>
+        <dc:subject>Hawthorne</dc:subject>
+        <dc:subject>Nathaniel</dc:subject>
+        <dc:subject>1804-1864</dc:subject>
+        <dc:subject>Thoreau</dc:subject>
+        <dc:subject>Henry David</dc:subject>
+        <dc:subject>1817-1862</dc:subject>
+        <dc:subject>Alcott family</dc:subject>
+        <dc:subject>Ives</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1874-1954. Sonatas</dc:subject>
+        <dc:subject>piano</dc:subject>
+        <dc:subject>no. 2</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Ives&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:39:03.216775+00:00"/>
+        <meta name="calibre:title_sort" content="Essays Before a Sonata"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

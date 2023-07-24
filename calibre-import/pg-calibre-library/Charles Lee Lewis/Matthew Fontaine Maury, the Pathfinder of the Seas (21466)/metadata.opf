@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21466</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34eed52a-c03e-4eac-92ff-292390f5269c</dc:identifier>
+        <dc:title>Matthew Fontaine Maury, the Pathfinder of the Seas</dc:title>
+        <dc:creator opf:file-as="Lewis, Charles Lee" opf:role="aut">Charles Lee Lewis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65071</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Maury</dc:subject>
+        <dc:subject>Matthew Fontaine</dc:subject>
+        <dc:subject>1806-1873</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Lee Lewis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:00:31.831154+00:00"/>
+        <meta name="calibre:title_sort" content="Matthew Fontaine Maury, the Pathfinder of the Seas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

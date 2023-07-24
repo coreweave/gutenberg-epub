@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0234254f-ac32-4756-93f4-e4f565918359</dc:identifier>
+        <dc:title>Poison-ivy, Poison-oak and Poison Sumac: Identification, Precautions and Eradication</dc:title>
+        <dc:creator opf:file-as="Crooks, D. M. (Donald Mundell)" opf:role="aut">D. M. Crooks</dc:creator>
+        <dc:creator opf:file-as="Crooks, D. M. (Donald Mundell)" opf:role="aut">Leonard Wheeler Kephart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59555</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poison ivy</dc:subject>
+        <dc:subject>Poison oak</dc:subject>
+        <dc:subject>Poison sumac</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. M. Crooks&quot;: &quot;&quot;, &quot;Leonard Wheeler Kephart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:47:03.705183+00:00"/>
+        <meta name="calibre:title_sort" content="Poison-ivy, Poison-oak and Poison Sumac: Identification, Precautions and Eradication"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

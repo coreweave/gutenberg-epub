@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c34a1a4-cfaf-4f6a-b6a8-318206e5efff</dc:identifier>
+        <dc:title>The Book of Light in the Hand of Love: A plea for the British and Foreign Bible Society / A sermon preached in St. Paul's Cathedral, on Tuesday, April 30, 1872</dc:title>
+        <dc:creator opf:file-as="Vaughan, C. J. (Charles John)" opf:role="aut">C. J. Vaughan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64471</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>British and Foreign Bible Society -- Sermons</dc:subject>
+        <dc:subject>Bible. Epistle of John</dc:subject>
+        <dc:subject>1st</dc:subject>
+        <dc:subject>I</dc:subject>
+        <dc:subject>5</dc:subject>
+        <dc:subject>IV</dc:subject>
+        <dc:subject>16 -- Sermons</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. J. Vaughan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:10:14.615912+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Light in the Hand of Love: A plea for the British and Foreign Bible Society / A sermon preached in St. Paul's Cathedral, on Tuesday, April 30, 1872, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0660984e-7f7b-4ffe-94a2-391537c5bb1b</dc:identifier>
+        <dc:title>The History of the Pyrates. Vol. II. / Containing the lives of Captain Misson, Captain Bowen, Captain Kidd, Captain Tew, Captain Halsey, Captain White, Captain Condent, Captain Bellamy, Captain Fly, Captain Howard, Captain Lewis, Captain Cornelius, Captain Williams, Captain Burgess, Captain North, and their several crews</dc:title>
+        <dc:creator opf:file-as="Defoe, Daniel" opf:role="aut">Daniel Defoe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57005</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pirates -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Defoe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:58:36.789222+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Pyrates. Vol. II. / Containing the lives of Captain Misson, Captain Bowen, Captain Kidd, Captain Tew, Captain Halsey, Captain White, Captain Condent, Captain Bellamy, Captain Fly, Captain Howard, Captain Lewis, Captain Cornelius, Captain Williams, Captain Burgess, Captain North, and their several crews, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

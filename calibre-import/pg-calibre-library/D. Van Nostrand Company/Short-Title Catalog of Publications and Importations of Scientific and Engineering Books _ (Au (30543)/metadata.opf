@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc12b006-bbcf-4379-8a36-fee8f339c03d</dc:identifier>
+        <dc:title>Short-Title Catalog of Publications and Importations of Scientific and Engineering Books / (August 1910)</dc:title>
+        <dc:creator opf:file-as="D. Van Nostrand Company" opf:role="aut">D. Van Nostrand Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53911</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Booksellers' catalogs -- New York (State) -- New York</dc:subject>
+        <dc:subject>Publishers' catalogs -- New York (State) -- New York</dc:subject>
+        <dc:subject>Science -- Bibliography -- Catalogs</dc:subject>
+        <dc:subject>D. Van Nostrand Company -- Catalogs</dc:subject>
+        <dc:subject>Engineering -- Bibliography -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. Van Nostrand Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:37:38.452492+00:00"/>
+        <meta name="calibre:title_sort" content="Short-Title Catalog of Publications and Importations of Scientific and Engineering Books / (August 1910)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

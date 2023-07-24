@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bcefd1f-a67c-4e46-9783-903c8fe79385</dc:identifier>
+        <dc:title>The Rejuvenation of Miss Semaphore: A Farcical Novel</dc:title>
+        <dc:creator opf:file-as="Eccles, Charlotte O'Conor" opf:role="aut">Charlotte O'Conor Eccles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65871</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>London (England) -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Sisters -- Fiction</dc:subject>
+        <dc:subject>Boardinghouses -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte O'Conor Eccles&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:34:51.247770+00:00"/>
+        <meta name="calibre:title_sort" content="Rejuvenation of Miss Semaphore: A Farcical Novel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

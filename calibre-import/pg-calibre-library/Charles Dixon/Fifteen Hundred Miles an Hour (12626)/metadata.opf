@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc55e47d-9acf-4f52-8715-0dc8c140c8f1</dc:identifier>
+        <dc:title>Fifteen Hundred Miles an Hour</dc:title>
+        <dc:creator opf:file-as="Dixon, Charles" opf:role="aut">Charles Dixon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49713</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Extraterrestrial beings -- Fiction</dc:subject>
+        <dc:subject>Space flight to Mars -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dixon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:59:57.939199+00:00"/>
+        <meta name="calibre:title_sort" content="Fifteen Hundred Miles an Hour"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22508</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec3605c3-e4af-41f9-9931-0f48b446f1e5</dc:identifier>
+        <dc:title>Monopolies and the People</dc:title>
+        <dc:creator opf:file-as="Cloud, D. C." opf:role="aut">D. C. Cloud</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39095</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railroads and state -- United States</dc:subject>
+        <dc:subject>Monopolies -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. C. Cloud&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:42:39.628771+00:00"/>
+        <meta name="calibre:title_sort" content="Monopolies and the People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

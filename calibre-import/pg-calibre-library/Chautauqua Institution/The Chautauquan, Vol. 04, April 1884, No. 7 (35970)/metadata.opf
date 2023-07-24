@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c19a7696-7e1f-4e85-8301-fabc6c35e281</dc:identifier>
+        <dc:title>The Chautauquan, Vol. 04, April 1884, No. 7</dc:title>
+        <dc:creator opf:file-as="Chautauqua Institution" opf:role="aut">Chautauqua Institution</dc:creator>
+        <dc:creator opf:file-as="Chautauqua Institution" opf:role="aut">Chautauqua Literary</dc:creator>
+        <dc:creator opf:file-as="Chautauqua Institution" opf:role="aut">Scientific Circle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55134</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chautauqua Literary and Scientific Circle -- Periodicals</dc:subject>
+        <dc:subject>Chautauqua Institution -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chautauqua Institution&quot;: &quot;&quot;, &quot;Chautauqua Literary&quot;: &quot;&quot;, &quot;Scientific Circle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:02:55.970268+00:00"/>
+        <meta name="calibre:title_sort" content="Chautauquan, Vol. 04, April 1884, No. 7, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

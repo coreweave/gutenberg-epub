@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8bf3e87-e0dd-428b-89da-8be4e4e2e3ad</dc:identifier>
+        <dc:title>The Judicial Murder of Mary E. Surratt</dc:title>
+        <dc:creator opf:file-as="DeWitt, David Miller" opf:role="aut">David Miller DeWitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36188</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lincoln</dc:subject>
+        <dc:subject>Abraham</dc:subject>
+        <dc:subject>1809-1865 -- Assassination</dc:subject>
+        <dc:subject>Surratt</dc:subject>
+        <dc:subject>Mary E. (Mary Eugenia)</dc:subject>
+        <dc:subject>1820-1865 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Trials (Assassination) -- Washington (D.C.)</dc:subject>
+        <dc:subject>Judicial error -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Miller DeWitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:45:17.013345+00:00"/>
+        <meta name="calibre:title_sort" content="Judicial Murder of Mary E. Surratt, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

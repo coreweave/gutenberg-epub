@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9dc9b1e-8bd4-41e5-84ac-15d60e1d4412</dc:identifier>
+        <dc:title>The Jacquard Machine Analyzed and Explained / With an appendix on the preparation of jacquard cards, and practical hints to learners of jacquard designing</dc:title>
+        <dc:creator opf:file-as="Posselt, E. A. (Emanuel Anthony)" opf:role="aut">E. A. Posselt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54193</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jacquard weaving</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. A. Posselt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:37:14.986791+00:00"/>
+        <meta name="calibre:title_sort" content="Jacquard Machine Analyzed and Explained / With an appendix on the preparation of jacquard cards, and practical hints to learners of jacquard designing, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

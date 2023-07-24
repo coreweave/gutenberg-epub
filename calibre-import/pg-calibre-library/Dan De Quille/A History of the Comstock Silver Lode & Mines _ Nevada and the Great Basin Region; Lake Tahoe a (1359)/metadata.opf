@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33bda54b-11c6-4a99-bff5-53781fec9af1</dc:identifier>
+        <dc:title>A History of the Comstock Silver Lode &amp; Mines / Nevada and the Great Basin Region; Lake Tahoe and the High Sierras</dc:title>
+        <dc:creator opf:file-as="De Quille, Dan" opf:role="aut">Dan De Quille</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64699</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Silver mines and mining -- Nevada -- History</dc:subject>
+        <dc:subject>Comstock Lode (Nev.)</dc:subject>
+        <dc:subject>Nevada -- Description and travel</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Nevada</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dan De Quille&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:46:44.906974+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Comstock Silver Lode &amp; Mines / Nevada and the Great Basin Region; Lake Tahoe and the High Sierras, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

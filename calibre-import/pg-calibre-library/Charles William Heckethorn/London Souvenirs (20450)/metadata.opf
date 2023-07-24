@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cc4b489-8226-481f-9479-590394d7ef3b</dc:identifier>
+        <dc:title>London Souvenirs</dc:title>
+        <dc:creator opf:file-as="Heckethorn, Charles William" opf:role="aut">Charles William Heckethorn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44044</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Description and travel</dc:subject>
+        <dc:subject>London (England) -- History -- 1800-1950</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles William Heckethorn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:21:11.554538+00:00"/>
+        <meta name="calibre:title_sort" content="London Souvenirs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

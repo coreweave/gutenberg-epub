@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37834</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b88d6b6-15b5-45c9-a275-5e960da7bba4</dc:identifier>
+        <dc:title>The Education of the Negro Prior to 1861 / A History of the Education of the Colored People of the United States from the Beginning of Slavery to the Civil War</dc:title>
+        <dc:creator opf:file-as="Woodson, Carter Godwin" opf:role="aut">Carter Godwin Woodson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11089</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carter Godwin Woodson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:38:01.122210+00:00"/>
+        <meta name="calibre:title_sort" content="Education of the Negro Prior to 1861 / A History of the Education of the Colored People of the United States from the Beginning of Slavery to the Civil War, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8244c21-796a-4b72-9ad5-944c680b5e43</dc:identifier>
+        <dc:title>Dissection of the Platana and the Frog</dc:title>
+        <dc:creator opf:file-as="Bonde, Cecil von" opf:role="aut">Cecil von Bonde</dc:creator>
+        <dc:creator opf:file-as="Bonde, Cecil von" opf:role="aut">J. D. F. Gilchrist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48981</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frogs -- Physiology</dc:subject>
+        <dc:subject>Xenopus laevis -- Dissection</dc:subject>
+        <dc:subject>Amietia fuscigula -- Dissection</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cecil von Bonde&quot;: &quot;&quot;, &quot;J. D. F. Gilchrist&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:04:46.456956+00:00"/>
+        <meta name="calibre:title_sort" content="Dissection of the Platana and the Frog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

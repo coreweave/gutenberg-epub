@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7ae64c2-38cc-422c-95f5-a9960b8377a1</dc:identifier>
+        <dc:title>An American Idyll: The Life of Carleton H. Parker</dc:title>
+        <dc:creator opf:file-as="Parker, Cornelia Stratton" opf:role="aut">Cornelia Stratton Parker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14943</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Parker</dc:subject>
+        <dc:subject>Carleton H. (Carleton Hubbell)</dc:subject>
+        <dc:subject>1879-1918</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cornelia Stratton Parker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:37:16.844192+00:00"/>
+        <meta name="calibre:title_sort" content="American Idyll: The Life of Carleton H. Parker, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2484</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4fca343-032a-402b-b0f4-e5c3b31b4c20</dc:identifier>
+        <dc:title>A Short History of the Royal Navy, 1217-1815. Volume II, 1689-1815</dc:title>
+        <dc:creator opf:file-as="Hannay, David" opf:role="aut">David Hannay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58814</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Royal Navy -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Hannay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:05:21.398242+00:00"/>
+        <meta name="calibre:title_sort" content="Short History of the Royal Navy, 1217-1815. Volume II, 1689-1815, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

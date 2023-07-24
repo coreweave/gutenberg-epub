@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">336e8b17-ee82-4486-93f9-82a2fd219ba5</dc:identifier>
+        <dc:title>And Five Were Foolish</dc:title>
+        <dc:creator opf:file-as="Yates, Dornford" opf:role="aut">Dornford Yates</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65384</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>English fiction -- 20th century</dc:subject>
+        <dc:subject>Husband and wife -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dornford Yates&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:45:59.795855+00:00"/>
+        <meta name="calibre:title_sort" content="And Five Were Foolish"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

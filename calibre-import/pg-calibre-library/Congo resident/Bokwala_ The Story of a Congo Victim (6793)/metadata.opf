@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17a47cc2-6b32-42cd-8112-6b7ae9d2fe5e</dc:identifier>
+        <dc:title>Bokwala: The Story of a Congo Victim</dc:title>
+        <dc:creator opf:file-as="Congo resident" opf:role="aut">Congo resident</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67371</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Congo (Democratic Republic) -- Social conditions</dc:subject>
+        <dc:subject>Forced labor -- Congo (Democratic Republic)</dc:subject>
+        <dc:subject>Slavery -- Congo (Democratic Republic)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Congo resident&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:30:13.663398+00:00"/>
+        <meta name="calibre:title_sort" content="Bokwala: The Story of a Congo Victim"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

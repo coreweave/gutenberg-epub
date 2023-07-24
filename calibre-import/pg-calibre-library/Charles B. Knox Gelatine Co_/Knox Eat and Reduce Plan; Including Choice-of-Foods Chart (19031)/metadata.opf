@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7350a4f5-fa93-442b-9422-b56f7da36a0f</dc:identifier>
+        <dc:title>Knox Eat and Reduce Plan; Including Choice-of-Foods Chart</dc:title>
+        <dc:creator opf:file-as="Charles B. Knox Gelatine Co." opf:role="aut">Charles B. Knox Gelatine Co.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63052</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking (Gelatin)</dc:subject>
+        <dc:subject>Reducing diets</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles B. Knox Gelatine Co.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:29:09.616438+00:00"/>
+        <meta name="calibre:title_sort" content="Knox Eat and Reduce Plan; Including Choice-of-Foods Chart"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

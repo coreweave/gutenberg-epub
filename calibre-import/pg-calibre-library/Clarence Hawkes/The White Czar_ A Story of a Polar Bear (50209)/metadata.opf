@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecd9b02c-24c0-48b9-9e90-f860057b5e89</dc:identifier>
+        <dc:title>The White Czar: A Story of a Polar Bear</dc:title>
+        <dc:creator opf:file-as="Hawkes, Clarence" opf:role="aut">Clarence Hawkes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63342</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Eskimos -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Families -- Juvenile fiction</dc:subject>
+        <dc:subject>Polar bear -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clarence Hawkes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:19:18.058884+00:00"/>
+        <meta name="calibre:title_sort" content="White Czar: A Story of a Polar Bear, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

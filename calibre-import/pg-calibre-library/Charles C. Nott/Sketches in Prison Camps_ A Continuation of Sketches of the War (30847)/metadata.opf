@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30847</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa7f42e0-e4df-47b2-a58a-c2dd93f451e1</dc:identifier>
+        <dc:title>Sketches in Prison Camps: A Continuation of Sketches of the War</dc:title>
+        <dc:creator opf:file-as="Nott, Charles C." opf:role="aut">Charles C. Nott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60883</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Prisoners and prisons</dc:subject>
+        <dc:subject>Camp Groce</dc:subject>
+        <dc:subject>Camp Ford (Tex.)</dc:subject>
+        <dc:subject>United States. Army. New York Infantry Regiment</dc:subject>
+        <dc:subject>176th (1862-1866)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles C. Nott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:51:55.238702+00:00"/>
+        <meta name="calibre:title_sort" content="Sketches in Prison Camps: A Continuation of Sketches of the War"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

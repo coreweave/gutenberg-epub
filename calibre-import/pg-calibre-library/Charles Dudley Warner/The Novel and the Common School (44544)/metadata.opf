@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cf1cad2-24a3-462f-b6ae-702ab8ec13e9</dc:identifier>
+        <dc:title>The Novel and the Common School</dc:title>
+        <dc:creator opf:file-as="Warner, Charles Dudley" opf:role="aut">Charles Dudley Warner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3123</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Education -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dudley Warner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:41:50.045093+00:00"/>
+        <meta name="calibre:title_sort" content="Novel and the Common School, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

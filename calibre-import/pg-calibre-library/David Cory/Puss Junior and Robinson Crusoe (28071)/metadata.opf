@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28de2cda-c37a-456d-a9e5-d1943bc220a5</dc:identifier>
+        <dc:title>Puss Junior and Robinson Crusoe</dc:title>
+        <dc:creator opf:file-as="Cory, David" opf:role="aut">David Cory</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32535</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Cats -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Cory&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:41:56.167775+00:00"/>
+        <meta name="calibre:title_sort" content="Puss Junior and Robinson Crusoe"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

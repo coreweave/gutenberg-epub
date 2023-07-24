@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02bf492e-b968-4d04-b87d-ba9ab54ef191</dc:identifier>
+        <dc:title>Airy Fairy Lilian</dc:title>
+        <dc:creator opf:file-as="Duchess" opf:role="aut">Duchess</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35228</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Fiction</dc:subject>
+        <dc:subject>Country life -- England -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Mate selection -- Fiction</dc:subject>
+        <dc:subject>Courtship -- Fiction</dc:subject>
+        <dc:subject>Guardian and ward -- Fiction</dc:subject>
+        <dc:subject>Heiresses -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Duchess&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:27:56.809425+00:00"/>
+        <meta name="calibre:title_sort" content="Airy Fairy Lilian"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

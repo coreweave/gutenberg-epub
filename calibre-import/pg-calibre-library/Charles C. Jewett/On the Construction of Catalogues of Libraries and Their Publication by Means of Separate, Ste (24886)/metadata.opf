@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24886</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d95273e-71c0-44d0-a154-4287884629dd</dc:identifier>
+        <dc:title>On the Construction of Catalogues of Libraries and Their Publication by Means of Separate, Stereotyped Titles / With Rules and Examples</dc:title>
+        <dc:creator opf:file-as="Jewett, Charles C. (Charles Coffin)" opf:role="aut">Charles C. Jewett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cataloging -- United States</dc:subject>
+        <dc:subject>Library catalogs -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles C. Jewett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:23:37.302952+00:00"/>
+        <meta name="calibre:title_sort" content="On the Construction of Catalogues of Libraries and Their Publication by Means of Separate, Stereotyped Titles / With Rules and Examples"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

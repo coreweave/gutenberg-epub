@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2d7f6f2-bbb9-4e3d-b793-d7d940a93d56</dc:identifier>
+        <dc:title>The Plum Tree</dc:title>
+        <dc:creator opf:file-as="Phillips, David Graham" opf:role="aut">David Graham Phillips</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20449</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Graham Phillips&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:37:52.319605+00:00"/>
+        <meta name="calibre:title_sort" content="Plum Tree, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

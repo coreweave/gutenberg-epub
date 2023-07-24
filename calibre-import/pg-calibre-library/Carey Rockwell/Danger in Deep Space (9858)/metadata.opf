@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aaa1400a-49d0-4bc1-b7b7-0ea68acbb78c</dc:identifier>
+        <dc:title>Danger in Deep Space</dc:title>
+        <dc:creator opf:file-as="Rockwell, Carey" opf:role="aut">Carey Rockwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Astronauts -- Juvenile fiction</dc:subject>
+        <dc:subject>Corbett</dc:subject>
+        <dc:subject>Tom (Fictitious character) -- Juvenile fiction</dc:subject>
+        <dc:subject>Interstellar travel -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carey Rockwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:44:26.540872+00:00"/>
+        <meta name="calibre:title_sort" content="Danger in Deep Space"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

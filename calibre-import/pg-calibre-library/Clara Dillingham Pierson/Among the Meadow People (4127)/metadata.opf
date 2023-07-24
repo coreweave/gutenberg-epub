@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d13674a1-122f-4ae1-b774-f1bd891d530a</dc:identifier>
+        <dc:title>Among the Meadow People</dc:title>
+        <dc:creator opf:file-as="Pierson, Clara Dillingham" opf:role="aut">Clara Dillingham Pierson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34943</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Meadows -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clara Dillingham Pierson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:35:11.227071+00:00"/>
+        <meta name="calibre:title_sort" content="Among the Meadow People"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

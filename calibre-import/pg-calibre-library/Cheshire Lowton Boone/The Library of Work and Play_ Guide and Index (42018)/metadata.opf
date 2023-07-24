@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42018</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64aa52ff-6fee-4258-82d8-b3a0dcd0c255</dc:identifier>
+        <dc:title>The Library of Work and Play: Guide and Index</dc:title>
+        <dc:creator opf:file-as="Boone, Cheshire Lowton" opf:role="aut">Cheshire Lowton Boone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46445</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amusements</dc:subject>
+        <dc:subject>Handicraft</dc:subject>
+        <dc:subject>Handicraft -- Indexes</dc:subject>
+        <dc:subject>Amusements -- Indexes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cheshire Lowton Boone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:20:30.691807+00:00"/>
+        <meta name="calibre:title_sort" content="Library of Work and Play: Guide and Index, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

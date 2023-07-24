@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">880bc871-0ff5-4848-a428-0c1668f3db55</dc:identifier>
+        <dc:title>The Mercer Boys on a Treasure Hunt</dc:title>
+        <dc:creator opf:file-as="Wyckoff, Capwell" opf:role="aut">Capwell Wyckoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Treasure troves -- Juvenile fiction</dc:subject>
+        <dc:subject>Brothers -- Juvenile fiction</dc:subject>
+        <dc:subject>Military cadets -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Capwell Wyckoff&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:39:17.064671+00:00"/>
+        <meta name="calibre:title_sort" content="Mercer Boys on a Treasure Hunt, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

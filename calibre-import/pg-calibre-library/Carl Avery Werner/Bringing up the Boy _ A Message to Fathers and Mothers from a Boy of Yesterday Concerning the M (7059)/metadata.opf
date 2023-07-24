@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">540f77c1-8daf-4631-9d0d-f7ba5c9325da</dc:identifier>
+        <dc:title>Bringing up the Boy / A Message to Fathers and Mothers from a Boy of Yesterday Concerning the Men of To-morrow</dc:title>
+        <dc:creator opf:file-as="Werner, Carl Avery" opf:role="aut">Carl Avery Werner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56109</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boys</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carl Avery Werner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:36:21.309136+00:00"/>
+        <meta name="calibre:title_sort" content="Bringing up the Boy / A Message to Fathers and Mothers from a Boy of Yesterday Concerning the Men of To-morrow"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

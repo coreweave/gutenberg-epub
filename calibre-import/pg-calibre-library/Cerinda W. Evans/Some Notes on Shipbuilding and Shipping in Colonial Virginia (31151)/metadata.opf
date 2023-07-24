@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05b3f8da-9345-49b7-bbf2-5ea931e63035</dc:identifier>
+        <dc:title>Some Notes on Shipbuilding and Shipping in Colonial Virginia</dc:title>
+        <dc:creator opf:file-as="Evans, Cerinda W." opf:role="aut">Cerinda W. Evans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Virginia -- History -- Colonial period</dc:subject>
+        <dc:subject>ca. 1600-1775</dc:subject>
+        <dc:subject>Ships</dc:subject>
+        <dc:subject>Shipbuilding -- Virginia</dc:subject>
+        <dc:subject>Shipping -- Virginia</dc:subject>
+        <dc:subject>Ferries -- Virginia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cerinda W. Evans&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:06:22.848283+00:00"/>
+        <meta name="calibre:title_sort" content="Some Notes on Shipbuilding and Shipping in Colonial Virginia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

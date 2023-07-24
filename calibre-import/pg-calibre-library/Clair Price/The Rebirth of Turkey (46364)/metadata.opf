@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2d1ba9d-6736-4283-9ba3-74d23cc7fa5b</dc:identifier>
+        <dc:title>The Rebirth of Turkey</dc:title>
+        <dc:creator opf:file-as="Price, Clair" opf:role="aut">Clair Price</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65436</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Turkey -- Foreign relations</dc:subject>
+        <dc:subject>Atatürk</dc:subject>
+        <dc:subject>Kemal</dc:subject>
+        <dc:subject>1881-1938</dc:subject>
+        <dc:subject>Turkey -- Politics and government</dc:subject>
+        <dc:subject>Ittihat ve Terakki Cemiyeti</dc:subject>
+        <dc:subject>Reconstruction (1914-1939) -- Turkey</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clair Price&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:26:44.129443+00:00"/>
+        <meta name="calibre:title_sort" content="Rebirth of Turkey, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

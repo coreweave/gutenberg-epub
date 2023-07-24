@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18944</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06929401-1dbc-4a2c-b699-850fef730b90</dc:identifier>
+        <dc:title>King Olaf's Kinsman / A Story of the Last Saxon Struggle against the Danes in the Days of Ironside and Cnut</dc:title>
+        <dc:creator opf:file-as="Whistler, Charles W. (Charles Watts)" opf:role="aut">Charles W. Whistler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16196</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Olav II</dc:subject>
+        <dc:subject>King of Norway</dc:subject>
+        <dc:subject>995-1030 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles W. Whistler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:26:04.676692+00:00"/>
+        <meta name="calibre:title_sort" content="King Olaf's Kinsman / A Story of the Last Saxon Struggle against the Danes in the Days of Ironside and Cnut"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

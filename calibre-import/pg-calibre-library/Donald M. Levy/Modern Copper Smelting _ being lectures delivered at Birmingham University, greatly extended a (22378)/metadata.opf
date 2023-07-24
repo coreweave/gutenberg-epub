@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d43d9199-d784-4f3b-8aff-7f3c5e0e286e</dc:identifier>
+        <dc:title>Modern Copper Smelting / being lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper.</dc:title>
+        <dc:creator opf:file-as="Levy, Donald M." opf:role="aut">Donald M. Levy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59328</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Copper -- Metallurgy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Donald M. Levy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:37:28.151618+00:00"/>
+        <meta name="calibre:title_sort" content="Modern Copper Smelting / being lectures delivered at Birmingham University, greatly extended and adapted and with and introduction on the history, uses and properties of copper."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04468537-134d-4b15-8c5f-20849a4f9956</dc:identifier>
+        <dc:title>Foundling on Venus</dc:title>
+        <dc:creator opf:file-as="De Courcy, Dorothy" opf:role="aut">Dorothy De Courcy</dc:creator>
+        <dc:creator opf:file-as="De Courcy, Dorothy" opf:role="aut">John De Courcy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29181</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Venus (Planet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dorothy De Courcy&quot;: &quot;&quot;, &quot;John De Courcy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:16:32.393122+00:00"/>
+        <meta name="calibre:title_sort" content="Foundling on Venus"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

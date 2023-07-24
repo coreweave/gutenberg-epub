@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13907</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10f129c9-c0ee-4271-9d9f-502582f381bb</dc:identifier>
+        <dc:title>Gentlemen Rovers</dc:title>
+        <dc:creator opf:file-as="Powell, E. Alexander (Edward Alexander)" opf:role="aut">E. Alexander Powell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37812</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Walker</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1824-1860</dc:subject>
+        <dc:subject>Boyd</dc:subject>
+        <dc:subject>John Parker</dc:subject>
+        <dc:subject>1764-1830</dc:subject>
+        <dc:subject>Truxtun</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1755-1822</dc:subject>
+        <dc:subject>Eaton</dc:subject>
+        <dc:subject>1764-1811</dc:subject>
+        <dc:subject>Reid</dc:subject>
+        <dc:subject>Samuel Chester</dc:subject>
+        <dc:subject>1783-1861</dc:subject>
+        <dc:subject>Laffite</dc:subject>
+        <dc:subject>Jean</dc:subject>
+        <dc:subject>Smith</dc:subject>
+        <dc:subject>Jedediah Strong</dc:subject>
+        <dc:subject>1799-1831</dc:subject>
+        <dc:subject>Ward</dc:subject>
+        <dc:subject>Frederick Townsend</dc:subject>
+        <dc:subject>1831-1862</dc:subject>
+        <dc:subject>California -- History -- 1846-1850</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Alexander Powell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:38:05.546398+00:00"/>
+        <meta name="calibre:title_sort" content="Gentlemen Rovers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

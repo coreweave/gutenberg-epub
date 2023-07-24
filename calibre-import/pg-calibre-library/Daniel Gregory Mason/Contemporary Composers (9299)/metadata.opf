@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6bdac29-d5fe-4c04-a85c-6cbf91003a53</dc:identifier>
+        <dc:title>Contemporary Composers</dc:title>
+        <dc:creator opf:file-as="Mason, Daniel Gregory" opf:role="aut">Daniel Gregory Mason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56593</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Composers</dc:subject>
+        <dc:subject>Music -- 19th century -- History and criticism</dc:subject>
+        <dc:subject>Music -- 20th century -- History and criticism</dc:subject>
+        <dc:subject>Strauss</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1864-1949</dc:subject>
+        <dc:subject>Elgar</dc:subject>
+        <dc:subject>Edward</dc:subject>
+        <dc:subject>1857-1934</dc:subject>
+        <dc:subject>Debussy</dc:subject>
+        <dc:subject>Claude</dc:subject>
+        <dc:subject>1862-1918</dc:subject>
+        <dc:subject>Indy</dc:subject>
+        <dc:subject>Vincent d'</dc:subject>
+        <dc:subject>1851-1931</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Gregory Mason&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:30:09.977241+00:00"/>
+        <meta name="calibre:title_sort" content="Contemporary Composers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

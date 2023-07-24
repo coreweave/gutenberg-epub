@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26ac1e5d-48d3-4e4b-aad2-a225f2eb73a4</dc:identifier>
+        <dc:title>Among Cannibals: An Account of Four Years' Travels in Australia and of Camp Life With the Aborigines of Queensland</dc:title>
+        <dc:creator opf:file-as="Lumholtz, Carl" opf:role="aut">Carl Lumholtz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ethnology -- Australia</dc:subject>
+        <dc:subject>Natural history -- Australia</dc:subject>
+        <dc:subject>Queensland -- Description and travel</dc:subject>
+        <dc:subject>Aboriginal Australians -- Australia -- Queensland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carl Lumholtz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:34:48.852346+00:00"/>
+        <meta name="calibre:title_sort" content="Among Cannibals: An Account of Four Years' Travels in Australia and of Camp Life With the Aborigines of Queensland"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

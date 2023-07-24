@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0714c31f-9d85-4210-b6bb-b6a79c2db068</dc:identifier>
+        <dc:title>David Livingstone</dc:title>
+        <dc:creator opf:file-as="Horne, C. Silvester (Charles Silvester)" opf:role="aut">C. Silvester Horne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Livingstone</dc:subject>
+        <dc:subject>David</dc:subject>
+        <dc:subject>1813-1873</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. Silvester Horne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:48:12.206997+00:00"/>
+        <meta name="calibre:title_sort" content="David Livingstone"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

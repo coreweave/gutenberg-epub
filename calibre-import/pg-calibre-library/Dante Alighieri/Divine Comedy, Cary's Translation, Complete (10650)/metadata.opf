@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10650</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edca43eb-0aa9-4a50-8dd8-ae8e014cd384</dc:identifier>
+        <dc:title>Divine Comedy, Cary's Translation, Complete</dc:title>
+        <dc:creator opf:file-as="Dante Alighieri" opf:role="aut">Dante Alighieri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1008</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>Italian -- Translations into English</dc:subject>
+        <dc:subject>Italian poetry -- To 1400 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dante Alighieri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:05:22.290481+00:00"/>
+        <meta name="calibre:title_sort" content="Divine Comedy, Cary's Translation, Complete"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

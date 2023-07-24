@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53d0d0ea-326a-41f8-834b-981f1b2a4454</dc:identifier>
+        <dc:title>Charles Dickens as a Reader</dc:title>
+        <dc:creator opf:file-as="Kent, Charles" opf:role="aut">Charles Kent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Dickens</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1812-1870 -- Readings</dc:subject>
+        <dc:subject>Books and reading -- England -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Kent&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:04:17.348573+00:00"/>
+        <meta name="calibre:title_sort" content="Charles Dickens as a Reader"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ee8d71d-0eee-4faf-bb07-fb3e790b9d4b</dc:identifier>
+        <dc:title>Patience Worth: A Psychic Mystery</dc:title>
+        <dc:creator opf:file-as="Yost, Casper S. (Casper Salathiel)" opf:role="aut">Casper S. Yost</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Parapsychology -- Investigation</dc:subject>
+        <dc:subject>Worth</dc:subject>
+        <dc:subject>Patience (Spirit)</dc:subject>
+        <dc:subject>Curran</dc:subject>
+        <dc:subject>Pearl Lenore Pollard</dc:subject>
+        <dc:subject>1883-1937</dc:subject>
+        <dc:subject>Spirits -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Casper S. Yost&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:01:21.710235+00:00"/>
+        <meta name="calibre:title_sort" content="Patience Worth: A Psychic Mystery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

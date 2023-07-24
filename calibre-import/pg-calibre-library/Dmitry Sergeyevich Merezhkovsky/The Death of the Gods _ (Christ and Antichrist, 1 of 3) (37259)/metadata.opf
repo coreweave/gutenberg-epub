@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74f984ff-b834-43fd-9d47-14fbf8ae4538</dc:identifier>
+        <dc:title>The Death of the Gods / (Christ and Antichrist, 1 of 3)</dc:title>
+        <dc:creator opf:file-as="Merezhkovsky, Dmitry Sergeyevich" opf:role="aut">Dmitry Sergeyevich Merezhkovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46492</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Julian</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>331-363 -- Fiction</dc:subject>
+        <dc:subject>Rome -- History -- Julian</dc:subject>
+        <dc:subject>361-363 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dmitry Sergeyevich Merezhkovsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:08:19.210034+00:00"/>
+        <meta name="calibre:title_sort" content="Death of the Gods / (Christ and Antichrist, 1 of 3), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

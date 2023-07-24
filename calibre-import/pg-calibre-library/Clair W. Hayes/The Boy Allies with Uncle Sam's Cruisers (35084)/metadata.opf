@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35084</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da8ff388-a6ef-49a6-bcf7-3b2e8b787e52</dc:identifier>
+        <dc:title>The Boy Allies with Uncle Sam's Cruisers</dc:title>
+        <dc:creator opf:file-as="Hayes, Clair W. (Clair Wallace)" opf:role="aut">Clair W. Hayes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6072</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Naval operations -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clair W. Hayes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:18:54.517219+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Allies with Uncle Sam's Cruisers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

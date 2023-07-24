@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18055</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d1ea343-538e-4efc-b26c-7f73d7b4d712</dc:identifier>
+        <dc:title>Jack Hinton: The Guardsman</dc:title>
+        <dc:creator opf:file-as="Lever, Charles James" opf:role="aut">Charles James Lever</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33082</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soldiers -- Great Britain -- Fiction</dc:subject>
+        <dc:subject>Veterans -- Great Britain -- Fiction</dc:subject>
+        <dc:subject>Dublin (Ireland) -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Ireland -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles James Lever&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:54:43.331462+00:00"/>
+        <meta name="calibre:title_sort" content="Jack Hinton: The Guardsman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

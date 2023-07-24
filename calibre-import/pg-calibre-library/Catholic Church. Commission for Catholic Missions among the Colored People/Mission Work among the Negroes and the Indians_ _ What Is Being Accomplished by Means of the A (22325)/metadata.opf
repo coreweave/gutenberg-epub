@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80a3caa8-6013-4fe4-997d-dad344acefb2</dc:identifier>
+        <dc:title>Mission Work among the Negroes and the Indians: / What Is Being Accomplished by Means of the Annual Collection Taken Up for Our Missions</dc:title>
+        <dc:creator opf:file-as="Catholic Church. Commission for Catholic Missions among the Colored People and the Indians" opf:role="aut">Catholic Church. Commission for Catholic Missions among the Colored People</dc:creator>
+        <dc:creator opf:file-as="Catholic Church. Commission for Catholic Missions among the Colored People and the Indians" opf:role="aut">the Indians</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Missions</dc:subject>
+        <dc:subject>Catholic Church -- Missions -- United States</dc:subject>
+        <dc:subject>African Americans -- Missions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Catholic Church. Commission for Catholic Missions among the Colored People&quot;: &quot;&quot;, &quot;the Indians&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:35:23.386756+00:00"/>
+        <meta name="calibre:title_sort" content="Mission Work among the Negroes and the Indians: / What Is Being Accomplished by Means of the Annual Collection Taken Up for Our Missions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

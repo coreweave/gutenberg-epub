@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45928</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab625686-b5c2-4db4-83d1-4aed401d7c3b</dc:identifier>
+        <dc:title>The Principles of Chemistry, Volume I</dc:title>
+        <dc:creator opf:file-as="Mendeleyev, Dmitry Ivanovich" opf:role="aut">Dmitry Ivanovich Mendeleyev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51326</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Chemistry</dc:subject>
+        <dc:subject>Periodic law</dc:subject>
+        <dc:subject>Argon</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dmitry Ivanovich Mendeleyev&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:01:23.371109+00:00"/>
+        <meta name="calibre:title_sort" content="Principles of Chemistry, Volume I, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

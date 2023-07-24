@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f04a640-48a0-4f48-b514-b4aece3c2439</dc:identifier>
+        <dc:title>The Variation of Animals and Plants under Domestication — Volume 1</dc:title>
+        <dc:creator opf:file-as="Darwin, Charles" opf:role="aut">Charles Darwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2871</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Variation (Biology)</dc:subject>
+        <dc:subject>Domestic animals</dc:subject>
+        <dc:subject>Plants</dc:subject>
+        <dc:subject>Cultivated</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Darwin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:51:15.424658+00:00"/>
+        <meta name="calibre:title_sort" content="Variation of Animals and Plants under Domestication — Volume 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

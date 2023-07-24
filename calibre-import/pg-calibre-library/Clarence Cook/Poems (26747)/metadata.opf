@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">157739c1-55bc-4efd-bb94-bb2de50fb29e</dc:identifier>
+        <dc:title>Poems</dc:title>
+        <dc:creator opf:file-as="Cook, Clarence" opf:role="aut">Clarence Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53072</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clarence Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:43:53.508077+00:00"/>
+        <meta name="calibre:title_sort" content="Poems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

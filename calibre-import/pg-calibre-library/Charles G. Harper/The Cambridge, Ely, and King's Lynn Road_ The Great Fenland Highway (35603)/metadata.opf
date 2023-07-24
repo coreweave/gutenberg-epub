@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f651e31-82c8-415d-a1d1-d096fb7f512d</dc:identifier>
+        <dc:title>The Cambridge, Ely, and King's Lynn Road: The Great Fenland Highway</dc:title>
+        <dc:creator opf:file-as="Harper, Charles G. (Charles George)" opf:role="aut">Charles G. Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60205</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Description and travel</dc:subject>
+        <dc:subject>Fens</dc:subject>
+        <dc:subject>The (England) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles G. Harper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:44:34.097354+00:00"/>
+        <meta name="calibre:title_sort" content="Cambridge, Ely, and King's Lynn Road: The Great Fenland Highway, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

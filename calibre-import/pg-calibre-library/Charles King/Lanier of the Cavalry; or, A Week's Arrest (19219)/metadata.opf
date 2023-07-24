@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35c39496-28c7-4e4a-9dbc-93ab2f2e494c</dc:identifier>
+        <dc:title>Lanier of the Cavalry; or, A Week's Arrest</dc:title>
+        <dc:creator opf:file-as="King, Charles" opf:role="aut">Charles King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19507</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S.) -- Fiction</dc:subject>
+        <dc:subject>Cavalry -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:35:48.581374+00:00"/>
+        <meta name="calibre:title_sort" content="Lanier of the Cavalry; or, A Week's Arrest"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

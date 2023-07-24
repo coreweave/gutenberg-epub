@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">981d705e-4ac9-4ad4-9e13-66e7603521f8</dc:identifier>
+        <dc:title>The Story of Grenfell of the Labrador: A Boy's Life of Wilfred T. Grenfell</dc:title>
+        <dc:creator opf:file-as="Wallace, Dillon" opf:role="aut">Dillon Wallace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16809</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Grenfell</dc:subject>
+        <dc:subject>Wilfred Thomason</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1865-1940 -- Juvenile literature</dc:subject>
+        <dc:subject>Physicians -- Newfoundland and Labrador -- Labrador -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>Labrador (N.L.) -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dillon Wallace&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:18:41.883400+00:00"/>
+        <meta name="calibre:title_sort" content="Story of Grenfell of the Labrador: A Boy's Life of Wilfred T. Grenfell, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

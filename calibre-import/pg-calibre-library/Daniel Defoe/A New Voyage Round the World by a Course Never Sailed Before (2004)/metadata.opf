@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac3b542d-7dc4-4166-a51f-94bf5a80f87c</dc:identifier>
+        <dc:title>A New Voyage Round the World by a Course Never Sailed Before</dc:title>
+        <dc:creator opf:file-as="Defoe, Daniel" opf:role="aut">Daniel Defoe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35774</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Voyages around the world -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Defoe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:57:12.719620+00:00"/>
+        <meta name="calibre:title_sort" content="New Voyage Round the World by a Course Never Sailed Before, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

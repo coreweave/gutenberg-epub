@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98cf07ac-f0d3-427c-b44c-84f50d352742</dc:identifier>
+        <dc:title>Faulkner's Folly</dc:title>
+        <dc:creator opf:file-as="Wells, Carolyn" opf:role="aut">Carolyn Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59126</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Murder -- Investigation -- Fiction</dc:subject>
+        <dc:subject>Long Island (N.Y.) -- Fiction</dc:subject>
+        <dc:subject>American fiction -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carolyn Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:57:15.639942+00:00"/>
+        <meta name="calibre:title_sort" content="Faulkner's Folly"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

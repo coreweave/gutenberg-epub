@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1f89ca0-bbec-44bb-a781-77a51bad36a6</dc:identifier>
+        <dc:title>Project Trinity, 1945-1946</dc:title>
+        <dc:creator opf:file-as="Maag, Carl R." opf:role="aut">Carl R. Maag</dc:creator>
+        <dc:creator opf:file-as="Maag, Carl R." opf:role="aut">Steve Rohrer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/548</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nuclear weapons -- Testing</dc:subject>
+        <dc:subject>Atomic bomb -- New Mexico -- Testing</dc:subject>
+        <dc:subject>Radioactive fallout -- New Mexico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carl R. Maag&quot;: &quot;&quot;, &quot;Steve Rohrer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:09:20.209584+00:00"/>
+        <meta name="calibre:title_sort" content="Project Trinity, 1945-1946"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

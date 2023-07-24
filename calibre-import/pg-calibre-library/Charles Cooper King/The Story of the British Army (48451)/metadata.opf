@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ba6615c-e9bc-42b6-a28e-0b5d44c186c9</dc:identifier>
+        <dc:title>The Story of the British Army</dc:title>
+        <dc:creator opf:file-as="King, Charles Cooper" opf:role="aut">Charles Cooper King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52723</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Cooper King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:30:24.843969+00:00"/>
+        <meta name="calibre:title_sort" content="Story of the British Army, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

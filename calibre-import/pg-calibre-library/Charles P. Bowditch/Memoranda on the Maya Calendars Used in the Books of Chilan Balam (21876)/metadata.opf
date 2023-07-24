@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e2fe3d3-4478-4955-9258-0c1322eb2248</dc:identifier>
+        <dc:title>Memoranda on the Maya Calendars Used in the Books of Chilan Balam</dc:title>
+        <dc:creator opf:file-as="Bowditch, Charles P. (Charles Pickering)" opf:role="aut">Charles P. Bowditch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39683</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mayas -- Antiquities</dc:subject>
+        <dc:subject>Manuscripts</dc:subject>
+        <dc:subject>Maya</dc:subject>
+        <dc:subject>Maya calendar</dc:subject>
+        <dc:subject>Books of Chilam Balam</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles P. Bowditch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:17:06.154482+00:00"/>
+        <meta name="calibre:title_sort" content="Memoranda on the Maya Calendars Used in the Books of Chilan Balam"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22884</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8758af8f-ecef-4346-8f74-382a264e215c</dc:identifier>
+        <dc:title>Mr. Pickwick's Christmas / Being an Account of the Pickwickians' Christmas at the Manor Farm, of the Adventures There; the Tale of the Goblin Who Stole a Sexton, and of the Famous Sports on the Ice</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61193</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dickens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:58:27.195359+00:00"/>
+        <meta name="calibre:title_sort" content="Mr. Pickwick's Christmas / Being an Account of the Pickwickians' Christmas at the Manor Farm, of the Adventures There; the Tale of the Goblin Who Stole a Sexton, and of the Famous Sports on the Ice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

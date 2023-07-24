@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b209ffec-1c91-4db5-866d-b7d4ab301d99</dc:identifier>
+        <dc:title>Patty in the City</dc:title>
+        <dc:creator opf:file-as="Wells, Carolyn" opf:role="aut">Carolyn Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Private schools -- Juvenile fiction</dc:subject>
+        <dc:subject>New York (N.Y.) -- Social life and customs -- Juvenile fiction</dc:subject>
+        <dc:subject>Student adjustment -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carolyn Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:02:23.408552+00:00"/>
+        <meta name="calibre:title_sort" content="Patty in the City"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

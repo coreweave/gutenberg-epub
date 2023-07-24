@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9022178f-a9f9-4f0a-90a4-1f191148df15</dc:identifier>
+        <dc:title>South American Fights and Fighters, and Other Tales of Adventure</dc:title>
+        <dc:creator opf:file-as="Brady, Cyrus Townsend" opf:role="aut">Cyrus Townsend Brady</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20910</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Peru -- History -- Conquest</dc:subject>
+        <dc:subject>1522-1548</dc:subject>
+        <dc:subject>Dueling</dc:subject>
+        <dc:subject>Jones</dc:subject>
+        <dc:subject>John Paul</dc:subject>
+        <dc:subject>1747-1792</dc:subject>
+        <dc:subject>Essex (Whaleship)</dc:subject>
+        <dc:subject>Tonquin (Ship)</dc:subject>
+        <dc:subject>Washita Campaign</dc:subject>
+        <dc:subject>1868-1869</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Spanish</dc:subject>
+        <dc:subject>Panama -- History</dc:subject>
+        <dc:subject>Mexico -- History -- Conquest</dc:subject>
+        <dc:subject>1519-1540</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cyrus Townsend Brady&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:14:42.232619+00:00"/>
+        <meta name="calibre:title_sort" content="South American Fights and Fighters, and Other Tales of Adventure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

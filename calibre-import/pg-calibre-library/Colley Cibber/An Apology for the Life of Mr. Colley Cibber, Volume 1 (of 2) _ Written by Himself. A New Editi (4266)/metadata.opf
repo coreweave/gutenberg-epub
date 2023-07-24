@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ef1f17c-911a-4301-a8d5-9bc189f76fe6</dc:identifier>
+        <dc:title>An Apology for the Life of Mr. Colley Cibber, Volume 1 (of 2) / Written by Himself. A New Edition with Notes and Supplement</dc:title>
+        <dc:creator opf:file-as="Cibber, Colley" opf:role="aut">Colley Cibber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44064</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theater -- Great Britain -- History -- 18th century</dc:subject>
+        <dc:subject>Dramatists</dc:subject>
+        <dc:subject>English -- 18th century -- Biography</dc:subject>
+        <dc:subject>Theatrical managers -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Cibber</dc:subject>
+        <dc:subject>Colley</dc:subject>
+        <dc:subject>1671-1757</dc:subject>
+        <dc:subject>Actors -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Colley Cibber&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:37:50.095103+00:00"/>
+        <meta name="calibre:title_sort" content="Apology for the Life of Mr. Colley Cibber, Volume 1 (of 2) / Written by Himself. A New Edition with Notes and Supplement, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

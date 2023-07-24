@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25797</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b93f8ea-8412-4232-b8c8-2fabe61b7422</dc:identifier>
+        <dc:title>Pattie's Personal Narrative, 1824-1830; Willard's Inland Trade with New Mexico, 1825, and Downfall of the Fredonian Republic; and Malte-Brun's Account of Mexico</dc:title>
+        <dc:creator opf:file-as="Malte-Brun, Conrad" opf:role="aut">Conrad Malte-Brun</dc:creator>
+        <dc:creator opf:file-as="Malte-Brun, Conrad" opf:role="aut">James O. Pattie</dc:creator>
+        <dc:creator opf:file-as="Malte-Brun, Conrad" opf:role="aut">Dr. Willard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>California -- Description and travel</dc:subject>
+        <dc:subject>West (U.S.) -- Description and travel</dc:subject>
+        <dc:subject>New Mexico -- Description and travel</dc:subject>
+        <dc:subject>Southwest</dc:subject>
+        <dc:subject>New -- Description and travel</dc:subject>
+        <dc:subject>Fredonian Insurrection</dc:subject>
+        <dc:subject>1826-1827</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Conrad Malte-Brun&quot;: &quot;&quot;, &quot;James O. Pattie&quot;: &quot;&quot;, &quot;Dr. Willard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:02:08.405613+00:00"/>
+        <meta name="calibre:title_sort" content="Pattie's Personal Narrative, 1824-1830; Willard's Inland Trade with New Mexico, 1825, and Downfall of the Fredonian Republic; and Malte-Brun's Account of Mexico"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

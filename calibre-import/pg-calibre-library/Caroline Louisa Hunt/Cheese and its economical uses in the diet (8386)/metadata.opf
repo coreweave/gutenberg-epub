@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05659a9f-39d1-451d-a148-8f2bf8f8633b</dc:identifier>
+        <dc:title>Cheese and its economical uses in the diet</dc:title>
+        <dc:creator opf:file-as="Hunt, Caroline Louisa" opf:role="aut">Caroline Louisa Hunt</dc:creator>
+        <dc:creator opf:file-as="Hunt, Caroline Louisa" opf:role="aut">C. F. Langworthy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70067</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cheese</dc:subject>
+        <dc:subject>Cooking (Cheese)</dc:subject>
+        <dc:subject>Cookbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Caroline Louisa Hunt&quot;: &quot;&quot;, &quot;C. F. Langworthy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:07:26.320520+00:00"/>
+        <meta name="calibre:title_sort" content="Cheese and its economical uses in the diet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

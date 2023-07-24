@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14523</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">896162e3-01ca-4220-a63f-0067810b8a35</dc:identifier>
+        <dc:title>Gray Lensman</dc:title>
+        <dc:creator opf:file-as="Smith, E. E. (Edward Elmer)" opf:role="aut">E. E. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69584</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Space warfare -- Fiction</dc:subject>
+        <dc:subject>Life on other planets -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. E. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:57:16.578140+00:00"/>
+        <meta name="calibre:title_sort" content="Gray Lensman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf05e7f6-f523-475a-a262-4d7022d854b8</dc:identifier>
+        <dc:title>The Angel in the House</dc:title>
+        <dc:creator opf:file-as="Patmore, Coventry" opf:role="aut">Coventry Patmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4099</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Husband and wife -- Poetry</dc:subject>
+        <dc:subject>Women -- Conduct of life -- Poetry</dc:subject>
+        <dc:subject>Marriage -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Coventry Patmore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:06:23.082362+00:00"/>
+        <meta name="calibre:title_sort" content="Angel in the House, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

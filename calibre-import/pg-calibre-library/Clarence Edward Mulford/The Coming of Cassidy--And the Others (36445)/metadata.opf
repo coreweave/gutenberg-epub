@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e2dfa64-09c8-4ab1-acc7-7fe9b4fa88c4</dc:identifier>
+        <dc:title>The Coming of Cassidy—And the Others</dc:title>
+        <dc:creator opf:file-as="Mulford, Clarence Edward" opf:role="aut">Clarence Edward Mulford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42441</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Cassidy</dc:subject>
+        <dc:subject>Hopalong (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clarence Edward Mulford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:26:44.984068+00:00"/>
+        <meta name="calibre:title_sort" content="Coming of Cassidy—And the Others, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1d24380-20e4-4596-933c-6fa981cadc8f</dc:identifier>
+        <dc:title>The Gentlemen's Book of Etiquette and Manual of Politeness / Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society</dc:title>
+        <dc:creator opf:file-as="Hartley, Cecil B." opf:role="aut">Cecil B. Hartley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39293</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Etiquette</dc:subject>
+        <dc:subject>Etiquette for men</dc:subject>
+        <dc:subject>Men -- Conduct of life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cecil B. Hartley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:41:06.748813+00:00"/>
+        <meta name="calibre:title_sort" content="Gentlemen's Book of Etiquette and Manual of Politeness / Being a Complete Guide for a Gentleman's Conduct in All His Relations Towards Society, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

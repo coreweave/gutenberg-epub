@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38cf5020-8937-4d42-b081-618253eb4afc</dc:identifier>
+        <dc:title>List of Post Offices in Canada, with the Names of the Postmasters ... 1865</dc:title>
+        <dc:creator opf:file-as="Canada. Post Office Department" opf:role="aut">Canada. Post Office Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54084</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postal service -- Canada -- Guides</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Canada. Post Office Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:08:41.533081+00:00"/>
+        <meta name="calibre:title_sort" content="List of Post Offices in Canada, with the Names of the Postmasters ... 1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

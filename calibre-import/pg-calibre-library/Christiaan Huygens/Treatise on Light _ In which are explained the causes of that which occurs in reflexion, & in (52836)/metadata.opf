@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5afc316e-ddb8-42a1-a958-6e962edaaafa</dc:identifier>
+        <dc:title>Treatise on Light / In which are explained the causes of that which occurs in reflexion, &amp; in refraction and particularly in the strange refraction of Iceland crystal</dc:title>
+        <dc:creator opf:file-as="Huygens, Christiaan" opf:role="aut">Christiaan Huygens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14725</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wave theory of light</dc:subject>
+        <dc:subject>Refraction</dc:subject>
+        <dc:subject>Double</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christiaan Huygens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:07:43.507512+00:00"/>
+        <meta name="calibre:title_sort" content="Treatise on Light / In which are explained the causes of that which occurs in reflexion, &amp; in refraction and particularly in the strange refraction of Iceland crystal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afd272eb-a688-4c52-8529-f26e1cceccac</dc:identifier>
+        <dc:title>Records of the Kirk of Scotland / containing the Acts and Proceedings of the General Assemblies from 1638 downwards, as authenticated by the clerks of assembly.</dc:title>
+        <dc:creator opf:file-as="Church of Scotland. General Assembly" opf:role="aut">Church of Scotland. General Assembly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63127</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of Scotland -- History -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Church of Scotland. General Assembly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:02:01.190750+00:00"/>
+        <meta name="calibre:title_sort" content="Records of the Kirk of Scotland / containing the Acts and Proceedings of the General Assemblies from 1638 downwards, as authenticated by the clerks of assembly."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

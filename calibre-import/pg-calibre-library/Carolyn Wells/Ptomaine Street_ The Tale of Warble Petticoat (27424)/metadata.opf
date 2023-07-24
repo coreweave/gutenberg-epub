@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5a8d2c7-334c-4359-991f-902e3c07b40d</dc:identifier>
+        <dc:title>Ptomaine Street: The Tale of Warble Petticoat</dc:title>
+        <dc:creator opf:file-as="Wells, Carolyn" opf:role="aut">Carolyn Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Lewis</dc:subject>
+        <dc:subject>Sinclair</dc:subject>
+        <dc:subject>1885-1951 -- Parodies</dc:subject>
+        <dc:subject>imitations</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carolyn Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:13:08.316851+00:00"/>
+        <meta name="calibre:title_sort" content="Ptomaine Street: The Tale of Warble Petticoat"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

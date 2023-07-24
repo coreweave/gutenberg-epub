@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcaf1e35-156f-4059-9612-a0eb0ddab052</dc:identifier>
+        <dc:title>30 Tempting Spaghetti Meals: Easy, Economical, Delicious</dc:title>
+        <dc:creator opf:file-as="Campbell Soup Company" opf:role="aut">Campbell Soup Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65562</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cookbooks</dc:subject>
+        <dc:subject>Cooking (Canned foods)</dc:subject>
+        <dc:subject>Cooking (Pasta)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Campbell Soup Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:30:00.189964+00:00"/>
+        <meta name="calibre:title_sort" content="30 Tempting Spaghetti Meals: Easy, Economical, Delicious"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

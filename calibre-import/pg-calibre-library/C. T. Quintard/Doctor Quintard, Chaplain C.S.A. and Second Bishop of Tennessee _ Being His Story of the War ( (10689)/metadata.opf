@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0010968d-9a22-4e8c-9ceb-eb374154e105</dc:identifier>
+        <dc:title>Doctor Quintard, Chaplain C.S.A. and Second Bishop of Tennessee / Being His Story of the War (1861-1865)</dc:title>
+        <dc:creator opf:file-as="Quintard, C. T. (Charles Todd)" opf:role="aut">C. T. Quintard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57212</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Tennessee -- History -- Civil War</dc:subject>
+        <dc:subject>Quintard</dc:subject>
+        <dc:subject>C. T. (Charles Todd)</dc:subject>
+        <dc:subject>1824-1898</dc:subject>
+        <dc:subject>Confederate States of America. Army -- Chaplains -- Biography</dc:subject>
+        <dc:subject>Confederate States of America. Army. Tennessee Infantry Regiment</dc:subject>
+        <dc:subject>1st</dc:subject>
+        <dc:subject>Episcopal Church -- Tennessee -- Bishops -- Biography</dc:subject>
+        <dc:subject>Military chaplains -- Confederate States of America -- Biography</dc:subject>
+        <dc:subject>1861-1865 -- Chaplains</dc:subject>
+        <dc:subject>1861-1865 -- Religious aspects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. T. Quintard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:06:26.304916+00:00"/>
+        <meta name="calibre:title_sort" content="Doctor Quintard, Chaplain C.S.A. and Second Bishop of Tennessee / Being His Story of the War (1861-1865)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

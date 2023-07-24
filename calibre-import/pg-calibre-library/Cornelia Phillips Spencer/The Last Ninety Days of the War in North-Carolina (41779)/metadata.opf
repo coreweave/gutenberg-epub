@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfee3e9c-4bf7-4d62-b564-fc953f7d68cb</dc:identifier>
+        <dc:title>The Last Ninety Days of the War in North-Carolina</dc:title>
+        <dc:creator opf:file-as="Spencer, Cornelia Phillips" opf:role="aut">Cornelia Phillips Spencer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62332</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>North Carolina -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cornelia Phillips Spencer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:07:23.804719+00:00"/>
+        <meta name="calibre:title_sort" content="Last Ninety Days of the War in North-Carolina, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

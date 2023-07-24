@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">520b0deb-bee2-434c-90df-403192d18829</dc:identifier>
+        <dc:title>The ecclesiastical architecture of Scotland from the earliest Christian times to the seventeenth century; vol. 3/3</dc:title>
+        <dc:creator opf:file-as="MacGibbon, David" opf:role="aut">David MacGibbon</dc:creator>
+        <dc:creator opf:file-as="MacGibbon, David" opf:role="aut">Thomas Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65014</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church architecture -- Scotland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David MacGibbon&quot;: &quot;&quot;, &quot;Thomas Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:29:15.040851+00:00"/>
+        <meta name="calibre:title_sort" content="ecclesiastical architecture of Scotland from the earliest Christian times to the seventeenth century; vol. 3/3, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

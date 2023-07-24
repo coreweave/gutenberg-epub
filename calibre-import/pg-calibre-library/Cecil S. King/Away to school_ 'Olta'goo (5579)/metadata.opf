@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5579</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70a25036-cc5b-4b82-a00a-e723ef24eed0</dc:identifier>
+        <dc:title>Away to school: 'Ólta'góó</dc:title>
+        <dc:creator opf:file-as="King, Cecil S." opf:role="aut">Cecil S. King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56199</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>nav</dc:language>
+        <dc:subject>Navajo language -- Readers</dc:subject>
+        <dc:subject>Off-reservation boarding schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Navajo children -- Education -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cecil S. King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:04:01.908519+00:00"/>
+        <meta name="calibre:title_sort" content="Away to school: 'Ólta'góó"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

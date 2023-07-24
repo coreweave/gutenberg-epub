@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d95ba896-ed67-4e3d-96ee-ab21f0558546</dc:identifier>
+        <dc:title>De Soto, Coronado, Cabrillo: Explorers of the Northern Mystery</dc:title>
+        <dc:creator opf:file-as="Lavender, David" opf:role="aut">David Lavender</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56083</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soto</dc:subject>
+        <dc:subject>Hernando de</dc:subject>
+        <dc:subject>approximately 1500-1542</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Spanish</dc:subject>
+        <dc:subject>Coronado</dc:subject>
+        <dc:subject>Francisco Vásquez de</dc:subject>
+        <dc:subject>1510-1554</dc:subject>
+        <dc:subject>Cabrillo</dc:subject>
+        <dc:subject>Juan Rodríguez</dc:subject>
+        <dc:subject>-1543</dc:subject>
+        <dc:subject>Explorers -- United States -- History -- 16th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Lavender&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:49:45.352306+00:00"/>
+        <meta name="calibre:title_sort" content="De Soto, Coronado, Cabrillo: Explorers of the Northern Mystery"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

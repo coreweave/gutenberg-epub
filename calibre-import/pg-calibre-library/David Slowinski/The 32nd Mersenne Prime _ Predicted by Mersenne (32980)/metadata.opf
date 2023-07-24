@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">365c5ee5-e3d1-4f82-b5a5-24added67205</dc:identifier>
+        <dc:title>The 32nd Mersenne Prime / Predicted by Mersenne</dc:title>
+        <dc:creator opf:file-as="Slowinski, David" opf:role="aut">David Slowinski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Numbers</dc:subject>
+        <dc:subject>Prime</dc:subject>
+        <dc:subject>Number theory</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Slowinski&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:35:17.278027+00:00"/>
+        <meta name="calibre:title_sort" content="32nd Mersenne Prime / Predicted by Mersenne, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">105a6424-d298-41e8-9428-f18e41b19be3</dc:identifier>
+        <dc:title>The Path of Empire: A Chronicle of the United States as a World Power</dc:title>
+        <dc:creator opf:file-as="Fish, Carl Russell" opf:role="aut">Carl Russell Fish</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3157</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Territorial expansion</dc:subject>
+        <dc:subject>United States -- Foreign relations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carl Russell Fish&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:13:34.040712+00:00"/>
+        <meta name="calibre:title_sort" content="Path of Empire: A Chronicle of the United States as a World Power, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

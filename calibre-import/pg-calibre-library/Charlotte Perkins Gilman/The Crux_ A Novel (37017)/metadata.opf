@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">269ecac9-b801-43a3-89b1-85c1f339027d</dc:identifier>
+        <dc:title>The Crux: A Novel</dc:title>
+        <dc:creator opf:file-as="Gilman, Charlotte Perkins" opf:role="aut">Charlotte Perkins Gilman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38551</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Feminist fiction</dc:subject>
+        <dc:subject>Women pioneers -- Fiction</dc:subject>
+        <dc:subject>Colorado -- Fiction</dc:subject>
+        <dc:subject>Sex role -- Fiction</dc:subject>
+        <dc:subject>Massachusetts -- Fiction</dc:subject>
+        <dc:subject>Boardinghouses -- Fiction</dc:subject>
+        <dc:subject>Sexually transmitted diseases -- Fiction</dc:subject>
+        <dc:subject>Eugenics -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Perkins Gilman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:55:53.603534+00:00"/>
+        <meta name="calibre:title_sort" content="Crux: A Novel, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

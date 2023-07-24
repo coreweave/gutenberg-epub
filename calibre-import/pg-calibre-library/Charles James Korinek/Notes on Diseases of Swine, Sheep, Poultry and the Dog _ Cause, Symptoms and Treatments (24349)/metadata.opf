@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86a4efee-b780-4d6e-b0bd-5fb961655072</dc:identifier>
+        <dc:title>Notes on Diseases of Swine, Sheep, Poultry and the Dog / Cause, Symptoms and Treatments</dc:title>
+        <dc:creator opf:file-as="Korinek, Charles James" opf:role="aut">Charles James Korinek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59663</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Diseases</dc:subject>
+        <dc:subject>Poultry -- Diseases</dc:subject>
+        <dc:subject>Swine -- Diseases</dc:subject>
+        <dc:subject>Sheep -- Diseases</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles James Korinek&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:01:23.288535+00:00"/>
+        <meta name="calibre:title_sort" content="Notes on Diseases of Swine, Sheep, Poultry and the Dog / Cause, Symptoms and Treatments"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

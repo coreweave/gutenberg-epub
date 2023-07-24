@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bad7cd49-a969-41fe-ba74-bebc0c483405</dc:identifier>
+        <dc:title>Her Ladyship's Elephant</dc:title>
+        <dc:creator opf:file-as="Wells, David Dwight" opf:role="aut">David Dwight Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28149</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Manners and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Dwight Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:30:01.309946+00:00"/>
+        <meta name="calibre:title_sort" content="Her Ladyship's Elephant"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

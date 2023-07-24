@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24ef553b-1e3c-4ea1-aa19-d2c2b41dc41d</dc:identifier>
+        <dc:title>Japan: A Record in Colour</dc:title>
+        <dc:creator opf:file-as="Menpes, Dorothy" opf:role="aut">Dorothy Menpes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Japan -- Description and travel</dc:subject>
+        <dc:subject>Art -- Japan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dorothy Menpes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:59:41.282681+00:00"/>
+        <meta name="calibre:title_sort" content="Japan: A Record in Colour"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

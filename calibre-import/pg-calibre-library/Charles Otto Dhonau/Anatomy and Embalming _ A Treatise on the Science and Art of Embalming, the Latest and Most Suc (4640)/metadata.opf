@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73c3485d-9733-442e-b9fe-7bc9caa277cd</dc:identifier>
+        <dc:title>Anatomy and Embalming / A Treatise on the Science and Art of Embalming, the Latest and Most Successful Methods of Treatment and the General Anatomy Relating to this Subject</dc:title>
+        <dc:creator opf:file-as="Dhonau, Charles Otto" opf:role="aut">Charles Otto Dhonau</dc:creator>
+        <dc:creator opf:file-as="Dhonau, Charles Otto" opf:role="aut">Albert John Nunnamaker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49054</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Embalming</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Otto Dhonau&quot;: &quot;&quot;, &quot;Albert John Nunnamaker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:45:01.803022+00:00"/>
+        <meta name="calibre:title_sort" content="Anatomy and Embalming / A Treatise on the Science and Art of Embalming, the Latest and Most Successful Methods of Treatment and the General Anatomy Relating to this Subject"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

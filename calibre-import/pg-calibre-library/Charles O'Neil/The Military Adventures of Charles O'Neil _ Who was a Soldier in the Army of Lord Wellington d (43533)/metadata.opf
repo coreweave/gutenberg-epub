@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cf0bb43-da21-4efb-b3ed-1729b4069370</dc:identifier>
+        <dc:title>The Military Adventures of Charles O'Neil / Who was a Soldier in the Army of Lord Wellington during the Memorable Peninsular War and the Continental Campaigns from 1811 to 1815</dc:title>
+        <dc:creator opf:file-as="O'Neil, Charles" opf:role="aut">Charles O'Neil</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- History -- 1789-1815</dc:subject>
+        <dc:subject>Peninsular War</dc:subject>
+        <dc:subject>1807-1814 -- Personal narratives</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Waterloo</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Belgium</dc:subject>
+        <dc:subject>1815 -- Personal narratives</dc:subject>
+        <dc:subject>O'Neil</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1793-</dc:subject>
+        <dc:subject>Barrosa</dc:subject>
+        <dc:subject>Spain</dc:subject>
+        <dc:subject>1811 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles O'Neil&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:44:35.065861+00:00"/>
+        <meta name="calibre:title_sort" content="Military Adventures of Charles O'Neil / Who was a Soldier in the Army of Lord Wellington during the Memorable Peninsular War and the Continental Campaigns from 1811 to 1815, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

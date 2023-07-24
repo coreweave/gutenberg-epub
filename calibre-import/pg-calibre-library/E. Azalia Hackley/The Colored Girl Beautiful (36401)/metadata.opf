@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b544a57-b795-4ab3-bc81-89f1b370527d</dc:identifier>
+        <dc:title>The Colored Girl Beautiful</dc:title>
+        <dc:creator opf:file-as="Hackley, E. Azalia (Emma Azalia)" opf:role="aut">E. Azalia Hackley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31340</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life</dc:subject>
+        <dc:subject>Young women</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. Azalia Hackley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:24:35.005539+00:00"/>
+        <meta name="calibre:title_sort" content="Colored Girl Beautiful, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

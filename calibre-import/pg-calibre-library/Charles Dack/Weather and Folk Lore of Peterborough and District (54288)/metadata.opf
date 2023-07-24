@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a1d3a1f-1073-45f0-b374-8e96add57631</dc:identifier>
+        <dc:title>Weather and Folk Lore of Peterborough and District</dc:title>
+        <dc:creator opf:file-as="Dack, Charles" opf:role="aut">Charles Dack</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17269</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Weather -- Folklore</dc:subject>
+        <dc:subject>Folklore -- England -- Peterborough</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dack&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:41:28.640064+00:00"/>
+        <meta name="calibre:title_sort" content="Weather and Folk Lore of Peterborough and District"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

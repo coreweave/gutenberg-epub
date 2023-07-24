@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6034efd-11fe-4d99-957f-4ce994e32c06</dc:identifier>
+        <dc:title>Tamburlaine the Great — Part 1</dc:title>
+        <dc:creator opf:file-as="Marlowe, Christopher" opf:role="aut">Christopher Marlowe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1094</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Timur</dc:subject>
+        <dc:subject>1336-1405 -- Drama</dc:subject>
+        <dc:subject>English drama</dc:subject>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Historical drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Marlowe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:19:54.259795+00:00"/>
+        <meta name="calibre:title_sort" content="Tamburlaine the Great — Part 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

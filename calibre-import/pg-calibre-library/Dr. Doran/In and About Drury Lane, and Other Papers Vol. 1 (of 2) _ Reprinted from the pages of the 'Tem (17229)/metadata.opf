@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">577fe621-3ca2-4dc9-bf79-364be12d54c2</dc:identifier>
+        <dc:title>In and About Drury Lane, and Other Papers Vol. 1 (of 2) / Reprinted from the pages of the 'Temple Bar' Magazine</dc:title>
+        <dc:creator opf:file-as="Doran, Dr. (John)" opf:role="aut">Dr. Doran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66788</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Social life and customs -- 19th century</dc:subject>
+        <dc:subject>Theater -- England -- London -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dr. Doran&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:26:25.321517+00:00"/>
+        <meta name="calibre:title_sort" content="In and About Drury Lane, and Other Papers Vol. 1 (of 2) / Reprinted from the pages of the 'Temple Bar' Magazine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

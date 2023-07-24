@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e34633cb-0eb0-4190-8fb3-0674d557dd42</dc:identifier>
+        <dc:title>Sir Walter Raleigh and His Time</dc:title>
+        <dc:creator opf:file-as="Kingsley, Charles" opf:role="aut">Charles Kingsley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3143</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History</dc:subject>
+        <dc:subject>Raleigh</dc:subject>
+        <dc:subject>Walter</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1552?-1618</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Kingsley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:45:56.606687+00:00"/>
+        <meta name="calibre:title_sort" content="Sir Walter Raleigh and His Time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

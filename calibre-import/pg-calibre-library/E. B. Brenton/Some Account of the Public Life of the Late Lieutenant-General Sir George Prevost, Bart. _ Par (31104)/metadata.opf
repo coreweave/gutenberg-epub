@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cdfda4b-05e0-4b19-8f4a-c5a8fb1ebabf</dc:identifier>
+        <dc:title>Some Account of the Public Life of the Late Lieutenant-General Sir George Prevost, Bart. / Particularly of His Services in the Canadas, Including a Reply to the Strictures on His Military Character, Contained in an Article in the Quarterly Review</dc:title>
+        <dc:creator opf:file-as="Brenton, E. B." opf:role="aut">E. B. Brenton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37674</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- War of 1812</dc:subject>
+        <dc:subject>Prevost</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1767-1816</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. B. Brenton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:04:07.744657+00:00"/>
+        <meta name="calibre:title_sort" content="Some Account of the Public Life of the Late Lieutenant-General Sir George Prevost, Bart. / Particularly of His Services in the Canadas, Including a Reply to the Strictures on His Military Character, Contained in an Article in the Quarterly Review"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

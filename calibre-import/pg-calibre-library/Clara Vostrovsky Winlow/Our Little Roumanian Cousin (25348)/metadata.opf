@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a27a01c-6735-4f62-8dc3-c34847d21c7d</dc:identifier>
+        <dc:title>Our Little Roumanian Cousin</dc:title>
+        <dc:creator opf:file-as="Winlow, Clara Vostrovsky" opf:role="aut">Clara Vostrovsky Winlow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43637</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Romania -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clara Vostrovsky Winlow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:43:05.114985+00:00"/>
+        <meta name="calibre:title_sort" content="Our Little Roumanian Cousin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13dc4b17-71d5-4394-b3c8-6cfc1f9c8fa7</dc:identifier>
+        <dc:title>Young's Demonstrative Translation of Scientific Secrets / Or, A Collection of Above 500 Useful Receipts on a Variety of Subjects</dc:title>
+        <dc:creator opf:file-as="Young, Daniel" opf:role="aut">Daniel Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5763</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- Methodology</dc:subject>
+        <dc:subject>Formulas</dc:subject>
+        <dc:subject>recipes</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:10:28.201460+00:00"/>
+        <meta name="calibre:title_sort" content="Young's Demonstrative Translation of Scientific Secrets / Or, A Collection of Above 500 Useful Receipts on a Variety of Subjects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

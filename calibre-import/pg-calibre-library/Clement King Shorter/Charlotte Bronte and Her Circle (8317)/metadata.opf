@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02c31e43-7479-400d-99e8-7bb12be0bd9e</dc:identifier>
+        <dc:title>Charlotte Brontë and Her Circle</dc:title>
+        <dc:creator opf:file-as="Shorter, Clement King" opf:role="aut">Clement King Shorter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brontë family</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Brontë</dc:subject>
+        <dc:subject>Charlotte</dc:subject>
+        <dc:subject>1816-1855</dc:subject>
+        <dc:subject>Women and literature -- England -- History -- 19th century</dc:subject>
+        <dc:subject>1816-1855 -- Friends and associates</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clement King Shorter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:05:44.741181+00:00"/>
+        <meta name="calibre:title_sort" content="Charlotte Brontë and Her Circle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5526</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8d7d440-32b2-4fc3-a077-5ee4bac44ad9</dc:identifier>
+        <dc:title>Autobiography of Charles Clinton Nourse / Prepared for use of Members of the Family</dc:title>
+        <dc:creator opf:file-as="Nourse, Charles Clinton" opf:role="aut">Charles Clinton Nourse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40777</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lawyers -- Iowa -- Biography</dc:subject>
+        <dc:subject>Iowa -- Politics and government</dc:subject>
+        <dc:subject>Nourse</dc:subject>
+        <dc:subject>Charles Clinton</dc:subject>
+        <dc:subject>1829-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Clinton Nourse&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:02:55.911368+00:00"/>
+        <meta name="calibre:title_sort" content="Autobiography of Charles Clinton Nourse / Prepared for use of Members of the Family"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31a37934-2cf5-4c00-aa8d-f4bbe78374b7</dc:identifier>
+        <dc:title>The Luckiest Man in Denv</dc:title>
+        <dc:creator opf:file-as="Kornbluth, C. M. (Cyril M.)" opf:role="aut">C. M. Kornbluth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50835</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Betrayal -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. M. Kornbluth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:03:39.551975+00:00"/>
+        <meta name="calibre:title_sort" content="Luckiest Man in Denv, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

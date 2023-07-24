@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2044</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34f5e172-6d0f-4ae2-ac5b-cf31ecc2107f</dc:identifier>
+        <dc:title>A Parody Outline of History / Wherein May Be Found a Curiously Irreverent Treatment of American Historical Events, Imagining Them as They Would Be Narrated by America's Most Characteristic Contemporary Authors</dc:title>
+        <dc:creator opf:file-as="Stewart, Donald Ogden" opf:role="aut">Donald Ogden Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1478</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Parodies</dc:subject>
+        <dc:subject>United States -- History -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Donald Ogden Stewart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:57:52.974381+00:00"/>
+        <meta name="calibre:title_sort" content="Parody Outline of History / Wherein May Be Found a Curiously Irreverent Treatment of American Historical Events, Imagining Them as They Would Be Narrated by America's Most Characteristic Contemporary Authors, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

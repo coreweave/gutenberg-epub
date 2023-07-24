@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47995d39-4cae-466c-9186-0edc8f54426d</dc:identifier>
+        <dc:title>Maurice Tiernay, Soldier of Fortune</dc:title>
+        <dc:creator opf:file-as="Lever, Charles James" opf:role="aut">Charles James Lever</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32425</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Soldiers of fortune -- Fiction</dc:subject>
+        <dc:subject>France -- History -- Consulate and First Empire</dc:subject>
+        <dc:subject>1799-1815 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles James Lever&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:00:53.170339+00:00"/>
+        <meta name="calibre:title_sort" content="Maurice Tiernay, Soldier of Fortune"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

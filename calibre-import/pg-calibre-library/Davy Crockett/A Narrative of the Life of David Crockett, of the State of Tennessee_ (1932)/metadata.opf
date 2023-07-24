@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6987e40-999f-4af6-8c14-d1dbb005982e</dc:identifier>
+        <dc:title>A Narrative of the Life of David Crockett, of the State of Tennessee.</dc:title>
+        <dc:creator opf:file-as="Crockett, Davy" opf:role="aut">Davy Crockett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tennessee -- History</dc:subject>
+        <dc:subject>Crockett</dc:subject>
+        <dc:subject>Davy</dc:subject>
+        <dc:subject>1786-1836</dc:subject>
+        <dc:subject>Legislators -- United States -- Biography</dc:subject>
+        <dc:subject>Creek War</dc:subject>
+        <dc:subject>1813-1814</dc:subject>
+        <dc:subject>United States. Congress. House -- Biography</dc:subject>
+        <dc:subject>Pioneers -- Tennessee -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Davy Crockett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:01.088100+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of the Life of David Crockett, of the State of Tennessee., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

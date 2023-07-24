@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ac736ba-cd46-44cb-bd0a-59f1cdb642a5</dc:identifier>
+        <dc:title>The Mormon Prophet and His Harem / Or, An Authentic History of Brigham Young, His Numerous Wives and Children</dc:title>
+        <dc:creator opf:file-as="Waite, C. V. (Catherine Van Valkenburg)" opf:role="aut">C. V. Waite</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44414</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mormon Church</dc:subject>
+        <dc:subject>Young</dc:subject>
+        <dc:subject>Brigham</dc:subject>
+        <dc:subject>1801-1877</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. V. Waite&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:08:16.523413+00:00"/>
+        <meta name="calibre:title_sort" content="Mormon Prophet and His Harem / Or, An Authentic History of Brigham Young, His Numerous Wives and Children, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

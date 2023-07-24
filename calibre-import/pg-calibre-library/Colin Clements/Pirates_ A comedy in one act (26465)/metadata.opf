@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f7014a8-9e80-470b-b3af-035d1c3d0ee3</dc:identifier>
+        <dc:title>Pirates: A comedy in one act</dc:title>
+        <dc:creator opf:file-as="Clements, Colin" opf:role="aut">Colin Clements</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39609</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Gossip -- Drama</dc:subject>
+        <dc:subject>England -- Social life and customs -- 19th century -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Colin Clements&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:31:51.638942+00:00"/>
+        <meta name="calibre:title_sort" content="Pirates: A comedy in one act"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

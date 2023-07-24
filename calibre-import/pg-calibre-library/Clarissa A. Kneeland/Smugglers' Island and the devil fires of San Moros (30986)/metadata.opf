@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30986</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a050d63-38c8-4004-8275-61fad0d079b2</dc:identifier>
+        <dc:title>Smugglers’ Island and the devil fires of San Moros</dc:title>
+        <dc:creator opf:file-as="Kneeland, Clarissa A. (Clarissa Abia)" opf:role="aut">Clarissa A. Kneeland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69433</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Islands -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Castaways -- Juvenile fiction</dc:subject>
+        <dc:subject>Missing children -- Juvenile fiction</dc:subject>
+        <dc:subject>Survival -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clarissa A. Kneeland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:58:35.126866+00:00"/>
+        <meta name="calibre:title_sort" content="Smugglers’ Island and the devil fires of San Moros"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

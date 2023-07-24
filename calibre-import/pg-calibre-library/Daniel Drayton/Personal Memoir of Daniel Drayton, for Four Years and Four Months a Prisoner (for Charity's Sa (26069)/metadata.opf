@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85854209-fc4b-40f1-ac0d-65edc872c266</dc:identifier>
+        <dc:title>Personal Memoir of Daniel Drayton, for Four Years and Four Months a Prisoner (for Charity's Sake) in Washington Jail / Including a Narrative of the Voyage and Capture of the Schooner Pearl</dc:title>
+        <dc:creator opf:file-as="Drayton, Daniel" opf:role="aut">Daniel Drayton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10401</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Abolitionists -- United States -- Biography</dc:subject>
+        <dc:subject>Drayton</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1802-1857 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Trials -- Washington (D.C.)</dc:subject>
+        <dc:subject>Fugitive slaves -- Legal status</dc:subject>
+        <dc:subject>laws</dc:subject>
+        <dc:subject>etc. -- Maryland</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Drayton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:13:40.832804+00:00"/>
+        <meta name="calibre:title_sort" content="Personal Memoir of Daniel Drayton, for Four Years and Four Months a Prisoner (for Charity's Sake) in Washington Jail / Including a Narrative of the Voyage and Capture of the Schooner Pearl"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

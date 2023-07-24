@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5210ddb-be1c-4666-95a1-f88cc0bba68c</dc:identifier>
+        <dc:title>Comparative Ecology of Pinyon Mice and Deer Mice in Mesa Verde National Park, Colorado</dc:title>
+        <dc:creator opf:file-as="Douglas, Charles L." opf:role="aut">Charles L. Douglas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38959</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mammals -- Colorado -- Mesa Verde National Park</dc:subject>
+        <dc:subject>Piñon mouse</dc:subject>
+        <dc:subject>Peromyscus maniculatus</dc:subject>
+        <dc:subject>Mammals -- Behavior</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles L. Douglas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:25:32.463531+00:00"/>
+        <meta name="calibre:title_sort" content="Comparative Ecology of Pinyon Mice and Deer Mice in Mesa Verde National Park, Colorado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7b6fc24-bcbc-4c11-ab89-1308b5b1b803</dc:identifier>
+        <dc:title>The College, the Market, and the Court / or, Woman's relation to education, labor and law</dc:title>
+        <dc:creator opf:file-as="Dall, Caroline Wells Healey" opf:role="aut">Caroline Wells Healey Dall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Employment</dc:subject>
+        <dc:subject>Women -- Education</dc:subject>
+        <dc:subject>Women -- Legal status</dc:subject>
+        <dc:subject>laws</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Caroline Wells Healey Dall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:23:48.030392+00:00"/>
+        <meta name="calibre:title_sort" content="College, the Market, and the Court / or, Woman's relation to education, labor and law, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

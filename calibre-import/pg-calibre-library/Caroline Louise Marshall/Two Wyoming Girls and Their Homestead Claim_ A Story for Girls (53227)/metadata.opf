@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2bb30ac-ad47-4b05-9b1f-995e09323991</dc:identifier>
+        <dc:title>Two Wyoming Girls and Their Homestead Claim: A Story for Girls</dc:title>
+        <dc:creator opf:file-as="Marshall, Caroline Louise" opf:role="aut">Caroline Louise Marshall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Frontier and pioneer life -- West (U.S.) -- Juvenile fiction</dc:subject>
+        <dc:subject>Homestead law -- West (U.S.) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Caroline Louise Marshall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:32:56.688956+00:00"/>
+        <meta name="calibre:title_sort" content="Two Wyoming Girls and Their Homestead Claim: A Story for Girls"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

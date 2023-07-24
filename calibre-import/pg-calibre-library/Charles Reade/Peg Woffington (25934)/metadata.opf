@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d37fc18-4ef0-47ae-bc93-4513431e5d47</dc:identifier>
+        <dc:title>Peg Woffington</dc:title>
+        <dc:creator opf:file-as="Reade, Charles" opf:role="aut">Charles Reade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3670</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- 18th century -- Fiction</dc:subject>
+        <dc:subject>Actresses -- Fiction</dc:subject>
+        <dc:subject>Woffington</dc:subject>
+        <dc:subject>Margaret</dc:subject>
+        <dc:subject>-1760 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Reade&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:07:58.892121+00:00"/>
+        <meta name="calibre:title_sort" content="Peg Woffington"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

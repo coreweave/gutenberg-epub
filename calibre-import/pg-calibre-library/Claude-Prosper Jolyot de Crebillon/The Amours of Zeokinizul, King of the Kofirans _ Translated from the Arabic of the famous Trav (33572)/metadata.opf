@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34610041-f109-4f9b-a0a2-ce4d9c760b8c</dc:identifier>
+        <dc:title>The Amours of Zeokinizul, King of the Kofirans / Translated from the Arabic of the famous Traveller Krinelbol</dc:title>
+        <dc:creator opf:file-as="Crébillon, Claude-Prosper Jolyot de" opf:role="aut">Claude-Prosper Jolyot de Crébillon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18472</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louis XV</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1710-1774</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Claude-Prosper Jolyot de Crébillon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:04:09.058003+00:00"/>
+        <meta name="calibre:title_sort" content="Amours of Zeokinizul, King of the Kofirans / Translated from the Arabic of the famous Traveller Krinelbol, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

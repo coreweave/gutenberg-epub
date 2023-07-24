@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12421</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3352797-ad25-449a-b22a-0fcd076d83b9</dc:identifier>
+        <dc:title>Famous Indian Chiefs / Their Battles, Treaties, Sieges, and Struggles with the Whites for the Possession of America</dc:title>
+        <dc:creator opf:file-as="Johnston, Charles H. L. (Charles Haven Ladd)" opf:role="aut">Charles H. L. Johnston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47647</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Biography</dc:subject>
+        <dc:subject>Indians of North America -- Kings and rulers -- Biography</dc:subject>
+        <dc:subject>Indians of North America -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles H. L. Johnston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:54:06.517974+00:00"/>
+        <meta name="calibre:title_sort" content="Famous Indian Chiefs / Their Battles, Treaties, Sieges, and Struggles with the Whites for the Possession of America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

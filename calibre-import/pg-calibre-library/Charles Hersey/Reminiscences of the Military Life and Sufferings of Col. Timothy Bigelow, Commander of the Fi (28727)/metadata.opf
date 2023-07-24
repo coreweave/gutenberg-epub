@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">991f7c96-7e86-402f-be2f-edacd5d3965d</dc:identifier>
+        <dc:title>Reminiscences of the Military Life and Sufferings of Col. Timothy Bigelow, Commander of the Fifteenth Regiment of the Massachusetts Line in the Continental Army, during the War of the Revolution</dc:title>
+        <dc:creator opf:file-as="Hersey, Charles" opf:role="aut">Charles Hersey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24634</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>Bigelow</dc:subject>
+        <dc:subject>Timothy</dc:subject>
+        <dc:subject>1739-1790</dc:subject>
+        <dc:subject>United States. Continental Army -- Military life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Hersey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:11:38.278884+00:00"/>
+        <meta name="calibre:title_sort" content="Reminiscences of the Military Life and Sufferings of Col. Timothy Bigelow, Commander of the Fifteenth Regiment of the Massachusetts Line in the Continental Army, during the War of the Revolution"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

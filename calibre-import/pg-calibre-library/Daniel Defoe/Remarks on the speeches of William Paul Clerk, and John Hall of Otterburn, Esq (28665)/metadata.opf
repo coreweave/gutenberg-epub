@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e448f02-7abc-49a4-a4d2-4bafb260fb29</dc:identifier>
+        <dc:title>Remarks on the speeches of William Paul Clerk, and John Hall of Otterburn, Esq</dc:title>
+        <dc:creator opf:file-as="Defoe, Daniel" opf:role="aut">Daniel Defoe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70523</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jacobite Rebellion</dc:subject>
+        <dc:subject>1715</dc:subject>
+        <dc:subject>Paul</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1678-1716 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Hall</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>-1716 -- Trials</dc:subject>
+        <dc:subject>Trials (Treason) -- Great Britain -- Early works to 1800</dc:subject>
+        <dc:subject>Nonjurors</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Defoe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:08:51.362985+00:00"/>
+        <meta name="calibre:title_sort" content="Remarks on the speeches of William Paul Clerk, and John Hall of Otterburn, Esq"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

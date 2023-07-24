@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91440856-1a83-4ffb-87ae-cc54ae8247ac</dc:identifier>
+        <dc:title>Supreme Personality: Fun in Living. A Doubt, Fear, and Worry Cure</dc:title>
+        <dc:creator opf:file-as="Croft, Delmer Eugene" opf:role="aut">Delmer Eugene Croft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13193</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mind and body</dc:subject>
+        <dc:subject>Personality</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Delmer Eugene Croft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:01:42.369271+00:00"/>
+        <meta name="calibre:title_sort" content="Supreme Personality: Fun in Living. A Doubt, Fear, and Worry Cure"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec47b68f-b88b-41ab-992a-90364686ec94</dc:identifier>
+        <dc:title>The British Woodlice / Being a Monograph of the Terrestrial Isopod Crustacea Occurring in the British Islands</dc:title>
+        <dc:creator opf:file-as="Sillem, Charles" opf:role="aut">Charles Sillem</dc:creator>
+        <dc:creator opf:file-as="Sillem, Charles" opf:role="aut">Wilfred Mark Webb</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43928</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crustacea -- Great Britain</dc:subject>
+        <dc:subject>Oniscidae</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Sillem&quot;: &quot;&quot;, &quot;Wilfred Mark Webb&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:34:27.704463+00:00"/>
+        <meta name="calibre:title_sort" content="British Woodlice / Being a Monograph of the Terrestrial Isopod Crustacea Occurring in the British Islands, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

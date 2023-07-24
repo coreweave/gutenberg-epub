@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1200ba6-e2e3-41ef-947d-4f287af80f2b</dc:identifier>
+        <dc:title>The Sayings of Confucius</dc:title>
+        <dc:creator opf:file-as="Confucius" opf:role="aut">Confucius</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24055</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Chinese</dc:subject>
+        <dc:subject>Confucianism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Confucius&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:13:34.769112+00:00"/>
+        <meta name="calibre:title_sort" content="Sayings of Confucius, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

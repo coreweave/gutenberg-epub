@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c1b88ab-48db-4efd-b927-01716ab342b5</dc:identifier>
+        <dc:title>The Little Missis</dc:title>
+        <dc:creator opf:file-as="Skinner, Charlotte" opf:role="aut">Charlotte Skinner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Fiction</dc:subject>
+        <dc:subject>Married women -- Fiction</dc:subject>
+        <dc:subject>Runaway husbands -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte Skinner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:46:06.402009+00:00"/>
+        <meta name="calibre:title_sort" content="Little Missis, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

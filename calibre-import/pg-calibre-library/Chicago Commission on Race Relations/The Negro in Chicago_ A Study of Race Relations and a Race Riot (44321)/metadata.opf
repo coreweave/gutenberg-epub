@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e289f3d6-2526-479c-8854-e26d9e9e8530</dc:identifier>
+        <dc:title>The Negro in Chicago: A Study of Race Relations and a Race Riot</dc:title>
+        <dc:creator opf:file-as="Chicago Commission on Race Relations" opf:role="aut">Chicago Commission on Race Relations</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57343</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Illinois -- Chicago</dc:subject>
+        <dc:subject>Chicago Race Riot</dc:subject>
+        <dc:subject>Chicago</dc:subject>
+        <dc:subject>Ill.</dc:subject>
+        <dc:subject>1919</dc:subject>
+        <dc:subject>Chicago (Ill.) -- History -- 1875-</dc:subject>
+        <dc:subject>Chicago (Ill.) -- Race relations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chicago Commission on Race Relations&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:29:08.376470+00:00"/>
+        <meta name="calibre:title_sort" content="Negro in Chicago: A Study of Race Relations and a Race Riot, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

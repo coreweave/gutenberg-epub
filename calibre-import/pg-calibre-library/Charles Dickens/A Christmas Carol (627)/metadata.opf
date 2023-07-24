@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1521ca18-cfd3-4cf8-82ed-085e254db035</dc:identifier>
+        <dc:title>A Christmas Carol</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19337</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas stories</dc:subject>
+        <dc:subject>London (England) -- Fiction</dc:subject>
+        <dc:subject>Poor families -- Fiction</dc:subject>
+        <dc:subject>Ghost stories</dc:subject>
+        <dc:subject>Misers -- Fiction</dc:subject>
+        <dc:subject>Sick children -- Fiction</dc:subject>
+        <dc:subject>Scrooge</dc:subject>
+        <dc:subject>Ebenezer (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dickens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:35:24.993903+00:00"/>
+        <meta name="calibre:title_sort" content="Christmas Carol, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18e58876-bc0f-46f9-ac34-912f371fbc7b</dc:identifier>
+        <dc:title>The Ruins; Or, Meditation on the Revolutions of Empires and the Law of Nature</dc:title>
+        <dc:creator opf:file-as="Volney, C.-F. (Constantin-François)" opf:role="aut">C.-F. Volney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1397</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Revolutions</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>History -- Philosophy</dc:subject>
+        <dc:subject>Religions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C.-F. Volney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:04:59.248929+00:00"/>
+        <meta name="calibre:title_sort" content="Ruins; Or, Meditation on the Revolutions of Empires and the Law of Nature, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

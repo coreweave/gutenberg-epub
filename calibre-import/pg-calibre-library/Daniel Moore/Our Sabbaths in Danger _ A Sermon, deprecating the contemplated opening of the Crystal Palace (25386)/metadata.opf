@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c566fd1f-22d4-4b8c-a863-7bebfc871208</dc:identifier>
+        <dc:title>Our Sabbaths in Danger / A Sermon, deprecating the contemplated opening of the Crystal Palace on the Lord's-Day</dc:title>
+        <dc:creator opf:file-as="Moore, Daniel" opf:role="aut">Daniel Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62221</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sunday</dc:subject>
+        <dc:subject>Church of England -- Sermons -- 19th century</dc:subject>
+        <dc:subject>Crystal Palace (Sydenham</dc:subject>
+        <dc:subject>London</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>Sunday legislation -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Moore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:44:43.163215+00:00"/>
+        <meta name="calibre:title_sort" content="Our Sabbaths in Danger / A Sermon, deprecating the contemplated opening of the Crystal Palace on the Lord's-Day"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66d4111e-73a3-4b83-b2e6-677405bf7978</dc:identifier>
+        <dc:title>Complete Treatise on the mare and foal at the time of delivery, with illustrations. / Also on cows and calves, with stallion and mare, when diseased by Gonorrhea (clap) or Pox, also Diarrhea and Costiveness in Colts.</dc:title>
+        <dc:creator opf:file-as="Mitchell, Conrad" opf:role="aut">Conrad Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53203</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horses -- Diseases</dc:subject>
+        <dc:subject>Horses -- Breeding</dc:subject>
+        <dc:subject>Veterinary obstetrics</dc:subject>
+        <dc:subject>Veterinary gynecology</dc:subject>
+        <dc:subject>Mares</dc:subject>
+        <dc:subject>Foals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Conrad Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:26:11.628625+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Treatise on the mare and foal at the time of delivery, with illustrations. / Also on cows and calves, with stallion and mare, when diseased by Gonorrhea (clap) or Pox, also Diarrhea and Costiveness in Colts."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

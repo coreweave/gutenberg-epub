@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c190cd1b-e87c-434e-b926-32d909982cf1</dc:identifier>
+        <dc:title>The Colloquies of Erasmus, Volume I.</dc:title>
+        <dc:creator opf:file-as="Erasmus, Desiderius" opf:role="aut">Desiderius Erasmus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14031</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Imaginary conversations</dc:subject>
+        <dc:subject>Dialogues</dc:subject>
+        <dc:subject>Latin (Medieval and modern) -- Translations into English</dc:subject>
+        <dc:subject>Didactic literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Desiderius Erasmus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:23:56.836304+00:00"/>
+        <meta name="calibre:title_sort" content="Colloquies of Erasmus, Volume I., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

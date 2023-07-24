@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8cd955f5-34aa-4667-aa7d-72c94a57677c</dc:identifier>
+        <dc:title>The Women's Victory—and After: Personal Reminiscences, 1911-1918</dc:title>
+        <dc:creator opf:file-as="Fawcett, Millicent Garrett, Dame" opf:role="aut">Dame Millicent Garrett Fawcett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48833</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Suffrage -- Great Britain</dc:subject>
+        <dc:subject>Suffragists -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Fawcett</dc:subject>
+        <dc:subject>Millicent Garrett</dc:subject>
+        <dc:subject>Dame</dc:subject>
+        <dc:subject>1847-1929</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dame Millicent Garrett Fawcett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:36:10.959393+00:00"/>
+        <meta name="calibre:title_sort" content="Women's Victory—and After: Personal Reminiscences, 1911-1918, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

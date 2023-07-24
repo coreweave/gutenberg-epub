@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2909</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cbe52b0-f572-4b7a-818b-81a409d2cc47</dc:identifier>
+        <dc:title>A True Relation of the Apparition of one Mrs. Veal / The Next Day after Her Death, to one Mrs. Bargrave, at Canterbury, the 8th of September, 1705; which Apparition Recommends the Perusal of Drelincourt's Book of Consolations against the Fears of Death</dc:title>
+        <dc:creator opf:file-as="Defoe, Daniel" opf:role="aut">Daniel Defoe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36587</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Veal</dc:subject>
+        <dc:subject>Margaret</dc:subject>
+        <dc:subject>-1705</dc:subject>
+        <dc:subject>Apparitions -- England -- Canterbury -- Case studies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Daniel Defoe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:49.819704+00:00"/>
+        <meta name="calibre:title_sort" content="True Relation of the Apparition of one Mrs. Veal / The Next Day after Her Death, to one Mrs. Bargrave, at Canterbury, the 8th of September, 1705; which Apparition Recommends the Perusal of Drelincourt's Book of Consolations against the Fears of Death, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

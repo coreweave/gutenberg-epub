@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7970ae25-c840-4af2-96bf-dcc667927852</dc:identifier>
+        <dc:title>The Hidden Cabin: a pathetic story in condensed form</dc:title>
+        <dc:creator opf:file-as="Edwards, David W. (David William)" opf:role="aut">David W. Edwards</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66008</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stories in rhyme</dc:subject>
+        <dc:subject>Palomar</dc:subject>
+        <dc:subject>Mount (Calif.) -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David W. Edwards&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:40:05.942640+00:00"/>
+        <meta name="calibre:title_sort" content="Hidden Cabin: a pathetic story in condensed form, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

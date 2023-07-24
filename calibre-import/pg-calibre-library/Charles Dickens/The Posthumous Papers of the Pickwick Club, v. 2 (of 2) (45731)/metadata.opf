@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c428126-118d-4d20-8f31-8e1aff3e0d7c</dc:identifier>
+        <dc:title>The Posthumous Papers of the Pickwick Club, v. 2 (of 2)</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47535</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Men -- Societies and clubs -- Fiction</dc:subject>
+        <dc:subject>Male friendship -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dickens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:49:54.115668+00:00"/>
+        <meta name="calibre:title_sort" content="Posthumous Papers of the Pickwick Club, v. 2 (of 2), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

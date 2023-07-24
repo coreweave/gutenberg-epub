@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94b1d4f3-dd8f-4617-a7d2-bfa5d5757d59</dc:identifier>
+        <dc:title>The Holyhead Road: The Mail-coach Road to Dublin. Vol. 1</dc:title>
+        <dc:creator opf:file-as="Harper, Charles G. (Charles George)" opf:role="aut">Charles G. Harper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58671</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Description and travel</dc:subject>
+        <dc:subject>England -- Social life and customs</dc:subject>
+        <dc:subject>A5 Road (England and Wales)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles G. Harper&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:01:17.562029+00:00"/>
+        <meta name="calibre:title_sort" content="Holyhead Road: The Mail-coach Road to Dublin. Vol. 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

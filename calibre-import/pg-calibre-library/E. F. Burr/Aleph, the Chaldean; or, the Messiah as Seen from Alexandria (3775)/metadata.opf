@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c33730a-cac7-4efd-9a74-32dfd2cae7b2</dc:identifier>
+        <dc:title>Aleph, the Chaldean; or, the Messiah as Seen from Alexandria</dc:title>
+        <dc:creator opf:file-as="Burr, E. F. (Enoch Fitch)" opf:role="aut">E. F. Burr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61041</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Jesus Christ -- Fiction</dc:subject>
+        <dc:subject>Alexandria (Egypt) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. F. Burr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:28:37.322228+00:00"/>
+        <meta name="calibre:title_sort" content="Aleph, the Chaldean; or, the Messiah as Seen from Alexandria"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

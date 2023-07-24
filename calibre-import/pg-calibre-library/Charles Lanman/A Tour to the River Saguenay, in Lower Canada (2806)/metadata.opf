@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6cad9f1-5389-40eb-b8fe-cfa69bc0bd0f</dc:identifier>
+        <dc:title>A Tour to the River Saguenay, in Lower Canada</dc:title>
+        <dc:creator opf:file-as="Lanman, Charles" opf:role="aut">Charles Lanman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48358</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- Description and travel</dc:subject>
+        <dc:subject>New York (State) -- Description and travel</dc:subject>
+        <dc:subject>Maine -- Description and travel</dc:subject>
+        <dc:subject>New England -- Description and travel</dc:subject>
+        <dc:subject>Adirondack Mountains (N.Y.)</dc:subject>
+        <dc:subject>Fishing -- North America</dc:subject>
+        <dc:subject>Québec (Province) -- Description and travel</dc:subject>
+        <dc:subject>Saguenay River Valley (Québec)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Lanman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:10:56.949578+00:00"/>
+        <meta name="calibre:title_sort" content="Tour to the River Saguenay, in Lower Canada, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

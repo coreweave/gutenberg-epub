@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a140b86c-8d8b-4d06-bceb-ba930715fe84</dc:identifier>
+        <dc:title>Pinocchio: The Tale of a Puppet</dc:title>
+        <dc:creator opf:file-as="Collodi, Carlo" opf:role="aut">Carlo Collodi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Puppets -- Juvenile fiction</dc:subject>
+        <dc:subject>Pinocchio (Fictitious character) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Carlo Collodi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:29:57.520089+00:00"/>
+        <meta name="calibre:title_sort" content="Pinocchio: The Tale of a Puppet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

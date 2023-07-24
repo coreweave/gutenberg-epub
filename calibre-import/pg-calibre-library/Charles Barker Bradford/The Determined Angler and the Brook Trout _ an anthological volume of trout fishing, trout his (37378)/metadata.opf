@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff2a00e4-3aab-45a4-8da8-1e40060411aa</dc:identifier>
+        <dc:title>The Determined Angler and the Brook Trout / an anthological volume of trout fishing, trout histories, trout lore, trout resorts, and trout tackle</dc:title>
+        <dc:creator opf:file-as="Bradford, Charles Barker" opf:role="aut">Charles Barker Bradford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37856</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trout</dc:subject>
+        <dc:subject>Trout fishing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Barker Bradford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:14:29.051014+00:00"/>
+        <meta name="calibre:title_sort" content="Determined Angler and the Brook Trout / an anthological volume of trout fishing, trout histories, trout lore, trout resorts, and trout tackle, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

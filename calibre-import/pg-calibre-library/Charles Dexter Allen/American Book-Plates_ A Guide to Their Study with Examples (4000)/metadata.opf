@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4000</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76787041-ebcf-4076-bb86-180e8c46c939</dc:identifier>
+        <dc:title>American Book-Plates: A Guide to Their Study with Examples</dc:title>
+        <dc:creator opf:file-as="Allen, Charles Dexter" opf:role="aut">Charles Dexter Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47682</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bookplates</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Bookplates -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dexter Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:32:49.564363+00:00"/>
+        <meta name="calibre:title_sort" content="American Book-Plates: A Guide to Their Study with Examples"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

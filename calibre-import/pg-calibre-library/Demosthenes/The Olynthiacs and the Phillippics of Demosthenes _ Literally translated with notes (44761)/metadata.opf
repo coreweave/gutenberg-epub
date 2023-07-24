@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6f81325-183a-4076-8e91-c67854e2b6c4</dc:identifier>
+        <dc:title>The Olynthiacs and the Phillippics of Demosthenes / Literally translated with notes</dc:title>
+        <dc:creator opf:file-as="Demosthenes" opf:role="aut">Demosthenes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6878</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Athens (Greece) -- Politics and government -- Early works to 1800</dc:subject>
+        <dc:subject>Demosthenes -- Translations into English</dc:subject>
+        <dc:subject>Speeches</dc:subject>
+        <dc:subject>addresses</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Greek -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Demosthenes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:53:57.686495+00:00"/>
+        <meta name="calibre:title_sort" content="Olynthiacs and the Phillippics of Demosthenes / Literally translated with notes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9628f54a-ab4f-44a0-9ac5-0041e189ed4d</dc:identifier>
+        <dc:title>Charles Gounod / Autobiographical Reminiscences with Family Letters and Notes on Music</dc:title>
+        <dc:creator opf:file-as="Gounod, Charles" opf:role="aut">Charles Gounod</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35812</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Composers -- France -- Biography</dc:subject>
+        <dc:subject>Gounod</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1818-1893</dc:subject>
+        <dc:subject>Berlioz</dc:subject>
+        <dc:subject>Hector</dc:subject>
+        <dc:subject>1803-1869</dc:subject>
+        <dc:subject>Saint-Saëns</dc:subject>
+        <dc:subject>Camille</dc:subject>
+        <dc:subject>1835-1921. Henry VIII</dc:subject>
+        <dc:subject>Accademia di Francia (Rome</dc:subject>
+        <dc:subject>Italy)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Gounod&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:04:29.632958+00:00"/>
+        <meta name="calibre:title_sort" content="Charles Gounod / Autobiographical Reminiscences with Family Letters and Notes on Music"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

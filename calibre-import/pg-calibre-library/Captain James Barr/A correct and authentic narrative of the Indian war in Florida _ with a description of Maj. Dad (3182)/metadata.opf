@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d16f2694-853c-4836-a9b8-eb6a095a7ac2</dc:identifier>
+        <dc:title>A correct and authentic narrative of the Indian war in Florida / with a description of Maj. Dade's massacre, and an account of the extreme suffering, for want of provision, of the army—having been obliged to eat horses' and dogs' flesh, &amp;c, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Barr, James, Captain" opf:role="aut">Captain James Barr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49814</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Seminole War</dc:subject>
+        <dc:subject>2nd</dc:subject>
+        <dc:subject>1835-1842</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Captain James Barr&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:17:46.957840+00:00"/>
+        <meta name="calibre:title_sort" content="correct and authentic narrative of the Indian war in Florida / with a description of Maj. Dade's massacre, and an account of the extreme suffering, for want of provision, of the army—having been obliged to eat horses' and dogs' flesh, &amp;c, &amp;c., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

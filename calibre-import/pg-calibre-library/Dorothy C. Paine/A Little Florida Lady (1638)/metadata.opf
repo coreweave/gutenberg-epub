@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7323d6fa-ca85-4ba6-833f-344dd8554fba</dc:identifier>
+        <dc:title>A Little Florida Lady</dc:title>
+        <dc:creator opf:file-as="Paine, Dorothy C. (Dorothy Charlotte)" opf:role="aut">Dorothy C. Paine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17165</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Florida -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dorothy C. Paine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:51:13.965640+00:00"/>
+        <meta name="calibre:title_sort" content="Little Florida Lady, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

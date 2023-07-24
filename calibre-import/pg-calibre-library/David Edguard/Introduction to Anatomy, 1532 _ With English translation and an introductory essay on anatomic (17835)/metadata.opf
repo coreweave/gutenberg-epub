@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56a7e700-5c00-4277-bc39-4efdb7811435</dc:identifier>
+        <dc:title>Introduction to Anatomy, 1532 / With English translation and an introductory essay on anatomical studies in Tudor England by C.D. O'Malley and K.F. Russell.</dc:title>
+        <dc:creator opf:file-as="Edguard, David" opf:role="aut">David Edguard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59357</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>lat</dc:language>
+        <dc:subject>Human anatomy -- Early works to 1800</dc:subject>
+        <dc:subject>Anatomy -- Study and teaching -- England -- History -- 16th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Edguard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:47:07.716283+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Anatomy, 1532 / With English translation and an introductory essay on anatomical studies in Tudor England by C.D. O'Malley and K.F. Russell."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

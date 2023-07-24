@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a15a45e-1a35-4357-b22d-b61a882c0cdb</dc:identifier>
+        <dc:title>Some Eminent Women of Our Times: Short Biographical Sketches</dc:title>
+        <dc:creator opf:file-as="Fawcett, Millicent Garrett, Dame" opf:role="aut">Dame Millicent Garrett Fawcett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49765</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Biography</dc:subject>
+        <dc:subject>Women -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dame Millicent Garrett Fawcett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:05:05.148680+00:00"/>
+        <meta name="calibre:title_sort" content="Some Eminent Women of Our Times: Short Biographical Sketches"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

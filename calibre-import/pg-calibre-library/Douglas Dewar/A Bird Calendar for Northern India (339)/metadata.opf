@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">339</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9b61f24-ae04-4569-9602-5fc7403f9758</dc:identifier>
+        <dc:title>A Bird Calendar for Northern India</dc:title>
+        <dc:creator opf:file-as="Dewar, Douglas" opf:role="aut">Douglas Dewar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18237</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Douglas Dewar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:31:04.114631+00:00"/>
+        <meta name="calibre:title_sort" content="Bird Calendar for Northern India, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

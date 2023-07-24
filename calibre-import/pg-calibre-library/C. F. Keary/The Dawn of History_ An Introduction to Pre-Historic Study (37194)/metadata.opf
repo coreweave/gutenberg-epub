@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68013e40-78a0-4555-a9e8-edf9facc2e53</dc:identifier>
+        <dc:title>The Dawn of History: An Introduction to Pre-Historic Study</dc:title>
+        <dc:creator opf:file-as="Keary, C. F. (Charles Francis)" opf:role="aut">C. F. Keary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52030</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Archaeology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. F. Keary&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:04:59.999588+00:00"/>
+        <meta name="calibre:title_sort" content="Dawn of History: An Introduction to Pre-Historic Study, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

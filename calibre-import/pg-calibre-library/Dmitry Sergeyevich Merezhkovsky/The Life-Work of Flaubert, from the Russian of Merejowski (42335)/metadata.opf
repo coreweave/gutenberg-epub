@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa5d9917-9ff7-450f-8e80-42a894aa6e38</dc:identifier>
+        <dc:title>The Life-Work of Flaubert, from the Russian of Merejowski</dc:title>
+        <dc:creator opf:file-as="Merezhkovsky, Dmitry Sergeyevich" opf:role="aut">Dmitry Sergeyevich Merezhkovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33933</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Flaubert</dc:subject>
+        <dc:subject>Gustave</dc:subject>
+        <dc:subject>1821-1880</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dmitry Sergeyevich Merezhkovsky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:38:11.646686+00:00"/>
+        <meta name="calibre:title_sort" content="Life-Work of Flaubert, from the Russian of Merejowski, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

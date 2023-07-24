@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd74c16c-e6b2-4144-a8ae-c60d8980fdeb</dc:identifier>
+        <dc:title>Poems in Prose</dc:title>
+        <dc:creator opf:file-as="Baudelaire, Charles" opf:role="aut">Charles Baudelaire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50489</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>French literature -- Translations into English</dc:subject>
+        <dc:subject>Baudelaire</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1821-1867 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Baudelaire&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:39:37.521842+00:00"/>
+        <meta name="calibre:title_sort" content="Poems in Prose"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

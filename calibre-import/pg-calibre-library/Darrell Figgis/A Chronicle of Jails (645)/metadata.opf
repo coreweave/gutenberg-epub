@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71f9ec16-83c2-4f3f-ab83-037c0a651e37</dc:identifier>
+        <dc:title>A Chronicle of Jails</dc:title>
+        <dc:creator opf:file-as="Figgis, Darrell" opf:role="aut">Darrell Figgis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57095</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- History -- Easter Rising</dc:subject>
+        <dc:subject>1916 -- Personal narratives</dc:subject>
+        <dc:subject>Figgis</dc:subject>
+        <dc:subject>Darrell</dc:subject>
+        <dc:subject>1882-1925 -- Imprisonment</dc:subject>
+        <dc:subject>County Gaol &amp; House of Correction (Reading</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>Political prisoners -- Ireland -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Darrell Figgis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:35:41.459313+00:00"/>
+        <meta name="calibre:title_sort" content="Chronicle of Jails, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

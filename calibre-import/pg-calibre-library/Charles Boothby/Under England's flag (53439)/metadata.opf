@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba3a6a43-64e3-45f3-a2ce-69b4d23a634d</dc:identifier>
+        <dc:title>Under England's flag</dc:title>
+        <dc:creator opf:file-as="Boothby, Charles" opf:role="aut">Charles Boothby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70149</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain. Army. Royal Engineers</dc:subject>
+        <dc:subject>Boothby</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1786-1846</dc:subject>
+        <dc:subject>1786-1846 -- Correspondence</dc:subject>
+        <dc:subject>1786-1846 -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Boothby&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:46:30.491405+00:00"/>
+        <meta name="calibre:title_sort" content="Under England's flag"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

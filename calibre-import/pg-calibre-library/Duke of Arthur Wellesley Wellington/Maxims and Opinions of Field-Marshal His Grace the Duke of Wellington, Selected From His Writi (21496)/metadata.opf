@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a383f58-a7bb-4880-9a62-78f341957f76</dc:identifier>
+        <dc:title>Maxims and Opinions of Field-Marshal His Grace the Duke of Wellington, Selected From His Writings and Speeches During a Public Life of More Than Half a Century</dc:title>
+        <dc:creator opf:file-as="Wellington, Arthur Wellesley, Duke of" opf:role="aut">Duke of Arthur Wellesley Wellington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- Politics and government -- 19th century</dc:subject>
+        <dc:subject>Wellington</dc:subject>
+        <dc:subject>Arthur Wellesley</dc:subject>
+        <dc:subject>Duke of</dc:subject>
+        <dc:subject>1769-1852</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Duke of Arthur Wellesley Wellington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:01:42.475696+00:00"/>
+        <meta name="calibre:title_sort" content="Maxims and Opinions of Field-Marshal His Grace the Duke of Wellington, Selected From His Writings and Speeches During a Public Life of More Than Half a Century"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

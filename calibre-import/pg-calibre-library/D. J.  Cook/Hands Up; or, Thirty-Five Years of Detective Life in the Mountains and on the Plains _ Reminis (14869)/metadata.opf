@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29d8abe7-7353-4e77-bc45-a94a04825113</dc:identifier>
+        <dc:title>Hands Up; or, Thirty-Five Years of Detective Life in the Mountains and on the Plains / Reminiscences by General D. J. Cook, Chief of the Rocky Mountains Detective Association</dc:title>
+        <dc:creator opf:file-as="Cook, D. J.‏ ‎(David J.)" opf:role="aut">D. J.‏ ‎ Cook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43379</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cook</dc:subject>
+        <dc:subject>D. J. (David J.) 1840-1907</dc:subject>
+        <dc:subject>Crime -- West (U.S.) -- History</dc:subject>
+        <dc:subject>Criminals -- West (U.S.) -- History</dc:subject>
+        <dc:subject>Denver (Colo.) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. J.‏ ‎ Cook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:08:16.112239+00:00"/>
+        <meta name="calibre:title_sort" content="Hands Up; or, Thirty-Five Years of Detective Life in the Mountains and on the Plains / Reminiscences by General D. J. Cook, Chief of the Rocky Mountains Detective Association"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

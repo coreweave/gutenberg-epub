@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adf64b49-baf3-47a0-8d40-f13c9d400727</dc:identifier>
+        <dc:title>The Backwoods of Canada / Being Letters from the Wife of an Emigrant Officer, Illustrative of the Domestic Economy of British America</dc:title>
+        <dc:creator opf:file-as="Traill, Catharine Parr Strickland" opf:role="aut">Catharine Parr Strickland Traill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13559</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ontario -- Description and travel</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Ontario</dc:subject>
+        <dc:subject>Canada -- Description and travel</dc:subject>
+        <dc:subject>Traill</dc:subject>
+        <dc:subject>Catharine Parr Strickland</dc:subject>
+        <dc:subject>1802-1899 -- Correspondence</dc:subject>
+        <dc:subject>Women pioneers -- Ontario -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Catharine Parr Strickland Traill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:31:50.901155+00:00"/>
+        <meta name="calibre:title_sort" content="Backwoods of Canada / Being Letters from the Wife of an Emigrant Officer, Illustrative of the Domestic Economy of British America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

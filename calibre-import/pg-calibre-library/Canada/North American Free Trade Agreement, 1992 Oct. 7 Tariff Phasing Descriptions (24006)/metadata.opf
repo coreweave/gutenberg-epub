@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24006</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3878651-c85d-435b-a025-98a214e52739</dc:identifier>
+        <dc:title>North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions</dc:title>
+        <dc:creator opf:file-as="Canada" opf:role="aut">Canada</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/89</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada. Treaties</dc:subject>
+        <dc:subject>etc. 1992 Oct. 7</dc:subject>
+        <dc:subject>Tariff -- Law and legislation -- North America</dc:subject>
+        <dc:subject>Free trade -- North America</dc:subject>
+        <dc:subject>Foreign trade regulation -- North America</dc:subject>
+        <dc:subject>Free trade -- United States</dc:subject>
+        <dc:subject>Free trade -- Canada</dc:subject>
+        <dc:subject>Free trade -- Mexico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Canada&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:46:24.632908+00:00"/>
+        <meta name="calibre:title_sort" content="North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

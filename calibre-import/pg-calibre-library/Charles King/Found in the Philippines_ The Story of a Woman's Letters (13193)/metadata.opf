@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dccd7b72-6bbe-454a-9eec-bccfd4de7469</dc:identifier>
+        <dc:title>Found in the Philippines: The Story of a Woman's Letters</dc:title>
+        <dc:creator opf:file-as="King, Charles" opf:role="aut">Charles King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25884</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philippines -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:16:27.186661+00:00"/>
+        <meta name="calibre:title_sort" content="Found in the Philippines: The Story of a Woman's Letters"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

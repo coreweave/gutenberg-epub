@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3a6f1f3-0dcc-422a-9f4b-dc36f3728b50</dc:identifier>
+        <dc:title>Mark Tidd, Manufacturer</dc:title>
+        <dc:creator opf:file-as="Kelland, Clarence Budington" opf:role="aut">Clarence Budington Kelland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57229</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Boys -- Juvenile fiction</dc:subject>
+        <dc:subject>Michigan -- Juvenile fiction</dc:subject>
+        <dc:subject>Sawmills -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clarence Budington Kelland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:50:53.280453+00:00"/>
+        <meta name="calibre:title_sort" content="Mark Tidd, Manufacturer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

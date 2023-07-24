@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb347d0b-d962-4810-8300-1720b81d0715</dc:identifier>
+        <dc:title>Indians of the Mesa Verde</dc:title>
+        <dc:creator opf:file-as="Watson, Don" opf:role="aut">Don Watson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57288</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mesa Verde National Park (Colo.)</dc:subject>
+        <dc:subject>Indians of North America -- Colorado</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Don Watson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:42:04.326015+00:00"/>
+        <meta name="calibre:title_sort" content="Indians of the Mesa Verde"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59a3002d-7e5a-497d-a56e-1674d4e94cf2</dc:identifier>
+        <dc:title>Heartsease; Or, The Brother's Wife</dc:title>
+        <dc:creator opf:file-as="Yonge, Charlotte M. (Charlotte Mary)" opf:role="aut">Charlotte M. Yonge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2601</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>English fiction -- 19th century</dc:subject>
+        <dc:subject>Marriage -- Fiction</dc:subject>
+        <dc:subject>Family -- England -- Fiction</dc:subject>
+        <dc:subject>Upper class -- England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte M. Yonge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:25:48.513818+00:00"/>
+        <meta name="calibre:title_sort" content="Heartsease; Or, The Brother's Wife"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0c210d8-7955-49dc-bf1d-bbbf4f68520b</dc:identifier>
+        <dc:title>The Punster's Pocket-book / or, the Art of Punning Enlarged by Bernard Blackmantle, illustrated with numerous original designs by Robert Cruikshank</dc:title>
+        <dc:creator opf:file-as="Westmacott, C. M. (Charles Molloy)" opf:role="aut">C. M. Westmacott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40266</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Puns and punning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. M. Westmacott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:11:34.165997+00:00"/>
+        <meta name="calibre:title_sort" content="Punster's Pocket-book / or, the Art of Punning Enlarged by Bernard Blackmantle, illustrated with numerous original designs by Robert Cruikshank, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

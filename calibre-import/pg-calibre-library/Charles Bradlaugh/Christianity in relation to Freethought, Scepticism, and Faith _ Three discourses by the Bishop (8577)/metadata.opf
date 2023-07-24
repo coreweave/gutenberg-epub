@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f367a18f-ec7a-47d4-9efc-5e2f5d9b2c97</dc:identifier>
+        <dc:title>Christianity in relation to Freethought, Scepticism, and Faith / Three discourses by the Bishop of Peterborough with special replies by Mr. C. Bradlaugh</dc:title>
+        <dc:creator opf:file-as="Bradlaugh, Charles" opf:role="aut">Charles Bradlaugh</dc:creator>
+        <dc:creator opf:file-as="Bradlaugh, Charles" opf:role="aut">William Connor Magee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64503</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Apologetics</dc:subject>
+        <dc:subject>Free thought</dc:subject>
+        <dc:subject>Christianity -- Controversial literature</dc:subject>
+        <dc:subject>Skepticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Bradlaugh&quot;: &quot;&quot;, &quot;William Connor Magee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:12:12.095825+00:00"/>
+        <meta name="calibre:title_sort" content="Christianity in relation to Freethought, Scepticism, and Faith / Three discourses by the Bishop of Peterborough with special replies by Mr. C. Bradlaugh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

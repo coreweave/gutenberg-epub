@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c1744a0-1718-4e91-b8f8-bde8b8963536</dc:identifier>
+        <dc:title>Homer's Odyssey / A Commentary</dc:title>
+        <dc:creator opf:file-as="Snider, Denton Jaques" opf:role="aut">Denton Jaques Snider</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26275</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Homer. Odyssey</dc:subject>
+        <dc:subject>Epic poetry</dc:subject>
+        <dc:subject>Greek -- History and criticism</dc:subject>
+        <dc:subject>Odysseus</dc:subject>
+        <dc:subject>King of Ithaca (Mythological character) -- In literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Denton Jaques Snider&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:59:49.940425+00:00"/>
+        <meta name="calibre:title_sort" content="Homer's Odyssey / A Commentary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

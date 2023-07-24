@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05d41563-f776-4cfd-b835-1f77cacec7a2</dc:identifier>
+        <dc:title>Morphological Variation in a Population of the Snake, Tantilla gracilis Baird and Girard</dc:title>
+        <dc:creator opf:file-as="Cole, Charles J." opf:role="aut">Charles J. Cole</dc:creator>
+        <dc:creator opf:file-as="Cole, Charles J." opf:role="aut">Laurence M. Hardy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34127</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Flat-headed snake</dc:subject>
+        <dc:subject>Snakes -- Anatomy</dc:subject>
+        <dc:subject>Reptiles -- Variation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles J. Cole&quot;: &quot;&quot;, &quot;Laurence M. Hardy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:49:09.404014+00:00"/>
+        <meta name="calibre:title_sort" content="Morphological Variation in a Population of the Snake, Tantilla gracilis Baird and Girard"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

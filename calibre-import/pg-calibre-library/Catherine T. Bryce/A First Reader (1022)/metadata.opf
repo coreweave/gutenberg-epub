@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40f77187-e838-4dbb-a4e3-38a0d3a5d4e1</dc:identifier>
+        <dc:title>A First Reader</dc:title>
+        <dc:creator opf:file-as="Bryce, Catherine T. (Catherine Turner)" opf:role="aut">Catherine T. Bryce</dc:creator>
+        <dc:creator opf:file-as="Bryce, Catherine T. (Catherine Turner)" opf:role="aut">Frank E. Spaulding</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65323</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Readers (Elementary)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Catherine T. Bryce&quot;: &quot;&quot;, &quot;Frank E. Spaulding&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:41:22.586767+00:00"/>
+        <meta name="calibre:title_sort" content="First Reader, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

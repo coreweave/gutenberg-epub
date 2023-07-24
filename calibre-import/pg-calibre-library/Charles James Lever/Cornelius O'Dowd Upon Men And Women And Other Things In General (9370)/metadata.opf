@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2d7dfb8-b029-4b99-a322-cd2a0df52660</dc:identifier>
+        <dc:title>Cornelius O'Dowd Upon Men And Women And Other Things In General</dc:title>
+        <dc:creator opf:file-as="Lever, Charles James" opf:role="aut">Charles James Lever</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Italy -- Description and travel</dc:subject>
+        <dc:subject>Biography -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles James Lever&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:31:57.651915+00:00"/>
+        <meta name="calibre:title_sort" content="Cornelius O'Dowd Upon Men And Women And Other Things In General"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

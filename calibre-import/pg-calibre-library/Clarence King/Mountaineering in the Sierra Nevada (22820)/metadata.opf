@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33e5f260-f2da-4c91-b81e-d756898946d5</dc:identifier>
+        <dc:title>Mountaineering in the Sierra Nevada</dc:title>
+        <dc:creator opf:file-as="King, Clarence" opf:role="aut">Clarence King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54046</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sierra Nevada (Calif. and Nev.) -- Description and travel</dc:subject>
+        <dc:subject>King</dc:subject>
+        <dc:subject>Clarence</dc:subject>
+        <dc:subject>1842-1901 -- Travel -- Sierra Nevada (Calif. and Nev.)</dc:subject>
+        <dc:subject>Mountaineering -- Sierra Nevada (Calif. and Nev.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clarence King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:55:38.416699+00:00"/>
+        <meta name="calibre:title_sort" content="Mountaineering in the Sierra Nevada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

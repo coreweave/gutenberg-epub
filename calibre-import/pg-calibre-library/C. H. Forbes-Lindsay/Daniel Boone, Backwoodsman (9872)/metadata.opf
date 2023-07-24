@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9872</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">053fc217-bf1a-4d33-a20d-2116dd85a99a</dc:identifier>
+        <dc:title>Daniel Boone, Backwoodsman</dc:title>
+        <dc:creator opf:file-as="Forbes-Lindsay, C. H." opf:role="aut">C. H. Forbes-Lindsay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55249</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boone</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1734-1820 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;C. H. Forbes-Lindsay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:44:48.670106+00:00"/>
+        <meta name="calibre:title_sort" content="Daniel Boone, Backwoodsman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

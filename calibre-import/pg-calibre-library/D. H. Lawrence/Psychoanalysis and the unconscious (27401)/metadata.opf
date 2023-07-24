@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a1fc841-5b51-4401-910c-c31f5fe3cd6f</dc:identifier>
+        <dc:title>Psychoanalysis and the unconscious</dc:title>
+        <dc:creator opf:file-as="Lawrence, D. H. (David Herbert)" opf:role="aut">D. H. Lawrence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychoanalysis</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. H. Lawrence&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:12:08.074188+00:00"/>
+        <meta name="calibre:title_sort" content="Psychoanalysis and the unconscious"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20905</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fd33003-4176-49b1-a02d-b33fda93d7c4</dc:identifier>
+        <dc:title>Mail Carrying Railways Underpaid</dc:title>
+        <dc:creator opf:file-as="Committee on Railway Mail Pay" opf:role="aut">Committee on Railway Mail Pay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52244</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railway mail service -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Committee on Railway Mail Pay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:38:41.332863+00:00"/>
+        <meta name="calibre:title_sort" content="Mail Carrying Railways Underpaid"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

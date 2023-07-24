@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39852</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">010ee910-e8b0-4818-bb45-bda9d0885d65</dc:identifier>
+        <dc:title>The Grimké Sisters / Sarah and Angelina Grimké: the First American Women Advocates of / Abolition and Woman's Rights</dc:title>
+        <dc:creator opf:file-as="Birney, Catherine H." opf:role="aut">Catherine H. Birney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12044</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Grimké</dc:subject>
+        <dc:subject>Sarah Moore</dc:subject>
+        <dc:subject>1792-1873</dc:subject>
+        <dc:subject>Angelina Emily</dc:subject>
+        <dc:subject>1805-1879</dc:subject>
+        <dc:subject>Women's rights -- United States -- History -- 19th century</dc:subject>
+        <dc:subject>Women abolitionists -- South Carolina -- Biography</dc:subject>
+        <dc:subject>Feminists -- South Carolina -- Biography</dc:subject>
+        <dc:subject>Sisters -- South Carolina -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Catherine H. Birney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:23:01.483701+00:00"/>
+        <meta name="calibre:title_sort" content="Grimké Sisters / Sarah and Angelina Grimké: the First American Women Advocates of / Abolition and Woman's Rights, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41933575-ee19-4f75-89d7-b261c1d8a547</dc:identifier>
+        <dc:title>The Little Duke: Richard the Fearless</dc:title>
+        <dc:creator opf:file-as="Yonge, Charlotte M. (Charlotte Mary)" opf:role="aut">Charlotte M. Yonge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3048</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Richard I</dc:subject>
+        <dc:subject>Duke of Normandy</dc:subject>
+        <dc:subject>approximately 932-996 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charlotte M. Yonge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:44:13.923957+00:00"/>
+        <meta name="calibre:title_sort" content="Little Duke: Richard the Fearless, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

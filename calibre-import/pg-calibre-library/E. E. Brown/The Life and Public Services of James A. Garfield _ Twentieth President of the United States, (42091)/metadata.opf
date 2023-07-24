@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42091</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9f8b427-cd99-435c-bf0e-50131b7c472b</dc:identifier>
+        <dc:title>The Life and Public Services of James A. Garfield / Twentieth President of the United States, Including Full and Accurate Details of His Eventful Administration, Assassination, Last Hours, Death, Etc., Together with Notable Extracts from His Speeches and Letters</dc:title>
+        <dc:creator opf:file-as="Brown, E. E. (Emma Elizabeth)" opf:role="aut">E. E. Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <dc:subject>Garfield</dc:subject>
+        <dc:subject>James A. (James Abram)</dc:subject>
+        <dc:subject>1831-1881</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. E. Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:24:33.618247+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Public Services of James A. Garfield / Twentieth President of the United States, Including Full and Accurate Details of His Eventful Administration, Assassination, Last Hours, Death, Etc., Together with Notable Extracts from His Speeches and Letters, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

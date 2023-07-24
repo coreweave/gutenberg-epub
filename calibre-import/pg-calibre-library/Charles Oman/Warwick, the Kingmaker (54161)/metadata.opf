@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd3558f1-4afe-40c5-8808-f24518033e69</dc:identifier>
+        <dc:title>Warwick, the Kingmaker</dc:title>
+        <dc:creator opf:file-as="Oman, Charles" opf:role="aut">Charles Oman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57164</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nobility -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Warwick</dc:subject>
+        <dc:subject>Richard Neville</dc:subject>
+        <dc:subject>Earl of</dc:subject>
+        <dc:subject>1428-1471</dc:subject>
+        <dc:subject>Great Britain -- History -- Wars of the Roses</dc:subject>
+        <dc:subject>1455-1485 -- Biography</dc:subject>
+        <dc:subject>Great Britain -- Politics and government -- 1399-1485</dc:subject>
+        <dc:subject>Great Britain -- Kings and rulers -- Succession</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Oman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:33:15.325087+00:00"/>
+        <meta name="calibre:title_sort" content="Warwick, the Kingmaker"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

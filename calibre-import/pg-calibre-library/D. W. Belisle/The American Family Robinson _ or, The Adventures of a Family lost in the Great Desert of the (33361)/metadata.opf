@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74cc52d0-1dab-42ce-a05b-e86356438af1</dc:identifier>
+        <dc:title>The American Family Robinson / or, The Adventures of a Family lost in the Great Desert of the West</dc:title>
+        <dc:creator opf:file-as="Belisle, D. W. (David W.)" opf:role="aut">D. W. Belisle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24621</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>West (U.S)</dc:subject>
+        <dc:subject>Travelers -- Fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Fiction</dc:subject>
+        <dc:subject>Indians of North America -- Juvenile fiction</dc:subject>
+        <dc:subject>Natural history -- Juvenile fiction</dc:subject>
+        <dc:subject>Rocky Mountains -- Juvenile fiction</dc:subject>
+        <dc:subject>Deserts -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. W. Belisle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:53:53.893664+00:00"/>
+        <meta name="calibre:title_sort" content="American Family Robinson / or, The Adventures of a Family lost in the Great Desert of the West, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

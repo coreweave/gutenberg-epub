@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23b51fcd-baf2-4ff6-841b-0055dd826ec7</dc:identifier>
+        <dc:title>Fifty Years in Chains; or, the Life of an American Slave</dc:title>
+        <dc:creator opf:file-as="Ball, Charles" opf:role="aut">Charles Ball</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40760</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Biography</dc:subject>
+        <dc:subject>Slaves -- United States -- Biography</dc:subject>
+        <dc:subject>Ball</dc:subject>
+        <dc:subject>Charles</dc:subject>
+        <dc:subject>1781?-</dc:subject>
+        <dc:subject>Slavery -- Maryland -- History</dc:subject>
+        <dc:subject>Slavery -- South Carolina -- History</dc:subject>
+        <dc:subject>Slavery -- Georgia -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Ball&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:00:48.167423+00:00"/>
+        <meta name="calibre:title_sort" content="Fifty Years in Chains; or, the Life of an American Slave"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

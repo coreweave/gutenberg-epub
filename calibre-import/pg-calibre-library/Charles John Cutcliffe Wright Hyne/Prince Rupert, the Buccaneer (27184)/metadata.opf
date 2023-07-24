@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2ab6bcc-2f15-4e94-9f4a-57be8dca5e80</dc:identifier>
+        <dc:title>Prince Rupert, the Buccaneer</dc:title>
+        <dc:creator opf:file-as="Hyne, Charles John Cutcliffe Wright" opf:role="aut">Charles John Cutcliffe Wright Hyne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57039</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Biographical fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Passing (Identity) -- Fiction</dc:subject>
+        <dc:subject>Buccaneers -- Fiction</dc:subject>
+        <dc:subject>Rupert</dc:subject>
+        <dc:subject>Prince</dc:subject>
+        <dc:subject>Count Palatine</dc:subject>
+        <dc:subject>1619-1682 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles John Cutcliffe Wright Hyne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:02:45.848895+00:00"/>
+        <meta name="calibre:title_sort" content="Prince Rupert, the Buccaneer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

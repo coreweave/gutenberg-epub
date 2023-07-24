@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f055637-f8a9-49e2-b59b-897f2c7fe727</dc:identifier>
+        <dc:title>The Waterloo Roll Call / With Biographical Notes and Anecdotes</dc:title>
+        <dc:creator opf:file-as="Dalton, Charles" opf:role="aut">Charles Dalton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51143</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Waterloo</dc:subject>
+        <dc:subject>Battle of</dc:subject>
+        <dc:subject>Belgium</dc:subject>
+        <dc:subject>1815</dc:subject>
+        <dc:subject>Great Britain. Army -- Registers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Dalton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:10:38.864954+00:00"/>
+        <meta name="calibre:title_sort" content="Waterloo Roll Call / With Biographical Notes and Anecdotes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89a62055-0dd8-4a83-bbf4-0088f6605407</dc:identifier>
+        <dc:title>International Conference Held at Washington for the Purpose of Fixing a Prime Meridian and a Universal Day. October, 1884. / Protocols of the Proceedings</dc:title>
+        <dc:creator opf:file-as="International Meridian Conference (1884 : Washington, D.C.)" opf:role="aut">D.C.) International Meridian Conference (1884 : Washington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Time -- Systems and standards -- Congresses</dc:subject>
+        <dc:subject>Prime Meridian -- Congresses</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D.C.) International Meridian Conference (1884 : Washington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:45:36.336220+00:00"/>
+        <meta name="calibre:title_sort" content="International Conference Held at Washington for the Purpose of Fixing a Prime Meridian and a Universal Day. October, 1884. / Protocols of the Proceedings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

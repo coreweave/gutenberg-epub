@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c66e993e-13a4-4c23-baa6-98037b12f783</dc:identifier>
+        <dc:title>Presidential Candidates: / Containing Sketches, Biographical, Personal and Political, of Prominent Candidates for the Presidency in 1860</dc:title>
+        <dc:creator opf:file-as="Bartlett, D. W. (David W.)" opf:role="aut">D. W. Bartlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35400</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Statesmen -- United States</dc:subject>
+        <dc:subject>United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;D. W. Bartlett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:00:10.733021+00:00"/>
+        <meta name="calibre:title_sort" content="Presidential Candidates: / Containing Sketches, Biographical, Personal and Political, of Prominent Candidates for the Presidency in 1860"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

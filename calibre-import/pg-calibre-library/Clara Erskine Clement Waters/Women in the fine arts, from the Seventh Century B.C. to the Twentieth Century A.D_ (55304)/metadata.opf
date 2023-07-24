@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcebedd6-3bce-40ef-b171-85c4a84bb7e9</dc:identifier>
+        <dc:title>Women in the fine arts, from the Seventh Century B.C. to the Twentieth Century A.D.</dc:title>
+        <dc:creator opf:file-as="Waters, Clara Erskine Clement" opf:role="aut">Clara Erskine Clement Waters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12045</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women artists -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Clara Erskine Clement Waters&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:48:44.411362+00:00"/>
+        <meta name="calibre:title_sort" content="Women in the fine arts, from the Seventh Century B.C. to the Twentieth Century A.D."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

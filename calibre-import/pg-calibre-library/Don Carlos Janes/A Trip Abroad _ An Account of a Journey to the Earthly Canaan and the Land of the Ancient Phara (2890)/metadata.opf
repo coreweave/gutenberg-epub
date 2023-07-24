@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c475423e-467d-4aed-b888-3302d2af50ff</dc:identifier>
+        <dc:title>A Trip Abroad / An Account of a Journey to the Earthly Canaan and the Land of the Ancient Pharaohs; To Which Are Appended a Brief Consideration of the Geography and History of Palestine, and a Chapter on Churches of Christ in Great Britain</dc:title>
+        <dc:creator opf:file-as="Janes, Don Carlos" opf:role="aut">Don Carlos Janes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12679</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels</dc:subject>
+        <dc:subject>Palestine -- Description and travel</dc:subject>
+        <dc:subject>Churches of Christ -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Don Carlos Janes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:12:26.837417+00:00"/>
+        <meta name="calibre:title_sort" content="Trip Abroad / An Account of a Journey to the Earthly Canaan and the Land of the Ancient Pharaohs; To Which Are Appended a Brief Consideration of the Geography and History of Palestine, and a Chapter on Churches of Christ in Great Britain, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

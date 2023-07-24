@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abb359b7-86cb-4ddf-a6b8-72bbedb4d61a</dc:identifier>
+        <dc:title>Four Years a Scout and Spy / "General Bunker", One of Lieut. General Grant's Most Daring and Successful Scouts, Being a Narrative of ... the Experience of Corporal Ruggles During Four Years' Service as a Scout and Spy for the Federal Army</dc:title>
+        <dc:creator opf:file-as="Downs, E. C. (Edward C.)" opf:role="aut">E. C. Downs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38948</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Ruggles</dc:subject>
+        <dc:subject>Lorain</dc:subject>
+        <dc:subject>1823-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;E. C. Downs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:18:07.601857+00:00"/>
+        <meta name="calibre:title_sort" content="Four Years a Scout and Spy / &quot;General Bunker&quot;, One of Lieut. General Grant's Most Daring and Successful Scouts, Being a Narrative of ... the Experience of Corporal Ruggles During Four Years' Service as a Scout and Spy for the Federal Army"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

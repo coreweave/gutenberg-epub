@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecaf8f76-99b2-4e88-8b51-fc96cbd1fd03</dc:identifier>
+        <dc:title>Rodney</dc:title>
+        <dc:creator opf:file-as="Hannay, David" opf:role="aut">David Hannay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52155</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Admirals -- Great Britain -- Biography</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Naval operations</dc:subject>
+        <dc:subject>Rodney</dc:subject>
+        <dc:subject>George Brydges Rodney</dc:subject>
+        <dc:subject>Baron</dc:subject>
+        <dc:subject>1719-1792</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Hannay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:31:05.201465+00:00"/>
+        <meta name="calibre:title_sort" content="Rodney"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

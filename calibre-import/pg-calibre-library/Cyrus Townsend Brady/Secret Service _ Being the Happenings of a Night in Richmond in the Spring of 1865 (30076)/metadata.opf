@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ea3fd6c-4420-44b1-a6df-9b9f287ab6fb</dc:identifier>
+        <dc:title>Secret Service / Being the Happenings of a Night in Richmond in the Spring of 1865</dc:title>
+        <dc:creator opf:file-as="Brady, Cyrus Townsend" opf:role="aut">Cyrus Townsend Brady</dc:creator>
+        <dc:creator opf:file-as="Brady, Cyrus Townsend" opf:role="aut">William Gillette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44659</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Virginia -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Fiction</dc:subject>
+        <dc:subject>Richmond (Va.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cyrus Townsend Brady&quot;: &quot;&quot;, &quot;William Gillette&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:14:18.367234+00:00"/>
+        <meta name="calibre:title_sort" content="Secret Service / Being the Happenings of a Night in Richmond in the Spring of 1865"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

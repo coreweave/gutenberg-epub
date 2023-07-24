@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9048562-8f87-4dce-89c7-cb323d7132b5</dc:identifier>
+        <dc:title>The Adventures of A Brownie / As Told to My Child by Miss Mulock</dc:title>
+        <dc:creator opf:file-as="Craik, Dinah Maria Mulock" opf:role="aut">Dinah Maria Mulock Craik</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30494</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Fairies -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dinah Maria Mulock Craik&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:39:55.187965+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of A Brownie / As Told to My Child by Miss Mulock, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

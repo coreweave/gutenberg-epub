@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13203</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80c57a38-b654-4b71-97bc-32eb0a12be15</dc:identifier>
+        <dc:title>Four American Leaders</dc:title>
+        <dc:creator opf:file-as="Eliot, Charles William" opf:role="aut">Charles William Eliot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16931</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Franklin</dc:subject>
+        <dc:subject>Benjamin</dc:subject>
+        <dc:subject>1706-1790</dc:subject>
+        <dc:subject>Statesmen -- United States -- Biography</dc:subject>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799</dc:subject>
+        <dc:subject>Emerson</dc:subject>
+        <dc:subject>Ralph Waldo</dc:subject>
+        <dc:subject>1803-1882</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Channing</dc:subject>
+        <dc:subject>William Ellery</dc:subject>
+        <dc:subject>1780-1842</dc:subject>
+        <dc:subject>Clergy -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles William Eliot&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:16:44.504144+00:00"/>
+        <meta name="calibre:title_sort" content="Four American Leaders"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

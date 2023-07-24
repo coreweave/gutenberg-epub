@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cec456b2-b166-47d1-8729-4e6c6058dd96</dc:identifier>
+        <dc:title>Starlight Ranch, and Other Stories of Army Life on the Frontier</dc:title>
+        <dc:creator opf:file-as="King, Charles" opf:role="aut">Charles King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26137</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Soldiers -- Fiction</dc:subject>
+        <dc:subject>Frontier and pioneer life -- West (U.S.) -- Fiction</dc:subject>
+        <dc:subject>West (U.S.) -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>United States. Army -- Military life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:31:08.982871+00:00"/>
+        <meta name="calibre:title_sort" content="Starlight Ranch, and Other Stories of Army Life on the Frontier"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84ace2f5-0235-45f4-bc54-2c5b37d52eb1</dc:identifier>
+        <dc:title>A letter to the Rev. Charles N. Wodehouse, Canon of Norwich, occasioned by his recent publication, entitled, "What is the meaning of Subscription?" / with a few observations on the speech &amp;c. of the Lord Bishop of Norwich, on Subscription</dc:title>
+        <dc:creator opf:file-as="Campbell, Charles" opf:role="aut">Charles Campbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63727</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Church of England -- Liturgy</dc:subject>
+        <dc:subject>Church of England. Thirty-nine Articles</dc:subject>
+        <dc:subject>Wodehouse</dc:subject>
+        <dc:subject>C. N. (Charles Nourse)</dc:subject>
+        <dc:subject>1790-1870. What is the meaning of subscription?</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Charles Campbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:18:39.495198+00:00"/>
+        <meta name="calibre:title_sort" content="letter to the Rev. Charles N. Wodehouse, Canon of Norwich, occasioned by his recent publication, entitled, &quot;What is the meaning of Subscription?&quot; / with a few observations on the speech &amp;c. of the Lord Bishop of Norwich, on Subscription, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
