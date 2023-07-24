@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36579</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c764a4c3-aea2-48ff-8d96-18d36e7391a4</dc:identifier>
+        <dc:title>The Confessions of Arsène Lupin</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28093</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure and adventurers -- Fiction</dc:subject>
+        <dc:subject>Burglars -- Fiction</dc:subject>
+        <dc:subject>Lupin</dc:subject>
+        <dc:subject>Arsène (Fictitious character) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:33:33.816918+00:00"/>
+        <meta name="calibre:title_sort" content="Confessions of Arsène Lupin, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

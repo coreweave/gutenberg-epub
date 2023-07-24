@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5bcc4c1-ff4d-4005-a5c3-0778c10d3dd5</dc:identifier>
+        <dc:title>Minstrel Weather</dc:title>
+        <dc:creator opf:file-as="Storm, Marian" opf:role="aut">Marian Storm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38645</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural history -- Outdoor books</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marian Storm&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:30:14.109111+00:00"/>
+        <meta name="calibre:title_sort" content="Minstrel Weather"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

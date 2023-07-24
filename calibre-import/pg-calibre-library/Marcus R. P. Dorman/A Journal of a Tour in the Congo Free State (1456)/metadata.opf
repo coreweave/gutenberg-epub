@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ceb5081-bb25-4a7b-863b-4ee894d3ff47</dc:identifier>
+        <dc:title>A Journal of a Tour in the Congo Free State</dc:title>
+        <dc:creator opf:file-as="Dorman, Marcus R. P." opf:role="aut">Marcus R. P. Dorman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15240</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Congo (Democratic Republic) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marcus R. P. Dorman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:48:19.326713+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of a Tour in the Congo Free State, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

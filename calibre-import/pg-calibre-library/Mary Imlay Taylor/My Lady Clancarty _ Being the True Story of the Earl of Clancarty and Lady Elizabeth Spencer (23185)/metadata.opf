@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56d1989a-203d-43f6-b7da-2133dcc186e8</dc:identifier>
+        <dc:title>My Lady Clancarty / Being the True Story of the Earl of Clancarty and Lady Elizabeth Spencer</dc:title>
+        <dc:creator opf:file-as="Taylor, Mary Imlay" opf:role="aut">Mary Imlay Taylor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55706</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jacobites -- Fiction</dc:subject>
+        <dc:subject>Clancarty</dc:subject>
+        <dc:subject>Donogh MacCarty</dc:subject>
+        <dc:subject>Earl of</dc:subject>
+        <dc:subject>1667 or 1668-1734 -- Fiction</dc:subject>
+        <dc:subject>Elizabeth Maccarthy</dc:subject>
+        <dc:subject>Countess of</dc:subject>
+        <dc:subject>-1698 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Imlay Taylor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:11:27.105704+00:00"/>
+        <meta name="calibre:title_sort" content="My Lady Clancarty / Being the True Story of the Earl of Clancarty and Lady Elizabeth Spencer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

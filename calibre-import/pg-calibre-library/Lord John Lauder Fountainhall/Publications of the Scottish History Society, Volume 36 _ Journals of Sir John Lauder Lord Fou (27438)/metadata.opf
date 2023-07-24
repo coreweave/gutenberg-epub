@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cb7b3d8-e885-4a85-b496-12e4b75ad39b</dc:identifier>
+        <dc:title>Publications of the Scottish History Society, Volume 36 / Journals of Sir John Lauder Lord Fountainhall with His Observations on Public Affairs and Other Memoranda 1665-1676</dc:title>
+        <dc:creator opf:file-as="Fountainhall, John Lauder, Lord" opf:role="aut">Lord John Lauder Fountainhall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12930</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Description and travel</dc:subject>
+        <dc:subject>Great Britain -- Description and travel</dc:subject>
+        <dc:subject>Fountainhall</dc:subject>
+        <dc:subject>John Lauder</dc:subject>
+        <dc:subject>Lord</dc:subject>
+        <dc:subject>1646-1722 -- Diaries</dc:subject>
+        <dc:subject>Judges -- Great Britain -- Diaries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lord John Lauder Fountainhall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:13:44.793213+00:00"/>
+        <meta name="calibre:title_sort" content="Publications of the Scottish History Society, Volume 36 / Journals of Sir John Lauder Lord Fountainhall with His Observations on Public Affairs and Other Memoranda 1665-1676"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

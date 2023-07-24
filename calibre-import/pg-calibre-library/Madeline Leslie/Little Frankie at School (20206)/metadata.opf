@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">984a481f-2250-46b0-bbb3-deddee530b2e</dc:identifier>
+        <dc:title>Little Frankie at School</dc:title>
+        <dc:creator opf:file-as="Leslie, Madeline" opf:role="aut">Madeline Leslie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33523</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Schools -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Siblings -- Juvenile fiction</dc:subject>
+        <dc:subject>Students -- Juvenile fiction</dc:subject>
+        <dc:subject>Charity -- Juvenile fiction</dc:subject>
+        <dc:subject>Teacher-student relationships -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Madeline Leslie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:11:59.587545+00:00"/>
+        <meta name="calibre:title_sort" content="Little Frankie at School"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

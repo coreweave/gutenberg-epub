@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee120910-dd7a-490d-ae33-5c59b4bc5076</dc:identifier>
+        <dc:title>The Little Grey House</dc:title>
+        <dc:creator opf:file-as="Taggart, Marion Ames" opf:role="aut">Marion Ames Taggart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48363</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Family -- Juvenile fiction</dc:subject>
+        <dc:subject>Fathers -- Death -- Juvenile fiction</dc:subject>
+        <dc:subject>Financial security -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marion Ames Taggart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:45:01.323523+00:00"/>
+        <meta name="calibre:title_sort" content="Little Grey House, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

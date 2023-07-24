@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98f12947-69f0-4114-9932-dd03bf29e856</dc:identifier>
+        <dc:title>The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age</dc:title>
+        <dc:creator opf:file-as="Boyd, Lyle Gifford" opf:role="aut">Lyle Gifford Boyd</dc:creator>
+        <dc:creator opf:file-as="Boyd, Lyle Gifford" opf:role="aut">Donald H. Menzel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66639</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Unidentified flying objects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lyle Gifford Boyd&quot;: &quot;&quot;, &quot;Donald H. Menzel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:57:54.536532+00:00"/>
+        <meta name="calibre:title_sort" content="World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57efa7f3-bc02-4740-8556-dd44fea45e90</dc:identifier>
+        <dc:title>Lays from the West</dc:title>
+        <dc:creator opf:file-as="Nicholl, M. A." opf:role="aut">M. A. Nicholl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6972</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. A. Nicholl&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:39:03.375583+00:00"/>
+        <meta name="calibre:title_sort" content="Lays from the West"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

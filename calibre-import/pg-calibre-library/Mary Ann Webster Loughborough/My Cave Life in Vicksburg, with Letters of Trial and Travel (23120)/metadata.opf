@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d06f151f-16d9-4a10-a339-f0942994e6a6</dc:identifier>
+        <dc:title>My Cave Life in Vicksburg, with Letters of Trial and Travel</dc:title>
+        <dc:creator opf:file-as="Loughborough, Mary Ann Webster" opf:role="aut">Mary Ann Webster Loughborough</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35700</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Loughborough</dc:subject>
+        <dc:subject>Mary Ann Webster</dc:subject>
+        <dc:subject>1836-1887</dc:subject>
+        <dc:subject>Vicksburg (Miss.) -- History -- Siege</dc:subject>
+        <dc:subject>1863 -- Personal narratives</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Ann Webster Loughborough&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:08:35.672119+00:00"/>
+        <meta name="calibre:title_sort" content="My Cave Life in Vicksburg, with Letters of Trial and Travel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

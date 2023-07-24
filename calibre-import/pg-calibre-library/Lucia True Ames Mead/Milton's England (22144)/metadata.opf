@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3158d462-b3da-4246-85d0-9d6ce51c15b2</dc:identifier>
+        <dc:title>Milton's England</dc:title>
+        <dc:creator opf:file-as="Mead, Lucia True Ames" opf:role="aut">Lucia True Ames Mead</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34526</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poets</dc:subject>
+        <dc:subject>English -- Homes and haunts -- England</dc:subject>
+        <dc:subject>Literary landmarks -- England -- London</dc:subject>
+        <dc:subject>Milton</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1608-1674 -- Homes and haunts</dc:subject>
+        <dc:subject>Literary landmarks -- England</dc:subject>
+        <dc:subject>England -- Intellectual life -- 17th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucia True Ames Mead&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:28:04.191525+00:00"/>
+        <meta name="calibre:title_sort" content="Milton's England"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

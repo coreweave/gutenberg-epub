@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9894</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f1a64de-3535-436d-bd2e-3c1848aaa539</dc:identifier>
+        <dc:title>Daphne: An Autumn Pastoral</dc:title>
+        <dc:creator opf:file-as="Sherwood, Margaret Pollock" opf:role="aut">Margaret Pollock Sherwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Italy -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Pollock Sherwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:45:22.949509+00:00"/>
+        <meta name="calibre:title_sort" content="Daphne: An Autumn Pastoral"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

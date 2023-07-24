@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22021</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bef3d79a-2b09-41bf-a979-f5cc85407cbe</dc:identifier>
+        <dc:title>Metamorphosis</dc:title>
+        <dc:creator opf:file-as="Curry, Mike" opf:role="aut">Mike Curry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70001</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Life on other planets -- Fiction</dc:subject>
+        <dc:subject>Space colonies -- Fiction</dc:subject>
+        <dc:subject>Older men -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mike Curry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:23:00.644382+00:00"/>
+        <meta name="calibre:title_sort" content="Metamorphosis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

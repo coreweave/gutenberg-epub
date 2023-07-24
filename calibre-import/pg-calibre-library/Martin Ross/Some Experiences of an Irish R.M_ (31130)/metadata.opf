@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4abaa1ae-54ab-4a87-8e68-a0bfb43057e7</dc:identifier>
+        <dc:title>Some Experiences of an Irish R.M.</dc:title>
+        <dc:creator opf:file-as="Ross, Martin" opf:role="aut">Martin Ross</dc:creator>
+        <dc:creator opf:file-as="Ross, Martin" opf:role="aut">E. Oe. Somerville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34630</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Ireland -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>British -- Ireland -- Fiction</dc:subject>
+        <dc:subject>Justices of the peace -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Ross&quot;: &quot;&quot;, &quot;E. Oe. Somerville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:05:19.181933+00:00"/>
+        <meta name="calibre:title_sort" content="Some Experiences of an Irish R.M."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ac7576b-822d-45e9-aaad-b16acd2d5317</dc:identifier>
+        <dc:title>The Act of Incorporation and the By-Laws of the Massachusetts Homeopathic Medical Society</dc:title>
+        <dc:creator opf:file-as="Massachusetts Homoeopathic Medical Society" opf:role="aut">Massachusetts Homoeopathic Medical Society</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18589</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Massachusetts Homoeopathic Medical Society</dc:subject>
+        <dc:subject>Homeopathy -- Massachusetts -- Societies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Massachusetts Homoeopathic Medical Society&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:37:46.899722+00:00"/>
+        <meta name="calibre:title_sort" content="Act of Incorporation and the By-Laws of the Massachusetts Homeopathic Medical Society, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

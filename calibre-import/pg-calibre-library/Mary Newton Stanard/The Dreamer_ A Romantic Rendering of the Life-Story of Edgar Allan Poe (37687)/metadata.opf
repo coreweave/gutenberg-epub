@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">755403af-6656-42fa-a118-fed82577a3d8</dc:identifier>
+        <dc:title>The Dreamer: A Romantic Rendering of the Life-Story of Edgar Allan Poe</dc:title>
+        <dc:creator opf:file-as="Stanard, Mary Newton" opf:role="aut">Mary Newton Stanard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17389</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poe</dc:subject>
+        <dc:subject>Edgar Allan</dc:subject>
+        <dc:subject>1809-1849</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Newton Stanard&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:30:26.922770+00:00"/>
+        <meta name="calibre:title_sort" content="Dreamer: A Romantic Rendering of the Life-Story of Edgar Allan Poe, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

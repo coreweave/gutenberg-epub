@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89876324-e7e9-4e88-9948-b72c9b0a5947</dc:identifier>
+        <dc:title>Garcia the Centenarian and His Times / Being a Memoir of Manuel Garcia's Life and Labours for the Advancement of Music and Science</dc:title>
+        <dc:creator opf:file-as="Mackinlay, M. (Malcolm) Sterling" opf:role="aut">M. Sterling Mackinlay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37298</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voice culture</dc:subject>
+        <dc:subject>Garcia</dc:subject>
+        <dc:subject>Manuel</dc:subject>
+        <dc:subject>1805-1906</dc:subject>
+        <dc:subject>Singers -- Spain -- Biography</dc:subject>
+        <dc:subject>Laryngoscopy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. Sterling Mackinlay&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:34:50.076116+00:00"/>
+        <meta name="calibre:title_sort" content="Garcia the Centenarian and His Times / Being a Memoir of Manuel Garcia's Life and Labours for the Advancement of Music and Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

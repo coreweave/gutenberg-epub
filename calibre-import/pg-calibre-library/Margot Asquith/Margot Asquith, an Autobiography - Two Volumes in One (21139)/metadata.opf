@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dbe37e08-2f6e-4b8b-a7b5-3239d5f3ae68</dc:identifier>
+        <dc:title>Margot Asquith, an Autobiography - Two Volumes in One</dc:title>
+        <dc:creator opf:file-as="Asquith, Margot" opf:role="aut">Margot Asquith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4321</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Autobiographies</dc:subject>
+        <dc:subject>Asquith</dc:subject>
+        <dc:subject>Margot</dc:subject>
+        <dc:subject>1864-1945</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margot Asquith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:47:44.024488+00:00"/>
+        <meta name="calibre:title_sort" content="Margot Asquith, an Autobiography - Two Volumes in One"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76ebffb1-a8db-4b03-83a2-121e037c8cee</dc:identifier>
+        <dc:title>Official Report of the Niger Valley Exploring Party</dc:title>
+        <dc:creator opf:file-as="Delany, Martin Robison" opf:role="aut">Martin Robison Delany</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Yoruba (African people)</dc:subject>
+        <dc:subject>African Americans -- Colonization -- Africa</dc:subject>
+        <dc:subject>Liberia -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Robison Delany&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:10:49.219500+00:00"/>
+        <meta name="calibre:title_sort" content="Official Report of the Niger Valley Exploring Party"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

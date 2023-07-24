@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41380</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">534fcb9e-2a07-4050-a5ae-636897ec107f</dc:identifier>
+        <dc:title>The Jugglers: A Story</dc:title>
+        <dc:creator opf:file-as="Seawell, Molly Elliot" opf:role="aut">Molly Elliot Seawell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62927</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Fiction</dc:subject>
+        <dc:subject>Franco-Prussian War</dc:subject>
+        <dc:subject>1870-1871 -- Fiction</dc:subject>
+        <dc:subject>Paris (France) -- History -- Commune</dc:subject>
+        <dc:subject>1871 -- Fiction</dc:subject>
+        <dc:subject>Jugglers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Molly Elliot Seawell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:45:22.904859+00:00"/>
+        <meta name="calibre:title_sort" content="Jugglers: A Story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

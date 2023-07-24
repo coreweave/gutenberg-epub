@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f06f4f8b-7d34-4380-99ee-bb494594f192</dc:identifier>
+        <dc:title>The Tragedies of Seneca / Translated into English Verse, to Which Have Been Appended Comparative Analyses of the Corresponding Greek and Roman Plays, and a Mythological Index</dc:title>
+        <dc:creator opf:file-as="Seneca, Lucius Annaeus" opf:role="aut">Lucius Annaeus Seneca</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57999</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Classical -- Drama</dc:subject>
+        <dc:subject>Seneca</dc:subject>
+        <dc:subject>Lucius Annaeus</dc:subject>
+        <dc:subject>approximately 4 B.C.-65 A.D. -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucius Annaeus Seneca&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:18:14.906651+00:00"/>
+        <meta name="calibre:title_sort" content="Tragedies of Seneca / Translated into English Verse, to Which Have Been Appended Comparative Analyses of the Corresponding Greek and Roman Plays, and a Mythological Index, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47653</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">feb9acdc-4e23-4a3e-96ca-73c56d714b0f</dc:identifier>
+        <dc:title>The Silver Butterfly</dc:title>
+        <dc:creator opf:file-as="Woodrow, Wilson, Mrs." opf:role="aut">Mrs. Wilson Woodrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25820</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <dc:subject>Silver mines and mining -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Wilson Woodrow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:43:03.965842+00:00"/>
+        <meta name="calibre:title_sort" content="Silver Butterfly, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18789</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec59bbbc-be47-4144-9bc8-8b3aabe9868f</dc:identifier>
+        <dc:title>Kate Danton, or, Captain Danton's Daughters: A Novel</dc:title>
+        <dc:creator opf:file-as="Fleming, May Agnes" opf:role="aut">May Agnes Fleming</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19512</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;May Agnes Fleming&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:20:30.897811+00:00"/>
+        <meta name="calibre:title_sort" content="Kate Danton, or, Captain Danton's Daughters: A Novel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

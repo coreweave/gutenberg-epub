@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af1eb26b-8978-46bb-bba0-b9ca61c5db85</dc:identifier>
+        <dc:title>Discipline</dc:title>
+        <dc:creator opf:file-as="Brunton, Mary" opf:role="aut">Mary Brunton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38510</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life</dc:subject>
+        <dc:subject>Great Britain -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Young women -- Conduct of life -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Brunton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:03:44.937809+00:00"/>
+        <meta name="calibre:title_sort" content="Discipline"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

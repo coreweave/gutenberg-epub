@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb6506df-6cb3-4c18-9244-1d28ad973b75</dc:identifier>
+        <dc:title>Old Fashioned Flowers, and other out-of-door studies</dc:title>
+        <dc:creator opf:file-as="Maeterlinck, Maurice" opf:role="aut">Maurice Maeterlinck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55591</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gardening</dc:subject>
+        <dc:subject>Flowers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Maeterlinck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:13:11.661872+00:00"/>
+        <meta name="calibre:title_sort" content="Old Fashioned Flowers, and other out-of-door studies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d97ca6da-f768-423e-b708-dfb8cb3bdcd1</dc:identifier>
+        <dc:title>With Lawrence in Arabia</dc:title>
+        <dc:creator opf:file-as="Thomas, Lowell" opf:role="aut">Lowell Thomas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61428</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Soldiers -- Great Britain -- Biography</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Campaigns -- Middle East</dc:subject>
+        <dc:subject>Lawrence</dc:subject>
+        <dc:subject>T. E. (Thomas Edward)</dc:subject>
+        <dc:subject>1888-1935</dc:subject>
+        <dc:subject>British -- Middle East -- History -- 20th century</dc:subject>
+        <dc:subject>Middle East specialists -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Archaeologists -- Middle East -- Biography</dc:subject>
+        <dc:subject>1914-1918 -- Arab countries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lowell Thomas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:35:29.974746+00:00"/>
+        <meta name="calibre:title_sort" content="With Lawrence in Arabia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

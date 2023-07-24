@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0bebb96-3ee0-431e-bd25-cfd92401c482</dc:identifier>
+        <dc:title>Memoirs of the Court of Marie Antoinette, Queen of France, Volume 1 / Being the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen</dc:title>
+        <dc:creator opf:file-as="Campan, Mme. (Jeanne-Louise-Henriette)" opf:role="aut">Mme. Campan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3884</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Court and courtiers</dc:subject>
+        <dc:subject>Marie Antoinette</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Louis XVI</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1755-1793</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mme. Campan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:14:07.922577+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Court of Marie Antoinette, Queen of France, Volume 1 / Being the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

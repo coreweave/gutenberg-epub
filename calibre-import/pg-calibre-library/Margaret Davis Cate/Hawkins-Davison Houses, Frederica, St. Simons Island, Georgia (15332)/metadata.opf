@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82d33641-1d87-4e33-a3f1-09cf341b90e2</dc:identifier>
+        <dc:title>Hawkins-Davison Houses, Frederica, St. Simons Island, Georgia</dc:title>
+        <dc:creator opf:file-as="Cate, Margaret Davis" opf:role="aut">Margaret Davis Cate</dc:creator>
+        <dc:creator opf:file-as="Cate, Margaret Davis" opf:role="aut">Charles H. Fairbanks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64684</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dwellings -- Georgia -- Saint Simons Island</dc:subject>
+        <dc:subject>Fort Frederica National Monument (Ga.)</dc:subject>
+        <dc:subject>Saint Simons Island (Ga. : Island) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Davis Cate&quot;: &quot;&quot;, &quot;Charles H. Fairbanks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:23:12.728804+00:00"/>
+        <meta name="calibre:title_sort" content="Hawkins-Davison Houses, Frederica, St. Simons Island, Georgia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

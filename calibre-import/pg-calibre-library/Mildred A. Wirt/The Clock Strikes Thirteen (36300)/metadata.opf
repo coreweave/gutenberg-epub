@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6e2c40b-167e-4ff8-96fe-3d411ca87a78</dc:identifier>
+        <dc:title>The Clock Strikes Thirteen</dc:title>
+        <dc:creator opf:file-as="Wirt, Mildred A. (Mildred Augustine)" opf:role="aut">Mildred A. Wirt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Mystery and detective stories</dc:subject>
+        <dc:subject>Parker</dc:subject>
+        <dc:subject>Penny (Fictitious character) -- Juvenile fiction</dc:subject>
+        <dc:subject>Women detectives -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mildred A. Wirt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:19:34.105797+00:00"/>
+        <meta name="calibre:title_sort" content="Clock Strikes Thirteen, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

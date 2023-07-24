@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac51c6eb-ed3e-43be-ad66-870ed1c77889</dc:identifier>
+        <dc:title>Osceola the Seminole; or, The Red Fawn of the Flower Land</dc:title>
+        <dc:creator opf:file-as="Reid, Mayne" opf:role="aut">Mayne Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35620</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Fiction</dc:subject>
+        <dc:subject>Osceola</dc:subject>
+        <dc:subject>Seminole chief</dc:subject>
+        <dc:subject>1804-1838 -- Fiction</dc:subject>
+        <dc:subject>Seminole Indians -- Fiction</dc:subject>
+        <dc:subject>Seminole War</dc:subject>
+        <dc:subject>1st</dc:subject>
+        <dc:subject>1817-1818 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mayne Reid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:37:48.475278+00:00"/>
+        <meta name="calibre:title_sort" content="Osceola the Seminole; or, The Red Fawn of the Flower Land"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

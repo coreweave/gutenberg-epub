@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6464d8c5-df27-46d0-8645-a29b70dd3a7b</dc:identifier>
+        <dc:title>The Day of Resis</dc:title>
+        <dc:creator opf:file-as="Mentor, Lillian Frances" opf:role="aut">Lillian Frances Mentor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67479</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Explorers -- Fiction</dc:subject>
+        <dc:subject>Imaginary places -- Fiction</dc:subject>
+        <dc:subject>Americans -- Africa -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lillian Frances Mentor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:05:43.478125+00:00"/>
+        <meta name="calibre:title_sort" content="Day of Resis, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

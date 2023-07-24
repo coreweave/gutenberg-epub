@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a51e451-fa22-405c-94ad-c134b46c7b9d</dc:identifier>
+        <dc:title>An Irish Cousin; vol. 1/2</dc:title>
+        <dc:creator opf:file-as="Ross, Martin" opf:role="aut">Martin Ross</dc:creator>
+        <dc:creator opf:file-as="Ross, Martin" opf:role="aut">E. Oe. Somerville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58633</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Ross&quot;: &quot;&quot;, &quot;E. Oe. Somerville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:42:46.118183+00:00"/>
+        <meta name="calibre:title_sort" content="Irish Cousin; vol. 1/2, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

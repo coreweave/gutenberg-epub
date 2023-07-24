@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a488a476-5cf3-44b8-8220-1b243b823a83</dc:identifier>
+        <dc:title>Yule-Tide in Many Lands</dc:title>
+        <dc:creator opf:file-as="Pringle, Mary Poague" opf:role="aut">Mary Poague Pringle</dc:creator>
+        <dc:creator opf:file-as="Pringle, Mary Poague" opf:role="aut">Clara A. Urann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18570</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Poague Pringle&quot;: &quot;&quot;, &quot;Clara A. Urann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T10:12:54.745089+00:00"/>
+        <meta name="calibre:title_sort" content="Yule-Tide in Many Lands"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

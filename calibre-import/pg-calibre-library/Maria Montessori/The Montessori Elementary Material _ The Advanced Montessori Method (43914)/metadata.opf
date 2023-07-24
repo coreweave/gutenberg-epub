@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43914</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79de1e16-758a-4a90-a9d9-82d47aaf4c07</dc:identifier>
+        <dc:title>The Montessori Elementary Material / The Advanced Montessori Method</dc:title>
+        <dc:creator opf:file-as="Montessori, Maria" opf:role="aut">Maria Montessori</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42869</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Montessori method of education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maria Montessori&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:05:59.270789+00:00"/>
+        <meta name="calibre:title_sort" content="Montessori Elementary Material / The Advanced Montessori Method, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

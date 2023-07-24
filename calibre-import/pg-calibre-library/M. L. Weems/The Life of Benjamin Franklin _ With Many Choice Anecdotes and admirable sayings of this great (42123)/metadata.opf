@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fdf1dc7-f1b3-4074-8d7a-1db33f1aa2ed</dc:identifier>
+        <dc:title>The Life of Benjamin Franklin / With Many Choice Anecdotes and admirable sayings of this great man never before published by any of his biographers</dc:title>
+        <dc:creator opf:file-as="Weems, M. L. (Mason Locke)" opf:role="aut">M. L. Weems</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36376</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Franklin</dc:subject>
+        <dc:subject>Benjamin</dc:subject>
+        <dc:subject>1706-1790</dc:subject>
+        <dc:subject>Statesmen -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. L. Weems&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:26:20.634249+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Benjamin Franklin / With Many Choice Anecdotes and admirable sayings of this great man never before published by any of his biographers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

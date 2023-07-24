@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd09808d-6618-4da6-9c93-83eda8838b7a</dc:identifier>
+        <dc:title>The Narrative of Lunsford Lane, Formerly of Raleigh, N.C. / Embracing an account of his early life, the redemption by purchase of himself and family from slavery, and his banishment from the place of his birth for the crime of wearing a colored skin</dc:title>
+        <dc:creator opf:file-as="Lane, Lunsford" opf:role="aut">Lunsford Lane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slaves' writings</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Slaves -- North Carolina -- Biography</dc:subject>
+        <dc:subject>African Americans -- North Carolina -- Biography</dc:subject>
+        <dc:subject>Lane</dc:subject>
+        <dc:subject>Lunsford</dc:subject>
+        <dc:subject>1803-</dc:subject>
+        <dc:subject>Freed persons -- United States -- Biography</dc:subject>
+        <dc:subject>Raleigh (N.C.) -- History -- 19th century</dc:subject>
+        <dc:subject>Slavery -- North Carolina -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lunsford Lane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:23:56.000784+00:00"/>
+        <meta name="calibre:title_sort" content="Narrative of Lunsford Lane, Formerly of Raleigh, N.C. / Embracing an account of his early life, the redemption by purchase of himself and family from slavery, and his banishment from the place of his birth for the crime of wearing a colored skin, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

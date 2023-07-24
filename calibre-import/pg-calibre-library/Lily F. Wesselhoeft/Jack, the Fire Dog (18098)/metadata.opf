@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18098</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea44023e-e534-4e18-a651-dafe91bd9526</dc:identifier>
+        <dc:title>Jack, the Fire Dog</dc:title>
+        <dc:creator opf:file-as="Wesselhoeft, Lily F." opf:role="aut">Lily F. Wesselhoeft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48861</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Friendship -- Juvenile fiction</dc:subject>
+        <dc:subject>Fire fighters -- Juvenile fiction</dc:subject>
+        <dc:subject>Parent and child -- Juvenile fiction</dc:subject>
+        <dc:subject>Human-animal relationships -- Juvenile fiction</dc:subject>
+        <dc:subject>Fires -- Juvenile fiction</dc:subject>
+        <dc:subject>Sick -- Juvenile fiction</dc:subject>
+        <dc:subject>Blind children -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lily F. Wesselhoeft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:56:14.097474+00:00"/>
+        <meta name="calibre:title_sort" content="Jack, the Fire Dog"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

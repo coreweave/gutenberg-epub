@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a69288fb-8bae-4f32-bf26-c280c862d067</dc:identifier>
+        <dc:title>Gwen Wynn: A Romance of the Wye</dc:title>
+        <dc:creator opf:file-as="Reid, Mayne" opf:role="aut">Mayne Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Cats -- Juvenile fiction</dc:subject>
+        <dc:subject>Murder -- Juvenile fiction</dc:subject>
+        <dc:subject>Jealousy -- Juvenile fiction</dc:subject>
+        <dc:subject>Abduction -- Juvenile fiction</dc:subject>
+        <dc:subject>Heroes -- Juvenile fiction</dc:subject>
+        <dc:subject>Kidnapping victims -- Juvenile fiction</dc:subject>
+        <dc:subject>Strangers -- Juvenile fiction</dc:subject>
+        <dc:subject>Suicide -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mayne Reid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:04:30.253076+00:00"/>
+        <meta name="calibre:title_sort" content="Gwen Wynn: A Romance of the Wye"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

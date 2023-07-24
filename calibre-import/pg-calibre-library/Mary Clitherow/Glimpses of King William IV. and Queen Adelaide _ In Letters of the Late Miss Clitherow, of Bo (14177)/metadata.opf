@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc286ff9-2ce8-47c2-bf09-b92812effe8a</dc:identifier>
+        <dc:title>Glimpses of King William IV. and Queen Adelaide / In Letters of the Late Miss Clitherow, of Boston House, Middlesex. With a Brief Account of Boston House and the Clitherow Family</dc:title>
+        <dc:creator opf:file-as="Clitherow, Mary" opf:role="aut">Mary Clitherow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35086</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>William IV</dc:subject>
+        <dc:subject>King of Great Britain</dc:subject>
+        <dc:subject>1765-1837</dc:subject>
+        <dc:subject>Adelaide</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of William IV</dc:subject>
+        <dc:subject>1792-1849</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Clitherow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:46:24.684056+00:00"/>
+        <meta name="calibre:title_sort" content="Glimpses of King William IV. and Queen Adelaide / In Letters of the Late Miss Clitherow, of Boston House, Middlesex. With a Brief Account of Boston House and the Clitherow Family"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

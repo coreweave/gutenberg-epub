@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffe48489-bb85-46f1-a2d0-4918f9489b12</dc:identifier>
+        <dc:title>Grammar-land; Or, Grammar in Fun for the Children of Schoolroom-shire</dc:title>
+        <dc:creator opf:file-as="Nesbitt, M. L." opf:role="aut">M. L. Nesbitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66712</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Trials -- Juvenile fiction</dc:subject>
+        <dc:subject>Judges -- Juvenile fiction</dc:subject>
+        <dc:subject>English language -- Grammar -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. L. Nesbitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:56:04.705621+00:00"/>
+        <meta name="calibre:title_sort" content="Grammar-land; Or, Grammar in Fun for the Children of Schoolroom-shire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

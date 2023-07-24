@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33723</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd9b62fa-8b1f-4be9-b74d-9e72201c3d1e</dc:identifier>
+        <dc:title>The Architecture of the North Louisiana River Parishes, Volume 1: Ouachita Parish</dc:title>
+        <dc:creator opf:file-as="Louisiana Tech University. Department of Architecture" opf:role="aut">Louisiana Tech University. Department of Architecture</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65859</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Architecture -- Louisiana</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Domestic -- Louisiana</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louisiana Tech University. Department of Architecture&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:11:31.231676+00:00"/>
+        <meta name="calibre:title_sort" content="Architecture of the North Louisiana River Parishes, Volume 1: Ouachita Parish, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0cea2f3-81e0-4c4f-b3fc-daa3f6272a23</dc:identifier>
+        <dc:title>Maria Mitchell: Life, Letters, and Journals</dc:title>
+        <dc:creator opf:file-as="Mitchell, Maria" opf:role="aut">Maria Mitchell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10202</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Astronomers -- United States -- Biography</dc:subject>
+        <dc:subject>Mitchell</dc:subject>
+        <dc:subject>Maria</dc:subject>
+        <dc:subject>1818-1889</dc:subject>
+        <dc:subject>Women astronomers -- United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maria Mitchell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:48:10.051680+00:00"/>
+        <meta name="calibre:title_sort" content="Maria Mitchell: Life, Letters, and Journals"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

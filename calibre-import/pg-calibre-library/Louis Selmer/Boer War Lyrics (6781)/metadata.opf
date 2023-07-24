@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6781</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e5184cd-f55b-4b3d-8747-b9cc5245fa81</dc:identifier>
+        <dc:title>Boer War Lyrics</dc:title>
+        <dc:creator opf:file-as="Selmer, Louis" opf:role="aut">Louis Selmer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44641</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902 -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Selmer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:57.497687+00:00"/>
+        <meta name="calibre:title_sort" content="Boer War Lyrics"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

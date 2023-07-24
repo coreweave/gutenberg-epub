@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b63c4c2e-5718-42d7-968f-cf97a881fb17</dc:identifier>
+        <dc:title>The Feeding of School Children</dc:title>
+        <dc:creator opf:file-as="Bulkley, M. E. (Mildred Emily)" opf:role="aut">M. E. Bulkley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57313</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>School children -- Food</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. E. Bulkley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:09:25.934406+00:00"/>
+        <meta name="calibre:title_sort" content="Feeding of School Children, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

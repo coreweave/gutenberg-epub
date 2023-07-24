@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddf41d77-8f10-4cd7-abd5-17da30e44a3f</dc:identifier>
+        <dc:title>The life and correspondence of Sir Anthony Panizzi, K.C.B., Vol. 1 (of 2) / Late principal librarian of the British museum, senator of Italy, etc.</dc:title>
+        <dc:creator opf:file-as="Fagan, Louis" opf:role="aut">Louis Fagan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58338</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Panizzi</dc:subject>
+        <dc:subject>Anthony</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1797-1879</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Fagan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:40:30.036594+00:00"/>
+        <meta name="calibre:title_sort" content="life and correspondence of Sir Anthony Panizzi, K.C.B., Vol. 1 (of 2) / Late principal librarian of the British museum, senator of Italy, etc., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

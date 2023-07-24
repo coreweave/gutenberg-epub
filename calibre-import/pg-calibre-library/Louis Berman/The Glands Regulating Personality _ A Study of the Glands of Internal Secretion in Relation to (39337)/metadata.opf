@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a34faded-f7ef-4a47-82bf-fdb86442adf9</dc:identifier>
+        <dc:title>The Glands Regulating Personality / A Study of the Glands of Internal Secretion in Relation to the Types of Human Nature</dc:title>
+        <dc:creator opf:file-as="Berman, Louis" opf:role="aut">Louis Berman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10266</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Personality</dc:subject>
+        <dc:subject>Endocrinology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Berman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:56:04.563681+00:00"/>
+        <meta name="calibre:title_sort" content="Glands Regulating Personality / A Study of the Glands of Internal Secretion in Relation to the Types of Human Nature, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

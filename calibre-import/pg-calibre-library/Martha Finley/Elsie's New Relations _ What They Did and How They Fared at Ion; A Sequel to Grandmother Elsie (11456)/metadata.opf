@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9381cafd-dbb2-46fb-ad81-c7aafca355bb</dc:identifier>
+        <dc:title>Elsie's New Relations / What They Did and How They Fared at Ion; A Sequel to Grandmother Elsie</dc:title>
+        <dc:creator opf:file-as="Finley, Martha" opf:role="aut">Martha Finley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14909</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Religious fiction</dc:subject>
+        <dc:subject>Dinsmore</dc:subject>
+        <dc:subject>Elsie (Fictitious character) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martha Finley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:27:14.237050+00:00"/>
+        <meta name="calibre:title_sort" content="Elsie's New Relations / What They Did and How They Fared at Ion; A Sequel to Grandmother Elsie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

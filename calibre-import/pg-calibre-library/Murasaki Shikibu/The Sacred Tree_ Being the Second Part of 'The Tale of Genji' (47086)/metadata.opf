@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47086</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63cc370b-93c0-4de0-8dc8-926f45a74d98</dc:identifier>
+        <dc:title>The Sacred Tree: Being the Second Part of 'The Tale of Genji'</dc:title>
+        <dc:creator opf:file-as="Murasaki Shikibu" opf:role="aut">Murasaki Shikibu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67111</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Japan -- Court and courtiers -- Fiction</dc:subject>
+        <dc:subject>Japanese fiction -- To 1600 -- Translations into English</dc:subject>
+        <dc:subject>Japan -- Social life and customs -- To 1600 -- Fiction</dc:subject>
+        <dc:subject>Aristocracy (Social class) -- Japan -- Fiction</dc:subject>
+        <dc:subject>Princes -- Japan -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Murasaki Shikibu&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:09:14.645906+00:00"/>
+        <meta name="calibre:title_sort" content="Sacred Tree: Being the Second Part of 'The Tale of Genji', The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

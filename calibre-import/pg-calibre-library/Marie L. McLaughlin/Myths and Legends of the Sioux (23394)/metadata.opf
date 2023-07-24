@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">effa6dec-1b1b-44ba-bdb1-4de1f407e90d</dc:identifier>
+        <dc:title>Myths and Legends of the Sioux</dc:title>
+        <dc:creator opf:file-as="McLaughlin, Marie L." opf:role="aut">Marie L. McLaughlin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/341</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mdewakanton Indians -- Folklore</dc:subject>
+        <dc:subject>Dakota Indians -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie L. McLaughlin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:20:50.270951+00:00"/>
+        <meta name="calibre:title_sort" content="Myths and Legends of the Sioux"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

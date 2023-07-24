@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42075</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca36e3d8-deee-4cb9-8f39-1d92b701ee64</dc:identifier>
+        <dc:title>The Life and Letters of Maria Edgeworth, Volume 1</dc:title>
+        <dc:creator opf:file-as="Edgeworth, Maria" opf:role="aut">Maria Edgeworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8825</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Edgeworth</dc:subject>
+        <dc:subject>Maria</dc:subject>
+        <dc:subject>1768-1849</dc:subject>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>Irish -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maria Edgeworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:23:41.483910+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Letters of Maria Edgeworth, Volume 1, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

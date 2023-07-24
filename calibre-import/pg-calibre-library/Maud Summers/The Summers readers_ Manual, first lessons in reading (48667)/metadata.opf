@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b86e6201-644c-4b55-a2aa-144c10186b53</dc:identifier>
+        <dc:title>The Summers readers: Manual, first lessons in reading</dc:title>
+        <dc:creator opf:file-as="Summers, Maud" opf:role="aut">Maud Summers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69672</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Reading (Elementary)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maud Summers&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:43:23.637729+00:00"/>
+        <meta name="calibre:title_sort" content="Summers readers: Manual, first lessons in reading, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

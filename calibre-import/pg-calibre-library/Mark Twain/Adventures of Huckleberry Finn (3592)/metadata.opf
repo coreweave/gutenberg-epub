@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3592</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd1c9509-12ba-4c03-8eac-7ba986e31383</dc:identifier>
+        <dc:title>Adventures of Huckleberry Finn</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/76</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Boys -- Fiction</dc:subject>
+        <dc:subject>Male friendship -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Missouri -- Fiction</dc:subject>
+        <dc:subject>Race relations -- Fiction</dc:subject>
+        <dc:subject>Runaway children -- Fiction</dc:subject>
+        <dc:subject>Finn</dc:subject>
+        <dc:subject>Huckleberry (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Fugitive slaves -- Fiction</dc:subject>
+        <dc:subject>Mississippi River -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:25:17.180356+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Huckleberry Finn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c8bdb89-220e-4971-bf10-e0f613226c0a</dc:identifier>
+        <dc:title>The Cave Boy of the Age of Stone</dc:title>
+        <dc:creator opf:file-as="McIntyre, Margaret A." opf:role="aut">Margaret A. McIntyre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18576</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stone age -- Juvenile fiction</dc:subject>
+        <dc:subject>Cave dwellers -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret A. McIntyre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:56:29.611836+00:00"/>
+        <meta name="calibre:title_sort" content="Cave Boy of the Age of Stone, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

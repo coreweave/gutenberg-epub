@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ddb5743d-5fce-4aeb-b1d1-1d1cdd958b5f</dc:identifier>
+        <dc:title>The Ranch Girls and Their Heart's Desire</dc:title>
+        <dc:creator opf:file-as="Vandercook, Margaret" opf:role="aut">Margaret Vandercook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37271</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Western stories</dc:subject>
+        <dc:subject>Ranch life -- Juvenile fiction</dc:subject>
+        <dc:subject>Horsemanship -- Juvenile fiction</dc:subject>
+        <dc:subject>Aversion -- Juvenile fiction</dc:subject>
+        <dc:subject>Cowgirls -- Juvenile fiction</dc:subject>
+        <dc:subject>Women in politics -- Juvenile fiction</dc:subject>
+        <dc:subject>Wyoming -- Social life and customs -- Juvenile fiction</dc:subject>
+        <dc:subject>Young women -- Social conditions -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Vandercook&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:22:47.962418+00:00"/>
+        <meta name="calibre:title_sort" content="Ranch Girls and Their Heart's Desire, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

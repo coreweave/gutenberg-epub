@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e85d788b-abbf-4412-8b09-08dc9b1f24e8</dc:identifier>
+        <dc:title>Educational Work of the Girl Scouts</dc:title>
+        <dc:creator opf:file-as="Bryant, Louise Stevens" opf:role="aut">Louise Stevens Bryant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29373</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Girl Scouts -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louise Stevens Bryant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:21:44.435299+00:00"/>
+        <meta name="calibre:title_sort" content="Educational Work of the Girl Scouts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

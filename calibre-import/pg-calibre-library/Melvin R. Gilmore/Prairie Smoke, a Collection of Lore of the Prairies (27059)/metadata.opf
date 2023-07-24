@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27059</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">511563bb-9228-4331-955c-5a524a75bd40</dc:identifier>
+        <dc:title>Prairie Smoke, a Collection of Lore of the Prairies</dc:title>
+        <dc:creator opf:file-as="Gilmore, Melvin R. (Melvin Randolph)" opf:role="aut">Melvin R. Gilmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36012</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Folklore</dc:subject>
+        <dc:subject>Dakota Indians -- Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Melvin R. Gilmore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:57:19.612515+00:00"/>
+        <meta name="calibre:title_sort" content="Prairie Smoke, a Collection of Lore of the Prairies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

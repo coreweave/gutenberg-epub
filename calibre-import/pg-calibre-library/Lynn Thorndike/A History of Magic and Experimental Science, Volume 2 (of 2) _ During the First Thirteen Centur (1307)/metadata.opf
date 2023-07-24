@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cb3d644-6a20-4b6b-94f6-7fec6bd8d9d8</dc:identifier>
+        <dc:title>A History of Magic and Experimental Science, Volume 2 (of 2) / During the First Thirteen Centuries of Our Era</dc:title>
+        <dc:creator opf:file-as="Thorndike, Lynn" opf:role="aut">Lynn Thorndike</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67330</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science -- History</dc:subject>
+        <dc:subject>Magic -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lynn Thorndike&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:45:53.911030+00:00"/>
+        <meta name="calibre:title_sort" content="History of Magic and Experimental Science, Volume 2 (of 2) / During the First Thirteen Centuries of Our Era, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

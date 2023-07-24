@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45a13a36-fdc6-46c4-bb3e-809f86e48eeb</dc:identifier>
+        <dc:title>Mount Music</dc:title>
+        <dc:creator opf:file-as="Ross, Martin" opf:role="aut">Martin Ross</dc:creator>
+        <dc:creator opf:file-as="Ross, Martin" opf:role="aut">E. Oe. Somerville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14025</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ireland -- Social life and customs -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Ross&quot;: &quot;&quot;, &quot;E. Oe. Somerville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:54:57.228461+00:00"/>
+        <meta name="calibre:title_sort" content="Mount Music"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

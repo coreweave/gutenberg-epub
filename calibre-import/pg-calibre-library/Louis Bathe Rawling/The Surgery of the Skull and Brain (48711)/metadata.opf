@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8fa0c45-d968-4423-9577-48857d421199</dc:identifier>
+        <dc:title>The Surgery of the Skull and Brain</dc:title>
+        <dc:creator opf:file-as="Rawling, Louis Bathe" opf:role="aut">Louis Bathe Rawling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61267</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brain -- Surgery</dc:subject>
+        <dc:subject>Skull -- Surgery</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Bathe Rawling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:46:03.753946+00:00"/>
+        <meta name="calibre:title_sort" content="Surgery of the Skull and Brain, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

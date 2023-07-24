@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62edfa7d-4eb7-4a04-a4cc-22c8a5c30144</dc:identifier>
+        <dc:title>Training the Teacher</dc:title>
+        <dc:creator opf:file-as="Brumbaugh, Martin Grove" opf:role="aut">Martin Grove Brumbaugh</dc:creator>
+        <dc:creator opf:file-as="Brumbaugh, Martin Grove" opf:role="aut">Antoinette Abernethy Lamoreaux</dc:creator>
+        <dc:creator opf:file-as="Brumbaugh, Martin Grove" opf:role="aut">Marion Lawrance</dc:creator>
+        <dc:creator opf:file-as="Brumbaugh, Martin Grove" opf:role="aut">A. F. Schauffler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31791</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sunday schools</dc:subject>
+        <dc:subject>Bible -- Study and teaching</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Grove Brumbaugh&quot;: &quot;&quot;, &quot;Antoinette Abernethy Lamoreaux&quot;: &quot;&quot;, &quot;Marion Lawrance&quot;: &quot;&quot;, &quot;A. F. Schauffler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:59:12.371520+00:00"/>
+        <meta name="calibre:title_sort" content="Training the Teacher"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

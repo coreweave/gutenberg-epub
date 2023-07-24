@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51051</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8b8d13c-8604-47fa-aeca-871ba9bd293c</dc:identifier>
+        <dc:title>The Young Lord, and Other Tales; to which is added Victorine Durocher</dc:title>
+        <dc:creator opf:file-as="Crosland, Newton, Mrs." opf:role="aut">Mrs. Newton Crosland</dc:creator>
+        <dc:creator opf:file-as="Crosland, Newton, Mrs." opf:role="aut">Mary Martha Sherwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Avarice -- Juvenile fiction</dc:subject>
+        <dc:subject>Self-interest -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Newton Crosland&quot;: &quot;&quot;, &quot;Mary Martha Sherwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:12:54.844144+00:00"/>
+        <meta name="calibre:title_sort" content="Young Lord, and Other Tales; to which is added Victorine Durocher, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

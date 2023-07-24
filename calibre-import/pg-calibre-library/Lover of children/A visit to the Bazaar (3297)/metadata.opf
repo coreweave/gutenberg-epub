@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0af8ec63-a5a2-4908-adf0-cc1ef38cb65e</dc:identifier>
+        <dc:title>A visit to the Bazaar</dc:title>
+        <dc:creator opf:file-as="Lover of children" opf:role="aut">Lover of children</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Markets -- Juvenile fiction</dc:subject>
+        <dc:subject>Soho Square (London</dc:subject>
+        <dc:subject>England) -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lover of children&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:55.439147+00:00"/>
+        <meta name="calibre:title_sort" content="visit to the Bazaar, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

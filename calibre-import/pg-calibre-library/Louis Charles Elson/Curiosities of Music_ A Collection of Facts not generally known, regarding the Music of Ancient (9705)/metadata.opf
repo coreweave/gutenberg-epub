@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">718f6572-00a1-4c8d-8a23-4ac75e5fef5c</dc:identifier>
+        <dc:title>Curiosities of Music: A Collection of Facts not generally known, regarding the Music of Ancient and Savage Nations</dc:title>
+        <dc:creator opf:file-as="Elson, Louis Charles" opf:role="aut">Louis Charles Elson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66216</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music -- History and criticism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Charles Elson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:40:30.455043+00:00"/>
+        <meta name="calibre:title_sort" content="Curiosities of Music: A Collection of Facts not generally known, regarding the Music of Ancient and Savage Nations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

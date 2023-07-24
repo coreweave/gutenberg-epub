@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bc0c869-4e67-42b2-a32e-65ce9b15a631</dc:identifier>
+        <dc:title>A Manual of Ancient History</dc:title>
+        <dc:creator opf:file-as="Thalheimer, M. E. (Mary Elsie)" opf:role="aut">M. E. Thalheimer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56734</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Ancient</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. E. Thalheimer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:53:15.008078+00:00"/>
+        <meta name="calibre:title_sort" content="Manual of Ancient History, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

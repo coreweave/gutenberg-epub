@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb20943a-e612-4e42-9424-13d2f1f7550c</dc:identifier>
+        <dc:title>Four American Naval Heroes / Paul Jones, Oliver H. Perry, Admiral Farragut, Admiral Dewey</dc:title>
+        <dc:creator opf:file-as="Beebe, Mabel Borton" opf:role="aut">Mabel Borton Beebe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36581</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Farragut</dc:subject>
+        <dc:subject>David Glasgow</dc:subject>
+        <dc:subject>1801-1870</dc:subject>
+        <dc:subject>Jones</dc:subject>
+        <dc:subject>John Paul</dc:subject>
+        <dc:subject>1747-1792</dc:subject>
+        <dc:subject>Dewey</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1837-1917</dc:subject>
+        <dc:subject>Perry</dc:subject>
+        <dc:subject>Oliver Hazard</dc:subject>
+        <dc:subject>1785-1819</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel Borton Beebe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:16:46.024755+00:00"/>
+        <meta name="calibre:title_sort" content="Four American Naval Heroes / Paul Jones, Oliver H. Perry, Admiral Farragut, Admiral Dewey"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0563f333-2512-45a7-b0f2-f01d4c690afa</dc:identifier>
+        <dc:title>Poppy's Presents</dc:title>
+        <dc:creator opf:file-as="Walton, O. F., Mrs." opf:role="aut">Mrs. O. F. Walton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29153</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. O. F. Walton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:50:45.381821+00:00"/>
+        <meta name="calibre:title_sort" content="Poppy's Presents"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

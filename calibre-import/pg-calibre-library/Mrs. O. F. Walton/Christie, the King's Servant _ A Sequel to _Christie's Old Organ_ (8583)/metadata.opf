@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f4fd75f-4d4c-49b9-b90d-f9a35c9e2209</dc:identifier>
+        <dc:title>Christie, the King's Servant / A Sequel to "Christie's Old Organ"</dc:title>
+        <dc:creator opf:file-as="Walton, O. F., Mrs." opf:role="aut">Mrs. O. F. Walton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian life -- Juvenile fiction</dc:subject>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. O. F. Walton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:12:21.303520+00:00"/>
+        <meta name="calibre:title_sort" content="Christie, the King's Servant / A Sequel to &quot;Christie's Old Organ&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

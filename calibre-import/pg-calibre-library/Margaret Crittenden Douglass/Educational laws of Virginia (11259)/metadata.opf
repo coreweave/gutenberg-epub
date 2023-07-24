@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a839d986-215d-4d26-994f-2eb10cbb572a</dc:identifier>
+        <dc:title>Educational laws of Virginia</dc:title>
+        <dc:creator opf:file-as="Douglass, Margaret Crittenden" opf:role="aut">Margaret Crittenden Douglass</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70331</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- Education -- Virginia</dc:subject>
+        <dc:subject>Douglass</dc:subject>
+        <dc:subject>Margaret Crittenden</dc:subject>
+        <dc:subject>1822-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Crittenden Douglass&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:21:46.223285+00:00"/>
+        <meta name="calibre:title_sort" content="Educational laws of Virginia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

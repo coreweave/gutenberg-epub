@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">952cf063-10ed-481a-abc3-170c70ef119d</dc:identifier>
+        <dc:title>The Life of Gen. Thos. J. Jackson, "Stonewall" / For the Young (Fourth Reader Grade), in Easy Words</dc:title>
+        <dc:creator opf:file-as="Williamson, Mary L. (Mary Lynn)" opf:role="aut">Mary L. Williamson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60409</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- Confederate States of America -- Biography -- Juvenile literature</dc:subject>
+        <dc:subject>Jackson</dc:subject>
+        <dc:subject>Stonewall</dc:subject>
+        <dc:subject>1824-1863 -- Juvenile literature</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Biography -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary L. Williamson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:28:38.465277+00:00"/>
+        <meta name="calibre:title_sort" content="Life of Gen. Thos. J. Jackson, &quot;Stonewall&quot; / For the Young (Fourth Reader Grade), in Easy Words, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

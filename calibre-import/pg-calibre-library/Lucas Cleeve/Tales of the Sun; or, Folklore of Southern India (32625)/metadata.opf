@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44931c20-64c5-4aa6-8e87-225af69a94e1</dc:identifier>
+        <dc:title>Tales of the Sun; or, Folklore of Southern India</dc:title>
+        <dc:creator opf:file-as="Cleeve, Lucas" opf:role="aut">Lucas Cleeve</dc:creator>
+        <dc:creator opf:file-as="Cleeve, Lucas" opf:role="aut">Pandit Natesa Sastri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37002</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tales -- India</dc:subject>
+        <dc:subject>Legends -- India</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucas Cleeve&quot;: &quot;&quot;, &quot;Pandit Natesa Sastri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:18:09.333625+00:00"/>
+        <meta name="calibre:title_sort" content="Tales of the Sun; or, Folklore of Southern India"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

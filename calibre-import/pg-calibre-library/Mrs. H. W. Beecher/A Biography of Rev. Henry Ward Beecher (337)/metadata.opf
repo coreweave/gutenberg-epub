@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f91a6b9e-2b68-4caa-be0a-4b9a24b8aea0</dc:identifier>
+        <dc:title>A Biography of Rev. Henry Ward Beecher</dc:title>
+        <dc:creator opf:file-as="Beecher, H. W., Mrs." opf:role="aut">Mrs. H. W. Beecher</dc:creator>
+        <dc:creator opf:file-as="Beecher, H. W., Mrs." opf:role="aut">William Constantine Beecher</dc:creator>
+        <dc:creator opf:file-as="Beecher, H. W., Mrs." opf:role="aut">Samuel Scoville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55330</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beecher</dc:subject>
+        <dc:subject>Henry Ward</dc:subject>
+        <dc:subject>1813-1887</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. H. W. Beecher&quot;: &quot;&quot;, &quot;William Constantine Beecher&quot;: &quot;&quot;, &quot;Samuel Scoville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:31:02.328441+00:00"/>
+        <meta name="calibre:title_sort" content="Biography of Rev. Henry Ward Beecher, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

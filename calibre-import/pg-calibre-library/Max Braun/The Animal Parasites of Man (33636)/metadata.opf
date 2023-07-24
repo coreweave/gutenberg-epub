@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6aeab5f2-1add-40ca-ab0d-ca6b4e483c80</dc:identifier>
+        <dc:title>The Animal Parasites of Man</dc:title>
+        <dc:creator opf:file-as="Braun, Max" opf:role="aut">Max Braun</dc:creator>
+        <dc:creator opf:file-as="Braun, Max" opf:role="aut">Harold Benjamin Fantham</dc:creator>
+        <dc:creator opf:file-as="Braun, Max" opf:role="aut">J. W. W. Stephens</dc:creator>
+        <dc:creator opf:file-as="Braun, Max" opf:role="aut">Fred. V. Theobald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57713</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medical parasitology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Max Braun&quot;: &quot;&quot;, &quot;Harold Benjamin Fantham&quot;: &quot;&quot;, &quot;J. W. W. Stephens&quot;: &quot;&quot;, &quot;Fred. V. Theobald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:07:19.620074+00:00"/>
+        <meta name="calibre:title_sort" content="Animal Parasites of Man, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

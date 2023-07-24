@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15efb502-aab5-446f-83de-a84e3de705b8</dc:identifier>
+        <dc:title>My Chinese Marriage</dc:title>
+        <dc:creator opf:file-as="Franking, Mae M." opf:role="aut">Mae M. Franking</dc:creator>
+        <dc:creator opf:file-as="Franking, Mae M." opf:role="aut">Katherine Anne Porter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57382</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>China -- Social life and customs -- 1912-1949</dc:subject>
+        <dc:subject>Franking</dc:subject>
+        <dc:subject>Mae M.</dc:subject>
+        <dc:subject>Americans -- China -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mae M. Franking&quot;: &quot;&quot;, &quot;Katherine Anne Porter&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:08:38.042002+00:00"/>
+        <meta name="calibre:title_sort" content="My Chinese Marriage"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

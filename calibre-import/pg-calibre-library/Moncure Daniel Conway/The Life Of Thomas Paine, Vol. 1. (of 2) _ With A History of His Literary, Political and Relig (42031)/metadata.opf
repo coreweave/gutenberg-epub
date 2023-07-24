@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d847c6e-34ca-4193-8e08-793e6f47a46a</dc:identifier>
+        <dc:title>The Life Of Thomas Paine, Vol. 1. (of 2) / With A History of His Literary, Political and Religious Career in America France, and England; to which is added a Sketch of Paine by William Cobbett</dc:title>
+        <dc:creator opf:file-as="Conway, Moncure Daniel" opf:role="aut">Moncure Daniel Conway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37701</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paine</dc:subject>
+        <dc:subject>Thomas</dc:subject>
+        <dc:subject>1737-1809</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Moncure Daniel Conway&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:21:12.288376+00:00"/>
+        <meta name="calibre:title_sort" content="Life Of Thomas Paine, Vol. 1. (of 2) / With A History of His Literary, Political and Religious Career in America France, and England; to which is added a Sketch of Paine by William Cobbett, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

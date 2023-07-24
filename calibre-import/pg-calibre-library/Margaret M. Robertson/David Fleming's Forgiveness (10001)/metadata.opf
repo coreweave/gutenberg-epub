@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10001</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a67501c4-e443-4126-aaa0-2137d4d59ddf</dc:identifier>
+        <dc:title>David Fleming's Forgiveness</dc:title>
+        <dc:creator opf:file-as="Robertson, Margaret M. (Margaret Murray)" opf:role="aut">Margaret M. Robertson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27930</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canada -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret M. Robertson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:48:07.320823+00:00"/>
+        <meta name="calibre:title_sort" content="David Fleming's Forgiveness"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

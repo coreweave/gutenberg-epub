@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4588c2c9-fb43-42fc-8b20-5499af189a9b</dc:identifier>
+        <dc:title>The Radio Girls on the program</dc:title>
+        <dc:creator opf:file-as="Penrose, Margaret" opf:role="aut">Margaret Penrose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70429</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Girls -- Societies and clubs -- Juvenile fiction</dc:subject>
+        <dc:subject>Fund raising -- Juvenile fiction</dc:subject>
+        <dc:subject>Radio broadcasting -- Juvenile fiction</dc:subject>
+        <dc:subject>Singing -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Penrose&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:19:56.766616+00:00"/>
+        <meta name="calibre:title_sort" content="Radio Girls on the program, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

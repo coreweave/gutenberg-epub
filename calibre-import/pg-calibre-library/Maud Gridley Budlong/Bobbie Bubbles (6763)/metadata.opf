@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d4f77e9-2758-4b1d-8c75-bb60de961708</dc:identifier>
+        <dc:title>Bobbie Bubbles</dc:title>
+        <dc:creator opf:file-as="Budlong, Maud Gridley" opf:role="aut">Maud Gridley Budlong</dc:creator>
+        <dc:creator opf:file-as="Budlong, Maud Gridley" opf:role="aut">E. Hugh Sherwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45070</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy literature</dc:subject>
+        <dc:subject>Soap bubbles -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maud Gridley Budlong&quot;: &quot;&quot;, &quot;E. Hugh Sherwood&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:29:33.479398+00:00"/>
+        <meta name="calibre:title_sort" content="Bobbie Bubbles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

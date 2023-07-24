@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">605d7158-cd09-4bb4-bf69-f8023855473a</dc:identifier>
+        <dc:title>An essay in defence of the female sex / In which are inserted the characters of a pedant, a squire, a beau, a vertuoso, a poetaster, a city-critick, &amp;c. in a letter to a lady.</dc:title>
+        <dc:creator opf:file-as="Astell, Mary" opf:role="aut">Mary Astell</dc:creator>
+        <dc:creator opf:file-as="Astell, Mary" opf:role="aut">active 1696-1707 Judith Drake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57596</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Astell&quot;: &quot;&quot;, &quot;active 1696-1707 Judith Drake&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:44:25.102345+00:00"/>
+        <meta name="calibre:title_sort" content="essay in defence of the female sex / In which are inserted the characters of a pedant, a squire, a beau, a vertuoso, a poetaster, a city-critick, &amp;c. in a letter to a lady., An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

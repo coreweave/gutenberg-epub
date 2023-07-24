@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28781</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f090b88e-6406-4441-9a32-0331b0a64b8c</dc:identifier>
+        <dc:title>Report of the committee appointed to investigate the causes and extent of the late extraordinary sickness and mortality in the town of Mobile</dc:title>
+        <dc:creator opf:file-as="Mobile (Ala.). Committee on Causes and Extent of the Late Extraordinary Sickness and Mortality in the Town" opf:role="aut">Mobile . Committee on Causes</dc:creator>
+        <dc:creator opf:file-as="Mobile (Ala.). Committee on Causes and Extent of the Late Extraordinary Sickness and Mortality in the Town" opf:role="aut">Extent of the Late Extraordinary Sickness</dc:creator>
+        <dc:creator opf:file-as="Mobile (Ala.). Committee on Causes and Extent of the Late Extraordinary Sickness and Mortality in the Town" opf:role="aut">Mortality in the Town</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63408</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Yellow fever -- Alabama -- Mobile</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mobile . Committee on Causes&quot;: &quot;&quot;, &quot;Extent of the Late Extraordinary Sickness&quot;: &quot;&quot;, &quot;Mortality in the Town&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:14:07.665708+00:00"/>
+        <meta name="calibre:title_sort" content="Report of the committee appointed to investigate the causes and extent of the late extraordinary sickness and mortality in the town of Mobile"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

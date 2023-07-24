@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13018</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f7e7616-7eeb-43a1-a881-2dfe2c5f9b40</dc:identifier>
+        <dc:title>Food and Health</dc:title>
+        <dc:creator opf:file-as="Lydia E. Pinkham Medicine Company" opf:role="aut">Lydia E. Pinkham Medicine Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16977</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Women -- Health and hygiene</dc:subject>
+        <dc:subject>Lydia E. Pinkham Medicine Company</dc:subject>
+        <dc:subject>Patent medicines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lydia E. Pinkham Medicine Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:11:17.414321+00:00"/>
+        <meta name="calibre:title_sort" content="Food and Health"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

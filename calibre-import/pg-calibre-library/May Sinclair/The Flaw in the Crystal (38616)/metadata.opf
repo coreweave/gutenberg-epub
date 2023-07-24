@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38616</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc9a0cf0-46f9-4a4b-9353-0691fc36a005</dc:identifier>
+        <dc:title>The Flaw in the Crystal</dc:title>
+        <dc:creator opf:file-as="Sinclair, May" opf:role="aut">May Sinclair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Psychics -- Fiction</dc:subject>
+        <dc:subject>Healers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;May Sinclair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:18:25.477615+00:00"/>
+        <meta name="calibre:title_sort" content="Flaw in the Crystal, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

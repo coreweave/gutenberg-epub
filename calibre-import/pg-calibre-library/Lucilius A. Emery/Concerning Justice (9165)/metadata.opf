@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1acb306e-b3e8-4829-afa0-8a6fcf6c6080</dc:identifier>
+        <dc:title>Concerning Justice</dc:title>
+        <dc:creator opf:file-as="Emery, Lucilius A. (Lucilius Alonzo)" opf:role="aut">Lucilius A. Emery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31504</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Courts -- United States</dc:subject>
+        <dc:subject>Justice</dc:subject>
+        <dc:subject>Administration of</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucilius A. Emery&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:26:47.131375+00:00"/>
+        <meta name="calibre:title_sort" content="Concerning Justice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

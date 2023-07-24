@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1545707e-60eb-44fc-97ee-b3ae7db79af0</dc:identifier>
+        <dc:title>Biographical catalogue of the portraits at Weston, the seat of the Earl of Bradford</dc:title>
+        <dc:creator opf:file-as="Boyle, Mary Louisa" opf:role="aut">Mary Louisa Boyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64984</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Private collections -- Great Britain -- Catalogs</dc:subject>
+        <dc:subject>Great Britain -- Biography -- Portraits -- Catalogs</dc:subject>
+        <dc:subject>Weston Park (House: Shropshire</dc:subject>
+        <dc:subject>England)</dc:subject>
+        <dc:subject>Bradford</dc:subject>
+        <dc:subject>George Cecil Orlando Bridgeman</dc:subject>
+        <dc:subject>4th Earl of</dc:subject>
+        <dc:subject>1845-1915 -- Art collections -- Catalogs</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Louisa Boyle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:20:59.673146+00:00"/>
+        <meta name="calibre:title_sort" content="Biographical catalogue of the portraits at Weston, the seat of the Earl of Bradford"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

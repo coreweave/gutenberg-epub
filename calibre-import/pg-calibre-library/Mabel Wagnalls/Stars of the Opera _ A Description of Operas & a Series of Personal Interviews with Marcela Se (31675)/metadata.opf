@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cab6429c-2670-4329-8489-ce5874980e4a</dc:identifier>
+        <dc:title>Stars of the Opera / A Description of Operas &amp; a Series of Personal Interviews with Marcela Sembrich, Emma Eames, Emma Calvé, Lillian Nordica, Lilli Lehmann, Geraldine Farrar &amp; Nellie Melba</dc:title>
+        <dc:creator opf:file-as="Wagnalls, Mabel" opf:role="aut">Mabel Wagnalls</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38153</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Operas -- Stories</dc:subject>
+        <dc:subject>plots</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Singers</dc:subject>
+        <dc:subject>Farrar</dc:subject>
+        <dc:subject>Geraldine</dc:subject>
+        <dc:subject>1882-1967</dc:subject>
+        <dc:subject>Sembrich</dc:subject>
+        <dc:subject>Marcella</dc:subject>
+        <dc:subject>1858-1935</dc:subject>
+        <dc:subject>Eames</dc:subject>
+        <dc:subject>Emma</dc:subject>
+        <dc:subject>1865-1952</dc:subject>
+        <dc:subject>Calvé</dc:subject>
+        <dc:subject>1858-1942</dc:subject>
+        <dc:subject>Nordica</dc:subject>
+        <dc:subject>Lillian</dc:subject>
+        <dc:subject>1857-1914</dc:subject>
+        <dc:subject>Lehmann</dc:subject>
+        <dc:subject>Lilli</dc:subject>
+        <dc:subject>1848-1929</dc:subject>
+        <dc:subject>Melba</dc:subject>
+        <dc:subject>Nellie</dc:subject>
+        <dc:subject>Dame</dc:subject>
+        <dc:subject>1861-1931</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel Wagnalls&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:31:22.224823+00:00"/>
+        <meta name="calibre:title_sort" content="Stars of the Opera / A Description of Operas &amp; a Series of Personal Interviews with Marcela Sembrich, Emma Eames, Emma Calvé, Lillian Nordica, Lilli Lehmann, Geraldine Farrar &amp; Nellie Melba"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

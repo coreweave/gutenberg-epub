@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc1b6e00-3ad9-4774-a0d0-54fa9cf9d475</dc:identifier>
+        <dc:title>Ten Years' Exile / Memoirs of That Interesting Period of the Life of the Baroness De Stael-Holstein, Written by Herself, during the Years 1810, 1811, 1812, and 1813, and Now First Published from the Original Manuscript, by Her Son.</dc:title>
+        <dc:creator opf:file-as="Staël, Madame de (Anne-Louise-Germaine)" opf:role="aut">Madame de Staël</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16245</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Consulate and First Empire</dc:subject>
+        <dc:subject>1799-1815</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>French -- 19th century -- Biography</dc:subject>
+        <dc:subject>Staël</dc:subject>
+        <dc:subject>Madame de (Anne-Louise-Germaine)</dc:subject>
+        <dc:subject>1766-1817</dc:subject>
+        <dc:subject>Intellectuals -- France -- Biography</dc:subject>
+        <dc:subject>Women -- France -- Intellectual life</dc:subject>
+        <dc:subject>France -- Intellectual life -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Madame de Staël&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:26:53.338041+00:00"/>
+        <meta name="calibre:title_sort" content="Ten Years' Exile / Memoirs of That Interesting Period of the Life of the Baroness De Stael-Holstein, Written by Herself, during the Years 1810, 1811, 1812, and 1813, and Now First Published from the Original Manuscript, by Her Son."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

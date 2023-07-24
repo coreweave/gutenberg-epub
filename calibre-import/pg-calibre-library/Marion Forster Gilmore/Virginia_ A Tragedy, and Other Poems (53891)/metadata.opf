@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77774686-8e1f-4f96-91c8-be9858399be3</dc:identifier>
+        <dc:title>Virginia: A Tragedy, and Other Poems</dc:title>
+        <dc:creator opf:file-as="Gilmore, Marion Forster" opf:role="aut">Marion Forster Gilmore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36214</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <dc:subject>Tragedies</dc:subject>
+        <dc:subject>Virginia</dc:subject>
+        <dc:subject>daughter of Virginius (Legendary character) -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marion Forster Gilmore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:15:47.877836+00:00"/>
+        <meta name="calibre:title_sort" content="Virginia: A Tragedy, and Other Poems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94a2076e-f8c2-487a-bbcf-849e6395800b</dc:identifier>
+        <dc:title>The Motor Girls Through New England; or, Held by the Gypsies</dc:title>
+        <dc:creator opf:file-as="Penrose, Margaret" opf:role="aut">Margaret Penrose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20870</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Girls -- Societies and clubs -- Juvenile fiction</dc:subject>
+        <dc:subject>Automobile travel -- Juvenile fiction</dc:subject>
+        <dc:subject>New England -- Juvenile fiction</dc:subject>
+        <dc:subject>Romanies -- Juvenile fiction</dc:subject>
+        <dc:subject>Brigands and robbers -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Penrose&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:11:43.445935+00:00"/>
+        <meta name="calibre:title_sort" content="Motor Girls Through New England; or, Held by the Gypsies, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53fa3f74-b0a7-48e0-a691-4c2bfa643e47</dc:identifier>
+        <dc:title>A Journey to Ohio in 1810, as Recorded in the Journal of Margaret Van Horn Dwight</dc:title>
+        <dc:creator opf:file-as="Dwight, Margaret Van Horn" opf:role="aut">Margaret Van Horn Dwight</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36126</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>Dwight</dc:subject>
+        <dc:subject>Margaret Van Horn</dc:subject>
+        <dc:subject>1790-1834 -- Diaries</dc:subject>
+        <dc:subject>Atlantic States -- Description and travel</dc:subject>
+        <dc:subject>Pennsylvania -- Description and travel</dc:subject>
+        <dc:subject>Ohio -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Van Horn Dwight&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:48:45.508866+00:00"/>
+        <meta name="calibre:title_sort" content="Journey to Ohio in 1810, as Recorded in the Journal of Margaret Van Horn Dwight, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

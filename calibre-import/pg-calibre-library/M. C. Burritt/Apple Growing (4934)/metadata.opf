@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">292accc8-2434-4d69-98b5-9768ce41e024</dc:identifier>
+        <dc:title>Apple Growing</dc:title>
+        <dc:creator opf:file-as="Burritt, M. C. (Maurice Chase)" opf:role="aut">M. C. Burritt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20770</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Apples</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. C. Burritt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:50:54.374571+00:00"/>
+        <meta name="calibre:title_sort" content="Apple Growing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

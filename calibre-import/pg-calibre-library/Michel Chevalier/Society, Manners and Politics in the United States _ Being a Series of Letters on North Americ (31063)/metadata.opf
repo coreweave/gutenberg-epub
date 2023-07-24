@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79d99e93-d70a-4f81-b81a-53afdafa4414</dc:identifier>
+        <dc:title>Society, Manners and Politics in the United States / Being a Series of Letters on North America</dc:title>
+        <dc:creator opf:file-as="Chevalier, Michel" opf:role="aut">Michel Chevalier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45761</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>United States -- Social conditions -- To 1865</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1829-1837</dc:subject>
+        <dc:subject>Chevalier</dc:subject>
+        <dc:subject>Michel</dc:subject>
+        <dc:subject>1806-1879 -- Correspondence</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michel Chevalier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:02:13.674243+00:00"/>
+        <meta name="calibre:title_sort" content="Society, Manners and Politics in the United States / Being a Series of Letters on North America"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

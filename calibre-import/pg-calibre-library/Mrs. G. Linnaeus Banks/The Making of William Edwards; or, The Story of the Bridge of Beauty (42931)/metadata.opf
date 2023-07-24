@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42931</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fb5f512-ec98-489a-9189-b2c40a8d8d28</dc:identifier>
+        <dc:title>The Making of William Edwards; or, The Story of the Bridge of Beauty</dc:title>
+        <dc:creator opf:file-as="Banks, G. Linnaeus (George Linnaeus), Mrs." opf:role="aut">Mrs. G. Linnaeus Banks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38212</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. G. Linnaeus Banks&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:11:04.253272+00:00"/>
+        <meta name="calibre:title_sort" content="Making of William Edwards; or, The Story of the Bridge of Beauty, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

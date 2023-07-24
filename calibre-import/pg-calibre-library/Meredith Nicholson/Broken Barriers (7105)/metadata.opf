@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67ef95db-5521-492c-b5b0-9eee6c5ca487</dc:identifier>
+        <dc:title>Broken Barriers</dc:title>
+        <dc:creator opf:file-as="Nicholson, Meredith" opf:role="aut">Meredith Nicholson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66907</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Families -- Fiction</dc:subject>
+        <dc:subject>Indianapolis (Ind.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Meredith Nicholson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:37:23.521232+00:00"/>
+        <meta name="calibre:title_sort" content="Broken Barriers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

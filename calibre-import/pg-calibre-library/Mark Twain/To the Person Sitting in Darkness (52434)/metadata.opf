@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52434</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d008c896-73a7-494e-9ffa-74fc2cbd56d5</dc:identifier>
+        <dc:title>To the Person Sitting in Darkness</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62636</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902</dc:subject>
+        <dc:subject>Philippines -- History -- Philippine American War</dc:subject>
+        <dc:subject>China -- History -- Boxer Rebellion</dc:subject>
+        <dc:subject>1899-1901</dc:subject>
+        <dc:subject>Imperialism</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:42:04.125636+00:00"/>
+        <meta name="calibre:title_sort" content="To the Person Sitting in Darkness"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

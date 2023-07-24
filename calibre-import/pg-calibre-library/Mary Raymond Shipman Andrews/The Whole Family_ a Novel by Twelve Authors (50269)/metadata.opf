@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15904f53-8d0c-41a3-9e42-53bdbe81c150</dc:identifier>
+        <dc:title>The Whole Family: a Novel by Twelve Authors</dc:title>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Mary Raymond Shipman Andrews</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">John Kendrick Bangs</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Alice Brown</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Mary Stewart Cutting</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Mary Eleanor Wilkins Freeman</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">William Dean Howells</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Henry James</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Elizabeth Garver Jordan</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Elizabeth Stuart Phelps</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Henry Van Dyke</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Mary Heaton Vorse</dc:creator>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Edith Wyatt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5066</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Domestic fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Raymond Shipman Andrews&quot;: &quot;&quot;, &quot;John Kendrick Bangs&quot;: &quot;&quot;, &quot;Alice Brown&quot;: &quot;&quot;, &quot;Mary Stewart Cutting&quot;: &quot;&quot;, &quot;Mary Eleanor Wilkins Freeman&quot;: &quot;&quot;, &quot;William Dean Howells&quot;: &quot;&quot;, &quot;Henry James&quot;: &quot;&quot;, &quot;Elizabeth Garver Jordan&quot;: &quot;&quot;, &quot;Elizabeth Stuart Phelps&quot;: &quot;&quot;, &quot;Henry Van Dyke&quot;: &quot;&quot;, &quot;Mary Heaton Vorse&quot;: &quot;&quot;, &quot;Edith Wyatt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:22:59.473968+00:00"/>
+        <meta name="calibre:title_sort" content="Whole Family: a Novel by Twelve Authors, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

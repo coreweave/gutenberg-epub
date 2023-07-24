@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">870f5732-6c9f-4a07-a6af-4911f5a6f672</dc:identifier>
+        <dc:title>In Naaman's House</dc:title>
+        <dc:creator opf:file-as="Finney, Marian MacLean" opf:role="aut">Marian MacLean Finney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66876</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible stories</dc:subject>
+        <dc:subject>English -- Old Testament</dc:subject>
+        <dc:subject>Naaman</dc:subject>
+        <dc:subject>the Syrian -- Fiction</dc:subject>
+        <dc:subject>Elisha (Biblical prophet) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marian MacLean Finney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:23:28.634896+00:00"/>
+        <meta name="calibre:title_sort" content="In Naaman's House"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

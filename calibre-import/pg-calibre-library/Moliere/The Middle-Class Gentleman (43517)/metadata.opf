@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc071b2f-a11e-49c2-9545-caab31e1f73c</dc:identifier>
+        <dc:title>The Middle-Class Gentleman</dc:title>
+        <dc:creator opf:file-as="Molière" opf:role="aut">Molière</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2992</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>French drama</dc:subject>
+        <dc:subject>Middle class -- France -- Drama</dc:subject>
+        <dc:subject>France -- Social life and customs -- 17th century -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Molière&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:43:40.100038+00:00"/>
+        <meta name="calibre:title_sort" content="Middle-Class Gentleman, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

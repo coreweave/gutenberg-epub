@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd0a35e9-b87e-4d4f-82dc-62c9d9fe7b7c</dc:identifier>
+        <dc:title>Arteriosclerosis and Hypertension, with Chapters on Blood Pressure / 3rd Edition.</dc:title>
+        <dc:creator opf:file-as="Warfield, Louis M. (Louis Marshall)" opf:role="aut">Louis M. Warfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37675</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Blood pressure</dc:subject>
+        <dc:subject>Arteries -- Diseases</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis M. Warfield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:55:23.945876+00:00"/>
+        <meta name="calibre:title_sort" content="Arteriosclerosis and Hypertension, with Chapters on Blood Pressure / 3rd Edition."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

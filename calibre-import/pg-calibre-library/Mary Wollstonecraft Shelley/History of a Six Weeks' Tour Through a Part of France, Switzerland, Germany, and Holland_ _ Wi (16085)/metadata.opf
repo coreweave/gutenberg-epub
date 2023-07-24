@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd592ab3-b0b6-4c0a-a60d-33ab5cd53b93</dc:identifier>
+        <dc:title>History of a Six Weeks' Tour Through a Part of France, Switzerland, Germany, and Holland: / With Letters Descriptive of a Sail Round the Lake of Geneva, and of the Glaciers of Chamouni.</dc:title>
+        <dc:creator opf:file-as="Shelley, Mary Wollstonecraft" opf:role="aut">Mary Wollstonecraft Shelley</dc:creator>
+        <dc:creator opf:file-as="Shelley, Mary Wollstonecraft" opf:role="aut">Percy Bysshe Shelley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52790</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Shelley</dc:subject>
+        <dc:subject>Mary Wollstonecraft</dc:subject>
+        <dc:subject>1797-1851 -- Travel -- Europe</dc:subject>
+        <dc:subject>Percy Bysshe</dc:subject>
+        <dc:subject>1792-1822 -- Travel -- Europe</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Wollstonecraft Shelley&quot;: &quot;&quot;, &quot;Percy Bysshe Shelley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:47:58.117976+00:00"/>
+        <meta name="calibre:title_sort" content="History of a Six Weeks' Tour Through a Part of France, Switzerland, Germany, and Holland: / With Letters Descriptive of a Sail Round the Lake of Geneva, and of the Glaciers of Chamouni."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

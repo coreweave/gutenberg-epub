@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea178ff1-3dd6-472a-b1c8-db3f13f178c9</dc:identifier>
+        <dc:title>Cinderella Jane</dc:title>
+        <dc:creator opf:file-as="Cooke, Marjorie Benton" opf:role="aut">Marjorie Benton Cooke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Married people -- Fiction</dc:subject>
+        <dc:subject>Marriage -- Fiction</dc:subject>
+        <dc:subject>Women novelists -- Fiction</dc:subject>
+        <dc:subject>Portrait painters -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marjorie Benton Cooke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:16:12.566440+00:00"/>
+        <meta name="calibre:title_sort" content="Cinderella Jane"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

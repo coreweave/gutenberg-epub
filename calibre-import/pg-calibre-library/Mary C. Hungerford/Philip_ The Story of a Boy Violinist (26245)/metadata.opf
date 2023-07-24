@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f88e62f2-63e6-4655-b0fe-77bff3139595</dc:identifier>
+        <dc:title>Philip: The Story of a Boy Violinist</dc:title>
+        <dc:creator opf:file-as="Hungerford, Mary C. (Mary Churchill)" opf:role="aut">Mary C. Hungerford</dc:creator>
+        <dc:creator opf:file-as="Hungerford, Mary C. (Mary Churchill)" opf:role="aut">Virginia C. Young</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57476</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Boys -- Fiction</dc:subject>
+        <dc:subject>Violinists -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary C. Hungerford&quot;: &quot;&quot;, &quot;Virginia C. Young&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:21:30.975539+00:00"/>
+        <meta name="calibre:title_sort" content="Philip: The Story of a Boy Violinist"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

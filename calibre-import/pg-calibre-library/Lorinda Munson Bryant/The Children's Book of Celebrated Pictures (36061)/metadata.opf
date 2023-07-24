@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36061</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f6cc0f0-af87-44ac-bcc8-2bde6f8a2798</dc:identifier>
+        <dc:title>The Children's Book of Celebrated Pictures</dc:title>
+        <dc:creator opf:file-as="Bryant, Lorinda Munson" opf:role="aut">Lorinda Munson Bryant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26703</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Art -- Juvenile literature</dc:subject>
+        <dc:subject>Painting -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lorinda Munson Bryant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:07:27.891675+00:00"/>
+        <meta name="calibre:title_sort" content="Children's Book of Celebrated Pictures, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

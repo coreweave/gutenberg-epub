@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c5cff79-a676-4042-a320-73ca45041e1d</dc:identifier>
+        <dc:title>Asgard Stories: Tales from Norse Mythology</dc:title>
+        <dc:creator opf:file-as="Cummings, Mabel H." opf:role="aut">Mabel H. Cummings</dc:creator>
+        <dc:creator opf:file-as="Cummings, Mabel H." opf:role="aut">Mary H. Foster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37488</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mythology</dc:subject>
+        <dc:subject>Norse</dc:subject>
+        <dc:subject>Eddas -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel H. Cummings&quot;: &quot;&quot;, &quot;Mary H. Foster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:56:29.609033+00:00"/>
+        <meta name="calibre:title_sort" content="Asgard Stories: Tales from Norse Mythology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

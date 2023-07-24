@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e07cbba-40ee-418c-a7b3-2d3e0e4845cb</dc:identifier>
+        <dc:title>Life and Travels of Mungo Park</dc:title>
+        <dc:creator opf:file-as="Park, Mungo" opf:role="aut">Mungo Park</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8564</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Africa -- Discovery and exploration</dc:subject>
+        <dc:subject>Niger River</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mungo Park&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:57:24.244331+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Travels of Mungo Park"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

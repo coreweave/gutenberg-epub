@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3e400e7-1d7b-4698-9dfc-b451a2865ca6</dc:identifier>
+        <dc:title>Generals Help Themselves</dc:title>
+        <dc:creator opf:file-as="Pease, M. C." opf:role="aut">M. C. Pease</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31680</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>War stories</dc:subject>
+        <dc:subject>Generals -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. C. Pease&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:37:45.188625+00:00"/>
+        <meta name="calibre:title_sort" content="Generals Help Themselves"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

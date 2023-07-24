@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4aff9e45-223c-4594-b9bf-f06a4be5eff5</dc:identifier>
+        <dc:title>Sir Christopher Wren: His Family and His Times / With Original Letters and a Discourse on Architecture Hitherto Unpublished. 1585-1723.</dc:title>
+        <dc:creator opf:file-as="Phillimore, Lucy" opf:role="aut">Lucy Phillimore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42007</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wren</dc:subject>
+        <dc:subject>Christopher</dc:subject>
+        <dc:subject>Sir</dc:subject>
+        <dc:subject>1632-1723</dc:subject>
+        <dc:subject>Wren family</dc:subject>
+        <dc:subject>Great Britain -- History -- Stuarts</dc:subject>
+        <dc:subject>1603-1714 -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucy Phillimore&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:43:28.375633+00:00"/>
+        <meta name="calibre:title_sort" content="Sir Christopher Wren: His Family and His Times / With Original Letters and a Discourse on Architecture Hitherto Unpublished. 1585-1723."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

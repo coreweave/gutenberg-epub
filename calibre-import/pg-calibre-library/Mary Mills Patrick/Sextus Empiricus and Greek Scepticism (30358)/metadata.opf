@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30358</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5157dd36-103a-4b17-ab08-929538b4a21f</dc:identifier>
+        <dc:title>Sextus Empiricus and Greek Scepticism</dc:title>
+        <dc:creator opf:file-as="Patrick, Mary Mills" opf:role="aut">Mary Mills Patrick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17556</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Skepticism</dc:subject>
+        <dc:subject>Sextus Empiricus</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Mills Patrick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:28:59.629200+00:00"/>
+        <meta name="calibre:title_sort" content="Sextus Empiricus and Greek Scepticism"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

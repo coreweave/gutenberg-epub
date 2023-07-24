@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">383c4423-9299-4a8c-b87f-192b8dbabe3b</dc:identifier>
+        <dc:title>Woman in the Nineteenth Century / and Kindred Papers Relating to the Sphere, Condition and Duties, of Woman.</dc:title>
+        <dc:creator opf:file-as="Fuller, Margaret" opf:role="aut">Margaret Fuller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8642</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Feminism</dc:subject>
+        <dc:subject>Women -- Social and moral questions</dc:subject>
+        <dc:subject>Women's rights</dc:subject>
+        <dc:subject>Man-woman relationships</dc:subject>
+        <dc:subject>Women -- History -- Modern period</dc:subject>
+        <dc:subject>1600-</dc:subject>
+        <dc:subject>Social history -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Fuller&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:45:32.219014+00:00"/>
+        <meta name="calibre:title_sort" content="Woman in the Nineteenth Century / and Kindred Papers Relating to the Sphere, Condition and Duties, of Woman."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

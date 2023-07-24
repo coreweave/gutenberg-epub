@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13893</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3c6d51a-f9f7-4415-82bd-ea9b2c4505db</dc:identifier>
+        <dc:title>General Washington's spies on Long Island and in New York</dc:title>
+        <dc:creator opf:file-as="Pennypacker, Morton" opf:role="aut">Morton Pennypacker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70129</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New York (N.Y.) -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799 -- Career in espionage</dc:subject>
+        <dc:subject>Spies -- New York (State) -- History -- 18th century</dc:subject>
+        <dc:subject>Espionage -- New York (State) -- History -- 18th century</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Secret service</dc:subject>
+        <dc:subject>New York (State) -- History -- Revolution</dc:subject>
+        <dc:subject>Long Island (N.Y.) -- History -- Revolution</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Morton Pennypacker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:37:40.144354+00:00"/>
+        <meta name="calibre:title_sort" content="General Washington's spies on Long Island and in New York"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26736263-85c4-4819-a3fc-e75c8851487c</dc:identifier>
+        <dc:title>The Seven Purposes: An Experience in Psychic Phenomena</dc:title>
+        <dc:creator opf:file-as="Cameron, Margaret" opf:role="aut">Margaret Cameron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60406</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Clairvoyance</dc:subject>
+        <dc:subject>Spirit writings</dc:subject>
+        <dc:subject>Extrasensory perception</dc:subject>
+        <dc:subject>Automatism</dc:subject>
+        <dc:subject>Planchette</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Cameron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:32:33.221089+00:00"/>
+        <meta name="calibre:title_sort" content="Seven Purposes: An Experience in Psychic Phenomena, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

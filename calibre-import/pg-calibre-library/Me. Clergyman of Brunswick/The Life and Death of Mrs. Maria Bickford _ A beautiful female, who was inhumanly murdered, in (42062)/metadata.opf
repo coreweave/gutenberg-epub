@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42062</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bd81233-deae-444b-bd63-73ffed9d75b8</dc:identifier>
+        <dc:title>The Life and Death of Mrs. Maria Bickford / A beautiful female, who was inhumanly murdered, in the moral and religious city of Boston, on the night of the 27th of October, 1845, by Albert J. Tirrell, her paramour, arrested on board the Ship Sultana, off New Orleans, December 6th</dc:title>
+        <dc:creator opf:file-as="Clergyman of Brunswick, Me." opf:role="aut">Me. Clergyman of Brunswick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56508</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bickford</dc:subject>
+        <dc:subject>Mary Ann</dc:subject>
+        <dc:subject>1824-1845</dc:subject>
+        <dc:subject>Tirrell</dc:subject>
+        <dc:subject>Albert John</dc:subject>
+        <dc:subject>1824-1880</dc:subject>
+        <dc:subject>Murder -- Massachusetts -- Boston</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Me. Clergyman of Brunswick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:22:59.210352+00:00"/>
+        <meta name="calibre:title_sort" content="Life and Death of Mrs. Maria Bickford / A beautiful female, who was inhumanly murdered, in the moral and religious city of Boston, on the night of the 27th of October, 1845, by Albert J. Tirrell, her paramour, arrested on board the Ship Sultana, off New Orleans, December 6th, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

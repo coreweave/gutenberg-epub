@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56583e3d-489a-4cd3-adb0-a87085d97371</dc:identifier>
+        <dc:title>Preservation of Bull Semen at Sub-Zero Temperatures</dc:title>
+        <dc:creator opf:file-as="Friedman, M. E." opf:role="aut">M. E. Friedman</dc:creator>
+        <dc:creator opf:file-as="Friedman, M. E." opf:role="aut">W. C. Kinney</dc:creator>
+        <dc:creator opf:file-as="Friedman, M. E." opf:role="aut">W. J. Miller</dc:creator>
+        <dc:creator opf:file-as="Friedman, M. E." opf:role="aut">Carlos Rodriguez</dc:creator>
+        <dc:creator opf:file-as="Friedman, M. E." opf:role="aut">N. L. VanDemark</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37041</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cattle -- Artificial insemination</dc:subject>
+        <dc:subject>Frozen semen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. E. Friedman&quot;: &quot;&quot;, &quot;W. C. Kinney&quot;: &quot;&quot;, &quot;W. J. Miller&quot;: &quot;&quot;, &quot;Carlos Rodriguez&quot;: &quot;&quot;, &quot;N. L. VanDemark&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:59:57.200019+00:00"/>
+        <meta name="calibre:title_sort" content="Preservation of Bull Semen at Sub-Zero Temperatures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

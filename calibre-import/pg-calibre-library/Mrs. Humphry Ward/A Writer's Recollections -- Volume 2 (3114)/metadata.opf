@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86e5d5c5-d8cb-49dd-9620-baf36eded1eb</dc:identifier>
+        <dc:title>A Writer's Recollections — Volume 2</dc:title>
+        <dc:creator opf:file-as="Ward, Humphry, Mrs." opf:role="aut">Mrs. Humphry Ward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9821</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>English -- 20th century -- Biography</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Ward</dc:subject>
+        <dc:subject>Humphry</dc:subject>
+        <dc:subject>Mrs.</dc:subject>
+        <dc:subject>1851-1920</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Humphry Ward&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:16:33.033903+00:00"/>
+        <meta name="calibre:title_sort" content="Writer's Recollections — Volume 2, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

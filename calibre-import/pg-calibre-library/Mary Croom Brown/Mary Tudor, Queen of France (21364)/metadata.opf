@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e299dc87-e5a8-4e1d-92fa-08ea176d090a</dc:identifier>
+        <dc:title>Mary Tudor, Queen of France</dc:title>
+        <dc:creator opf:file-as="Brown, Mary Croom" opf:role="aut">Mary Croom Brown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48184</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Henry VIII</dc:subject>
+        <dc:subject>1509-1547 -- Biography</dc:subject>
+        <dc:subject>Mary</dc:subject>
+        <dc:subject>Queen</dc:subject>
+        <dc:subject>consort of Louis XII</dc:subject>
+        <dc:subject>King of France</dc:subject>
+        <dc:subject>1496-1533</dc:subject>
+        <dc:subject>Henry VIII</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1491-1547 -- Relations with French</dc:subject>
+        <dc:subject>1491-1547 -- Family</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Croom Brown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:56:33.094033+00:00"/>
+        <meta name="calibre:title_sort" content="Mary Tudor, Queen of France"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

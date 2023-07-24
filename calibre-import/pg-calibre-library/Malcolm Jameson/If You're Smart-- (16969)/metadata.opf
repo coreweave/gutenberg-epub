@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7061cc6-53ee-47e7-bafd-c09975c97a1d</dc:identifier>
+        <dc:title>If You're Smart—</dc:title>
+        <dc:creator opf:file-as="Jameson, Malcolm" opf:role="aut">Malcolm Jameson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61498</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Capitalists and financiers -- Fiction</dc:subject>
+        <dc:subject>Inventors -- Fiction</dc:subject>
+        <dc:subject>Stock exchanges -- Fiction</dc:subject>
+        <dc:subject>Titan (Satellite) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Malcolm Jameson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:17:36.128499+00:00"/>
+        <meta name="calibre:title_sort" content="If You're Smart—"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

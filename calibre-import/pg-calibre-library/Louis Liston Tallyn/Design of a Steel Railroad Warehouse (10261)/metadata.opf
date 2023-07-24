@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da053ffb-901a-4c13-9dd2-9ee0fada2ac0</dc:identifier>
+        <dc:title>Design of a Steel Railroad Warehouse</dc:title>
+        <dc:creator opf:file-as="Tallyn, Louis Liston" opf:role="aut">Louis Liston Tallyn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62597</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railroads -- Buildings and structures -- Design and construction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Liston Tallyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:54:57.844059+00:00"/>
+        <meta name="calibre:title_sort" content="Design of a Steel Railroad Warehouse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

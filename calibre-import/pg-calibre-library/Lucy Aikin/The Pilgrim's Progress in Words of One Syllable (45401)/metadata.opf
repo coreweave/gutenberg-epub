@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a79afc00-5b17-4854-9320-406ba2824392</dc:identifier>
+        <dc:title>The Pilgrim's Progress in Words of One Syllable</dc:title>
+        <dc:creator opf:file-as="Aikin, Lucy" opf:role="aut">Lucy Aikin</dc:creator>
+        <dc:creator opf:file-as="Aikin, Lucy" opf:role="aut">John Bunyan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7088</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian fiction</dc:subject>
+        <dc:subject>Christian pilgrims and pilgrimages -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucy Aikin&quot;: &quot;&quot;, &quot;John Bunyan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:30:45.698067+00:00"/>
+        <meta name="calibre:title_sort" content="Pilgrim's Progress in Words of One Syllable, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

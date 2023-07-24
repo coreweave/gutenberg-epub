@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d23c63f0-9bf8-4e39-b7d3-18f7cb11aea4</dc:identifier>
+        <dc:title>Against This Age</dc:title>
+        <dc:creator opf:file-as="Bodenheim, Maxwell" opf:role="aut">Maxwell Bodenheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60044</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American poetry -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maxwell Bodenheim&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:26:58.000553+00:00"/>
+        <meta name="calibre:title_sort" content="Against This Age"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

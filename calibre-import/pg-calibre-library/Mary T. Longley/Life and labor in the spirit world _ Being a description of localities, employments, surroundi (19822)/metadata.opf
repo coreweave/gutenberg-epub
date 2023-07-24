@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19822</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">146de9ca-ec20-49b6-b3fd-760c2283d360</dc:identifier>
+        <dc:title>Life and labor in the spirit world / Being a description of localities, employments, surroundings, and conditions in the spheres.</dc:title>
+        <dc:creator opf:file-as="Longley, Mary T. (Mary Theresa)" opf:role="aut">Mary T. Longley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69716</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spirits</dc:subject>
+        <dc:subject>Spirit writings</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary T. Longley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:57:42.303890+00:00"/>
+        <meta name="calibre:title_sort" content="Life and labor in the spirit world / Being a description of localities, employments, surroundings, and conditions in the spheres."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

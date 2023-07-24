@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21177</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c485554a-7824-4665-b36e-b4b126750e72</dc:identifier>
+        <dc:title>Marion Harland's Complete Etiquette / A Young People's Guide to Every Social Occasion</dc:title>
+        <dc:creator opf:file-as="Harland, Marion" opf:role="aut">Marion Harland</dc:creator>
+        <dc:creator opf:file-as="Harland, Marion" opf:role="aut">Virginia Terhune Van de Water</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50058</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Etiquette</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marion Harland&quot;: &quot;&quot;, &quot;Virginia Terhune Van de Water&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:49:09.922882+00:00"/>
+        <meta name="calibre:title_sort" content="Marion Harland's Complete Etiquette / A Young People's Guide to Every Social Occasion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

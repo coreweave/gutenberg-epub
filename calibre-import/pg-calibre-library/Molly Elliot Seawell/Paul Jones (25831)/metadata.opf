@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25831</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">491af9a5-121c-4a32-bacb-8657e6379675</dc:identifier>
+        <dc:title>Paul Jones</dc:title>
+        <dc:creator opf:file-as="Seawell, Molly Elliot" opf:role="aut">Molly Elliot Seawell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61784</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sailing -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Ship captains -- Juvenile fiction</dc:subject>
+        <dc:subject>Sailors -- Juvenile fiction</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783 -- Juvenile fiction</dc:subject>
+        <dc:subject>Naval battles -- Juvenile fiction</dc:subject>
+        <dc:subject>Statesmen -- Juvenile fiction</dc:subject>
+        <dc:subject>Jones</dc:subject>
+        <dc:subject>John Paul</dc:subject>
+        <dc:subject>1747-1792 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Molly Elliot Seawell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:03:35.732523+00:00"/>
+        <meta name="calibre:title_sort" content="Paul Jones"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

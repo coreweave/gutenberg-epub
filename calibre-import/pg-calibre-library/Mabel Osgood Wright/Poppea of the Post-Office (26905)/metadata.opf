@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26905</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb1ccaf0-9349-4e95-b974-83af208dda5f</dc:identifier>
+        <dc:title>Poppea of the Post-Office</dc:title>
+        <dc:creator opf:file-as="Wright, Mabel Osgood" opf:role="aut">Mabel Osgood Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41440</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>City and town life -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Foundlings -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Post offices -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel Osgood Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:50:42.714235+00:00"/>
+        <meta name="calibre:title_sort" content="Poppea of the Post-Office"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

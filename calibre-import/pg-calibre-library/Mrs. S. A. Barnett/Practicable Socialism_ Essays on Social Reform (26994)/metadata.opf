@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26994</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fee8e3e3-9911-4250-9f38-c58595d67e91</dc:identifier>
+        <dc:title>Practicable Socialism: Essays on Social Reform</dc:title>
+        <dc:creator opf:file-as="Barnett, S. A., Mrs." opf:role="aut">Mrs. S. A. Barnett</dc:creator>
+        <dc:creator opf:file-as="Barnett, S. A., Mrs." opf:role="aut">S. A. Barnett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64263</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social problems</dc:subject>
+        <dc:subject>Great Britain -- Social conditions -- 19th century</dc:subject>
+        <dc:subject>Working class</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. S. A. Barnett&quot;: &quot;&quot;, &quot;S. A. Barnett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:54:23.943814+00:00"/>
+        <meta name="calibre:title_sort" content="Practicable Socialism: Essays on Social Reform"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

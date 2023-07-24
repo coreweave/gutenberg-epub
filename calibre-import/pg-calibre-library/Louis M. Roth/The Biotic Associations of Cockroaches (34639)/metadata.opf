@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57fe9e55-6fe8-4266-93ba-078f651220c3</dc:identifier>
+        <dc:title>The Biotic Associations of Cockroaches</dc:title>
+        <dc:creator opf:file-as="Roth, Louis M. (Louis Marcus)" opf:role="aut">Louis M. Roth</dc:creator>
+        <dc:creator opf:file-as="Roth, Louis M. (Louis Marcus)" opf:role="aut">Edwin R. Willis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46802</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cockroaches</dc:subject>
+        <dc:subject>Insects -- Ecology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis M. Roth&quot;: &quot;&quot;, &quot;Edwin R. Willis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:56:48.616683+00:00"/>
+        <meta name="calibre:title_sort" content="Biotic Associations of Cockroaches, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

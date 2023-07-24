@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8390178-ed9c-4178-87c4-e3d72fb1e42f</dc:identifier>
+        <dc:title>Montrose</dc:title>
+        <dc:creator opf:file-as="Morris, Mowbray" opf:role="aut">Mowbray Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45709</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Stuarts</dc:subject>
+        <dc:subject>1603-1714</dc:subject>
+        <dc:subject>Montrose</dc:subject>
+        <dc:subject>James Graham</dc:subject>
+        <dc:subject>Marquis of</dc:subject>
+        <dc:subject>1612-1650</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mowbray Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:44:18.210521+00:00"/>
+        <meta name="calibre:title_sort" content="Montrose"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

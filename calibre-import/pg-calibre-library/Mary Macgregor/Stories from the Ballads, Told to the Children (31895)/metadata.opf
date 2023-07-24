@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31325a4a-69f6-4149-a81c-c75f14451901</dc:identifier>
+        <dc:title>Stories from the Ballads, Told to the Children</dc:title>
+        <dc:creator opf:file-as="Macgregor, Mary" opf:role="aut">Mary Macgregor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22175</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Ballads</dc:subject>
+        <dc:subject>Scots -- Adaptations</dc:subject>
+        <dc:subject>English -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Macgregor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:43:02.277982+00:00"/>
+        <meta name="calibre:title_sort" content="Stories from the Ballads, Told to the Children"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab134191-fd15-4228-893b-22e2d66445a7</dc:identifier>
+        <dc:title>The Cosmic Bluff</dc:title>
+        <dc:creator opf:file-as="Reynolds, Mack" opf:role="aut">Mack Reynolds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65938</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Human-alien encounters -- Fiction</dc:subject>
+        <dc:subject>Gladiators -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mack Reynolds&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:43:45.341985+00:00"/>
+        <meta name="calibre:title_sort" content="Cosmic Bluff, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

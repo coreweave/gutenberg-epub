@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">538ab96c-a2f7-4fe3-82bd-fca4799f3322</dc:identifier>
+        <dc:title>Claverhouse</dc:title>
+        <dc:creator opf:file-as="Morris, Mowbray" opf:role="aut">Mowbray Morris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Graham</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>Viscount Dundee</dc:subject>
+        <dc:subject>1648-1689</dc:subject>
+        <dc:subject>Generals -- Scotland -- Biography</dc:subject>
+        <dc:subject>Scotland -- History -- 1660-1688 -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mowbray Morris&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:18:32.277255+00:00"/>
+        <meta name="calibre:title_sort" content="Claverhouse"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

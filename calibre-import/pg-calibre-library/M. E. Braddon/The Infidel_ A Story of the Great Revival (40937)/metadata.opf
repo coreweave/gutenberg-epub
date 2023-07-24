@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40937</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">445572c6-433d-4141-bd6e-5dbea8d3801e</dc:identifier>
+        <dc:title>The Infidel: A Story of the Great Revival</dc:title>
+        <dc:creator opf:file-as="Braddon, M. E. (Mary Elizabeth)" opf:role="aut">M. E. Braddon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50676</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Methodists -- Fiction</dc:subject>
+        <dc:subject>Wesley</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1703-1791 -- Fiction</dc:subject>
+        <dc:subject>Evangelical Revival -- England -- History -- 18th century -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. E. Braddon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:21:08.545307+00:00"/>
+        <meta name="calibre:title_sort" content="Infidel: A Story of the Great Revival, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

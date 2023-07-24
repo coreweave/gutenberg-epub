@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f3f28ab-ad76-46f0-9bd8-1c8c44eee13c</dc:identifier>
+        <dc:title>The King's Cup-Bearer</dc:title>
+        <dc:creator opf:file-as="Walton, O. F., Mrs." opf:role="aut">Mrs. O. F. Walton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12248</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Assyria -- Juvenile literature</dc:subject>
+        <dc:subject>Governors -- Juvenile literature</dc:subject>
+        <dc:subject>Jerusalem -- Juvenile literature</dc:subject>
+        <dc:subject>Kings and rulers -- Juvenile literature</dc:subject>
+        <dc:subject>Nehemiah (Governor of Judah) -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. O. F. Walton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:51:27.953479+00:00"/>
+        <meta name="calibre:title_sort" content="King's Cup-Bearer, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

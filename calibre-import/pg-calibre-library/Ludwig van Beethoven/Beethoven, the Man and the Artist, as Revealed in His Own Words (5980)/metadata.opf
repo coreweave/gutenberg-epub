@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a581fffe-f316-4fab-bff2-8b11e5707043</dc:identifier>
+        <dc:title>Beethoven, the Man and the Artist, as Revealed in His Own Words</dc:title>
+        <dc:creator opf:file-as="Beethoven, Ludwig van" opf:role="aut">Ludwig van Beethoven</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3528</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Beethoven</dc:subject>
+        <dc:subject>Ludwig van</dc:subject>
+        <dc:subject>1770-1827</dc:subject>
+        <dc:subject>Composers -- Germany -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ludwig van Beethoven&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:12:28.378358+00:00"/>
+        <meta name="calibre:title_sort" content="Beethoven, the Man and the Artist, as Revealed in His Own Words"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

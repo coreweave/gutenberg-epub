@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">285fbc61-0a24-4509-a327-f2647b63cad9</dc:identifier>
+        <dc:title>Ecological Studies of the Timber Wolf in Northeastern Minnesota</dc:title>
+        <dc:creator opf:file-as="Frenzel, Louis Daniel" opf:role="aut">Louis Daniel Frenzel</dc:creator>
+        <dc:creator opf:file-as="Frenzel, Louis Daniel" opf:role="aut">P. D. Karns</dc:creator>
+        <dc:creator opf:file-as="Frenzel, Louis Daniel" opf:role="aut">L. David Mech</dc:creator>
+        <dc:creator opf:file-as="Frenzel, Louis Daniel" opf:role="aut">Robert R. Ream</dc:creator>
+        <dc:creator opf:file-as="Frenzel, Louis Daniel" opf:role="aut">John W. Winship</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Gray wolf -- Ecology -- Minnesota</dc:subject>
+        <dc:subject>Gray wolf -- Behavior -- Minnesota</dc:subject>
+        <dc:subject>Deer -- Minnesota</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Daniel Frenzel&quot;: &quot;&quot;, &quot;P. D. Karns&quot;: &quot;&quot;, &quot;L. David Mech&quot;: &quot;&quot;, &quot;Robert R. Ream&quot;: &quot;&quot;, &quot;John W. Winship&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:20:24.294816+00:00"/>
+        <meta name="calibre:title_sort" content="Ecological Studies of the Timber Wolf in Northeastern Minnesota"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

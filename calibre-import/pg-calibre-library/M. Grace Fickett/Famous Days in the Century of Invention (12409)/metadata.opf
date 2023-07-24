@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">246b7cea-0d89-493a-a84d-70d852cfd489</dc:identifier>
+        <dc:title>Famous Days in the Century of Invention</dc:title>
+        <dc:creator opf:file-as="Fickett, M. Grace (Mary Grace)" opf:role="aut">M. Grace Fickett</dc:creator>
+        <dc:creator opf:file-as="Fickett, M. Grace (Mary Grace)" opf:role="aut">Gertrude L. Stone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46150</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inventions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. Grace Fickett&quot;: &quot;&quot;, &quot;Gertrude L. Stone&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:53:46.779797+00:00"/>
+        <meta name="calibre:title_sort" content="Famous Days in the Century of Invention"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

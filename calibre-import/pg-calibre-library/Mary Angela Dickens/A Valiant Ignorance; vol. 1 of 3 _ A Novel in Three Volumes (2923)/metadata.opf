@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2923</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27cb7288-39aa-4afd-9ad7-775c106c29bc</dc:identifier>
+        <dc:title>A Valiant Ignorance; vol. 1 of 3 / A Novel in Three Volumes</dc:title>
+        <dc:creator opf:file-as="Dickens, Mary Angela" opf:role="aut">Mary Angela Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54093</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Angela Dickens&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:13:08.396309+00:00"/>
+        <meta name="calibre:title_sort" content="Valiant Ignorance; vol. 1 of 3 / A Novel in Three Volumes, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

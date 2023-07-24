@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">405709d0-9e36-4696-a3b5-f4d995222777</dc:identifier>
+        <dc:title>The magic speech flower; or, Little Luke and his animal friends</dc:title>
+        <dc:creator opf:file-as="Hix, Melvin" opf:role="aut">Melvin Hix</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15367</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals -- Folklore</dc:subject>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Melvin Hix&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T05:43:25.957946+00:00"/>
+        <meta name="calibre:title_sort" content="magic speech flower; or, Little Luke and his animal friends, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

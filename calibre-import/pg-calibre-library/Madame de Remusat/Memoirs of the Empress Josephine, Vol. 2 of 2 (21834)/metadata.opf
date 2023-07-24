@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21834</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2e65fb1-8a74-444a-b976-979ecbfadf6c</dc:identifier>
+        <dc:title>Memoirs of the Empress Josephine, Vol. 2 of 2</dc:title>
+        <dc:creator opf:file-as="Rémusat, Madame de (Claire Elisabeth Jeanne Gravier de Vergennes)" opf:role="aut">Madame de Rémusat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49176</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Napoleon I</dc:subject>
+        <dc:subject>Emperor of the French</dc:subject>
+        <dc:subject>1769-1821 -- Contemporaries</dc:subject>
+        <dc:subject>Josephine</dc:subject>
+        <dc:subject>Empress</dc:subject>
+        <dc:subject>consort of Napoleon I</dc:subject>
+        <dc:subject>1763-1814</dc:subject>
+        <dc:subject>1769-1821 -- Marriage</dc:subject>
+        <dc:subject>France -- Court and courtiers -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Madame de Rémusat&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:15:28.108674+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of the Empress Josephine, Vol. 2 of 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">829c9a10-09db-4305-b8ba-556e9fc070f5</dc:identifier>
+        <dc:title>Girl Scouts at Dandelion Camp</dc:title>
+        <dc:creator opf:file-as="Roy, Lillian Elizabeth" opf:role="aut">Lillian Elizabeth Roy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37800</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Camping -- Juvenile fiction</dc:subject>
+        <dc:subject>Girl Scouts -- Juvenile fiction</dc:subject>
+        <dc:subject>Young women -- Social life and customs -- Juvenile fiction</dc:subject>
+        <dc:subject>Young women -- Societies and clubs -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lillian Elizabeth Roy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:44:26.653828+00:00"/>
+        <meta name="calibre:title_sort" content="Girl Scouts at Dandelion Camp"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

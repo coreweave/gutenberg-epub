@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22095502-79a0-49a6-9356-9fc450bf9cef</dc:identifier>
+        <dc:title>Extracts from Adam's Diary, translated from the original ms.</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1892</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Diary fiction</dc:subject>
+        <dc:subject>Adam (Biblical figure) -- Fiction</dc:subject>
+        <dc:subject>Bible. Genesis -- History of Biblical events -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:49:28.856530+00:00"/>
+        <meta name="calibre:title_sort" content="Extracts from Adam's Diary, translated from the original ms."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09151d9d-05c3-4645-af00-606ed3e0ea93</dc:identifier>
+        <dc:title>Compulsory Vaccination / Report of a Public Meeting, held in the Marylebone Vestry Hall, London, on Wednesday evening, October 19, 1870.</dc:title>
+        <dc:creator opf:file-as="Marylebone Anti-Compulsory Vaccination League" opf:role="aut">Marylebone Anti-Compulsory Vaccination League</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52645</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vaccination</dc:subject>
+        <dc:subject>Smallpox -- Prevention</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marylebone Anti-Compulsory Vaccination League&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:26:20.855591+00:00"/>
+        <meta name="calibre:title_sort" content="Compulsory Vaccination / Report of a Public Meeting, held in the Marylebone Vestry Hall, London, on Wednesday evening, October 19, 1870."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

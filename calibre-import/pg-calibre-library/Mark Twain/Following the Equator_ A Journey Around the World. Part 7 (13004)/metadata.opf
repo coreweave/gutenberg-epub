@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e9a220d-9e6b-48ce-8caa-f306f4ff7253</dc:identifier>
+        <dc:title>Following the Equator: A Journey Around the World. Part 7</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5814</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages around the world</dc:subject>
+        <dc:subject>Twain</dc:subject>
+        <dc:subject>Mark</dc:subject>
+        <dc:subject>1835-1910 -- Travel</dc:subject>
+        <dc:subject>Equator -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:10:53.300444+00:00"/>
+        <meta name="calibre:title_sort" content="Following the Equator: A Journey Around the World. Part 7"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

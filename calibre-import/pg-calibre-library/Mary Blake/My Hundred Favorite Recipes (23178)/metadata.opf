@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ed31ce8-27fc-4e9e-b012-8478e25a82f4</dc:identifier>
+        <dc:title>My Hundred Favorite Recipes</dc:title>
+        <dc:creator opf:file-as="Blake, Mary" opf:role="aut">Mary Blake</dc:creator>
+        <dc:creator opf:file-as="Blake, Mary" opf:role="aut">Carnation Milk Products Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Cookbooks</dc:subject>
+        <dc:subject>Cooking (Evaporated milk)</dc:subject>
+        <dc:subject>Cooking (Dairy products)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Blake&quot;: &quot;&quot;, &quot;Carnation Milk Products Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:11:07.737650+00:00"/>
+        <meta name="calibre:title_sort" content="My Hundred Favorite Recipes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01d2d72d-9a2f-40b8-b86c-8a3e43e6bafe</dc:identifier>
+        <dc:title>The House of Islâm</dc:title>
+        <dc:creator opf:file-as="Pickthall, Marmaduke William" opf:role="aut">Marmaduke William Pickthall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63654</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Muslims -- Turkey -- Fiction</dc:subject>
+        <dc:subject>Turkey -- History -- Abdul Mejid</dc:subject>
+        <dc:subject>1839-1861 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marmaduke William Pickthall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:07:37.362615+00:00"/>
+        <meta name="calibre:title_sort" content="House of Islâm, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

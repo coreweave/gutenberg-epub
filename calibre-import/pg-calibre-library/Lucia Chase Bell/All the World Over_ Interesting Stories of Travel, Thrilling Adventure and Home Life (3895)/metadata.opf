@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">305d9046-c874-472d-ac1f-dd53100f9fb3</dc:identifier>
+        <dc:title>All the World Over: Interesting Stories of Travel, Thrilling Adventure and Home Life</dc:title>
+        <dc:creator opf:file-as="Bell, Lucia Chase" opf:role="aut">Lucia Chase Bell</dc:creator>
+        <dc:creator opf:file-as="Bell, Lucia Chase" opf:role="aut">Frank H. Converse</dc:creator>
+        <dc:creator opf:file-as="Bell, Lucia Chase" opf:role="aut">Ella Farman Pratt</dc:creator>
+        <dc:creator opf:file-as="Bell, Lucia Chase" opf:role="aut">Louise Stockton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67560</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's literature</dc:subject>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Voyages and travels -- Juvenile literature</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile literature</dc:subject>
+        <dc:subject>Families -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucia Chase Bell&quot;: &quot;&quot;, &quot;Frank H. Converse&quot;: &quot;&quot;, &quot;Ella Farman Pratt&quot;: &quot;&quot;, &quot;Louise Stockton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:30:51.801402+00:00"/>
+        <meta name="calibre:title_sort" content="All the World Over: Interesting Stories of Travel, Thrilling Adventure and Home Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

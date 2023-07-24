@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a0516bf-0783-4b64-962b-5a13a5a046a4</dc:identifier>
+        <dc:title>Married Love: A New Contribution to the Solution of Sex Difficulties</dc:title>
+        <dc:creator opf:file-as="Stopes, Marie Carmichael" opf:role="aut">Marie Carmichael Stopes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47501</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marriage</dc:subject>
+        <dc:subject>Man-woman relationships</dc:subject>
+        <dc:subject>Sex (Psychology)</dc:subject>
+        <dc:subject>Sex differences</dc:subject>
+        <dc:subject>Sex in marriage</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Carmichael Stopes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:52:38.534272+00:00"/>
+        <meta name="calibre:title_sort" content="Married Love: A New Contribution to the Solution of Sex Difficulties"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

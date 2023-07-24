@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fab65281-fed9-4d90-91f3-ee0b1842d071</dc:identifier>
+        <dc:title>A History of the Trial of Castner Hanway and Others, for Treason, at Philadelphia in November, 1851 / With an Introduction upon the History of the Slave Question</dc:title>
+        <dc:creator opf:file-as="Member of the Philadelphia bar" opf:role="aut">Member of the Philadelphia bar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57255</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Fugitive slave law (1850)</dc:subject>
+        <dc:subject>Trials (Treason) -- Pennsylvania -- Philadelphia</dc:subject>
+        <dc:subject>Riots -- Pennsylvania -- Christiana</dc:subject>
+        <dc:subject>Hanway</dc:subject>
+        <dc:subject>Castner</dc:subject>
+        <dc:subject>1821-1893 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Fugitive slaves -- Legal status</dc:subject>
+        <dc:subject>laws</dc:subject>
+        <dc:subject>etc. -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Member of the Philadelphia bar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:47:22.928009+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Trial of Castner Hanway and Others, for Treason, at Philadelphia in November, 1851 / With an Introduction upon the History of the Slave Question, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7de9bb5-9f50-479b-af00-e64ed3518e43</dc:identifier>
+        <dc:title>First Impressions on a Tour upon the Continent / In the summer of 1818 through parts of France, Italy, Switzerland, the borders of Germany, and a part of French Flanders</dc:title>
+        <dc:creator opf:file-as="Baillie, Marianne" opf:role="aut">Marianne Baillie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40746</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Europe -- Description and travel</dc:subject>
+        <dc:subject>Baillie</dc:subject>
+        <dc:subject>Marianne</dc:subject>
+        <dc:subject>1795?-1831 -- Travel -- Europe</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marianne Baillie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:03:45.007758+00:00"/>
+        <meta name="calibre:title_sort" content="First Impressions on a Tour upon the Continent / In the summer of 1818 through parts of France, Italy, Switzerland, the borders of Germany, and a part of French Flanders"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

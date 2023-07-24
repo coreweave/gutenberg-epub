@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f420760-f6d5-49ae-8ede-b101d7598353</dc:identifier>
+        <dc:title>Halfway House: A Comedy of Degrees</dc:title>
+        <dc:creator opf:file-as="Hewlett, Maurice" opf:role="aut">Maurice Hewlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59963</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>England -- Social life and customs -- 20th century -- Fiction</dc:subject>
+        <dc:subject>Husband and wife -- Fiction</dc:subject>
+        <dc:subject>Social classes -- England -- Fiction</dc:subject>
+        <dc:subject>May-December romances -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Hewlett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:06:28.935114+00:00"/>
+        <meta name="calibre:title_sort" content="Halfway House: A Comedy of Degrees"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12930</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">773132fe-40cc-44f8-8d6b-27e1d6c963f3</dc:identifier>
+        <dc:title>Flower of the Dusk</dc:title>
+        <dc:creator opf:file-as="Reed, Myrtle" opf:role="aut">Myrtle Reed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18057</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>People with disabilities -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Blind -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Myrtle Reed&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:08:44.802631+00:00"/>
+        <meta name="calibre:title_sort" content="Flower of the Dusk"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

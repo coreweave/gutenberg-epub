@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb0de144-9ec0-4ad7-8a2e-b7d1ee3a8118</dc:identifier>
+        <dc:title>Mother</dc:title>
+        <dc:creator opf:file-as="Gorky, Maksim" opf:role="aut">Maksim Gorky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3783</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Revolutionaries -- Russia -- Fiction</dc:subject>
+        <dc:subject>Mothers and sons -- Fiction</dc:subject>
+        <dc:subject>Russia -- Fiction</dc:subject>
+        <dc:subject>Russia -- Social conditions -- 1801-1917 -- Fiction</dc:subject>
+        <dc:subject>Russian fiction -- Translations into English</dc:subject>
+        <dc:subject>Working class -- Political activity -- Russia -- Fiction</dc:subject>
+        <dc:subject>Social change -- Russia -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maksim Gorky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:51:46.620851+00:00"/>
+        <meta name="calibre:title_sort" content="Mother"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

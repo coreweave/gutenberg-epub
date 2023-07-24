@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c50c3c69-ec9c-41a5-ab76-39e3ad4d589f</dc:identifier>
+        <dc:title>The Expositor's Bible: The Gospel of St. John, Vol. II</dc:title>
+        <dc:creator opf:file-as="Dods, Marcus" opf:role="aut">Marcus Dods</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33288</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible. John</dc:subject>
+        <dc:subject>Bible. John -- Criticism</dc:subject>
+        <dc:subject>interpretation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marcus Dods&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:00:18.576629+00:00"/>
+        <meta name="calibre:title_sort" content="Expositor's Bible: The Gospel of St. John, Vol. II, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

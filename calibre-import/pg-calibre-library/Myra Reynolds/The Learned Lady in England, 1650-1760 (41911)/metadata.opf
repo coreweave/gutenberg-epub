@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05671737-d6c7-42c1-b8c6-e518d7bdf7fa</dc:identifier>
+        <dc:title>The Learned Lady in England, 1650-1760</dc:title>
+        <dc:creator opf:file-as="Reynolds, Myra" opf:role="aut">Myra Reynolds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49867</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- Education -- Great Britain</dc:subject>
+        <dc:subject>Women -- Great Britain</dc:subject>
+        <dc:subject>Women authors</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Myra Reynolds&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:14:32.236498+00:00"/>
+        <meta name="calibre:title_sort" content="Learned Lady in England, 1650-1760, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

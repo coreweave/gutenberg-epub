@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8063efad-ef07-4eeb-8a14-ee584a5351a9</dc:identifier>
+        <dc:title>A Diary from Dixie / As written by Mary Boykin Chesnut, wife of James Chesnut, Jr., United States Senator from South Carolina, 1859-1861, and afterward an Aide to Jefferson Davis and a Brigadier-General in the Confederate Army</dc:title>
+        <dc:creator opf:file-as="Chesnut, Mary Boykin" opf:role="aut">Mary Boykin Chesnut</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>Confederate</dc:subject>
+        <dc:subject>Southern States -- Biography</dc:subject>
+        <dc:subject>Chesnut</dc:subject>
+        <dc:subject>Mary Boykin</dc:subject>
+        <dc:subject>1823-1886 -- Diaries</dc:subject>
+        <dc:subject>Confederate States of America -- History -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Boykin Chesnut&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:39:35.144236+00:00"/>
+        <meta name="calibre:title_sort" content="Diary from Dixie / As written by Mary Boykin Chesnut, wife of James Chesnut, Jr., United States Senator from South Carolina, 1859-1861, and afterward an Aide to Jefferson Davis and a Brigadier-General in the Confederate Army, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

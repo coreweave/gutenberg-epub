@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13932</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eae64e4f-8434-417e-8af5-ed4c574470d8</dc:identifier>
+        <dc:title>Geological Report on Asbestos and its Indications, in the Province of Quebec, Canada</dc:title>
+        <dc:creator opf:file-as="Boyd, Lucius J." opf:role="aut">Lucius J. Boyd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33630</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Asbestos -- Québec (Province)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucius J. Boyd&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:38:50.895192+00:00"/>
+        <meta name="calibre:title_sort" content="Geological Report on Asbestos and its Indications, in the Province of Quebec, Canada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

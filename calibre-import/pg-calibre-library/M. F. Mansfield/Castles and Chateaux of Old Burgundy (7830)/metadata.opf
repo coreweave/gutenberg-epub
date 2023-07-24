@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7830</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffaa9ed8-fdc0-45a0-b7a8-11b904ea0736</dc:identifier>
+        <dc:title>Castles and Chateaux of Old Burgundy</dc:title>
+        <dc:creator opf:file-as="Mansfield, M. F. (Milburg Francisco)" opf:role="aut">M. F. Mansfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46678</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Castles -- France -- Burgundy</dc:subject>
+        <dc:subject>Burgundy (France) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. F. Mansfield&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:54:10.681087+00:00"/>
+        <meta name="calibre:title_sort" content="Castles and Chateaux of Old Burgundy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

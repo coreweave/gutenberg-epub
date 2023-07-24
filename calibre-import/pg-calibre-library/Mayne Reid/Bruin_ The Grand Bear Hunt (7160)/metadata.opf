@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db705bf6-d28a-4f58-bc6f-9faffa34e0d3</dc:identifier>
+        <dc:title>Bruin: The Grand Bear Hunt</dc:title>
+        <dc:creator opf:file-as="Reid, Mayne" opf:role="aut">Mayne Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27993</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure and adventurers -- Fiction</dc:subject>
+        <dc:subject>Hunting -- Fiction</dc:subject>
+        <dc:subject>Voyages around the world -- Fiction</dc:subject>
+        <dc:subject>Brothers -- Fiction</dc:subject>
+        <dc:subject>Bears -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mayne Reid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:38:37.377199+00:00"/>
+        <meta name="calibre:title_sort" content="Bruin: The Grand Bear Hunt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

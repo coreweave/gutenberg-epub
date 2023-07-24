@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c550b2dc-a6b9-48a4-baf6-cbaf09f5d1ec</dc:identifier>
+        <dc:title>Richard Lovell Edgeworth: A Selection From His Memoirs</dc:title>
+        <dc:creator opf:file-as="Edgeworth, Maria" opf:role="aut">Maria Edgeworth</dc:creator>
+        <dc:creator opf:file-as="Edgeworth, Maria" opf:role="aut">Richard Lovell Edgeworth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16951</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 18th century -- Biography</dc:subject>
+        <dc:subject>Edgeworth</dc:subject>
+        <dc:subject>Richard Lovell</dc:subject>
+        <dc:subject>1744-1817</dc:subject>
+        <dc:subject>Intellectuals -- Ireland -- Biography</dc:subject>
+        <dc:subject>Landowners -- Ireland -- Biography</dc:subject>
+        <dc:subject>Ireland -- History -- 18th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maria Edgeworth&quot;: &quot;&quot;, &quot;Richard Lovell Edgeworth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:22:18.052108+00:00"/>
+        <meta name="calibre:title_sort" content="Richard Lovell Edgeworth: A Selection From His Memoirs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

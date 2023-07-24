@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82d6ced4-bc79-4bc5-9cea-e946ba1ac30b</dc:identifier>
+        <dc:title>Obil, Keeper of Camels / Being the parable of the man whom the disciples saw casting out devils</dc:title>
+        <dc:creator opf:file-as="Bell, Lucia Chase" opf:role="aut">Lucia Chase Bell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51006</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christian fiction</dc:subject>
+        <dc:subject>Bible. New Testament -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucia Chase Bell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:06:15.695577+00:00"/>
+        <meta name="calibre:title_sort" content="Obil, Keeper of Camels / Being the parable of the man whom the disciples saw casting out devils"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6098f8cf-2a3d-41cd-a894-0f818a357dcc</dc:identifier>
+        <dc:title>The Gilded Age, Part 3.</dc:title>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Mark Twain</dc:creator>
+        <dc:creator opf:file-as="Twain, Mark" opf:role="aut">Charles Dudley Warner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/5820</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Washington (D.C.) -- Fiction</dc:subject>
+        <dc:subject>Legislators -- Fiction</dc:subject>
+        <dc:subject>Speculation -- Fiction</dc:subject>
+        <dc:subject>Political corruption -- Fiction</dc:subject>
+        <dc:subject>Businessmen -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Twain&quot;: &quot;&quot;, &quot;Charles Dudley Warner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:46:33.207956+00:00"/>
+        <meta name="calibre:title_sort" content="Gilded Age, Part 3., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

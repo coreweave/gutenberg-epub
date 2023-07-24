@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57c5dff8-401c-4dc4-9cec-020d73de7801</dc:identifier>
+        <dc:title>Ten Years Near the German Frontier: A Retrospect and a Warning</dc:title>
+        <dc:creator opf:file-as="Egan, Maurice Francis" opf:role="aut">Maurice Francis Egan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36412</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Propaganda</dc:subject>
+        <dc:subject>German</dc:subject>
+        <dc:subject>Courts and courtiers</dc:subject>
+        <dc:subject>Denmark -- Foreign relations -- Germany</dc:subject>
+        <dc:subject>Germany -- Foreign relations -- Denmark</dc:subject>
+        <dc:subject>United States Virgin Islands</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Francis Egan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:26:37.975007+00:00"/>
+        <meta name="calibre:title_sort" content="Ten Years Near the German Frontier: A Retrospect and a Warning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

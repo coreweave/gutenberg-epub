@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df636e3e-964b-4a98-912d-fcf1120aa937</dc:identifier>
+        <dc:title>Medal of Honor</dc:title>
+        <dc:creator opf:file-as="Reynolds, Mack" opf:role="aut">Mack Reynolds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27393</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mack Reynolds&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:04:46.410831+00:00"/>
+        <meta name="calibre:title_sort" content="Medal of Honor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21911</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5a12387-bae5-4fbe-bd16-4eb58c7b699e</dc:identifier>
+        <dc:title>Memories of My Life / From My Early Days in Scotland Till the Present Day in Adelaide</dc:title>
+        <dc:creator opf:file-as="Allen, J. S. O., Mrs." opf:role="aut">Mrs. J. S. O. Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58239</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Allen</dc:subject>
+        <dc:subject>J. S. O.</dc:subject>
+        <dc:subject>Mrs</dc:subject>
+        <dc:subject>Women household employees -- Australia -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. J. S. O. Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:18:30.404062+00:00"/>
+        <meta name="calibre:title_sort" content="Memories of My Life / From My Early Days in Scotland Till the Present Day in Adelaide"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

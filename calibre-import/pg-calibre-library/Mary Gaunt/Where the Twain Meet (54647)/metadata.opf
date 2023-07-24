@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f95ed14b-ae1f-4cb0-bde4-00a40c78e670</dc:identifier>
+        <dc:title>Where the Twain Meet</dc:title>
+        <dc:creator opf:file-as="Gaunt, Mary" opf:role="aut">Mary Gaunt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- Jamaica</dc:subject>
+        <dc:subject>Black people -- Jamaica</dc:subject>
+        <dc:subject>Jamaica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Gaunt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:04:42.344156+00:00"/>
+        <meta name="calibre:title_sort" content="Where the Twain Meet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

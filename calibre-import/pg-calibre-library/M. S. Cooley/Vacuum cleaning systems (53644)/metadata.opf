@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a7e6bcf-2c01-4287-82e7-1c5b3aa255e5</dc:identifier>
+        <dc:title>Vacuum cleaning systems</dc:title>
+        <dc:creator opf:file-as="Cooley, M. S. (Maxwell Stephens)" opf:role="aut">M. S. Cooley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70409</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vacuum cleaning</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. S. Cooley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:59:39.620169+00:00"/>
+        <meta name="calibre:title_sort" content="Vacuum cleaning systems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

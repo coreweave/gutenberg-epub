@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9011</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a1843cb-0fc7-435b-a3b9-0304d86eef7e</dc:identifier>
+        <dc:title>Colored Branches of the Louisville Free Public Library</dc:title>
+        <dc:creator opf:file-as="Louisville Free Public Library" opf:role="aut">Louisville Free Public Library</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58388</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Louisville Free Public Library. Colored Branch</dc:subject>
+        <dc:subject>Libraries -- Kentucky -- Louisville</dc:subject>
+        <dc:subject>African Americans and libraries -- Kentucky -- Louisville</dc:subject>
+        <dc:subject>Libraries and minorities -- Kentucky -- Louisville</dc:subject>
+        <dc:subject>Segregation -- Kentucky -- Louisville</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louisville Free Public Library&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:22:56.374166+00:00"/>
+        <meta name="calibre:title_sort" content="Colored Branches of the Louisville Free Public Library"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

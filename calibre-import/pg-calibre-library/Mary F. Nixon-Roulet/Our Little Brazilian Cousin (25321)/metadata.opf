@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d65b2512-2d7a-472b-861f-98cd2c1e2c13</dc:identifier>
+        <dc:title>Our Little Brazilian Cousin</dc:title>
+        <dc:creator opf:file-as="Nixon-Roulet, Mary F." opf:role="aut">Mary F. Nixon-Roulet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45750</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Brazil -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary F. Nixon-Roulet&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:41:56.403019+00:00"/>
+        <meta name="calibre:title_sort" content="Our Little Brazilian Cousin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

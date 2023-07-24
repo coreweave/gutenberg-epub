@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d30eec64-44d3-451e-9cec-13a541304105</dc:identifier>
+        <dc:title>Andrew Jackson's Hermitage</dc:title>
+        <dc:creator opf:file-as="Caldwell, Mary French" opf:role="aut">Mary French Caldwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58035</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jackson</dc:subject>
+        <dc:subject>Andrew</dc:subject>
+        <dc:subject>1767-1845 -- Homes and haunts -- Tennessee -- Hermitage</dc:subject>
+        <dc:subject>Hermitage (Hermitage</dc:subject>
+        <dc:subject>Tenn.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary French Caldwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:46:30.696662+00:00"/>
+        <meta name="calibre:title_sort" content="Andrew Jackson's Hermitage"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

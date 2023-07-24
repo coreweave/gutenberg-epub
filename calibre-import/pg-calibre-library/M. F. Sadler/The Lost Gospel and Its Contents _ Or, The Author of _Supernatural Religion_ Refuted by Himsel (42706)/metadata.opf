@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c000b85-c235-4a67-bb9e-34752a2ec7c5</dc:identifier>
+        <dc:title>The Lost Gospel and Its Contents / Or, The Author of "Supernatural Religion" Refuted by Himself</dc:title>
+        <dc:creator opf:file-as="Sadler, M. F. (Michael Ferrebee)" opf:role="aut">M. F. Sadler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17626</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Cassels</dc:subject>
+        <dc:subject>Walter Richard</dc:subject>
+        <dc:subject>1826-1907. Supernatural religion</dc:subject>
+        <dc:subject>Bible. Gospels -- Criticism</dc:subject>
+        <dc:subject>interpretation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. F. Sadler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:58:51.596962+00:00"/>
+        <meta name="calibre:title_sort" content="Lost Gospel and Its Contents / Or, The Author of &quot;Supernatural Religion&quot; Refuted by Himself, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

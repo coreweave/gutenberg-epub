@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d209ef7-f675-441b-8639-3c01b057dad2</dc:identifier>
+        <dc:title>Notes to the Complete Poetical Works of Percy Bysshe Shelley</dc:title>
+        <dc:creator opf:file-as="Shelley, Mary Wollstonecraft" opf:role="aut">Mary Wollstonecraft Shelley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4695</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shelley</dc:subject>
+        <dc:subject>Percy Bysshe</dc:subject>
+        <dc:subject>1792-1822</dc:subject>
+        <dc:subject>1792-1822 -- Criticism and interpretation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Wollstonecraft Shelley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:02:55.531993+00:00"/>
+        <meta name="calibre:title_sort" content="Notes to the Complete Poetical Works of Percy Bysshe Shelley"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

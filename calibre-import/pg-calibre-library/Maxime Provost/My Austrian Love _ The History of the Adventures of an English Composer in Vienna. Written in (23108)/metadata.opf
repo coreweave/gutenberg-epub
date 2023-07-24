@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc24091d-935b-459a-be0b-7f2c2af14d9e</dc:identifier>
+        <dc:title>My Austrian Love / The History of the Adventures of an English Composer in Vienna. Written in the Trenches by Himself</dc:title>
+        <dc:creator opf:file-as="Provost, Maxime" opf:role="aut">Maxime Provost</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46284</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Fiction</dc:subject>
+        <dc:subject>Composers -- Fiction</dc:subject>
+        <dc:subject>Vienna (Austria) -- Fiction</dc:subject>
+        <dc:subject>British -- Austria -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maxime Provost&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:08:04.255426+00:00"/>
+        <meta name="calibre:title_sort" content="My Austrian Love / The History of the Adventures of an English Composer in Vienna. Written in the Trenches by Himself"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22998</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">615d811c-93cb-419e-a08a-c9d061df1c19</dc:identifier>
+        <dc:title>Mrs. Shelley</dc:title>
+        <dc:creator opf:file-as="Rossetti, Lucy Madox Brown" opf:role="aut">Lucy Madox Brown Rossetti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6705</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <dc:subject>Shelley</dc:subject>
+        <dc:subject>Mary Wollstonecraft</dc:subject>
+        <dc:subject>1797-1851</dc:subject>
+        <dc:subject>Women and literature -- England -- History -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucy Madox Brown Rossetti&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:03:29.758499+00:00"/>
+        <meta name="calibre:title_sort" content="Mrs. Shelley"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

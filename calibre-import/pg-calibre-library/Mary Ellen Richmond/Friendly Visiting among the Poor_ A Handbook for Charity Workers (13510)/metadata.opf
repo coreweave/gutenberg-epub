@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9da4a65-cd55-4677-99e7-182ae7e04ab3</dc:identifier>
+        <dc:title>Friendly Visiting among the Poor: A Handbook for Charity Workers</dc:title>
+        <dc:creator opf:file-as="Richmond, Mary Ellen" opf:role="aut">Mary Ellen Richmond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24841</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Friendly visiting</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Ellen Richmond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:26:00.294464+00:00"/>
+        <meta name="calibre:title_sort" content="Friendly Visiting among the Poor: A Handbook for Charity Workers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

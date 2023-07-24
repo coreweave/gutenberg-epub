@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cbc6bbf-b254-40f5-956c-f7d8378c6948</dc:identifier>
+        <dc:title>Have We No Rights? A frank discussion of the "rights" of missionaries</dc:title>
+        <dc:creator opf:file-as="Williamson, Mabel" opf:role="aut">Mabel Williamson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24528</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Missionaries</dc:subject>
+        <dc:subject>Pamphlets</dc:subject>
+        <dc:subject>Missions -- China</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel Williamson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:22:27.248604+00:00"/>
+        <meta name="calibre:title_sort" content="Have We No Rights? A frank discussion of the &quot;rights&quot; of missionaries"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

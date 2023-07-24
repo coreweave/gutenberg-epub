@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7868</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">615b4f7b-e387-46a8-8f11-a08c73117f5f</dc:identifier>
+        <dc:title>Catharine's Peril, or The Little Russian Girl Lost in a Forest / And Other Stories</dc:title>
+        <dc:creator opf:file-as="Bewsher, M. E., Mrs." opf:role="aut">Mrs. M. E. Bewsher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21216</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Russia -- Juvenile fiction</dc:subject>
+        <dc:subject>Napoleonic Wars</dc:subject>
+        <dc:subject>1800-1815 -- Campaigns -- Russia -- Juvenile fiction</dc:subject>
+        <dc:subject>Generosity -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. M. E. Bewsher&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:55:03.483757+00:00"/>
+        <meta name="calibre:title_sort" content="Catharine's Peril, or The Little Russian Girl Lost in a Forest / And Other Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

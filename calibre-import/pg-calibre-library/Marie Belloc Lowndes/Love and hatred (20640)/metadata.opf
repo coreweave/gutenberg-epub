@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af70ef8b-2d27-4d10-aacf-6e26d4b3c3ac</dc:identifier>
+        <dc:title>Love and hatred</dc:title>
+        <dc:creator opf:file-as="Lowndes, Marie Belloc" opf:role="aut">Marie Belloc Lowndes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36079</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Murder -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Belloc Lowndes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:28:26.732321+00:00"/>
+        <meta name="calibre:title_sort" content="Love and hatred"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

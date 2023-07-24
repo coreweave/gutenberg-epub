@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16831</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fb3d72d-d005-4a5b-8ad0-e83276a4fa6b</dc:identifier>
+        <dc:title>Hunter's Marjory / A Story for Girls</dc:title>
+        <dc:creator opf:file-as="Clarke, Margaret Bruce" opf:role="aut">Margaret Bruce Clarke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20258</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Children -- Scotland -- Juvenile fiction</dc:subject>
+        <dc:subject>Family -- Scotland -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Bruce Clarke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:12:51.969551+00:00"/>
+        <meta name="calibre:title_sort" content="Hunter's Marjory / A Story for Girls"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

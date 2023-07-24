@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">637c1135-eb3a-453d-bbb9-e70574e710c9</dc:identifier>
+        <dc:title>Christmas Magic for All Your Gifts, Using "Scotch" Brand Tapes and "Sasheen" Brand Ribbon</dc:title>
+        <dc:creator opf:file-as="Minnesota Mining and Manufacturing Company" opf:role="aut">Minnesota Mining</dc:creator>
+        <dc:creator opf:file-as="Minnesota Mining and Manufacturing Company" opf:role="aut">Manufacturing Company</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65305</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Christmas decorations</dc:subject>
+        <dc:subject>Gift wrapping</dc:subject>
+        <dc:subject>Transparent tape</dc:subject>
+        <dc:subject>Ribbon work</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Minnesota Mining&quot;: &quot;&quot;, &quot;Manufacturing Company&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:12:52.138776+00:00"/>
+        <meta name="calibre:title_sort" content="Christmas Magic for All Your Gifts, Using &quot;Scotch&quot; Brand Tapes and &quot;Sasheen&quot; Brand Ribbon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

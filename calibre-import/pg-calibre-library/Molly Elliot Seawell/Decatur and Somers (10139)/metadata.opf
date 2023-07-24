@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2efada1-ea0f-45b7-8c68-97a8464e698b</dc:identifier>
+        <dc:title>Decatur and Somers</dc:title>
+        <dc:creator opf:file-as="Seawell, Molly Elliot" opf:role="aut">Molly Elliot Seawell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63209</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Tripolitan War</dc:subject>
+        <dc:subject>1801-1805 -- Juvenile fiction</dc:subject>
+        <dc:subject>Decatur</dc:subject>
+        <dc:subject>Stephen</dc:subject>
+        <dc:subject>1779-1820 -- Juvenile fiction</dc:subject>
+        <dc:subject>Somers</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1778-1804 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Molly Elliot Seawell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:51:44.616274+00:00"/>
+        <meta name="calibre:title_sort" content="Decatur and Somers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

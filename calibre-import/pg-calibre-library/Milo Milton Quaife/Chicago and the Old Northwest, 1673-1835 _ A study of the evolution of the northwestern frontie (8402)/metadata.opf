@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">214f2c7c-4e7c-42ce-ab8d-c2c20a9eb82e</dc:identifier>
+        <dc:title>Chicago and the Old Northwest, 1673-1835 / A study of the evolution of the northwestern frontier, together with a history of Fort Dearborn</dc:title>
+        <dc:creator opf:file-as="Quaife, Milo Milton" opf:role="aut">Milo Milton Quaife</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-10-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69274</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Old -- History</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Northwest</dc:subject>
+        <dc:subject>Old</dc:subject>
+        <dc:subject>Fort Dearborn Massacre</dc:subject>
+        <dc:subject>Chicago</dc:subject>
+        <dc:subject>Ill.</dc:subject>
+        <dc:subject>1812</dc:subject>
+        <dc:subject>Chicago (Ill.) -- History -- To 1875</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Illinois -- Chicago</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Milo Milton Quaife&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:07:49.399235+00:00"/>
+        <meta name="calibre:title_sort" content="Chicago and the Old Northwest, 1673-1835 / A study of the evolution of the northwestern frontier, together with a history of Fort Dearborn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

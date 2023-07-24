@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c1daf1b-b348-49f3-9a00-3faec3de557e</dc:identifier>
+        <dc:title>Carving and Serving</dc:title>
+        <dc:creator opf:file-as="Lincoln, Mary J. (Mary Johnson)" opf:role="aut">Mary J. Lincoln</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15363</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>Carving (Meat</dc:subject>
+        <dc:subject>etc.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary J. Lincoln&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:53:02.982190+00:00"/>
+        <meta name="calibre:title_sort" content="Carving and Serving"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

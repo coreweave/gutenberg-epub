@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d700fe7-f0f9-480e-80ce-ee794ac8fb9a</dc:identifier>
+        <dc:title>The World As I Have Found It / Sequel to Incidents in the Life of a Blind Girl</dc:title>
+        <dc:creator opf:file-as="Day, Mary L." opf:role="aut">Mary L. Day</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14963</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Day</dc:subject>
+        <dc:subject>Mary L.</dc:subject>
+        <dc:subject>1836-</dc:subject>
+        <dc:subject>Blind -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary L. Day&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:51:57.374898+00:00"/>
+        <meta name="calibre:title_sort" content="World As I Have Found It / Sequel to Incidents in the Life of a Blind Girl, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

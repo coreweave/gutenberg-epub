@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8fa2ca3-34ba-4cdc-92af-64f17c22544a</dc:identifier>
+        <dc:title>Juvenile Styles: Original Designs for Infants and Juveniles, Volume 4</dc:title>
+        <dc:creator opf:file-as="Hoyer, Mary" opf:role="aut">Mary Hoyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39773</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Knitting -- Patterns</dc:subject>
+        <dc:subject>Crocheting -- Patterns</dc:subject>
+        <dc:subject>Children's clothing</dc:subject>
+        <dc:subject>Infants' clothing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Hoyer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:19:10.358389+00:00"/>
+        <meta name="calibre:title_sort" content="Juvenile Styles: Original Designs for Infants and Juveniles, Volume 4"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

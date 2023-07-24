@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">873dafa8-e782-4245-bfee-7e43c1558e87</dc:identifier>
+        <dc:title>Southern Literature From 1579-1895 / A comprehensive review, with copious extracts and criticisms / for the use of schools and the general reader</dc:title>
+        <dc:creator opf:file-as="Manly, Louise" opf:role="aut">Louise Manly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27279</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>American literature -- Southern States</dc:subject>
+        <dc:subject>American literature -- Southern States -- History and criticism</dc:subject>
+        <dc:subject>Southern States -- Intellectual life</dc:subject>
+        <dc:subject>Southern States -- Literary collections</dc:subject>
+        <dc:subject>Southern States -- In literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louise Manly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:15:45.896138+00:00"/>
+        <meta name="calibre:title_sort" content="Southern Literature From 1579-1895 / A comprehensive review, with copious extracts and criticisms / for the use of schools and the general reader"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

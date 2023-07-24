@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cface1b-d7c0-4447-a057-afe8d149acce</dc:identifier>
+        <dc:title>Country Life in the Poetry of John Clare</dc:title>
+        <dc:creator opf:file-as="Coen, Mildred M." opf:role="aut">Mildred M. Coen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53860</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nature in literature</dc:subject>
+        <dc:subject>Pastoral poetry</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <dc:subject>Country life in literature</dc:subject>
+        <dc:subject>Clare</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>1793-1864 -- Criticism and interpretation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mildred M. Coen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:34:00.790587+00:00"/>
+        <meta name="calibre:title_sort" content="Country Life in the Poetry of John Clare"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

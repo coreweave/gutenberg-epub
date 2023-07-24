@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d1043e2-88b4-426e-8ff9-cfb9b774f497</dc:identifier>
+        <dc:title>The Conquest of a Continent; or, The Expansion of Races in America</dc:title>
+        <dc:creator opf:file-as="Grant, Madison" opf:role="aut">Madison Grant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60145</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Civilization</dc:subject>
+        <dc:subject>Immigrants -- United States</dc:subject>
+        <dc:subject>United States -- Ethnic relations</dc:subject>
+        <dc:subject>United States -- Emigration and immigration</dc:subject>
+        <dc:subject>Anglo-Saxon race</dc:subject>
+        <dc:subject>Ethnology -- America</dc:subject>
+        <dc:subject>Ethnology -- United States</dc:subject>
+        <dc:subject>Teutonic race</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Madison Grant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:36:28.557339+00:00"/>
+        <meta name="calibre:title_sort" content="Conquest of a Continent; or, The Expansion of Races in America, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

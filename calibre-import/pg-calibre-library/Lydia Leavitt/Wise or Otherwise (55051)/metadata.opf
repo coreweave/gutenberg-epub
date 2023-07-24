@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55051</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86e14984-f78d-42c8-a0f9-2bc6bd60caeb</dc:identifier>
+        <dc:title>Wise or Otherwise</dc:title>
+        <dc:creator opf:file-as="Leavitt, Lydia" opf:role="aut">Lydia Leavitt</dc:creator>
+        <dc:creator opf:file-as="Leavitt, Lydia" opf:role="aut">Thad. W. H. Leavitt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16065</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>maxims</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lydia Leavitt&quot;: &quot;&quot;, &quot;Thad. W. H. Leavitt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:31:53.508530+00:00"/>
+        <meta name="calibre:title_sort" content="Wise or Otherwise"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

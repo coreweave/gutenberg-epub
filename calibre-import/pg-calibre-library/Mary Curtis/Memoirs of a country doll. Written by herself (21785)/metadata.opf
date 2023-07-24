@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21785</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4665326-13fe-4d5a-9436-560ffcfcd1db</dc:identifier>
+        <dc:title>Memoirs of a country doll. Written by herself</dc:title>
+        <dc:creator opf:file-as="Curtis, Mary" opf:role="aut">Mary Curtis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64139</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Juvenile fiction</dc:subject>
+        <dc:subject>Dolls -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Curtis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:13:31.227314+00:00"/>
+        <meta name="calibre:title_sort" content="Memoirs of a country doll. Written by herself"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

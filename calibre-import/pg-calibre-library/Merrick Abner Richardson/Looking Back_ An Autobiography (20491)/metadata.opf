@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad727d24-5ccf-4f11-ae05-b5748aa0c429</dc:identifier>
+        <dc:title>Looking Back: An Autobiography</dc:title>
+        <dc:creator opf:file-as="Richardson, Merrick Abner" opf:role="aut">Merrick Abner Richardson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/46286</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Richardson</dc:subject>
+        <dc:subject>Merrick Abner</dc:subject>
+        <dc:subject>1841-</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Merrick Abner Richardson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:22:46.252262+00:00"/>
+        <meta name="calibre:title_sort" content="Looking Back: An Autobiography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

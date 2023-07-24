@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3482fbf-dcee-49a4-9add-a456c031c41f</dc:identifier>
+        <dc:title>The Shakespeare garden club: A fantasy</dc:title>
+        <dc:creator opf:file-as="Moran, Mabel M." opf:role="aut">Mabel M. Moran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68539</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakespeare</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1564-1616 -- Drama</dc:subject>
+        <dc:subject>Dramatists -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel M. Moran&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T01:36:02.742931+00:00"/>
+        <meta name="calibre:title_sort" content="Shakespeare garden club: A fantasy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

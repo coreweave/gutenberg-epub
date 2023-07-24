@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdc5b745-3fa1-4fd7-b14d-c20f8c5ff48e</dc:identifier>
+        <dc:title>Quilts: Their Story and How to Make Them</dc:title>
+        <dc:creator opf:file-as="Webster, Marie D. (Marie Daugherty)" opf:role="aut">Marie D. Webster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24682</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Quilts</dc:subject>
+        <dc:subject>Quilting</dc:subject>
+        <dc:subject>Coverlets</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie D. Webster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:47:05.099753+00:00"/>
+        <meta name="calibre:title_sort" content="Quilts: Their Story and How to Make Them"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

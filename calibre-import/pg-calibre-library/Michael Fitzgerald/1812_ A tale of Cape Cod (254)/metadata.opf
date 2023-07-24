@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3399b669-7e28-443f-978a-050f5e365354</dc:identifier>
+        <dc:title>1812: A tale of Cape Cod</dc:title>
+        <dc:creator opf:file-as="Fitzgerald, Michael" opf:role="aut">Michael Fitzgerald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69333</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- War of 1812 -- Fiction</dc:subject>
+        <dc:subject>Cape Cod (Mass.) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Fitzgerald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:29:50.560810+00:00"/>
+        <meta name="calibre:title_sort" content="1812: A tale of Cape Cod"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

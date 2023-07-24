@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b66e652-0d49-4e30-a2bd-f8acb57d2ab3</dc:identifier>
+        <dc:title>Lafitte, a play in prologue and four acts</dc:title>
+        <dc:creator opf:file-as="Ayres, Lucie Levéque" opf:role="aut">Lucie Levéque Ayres</dc:creator>
+        <dc:creator opf:file-as="Ayres, Lucie Levéque" opf:role="aut">Lucile Rutland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69010</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Laffite</dc:subject>
+        <dc:subject>Jean -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucie Levéque Ayres&quot;: &quot;&quot;, &quot;Lucile Rutland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:34:03.124185+00:00"/>
+        <meta name="calibre:title_sort" content="Lafitte, a play in prologue and four acts"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

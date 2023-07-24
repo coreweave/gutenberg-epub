@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b7e973d-73af-4467-b0f9-235469f1e888</dc:identifier>
+        <dc:title>Mrs. Beeton's Dictionary of Every-Day Cookery / The "All About It" Books</dc:title>
+        <dc:creator opf:file-as="Beeton, Mrs. (Isabella Mary)" opf:role="aut">Mrs. Beeton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/50191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Beeton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:01:27.929578+00:00"/>
+        <meta name="calibre:title_sort" content="Mrs. Beeton's Dictionary of Every-Day Cookery / The &quot;All About It&quot; Books"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

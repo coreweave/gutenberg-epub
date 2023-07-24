@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d2dc321-c7c4-47fc-a8b9-209d18e5a7e5</dc:identifier>
+        <dc:title>The Little Washingtons' Travels</dc:title>
+        <dc:creator opf:file-as="Roy, Lillian Elizabeth" opf:role="aut">Lillian Elizabeth Roy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39518</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Voyages and travels -- Juvenile fiction</dc:subject>
+        <dc:subject>Children -- Juvenile fiction</dc:subject>
+        <dc:subject>Families -- Juvenile fiction</dc:subject>
+        <dc:subject>Washington</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1732-1799 -- Juvenile literature</dc:subject>
+        <dc:subject>New York (N.Y.) -- Description and travel -- Juvenile fiction</dc:subject>
+        <dc:subject>Philadelphia (Pa.) -- Description and travel -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lillian Elizabeth Roy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:49:25.215370+00:00"/>
+        <meta name="calibre:title_sort" content="Little Washingtons' Travels, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

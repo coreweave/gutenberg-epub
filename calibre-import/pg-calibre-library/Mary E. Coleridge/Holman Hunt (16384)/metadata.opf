@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16384</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62f39481-a77d-4da3-88fb-dafec3f37de9</dc:identifier>
+        <dc:title>Holman Hunt</dc:title>
+        <dc:creator opf:file-as="Coleridge, Mary E. (Mary Elizabeth)" opf:role="aut">Mary E. Coleridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36347</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hunt</dc:subject>
+        <dc:subject>William Holman</dc:subject>
+        <dc:subject>1827-1910</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary E. Coleridge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:57:58.795083+00:00"/>
+        <meta name="calibre:title_sort" content="Holman Hunt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

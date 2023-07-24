@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb210958-2502-442a-9743-8155cdf6a19a</dc:identifier>
+        <dc:title>What Timmy Did</dc:title>
+        <dc:creator opf:file-as="Lowndes, Marie Belloc" opf:role="aut">Marie Belloc Lowndes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17381</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Villages -- England -- Fiction</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Belloc Lowndes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:53:18.310362+00:00"/>
+        <meta name="calibre:title_sort" content="What Timmy Did"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

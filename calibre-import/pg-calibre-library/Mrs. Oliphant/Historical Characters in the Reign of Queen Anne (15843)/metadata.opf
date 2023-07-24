@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f975216d-a785-4325-8096-3d631c61e788</dc:identifier>
+        <dc:title>Historical Characters in the Reign of Queen Anne</dc:title>
+        <dc:creator opf:file-as="Oliphant, Mrs. (Margaret)" opf:role="aut">Mrs. Oliphant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53644</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Defoe</dc:subject>
+        <dc:subject>Daniel</dc:subject>
+        <dc:subject>1661?-1731</dc:subject>
+        <dc:subject>Anne</dc:subject>
+        <dc:subject>Queen of Great Britain</dc:subject>
+        <dc:subject>1665-1714</dc:subject>
+        <dc:subject>Swift</dc:subject>
+        <dc:subject>Jonathan</dc:subject>
+        <dc:subject>1667-1745</dc:subject>
+        <dc:subject>Addison</dc:subject>
+        <dc:subject>Joseph</dc:subject>
+        <dc:subject>1672-1719</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Oliphant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:39:56.931237+00:00"/>
+        <meta name="calibre:title_sort" content="Historical Characters in the Reign of Queen Anne"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

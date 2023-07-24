@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b67d56f-aa36-492e-9739-c06eb6b6575e</dc:identifier>
+        <dc:title>Indian and Other Tales</dc:title>
+        <dc:creator opf:file-as="Hope, M. L." opf:role="aut">M. L. Hope</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36925</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canadian poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. L. Hope&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:41:46.986460+00:00"/>
+        <meta name="calibre:title_sort" content="Indian and Other Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

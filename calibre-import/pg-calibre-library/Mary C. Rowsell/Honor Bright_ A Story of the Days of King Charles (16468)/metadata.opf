@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fa754bd-97da-4b8f-8bd8-580268bdb5a9</dc:identifier>
+        <dc:title>Honor Bright: A Story of the Days of King Charles</dc:title>
+        <dc:creator opf:file-as="Rowsell, Mary C. (Mary Catherine)" opf:role="aut">Mary C. Rowsell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/64615</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Kings and rulers -- Juvenile fiction</dc:subject>
+        <dc:subject>Education of princes -- Juvenile fiction</dc:subject>
+        <dc:subject>Charles II</dc:subject>
+        <dc:subject>King of England</dc:subject>
+        <dc:subject>1630-1685 -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary C. Rowsell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:00:51.315399+00:00"/>
+        <meta name="calibre:title_sort" content="Honor Bright: A Story of the Days of King Charles"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

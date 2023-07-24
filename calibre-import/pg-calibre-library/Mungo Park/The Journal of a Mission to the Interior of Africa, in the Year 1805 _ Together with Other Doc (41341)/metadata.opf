@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fdc9edc-0911-4c00-b725-1b2c6e256891</dc:identifier>
+        <dc:title>The Journal of a Mission to the Interior of Africa, in the Year 1805 / Together with Other Documents, Official and Private, Relating to the Same Mission, to Which Is Prefixed an Account of the Life of Mr. Park</dc:title>
+        <dc:creator opf:file-as="Park, Mungo" opf:role="aut">Mungo Park</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8814</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Africa -- Discovery and exploration</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mungo Park&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:43:14.180544+00:00"/>
+        <meta name="calibre:title_sort" content="Journal of a Mission to the Interior of Africa, in the Year 1805 / Together with Other Documents, Official and Private, Relating to the Same Mission, to Which Is Prefixed an Account of the Life of Mr. Park, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3d322a5-64c8-4427-93dc-92ca01403eb1</dc:identifier>
+        <dc:title>Seven Centuries of Lace</dc:title>
+        <dc:creator opf:file-as="Pollen, Maria Margaret" opf:role="aut">Maria Margaret Pollen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/51863</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lace and lace making -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maria Margaret Pollen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:26:17.155579+00:00"/>
+        <meta name="calibre:title_sort" content="Seven Centuries of Lace"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

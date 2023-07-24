@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fef437bd-dfc6-47de-bfa3-a61873fdedb3</dc:identifier>
+        <dc:title>Vanished Arizona: Recollections of the Army Life by a New England Woman</dc:title>
+        <dc:creator opf:file-as="Summerhayes, Martha" opf:role="aut">Martha Summerhayes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1049</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Summerhayes</dc:subject>
+        <dc:subject>Martha</dc:subject>
+        <dc:subject>1844-1926</dc:subject>
+        <dc:subject>Arizona -- Description and travel</dc:subject>
+        <dc:subject>United States. Army -- Military life</dc:subject>
+        <dc:subject>Arizona -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martha Summerhayes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:02:34.056683+00:00"/>
+        <meta name="calibre:title_sort" content="Vanished Arizona: Recollections of the Army Life by a New England Woman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

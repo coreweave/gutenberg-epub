@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2b2f13a-987e-4c48-8197-c7cbaaccce29</dc:identifier>
+        <dc:title>The Festival of Spring, from the Díván of Jeláleddín / Rendered in English Gazels after Rückert's Versions, with an Introduction and a Criticism of the Rubáiyát of Omar Khayyám</dc:title>
+        <dc:creator opf:file-as="Jalal al-Din Rumi, Maulana" opf:role="aut">Maulana Jalal al-Din Rumi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57068</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Omar Khayyam. Rubaiyat</dc:subject>
+        <dc:subject>Sufi poetry</dc:subject>
+        <dc:subject>Persian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maulana Jalal al-Din Rumi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:10:09.345907+00:00"/>
+        <meta name="calibre:title_sort" content="Festival of Spring, from the Díván of Jeláleddín / Rendered in English Gazels after Rückert's Versions, with an Introduction and a Criticism of the Rubáiyát of Omar Khayyám, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

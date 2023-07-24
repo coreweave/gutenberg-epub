@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f5b8b68-c227-4dd5-9725-9f2442d4198b</dc:identifier>
+        <dc:title>The Art of Natural Sleep / With definite directions for the wholesome cure of sleeplessness: illustrated by cases treated in Northampton and elsewhere</dc:title>
+        <dc:creator opf:file-as="Powell, Lyman P. (Lyman Pierson)" opf:role="aut">Lyman P. Powell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62492</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Insomnia</dc:subject>
+        <dc:subject>Sleep</dc:subject>
+        <dc:subject>Emmanuel movement</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lyman P. Powell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:16:36.943100+00:00"/>
+        <meta name="calibre:title_sort" content="Art of Natural Sleep / With definite directions for the wholesome cure of sleeplessness: illustrated by cases treated in Northampton and elsewhere, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

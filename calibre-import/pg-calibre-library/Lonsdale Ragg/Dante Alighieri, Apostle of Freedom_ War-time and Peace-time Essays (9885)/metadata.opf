@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9885</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7883baf0-7507-4e80-9bdf-329f2aeb27bb</dc:identifier>
+        <dc:title>Dante Alighieri, Apostle of Freedom: War-time and Peace-time Essays</dc:title>
+        <dc:creator opf:file-as="Ragg, Lonsdale" opf:role="aut">Lonsdale Ragg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63011</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dante Alighieri</dc:subject>
+        <dc:subject>1265-1321</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lonsdale Ragg&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:45:08.825871+00:00"/>
+        <meta name="calibre:title_sort" content="Dante Alighieri, Apostle of Freedom: War-time and Peace-time Essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

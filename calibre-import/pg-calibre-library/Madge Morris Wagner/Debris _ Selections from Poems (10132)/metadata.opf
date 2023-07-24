@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28630bba-5d3c-4c27-a38f-540eec4f4e67</dc:identifier>
+        <dc:title>Debris / Selections from Poems</dc:title>
+        <dc:creator opf:file-as="Wagner, Madge Morris" opf:role="aut">Madge Morris Wagner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16108</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Madge Morris Wagner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:51:33.698367+00:00"/>
+        <meta name="calibre:title_sort" content="Debris / Selections from Poems"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

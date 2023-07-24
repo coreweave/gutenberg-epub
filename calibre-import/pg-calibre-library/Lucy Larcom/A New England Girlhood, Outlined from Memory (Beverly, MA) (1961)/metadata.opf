@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">338f6b6a-99f5-4bef-bf31-7b195a0d58d4</dc:identifier>
+        <dc:title>A New England Girlhood, Outlined from Memory (Beverly, MA)</dc:title>
+        <dc:creator opf:file-as="Larcom, Lucy" opf:role="aut">Lucy Larcom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2293</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Larcom</dc:subject>
+        <dc:subject>Lucy</dc:subject>
+        <dc:subject>1824-1893 -- Childhood and youth</dc:subject>
+        <dc:subject>Women textile workers -- Massachusetts -- Lowell -- Biography</dc:subject>
+        <dc:subject>Girls -- New England</dc:subject>
+        <dc:subject>New England -- Social life and customs</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lucy Larcom&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:56:30.854787+00:00"/>
+        <meta name="calibre:title_sort" content="New England Girlhood, Outlined from Memory (Beverly, MA), A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

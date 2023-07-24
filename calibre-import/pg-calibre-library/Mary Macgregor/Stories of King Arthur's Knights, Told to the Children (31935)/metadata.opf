@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56da1ae2-53e0-4ec8-84e4-8b3fe8ad18c7</dc:identifier>
+        <dc:title>Stories of King Arthur's Knights, Told to the Children</dc:title>
+        <dc:creator opf:file-as="Macgregor, Mary" opf:role="aut">Mary Macgregor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25654</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arthurian romances -- Adaptations</dc:subject>
+        <dc:subject>Arthur</dc:subject>
+        <dc:subject>King -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Macgregor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:45:05.406293+00:00"/>
+        <meta name="calibre:title_sort" content="Stories of King Arthur's Knights, Told to the Children"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88abc9d4-3cf3-4c81-a0d5-bdc7f4f28f16</dc:identifier>
+        <dc:title>From the Print Media to the Internet</dc:title>
+        <dc:creator opf:file-as="Lebert, Marie" opf:role="aut">Marie Lebert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27030</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>Books</dc:subject>
+        <dc:subject>Electronic books</dc:subject>
+        <dc:subject>Libraries</dc:subject>
+        <dc:subject>World Wide Web</dc:subject>
+        <dc:subject>Bookstores</dc:subject>
+        <dc:subject>Publishers and publishing</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Lebert&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:30:26.537163+00:00"/>
+        <meta name="calibre:title_sort" content="From the Print Media to the Internet"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

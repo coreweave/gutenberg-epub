@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9452</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4d274b7-2d96-49cc-9d8b-71329bc51fab</dc:identifier>
+        <dc:title>Country Lodgings</dc:title>
+        <dc:creator opf:file-as="Mitford, Mary Russell" opf:role="aut">Mary Russell Mitford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/22838</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>England -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Country life -- England -- Fiction</dc:subject>
+        <dc:subject>Widows -- Fiction</dc:subject>
+        <dc:subject>Courtship -- Fiction</dc:subject>
+        <dc:subject>Pastoral fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Russell Mitford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:34:02.132861+00:00"/>
+        <meta name="calibre:title_sort" content="Country Lodgings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

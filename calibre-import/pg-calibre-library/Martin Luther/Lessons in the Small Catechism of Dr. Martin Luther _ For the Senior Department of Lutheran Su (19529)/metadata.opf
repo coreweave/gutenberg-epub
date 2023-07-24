@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63d49513-5ff3-4694-8d89-041c3217558c</dc:identifier>
+        <dc:title>Lessons in the Small Catechism of Dr. Martin Luther / For the Senior Department of Lutheran Sunday-Schools and for General Use</dc:title>
+        <dc:creator opf:file-as="Luther, Martin" opf:role="aut">Martin Luther</dc:creator>
+        <dc:creator opf:file-as="Luther, Martin" opf:role="aut">George Mezger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/53465</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lutheran Church -- Catechisms</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin Luther&quot;: &quot;&quot;, &quot;George Mezger&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:47:07.477058+00:00"/>
+        <meta name="calibre:title_sort" content="Lessons in the Small Catechism of Dr. Martin Luther / For the Senior Department of Lutheran Sunday-Schools and for General Use"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

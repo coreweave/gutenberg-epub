@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17797</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0a2bf6a-eb2b-48c4-87e2-0cbbbace75ea</dc:identifier>
+        <dc:title>International Language and Science / Considerations on the Introduction of an International Language into Science</dc:title>
+        <dc:creator opf:file-as="Couturat, Louis" opf:role="aut">Louis Couturat</dc:creator>
+        <dc:creator opf:file-as="Couturat, Louis" opf:role="aut">Otto Jespersen</dc:creator>
+        <dc:creator opf:file-as="Couturat, Louis" opf:role="aut">Richard Lorenz</dc:creator>
+        <dc:creator opf:file-as="Couturat, Louis" opf:role="aut">Wilhelm Ostwald</dc:creator>
+        <dc:creator opf:file-as="Couturat, Louis" opf:role="aut">Leopold Pfaundler von Hadermur</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54694</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Language</dc:subject>
+        <dc:subject>Universal</dc:subject>
+        <dc:subject>Communication in science</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Couturat&quot;: &quot;&quot;, &quot;Otto Jespersen&quot;: &quot;&quot;, &quot;Richard Lorenz&quot;: &quot;&quot;, &quot;Wilhelm Ostwald&quot;: &quot;&quot;, &quot;Leopold Pfaundler von Hadermur&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:45:47.525898+00:00"/>
+        <meta name="calibre:title_sort" content="International Language and Science / Considerations on the Introduction of an International Language into Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

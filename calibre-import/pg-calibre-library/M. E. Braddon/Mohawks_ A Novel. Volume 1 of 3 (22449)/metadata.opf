@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">152b551c-8026-4418-a4bf-256ecb444837</dc:identifier>
+        <dc:title>Mohawks: A Novel. Volume 1 of 3</dc:title>
+        <dc:creator opf:file-as="Braddon, M. E. (Mary Elizabeth)" opf:role="aut">M. E. Braddon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41374</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. E. Braddon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:40:15.790953+00:00"/>
+        <meta name="calibre:title_sort" content="Mohawks: A Novel. Volume 1 of 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9081efb9-e575-41a8-8d34-d66d7f9ad59f</dc:identifier>
+        <dc:title>Leyte: The Return to the Philippines</dc:title>
+        <dc:creator opf:file-as="Cannon, M. Hamlin" opf:role="aut">M. Hamlin Cannon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1939-1945 -- Campaigns -- Philippines -- Leyte</dc:subject>
+        <dc:subject>Leyte Island (Philippines) -- History</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>United States -- Armed Forces -- History -- World War</dc:subject>
+        <dc:subject>1939-1945</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. Hamlin Cannon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:53:33.390228+00:00"/>
+        <meta name="calibre:title_sort" content="Leyte: The Return to the Philippines"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

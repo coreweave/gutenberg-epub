@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29722</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcfca56a-6834-4936-9a7d-b2d5f61590fa</dc:identifier>
+        <dc:title>Sarah Bernhardt as I knew her / The Memoirs of Madame Pierre Berton as told to Basil Woon</dc:title>
+        <dc:creator opf:file-as="Berton, Pierre, Mme." opf:role="aut">Mme. Pierre Berton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59511</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bernhardt</dc:subject>
+        <dc:subject>Sarah</dc:subject>
+        <dc:subject>1844-1923</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mme. Pierre Berton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:57:24.144841+00:00"/>
+        <meta name="calibre:title_sort" content="Sarah Bernhardt as I knew her / The Memoirs of Madame Pierre Berton as told to Basil Woon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

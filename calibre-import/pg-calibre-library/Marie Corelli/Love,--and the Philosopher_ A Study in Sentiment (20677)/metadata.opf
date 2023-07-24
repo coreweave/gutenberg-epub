@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec3b1909-a466-4191-b1ff-d26b10f49a0f</dc:identifier>
+        <dc:title>Love,—and the Philosopher: A Study in Sentiment</dc:title>
+        <dc:creator opf:file-as="Corelli, Marie" opf:role="aut">Marie Corelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59780</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English fiction -- 20th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Corelli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:29:50.910083+00:00"/>
+        <meta name="calibre:title_sort" content="Love,—and the Philosopher: A Study in Sentiment"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

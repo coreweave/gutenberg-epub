@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32006dd5-cd9b-49db-ac2b-a79d7bfd7fc8</dc:identifier>
+        <dc:title>The Automatic Maid-of-All-Work: A Possible Tale of the Near Future</dc:title>
+        <dc:creator opf:file-as="Campbell, M. L." opf:role="aut">M. L. Campbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59053</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Housekeeping -- Fiction</dc:subject>
+        <dc:subject>Inventors -- Fiction</dc:subject>
+        <dc:subject>Robots -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. L. Campbell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:28:58.515303+00:00"/>
+        <meta name="calibre:title_sort" content="Automatic Maid-of-All-Work: A Possible Tale of the Near Future, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

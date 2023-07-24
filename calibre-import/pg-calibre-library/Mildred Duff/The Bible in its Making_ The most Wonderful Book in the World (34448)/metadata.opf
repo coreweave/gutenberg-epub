@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">493c9c94-8673-4675-b79e-bf684c345653</dc:identifier>
+        <dc:title>The Bible in its Making: The most Wonderful Book in the World</dc:title>
+        <dc:creator opf:file-as="Duff, Mildred" opf:role="aut">Mildred Duff</dc:creator>
+        <dc:creator opf:file-as="Duff, Mildred" opf:role="aut">Noel Hope</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bible -- Inspiration</dc:subject>
+        <dc:subject>Bible -- History</dc:subject>
+        <dc:subject>Bible -- Authorship</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mildred Duff&quot;: &quot;&quot;, &quot;Noel Hope&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:47:15.414765+00:00"/>
+        <meta name="calibre:title_sort" content="Bible in its Making: The most Wonderful Book in the World, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

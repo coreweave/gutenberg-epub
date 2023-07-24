@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34746</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa8f4653-b110-4cf1-a14f-200682078a6c</dc:identifier>
+        <dc:title>The Black-Bearded Barbarian : The Life of George Leslie Mackay of Formosa</dc:title>
+        <dc:creator opf:file-as="MacGregor, Mary Esther Miller" opf:role="aut">Mary Esther Miller MacGregor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/1759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mackay</dc:subject>
+        <dc:subject>George Leslie</dc:subject>
+        <dc:subject>1844-1901</dc:subject>
+        <dc:subject>Missionaries -- Taiwan -- Biography</dc:subject>
+        <dc:subject>Presbyterian Church in Canada -- Missions</dc:subject>
+        <dc:subject>Missions -- Taiwan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Esther Miller MacGregor&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:02:03.932181+00:00"/>
+        <meta name="calibre:title_sort" content="Black-Bearded Barbarian : The Life of George Leslie Mackay of Formosa, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

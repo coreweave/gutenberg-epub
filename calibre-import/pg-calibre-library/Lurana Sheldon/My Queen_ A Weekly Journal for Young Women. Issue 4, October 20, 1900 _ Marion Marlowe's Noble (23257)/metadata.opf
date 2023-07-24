@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0426683-5372-41bf-861e-f9351c29c495</dc:identifier>
+        <dc:title>My Queen: A Weekly Journal for Young Women. Issue 4, October 20, 1900 / Marion Marlowe's Noble Work; or, The Tragedy at the Hospital</dc:title>
+        <dc:creator opf:file-as="Sheldon, Lurana" opf:role="aut">Lurana Sheldon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58021</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dime novels -- Periodicals</dc:subject>
+        <dc:subject>Young women -- Periodicals</dc:subject>
+        <dc:subject>Popular literature -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lurana Sheldon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:14:39.764838+00:00"/>
+        <meta name="calibre:title_sort" content="My Queen: A Weekly Journal for Young Women. Issue 4, October 20, 1900 / Marion Marlowe's Noble Work; or, The Tragedy at the Hospital"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

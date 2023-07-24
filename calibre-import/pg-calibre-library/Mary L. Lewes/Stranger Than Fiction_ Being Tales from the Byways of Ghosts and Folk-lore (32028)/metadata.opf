@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd7e9051-0a54-43dc-8054-3d00270a1ccf</dc:identifier>
+        <dc:title>Stranger Than Fiction: Being Tales from the Byways of Ghosts and Folk-lore</dc:title>
+        <dc:creator opf:file-as="Lewes, Mary L." opf:role="aut">Mary L. Lewes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ghosts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary L. Lewes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:49:26.030703+00:00"/>
+        <meta name="calibre:title_sort" content="Stranger Than Fiction: Being Tales from the Byways of Ghosts and Folk-lore"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

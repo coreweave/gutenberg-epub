@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0f4afed-4044-46ab-9f10-accc82c2f490</dc:identifier>
+        <dc:title>The Felon's Track; Or, History of the Attempted Outbreak in Ireland / Embracing the Leading Events in the Irish Struggle From the Year 1843 to the Close of 1848</dc:title>
+        <dc:creator opf:file-as="Doheny, Michael" opf:role="aut">Michael Doheny</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young Ireland Party -- History</dc:subject>
+        <dc:subject>Young Ireland movement</dc:subject>
+        <dc:subject>Ireland -- History -- Rising of 1848</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Doheny&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T17:09:35.336138+00:00"/>
+        <meta name="calibre:title_sort" content="Felon's Track; Or, History of the Attempted Outbreak in Ireland / Embracing the Leading Events in the Irish Struggle From the Year 1843 to the Close of 1848, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

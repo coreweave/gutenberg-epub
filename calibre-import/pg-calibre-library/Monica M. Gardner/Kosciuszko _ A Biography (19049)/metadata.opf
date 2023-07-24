@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19049</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">049e8fa5-67e4-41d7-9cc4-dadad97daa21</dc:identifier>
+        <dc:title>Kościuszko / A Biography</dc:title>
+        <dc:creator opf:file-as="Gardner, Monica M. (Monica Mary)" opf:role="aut">Monica M. Gardner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27882</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kościuszko</dc:subject>
+        <dc:subject>Tadeusz</dc:subject>
+        <dc:subject>1746-1817</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Monica M. Gardner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:29:49.072694+00:00"/>
+        <meta name="calibre:title_sort" content="Kościuszko / A Biography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

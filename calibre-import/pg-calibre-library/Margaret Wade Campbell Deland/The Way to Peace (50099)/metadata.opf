@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50099</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d1add38-8b88-43c6-bc2c-c118c888830b</dc:identifier>
+        <dc:title>The Way to Peace</dc:title>
+        <dc:creator opf:file-as="Deland, Margaret Wade Campbell" opf:role="aut">Margaret Wade Campbell Deland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2685</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shakers -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Wade Campbell Deland&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T04:12:29.328493+00:00"/>
+        <meta name="calibre:title_sort" content="Way to Peace, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

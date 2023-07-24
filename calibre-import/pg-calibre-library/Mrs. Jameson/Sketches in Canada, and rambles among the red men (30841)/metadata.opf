@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92d6638d-3e91-4cf5-8c8e-920a8da133e6</dc:identifier>
+        <dc:title>Sketches in Canada, and rambles among the red men</dc:title>
+        <dc:creator opf:file-as="Jameson, Mrs. (Anna)" opf:role="aut">Mrs. Jameson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35224</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Canada</dc:subject>
+        <dc:subject>Ontario -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Jameson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:51:39.177644+00:00"/>
+        <meta name="calibre:title_sort" content="Sketches in Canada, and rambles among the red men"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

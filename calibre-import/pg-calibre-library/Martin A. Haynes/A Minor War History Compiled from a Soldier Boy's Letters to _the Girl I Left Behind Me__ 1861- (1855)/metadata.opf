@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1855</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb2497c1-2399-4151-9a9b-c8e0f4e7a33f</dc:identifier>
+        <dc:title>A Minor War History Compiled from a Soldier Boy's Letters to "the Girl I Left Behind Me": 1861-1864</dc:title>
+        <dc:creator opf:file-as="Haynes, Martin A. (Martin Alonzo)" opf:role="aut">Martin A. Haynes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63040</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Personal narratives</dc:subject>
+        <dc:subject>United States. Army. New Hampshire Infantry Regiment</dc:subject>
+        <dc:subject>2nd (1861-1865)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Martin A. Haynes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:54:44.531332+00:00"/>
+        <meta name="calibre:title_sort" content="Minor War History Compiled from a Soldier Boy's Letters to &quot;the Girl I Left Behind Me&quot;: 1861-1864, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

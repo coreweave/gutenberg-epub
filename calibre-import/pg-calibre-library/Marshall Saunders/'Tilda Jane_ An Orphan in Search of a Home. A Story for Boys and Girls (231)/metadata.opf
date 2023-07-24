@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0b318e9-ecc8-465d-ab15-a7ac99d24f04</dc:identifier>
+        <dc:title>'Tilda Jane: An Orphan in Search of a Home. A Story for Boys and Girls</dc:title>
+        <dc:creator opf:file-as="Saunders, Marshall" opf:role="aut">Marshall Saunders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52018</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Dogs -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Animal welfare -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marshall Saunders&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:29:30.876568+00:00"/>
+        <meta name="calibre:title_sort" content="Tilda Jane: An Orphan in Search of a Home. A Story for Boys and Girls"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55056</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c08f3da5-948c-4529-b5e4-f9329bac8f68</dc:identifier>
+        <dc:title>Wit and Wisdom of Don Quixote</dc:title>
+        <dc:creator opf:file-as="Cervantes Saavedra, Miguel de" opf:role="aut">Miguel de Cervantes Saavedra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/24754</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cervantes Saavedra</dc:subject>
+        <dc:subject>Miguel de</dc:subject>
+        <dc:subject>1547-1616 -- Quotations</dc:subject>
+        <dc:subject>Proverbs</dc:subject>
+        <dc:subject>Spanish</dc:subject>
+        <dc:subject>1547-1616 -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Cervantes Saavedra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:32:14.087077+00:00"/>
+        <meta name="calibre:title_sort" content="Wit and Wisdom of Don Quixote"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33742</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37b0b79b-f57d-49d2-b1e8-94a3ba4764ac</dc:identifier>
+        <dc:title>The Argentine in the Twentieth Century</dc:title>
+        <dc:creator opf:file-as="Lewandowski, Maurice" opf:role="aut">Maurice Lewandowski</dc:creator>
+        <dc:creator opf:file-as="Lewandowski, Maurice" opf:role="aut">Alberto B. Martínez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45261</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Argentina -- Economic conditions</dc:subject>
+        <dc:subject>Argentina -- Commerce</dc:subject>
+        <dc:subject>Finance -- Argentina</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Lewandowski&quot;: &quot;&quot;, &quot;Alberto B. Martínez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:12:28.103175+00:00"/>
+        <meta name="calibre:title_sort" content="Argentine in the Twentieth Century, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

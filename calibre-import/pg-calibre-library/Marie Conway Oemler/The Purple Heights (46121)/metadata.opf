@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bc5f8e5-93ca-4c53-a7ad-59c8e152fd1c</dc:identifier>
+        <dc:title>The Purple Heights</dc:title>
+        <dc:creator opf:file-as="Oemler, Marie Conway" opf:role="aut">Marie Conway Oemler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12596</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South Carolina -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Conway Oemler&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T00:12:42.332827+00:00"/>
+        <meta name="calibre:title_sort" content="Purple Heights, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e5ea1aa-6906-4b16-a9ca-074ba35456bc</dc:identifier>
+        <dc:title>The Kenzie Report</dc:title>
+        <dc:creator opf:file-as="Clifton, Mark" opf:role="aut">Mark Clifton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32131</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Ants -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mark Clifton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:48:45.052096+00:00"/>
+        <meta name="calibre:title_sort" content="Kenzie Report, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

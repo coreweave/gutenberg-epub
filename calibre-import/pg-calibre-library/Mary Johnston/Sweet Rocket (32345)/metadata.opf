@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caf50c31-078f-4488-904a-d9ab590cb78a</dc:identifier>
+        <dc:title>Sweet Rocket</dc:title>
+        <dc:creator opf:file-as="Johnston, Mary" opf:role="aut">Mary Johnston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56101</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Supernatural -- Fiction</dc:subject>
+        <dc:subject>Virginia -- Fiction</dc:subject>
+        <dc:subject>Mysticism -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Johnston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:04:36.418455+00:00"/>
+        <meta name="calibre:title_sort" content="Sweet Rocket"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

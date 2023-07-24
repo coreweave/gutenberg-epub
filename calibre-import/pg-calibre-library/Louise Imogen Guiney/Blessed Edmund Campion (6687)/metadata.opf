@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6355d8a-a3e9-49f6-a733-bf937942e94a</dc:identifier>
+        <dc:title>Blessed Edmund Campion</dc:title>
+        <dc:creator opf:file-as="Guiney, Louise Imogen" opf:role="aut">Louise Imogen Guiney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52731</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Campion</dc:subject>
+        <dc:subject>Edmund</dc:subject>
+        <dc:subject>Saint</dc:subject>
+        <dc:subject>1540-1581</dc:subject>
+        <dc:subject>Jesuits -- England</dc:subject>
+        <dc:subject>Christian martyrs -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louise Imogen Guiney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:27:51.373850+00:00"/>
+        <meta name="calibre:title_sort" content="Blessed Edmund Campion"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

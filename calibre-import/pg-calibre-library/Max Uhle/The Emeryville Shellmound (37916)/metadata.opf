@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb60eea7-ec9a-4154-8252-0917123f8a6a</dc:identifier>
+        <dc:title>The Emeryville Shellmound</dc:title>
+        <dc:creator opf:file-as="Uhle, Max" opf:role="aut">Max Uhle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67841</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Kitchen-middens -- California -- San Francisco Bay Area</dc:subject>
+        <dc:subject>Indians of North America -- California -- Emeryville -- Antiquities</dc:subject>
+        <dc:subject>Emeryville Site (Calif.)</dc:subject>
+        <dc:subject>Emeryville (Calif.) -- Antiquities</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Max Uhle&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:42:12.643373+00:00"/>
+        <meta name="calibre:title_sort" content="Emeryville Shellmound, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

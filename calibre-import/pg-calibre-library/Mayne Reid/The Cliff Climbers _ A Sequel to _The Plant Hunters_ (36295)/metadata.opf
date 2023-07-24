@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a47677c2-fb90-4815-95df-0c7c276a73b7</dc:identifier>
+        <dc:title>The Cliff Climbers / A Sequel to "The Plant Hunters"</dc:title>
+        <dc:creator opf:file-as="Reid, Mayne" opf:role="aut">Mayne Reid</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/21239</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brothers -- Juvenile fiction</dc:subject>
+        <dc:subject>Adventure and adventurers -- Juvenile fiction</dc:subject>
+        <dc:subject>Survival skills -- Juvenile fiction</dc:subject>
+        <dc:subject>Hunting -- Juvenile fiction</dc:subject>
+        <dc:subject>Botanists -- Juvenile fiction</dc:subject>
+        <dc:subject>East Indians -- Juvenile fiction</dc:subject>
+        <dc:subject>Himalaya Mountains -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mayne Reid&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T15:19:18.549247+00:00"/>
+        <meta name="calibre:title_sort" content="Cliff Climbers / A Sequel to &quot;The Plant Hunters&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

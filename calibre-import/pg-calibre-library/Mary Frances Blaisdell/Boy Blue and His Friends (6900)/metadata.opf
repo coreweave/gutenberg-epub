@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6900</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a080dbba-5223-4c62-9380-91db860fb701</dc:identifier>
+        <dc:title>Boy Blue and His Friends</dc:title>
+        <dc:creator opf:file-as="Blaisdell, Mary Frances" opf:role="aut">Mary Frances Blaisdell</dc:creator>
+        <dc:creator opf:file-as="Blaisdell, Mary Frances" opf:role="aut">Etta Blaisdell McDonald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/16046</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Nursery rhymes -- Adaptations</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Frances Blaisdell&quot;: &quot;&quot;, &quot;Etta Blaisdell McDonald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:32:40.650550+00:00"/>
+        <meta name="calibre:title_sort" content="Boy Blue and His Friends"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

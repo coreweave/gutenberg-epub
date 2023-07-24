@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09b6d088-a363-4417-9873-8c38cf4d5d21</dc:identifier>
+        <dc:title>The Lifted Bandage</dc:title>
+        <dc:creator opf:file-as="Andrews, Mary Raymond Shipman" opf:role="aut">Mary Raymond Shipman Andrews</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15894</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Trials (Murder) -- Fiction</dc:subject>
+        <dc:subject>Judges -- Fiction</dc:subject>
+        <dc:subject>Mental illness -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Raymond Shipman Andrews&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:38:19.593520+00:00"/>
+        <meta name="calibre:title_sort" content="Lifted Bandage, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

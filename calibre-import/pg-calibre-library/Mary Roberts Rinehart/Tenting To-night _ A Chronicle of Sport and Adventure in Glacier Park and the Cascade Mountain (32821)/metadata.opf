@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36eb267e-dbee-4aaa-9ad2-ecb84e625b81</dc:identifier>
+        <dc:title>Tenting To-night / A Chronicle of Sport and Adventure in Glacier Park and the Cascade Mountains</dc:title>
+        <dc:creator opf:file-as="Rinehart, Mary Roberts" opf:role="aut">Mary Roberts Rinehart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19475</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Rinehart</dc:subject>
+        <dc:subject>Mary Roberts</dc:subject>
+        <dc:subject>1876-1958 -- Travel -- Montana -- Glacier National Park</dc:subject>
+        <dc:subject>1876-1958 -- Travel -- Cascade Range</dc:subject>
+        <dc:subject>1876-1958 -- Family</dc:subject>
+        <dc:subject>Camping -- Montana -- Glacier National Park -- History -- 20th century</dc:subject>
+        <dc:subject>Camping -- Cascade Range -- History -- 20th century</dc:subject>
+        <dc:subject>Outdoor life -- Montana -- Glacier National Park -- History -- 20th century</dc:subject>
+        <dc:subject>Outdoor life -- Cascade Range -- History -- 20th century</dc:subject>
+        <dc:subject>Glacier National Park (Mont.) -- Description and travel</dc:subject>
+        <dc:subject>Cascade Range -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Roberts Rinehart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:27:35.730170+00:00"/>
+        <meta name="calibre:title_sort" content="Tenting To-night / A Chronicle of Sport and Adventure in Glacier Park and the Cascade Mountains"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

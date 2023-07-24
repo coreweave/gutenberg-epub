@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3795005-1449-4160-a2a7-fd4361cdb5ed</dc:identifier>
+        <dc:title>Over Periscope Pond / Letters from Two American Girls in Paris October 1916-January 1918</dc:title>
+        <dc:creator opf:file-as="Crocker, Marjorie" opf:role="aut">Marjorie Crocker</dc:creator>
+        <dc:creator opf:file-as="Crocker, Marjorie" opf:role="aut">Esther Sayles Root</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45810</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Personal narratives</dc:subject>
+        <dc:subject>1914-1918 -- Hospitals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marjorie Crocker&quot;: &quot;&quot;, &quot;Esther Sayles Root&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:49:41.356141+00:00"/>
+        <meta name="calibre:title_sort" content="Over Periscope Pond / Letters from Two American Girls in Paris October 1916-January 1918"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

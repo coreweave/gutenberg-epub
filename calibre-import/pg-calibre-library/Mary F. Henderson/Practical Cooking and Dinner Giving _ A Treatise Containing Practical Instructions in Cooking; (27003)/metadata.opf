@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e4320bc-2a25-4ca2-ab0e-890da319a492</dc:identifier>
+        <dc:title>Practical Cooking and Dinner Giving / A Treatise Containing Practical Instructions in Cooking; in the Combination and Serving of Dishes; and in the Fashionable Modes of Entertaining at Breakfast, Lunch, and Dinner</dc:title>
+        <dc:creator opf:file-as="Henderson, Mary F. (Mary Foote)" opf:role="aut">Mary F. Henderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59713</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary F. Henderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:54:47.690423+00:00"/>
+        <meta name="calibre:title_sort" content="Practical Cooking and Dinner Giving / A Treatise Containing Practical Instructions in Cooking; in the Combination and Serving of Dishes; and in the Fashionable Modes of Entertaining at Breakfast, Lunch, and Dinner"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

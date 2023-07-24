@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">785c472f-7dae-4d70-a4b2-b59f72161fa8</dc:identifier>
+        <dc:title>Poetical Works of Matthew Arnold</dc:title>
+        <dc:creator opf:file-as="Arnold, Matthew" opf:role="aut">Matthew Arnold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27739</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- 19th century</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Matthew Arnold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:45:27.910206+00:00"/>
+        <meta name="calibre:title_sort" content="Poetical Works of Matthew Arnold"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

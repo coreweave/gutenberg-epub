@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2284d787-f643-4f28-95b7-c89286b35480</dc:identifier>
+        <dc:title>Gray Lady and the Birds: Stories of the Bird Year for Home and School</dc:title>
+        <dc:creator opf:file-as="Wright, Mabel Osgood" opf:role="aut">Mabel Osgood Wright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62793</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Birds -- Juvenile literature</dc:subject>
+        <dc:subject>Birds -- New England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel Osgood Wright&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:57:14.593427+00:00"/>
+        <meta name="calibre:title_sort" content="Gray Lady and the Birds: Stories of the Bird Year for Home and School"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

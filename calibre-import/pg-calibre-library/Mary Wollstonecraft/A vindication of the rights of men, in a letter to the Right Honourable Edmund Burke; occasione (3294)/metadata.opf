@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e5c0ed5-3ec3-402e-9787-acab20417f3a</dc:identifier>
+        <dc:title>A vindication of the rights of men, in a letter to the Right Honourable Edmund Burke; occasioned by his Reflections on the Revolution in France</dc:title>
+        <dc:creator opf:file-as="Wollstonecraft, Mary" opf:role="aut">Mary Wollstonecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-25T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/62757</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- History -- Revolution</dc:subject>
+        <dc:subject>1789-1799 -- Causes</dc:subject>
+        <dc:subject>Liberty</dc:subject>
+        <dc:subject>Burke</dc:subject>
+        <dc:subject>Edmund</dc:subject>
+        <dc:subject>1729-1797. Reflections on the revolution in France</dc:subject>
+        <dc:subject>Human rights</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Wollstonecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:19:51.840786+00:00"/>
+        <meta name="calibre:title_sort" content="vindication of the rights of men, in a letter to the Right Honourable Edmund Burke; occasioned by his Reflections on the Revolution in France, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

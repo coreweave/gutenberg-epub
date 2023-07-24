@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9375</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a90e05ba-6aaa-4b2a-a4c7-6b0db5d2a8b7</dc:identifier>
+        <dc:title>Cornish Feasts and Folk-lore</dc:title>
+        <dc:creator opf:file-as="Courtney, M. A. (Margaret Ann)" opf:role="aut">M. A. Courtney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54637</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Legends -- England -- Cornwall (County)</dc:subject>
+        <dc:subject>Cornwall (England : County) -- Social life and customs</dc:subject>
+        <dc:subject>Folklore -- England -- Cornwall (County)</dc:subject>
+        <dc:subject>Fasts and feasts -- England -- Cornwall (County)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. A. Courtney&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:32:05.351131+00:00"/>
+        <meta name="calibre:title_sort" content="Cornish Feasts and Folk-lore"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

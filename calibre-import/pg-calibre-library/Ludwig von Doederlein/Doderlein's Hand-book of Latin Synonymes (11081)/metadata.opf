@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11081</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4bc2b12-4595-4d55-991f-f32fcde5310a</dc:identifier>
+        <dc:title>Döderlein's Hand-book of Latin Synonymes</dc:title>
+        <dc:creator opf:file-as="Doederlein, Ludwig von" opf:role="aut">Ludwig von Doederlein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/33197</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>lat</dc:language>
+        <dc:subject>Latin language -- Synonyms and antonyms</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ludwig von Doederlein&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:16:57.824001+00:00"/>
+        <meta name="calibre:title_sort" content="Döderlein's Hand-book of Latin Synonymes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

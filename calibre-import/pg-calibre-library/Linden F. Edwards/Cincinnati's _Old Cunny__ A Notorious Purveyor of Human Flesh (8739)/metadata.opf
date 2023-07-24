@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8739</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34369dd4-a78a-470a-a87c-acf0b197e39e</dc:identifier>
+        <dc:title>Cincinnati's "Old Cunny": A Notorious Purveyor of Human Flesh</dc:title>
+        <dc:creator opf:file-as="Edwards, Linden F. (Linden Forest)" opf:role="aut">Linden F. Edwards</dc:creator>
+        <dc:creator opf:file-as="Edwards, Linden F. (Linden Forest)" opf:role="aut">Public Library of Fort Wayne</dc:creator>
+        <dc:creator opf:file-as="Edwards, Linden F. (Linden Forest)" opf:role="aut">Allen County</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65856</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Medicine -- History</dc:subject>
+        <dc:subject>Body snatching</dc:subject>
+        <dc:subject>Cunningham</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1807-1871</dc:subject>
+        <dc:subject>Dissection -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Linden F. Edwards&quot;: &quot;&quot;, &quot;Public Library of Fort Wayne&quot;: &quot;&quot;, &quot;Allen County&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:16:11.168680+00:00"/>
+        <meta name="calibre:title_sort" content="Cincinnati's &quot;Old Cunny&quot;: A Notorious Purveyor of Human Flesh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

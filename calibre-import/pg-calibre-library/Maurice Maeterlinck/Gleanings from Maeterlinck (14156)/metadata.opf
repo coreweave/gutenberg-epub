@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8d56272-102d-4c8d-aac6-3fec568a4267</dc:identifier>
+        <dc:title>Gleanings from Maeterlinck</dc:title>
+        <dc:creator opf:file-as="Maeterlinck, Maurice" opf:role="aut">Maurice Maeterlinck</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67625</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Death</dc:subject>
+        <dc:subject>Belgian essays (French) -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Maeterlinck&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:45:45.686429+00:00"/>
+        <meta name="calibre:title_sort" content="Gleanings from Maeterlinck"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22939</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a083aca3-c9ea-4d05-b0d8-524a90883f4e</dc:identifier>
+        <dc:title>Mr. Wu / Based on the Play "Mr. Wu" by H. M. Vernon and Harold Owen</dc:title>
+        <dc:creator opf:file-as="Miln, Louise Jordan" opf:role="aut">Louise Jordan Miln</dc:creator>
+        <dc:creator opf:file-as="Miln, Louise Jordan" opf:role="aut">Harold Owen</dc:creator>
+        <dc:creator opf:file-as="Miln, Louise Jordan" opf:role="aut">Harry M. Vernon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66877</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fathers and daughters -- Fiction</dc:subject>
+        <dc:subject>Illegitimate children -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>British -- China -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louise Jordan Miln&quot;: &quot;&quot;, &quot;Harold Owen&quot;: &quot;&quot;, &quot;Harry M. Vernon&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:00:54.918792+00:00"/>
+        <meta name="calibre:title_sort" content="Mr. Wu / Based on the Play &quot;Mr. Wu&quot; by H. M. Vernon and Harold Owen"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

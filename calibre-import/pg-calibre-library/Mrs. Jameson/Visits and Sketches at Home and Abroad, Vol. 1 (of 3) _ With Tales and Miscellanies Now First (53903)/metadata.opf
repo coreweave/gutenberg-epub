@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53903</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27bcba4c-568a-43af-a729-161241ad23ea</dc:identifier>
+        <dc:title>Visits and Sketches at Home and Abroad, Vol. 1 (of 3) / With Tales and Miscellanies Now First Collected</dc:title>
+        <dc:creator opf:file-as="Jameson, Mrs. (Anna)" opf:role="aut">Mrs. Jameson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36818</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Germany -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Jameson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T08:16:35.617327+00:00"/>
+        <meta name="calibre:title_sort" content="Visits and Sketches at Home and Abroad, Vol. 1 (of 3) / With Tales and Miscellanies Now First Collected"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad7b5c35-ac17-4bcd-abae-2eb0682c2f6d</dc:identifier>
+        <dc:title>On the various forces of nature and their relations to each other</dc:title>
+        <dc:creator opf:file-as="Faraday, Michael" opf:role="aut">Michael Faraday</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52293</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Physics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Michael Faraday&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:27:58.803606+00:00"/>
+        <meta name="calibre:title_sort" content="On the various forces of nature and their relations to each other"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">991227f3-9dc0-432f-95dd-bc651f253cf5</dc:identifier>
+        <dc:title>Motor Tours in the West Country</dc:title>
+        <dc:creator opf:file-as="Stawell, Rodolph, Mrs." opf:role="aut">Mrs. Rodolph Stawell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54405</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cornwall (England : County) -- Description and travel</dc:subject>
+        <dc:subject>Devon (England) -- Description and travel</dc:subject>
+        <dc:subject>Somerset (England) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. Rodolph Stawell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:54:25.125256+00:00"/>
+        <meta name="calibre:title_sort" content="Motor Tours in the West Country"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ba2d03c-7761-4322-958a-434f9469ab3f</dc:identifier>
+        <dc:title>The Bondman: A Story of the Times of Wat Tyler</dc:title>
+        <dc:creator opf:file-as="O'Neill, Mrs." opf:role="aut">Mrs. O'Neill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56976</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Tyler's Insurrection</dc:subject>
+        <dc:subject>1381 -- Fiction</dc:subject>
+        <dc:subject>Peasant uprisings -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Richard II</dc:subject>
+        <dc:subject>1377-1399 -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mrs. O'Neill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:07:45.127419+00:00"/>
+        <meta name="calibre:title_sort" content="Bondman: A Story of the Times of Wat Tyler, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

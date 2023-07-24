@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43fdbf6a-db84-4abc-92de-ec6b052b409c</dc:identifier>
+        <dc:title>Child-Life in Japan and Japanese Child Stories</dc:title>
+        <dc:creator opf:file-as="Ayrton, Matilda Chaplin" opf:role="aut">Matilda Chaplin Ayrton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Japan -- Social life and customs</dc:subject>
+        <dc:subject>Fairy tales -- Japan</dc:subject>
+        <dc:subject>Children -- Japan</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Matilda Chaplin Ayrton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:08:37.863484+00:00"/>
+        <meta name="calibre:title_sort" content="Child-Life in Japan and Japanese Child Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26860</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57233f14-72a8-4d8f-be5e-358e06058c08</dc:identifier>
+        <dc:title>Polly in the Southwest</dc:title>
+        <dc:creator opf:file-as="Roy, Lillian Elizabeth" opf:role="aut">Lillian Elizabeth Roy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67057</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Young women -- Juvenile fiction</dc:subject>
+        <dc:subject>Southwest</dc:subject>
+        <dc:subject>New -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lillian Elizabeth Roy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:48:43.829932+00:00"/>
+        <meta name="calibre:title_sort" content="Polly in the Southwest"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

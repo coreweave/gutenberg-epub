@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61d9a619-7a24-4c81-b9b2-32f0f02dd42f</dc:identifier>
+        <dc:title>A Book of Discovery / The History of the World's Exploration, From the Earliest Times to the Finding of the South Pole</dc:title>
+        <dc:creator opf:file-as="Synge, M. B. (Margaret Bertha)" opf:role="aut">M. B. Synge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23107</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Discoveries in geography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M. B. Synge&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:31:44.090009+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Discovery / The History of the World's Exploration, From the Earliest Times to the Finding of the South Pole, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

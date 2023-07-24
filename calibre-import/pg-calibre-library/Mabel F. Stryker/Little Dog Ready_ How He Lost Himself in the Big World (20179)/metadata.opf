@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">875fb76f-802d-4bc7-a0c0-b2c39d3ec998</dc:identifier>
+        <dc:title>Little Dog Ready: How He Lost Himself in the Big World</dc:title>
+        <dc:creator opf:file-as="Stryker, Mabel F." opf:role="aut">Mabel F. Stryker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67802</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Juvenile fiction</dc:subject>
+        <dc:subject>Animals -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mabel F. Stryker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:10:58.808506+00:00"/>
+        <meta name="calibre:title_sort" content="Little Dog Ready: How He Lost Himself in the Big World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5086</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a1014e7-2499-4373-ab15-964beb62b825</dc:identifier>
+        <dc:title>Armenia, a martyr nation / A historical sketch of the Armenian people from traditional times to the present tragic days</dc:title>
+        <dc:creator opf:file-as="Gabrielian, Mugurdich Chojhauji" opf:role="aut">Mugurdich Chojhauji Gabrielian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69646</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Armenian question</dc:subject>
+        <dc:subject>Armenia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mugurdich Chojhauji Gabrielian&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:53:59.304066+00:00"/>
+        <meta name="calibre:title_sort" content="Armenia, a martyr nation / A historical sketch of the Armenian people from traditional times to the present tragic days"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

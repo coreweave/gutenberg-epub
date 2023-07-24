@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62e65d0c-79f0-429e-9654-0a4d1bb95921</dc:identifier>
+        <dc:title>My First Years as a Frenchwoman, 1876-1879</dc:title>
+        <dc:creator opf:file-as="Waddington, Mary King" opf:role="aut">Mary King Waddington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10003</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>France -- Social life and customs</dc:subject>
+        <dc:subject>France -- History -- Third Republic</dc:subject>
+        <dc:subject>1870-1940</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary King Waddington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:10:27.283583+00:00"/>
+        <meta name="calibre:title_sort" content="My First Years as a Frenchwoman, 1876-1879"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

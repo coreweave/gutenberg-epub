@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f4c404c-12a2-4aa6-a843-60f3c7a9e216</dc:identifier>
+        <dc:title>Bismarck: some secret pages of his history (Vol. 1 of 3) / being a diary kept by Dr. Moritz Busch during twenty-five years' official and private intercourse with the great Chancellor</dc:title>
+        <dc:creator opf:file-as="Busch, Moritz" opf:role="aut">Moritz Busch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-07-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68651</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bismarck</dc:subject>
+        <dc:subject>Otto</dc:subject>
+        <dc:subject>Fürst von</dc:subject>
+        <dc:subject>1815-1898</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Moritz Busch&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:24:04.776530+00:00"/>
+        <meta name="calibre:title_sort" content="Bismarck: some secret pages of his history (Vol. 1 of 3) / being a diary kept by Dr. Moritz Busch during twenty-five years' official and private intercourse with the great Chancellor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

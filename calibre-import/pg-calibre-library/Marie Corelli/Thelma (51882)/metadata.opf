@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">065c69c0-dda1-48c4-ae11-cdb64b107f74</dc:identifier>
+        <dc:title>Thelma</dc:title>
+        <dc:creator opf:file-as="Corelli, Marie" opf:role="aut">Marie Corelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/3823</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>London (England) -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Norway -- Fiction</dc:subject>
+        <dc:subject>Upper class -- England -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marie Corelli&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:07:13.914675+00:00"/>
+        <meta name="calibre:title_sort" content="Thelma"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

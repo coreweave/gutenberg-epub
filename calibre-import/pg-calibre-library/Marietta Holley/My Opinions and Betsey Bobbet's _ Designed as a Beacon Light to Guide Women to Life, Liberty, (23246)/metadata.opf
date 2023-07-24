@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85e8aeeb-192c-41cb-9c5a-a955c610237e</dc:identifier>
+        <dc:title>My Opinions and Betsey Bobbet's / Designed as a Beacon Light to Guide Women to Life, Liberty, and the Pursuit of Happiness, But Which May Be Read by Members of the Sterner Sect, without Injury to Themselves or the Book</dc:title>
+        <dc:creator opf:file-as="Holley, Marietta" opf:role="aut">Marietta Holley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55594</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Feminism -- Fiction</dc:subject>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Women -- Suffrage -- United States -- Fiction</dc:subject>
+        <dc:subject>Women's rights -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Marietta Holley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:14:10.134235+00:00"/>
+        <meta name="calibre:title_sort" content="My Opinions and Betsey Bobbet's / Designed as a Beacon Light to Guide Women to Life, Liberty, and the Pursuit of Happiness, But Which May Be Read by Members of the Sterner Sect, without Injury to Themselves or the Book"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

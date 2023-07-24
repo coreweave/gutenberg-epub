@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2fadf2d-f458-452e-b64c-f891b6de1880</dc:identifier>
+        <dc:title>Glimpses into the Abyss</dc:title>
+        <dc:creator opf:file-as="Higgs, Mary" opf:role="aut">Mary Higgs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40122</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Poor -- Great Britain</dc:subject>
+        <dc:subject>Women -- Employment -- Great Britain</dc:subject>
+        <dc:subject>Lodging-houses -- Great Britain</dc:subject>
+        <dc:subject>Vagrancy -- Great Britain</dc:subject>
+        <dc:subject>Prostitution -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Higgs&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:46:16.966073+00:00"/>
+        <meta name="calibre:title_sort" content="Glimpses into the Abyss"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

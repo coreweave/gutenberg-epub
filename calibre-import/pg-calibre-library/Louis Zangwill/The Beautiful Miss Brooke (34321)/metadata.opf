@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eff56a7b-8295-48dc-89c2-41e8e2eb5744</dc:identifier>
+        <dc:title>The Beautiful Miss Brooke</dc:title>
+        <dc:creator opf:file-as="Zangwill, Louis" opf:role="aut">Louis Zangwill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34404</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Zangwill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:41:04.012407+00:00"/>
+        <meta name="calibre:title_sort" content="Beautiful Miss Brooke, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

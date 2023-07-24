@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2273b36d-89f0-4b01-98f6-24c33ed7428f</dc:identifier>
+        <dc:title>Baby Mine</dc:title>
+        <dc:creator opf:file-as="Mayo, Margaret" opf:role="aut">Margaret Mayo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/860</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Married people -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Margaret Mayo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:04:35.566629+00:00"/>
+        <meta name="calibre:title_sort" content="Baby Mine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

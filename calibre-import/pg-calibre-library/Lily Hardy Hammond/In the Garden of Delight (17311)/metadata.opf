@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2305a46e-2852-4cc9-a7d8-50eb4b82e9e5</dc:identifier>
+        <dc:title>In the Garden of Delight</dc:title>
+        <dc:creator opf:file-as="Hammond, Lily Hardy" opf:role="aut">Lily Hardy Hammond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63729</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Interpersonal relations -- Fiction</dc:subject>
+        <dc:subject>Families -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lily Hardy Hammond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:29:13.609377+00:00"/>
+        <meta name="calibre:title_sort" content="In the Garden of Delight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

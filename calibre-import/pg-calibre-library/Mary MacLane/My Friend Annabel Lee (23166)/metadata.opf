@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab9ddb42-3cb0-4466-a65c-95c1954c28f4</dc:identifier>
+        <dc:title>My Friend Annabel Lee</dc:title>
+        <dc:creator opf:file-as="MacLane, Mary" opf:role="aut">Mary MacLane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/43624</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women authors</dc:subject>
+        <dc:subject>American -- Biography</dc:subject>
+        <dc:subject>MacLane</dc:subject>
+        <dc:subject>Mary</dc:subject>
+        <dc:subject>1881-1929</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary MacLane&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:10:35.145294+00:00"/>
+        <meta name="calibre:title_sort" content="My Friend Annabel Lee"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

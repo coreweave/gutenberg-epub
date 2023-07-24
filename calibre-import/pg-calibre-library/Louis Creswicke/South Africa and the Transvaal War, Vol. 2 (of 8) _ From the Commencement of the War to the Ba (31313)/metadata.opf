@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1814c4e8-a91f-40e6-bc11-68a6c3324cf9</dc:identifier>
+        <dc:title>South Africa and the Transvaal War, Vol. 2 (of 8) / From the Commencement of the War to the Battle of Colenso, 15th Dec. 1899</dc:title>
+        <dc:creator opf:file-as="Creswicke, Louis" opf:role="aut">Louis Creswicke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/26198</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>South African War</dc:subject>
+        <dc:subject>1899-1902</dc:subject>
+        <dc:subject>Transvaal (South Africa) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louis Creswicke&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:14:00.159953+00:00"/>
+        <meta name="calibre:title_sort" content="South Africa and the Transvaal War, Vol. 2 (of 8) / From the Commencement of the War to the Battle of Colenso, 15th Dec. 1899"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33c88e64-fda5-479c-86f8-364823af119f</dc:identifier>
+        <dc:title>The Green Door</dc:title>
+        <dc:creator opf:file-as="Freeman, Mary Eleanor Wilkins" opf:role="aut">Mary Eleanor Wilkins Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children -- Conduct of life -- Juvenile fiction</dc:subject>
+        <dc:subject>Girls -- Juvenile fiction</dc:subject>
+        <dc:subject>Time travel -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Eleanor Wilkins Freeman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:20:13.168699+00:00"/>
+        <meta name="calibre:title_sort" content="Green Door, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

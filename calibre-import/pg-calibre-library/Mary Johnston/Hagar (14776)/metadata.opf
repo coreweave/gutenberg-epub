@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37dab31b-7929-4556-af39-3d0f9f6a908d</dc:identifier>
+        <dc:title>Hagar</dc:title>
+        <dc:creator opf:file-as="Johnston, Mary" opf:role="aut">Mary Johnston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49772</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Historical fiction</dc:subject>
+        <dc:subject>Feminist fiction</dc:subject>
+        <dc:subject>Women authors -- Fiction</dc:subject>
+        <dc:subject>Southern States -- Fiction</dc:subject>
+        <dc:subject>Women -- Southern States -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Johnston&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:05:20.839146+00:00"/>
+        <meta name="calibre:title_sort" content="Hagar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

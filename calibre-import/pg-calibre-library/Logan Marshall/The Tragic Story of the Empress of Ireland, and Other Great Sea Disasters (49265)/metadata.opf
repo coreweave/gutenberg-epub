@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0578285c-323b-4712-b7ea-fb0f1b1db2d8</dc:identifier>
+        <dc:title>The Tragic Story of the Empress of Ireland, and Other Great Sea Disasters</dc:title>
+        <dc:creator opf:file-as="Marshall, Logan" opf:role="aut">Logan Marshall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58274</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwrecks</dc:subject>
+        <dc:subject>Empress of Ireland (Steamship)</dc:subject>
+        <dc:subject>Storstad (Steamship)</dc:subject>
+        <dc:subject>Shipwrecks -- Québec (Province) -- Saint Lawrence River Estuary</dc:subject>
+        <dc:subject>Steamboat lines -- Passenger lists</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Logan Marshall&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:20:10.822103+00:00"/>
+        <meta name="calibre:title_sort" content="Tragic Story of the Empress of Ireland, and Other Great Sea Disasters, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

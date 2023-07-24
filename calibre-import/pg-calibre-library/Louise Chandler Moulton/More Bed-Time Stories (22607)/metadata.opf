@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e86a3f7-34ce-4571-8070-35be430f9f1b</dc:identifier>
+        <dc:title>More Bed-Time Stories</dc:title>
+        <dc:creator opf:file-as="Moulton, Louise Chandler" opf:role="aut">Louise Chandler Moulton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60581</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Orphans -- Juvenile fiction</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Aunts -- Juvenile fiction</dc:subject>
+        <dc:subject>City and town life -- Juvenile fiction</dc:subject>
+        <dc:subject>School children -- Juvenile fiction</dc:subject>
+        <dc:subject>Charity -- Juvenile fiction</dc:subject>
+        <dc:subject>Parent and child -- Juvenile fiction</dc:subject>
+        <dc:subject>Envy -- Juvenile fiction</dc:subject>
+        <dc:subject>Young men -- Employment -- Juvenile fiction</dc:subject>
+        <dc:subject>Educators -- Juvenile fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louise Chandler Moulton&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:46:42.702099+00:00"/>
+        <meta name="calibre:title_sort" content="More Bed-Time Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

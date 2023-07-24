@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ab629d1-86a3-41eb-acbf-9767e9b3a34a</dc:identifier>
+        <dc:title>Más vale maña que fuerza / Proverbio en un acto; with notes, exercises, and vocabulary</dc:title>
+        <dc:creator opf:file-as="Tamayo y Baus, Manuel" opf:role="aut">Manuel Tamayo y Baus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14235</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:language>spa</dc:language>
+        <dc:subject>Spanish drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Manuel Tamayo y Baus&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T05:21:15.681327+00:00"/>
+        <meta name="calibre:title_sort" content="Más vale maña que fuerza / Proverbio en un acto; with notes, exercises, and vocabulary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
