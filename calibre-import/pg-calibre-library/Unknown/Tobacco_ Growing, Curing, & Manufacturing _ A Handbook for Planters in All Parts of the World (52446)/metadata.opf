@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">006b0ee9-645c-404d-a69c-3a0659e0930b</dc:identifier>
+        <dc:title>Tobacco: Growing, Curing, &amp; Manufacturing / A Handbook for Planters in All Parts of the World</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56135</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Tobacco</dc:subject>
+        <dc:subject>Tobacco industry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:42:47.585719+00:00"/>
+        <meta name="calibre:title_sort" content="Tobacco: Growing, Curing, &amp; Manufacturing / A Handbook for Planters in All Parts of the World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

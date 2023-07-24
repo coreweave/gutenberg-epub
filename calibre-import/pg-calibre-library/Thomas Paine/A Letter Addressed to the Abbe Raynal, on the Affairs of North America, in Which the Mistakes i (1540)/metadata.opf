@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">807aa29f-06b9-4d4c-a61a-3eeb7e5a8df9</dc:identifier>
+        <dc:title>A Letter Addressed to the Abbe Raynal, on the Affairs of North America, in Which the Mistakes in the Abbe's Account of the Revolution of America Are Corrected and Cleared Up</dc:title>
+        <dc:creator opf:file-as="Paine, Thomas" opf:role="aut">Thomas Paine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-03-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15279</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1775-1783</dc:subject>
+        <dc:subject>United States -- History -- Revolution</dc:subject>
+        <dc:subject>1775-1783</dc:subject>
+        <dc:subject>Raynal</dc:subject>
+        <dc:subject>abbé (Guillaume-Thomas-François)</dc:subject>
+        <dc:subject>1713-1796. Révolution de l'Amérique</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Paine&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:49:39.952403+00:00"/>
+        <meta name="calibre:title_sort" content="Letter Addressed to the Abbe Raynal, on the Affairs of North America, in Which the Mistakes in the Abbe's Account of the Revolution of America Are Corrected and Cleared Up, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

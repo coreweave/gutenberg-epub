@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf314849-ca73-4ca2-8c3e-91e9ed5e8062</dc:identifier>
+        <dc:title>Material Classification / Recommended by the Railway Storekeepers' Association</dc:title>
+        <dc:creator opf:file-as="United States. Railroad administration. Division of finance" opf:role="aut">United States. Railroad administration. Division of finance</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57169</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Railroads -- Equipment and supplies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Railroad administration. Division of finance&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:59:53.387167+00:00"/>
+        <meta name="calibre:title_sort" content="Material Classification / Recommended by the Railway Storekeepers' Association"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

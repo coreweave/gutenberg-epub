@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4f6f23a-87f5-43d3-b56c-46a6531e08bd</dc:identifier>
+        <dc:title>Autographs for Freedom, Volume 2 (of 2) (1854)</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19949</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Antislavery movements -- United States</dc:subject>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:03:23.477919+00:00"/>
+        <meta name="calibre:title_sort" content="Autographs for Freedom, Volume 2 (of 2) (1854)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

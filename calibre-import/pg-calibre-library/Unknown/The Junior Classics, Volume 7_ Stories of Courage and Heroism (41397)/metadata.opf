@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c1aa4bf-7ea6-41c2-a813-a0c3e4fb1370</dc:identifier>
+        <dc:title>The Junior Classics, Volume 7: Stories of Courage and Heroism</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6302</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T19:46:18.803647+00:00"/>
+        <meta name="calibre:title_sort" content="Junior Classics, Volume 7: Stories of Courage and Heroism, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

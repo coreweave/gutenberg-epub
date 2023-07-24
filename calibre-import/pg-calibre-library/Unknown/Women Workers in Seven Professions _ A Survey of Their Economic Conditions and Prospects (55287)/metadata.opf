@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90657dd1-777a-4ae5-bb56-ccaece0731ed</dc:identifier>
+        <dc:title>Women Workers in Seven Professions / A Survey of Their Economic Conditions and Prospects</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12171</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vocational guidance</dc:subject>
+        <dc:subject>Women -- Employment -- Great Britain</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T09:47:39.485536+00:00"/>
+        <meta name="calibre:title_sort" content="Women Workers in Seven Professions / A Survey of Their Economic Conditions and Prospects"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

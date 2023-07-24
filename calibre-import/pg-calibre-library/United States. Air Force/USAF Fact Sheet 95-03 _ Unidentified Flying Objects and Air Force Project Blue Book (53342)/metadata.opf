@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a544df40-0f5f-4c38-8a0a-def14cb789f6</dc:identifier>
+        <dc:title>USAF Fact Sheet 95-03 / Unidentified Flying Objects and Air Force Project Blue Book</dc:title>
+        <dc:creator opf:file-as="United States. Air Force" opf:role="aut">United States. Air Force</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25674</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Project Blue Book (U.S.)</dc:subject>
+        <dc:subject>Unidentified flying objects</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Air Force&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:40:19.949570+00:00"/>
+        <meta name="calibre:title_sort" content="USAF Fact Sheet 95-03 / Unidentified Flying Objects and Air Force Project Blue Book"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

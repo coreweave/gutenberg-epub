@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b94fd02-c4d6-4a60-ab0a-0b2da84488dd</dc:identifier>
+        <dc:title>History of the Ordinance of 1787 and the Old Northwest Territory / A Supplemental Text for School Use</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61909</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Northwest</dc:subject>
+        <dc:subject>Old -- History</dc:subject>
+        <dc:subject>United States. Ordinance of 1787</dc:subject>
+        <dc:subject>United States. Ordinance of 1787 -- Bibliography</dc:subject>
+        <dc:subject>Old -- History -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:51:35.753417+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Ordinance of 1787 and the Old Northwest Territory / A Supplemental Text for School Use"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

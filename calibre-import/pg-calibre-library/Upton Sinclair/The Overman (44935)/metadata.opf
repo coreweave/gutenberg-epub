@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44935</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63224bdd-5114-4da0-b67b-8475bfd6cea2</dc:identifier>
+        <dc:title>The Overman</dc:title>
+        <dc:creator opf:file-as="Sinclair, Upton" opf:role="aut">Upton Sinclair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Islands -- Fiction</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Brothers -- Fiction</dc:subject>
+        <dc:subject>Musicians -- Fiction</dc:subject>
+        <dc:subject>Castaways -- Fiction</dc:subject>
+        <dc:subject>Solitude -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Upton Sinclair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:04:00.264044+00:00"/>
+        <meta name="calibre:title_sort" content="Overman, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

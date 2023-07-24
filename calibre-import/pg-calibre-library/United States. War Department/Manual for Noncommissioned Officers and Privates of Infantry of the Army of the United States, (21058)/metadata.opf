@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21058</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14240152-e4fc-444a-a14f-a781eb87e3b7</dc:identifier>
+        <dc:title>Manual for Noncommissioned Officers and Privates of Infantry of the Army of the United States, 1917 / To be used by Engineer companies (dismounted) and Coast Artillery companies for Infantry instruction and training</dc:title>
+        <dc:creator opf:file-as="United States. War Department" opf:role="aut">United States. War Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10908</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States. Army -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>United States. Army. Infantry -- Drill and tactics</dc:subject>
+        <dc:subject>United States. Army -- Non-commissioned officers' handbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. War Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:44:35.154212+00:00"/>
+        <meta name="calibre:title_sort" content="Manual for Noncommissioned Officers and Privates of Infantry of the Army of the United States, 1917 / To be used by Engineer companies (dismounted) and Coast Artillery companies for Infantry instruction and training"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

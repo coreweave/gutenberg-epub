@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37e6661c-1a77-4dbe-9213-051c792c8a3b</dc:identifier>
+        <dc:title>Devils Tower National Monument, Wyoming (1949)</dc:title>
+        <dc:creator opf:file-as="United States. National Park Service" opf:role="aut">United States. National Park Service</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59748</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Devils Tower National Monument (Wyo.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. National Park Service&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:56:00.553630+00:00"/>
+        <meta name="calibre:title_sort" content="Devils Tower National Monument, Wyoming (1949)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

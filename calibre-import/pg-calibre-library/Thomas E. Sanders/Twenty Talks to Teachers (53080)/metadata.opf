@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d3773f6-5471-40a6-a607-c07ec809c178</dc:identifier>
+        <dc:title>Twenty Talks to Teachers</dc:title>
+        <dc:creator opf:file-as="Sanders, Thomas E." opf:role="aut">Thomas E. Sanders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/67315</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teaching</dc:subject>
+        <dc:subject>Teachers</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas E. Sanders&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:23:32.943325+00:00"/>
+        <meta name="calibre:title_sort" content="Twenty Talks to Teachers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

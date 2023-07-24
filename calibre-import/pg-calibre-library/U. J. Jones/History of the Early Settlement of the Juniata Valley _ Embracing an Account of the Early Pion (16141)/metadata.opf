@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60fb482e-e549-43c2-8f7f-f4a24b583419</dc:identifier>
+        <dc:title>History of the Early Settlement of the Juniata Valley / Embracing an Account of the Early Pioneers, and the Trials and Privations Incident to the Settlement of the Valley, Predatory Incursions, Massacres, and Abductions by the Indians During the French and Indian Wars, and the War of the Revolution, &amp;c.</dc:title>
+        <dc:creator opf:file-as="Jones, U. J. (Uriah James)" opf:role="aut">U. J. Jones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/41392</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Indians of North America -- Pennsylvania -- Juniata River Valley</dc:subject>
+        <dc:subject>Juniata River Valley (Pa.) -- History</dc:subject>
+        <dc:subject>Frontier and pioneer life -- Pennsylvania -- Juniata River Valley</dc:subject>
+        <dc:subject>Juniata River Valley (Pa.) -- Genealogy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;U. J. Jones&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:49:48.104491+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Early Settlement of the Juniata Valley / Embracing an Account of the Early Pioneers, and the Trials and Privations Incident to the Settlement of the Valley, Predatory Incursions, Massacres, and Abductions by the Indians During the French and Indian Wars, and the War of the Revolution, &amp;c."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

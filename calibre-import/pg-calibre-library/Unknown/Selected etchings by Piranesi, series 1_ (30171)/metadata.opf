@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9d15e8b-7fe2-4073-8f04-a4657bd254da</dc:identifier>
+        <dc:title>Selected etchings by Piranesi, series 1.</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70405</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Piranesi</dc:subject>
+        <dc:subject>Giovanni Battista</dc:subject>
+        <dc:subject>1720-1778</dc:subject>
+        <dc:subject>Etching</dc:subject>
+        <dc:subject>Italian</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:19:19.650277+00:00"/>
+        <meta name="calibre:title_sort" content="Selected etchings by Piranesi, series 1."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

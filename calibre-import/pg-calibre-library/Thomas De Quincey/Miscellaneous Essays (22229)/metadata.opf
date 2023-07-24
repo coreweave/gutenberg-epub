@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22229</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86732a6a-2665-41d4-bea7-090791a13d14</dc:identifier>
+        <dc:title>Miscellaneous Essays</dc:title>
+        <dc:creator opf:file-as="De Quincey, Thomas" opf:role="aut">Thomas De Quincey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10708</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas De Quincey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:31:34.345585+00:00"/>
+        <meta name="calibre:title_sort" content="Miscellaneous Essays"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

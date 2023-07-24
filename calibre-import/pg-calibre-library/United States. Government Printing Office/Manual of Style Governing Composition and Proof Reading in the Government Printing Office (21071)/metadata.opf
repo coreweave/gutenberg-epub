@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8825de4c-735d-4ded-9b86-036cb11b7a76</dc:identifier>
+        <dc:title>Manual of Style Governing Composition and Proof Reading in the Government Printing Office</dc:title>
+        <dc:creator opf:file-as="United States. Government Printing Office" opf:role="aut">United States. Government Printing Office</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55585</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Proofreading</dc:subject>
+        <dc:subject>Authorship -- Style manuals</dc:subject>
+        <dc:subject>Typesetting -- United States</dc:subject>
+        <dc:subject>Printing</dc:subject>
+        <dc:subject>Public -- United States</dc:subject>
+        <dc:subject>Printing -- United States -- Style manuals</dc:subject>
+        <dc:subject>Names</dc:subject>
+        <dc:subject>Geographical</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Government Printing Office&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:45:02.643743+00:00"/>
+        <meta name="calibre:title_sort" content="Manual of Style Governing Composition and Proof Reading in the Government Printing Office"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

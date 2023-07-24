@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51883</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0eb1a8f-6e35-4e71-8992-6fdf6eae1de8</dc:identifier>
+        <dc:title>Theme from Mozart's Piano Sonata in A major, K.331 / Arranged for Solo Guitar</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-31T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17423</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Guitar music</dc:subject>
+        <dc:subject>Arranged</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T06:07:17.817356+00:00"/>
+        <meta name="calibre:title_sort" content="Theme from Mozart's Piano Sonata in A major, K.331 / Arranged for Solo Guitar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef63c2f8-0237-4955-a558-2a1de223fbbb</dc:identifier>
+        <dc:title>Oral Tradition from the Indus / Comprised in Tales to Which Are Added Explanatory Notes</dc:title>
+        <dc:creator opf:file-as="Barlow, Thomas Lambert" opf:role="aut">Thomas Lambert Barlow</dc:creator>
+        <dc:creator opf:file-as="Barlow, Thomas Lambert" opf:role="aut">John Frederick Adolphus McNair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59401</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Panjabis (South Asian people) -- Folklore</dc:subject>
+        <dc:subject>Folklore -- India -- Punjab</dc:subject>
+        <dc:subject>Oral tradition -- India -- Punjab</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Lambert Barlow&quot;: &quot;&quot;, &quot;John Frederick Adolphus McNair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:33:50.552578+00:00"/>
+        <meta name="calibre:title_sort" content="Oral Tradition from the Indus / Comprised in Tales to Which Are Added Explanatory Notes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

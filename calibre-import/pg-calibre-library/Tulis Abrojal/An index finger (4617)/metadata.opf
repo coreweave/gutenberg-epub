@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d6e9b86-3a10-4c48-88b5-c8fe662cfe1e</dc:identifier>
+        <dc:title>An index finger</dc:title>
+        <dc:creator opf:file-as="Abrojal, Tulis" opf:role="aut">Tulis Abrojal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-01-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69837</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Social life and customs -- 19th century -- Fiction</dc:subject>
+        <dc:subject>Spiritualism -- Fiction</dc:subject>
+        <dc:subject>Interpersonal relations -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tulis Abrojal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:44:35.443619+00:00"/>
+        <meta name="calibre:title_sort" content="index finger, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

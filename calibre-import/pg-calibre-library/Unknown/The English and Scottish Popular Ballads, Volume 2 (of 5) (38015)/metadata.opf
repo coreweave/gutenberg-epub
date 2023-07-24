@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98d190c6-b75c-4b37-8a66-b818c910e334</dc:identifier>
+        <dc:title>The English and Scottish Popular Ballads, Volume 2 (of 5)</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-17T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47692</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ballads</dc:subject>
+        <dc:subject>English -- England -- Texts</dc:subject>
+        <dc:subject>Scots -- Scotland -- Texts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T16:47:21.005095+00:00"/>
+        <meta name="calibre:title_sort" content="English and Scottish Popular Ballads, Volume 2 (of 5), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1379325a-796b-4efd-a7df-1a2e452f1955</dc:identifier>
+        <dc:title>Let's Use Soybeans</dc:title>
+        <dc:creator opf:file-as="University of Illinois (Urbana-Champaign campus). Extension Service in Agriculture and Home Economics" opf:role="aut">University of Illinois . Extension Service in Agriculture</dc:creator>
+        <dc:creator opf:file-as="University of Illinois (Urbana-Champaign campus). Extension Service in Agriculture and Home Economics" opf:role="aut">Home Economics</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34651</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cooking (Soybeans)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;University of Illinois . Extension Service in Agriculture&quot;: &quot;&quot;, &quot;Home Economics&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:47:42.370774+00:00"/>
+        <meta name="calibre:title_sort" content="Let's Use Soybeans"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

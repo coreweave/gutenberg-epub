@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b888e25-29d5-445d-b2c1-a1e7a964a789</dc:identifier>
+        <dc:title>Letters to Judd, an American Workingman</dc:title>
+        <dc:creator opf:file-as="Sinclair, Upton" opf:role="aut">Upton Sinclair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-10T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/65818</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Working class -- United States</dc:subject>
+        <dc:subject>United States -- Economic conditions -- 1918-1945</dc:subject>
+        <dc:subject>Labor -- United States</dc:subject>
+        <dc:subject>United States -- Politics and government -- 1923-1929</dc:subject>
+        <dc:subject>Capitalism -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Upton Sinclair&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T02:52:37.308823+00:00"/>
+        <meta name="calibre:title_sort" content="Letters to Judd, an American Workingman"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

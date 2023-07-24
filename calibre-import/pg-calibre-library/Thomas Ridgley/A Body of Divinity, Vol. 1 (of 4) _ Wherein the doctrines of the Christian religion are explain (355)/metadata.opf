@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4719fe6d-32c6-4036-8538-b76000ca9874</dc:identifier>
+        <dc:title>A Body of Divinity, Vol. 1 (of 4) / Wherein the doctrines of the Christian religion are explained and defended, being the substance of several lectures on the Assembly's Larger Catechism</dc:title>
+        <dc:creator opf:file-as="Ridgley, Thomas" opf:role="aut">Thomas Ridgley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59133</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Theology</dc:subject>
+        <dc:subject>Doctrinal</dc:subject>
+        <dc:subject>Presbyterianism</dc:subject>
+        <dc:subject>Westminster Assembly (1643-1652). Larger catechism</dc:subject>
+        <dc:subject>Presbyterian Church -- Doctrines</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Ridgley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:31:18.308090+00:00"/>
+        <meta name="calibre:title_sort" content="Body of Divinity, Vol. 1 (of 4) / Wherein the doctrines of the Christian religion are explained and defended, being the substance of several lectures on the Assembly's Larger Catechism, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

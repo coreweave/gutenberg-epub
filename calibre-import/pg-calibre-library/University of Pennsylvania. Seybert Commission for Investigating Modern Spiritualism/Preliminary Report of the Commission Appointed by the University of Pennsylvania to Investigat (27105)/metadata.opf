@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">106cd5fd-fde0-4548-9279-851a9a66d9f1</dc:identifier>
+        <dc:title>Preliminary Report of the Commission Appointed by the University of Pennsylvania to Investigate Modern Spiritualism / In Accordance with the Request of the Late Henry Seybert</dc:title>
+        <dc:creator opf:file-as="University of Pennsylvania. Seybert Commission for Investigating Modern Spiritualism" opf:role="aut">University of Pennsylvania. Seybert Commission for Investigating Modern Spiritualism</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11950</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spiritualism</dc:subject>
+        <dc:subject>Parapsychology -- Investigation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;University of Pennsylvania. Seybert Commission for Investigating Modern Spiritualism&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:59:16.780175+00:00"/>
+        <meta name="calibre:title_sort" content="Preliminary Report of the Commission Appointed by the University of Pennsylvania to Investigate Modern Spiritualism / In Accordance with the Request of the Late Henry Seybert"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

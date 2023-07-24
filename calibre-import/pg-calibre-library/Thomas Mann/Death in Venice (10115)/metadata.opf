@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b74334d5-82f7-4322-ab2b-8a3436ab0a2e</dc:identifier>
+        <dc:title>Death in Venice</dc:title>
+        <dc:creator opf:file-as="Mann, Thomas" opf:role="aut">Thomas Mann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66073</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Venice (Italy) -- Fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Parables</dc:subject>
+        <dc:subject>Homosexuality -- Fiction</dc:subject>
+        <dc:subject>Middle age -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Mann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:51:06.523905+00:00"/>
+        <meta name="calibre:title_sort" content="Death in Venice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

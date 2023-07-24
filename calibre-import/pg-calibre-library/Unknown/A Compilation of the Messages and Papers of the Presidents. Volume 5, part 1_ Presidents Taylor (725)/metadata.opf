@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">725</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1082d0e2-568d-44ba-83ee-8cce678b2e71</dc:identifier>
+        <dc:title>A Compilation of the Messages and Papers of the Presidents. Volume 5, part 1: Presidents Taylor and Fillmore</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10951</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government</dc:subject>
+        <dc:subject>United States -- History -- Sources</dc:subject>
+        <dc:subject>Taylor</dc:subject>
+        <dc:subject>Zachary</dc:subject>
+        <dc:subject>1784-1850</dc:subject>
+        <dc:subject>Presidents -- United States</dc:subject>
+        <dc:subject>Fillmore</dc:subject>
+        <dc:subject>Millard</dc:subject>
+        <dc:subject>1800-1874</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:36:53.338152+00:00"/>
+        <meta name="calibre:title_sort" content="Compilation of the Messages and Papers of the Presidents. Volume 5, part 1: Presidents Taylor and Fillmore, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9869b4e3-d971-41a4-8e73-f41e121a163f</dc:identifier>
+        <dc:title>Health Service Support in a Nuclear, Biological, and Chemical Environment / Tactics, Techniques, and Procedures</dc:title>
+        <dc:creator opf:file-as="United States. Department of the Army" opf:role="aut">United States. Department of the Army</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49037</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Weapons of mass destruction -- Health aspects -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Medical emergencies -- Handbooks</dc:subject>
+        <dc:subject>Chemical warfare -- Health aspects -- Handbooks</dc:subject>
+        <dc:subject>Biological warfare -- Health aspects -- Handbooks</dc:subject>
+        <dc:subject>Nuclear Warfare -- Health aspects -- Handbooks</dc:subject>
+        <dc:subject>Decontamination (from gases</dc:subject>
+        <dc:subject>chemicals</dc:subject>
+        <dc:subject>etc.) -- Handbooks</dc:subject>
+        <dc:subject>Emergency medical services -- Handbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Department of the Army&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:24:19.142922+00:00"/>
+        <meta name="calibre:title_sort" content="Health Service Support in a Nuclear, Biological, and Chemical Environment / Tactics, Techniques, and Procedures"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

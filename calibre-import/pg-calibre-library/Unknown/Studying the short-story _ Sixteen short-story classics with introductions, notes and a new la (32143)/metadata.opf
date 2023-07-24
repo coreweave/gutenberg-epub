@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d07dffc4-d443-445f-8cdc-469b861d8c88</dc:identifier>
+        <dc:title>Studying the short-story / Sixteen short-story classics with introductions, notes and a new laboratory study method for individual reading and use in colleges and schools.</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68291</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Short story</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:55:00.935797+00:00"/>
+        <meta name="calibre:title_sort" content="Studying the short-story / Sixteen short-story classics with introductions, notes and a new laboratory study method for individual reading and use in colleges and schools."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

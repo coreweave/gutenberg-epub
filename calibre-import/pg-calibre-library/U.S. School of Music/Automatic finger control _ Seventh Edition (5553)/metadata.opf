@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c1e7cbf-d8e3-401e-bf01-046e13aeaa13</dc:identifier>
+        <dc:title>Automatic finger control / Seventh Edition</dc:title>
+        <dc:creator opf:file-as="U.S. School of Music" opf:role="aut">U.S. School of Music</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mind and body</dc:subject>
+        <dc:subject>Physical education and training</dc:subject>
+        <dc:subject>Music -- Performance -- Physiological aspects</dc:subject>
+        <dc:subject>Musical instruments -- Studies and exercises</dc:subject>
+        <dc:subject>Musical instruments -- Instruction and study</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;U.S. School of Music&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:03:29.554342+00:00"/>
+        <meta name="calibre:title_sort" content="Automatic finger control / Seventh Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

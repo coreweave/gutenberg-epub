@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">871efb71-d444-48cc-8115-f963bcf78fd7</dc:identifier>
+        <dc:title>Jamaican Song and Story / Annancy stories, digging sings, ring tunes, and dancing tunes</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/35410</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Folklore -- Jamaica</dc:subject>
+        <dc:subject>Folk songs</dc:subject>
+        <dc:subject>English -- Jamaica</dc:subject>
+        <dc:subject>Folk music -- Jamaica</dc:subject>
+        <dc:subject>Anansi (Legendary character)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:57:10.467104+00:00"/>
+        <meta name="calibre:title_sort" content="Jamaican Song and Story / Annancy stories, digging sings, ring tunes, and dancing tunes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

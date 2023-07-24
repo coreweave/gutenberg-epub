@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7be47a4-e5bd-427f-95df-5edeb7091cc5</dc:identifier>
+        <dc:title>The Bee-Master of Warrilow</dc:title>
+        <dc:creator opf:file-as="Edwardes, Tickner" opf:role="aut">Tickner Edwardes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63208</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bees</dc:subject>
+        <dc:subject>Bee culture</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tickner Edwardes&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:42:25.551367+00:00"/>
+        <meta name="calibre:title_sort" content="Bee-Master of Warrilow, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

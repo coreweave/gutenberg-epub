@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19dd9fdc-5cce-424f-bbae-462f48593072</dc:identifier>
+        <dc:title>History of the Water Supply of the World / arranged in a comprehensive form from eminent authorities, containing a description of the various methods of water supply, pollution and purification of waters, and sanitary effects, with analyses of potable waters, also geology and water strata of Hamilton county, Ohio, statistics of the Ohio river, proposed water supply of Cincinnati.</dc:title>
+        <dc:creator opf:file-as="Bell, Thomas J. (Thomas Jefferson)" opf:role="aut">Thomas J. Bell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/66130</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Water-supply -- History</dc:subject>
+        <dc:subject>Water-supply -- Ohio -- Hamilton County</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas J. Bell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:55:52.861818+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Water Supply of the World / arranged in a comprehensive form from eminent authorities, containing a description of the various methods of water supply, pollution and purification of waters, and sanitary effects, with analyses of potable waters, also geology and water strata of Hamilton county, Ohio, statistics of the Ohio river, proposed water supply of Cincinnati."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

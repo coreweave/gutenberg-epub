@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3498</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06e105f8-5c52-420d-a69d-f782a75ff0fd</dc:identifier>
+        <dc:title>Address to the People of the United States, together with the Proceedings and Resolutions of the Pro-Slavery Convention of Missouri, Held at Lexington, July 1855</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40698</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States -- Controversial literature</dc:subject>
+        <dc:subject>Kansas -- History -- 1854-1861</dc:subject>
+        <dc:subject>Slavery -- Missouri</dc:subject>
+        <dc:subject>Missouri compromise</dc:subject>
+        <dc:subject>United States. Kansas-Nebraska Act</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:23:34.315499+00:00"/>
+        <meta name="calibre:title_sort" content="Address to the People of the United States, together with the Proceedings and Resolutions of the Pro-Slavery Convention of Missouri, Held at Lexington, July 1855"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

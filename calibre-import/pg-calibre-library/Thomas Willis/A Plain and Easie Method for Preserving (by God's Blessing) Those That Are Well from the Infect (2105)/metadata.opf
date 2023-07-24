@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bbc3ee6-4f94-4415-87ea-4fb9e9392fe8</dc:identifier>
+        <dc:title>A Plain and Easie Method for Preserving (by God's Blessing) Those That Are Well from the Infection of the Plague, or Any Contagious Distemper, in City, Camp, Fleet, Etc., and for Curing Such as Are Infected with It.</dc:title>
+        <dc:creator opf:file-as="Willis, Thomas" opf:role="aut">Thomas Willis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/49299</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Plague -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Willis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:58:56.219728+00:00"/>
+        <meta name="calibre:title_sort" content="Plain and Easie Method for Preserving (by God's Blessing) Those That Are Well from the Infection of the Plague, or Any Contagious Distemper, in City, Camp, Fleet, Etc., and for Curing Such as Are Infected with It., A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

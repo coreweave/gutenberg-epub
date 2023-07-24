@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d0d50eb-cda5-4e6b-a5f8-b5758e985d05</dc:identifier>
+        <dc:title>Personal Memoirs of U. S. Grant, Complete</dc:title>
+        <dc:creator opf:file-as="Grant, Ulysses S. (Ulysses Simpson)" opf:role="aut">Ulysses S. Grant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-06-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/4367</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Generals -- United States -- Biography</dc:subject>
+        <dc:subject>Grant</dc:subject>
+        <dc:subject>Ulysses S. (Ulysses Simpson)</dc:subject>
+        <dc:subject>1822-1885</dc:subject>
+        <dc:subject>United States -- History -- Civil War</dc:subject>
+        <dc:subject>1861-1865 -- Campaigns</dc:subject>
+        <dc:subject>Mexican War</dc:subject>
+        <dc:subject>1846-1848 -- Personal narratives</dc:subject>
+        <dc:subject>Presidents -- United States -- Biography</dc:subject>
+        <dc:subject>United States. Army -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ulysses S. Grant&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:14:13.963414+00:00"/>
+        <meta name="calibre:title_sort" content="Personal Memoirs of U. S. Grant, Complete"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

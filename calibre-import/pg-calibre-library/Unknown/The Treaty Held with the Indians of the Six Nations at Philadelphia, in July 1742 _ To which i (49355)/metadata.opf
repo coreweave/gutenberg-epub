@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d07df10-215b-480e-816b-aa02a50092da</dc:identifier>
+        <dc:title>The Treaty Held with the Indians of the Six Nations at Philadelphia, in July 1742 / To which is Prefix'd an Account of the first Confederacy of the Six Nations, their present Tributaries, Dependents, and Allies</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18635</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Iroquois Indians -- Treaties</dc:subject>
+        <dc:subject>Indians of North America -- Treaties</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:26:09.384217+00:00"/>
+        <meta name="calibre:title_sort" content="Treaty Held with the Indians of the Six Nations at Philadelphia, in July 1742 / To which is Prefix'd an Account of the first Confederacy of the Six Nations, their present Tributaries, Dependents, and Allies, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

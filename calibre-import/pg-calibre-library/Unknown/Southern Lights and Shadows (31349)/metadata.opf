@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31349</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f58c0bdf-b87a-4461-86ad-7e6d8123d124</dc:identifier>
+        <dc:title>Southern Lights and Shadows</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/9509</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Southern States -- Social life and customs -- Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>American -- Southern States</dc:subject>
+        <dc:subject>American fiction -- Southern States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:15:42.979919+00:00"/>
+        <meta name="calibre:title_sort" content="Southern Lights and Shadows"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

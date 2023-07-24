@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">424b8c59-c857-49b3-8942-6609a7d18090</dc:identifier>
+        <dc:title>A Translation of Octavia, a Latin Tragedy, with Notes and Introduction</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/54702</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Octavia</dc:subject>
+        <dc:subject>consort of Nero</dc:subject>
+        <dc:subject>Emperor of Rome</dc:subject>
+        <dc:subject>approximately 42-62 -- Drama</dc:subject>
+        <dc:subject>Rome -- History -- Nero</dc:subject>
+        <dc:subject>54-68 -- Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:11:21.206627+00:00"/>
+        <meta name="calibre:title_sort" content="Translation of Octavia, a Latin Tragedy, with Notes and Introduction, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

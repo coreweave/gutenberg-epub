@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3401bd0-9295-4ea3-a429-26c7c4f3e2d8</dc:identifier>
+        <dc:title>The Maternal Management of Children, in Health and Disease</dc:title>
+        <dc:creator opf:file-as="Bull, Thomas" opf:role="aut">Thomas Bull</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/10383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Child care</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Bull&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T21:26:59.294939+00:00"/>
+        <meta name="calibre:title_sort" content="Maternal Management of Children, in Health and Disease, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

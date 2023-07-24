@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53073</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47aa7f5f-f3d1-4aad-b66a-d3e2be868c60</dc:identifier>
+        <dc:title>Twentieth Century Negro Literature / Or, A Cyclopedia of Thought on the Vital Topics Relating to the American Negro</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18772</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>African Americans -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T07:23:05.374283+00:00"/>
+        <meta name="calibre:title_sort" content="Twentieth Century Negro Literature / Or, A Cyclopedia of Thought on the Vital Topics Relating to the American Negro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

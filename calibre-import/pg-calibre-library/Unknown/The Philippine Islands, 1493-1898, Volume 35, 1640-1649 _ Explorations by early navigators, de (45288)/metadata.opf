@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cd8135c-0158-4724-bcb6-15d5c2ec28c5</dc:identifier>
+        <dc:title>The Philippine Islands, 1493-1898, Volume 35, 1640-1649 / Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45101</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Philippines -- History -- Sources</dc:subject>
+        <dc:subject>Missions -- Philippines</dc:subject>
+        <dc:subject>Philippines -- Discovery and exploration</dc:subject>
+        <dc:subject>Demarcation line of Alexander VI</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:24:16.252524+00:00"/>
+        <meta name="calibre:title_sort" content="Philippine Islands, 1493-1898, Volume 35, 1640-1649 / Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

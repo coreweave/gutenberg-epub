@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31cdf148-270f-44d7-8ca9-c3418ab12e33</dc:identifier>
+        <dc:title>Every Girl's Library, Volume 8 of 10 / A Collection of Appropriate and Instructive Reading for Girls of All Ages from the Best Authors of All Time</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/40063</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature -- Collections</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:45:07.215671+00:00"/>
+        <meta name="calibre:title_sort" content="Every Girl's Library, Volume 8 of 10 / A Collection of Appropriate and Instructive Reading for Girls of All Ages from the Best Authors of All Time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

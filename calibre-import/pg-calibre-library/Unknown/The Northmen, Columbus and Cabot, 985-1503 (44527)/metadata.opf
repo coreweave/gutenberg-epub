@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c78f92a-182b-4844-9251-183c162d5a97</dc:identifier>
+        <dc:title>The Northmen, Columbus and Cabot, 985-1503</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/18571</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Columbus</dc:subject>
+        <dc:subject>Christopher</dc:subject>
+        <dc:subject>Cabot</dc:subject>
+        <dc:subject>John</dc:subject>
+        <dc:subject>-1498?</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Norse -- Early works to 1800</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- Spanish -- Early works to 1800</dc:subject>
+        <dc:subject>America -- Discovery and exploration -- British -- Early works to 1800</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:40:53.030686+00:00"/>
+        <meta name="calibre:title_sort" content="Northmen, Columbus and Cabot, 985-1503, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b0b9548-841f-493d-bc03-dc82ff20931b</dc:identifier>
+        <dc:title>In Time of Emergency / A Citizen's Handbook on Nuclear Attack, Natural Disasters (1968)</dc:title>
+        <dc:creator opf:file-as="United States. Office of Civil Defense" opf:role="aut">United States. Office of Civil Defense</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-02-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/15158</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civil defense -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Disasters -- Handbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Office of Civil Defense&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:25:17.777581+00:00"/>
+        <meta name="calibre:title_sort" content="In Time of Emergency / A Citizen's Handbook on Nuclear Attack, Natural Disasters (1968)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

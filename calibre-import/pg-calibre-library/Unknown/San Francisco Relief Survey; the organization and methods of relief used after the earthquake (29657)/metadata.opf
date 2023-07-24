@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5241050c-d79e-4907-add8-0dad5652abe4</dc:identifier>
+        <dc:title>San Francisco Relief Survey; the organization and methods of relief used after the earthquake and fire of April 18, 1906</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-21T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>San Francisco Earthquake and Fire</dc:subject>
+        <dc:subject>Calif.</dc:subject>
+        <dc:subject>1906</dc:subject>
+        <dc:subject>Fires -- California -- San Francisco</dc:subject>
+        <dc:subject>Disaster relief -- California -- San Francisco</dc:subject>
+        <dc:subject>Housing -- California -- San Francisco</dc:subject>
+        <dc:subject>Earthquake relief -- California -- San Francisco</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:54:20.347642+00:00"/>
+        <meta name="calibre:title_sort" content="San Francisco Relief Survey; the organization and methods of relief used after the earthquake and fire of April 18, 1906"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

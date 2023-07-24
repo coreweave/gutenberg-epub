@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36fe3911-b05f-42c9-8e02-8f04b4c8f417</dc:identifier>
+        <dc:title>Racehorses in Australia</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70050</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Stainforth</dc:subject>
+        <dc:subject>Martin</dc:subject>
+        <dc:subject>1866-1957</dc:subject>
+        <dc:subject>Horse racing -- Australia -- History</dc:subject>
+        <dc:subject>Race horses -- Australia -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:49:53.615436+00:00"/>
+        <meta name="calibre:title_sort" content="Racehorses in Australia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

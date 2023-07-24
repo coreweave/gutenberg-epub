@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9775005b-6f44-4aaa-b717-57870b8fda21</dc:identifier>
+        <dc:title>A Bibliographical, Antiquarian and Picturesque Tour in France and Germany, Volume Three</dc:title>
+        <dc:creator opf:file-as="Dibdin, Thomas Frognall" opf:role="aut">Thomas Frognall Dibdin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-29T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/17624</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Bibliography</dc:subject>
+        <dc:subject>Germany -- Description and travel</dc:subject>
+        <dc:subject>France -- Description and travel</dc:subject>
+        <dc:subject>Libraries -- France</dc:subject>
+        <dc:subject>Libraries -- Germany</dc:subject>
+        <dc:subject>Manuscripts -- France</dc:subject>
+        <dc:subject>Manuscripts -- Germany</dc:subject>
+        <dc:subject>Literary journeys -- France</dc:subject>
+        <dc:subject>Literary journeys -- Germany</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Frognall Dibdin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:30:50.318202+00:00"/>
+        <meta name="calibre:title_sort" content="Bibliographical, Antiquarian and Picturesque Tour in France and Germany, Volume Three, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

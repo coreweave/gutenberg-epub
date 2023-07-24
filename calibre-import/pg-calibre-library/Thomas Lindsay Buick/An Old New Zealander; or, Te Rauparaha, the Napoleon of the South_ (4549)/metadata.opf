@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af94d8a1-943d-4360-b15f-c2a299ca88c0</dc:identifier>
+        <dc:title>An Old New Zealander; or, Te Rauparaha, the Napoleon of the South.</dc:title>
+        <dc:creator opf:file-as="Buick, Thomas Lindsay" opf:role="aut">Thomas Lindsay Buick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44726</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>New Zealand</dc:subject>
+        <dc:subject>Te Rauparaha</dc:subject>
+        <dc:subject>1770?-1849</dc:subject>
+        <dc:subject>Ngati Toa (New Zealand people) -- Kings and rulers -- Biography</dc:subject>
+        <dc:subject>Ngati Toa (New Zealand people) -- Biography</dc:subject>
+        <dc:subject>Ngati Toa (New Zealand people) -- History</dc:subject>
+        <dc:subject>Maori (New Zealand people) -- Biography</dc:subject>
+        <dc:subject>Maori (New Zealand people) -- History</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Lindsay Buick&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:43:17.097051+00:00"/>
+        <meta name="calibre:title_sort" content="Old New Zealander; or, Te Rauparaha, the Napoleon of the South., An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

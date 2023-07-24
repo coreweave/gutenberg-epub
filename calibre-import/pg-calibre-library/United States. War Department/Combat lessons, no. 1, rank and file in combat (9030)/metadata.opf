@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9030</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">745edc67-212e-473b-8145-2a3ab52184de</dc:identifier>
+        <dc:title>Combat lessons, no. 1, rank and file in combat</dc:title>
+        <dc:creator opf:file-as="United States. War Department" opf:role="aut">United States. War Department</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-26T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/70383</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Combat -- Periodicals</dc:subject>
+        <dc:subject>Tactics -- Periodicals</dc:subject>
+        <dc:subject>Leadership -- Periodicals</dc:subject>
+        <dc:subject>Command of troops -- Periodicals</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1939-1945 -- Campaigns -- Periodicals</dc:subject>
+        <dc:subject>1939-1945 -- Personal narratives</dc:subject>
+        <dc:subject>American -- Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. War Department&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:23:24.514043+00:00"/>
+        <meta name="calibre:title_sort" content="Combat lessons, no. 1, rank and file in combat"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

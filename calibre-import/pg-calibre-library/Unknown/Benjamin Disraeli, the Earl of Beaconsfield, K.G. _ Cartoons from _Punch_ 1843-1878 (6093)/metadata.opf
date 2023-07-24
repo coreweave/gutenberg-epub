@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6093</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30b8b506-cf16-4945-859b-53c9cfc78bf8</dc:identifier>
+        <dc:title>Benjamin Disraeli, the Earl of Beaconsfield, K.G. / Cartoons from "Punch" 1843-1878</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-30T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44799</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Caricatures and cartoons -- Great Britain</dc:subject>
+        <dc:subject>Disraeli</dc:subject>
+        <dc:subject>Benjamin</dc:subject>
+        <dc:subject>1804-1881</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:14:54.802780+00:00"/>
+        <meta name="calibre:title_sort" content="Benjamin Disraeli, the Earl of Beaconsfield, K.G. / Cartoons from &quot;Punch&quot; 1843-1878"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

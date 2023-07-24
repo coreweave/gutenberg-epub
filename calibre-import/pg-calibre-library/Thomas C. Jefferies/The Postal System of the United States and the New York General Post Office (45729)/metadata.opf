@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45729</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efdfa840-f7df-4ca0-81ad-4c6aaa090fe7</dc:identifier>
+        <dc:title>The Postal System of the United States and the New York General Post Office</dc:title>
+        <dc:creator opf:file-as="Jefferies, Thomas C." opf:role="aut">Thomas C. Jefferies</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44171</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Postal service -- United States</dc:subject>
+        <dc:subject>Postal service -- New York (State) -- New York</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas C. Jefferies&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:49:46.645608+00:00"/>
+        <meta name="calibre:title_sort" content="Postal System of the United States and the New York General Post Office, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

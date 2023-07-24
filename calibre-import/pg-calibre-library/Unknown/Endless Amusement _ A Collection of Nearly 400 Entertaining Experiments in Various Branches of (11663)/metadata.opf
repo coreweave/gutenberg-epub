@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29db3c72-9720-4982-b1a1-de40fe05b182</dc:identifier>
+        <dc:title>Endless Amusement / A Collection of Nearly 400 Entertaining Experiments in Various Branches of Science; Including Acoustics, Electricity, Magnetism, Arithmetic, Hydraulics, Mechanics, Chemistry, Hydrostatics, Optics; Wonders of the Air-Pump; All the Popular Tricks and Changes of the Cards, &amp;c., &amp;c. to Which is Added, a Complete System of Pyrotechny; Or, the Art of Making Fire-works.</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32492</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Magic tricks</dc:subject>
+        <dc:subject>Scientific recreations</dc:subject>
+        <dc:subject>Fireworks</dc:subject>
+        <dc:subject>Science -- Experiments</dc:subject>
+        <dc:subject>Card tricks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:32:59.295200+00:00"/>
+        <meta name="calibre:title_sort" content="Endless Amusement / A Collection of Nearly 400 Entertaining Experiments in Various Branches of Science; Including Acoustics, Electricity, Magnetism, Arithmetic, Hydraulics, Mechanics, Chemistry, Hydrostatics, Optics; Wonders of the Air-Pump; All the Popular Tricks and Changes of the Cards, &amp;c., &amp;c. to Which is Added, a Complete System of Pyrotechny; Or, the Art of Making Fire-works."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

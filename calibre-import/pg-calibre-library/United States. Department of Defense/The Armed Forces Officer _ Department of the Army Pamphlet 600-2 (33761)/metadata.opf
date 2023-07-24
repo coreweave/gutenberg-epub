@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33536a6d-368b-425e-8edb-d2f24e4b5bd4</dc:identifier>
+        <dc:title>The Armed Forces Officer / Department of the Army Pamphlet 600-2</dc:title>
+        <dc:creator opf:file-as="United States. Department of Defense" opf:role="aut">United States. Department of Defense</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-15T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/25482</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Armed Forces -- Officers' handbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Department of Defense&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:13:25.612615+00:00"/>
+        <meta name="calibre:title_sort" content="Armed Forces Officer / Department of the Army Pamphlet 600-2, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

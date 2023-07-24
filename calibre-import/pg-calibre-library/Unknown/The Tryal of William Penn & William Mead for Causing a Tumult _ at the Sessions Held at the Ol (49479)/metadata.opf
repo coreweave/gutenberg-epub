@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47adc7d0-cde5-4f18-90f7-195029fe42d0</dc:identifier>
+        <dc:title>The Tryal of William Penn &amp; William Mead for Causing a Tumult / at the Sessions Held at the Old Bailey in London the 1st, 3d, 4th, and 5th of September 1670</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/7360</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mead</dc:subject>
+        <dc:subject>William</dc:subject>
+        <dc:subject>1628-1713 -- Trials</dc:subject>
+        <dc:subject>litigation</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Penn</dc:subject>
+        <dc:subject>1644-1718 -- Trials</dc:subject>
+        <dc:subject>Freedom of speech -- England</dc:subject>
+        <dc:subject>Assembly</dc:subject>
+        <dc:subject>Right of -- England</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:34:05.324564+00:00"/>
+        <meta name="calibre:title_sort" content="Tryal of William Penn &amp; William Mead for Causing a Tumult / at the Sessions Held at the Old Bailey in London the 1st, 3d, 4th, and 5th of September 1670, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

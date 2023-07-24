@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32002</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f047407-548f-4b42-9b08-a8ac8bf473e5</dc:identifier>
+        <dc:title>Story-Telling Ballads / Selected and Arranged for Story-Telling and Reading Aloud and for the Boys' and Girls' Own Reading</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63858</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Recitations</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>English poetry -- Collections</dc:subject>
+        <dc:subject>Ballads</dc:subject>
+        <dc:subject>English -- England -- Texts</dc:subject>
+        <dc:subject>American poetry -- Collections</dc:subject>
+        <dc:subject>Scots -- Scotland -- Texts</dc:subject>
+        <dc:subject>Narrative poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:48:14.353153+00:00"/>
+        <meta name="calibre:title_sort" content="Story-Telling Ballads / Selected and Arranged for Story-Telling and Reading Aloud and for the Boys' and Girls' Own Reading"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

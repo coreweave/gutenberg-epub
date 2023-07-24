@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">029909fc-24de-44d9-b236-9fc864c8ce10</dc:identifier>
+        <dc:title>The Loss of His Majesty's Frigate Anson / Which was Wrecked within Three Miles of Helston, December 28, 1807 ... Also, an Authentic Narrative of the Loss of the Sidney, Which Ran upon a Dangerous Rock or Shoal, May 20, 1808</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57112</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shipwrecks</dc:subject>
+        <dc:subject>Anson (Ship)</dc:subject>
+        <dc:subject>Sidney (Ship)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:57:19.707345+00:00"/>
+        <meta name="calibre:title_sort" content="Loss of His Majesty's Frigate Anson / Which was Wrecked within Three Miles of Helston, December 28, 1807 ... Also, an Authentic Narrative of the Loss of the Sidney, Which Ran upon a Dangerous Rock or Shoal, May 20, 1808, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

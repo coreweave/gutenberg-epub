@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45085</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a8468b8-0e27-4b08-90c1-7c9934b03f42</dc:identifier>
+        <dc:title>The Paston Letters, A.D. 1422-1509. Volume 5 (of 6) / New Complete Library Edition</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42239</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>England -- Social life and customs -- 1066-1485 -- Sources</dc:subject>
+        <dc:subject>English letters</dc:subject>
+        <dc:subject>Paston family -- Correspondence</dc:subject>
+        <dc:subject>Social history -- Medieval</dc:subject>
+        <dc:subject>500-1500 -- Sources</dc:subject>
+        <dc:subject>Letter writing -- History -- To 1500 -- Sources</dc:subject>
+        <dc:subject>Great Britain -- History -- Lancaster and York</dc:subject>
+        <dc:subject>1399-1485 -- Sources</dc:subject>
+        <dc:subject>Great Britain -- History -- Henry VII</dc:subject>
+        <dc:subject>1485-1509 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:12:32.174037+00:00"/>
+        <meta name="calibre:title_sort" content="Paston Letters, A.D. 1422-1509. Volume 5 (of 6) / New Complete Library Edition, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

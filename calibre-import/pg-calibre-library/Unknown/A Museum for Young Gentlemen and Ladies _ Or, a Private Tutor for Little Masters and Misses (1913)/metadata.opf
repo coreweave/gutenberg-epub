@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04b8b8b0-4aa6-4c2b-b9f7-38c29692c9f3</dc:identifier>
+        <dc:title>A Museum for Young Gentlemen and Ladies / Or, a Private Tutor for Little Masters and Misses</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/20301</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Great Britain -- History -- Juvenile literature</dc:subject>
+        <dc:subject>Geography -- Juvenile literature</dc:subject>
+        <dc:subject>Manners and customs -- Juvenile literature</dc:subject>
+        <dc:subject>Handbooks</dc:subject>
+        <dc:subject>vade-mecums</dc:subject>
+        <dc:subject>etc. -- Juvenile literature</dc:subject>
+        <dc:subject>Children's reference books</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:55:41.594005+00:00"/>
+        <meta name="calibre:title_sort" content="Museum for Young Gentlemen and Ladies / Or, a Private Tutor for Little Masters and Misses, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d7e49aa-9410-4894-b623-590b7e10a722</dc:identifier>
+        <dc:title>The Peacock and Parrot, on their Tour to Discover the Author of "The Peacock At Home"</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23847</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Birds -- Juvenile poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:15:27.565512+00:00"/>
+        <meta name="calibre:title_sort" content="Peacock and Parrot, on their Tour to Discover the Author of &quot;The Peacock At Home&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

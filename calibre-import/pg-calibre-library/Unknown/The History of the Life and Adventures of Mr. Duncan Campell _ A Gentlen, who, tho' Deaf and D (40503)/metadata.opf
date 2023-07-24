@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa6cbf73-3a22-4cb8-9733-1f2347d5ac44</dc:identifier>
+        <dc:title>The History of the Life and Adventures of Mr. Duncan Campell / A Gentlen, who, tho' Deaf and Dumb, Writes down any Stranger's name at first Sight; with their future Contingencies of Fortune</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37047</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Occultism -- Early works to 1900</dc:subject>
+        <dc:subject>Campbell</dc:subject>
+        <dc:subject>Duncan</dc:subject>
+        <dc:subject>1680?-1730</dc:subject>
+        <dc:subject>Prophets -- Great Britain -- Biography</dc:subject>
+        <dc:subject>Deaf -- Great Britain -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:57:40.181874+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Life and Adventures of Mr. Duncan Campell / A Gentlen, who, tho' Deaf and Dumb, Writes down any Stranger's name at first Sight; with their future Contingencies of Fortune, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74de1baa-d074-4158-854b-61b5bb3d4c5a</dc:identifier>
+        <dc:title>Mr. Punch at Home: The Comic Side of Domestic Life</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Families -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:58:46.479323+00:00"/>
+        <meta name="calibre:title_sort" content="Mr. Punch at Home: The Comic Side of Domestic Life"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

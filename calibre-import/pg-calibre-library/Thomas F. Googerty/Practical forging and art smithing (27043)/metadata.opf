@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27043</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c27a3f8e-38ab-4536-9cc4-1f66c565c2c3</dc:identifier>
+        <dc:title>Practical forging and art smithing</dc:title>
+        <dc:creator opf:file-as="Googerty, Thomas F. (Thomas Francis)" opf:role="aut">Thomas F. Googerty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/69488</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Forging</dc:subject>
+        <dc:subject>Ironwork</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas F. Googerty&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:56:35.863285+00:00"/>
+        <meta name="calibre:title_sort" content="Practical forging and art smithing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

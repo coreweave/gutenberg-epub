@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8b38e69-ee5a-4731-ae9c-2b9315e80424</dc:identifier>
+        <dc:title>The Book of the Thousand Nights and One Night, Volume II</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-08-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/8656</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Tales -- Arab countries</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T14:13:12.816466+00:00"/>
+        <meta name="calibre:title_sort" content="Book of the Thousand Nights and One Night, Volume II, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

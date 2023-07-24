@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17866</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56f818ab-6c30-42a1-b1a5-a433d4120688</dc:identifier>
+        <dc:title>Investigation of Communist activities in Seattle, Wash., Area, Hearings, Part 2</dc:title>
+        <dc:creator opf:file-as="United States. Congress. House. Committee on Un-American Activities" opf:role="aut">United States. Congress. House. Committee on Un-American Activities</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56384</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Communism -- Washington (State) -- Seattle</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Congress. House. Committee on Un-American Activities&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:48:11.735008+00:00"/>
+        <meta name="calibre:title_sort" content="Investigation of Communist activities in Seattle, Wash., Area, Hearings, Part 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

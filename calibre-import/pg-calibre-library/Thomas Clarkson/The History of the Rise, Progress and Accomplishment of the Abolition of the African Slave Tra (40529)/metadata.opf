@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">750bc87a-168e-4c73-8400-71ba9aee81df</dc:identifier>
+        <dc:title>The History of the Rise, Progress and Accomplishment of the Abolition of the African Slave Trade by the British Parliament (1808), Volume I</dc:title>
+        <dc:creator opf:file-as="Clarkson, Thomas" opf:role="aut">Thomas Clarkson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12428</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slave trade -- Africa</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Clarkson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:59:05.294703+00:00"/>
+        <meta name="calibre:title_sort" content="History of the Rise, Progress and Accomplishment of the Abolition of the African Slave Trade by the British Parliament (1808), Volume I, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

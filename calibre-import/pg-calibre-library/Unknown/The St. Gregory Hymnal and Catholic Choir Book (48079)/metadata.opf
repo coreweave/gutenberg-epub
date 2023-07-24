@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48079</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0c3ffd0-f7d7-4488-bce1-659c56890322</dc:identifier>
+        <dc:title>The St. Gregory Hymnal and Catholic Choir Book</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/23673</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hymns</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Catholic Church -- Hymns</dc:subject>
+        <dc:subject>Service books (Music) -- Catholic Church</dc:subject>
+        <dc:subject>Latin</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:08:01.467586+00:00"/>
+        <meta name="calibre:title_sort" content="St. Gregory Hymnal and Catholic Choir Book, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

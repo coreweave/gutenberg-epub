@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">894a09b7-2719-4fc9-ba9e-3e127dcdf291</dc:identifier>
+        <dc:title>The Pleasures of a Single Life, Or, The Miseries of Matrimony / Occasionally writ upon the many divorces lately granted by Parliament. With The choice, or, the pleasures of a country-life. Dedicated to the beaus against the next vacation.</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-10-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/13800</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Marriage -- Poetry</dc:subject>
+        <dc:subject>Country life -- Poetry</dc:subject>
+        <dc:subject>Single people -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:37:26.299502+00:00"/>
+        <meta name="calibre:title_sort" content="Pleasures of a Single Life, Or, The Miseries of Matrimony / Occasionally writ upon the many divorces lately granted by Parliament. With The choice, or, the pleasures of a country-life. Dedicated to the beaus against the next vacation., The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

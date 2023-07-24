@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ae299f1-5167-451d-a6a7-90a9199c60cb</dc:identifier>
+        <dc:title>Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume I, Alabama Narratives</dc:title>
+        <dc:creator opf:file-as="United States. Work Projects Administration" opf:role="aut">United States. Work Projects Administration</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36020</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slave narratives -- Alabama</dc:subject>
+        <dc:subject>Slavery -- Alabama</dc:subject>
+        <dc:subject>African Americans -- Alabama -- Biography</dc:subject>
+        <dc:subject>Slaves -- Alabama -- Biography</dc:subject>
+        <dc:subject>Slaves -- Alabama -- Social conditions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Work Projects Administration&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:54:19.591927+00:00"/>
+        <meta name="calibre:title_sort" content="Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume I, Alabama Narratives"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

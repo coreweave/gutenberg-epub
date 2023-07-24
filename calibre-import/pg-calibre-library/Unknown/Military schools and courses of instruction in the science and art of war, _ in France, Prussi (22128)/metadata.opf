@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8703a8b9-dc4f-4436-abe8-e78c7993e96b</dc:identifier>
+        <dc:title>Military schools and courses of instruction in the science and art of war, / in France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/44443</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Military education</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:27:25.175672+00:00"/>
+        <meta name="calibre:title_sort" content="Military schools and courses of instruction in the science and art of war, / in France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

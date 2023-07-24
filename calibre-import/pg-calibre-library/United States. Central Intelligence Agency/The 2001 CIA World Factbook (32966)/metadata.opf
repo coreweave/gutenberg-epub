@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">224a4518-701a-4ba3-a282-a1f6cb14eb2d</dc:identifier>
+        <dc:title>The 2001 CIA World Factbook</dc:title>
+        <dc:creator opf:file-as="United States. Central Intelligence Agency" opf:role="aut">United States. Central Intelligence Agency</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-12-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/27638</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>World politics -- Handbooks</dc:subject>
+        <dc:subject>manuals</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Geography -- Handbooks</dc:subject>
+        <dc:subject>Political science -- Handbooks</dc:subject>
+        <dc:subject>Political statistics -- Handbooks</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Central Intelligence Agency&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T12:34:34.967850+00:00"/>
+        <meta name="calibre:title_sort" content="2001 CIA World Factbook, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c82aeae-b5db-4d68-a9d1-fbb22fce42db</dc:identifier>
+        <dc:title>Aviation in Canada, 1917-1918 / Being a Brief Account of the Work of the Royal Air Force Canada, the Aviation Department of the Imperial Munitions Board, and the Canadian Aeroplanes Limited</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Airplanes</dc:subject>
+        <dc:subject>Canada. Royal Flying Corps</dc:subject>
+        <dc:subject>Canada. Imperial Munitions Board. Aviation Department</dc:subject>
+        <dc:subject>Canadian aeroplanes</dc:subject>
+        <dc:subject>limited</dc:subject>
+        <dc:subject>Toronto</dc:subject>
+        <dc:subject>Aeronautics</dc:subject>
+        <dc:subject>Military -- Canada</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:03:53.121989+00:00"/>
+        <meta name="calibre:title_sort" content="Aviation in Canada, 1917-1918 / Being a Brief Account of the Work of the Royal Air Force Canada, the Aviation Department of the Imperial Munitions Board, and the Canadian Aeroplanes Limited"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

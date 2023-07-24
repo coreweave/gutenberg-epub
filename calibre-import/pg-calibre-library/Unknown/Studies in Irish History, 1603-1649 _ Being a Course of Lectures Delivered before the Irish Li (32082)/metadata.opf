@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f668f8de-476f-418d-9792-ba346f0b3b43</dc:identifier>
+        <dc:title>Studies in Irish History, 1603-1649 / Being a Course of Lectures Delivered before the Irish Literary Society of London. 2d Series.</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/57289</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Strafford</dc:subject>
+        <dc:subject>Thomas Wentworth</dc:subject>
+        <dc:subject>Earl of</dc:subject>
+        <dc:subject>1593-1641</dc:subject>
+        <dc:subject>Irish Confederation</dc:subject>
+        <dc:subject>1642-1648</dc:subject>
+        <dc:subject>Ulster (Northern Ireland and Ireland) -- History</dc:subject>
+        <dc:subject>Ireland -- History -- Rebellion of 1641</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T11:52:03.173199+00:00"/>
+        <meta name="calibre:title_sort" content="Studies in Irish History, 1603-1649 / Being a Course of Lectures Delivered before the Irish Literary Society of London. 2d Series."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

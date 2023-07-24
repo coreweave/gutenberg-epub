@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16877</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09f9cf8c-6921-427d-89ce-3ddeb9431e6d</dc:identifier>
+        <dc:title>Hymns from the German / Translated by Frances Elizabeth Cox</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-13T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/39439</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hymns</dc:subject>
+        <dc:subject>German</dc:subject>
+        <dc:subject>German -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T01:14:27.252843+00:00"/>
+        <meta name="calibre:title_sort" content="Hymns from the German / Translated by Frances Elizabeth Cox"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

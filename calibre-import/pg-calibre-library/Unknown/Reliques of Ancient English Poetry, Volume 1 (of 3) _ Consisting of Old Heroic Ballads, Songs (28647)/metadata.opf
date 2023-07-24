@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68b3d7e7-4def-4df1-835c-96ea685be828</dc:identifier>
+        <dc:title>Reliques of Ancient English Poetry, Volume 1 (of 3) / Consisting of Old Heroic Ballads, Songs and Other Pieces of Our Earlier Poets Together With Some Few of Later Date</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45939</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry -- Early modern</dc:subject>
+        <dc:subject>1500-1700</dc:subject>
+        <dc:subject>Ballads</dc:subject>
+        <dc:subject>English -- Texts</dc:subject>
+        <dc:subject>Romances</dc:subject>
+        <dc:subject>English -- History and criticism</dc:subject>
+        <dc:subject>Minstrels</dc:subject>
+        <dc:subject>English language -- Early modern</dc:subject>
+        <dc:subject>1500-1700 -- Glossaries</dc:subject>
+        <dc:subject>vocabularies</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T09:08:02.255774+00:00"/>
+        <meta name="calibre:title_sort" content="Reliques of Ancient English Poetry, Volume 1 (of 3) / Consisting of Old Heroic Ballads, Songs and Other Pieces of Our Earlier Poets Together With Some Few of Later Date"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

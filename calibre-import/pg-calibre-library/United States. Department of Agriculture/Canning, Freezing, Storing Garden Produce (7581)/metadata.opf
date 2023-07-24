@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d57856c9-5d34-41c8-9153-cd5535ef7d60</dc:identifier>
+        <dc:title>Canning, Freezing, Storing Garden Produce</dc:title>
+        <dc:creator opf:file-as="United States. Department of Agriculture" opf:role="aut">United States. Department of Agriculture</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59977</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Canning and preserving</dc:subject>
+        <dc:subject>Fruit -- Preservation -- United States</dc:subject>
+        <dc:subject>Vegetables -- Preservation -- United States</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Department of Agriculture&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:48:21.416281+00:00"/>
+        <meta name="calibre:title_sort" content="Canning, Freezing, Storing Garden Produce"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

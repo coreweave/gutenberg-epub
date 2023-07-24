@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d47a37d-ac5f-4d45-9f31-902f4a1916ed</dc:identifier>
+        <dc:title>Post-Biblical Hebrew Literature: An Anthology</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-12T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61386</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Hebrew literature -- Translations into English</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T07:53:09.101842+00:00"/>
+        <meta name="calibre:title_sort" content="Post-Biblical Hebrew Literature: An Anthology"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

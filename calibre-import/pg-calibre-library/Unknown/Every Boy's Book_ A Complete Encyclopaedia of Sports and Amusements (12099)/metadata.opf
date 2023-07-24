@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12099</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b1251ee-b874-411f-85da-8f8d9c04bdff</dc:identifier>
+        <dc:title>Every Boy's Book: A Complete Encyclopædia of Sports and Amusements</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42172</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amusements</dc:subject>
+        <dc:subject>Handicraft for boys</dc:subject>
+        <dc:subject>Sports</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T22:45:01.982273+00:00"/>
+        <meta name="calibre:title_sort" content="Every Boy's Book: A Complete Encyclopædia of Sports and Amusements"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

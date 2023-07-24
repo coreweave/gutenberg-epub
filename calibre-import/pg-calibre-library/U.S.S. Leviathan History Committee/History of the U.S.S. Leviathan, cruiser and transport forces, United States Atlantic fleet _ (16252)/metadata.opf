@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e6790c5-e1ba-44de-9b59-eaf04769f19d</dc:identifier>
+        <dc:title>History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet / Compiled from the ship's log and data gathered by the history committee on board the ship</dc:title>
+        <dc:creator opf:file-as="U.S.S. Leviathan History Committee" opf:role="aut">U.S.S. Leviathan History Committee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59699</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Leviathan (Steamship)</dc:subject>
+        <dc:subject>Vaterland (Steamship)</dc:subject>
+        <dc:subject>World War</dc:subject>
+        <dc:subject>1914-1918 -- Naval operations</dc:subject>
+        <dc:subject>American</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;U.S.S. Leviathan History Committee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T00:53:30.080627+00:00"/>
+        <meta name="calibre:title_sort" content="History of the U.S.S. Leviathan, cruiser and transport forces, United States Atlantic fleet / Compiled from the ship's log and data gathered by the history committee on board the ship"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

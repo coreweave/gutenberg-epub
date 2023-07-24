@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b286bb84-11fa-4bc5-9a8c-dde7b17b763b</dc:identifier>
+        <dc:title>Proceedings of the second National Conservation Congress at Saint Paul, September 5-8, 1910</dc:title>
+        <dc:creator opf:file-as="United States. National Conservation Congress" opf:role="aut">United States. National Conservation Congress</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-05T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/36031</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Natural resources -- Congresses</dc:subject>
+        <dc:subject>United States -- Economic conditions -- Congresses</dc:subject>
+        <dc:subject>Conference papers and proceedings</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. National Conservation Congress&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:07:37.443638+00:00"/>
+        <meta name="calibre:title_sort" content="Proceedings of the second National Conservation Congress at Saint Paul, September 5-8, 1910"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

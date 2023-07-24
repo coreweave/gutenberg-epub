@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">212aa08e-532f-4cd2-9e8a-f5d4c2d95a76</dc:identifier>
+        <dc:title>Seeing Europe with Famous Authors, Volume 8 / Italy, Sicily, and Greece, Part Two</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-16T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Italy -- Description and travel</dc:subject>
+        <dc:subject>Greece -- Description and travel</dc:subject>
+        <dc:subject>Sicily (Italy) -- Description and travel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:16:38.018754+00:00"/>
+        <meta name="calibre:title_sort" content="Seeing Europe with Famous Authors, Volume 8 / Italy, Sicily, and Greece, Part Two"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

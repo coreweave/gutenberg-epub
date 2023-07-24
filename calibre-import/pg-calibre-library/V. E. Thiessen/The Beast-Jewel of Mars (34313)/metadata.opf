@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5a805e5-4446-4a4a-a8c9-791eab2838ef</dc:identifier>
+        <dc:title>The Beast-Jewel of Mars</dc:title>
+        <dc:creator opf:file-as="Thiessen, V. E." opf:role="aut">V. E. Thiessen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-02T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/63605</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Man-woman relationships -- Fiction</dc:subject>
+        <dc:subject>Mars (Planet) -- Fiction</dc:subject>
+        <dc:subject>Legends -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;V. E. Thiessen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T13:40:38.909120+00:00"/>
+        <meta name="calibre:title_sort" content="Beast-Jewel of Mars, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91ced70d-4b9d-4f45-8cc0-41d18e28a5fa</dc:identifier>
+        <dc:title>Cousin Hatty's Hymns and Twilight Stories</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/12007</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Children's poetry</dc:subject>
+        <dc:subject>Hymns</dc:subject>
+        <dc:subject>Religious poetry</dc:subject>
+        <dc:subject>American -- Juvenile literature</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:34:36.960465+00:00"/>
+        <meta name="calibre:title_sort" content="Cousin Hatty's Hymns and Twilight Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

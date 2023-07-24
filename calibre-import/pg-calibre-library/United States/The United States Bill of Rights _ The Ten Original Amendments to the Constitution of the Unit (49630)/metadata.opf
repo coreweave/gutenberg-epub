@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7744daa0-c4e4-4c2f-a2b7-f2815b1c84f1</dc:identifier>
+        <dc:title>The United States Bill of Rights / The Ten Original Amendments to the Constitution of the United States</dc:title>
+        <dc:creator opf:file-as="United States" opf:role="aut">United States</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1972-12-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civil rights -- United States -- Sources</dc:subject>
+        <dc:subject>United States. Constitution. 1st-10th Amendments</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T03:43:10.228218+00:00"/>
+        <meta name="calibre:title_sort" content="United States Bill of Rights / The Ten Original Amendments to the Constitution of the United States, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93f00047-a7fc-4529-bc4f-4e40062604c2</dc:identifier>
+        <dc:title>The North American Slime-Moulds / A Descriptive List of All Species of Myxomycetes Hitherto Reported from the Continent of North America, with Notes on Some Extra-Limital Species</dc:title>
+        <dc:creator opf:file-as="Macbride, Thomas H. (Thomas Huston)" opf:role="aut">Thomas H. Macbride</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-27T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31098</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Myxomycetes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas H. Macbride&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T22:40:12.329868+00:00"/>
+        <meta name="calibre:title_sort" content="North American Slime-Moulds / A Descriptive List of All Species of Myxomycetes Hitherto Reported from the Continent of North America, with Notes on Some Extra-Limital Species, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

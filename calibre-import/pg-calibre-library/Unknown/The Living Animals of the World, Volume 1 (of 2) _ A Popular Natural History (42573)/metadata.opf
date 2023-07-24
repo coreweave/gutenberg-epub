@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aed9904e-f7b0-4a78-82d6-1a96122c22e3</dc:identifier>
+        <dc:title>The Living Animals of the World, Volume 1 (of 2) / A Popular Natural History</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-28T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Animals</dc:subject>
+        <dc:subject>Zoology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:51:24.945551+00:00"/>
+        <meta name="calibre:title_sort" content="Living Animals of the World, Volume 1 (of 2) / A Popular Natural History, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

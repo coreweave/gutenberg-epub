@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5948</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d5a613c-5cb8-426a-a71a-487eab9e3a19</dc:identifier>
+        <dc:title>Beauvoir: Jefferson Davis Shrine</dc:title>
+        <dc:creator opf:file-as="United Daughters of the Confederacy. Mississippi Division" opf:role="aut">United Daughters of the Confederacy. Mississippi Division</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-06T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/60856</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Davis</dc:subject>
+        <dc:subject>Jefferson</dc:subject>
+        <dc:subject>1808-1889 -- Homes and haunts -- Mississippi -- Biloxi</dc:subject>
+        <dc:subject>Beauvoir (Biloxi</dc:subject>
+        <dc:subject>Miss.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United Daughters of the Confederacy. Mississippi Division&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:11:47.560172+00:00"/>
+        <meta name="calibre:title_sort" content="Beauvoir: Jefferson Davis Shrine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

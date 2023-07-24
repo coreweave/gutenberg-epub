@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18707824-c0c0-437b-9ae3-ac1d1c63e0d2</dc:identifier>
+        <dc:title>Gammer Gurton's Garland; Or, The Nursery Parnassus / A Choice Collection of Pretty Songs and Verses for the Amusement of All Little Good Children Who Can Neither Read nor Run.</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-08T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/34601</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nursery rhymes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:34:45.098061+00:00"/>
+        <meta name="calibre:title_sort" content="Gammer Gurton's Garland; Or, The Nursery Parnassus / A Choice Collection of Pretty Songs and Verses for the Amusement of All Little Good Children Who Can Neither Read nor Run."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

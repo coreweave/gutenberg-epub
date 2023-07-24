@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">525fb49e-2f10-45d5-85ea-81ec78c1a80b</dc:identifier>
+        <dc:title>Prevalence of Imprisonment in the U.S. Population, 1974-2001</dc:title>
+        <dc:creator opf:file-as="Bonczar, Thomas P." opf:role="aut">Thomas P. Bonczar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-23T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/29211</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Imprisonment -- United States -- Statistics</dc:subject>
+        <dc:subject>Prisoners -- United States -- Statistics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas P. Bonczar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T08:00:48.614735+00:00"/>
+        <meta name="calibre:title_sort" content="Prevalence of Imprisonment in the U.S. Population, 1974-2001"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

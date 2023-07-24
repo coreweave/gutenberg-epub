@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c266b5f-510b-4430-8ae2-31fd4db8f2a4</dc:identifier>
+        <dc:title>The Golden Treasury / Selected from the Best Songs and Lyrical Poems in the English Language and arranged with Notes</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/32373</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English poetry</dc:subject>
+        <dc:subject>Songs</dc:subject>
+        <dc:subject>English -- Texts</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T18:04:12.733432+00:00"/>
+        <meta name="calibre:title_sort" content="Golden Treasury / Selected from the Best Songs and Lyrical Poems in the English Language and arranged with Notes, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

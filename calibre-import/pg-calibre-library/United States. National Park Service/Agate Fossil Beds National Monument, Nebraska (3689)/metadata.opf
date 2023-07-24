@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ece2eba-7b39-4785-bf98-395480166d01</dc:identifier>
+        <dc:title>Agate Fossil Beds National Monument, Nebraska</dc:title>
+        <dc:creator opf:file-as="United States. National Park Service" opf:role="aut">United States. National Park Service</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-04T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/56303</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Paleontology -- Miocene</dc:subject>
+        <dc:subject>Vertebrates</dc:subject>
+        <dc:subject>Fossil -- Nebraska -- Agate Fossil Beds National Monument</dc:subject>
+        <dc:subject>Paleontology -- Nebraska -- Agate Fossil Beds National Monument</dc:subject>
+        <dc:subject>Natural history -- Nebraska -- Agate Fossil Beds National Monument</dc:subject>
+        <dc:subject>Agate Fossil Beds National Monument (Neb.)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. National Park Service&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:27:03.020112+00:00"/>
+        <meta name="calibre:title_sort" content="Agate Fossil Beds National Monument, Nebraska"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

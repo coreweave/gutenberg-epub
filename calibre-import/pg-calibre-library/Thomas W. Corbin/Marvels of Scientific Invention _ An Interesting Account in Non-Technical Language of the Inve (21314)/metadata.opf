@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21314</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cf3e52d-4047-4c86-9c3e-321a9ea2d6e0</dc:identifier>
+        <dc:title>Marvels of Scientific Invention / An Interesting Account in Non-Technical Language of the Invention of Guns, Torpedoes, Submarine Mines, Up-to-Date Smelting, Freezing, Colour Photography, and Many Other Recent Discoveries of Science</dc:title>
+        <dc:creator opf:file-as="Corbin, Thomas W." opf:role="aut">Thomas W. Corbin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-18T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/38045</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Inventions</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas W. Corbin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T03:54:32.966563+00:00"/>
+        <meta name="calibre:title_sort" content="Marvels of Scientific Invention / An Interesting Account in Non-Technical Language of the Invention of Guns, Torpedoes, Submarine Mines, Up-to-Date Smelting, Freezing, Colour Photography, and Many Other Recent Discoveries of Science"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

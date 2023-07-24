@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13947</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af79c1f3-49dd-45e8-b11d-19266ad790ff</dc:identifier>
+        <dc:title>George Borrow / Times Literary Supplement, 10th July 1903</dc:title>
+        <dc:creator opf:file-as="Seccombe, Thomas" opf:role="aut">Thomas Seccombe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-07T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/30887</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Borrow</dc:subject>
+        <dc:subject>George</dc:subject>
+        <dc:subject>1803-1881</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>English -- 19th century -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Seccombe&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T23:39:19.104421+00:00"/>
+        <meta name="calibre:title_sort" content="George Borrow / Times Literary Supplement, 10th July 1903"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

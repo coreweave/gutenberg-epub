@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42601</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd4ec34e-6868-4b67-8cc2-a8bfb02084b1</dc:identifier>
+        <dc:title>The Log-Cabin Lady — An Anonymous Autobiography</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6500</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Women -- United States -- Biography</dc:subject>
+        <dc:subject>Americans -- Great Britain -- Biography</dc:subject>
+        <dc:subject>United States -- History -- 1901-1953</dc:subject>
+        <dc:subject>Great Britain -- History -- George V</dc:subject>
+        <dc:subject>1910-1936</dc:subject>
+        <dc:subject>Great Britain -- History -- Edward VII</dc:subject>
+        <dc:subject>1901-1910</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T20:53:00.707062+00:00"/>
+        <meta name="calibre:title_sort" content="Log-Cabin Lady — An Anonymous Autobiography, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

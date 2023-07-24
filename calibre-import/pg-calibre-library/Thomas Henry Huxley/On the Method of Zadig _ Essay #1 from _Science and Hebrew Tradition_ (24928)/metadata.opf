@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24928</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a61d5e9-eed7-4f16-8bdc-52e48cad673d</dc:identifier>
+        <dc:title>On the Method of Zadig / Essay #1 from "Science and Hebrew Tradition"</dc:title>
+        <dc:creator opf:file-as="Huxley, Thomas Henry" opf:role="aut">Thomas Henry Huxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2627</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Bible and science</dc:subject>
+        <dc:subject>Paleontology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Henry Huxley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:25:25.518382+00:00"/>
+        <meta name="calibre:title_sort" content="On the Method of Zadig / Essay #1 from &quot;Science and Hebrew Tradition&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a2854f9-ddfb-49dd-bbfc-2a9cad36d52c</dc:identifier>
+        <dc:title>Pamphlets on the Constitution of the United States / Published During Its Discussion by the People 1787-1788</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-14T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/47110</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Politics and government -- 1783-1789</dc:subject>
+        <dc:subject>Constitutional history -- United States -- Sources</dc:subject>
+        <dc:subject>United States. Constitution</dc:subject>
+        <dc:subject>United States. Constitution -- Bibliography</dc:subject>
+        <dc:subject>Constitutional law -- United States -- Popular works</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T06:55:02.162718+00:00"/>
+        <meta name="calibre:title_sort" content="Pamphlets on the Constitution of the United States / Published During Its Discussion by the People 1787-1788"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

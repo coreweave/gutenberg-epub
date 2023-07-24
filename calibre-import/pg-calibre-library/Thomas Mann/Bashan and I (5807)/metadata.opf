@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c94f2984-6772-4f8b-ad1a-43cf254e0a78</dc:identifier>
+        <dc:title>Bashan and I</dc:title>
+        <dc:creator opf:file-as="Mann, Thomas" opf:role="aut">Thomas Mann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-03T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/61284</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Dogs -- Anecdotes</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas Mann&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T20:08:47.058628+00:00"/>
+        <meta name="calibre:title_sort" content="Bashan and I"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

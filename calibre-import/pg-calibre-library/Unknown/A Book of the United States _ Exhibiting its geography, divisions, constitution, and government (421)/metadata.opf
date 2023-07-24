@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">421</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6eb3d9f-b074-43f6-aef6-970339f080ac</dc:identifier>
+        <dc:title>A Book of the United States / Exhibiting its geography, divisions, constitution, and government ... and presenting a view of the republic generally, and of the individual states; together with a condensed history of the land, from its first discovery to the present time. The biography of about two hundred of the leading men: a description of the principal cities and towns; with statistical tables</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-09T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/58447</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>United States -- Description and travel</dc:subject>
+        <dc:subject>United States -- History</dc:subject>
+        <dc:subject>United States -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:32:18.704888+00:00"/>
+        <meta name="calibre:title_sort" content="Book of the United States / Exhibiting its geography, divisions, constitution, and government ... and presenting a view of the republic generally, and of the individual states; together with a condensed history of the land, from its first discovery to the present time. The biography of about two hundred of the leading men: a description of the principal cities and towns; with statistical tables, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

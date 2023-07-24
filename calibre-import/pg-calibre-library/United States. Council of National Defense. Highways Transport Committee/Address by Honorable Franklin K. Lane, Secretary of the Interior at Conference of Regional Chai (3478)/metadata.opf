@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1818f760-e7c8-4118-a299-f27308a3c6c7</dc:identifier>
+        <dc:title>Address by Honorable Franklin K. Lane, Secretary of the Interior at Conference of Regional Chairmen of the Highways Transport Committee Council of National Defense</dc:title>
+        <dc:creator opf:file-as="United States. Council of National Defense. Highways Transport Committee" opf:role="aut">United States. Council of National Defense. Highways Transport Committee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/19759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Transportation</dc:subject>
+        <dc:subject>Automotive</dc:subject>
+        <dc:subject>Roads</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Council of National Defense. Highways Transport Committee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:23:12.067574+00:00"/>
+        <meta name="calibre:title_sort" content="Address by Honorable Franklin K. Lane, Secretary of the Interior at Conference of Regional Chairmen of the Highways Transport Committee Council of National Defense"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

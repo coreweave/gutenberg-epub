@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aead95da-f3bd-4e67-9af5-0be01093a4ab</dc:identifier>
+        <dc:title>The Study of Elementary Electricity and Magnetism by Experiment / Containing Two Hundred Experiments Performed with Simple, Home-made Apparatus</dc:title>
+        <dc:creator opf:file-as="St. John, Thomas M. (Thomas Matthew)" opf:role="aut">Thomas M. St. John</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-22T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/48041</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Electricity -- Experiments</dc:subject>
+        <dc:subject>Magnetism -- Experiments</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Thomas M. St. John&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-19T02:40:46.594568+00:00"/>
+        <meta name="calibre:title_sort" content="Study of Elementary Electricity and Magnetism by Experiment / Containing Two Hundred Experiments Performed with Simple, Home-made Apparatus, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

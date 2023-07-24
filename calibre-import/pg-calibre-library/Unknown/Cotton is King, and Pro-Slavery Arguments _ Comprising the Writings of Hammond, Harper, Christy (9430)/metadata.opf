@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9dc4a07-afc9-4ea6-971a-e9ca48a172b5</dc:identifier>
+        <dc:title>Cotton is King, and Pro-Slavery Arguments / Comprising the Writings of Hammond, Harper, Christy, Stringfellow, Hodge, Bledsoe, and Cartrwright on this Important Subject</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/28148</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slavery -- United States</dc:subject>
+        <dc:subject>Slavery -- Justification</dc:subject>
+        <dc:subject>Scott</dc:subject>
+        <dc:subject>Dred</dc:subject>
+        <dc:subject>1809-1858</dc:subject>
+        <dc:subject>United States -- Fugitive slave law (1850)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T21:33:28.025534+00:00"/>
+        <meta name="calibre:title_sort" content="Cotton is King, and Pro-Slavery Arguments / Comprising the Writings of Hammond, Harper, Christy, Stringfellow, Hodge, Bledsoe, and Cartrwright on this Important Subject"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

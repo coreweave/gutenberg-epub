@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22902</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">556e1a0a-e8d7-435f-8e24-d9169199706d</dc:identifier>
+        <dc:title>Mr. Punch with Rod and Gun: The Humours of Fishing and Shooting</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-24T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/45748</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>English wit and humor</dc:subject>
+        <dc:subject>Pictorial</dc:subject>
+        <dc:subject>Hunting -- Anecdotes</dc:subject>
+        <dc:subject>Hunting -- Humor</dc:subject>
+        <dc:subject>Fishing -- Anecdotes</dc:subject>
+        <dc:subject>Fishing -- Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T04:59:16.555361+00:00"/>
+        <meta name="calibre:title_sort" content="Mr. Punch with Rod and Gun: The Humours of Fishing and Shooting"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

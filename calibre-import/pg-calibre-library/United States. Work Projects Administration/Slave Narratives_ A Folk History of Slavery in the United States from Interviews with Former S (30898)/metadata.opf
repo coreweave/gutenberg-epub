@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30898</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12ddab1d-8fa0-490f-9488-57af78c1d5de</dc:identifier>
+        <dc:title>Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume II, Arkansas Narratives, Part 1</dc:title>
+        <dc:creator opf:file-as="United States. Work Projects Administration" opf:role="aut">United States. Work Projects Administration</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11255</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slave narratives -- Arkansas</dc:subject>
+        <dc:subject>Slaves -- Arkansas -- Biography</dc:subject>
+        <dc:subject>Slaves -- Arkansas -- Social conditions</dc:subject>
+        <dc:subject>Slavery -- Arkansas</dc:subject>
+        <dc:subject>African Americans -- Arkansas -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Work Projects Administration&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:54:22.539887+00:00"/>
+        <meta name="calibre:title_sort" content="Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume II, Arkansas Narratives, Part 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

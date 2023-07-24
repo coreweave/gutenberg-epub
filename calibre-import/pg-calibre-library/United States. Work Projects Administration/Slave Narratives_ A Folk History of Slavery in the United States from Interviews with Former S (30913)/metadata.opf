@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc3c789b-30e0-4412-83ea-d68a6ba0aa61</dc:identifier>
+        <dc:title>Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume VII, Kentucky Narratives</dc:title>
+        <dc:creator opf:file-as="United States. Work Projects Administration" opf:role="aut">United States. Work Projects Administration</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-04-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/11920</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Slave narratives -- Kentucky</dc:subject>
+        <dc:subject>Slaves -- Kentucky -- Biography</dc:subject>
+        <dc:subject>Slaves -- Kentucky -- Social conditions</dc:subject>
+        <dc:subject>Slavery -- Kentucky</dc:subject>
+        <dc:subject>African Americans -- Kentucky -- Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Work Projects Administration&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T10:55:06.222057+00:00"/>
+        <meta name="calibre:title_sort" content="Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume VII, Kentucky Narratives"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

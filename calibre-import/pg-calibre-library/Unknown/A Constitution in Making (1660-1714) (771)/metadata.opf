@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">130b9f11-6f63-4edb-ac90-34f50511a360</dc:identifier>
+        <dc:title>A Constitution in Making (1660-1714)</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-11T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/52046</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Constitutional history -- Great Britain</dc:subject>
+        <dc:subject>Great Britain -- History -- Restoration</dc:subject>
+        <dc:subject>1660-1688 -- Sources</dc:subject>
+        <dc:subject>Great Britain -- History -- 1689-1714 -- Sources</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T18:37:34.756118+00:00"/>
+        <meta name="calibre:title_sort" content="Constitution in Making (1660-1714), A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

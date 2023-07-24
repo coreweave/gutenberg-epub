@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c876d33a-4809-4ca0-9303-4ca6b0a9fa3a</dc:identifier>
+        <dc:title>Army Pulse Radiation Facility</dc:title>
+        <dc:creator opf:file-as="U.S. Army Ballistic Research Laboratory" opf:role="aut">U.S. Army Ballistic Research Laboratory</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-19T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/68120</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Army Pulse Radiation Facility</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;U.S. Army Ballistic Research Laboratory&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-17T19:54:24.537884+00:00"/>
+        <meta name="calibre:title_sort" content="Army Pulse Radiation Facility"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

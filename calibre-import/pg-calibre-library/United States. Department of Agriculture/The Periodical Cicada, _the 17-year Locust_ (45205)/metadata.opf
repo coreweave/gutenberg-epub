@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee09943c-a1d0-4662-b3c1-62cd217cccea</dc:identifier>
+        <dc:title>The Periodical Cicada, "the 17-year Locust"</dc:title>
+        <dc:creator opf:file-as="United States. Department of Agriculture" opf:role="aut">United States. Department of Agriculture</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-20T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/59315</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Periodical cicada</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;United States. Department of Agriculture&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-05-18T23:19:29.404774+00:00"/>
+        <meta name="calibre:title_sort" content="Periodical Cicada, &quot;the 17-year Locust&quot;, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
