@@ -21,7 +21,7 @@ jobs:
 
       # Reads out cpu info
       - name: Check CPU
-        run: cat /proc/cpu
+        run: cat /proc/cpuinfo
 
       # check env
       - name: Check env
