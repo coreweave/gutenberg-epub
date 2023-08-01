@@ -1,0 +1,36 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Test Runner
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Reads out cpu info
+      - name: Check CPU
+        run: cat /proc/cpu
+
+      # check env
+      - name: Check env
+        run: ls -la
+
+      # Check if files are there
+      - name: Check env2
+        run: pwd
+
+      # Check env variables
+      - name: Check env3
+        run: printenv | more
