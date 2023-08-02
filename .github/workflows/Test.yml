@@ -45,7 +45,7 @@ jobs:
 
       # pull down s3 gutenberg lib
       - name: S3 Download gutenberg
-        run: docker run --rm --entrypoint /bin/bash registry.gitlab.com/coreweave/utility-images/s3cmd:v1.2.0 -c "rm /root/.s3cfg && touch /root/.s3cfg && echo -e $test > /root/.s3cfg && s3cmd la && s3cmd get s3://gutenberg/pg-calibre-library.zip"  
+        run: docker run --rm --entrypoint /bin/bash registry.gitlab.com/coreweave/utility-images/s3cmd:v1.2.0 -c "rm /root/.s3cfg && touch /root/.s3cfg && echo -e $test > /root/.s3cfg && ls -la && s3cmd la && s3cmd get s3://gutenberg/pg-calibre-library.zip"  
       
 
       #unzip gutenberg data
