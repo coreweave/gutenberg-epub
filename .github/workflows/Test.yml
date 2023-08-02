@@ -19,17 +19,20 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
+      # install sudo
+      - name: install sudo
+        run: apt-get install -y sudo
+
+        
       # Reads out cpu info
       - name: Install S3cmd
-        run: pip install s3cmd
+        run: sudo apt install python3 && python -m ensurepip --upgrade && pip install s3cmd
 
       # check env
       - name: Check env
         run: ls -la
 
-      # install sudo
-      - name: install sudo
-        run: apt-get install -y sudo
+      
 
       # Check if files are there
       - name: Check env2
