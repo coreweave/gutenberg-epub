@@ -48,7 +48,7 @@ jobs:
           s3accesskey: ${{ secrets.ACTION_S3_ACCESSKEY }}
           base: ${{ secrets.ACTION_S3_BASE }}
           bucket: ${{ secrets.ACTION_S3_BUCKET }}
-        run: s3cmd --access_key $s3accesskey --host $base --host-bucket $bucket get s3://gutenberg/pg-calibre-library.zip
+        run: echo "s3cmd --access_key $s3accesskey --host $base --host-bucket $bucket get s3://gutenberg/pg-calibre-library.zip" && s3cmd --access_key $s3accesskey --host $base --host-bucket $bucket get s3://gutenberg/pg-calibre-library.zip
       
 
       #unzip gutenberg data
