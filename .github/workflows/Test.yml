@@ -34,3 +34,26 @@ jobs:
       # Check env variables
       - name: Check env3
         run: printenv | more
+
+      # pull down s3 gutenberg lib
+      - name: S3 Download gutenberg
+        run: docker run -it --rm --entrypoint /bin/bash registry.gitlab.com/coreweave/utility-images/s3cmd:v1.2.0 -c "rm /root/.s3cfg && touch /root/.s3cfg && echo -e '[lfs]\naccess_key = {{ secret.ACTION_S3_ACCESSKEY }}\nsecret_key = \nhost_base = {{ secret.ACTION_S3_BASE }}\nhost_bucket = {{ secret.ACTION_S3_BUCKET }}\ncheck_ssl_certificate = False\ncheck_ssl_hostname = False' > /root/.s3cfg && s3cmd la && s3cmd get s3://gutenberg/pg-calibre-library.zip"  
+
+      
+
+      #unzip gutenberg data
+      - name: Unzip Source
+        run: unzip pg-calibre-library.zip
+
+      #check files
+      - name: debug check files
+        run: ls -la
+
+      # Run a fast parse to test
+      - name: Fast Parse
+        run: ./gutenberg-epub-converter -inputDir ./pg-calibre-library -outputDir ./Author -writeHeader=true -writeMetadata=false -cleanOutput=true -seperateFolders=false -stopEarly=5 -skipCopyRight=true -gutenbergCleaning=true -createSubsets=author
+
+      #check files
+      - name: debug check files
+        run: cd ./Author && ls -la
+    
