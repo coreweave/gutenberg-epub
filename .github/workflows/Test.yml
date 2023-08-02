@@ -27,6 +27,10 @@ jobs:
       - name: Check env
         run: ls -la
 
+      # install sudo
+      - name: install sudo
+        run: apt-get install -y sudo
+
       # Check if files are there
       - name: Check env2
         run: pwd
