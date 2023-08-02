@@ -37,7 +37,7 @@ jobs:
 
       # pull down s3 gutenberg lib
       - name: S3 Download gutenberg
-        run: docker run -it --rm --entrypoint /bin/bash registry.gitlab.com/coreweave/utility-images/s3cmd:v1.2.0 -c "rm /root/.s3cfg && touch /root/.s3cfg && echo -e '[lfs]\naccess_key = {{ secret.ACTION_S3_ACCESSKEY }}\nsecret_key = \nhost_base = {{ secret.ACTION_S3_BASE }}\nhost_bucket = {{ secret.ACTION_S3_BUCKET }}\ncheck_ssl_certificate = False\ncheck_ssl_hostname = False' > /root/.s3cfg && s3cmd la && s3cmd get s3://gutenberg/pg-calibre-library.zip"  
+        run: docker run --rm --entrypoint /bin/bash registry.gitlab.com/coreweave/utility-images/s3cmd:v1.2.0 -c "rm /root/.s3cfg && touch /root/.s3cfg && echo -e '[lfs]\naccess_key = {{ secret.ACTION_S3_ACCESSKEY }}\nsecret_key = \nhost_base = {{ secret.ACTION_S3_BASE }}\nhost_bucket = {{ secret.ACTION_S3_BUCKET }}\ncheck_ssl_certificate = False\ncheck_ssl_hostname = False' > /root/.s3cfg && s3cmd la && s3cmd get s3://gutenberg/pg-calibre-library.zip"  
 
       
 
