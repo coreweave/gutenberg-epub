@@ -32,8 +32,6 @@ jobs:
       - name: Check env
         run: ls -la
 
-      
-
       # Check if files are there
       - name: Check env2
         run: pwd
@@ -46,9 +44,10 @@ jobs:
       - name: S3 Download gutenberg
         env:
           s3accesskey: ${{ secrets.ACTION_S3_ACCESSKEY }}
-          base: ${{ secrets.ACTION_S3_BASE }}
-          bucket: ${{ secrets.ACTION_S3_BUCKET }}
-        run: echo "s3cmd --access_key $s3accesskey --host $base --host-bucket $bucket get s3://gutenberg/pg-calibre-library.zip" && s3cmd --access_key $s3accesskey --host $base --host-bucket $bucket get s3://gutenberg/pg-calibre-library.zip
+          s3base: ${{ secrets.ACTION_S3_BASE }}
+          s3bucket: ${{ secrets.ACTION_S3_BUCKET }}
+          s3secretkey: ${{ secrets.ACTION_S3_SECRETKEY }}
+        run: docker run --rm --entrypoint /bin/bash registry.gitlab.com/coreweave/utility-images/s3cmd:v1.2.0 -c "s3cmd --access_key $s3accesskey --host $s3host --host-bucket $s3bucket --secret_key $s3secretkey get s3://gutenberg/pg-calibre-library.zip' 
       
 
       #unzip gutenberg data
