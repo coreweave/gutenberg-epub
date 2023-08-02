@@ -38,10 +38,10 @@ jobs:
       # set s3 var
       - name: S3 set gutenberg
         env:
-          access_key: ${{ secrets.ACTION_S3_ACCESSKEY }}
+          key: ${{ secrets.ACTION_S3_ACCESSKEY }}
           base: ${{ secrets.ACTION_S3_BASE }}
           bucket: ${{ secrets.ACTION_S3_BUCKET }}
-        run: export test="[lfs]\naccess_key = $access_key\nsecret_key = \nhost_base = $base\nhost_bucket = $bucket\ncheck_ssl_certificate = False\ncheck_ssl_hostname = False" && echo $test
+        run: export test="[lfs]\naccess_key = $key \nsecret_key = \nhost_base = $base\nhost_bucket = $bucket\ncheck_ssl_certificate = False\ncheck_ssl_hostname = False" && echo $test
 
       # pull down s3 gutenberg lib
       - name: S3 Download gutenberg
