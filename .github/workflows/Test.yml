@@ -26,7 +26,7 @@ jobs:
 
       # Reads out cpu info
       - name: Install S3cmd
-        run: sudo apt update && sudo apt install -y python3 python3-pip && pip install s3cmd
+        run: sudo apt update && sudo apt install -y python3 python3-pip zip unzip && pip install s3cmd
 
       # check env
       - name: Check env
@@ -47,7 +47,7 @@ jobs:
           s3base: ${{ secrets.ACTION_S3_BASE }}
           s3bucket: ${{ secrets.ACTION_S3_BUCKET }}
           s3secretkey: ${{ secrets.ACTION_S3_SECRETKEY }}
-        run: echo "s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey get s3://gutenberg/pg-calibre-library.zip" && s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey get s3://gutenberg/pg-calibre-library.zip
+        run: s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey get s3://gutenberg/pg-calibre-library.zip
       
 
       #unzip gutenberg data
