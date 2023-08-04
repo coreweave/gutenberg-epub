@@ -46,7 +46,7 @@ jobs:
 
       #zip gutenberg data
       - name: Zip Results
-        run: zip ./Author
+        run: zip -r Author.zip Author
 
       #Upload to S3
       - name: Upload to S3
