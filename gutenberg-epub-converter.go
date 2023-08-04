@@ -15,6 +15,9 @@ import (
 	"time"
 	"unicode"
 	"regexp"
+	"golang.org/x/text/runes"
+	"golang.org/x/text/transform"
+    "golang.org/x/text/unicode/norm"
 
 	termbox "github.com/nsf/termbox-go"
 	"golang.org/x/net/html"
@@ -343,14 +346,15 @@ func ConvertEpubGo(files []fileTrack, inputdir string, outputdir string, config 
 				outputFilePath = outputdir + "/" + seperateFoldersExtension + "/" + outputFileName
 			}
 
-			//Fix for s3 - Remove spaces and replace with underscores, remove hashtags
+			//Fix for s3 - Remove spaces and replace with underscores, replace diacritics with ascii characters
 			reg, _ := regexp.Compile("\\s+")  //compile 
 			outputFilePath = reg.ReplaceAllString(outputFilePath, "_") //remove whitespaces
-			outputFilePath = strings.ReplaceAll(outputFilePath, "#", "")
-			outputFilePath = strings.ReplaceAll(outputFilePath, ")", "")
-			outputFilePath = strings.ReplaceAll(outputFilePath, "(", "")
 			outputFilePath = strings.ReplaceAll(outputFilePath, "‘", "'")
 			outputFilePath = strings.ReplaceAll(outputFilePath, "’", "'")
+			t := transform.Chain(norm.NFD, runes.Remove(runes.In(unicode.Mn)), norm.NFC) //remove diacritics, replace with ascii
+			outputFilePath, _, _ = transform.String(t, outputFilePath)
+			reg, _ = regexp.Compile("[^a-zA-Z0-9-_.':\\/]")  //compile 
+			outputFilePath = reg.ReplaceAllString(outputFilePath, "_") //remove offending characters
 
 			fmt.Printf("Output file path: %s\n", outputFilePath)
 
