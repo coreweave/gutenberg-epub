@@ -1,17 +1,16 @@
-# This is a basic workflow to help you get started with Actions
+# This is a workflow that pulls down the gutenberg library hosted on CW S3,
+# unzips it, parses it over ~1hour, then uploads it again
 
-name: Test Runner
+name: Parse and Upload
 
 # Controls when the workflow will run
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  parse:
+    # Runs on CW large org runner
     runs-on: ${{ fromJSON(inputs.large-runner && '["self-hosted", "Linux", "chunky"]' || '["self-hosted", "Linux"]') }}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -20,58 +19,46 @@ jobs:
       - uses: actions/checkout@v3
 
       # install sudo
-      - name: install sudo
+      - name: Install sudo
         run: apt-get install -y sudo
 
-
-      # Reads out cpu info
-      - name: Install S3cmd
+      # Install other Deps
+      - name: Install Deps
         run: sudo apt update && sudo apt install -y python3 python3-pip zip unzip && pip install s3cmd
 
-      # check env
-      - name: Check env
-        run: ls -la
-
-      # Check if files are there
-      - name: Check env2
-        run: pwd
-
-      # Check env variables
-      - name: Check env3
-        run: printenv | more
 
       # pull down s3 gutenberg lib
-      - name: S3 Download gutenberg
+      - name: S3 Download Gutenberg
         env:
           s3accesskey: ${{ secrets.ACTION_S3_ACCESSKEY }}
           s3base: ${{ secrets.ACTION_S3_BASE }}
           s3bucket: ${{ secrets.ACTION_S3_BUCKET }}
           s3secretkey: ${{ secrets.ACTION_S3_SECRETKEY }}
         run: s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey get s3://gutenberg/pg-calibre-library.zip
-      
 
       #unzip gutenberg data
       - name: Unzip Source
         run: unzip pg-calibre-library.zip
 
-      #check files
-      - name: debug check files
-        run: ls -la
-
       # Run a fast parse to test
       - name: Fast Parse
-        run: ./gutenberg-epub-converter -inputDir ./pg-calibre-library -outputDir ./Author -writeHeader=true -writeMetadata=false -cleanOutput=true -seperateFolders=false -stopEarly=5 -skipCopyRight=true -gutenbergCleaning=true -createSubsets=author
+        run: ./gutenberg-epub-converter -inputDir ./pg-calibre-library -outputDir ./Author -writeHeader=true -writeMetadata=false -cleanOutput=true -seperateFolders=false -stopEarly=0 -skipCopyRight=true -gutenbergCleaning=true -createSubsets=author
 
-      #check files
-      - name: debug check files
-        run: ls -la ./Author
-
-      #test upload
-      - name: test upload
+      #Upload to S3
+      - name: Upload to S3
         env:
           s3accesskey: ${{ secrets.ACTION_S3_ACCESSKEY }}
           s3base: ${{ secrets.ACTION_S3_BASE }}
           s3bucket: ${{ secrets.ACTION_S3_BUCKET }}
           s3secretkey: ${{ secrets.ACTION_S3_SECRETKEY }}
         run: s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey --no-check-hostname --no-check-certificate put ./Author s3://gutenberg --recursive --multipart-chunk-size-mb=50 -H --progress --stats 
-    
+
+      #lists s3cmd files, to check its working
+      - name: Test show S3 files
+        env:
+          s3accesskey: ${{ secrets.ACTION_S3_ACCESSKEY }}
+          s3base: ${{ secrets.ACTION_S3_BASE }}
+          s3bucket: ${{ secrets.ACTION_S3_BUCKET }}
+          s3secretkey: ${{ secrets.ACTION_S3_SECRETKEY }}
+        run: s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey --no-check-hostname --no-check-certificate la
+
