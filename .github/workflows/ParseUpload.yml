@@ -26,6 +26,16 @@ jobs:
       - name: Install Deps
         run: sudo apt update && sudo apt install -y python3 python3-pip zip unzip && pip install s3cmd
 
+      #Download release artifact (the binary)
+      - name: Download Release Artifact
+        uses: actions/download-artifact@v2
+        with:
+          # Replace 'release-binary' with the name of your release artifact.
+          name: binary v2
+
+      # Make the downloaded binary executable (if needed)
+      - name: Make Binary Executable
+        run: chmod +x gutenberg-epub-converter
 
       # pull down s3 gutenberg lib
       - name: S3 Download Gutenberg
