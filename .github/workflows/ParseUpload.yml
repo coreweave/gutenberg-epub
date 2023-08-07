@@ -28,10 +28,10 @@ jobs:
 
       #Download release artifact (the binary)
       - name: Download Release Artifact
-        uses: actions/download-artifact@v2
+        uses: robinraju/release-downloader@v1.8
         with:
-          # Replace 'release-binary' with the name of your release artifact.
-          name: binary v2
+          latest: true
+          fileName: "gutenberg-epub-converter"
 
       # Make the downloaded binary executable (if needed)
       - name: Make Binary Executable
