@@ -7,7 +7,7 @@
 # Step 1: Download the latest release
 echo "Step 1: Downloading the latest release"
 mkdir -p /app
-wget -q https://github.com/coreweave/gutenberg-epub/releases/latest/download/gutenberg-epub -O /app/gutenberg-epub-converter
+curl  https://github.com/coreweave/gutenberg-epub/releases/latest/download/gutenberg-epub -O /app/gutenberg-epub-converter
 chmod +x /app/gutenberg-epub-converter
 
 # Step 2: Download files from S3 using s3cmd
@@ -16,7 +16,7 @@ s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_
 
 # Step 3: Process the files (replace this with your actual processing logic)
 echo "Step 3: Processing files"
-run: ./gutenberg-epub-converter -inputDir ./pg-calibre-library -outputDir ./gutenberg-by-author -writeHeader=true -writeMetadata=false -cleanOutput=true -seperateFolders=false -stopEarly=0 -skipCopyRight=true -gutenbergCleaning=true -createSubsets=author
+./gutenberg-epub-converter -inputDir ./pg-calibre-library -outputDir ./gutenberg-by-author -writeHeader=true -writeMetadata=false -cleanOutput=true -seperateFolders=false -stopEarly=0 -skipCopyRight=true -gutenbergCleaning=true -createSubsets=author
 
 
 # Step 4: Upload results to S3 using s3cmd
