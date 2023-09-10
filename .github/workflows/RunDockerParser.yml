@@ -15,7 +15,10 @@ jobs:
       uses: actions/checkout@v2
 
     - name: example.com docker registry login
-      run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login example.com -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
+      env:
+          ORG_DOCKERHUB_TOKEN: ${{ secrets.ORG_DOCKERHUB_TOKEN }}
+          ORG_DOCKERHUB_USERNAME: ${{ secrets.ORG_DOCKERHUB_USERNAME }}
+      run: echo "$ORG_DOCKERHUB_TOKEN" | docker login -u "$ORG_DOCKERHUB_USERNAME" --password-stdin
 
     - name: Build and Run Docker Container
       env:
