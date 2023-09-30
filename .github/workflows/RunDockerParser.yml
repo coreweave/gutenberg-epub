@@ -26,7 +26,7 @@ jobs:
             s3base: ${{ secrets.ACTION_S3_BASE }}
             s3bucket: ${{ secrets.ACTION_S3_BUCKET }}
             s3secretkey: ${{ secrets.ACTION_S3_SECRETKEY }}
-            gh_token: ${{ ORG_REPO_READ_ONLY }}
+            gh_token: ${{ secrets.ORG_REPO_READ_ONLY }}
       run: |
           docker run --rm -i \
             -e s3accesskey=${{ secrets.ACTION_S3_ACCESSKEY }} \
