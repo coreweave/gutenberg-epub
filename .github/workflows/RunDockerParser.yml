@@ -34,4 +34,4 @@ jobs:
             -e s3bucket=${{ secrets.ACTION_S3_BUCKET }} \
             -e s3secretkey=${{ secrets.ACTION_S3_SECRETKEY }} \
             -e gh_token=${{ secrets.ACTION_S3_SECRETKEY }} \
-            rexwang8/gutenberg:latest
+            rexwang8/gutenberg:uno
