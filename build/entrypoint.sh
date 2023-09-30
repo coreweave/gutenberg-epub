@@ -7,12 +7,14 @@
 # Step 1: Download the latest release
 echo "Step 1: Downloading the latest release"
 mkdir -p /app
-curl  https://github.com/coreweave/gutenberg-epub/releases/latest/download/gutenberg-epub -O /app/gutenberg-epub-converter
-chmod +x /app/gutenberg-epub-converter
+echo $gh_token | gh auth login --with-token
+./bin/gh release download --repo coreweave/gutenberg-epub -p '*'
+chmod +x ./gutenberg-epub-converter
 
 # Step 2: Download files from S3 using s3cmd
 echo "Step 2: Downloading files from S3"
-s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey get s3://gutenberg/pg-calibre-library
+s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey  --no-check-hostname --no-check-certificate la
+s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey  --no-check-hostname --no-check-certificate --recursive get s3://gutenberg/pg-calibre-library/
 
 # Step 3: Process the files (replace this with your actual processing logic)
 echo "Step 3: Processing files"

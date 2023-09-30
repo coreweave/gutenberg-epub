@@ -13,6 +13,9 @@ RUN apt-get update && apt-get install -y \
 # Install s3cmd using pip
 RUN pip3 install s3cmd
 
+#install github cli for use to grab the latest binary release
+RUN apt-get install --assume-yes git gh
+
 # Fetch the latest release from the coreweave/gutenberg-epub repository and download it
 RUN mkdir -p /app && \
     curl https://github.com/coreweave/gutenberg-epub/releases/download/release/gutenberg-epub-converter -o /app/gutenberg-epub && \
