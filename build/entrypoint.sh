@@ -10,6 +10,7 @@ mkdir -p /app
 echo $gh_token | gh auth login --with-token
 ./bin/gh release download --repo coreweave/gutenberg-epub -p '*'
 chmod +x ./gutenberg-epub-converter
+(ls ./gutenberg-epub-converter && echo Binary Exists) || exit 1
 
 # Step 2: Download files from S3 using s3cmd
 echo "Step 2: Downloading files from S3"
