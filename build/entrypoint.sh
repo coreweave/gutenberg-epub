@@ -8,7 +8,8 @@
 echo "Step 1: Downloading the latest release"
 mkdir -p /app
 echo $gh_token | gh auth login --with-token
-./bin/gh release download --repo coreweave/gutenberg-epub -p '*'
+echo "Authenticated. Downloading latest release"
+gh release download --repo coreweave/gutenberg-epub -p '*'
 chmod +x ./gutenberg-epub-converter
 [ ! -f /tmp/foo.txt ] && echo "File not found!"  && exit 1|| echo "File found!"
 
@@ -25,6 +26,7 @@ echo "Step 3: Processing files"
 # Step 4: Upload results to S3 using s3cmd
 echo "Step 4: Uploading results to S3"
 s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey --no-check-hostname --no-check-certificate put ./gutenberg-by-author s3://gutenberg --recursive --multipart-chunk-size-mb=50 -H --progress --stats 
+s3cmd --access_key $s3accesskey --host $s3base --host-bucket $s3bucket --secret_key $s3secretkey  --no-check-hostname --no-check-certificate la
 
 # Step 5: Return a "done" message
 echo "Done: Files processed and results uploaded to S3"
