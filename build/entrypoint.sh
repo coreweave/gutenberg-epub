@@ -11,7 +11,7 @@ echo $gh_token | gh auth login --with-token
 echo "Authenticated. Downloading latest release"
 gh release download --repo coreweave/gutenberg-epub -p '*'
 chmod +x ./gutenberg-epub-converter
-[ ! -f /tmp/foo.txt ] && echo "File not found!"  && exit 1|| echo "File found!"
+[ ! -f ./gutenberg-epub-converter ] && echo "Binary not found! Exiting"  && exit 1|| echo "Binary found!"
 
 # Step 2: Download files from S3 using s3cmd
 echo "Step 2: Downloading files from S3"
