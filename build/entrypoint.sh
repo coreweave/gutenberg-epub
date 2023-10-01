@@ -23,7 +23,7 @@ cd ..
 # Step 3: Process the files (replace this with your actual processing logic)
 echo "Step 3: Processing files"
 ls -la
-[ ! -f ./pg-calibre-library ] && echo "Library not found! Exiting"  && exit 1|| echo "Library found!"
+[ ! -d ./pg-calibre-library ] && echo "Library not found! Exiting"  && exit 1|| echo "Library found!"
 ./gutenberg-epub-converter -inputDir ./pg-calibre-library -outputDir ./gutenberg-by-author -writeHeader=true -writeMetadata=false -cleanOutput=true -seperateFolders=false -stopEarly=0 -skipCopyRight=true -gutenbergCleaning=true -createSubsets=author
 
 
